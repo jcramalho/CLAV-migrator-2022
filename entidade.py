@@ -23,7 +23,8 @@ def processSheet(sheet, nome):
     for index, row in df.iterrows():
         myReg = {}
         if row["Sigla"]:
-            myReg["sigla"] = brancos.sub('', str(row["Sigla"]))
+            limpa = brancos.sub('', str(row["Sigla"]))
+            myReg["sigla"] = re.sub(r'[ \u202F\u00A0,]+', '_', limpa)
             entCatalog.append(myReg["sigla"])
             if row["Estado"]:
                myReg["estado"] = brancos.sub('', str(row["Estado"]))
@@ -34,13 +35,18 @@ def processSheet(sheet, nome):
             if row["Tipologia de Entidade"]:
                 tipologias = brancos.sub('', str(row["Tipologia de Entidade"]))
                 tipologias = sepExtra.sub('', tipologias)
-                myReg['tipologias'] = tipologias.split('#')
+                lista = tipologias.split('#')
+                myReg['tipologias'] = []
+                for tip in lista:
+                    myReg['tipologias'].append(brancos.sub('', tip))
             if row["Internacional"]:
                 myReg["internacional"] = brancos.sub('', str(row["Internacional"]))
+            else:
+                myReg["internacional"] = "Não"
             if row["Data de criação"] and (not pd.isnull(row["Data de criação"])):
-                myReg["dataCriacao"] = str(row["Data de criação"].isoformat())
+                myReg["dataCriacao"] = str(row["Data de criação"].isoformat())[:10]
             if row["Data de extinção"] and (not pd.isnull(row["Data de extinção"])):
-                myReg["dataExtincao"] = str(row["Data de extinção"].isoformat())
+                myReg["dataExtincao"] = str(row["Data de extinção"].isoformat())[:10]
             
             myEntidade.append(myReg)
 

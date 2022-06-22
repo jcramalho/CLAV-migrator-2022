@@ -1,0 +1,3012 @@
+[
+    {
+        "codigo": "100",
+        "nivel": 1,
+        "estado": "A",
+        "titulo": "ORDENAMENTO JURÍDICO E NORMATIVO",
+        "descricao": "Relativo à construção e interpretação das Normas, no sentido lato do termo (com e sem caráter coercivo): elaboração, aprovação e publicitação dos atos de caráter dispositivo e de caráter orientador que regulam as ações e relações entre os diversos atores sociais - da legislação aos regulamentos, regras internas de funcionamento, instruções procedimentais e normas técnicas. Inclui os processos de vinculação do Estado português a convenções internacionais, bem como os avisos relativos à vinculação dos restantes Estados-parte naquelas convenções.",
+        "notasAp": [
+            {
+                "idNota": "nota_100_9349a4e54b32",
+                "nota": "Os atos de caráter dispositivo podem incidir sobre a sociedade portuguesa em geral, sobre determinados setores de atividade, sobre determinadas parcelas do território ou, ainda, sobre organismos ou serviços singulares"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_100_4357da24879d",
+                "nota": "A negociação de convenções internacionais (tratados, acordos) e a participação na elaboração de normas técnicas internacionais, bem como a participação na elaboração de diretivas e de regulamentos comunitários, devem ser consideradas em \\\"Execução da política externa/ Definição de políticas conjuntas e dos instrumentos de regulação\\\" (200.10) - ou seja, na área funcional 100 devem ser considerados apenas os procedimentos de ratificação, transposição e interpretação daquelas disposições comunitárias ou internacionais"
+            }
+        ]
+    },
+    {
+        "codigo": "100.10",
+        "nivel": 2,
+        "estado": "A",
+        "titulo": "Elaboração de diplomas jurídico-normativos e de normas técnicas",
+        "descricao": "Compreende os processos de elaboração/alteração de legislação, de regulamentos e de diretivas políticas ou operacionais portuguesas, independentemente da forma, do assunto ou do tipo de participação no processo. Inclui o depósito dos instrumentos de regulação (por exemplo, instrumentos de gestão territorial) nas entidades competentes. Abrange os diplomas jurídico-normativos da competência dos órgãos de soberania (Presidente da República, Assembleia da República, Governo e Tribunais) ou dos órgãos de poder político (regiões autónomas e autarquias), bem como os atos da Administração que têm caráter normativo. Compreende, igualmente, a elaboração ou colaboração na elaboração de normas técnicas nacionais.",
+        "notasAp": [
+            {
+                "idNota": "nota_100.10_b0b9c0ce151a",
+                "nota": "No que respeita à elaboração de diplomas jurídico-normativos, deve ser sempre considerada nesta área a iniciativa (sob a forma de projeto ou de proposta) e os procedimentos orientados à fixação da respetiva redação final e publicitação oficial, no que se inclui, na generalidade, a verificação jurídica, consulta pública e recolha de pareceres a que a lei obrigue, aprovação, ratificação, promulgação e publicação, sem prejuízo de outros procedimentos próprios da produção de cada norma"
+            },
+            {
+                "idNota": "nota_100.10_66794f28d755",
+                "nota": "Atos legislativos"
+            },
+            {
+                "idNota": "nota_100.10_a4373693795d",
+                "nota": "Atos regulamentares, independentemente da forma ou da competência para a sua emissão"
+            },
+            {
+                "idNota": "nota_100.10_88ff33e05791",
+                "nota": "Qualquer despacho com diretrizes gerais e abstratas"
+            },
+            {
+                "idNota": "nota_100.10_e089618f158c",
+                "nota": "Atos administrativos individuais e abstratos que alterem ou complementem os termos de aplicação de lei ou regulamento vigente"
+            },
+            {
+                "idNota": "nota_100.10_f05e99b78b97",
+                "nota": "Resoluções do Conselho de Ministros, independentemente de se revestirem de natureza regulamentar ou de natureza política"
+            },
+            {
+                "idNota": "nota_100.10_beee5d92a7b8",
+                "nota": "Decretos e outras formas de aprovação/ratificação de convenções internacionais"
+            },
+            {
+                "idNota": "nota_100.10_187c552966d8",
+                "nota": "Decisões dos Tribunais a que a lei confira força obrigatória geral"
+            },
+            {
+                "idNota": "nota_100.10_99f69f37903b",
+                "nota": "No que respeita às normas técnicas, deve ser aqui considerada a elaboração de normas formais emitidas pelo organismo nacional de normalização (NP)"
+            },
+            {
+                "idNota": "nota_100.10_5002ab6fecc6",
+                "nota": "Normas informais ou recomendações técnicas emitidas por organismos de coordenação ou superintendência técnica"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_100.10_1686c990574c",
+                "nota": "Devem ser considerados noutras áreas os procedimentos administrativos autonomizáveis do processo legislativo, bem como os trabalhos técnicos, estudos e relatórios preliminares ou acessórios à elaboração ou atualização dos diplomas jurídico-normativos. Por exemplo:- Trabalhos técnicos de comissões ou outras estruturas envolvidas na definição de políticas, planos e programas devem ser considerados em 150.10 - Definição e avaliação de políticas"
+            },
+            {
+                "idNota": "nota_100.10_fb9b500e46e1",
+                "nota": "- Estudos e trabalhos técnicos orientados à (re)definição de estruturas e/ou funcionamento dos serviços, ou ainda trabalhos preparatórios para a elaboração do Orçamento de Estado, devem ser considerados em 150.20 - Planeamento, avaliação e melhoria de serviços"
+            },
+            {
+                "idNota": "nota_100.10_fa118a78cbe1",
+                "nota": "- Trabalhos técnicos preparatórios de planos de classificação e de tabelas de seleção devem ser considerados em 300.30 - Identificação e caracterização de bens"
+            },
+            {
+                "idNota": "nota_100.10_66305411b99a",
+                "nota": "- Procedimentos administrativos de classificação do património cultural devem ser considerados em 450.20 - Classificação e declaração de interesse ou utilidade pública"
+            },
+            {
+                "idNota": "nota_100.10_c9814e5b894e",
+                "nota": "- Considerar em 200.10 - Definição de políticas conjuntas e de instrumentos de regulação"
+            },
+            {
+                "idNota": "nota_100.10_c783e1d82a77",
+                "nota": " a participação na elaboração de diretivas e de regulamentos comunitários, bem como a participação na elaboração de tratados ou acordos comunitários ou internacionais e, ainda, a participação na elaboração de normas técnicas europeias e internacionais"
+            }
+        ]
+    },
+    {
+        "codigo": "100.10.001",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Produção e comunicação de atos legislativos",
+        "descricao": "Elaboração ou participação na elaboração de atos legislativos conduzidos por iniciativa das autoridades competentes para a definição do regime jurídico aplicável. Inicia com a apresentação de um projeto acompanhado dos documentos que o fundamentam e justificam à entidade com competência para legislar e termina com a respetiva publicação ou publicitação. Inclui verificação jurídica, apreciação, discussão e votação conducentes à elaboração do texto final, aprovação da iniciativa, ratificação pelas entidades competentes e promulgação.",
+        "notasAp": [
+            {
+                "idNota": "nota_100.10.001_234d22fa15e7",
+                "nota": "Iniciativa legislativa por parte de cidadãos"
+            },
+            {
+                "idNota": "nota_100.10.001_9fc2bc8cc893",
+                "nota": "Leis"
+            },
+            {
+                "idNota": "nota_100.10.001_110891c40140",
+                "nota": "Decretos-Lei"
+            },
+            {
+                "idNota": "nota_100.10.001_a0e6262b869a",
+                "nota": "Decretos Legislativos regionais"
+            },
+            {
+                "idNota": "nota_100.10.001_d701f2b27ee9",
+                "nota": "Transposição de diretivas da União Europeia"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_100.10.001_dab3b9c1fe5e",
+                "exemplo": "Código da Estrada"
+            },
+            {
+                "idExemplo": "exemplo_100.10.001_f6acb31fcb56",
+                "exemplo": "Código Civil"
+            },
+            {
+                "idExemplo": "exemplo_100.10.001_5784c029194b",
+                "exemplo": "Regime de acesso à informação administrativa e ambiental e de reutilização dos documentos administrativos"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_100.10.001_25221d93419e",
+                "nota": "Os procedimentos administrativos, trabalhos preparatórios ou elaboração de estudos preliminares, por exemplo quando a regulamentação seja necessária para dar forma legal a instrumentos de planeamento, devem ser considerados em 150.10 - Planeamento e gestão estratégica / Definição e avaliação de políticas"
+            },
+            {
+                "idNota": "nota_100.10.001_4c589ac161ba",
+                "nota": "O impulso legiferante, quando reveste a forma de petição pública sem apresentação de projeto de lei, deve ser considerado em 950.20.001 – Processamento de petições, reclamações e sugestões"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AR",
+            "ALRAA",
+            "ALRAM",
+            "Gov"
+        ],
+        "participantes": [
+            {
+                "id": "AL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "JurisAPP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGPCM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "AP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "PR",
+                "interv": "Decidir"
+            },
+            {
+                "id": "INCM",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IMT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "II",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ASAE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGC",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGME",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "Lei_Constitucional_1_2005",
+            "Resolução_do_Conselho_de_Ministros_51_2013",
+            "Resolução_do_Conselho_de_Ministros_23_2016",
+            "Lei_43_2014",
+            "Lei_4_98"
+        ],
+        "processosRelacionados": [
+            "100.10.200",
+            "100.10.400",
+            "100.10.600",
+            "100.20.001",
+            "100.20.200",
+            "150.10.001",
+            "150.10.100",
+            "150.20.202",
+            "150.20.404",
+            "150.20.501",
+            "900.20.201",
+            "150.10.700"
+        ],
+        "proRel": [
+            "eComplementarDe",
+            "eComplementarDe",
+            "eComplementarDe",
+            "eComplementarDe",
+            "eComplementarDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c100.10.001_0",
+                    "tipo": "gestionário",
+                    "conteudo": "Prazo para imputação de responsabilidade pela gestão estratégica, decorrente de escrutínio público (eleições).Considerou-se para a definição do prazo o tempo do mandato de maior duração: 5 anos (Presidente da República)."
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c100.10.001_0",
+                    "tipo": "complementaridade",
+                    "conteudo": "É complementar dosPN 100.10.200 - Produção e comunicação de atos regulamentares gerais;PN 100.10.400 - Produção e comunicação de atos regulamentares locais;PN 100.10.600 - Produção e comunicação de regras institucionais;PN 100.20.001 - Produção de pareceres técnico-jurídicos de interpretação de diplomas jurídico-normativos;PN 100.20.200 - Produção e comunicação de instruções para aplicação de diplomas jurídico-normativos.",
+                    "procRefs": [
+                        "100.10.200",
+                        "100.10.400",
+                        "100.10.600",
+                        "100.20.001",
+                        "100.20.200"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "100.10.002",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Aprovação e comunicação de convenções internacionais",
+        "descricao": "Manifestação do consentimento à vinculação nacional de convenções (tratados e acordos) internacionais, entrando no ordenamento jurídico português. Inicia com a necessidade ou vontade de vinculação e termina com a publicação. Inclui parecer do MNE antes da ratificação, aprovação parlamentar ou governamental, através de resolução ou decreto, respetivamente, a vinculação internacional mediante assinatura ou ratificação presidencial e a comunicação dos avisos de depósito de instrumento de vinculação ou outros respeitantes às convenções. ",
+        "notasAp": [
+            {
+                "idNota": "nota_100.10.002_f2059cea1e67",
+                "nota": "Aprovação, ratificação e publicação de convenções internacionais"
+            },
+            {
+                "idNota": "nota_100.10.002_0fae3e28386b",
+                "nota": "Avisos respeitantes às convenções internacionais e relativos a outros Estados contratantes"
+            },
+            {
+                "idNota": "nota_100.10.002_df60990b863b",
+                "nota": "Depósito de diploma em entidade designada para efeitos da vinculação do Estado português e dos seus termos"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_100.10.002_3f102daa914f",
+                "nota": "Os trabalhos relativos à celebração das convenções internacionais (preparação, compromisso entre as partes, assinatura) devem ser considerados em 200.10.800 – Celebração de acordos e outros atos internacionais"
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "AR",
+            "Gov"
+        ],
+        "participantes": [
+            {
+                "id": "SGPCM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "PR",
+                "interv": "Decidir"
+            },
+            {
+                "id": "INCM",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IMT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGC",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGS",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "Lei_Constitucional_1_2005",
+            "Resolução_do_Conselho_de_Ministros_51_2013",
+            "Resolução_do_Conselho_de_Ministros_23_2016",
+            "Lei_43_2014",
+            "Lei_4_98"
+        ],
+        "processosRelacionados": [
+            "150.10.100",
+            "150.10.700",
+            "200.10.100",
+            "200.10.600",
+            "200.10.800",
+            "550.30.601",
+            "900.20.201"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eComplementarDe",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c100.10.002_0",
+                    "tipo": "gestionário",
+                    "conteudo": "Prazo para imputação de responsabilidade pela gestão estratégica, decorrente de escrutínio público (eleições).Considerou-se para a definição do prazo o tempo do mandato de maior duração: 5 anos (Presidente da República)."
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c100.10.002_0",
+                    "tipo": "densidade",
+                    "conteudo": "O processo de aprovação não é recuperável noutro PN.O texto final é publicitado no Diário da República."
+                },
+                {
+                    "critCodigo": "just_df_c100.10.002_1",
+                    "tipo": "complementaridade",
+                    "conteudo": "É complementar de:PN 200.10.600 - Preparação e implementação de políticas e atos da União Europeia.",
+                    "procRefs": [
+                        "200.10.600"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "100.10.003",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Comunicação de decisões dos tribunais a que a lei confira força obrigatória geral",
+        "descricao": "Declaração de inconstitucionalidade ou outras decisões de Tribunais, a que a lei confira força obrigatória geral. Inicia com o envio aos órgãos competentes e termina com a publicação. ",
+        "notasAp": [
+            {
+                "idNota": "nota_100.10.003_2fd8c7ac6585",
+                "nota": "Declaração de inconstitucionalidade ou de ilegalidade com força obrigatória geral pelo Tribunal Constitucional"
+            },
+            {
+                "idNota": "nota_100.10.003_2d18d7bfbba1",
+                "nota": "Declaração de ilegalidade com força obrigatória geral de normas regulamentares pelos Tribunais Administrativos"
+            },
+            {
+                "idNota": "nota_100.10.003_d3e156387844",
+                "nota": "Declarações do Tribunal de Contas que se dirijam a um número indeterminado ou indeterminável de serviços, organismos ou pessoas singulares, exteriores ao mesmo Tribunal, impondo regras de observância vinculativa"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_100.10.003_0d4ba356f989",
+                "nota": "O processo de fiscalização (prévia ou sucessiva) da constitucionalidade da norma, incluindo a audição do autor da norma para pronúncia, deve ser considerado em “Administração da justiça/ Produção de prova e decisão judiciária” (600.30)"
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "TC",
+            "TContas",
+            "STA",
+            "STJ"
+        ],
+        "participantes": [
+            {
+                "id": "AL",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "AP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "INCM",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ASAE",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "SGME",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "Lei_Constitucional_1_2005",
+            "Lei_2_2012"
+        ],
+        "processosRelacionados": [
+            "600.30.701",
+            "600.30.702",
+            "600.30.703",
+            "600.30.712",
+            "900.20.201"
+        ],
+        "proRel": [
+            "eSinteseDe",
+            "eSinteseDe",
+            "eSinteseDe",
+            "eSinteseDe",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c100.10.003_0",
+                    "tipo": "gestionário",
+                    "conteudo": "Prazo para imputação de responsabilidade pela gestão estratégica, decorrente de escrutínio público (eleições).Considerou-se para a definição do prazo o tempo do mandato de maior duração: 5 anos."
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c100.10.003_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutro PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "100.10.200",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Produção e comunicação de atos regulamentares gerais",
+        "descricao": "Elaboração e formalização de regulamentos gerais, que se destinam a vigorar em todo o território nacional, em todo o território do continente ou em todo o território de uma região autónoma. Inicia com a apresentação do projeto de regulamentação da lei, de criação de regulamento independente ou autónomo destinado à boa execução das leis, ou de alteração de regulamentos existentes e termina com a aprovação final ou ratificação pelos órgãos competentes e consequente publicitação. Inclui verificação jurídica e apreciação.",
+        "notasAp": [
+            {
+                "idNota": "nota_100.10.200_e14de53bd3cb",
+                "nota": "Atos regulamentares da competência do governo, mesmo quando tenham por objeto uma área geográfica determinada"
+            },
+            {
+                "idNota": "nota_100.10.200_238a264830d1",
+                "nota": "Decretos regulamentares"
+            },
+            {
+                "idNota": "nota_100.10.200_4150eafeeab4",
+                "nota": "Decretos regulamentares regionais"
+            },
+            {
+                "idNota": "nota_100.10.200_ff8e4598eded",
+                "nota": "Portarias"
+            },
+            {
+                "idNota": "nota_100.10.200_8b07d5c498de",
+                "nota": "Resoluções do Conselho de Ministros"
+            },
+            {
+                "idNota": "nota_100.10.200_3b8d176872b6",
+                "nota": "Despachos normativos"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_100.10.200_bf8660a45e05",
+                "exemplo": "Decreto Regulamentar que aprova o Plano da Bacia Hidrográfica do Guadiana"
+            },
+            {
+                "idExemplo": "exemplo_100.10.200_2e467fa45c62",
+                "exemplo": "Decreto Regulamentar que classifica como monumento natural as Portas de Rodão"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_100.10.200_fcd0d47378cb",
+                "nota": "Os regulamentos municipais de aplicação à respetiva circunscrição territorial deverão ser considerados em 100.10.400 – Produção e comunicação de atos regulamentares locais"
+            },
+            {
+                "idNota": "nota_100.10.200_1f9808468857",
+                "nota": "Os regulamentos de funcionamento dos serviços devem ser considerados em 100.10.600 – Produção e comunicação de regras institucionais"
+            },
+            {
+                "idNota": "nota_100.10.200_266261198bd5",
+                "nota": "Os procedimentos administrativos, trabalhos preparatórios ou elaboração de estudos preliminares, por exemplo quando a regulamentação seja necessária para dar forma legal a instrumentos de planeamento, devem ser considerados em “Planeamento e gestão estratégica/Definição e avaliação de políticas” (150.10)"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "Gov",
+            "GovReg-A",
+            "GovReg-M"
+        ],
+        "participantes": [
+            {
+                "id": "JurisAPP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGPCM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "AP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INCM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INFARMED",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "AL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "II",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ASAE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGC",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGME",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "Lei_Constitucional_1_2005",
+            "Resolução_do_Conselho_de_Ministros_51_2013",
+            "Resolução_do_Conselho_de_Ministros_23_2016",
+            "Lei_43_2014",
+            "Lei_4_98"
+        ],
+        "processosRelacionados": [
+            "100.10.001",
+            "100.10.400",
+            "100.10.600",
+            "100.20.001",
+            "100.20.200",
+            "150.10.001",
+            "150.10.100",
+            "150.10.200",
+            "150.10.600",
+            "150.10.700",
+            "900.20.201",
+            "250.30.001"
+        ],
+        "proRel": [
+            "eComplementarDe",
+            "eComplementarDe",
+            "eComplementarDe",
+            "eComplementarDe",
+            "eComplementarDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eComplementarDe",
+            "eComplementarDe",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eComplementarDe"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c100.10.200_0",
+                    "tipo": "gestionário",
+                    "conteudo": "Prazo para imputação de responsabilidade pela gestão estratégica, decorrente de escrutínio público (eleições).Considerou-se para a definição do prazo o tempo do mandato de maior duração: 5 anos."
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c100.10.200_0",
+                    "tipo": "complementaridade",
+                    "conteudo": "É complementar de:PN 100.10.001 - Produção e comunicação de atos legislativos;PN 100.10.400 - Produção e comunicação de atos regulamentares locais;PN 100.10.600 - Produção e comunicação de regras institucionais;PN 100.20.001 - Produção de pareceres técnico-jurídicos de interpretação de diplomas jurídico-normativos;PN 100.20.200 - Produção e comunicação de instruções para aplicação de diplomas jurídico-normativos;PN 150.10.200 - Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional;PN 150.10.600 – Avaliação de políticas e instrumentos de operacionalização;PN 250.30.001 - Negociação de convenções coletivas de trabalho.O texto final é publicitado no Diário da República.",
+                    "procRefs": [
+                        "100.10.001",
+                        "100.10.400",
+                        "100.10.600",
+                        "100.20.001",
+                        "100.20.200",
+                        "150.10.200",
+                        "150.10.600",
+                        "250.30.001"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "100.10.400",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Produção e comunicação de atos regulamentares locais",
+        "descricao": "Elaboração e formalização de atos regulamentares que têm o seu domínio de aplicação limitado ao território sob a jurisdição de uma autarquia local. Inicia com a apresentação do projeto de regulamento ou de atualização de regulamento e termina com a aprovação pelos órgãos territorialmente competentes, eventual ratificação, e consequente publicitação. Inclui verificação jurídica e apreciação. ",
+        "notasAp": [
+            {
+                "idNota": "nota_100.10.400_865ffaa045c7",
+                "nota": "Atos regulamentares da competência dos órgãos autárquicos, mesmo quando necessitam de ratificação do Governo"
+            },
+            {
+                "idNota": "nota_100.10.400_4bc2bc490ca8",
+                "nota": "Depósito do diploma em entidade designada"
+            },
+            {
+                "idNota": "nota_100.10.400_8e0de19c3e7f",
+                "nota": "Posturas e regulamentos municipais que não tenham incidência sobre o funcionamento dos serviços dependentes da autarquia"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_100.10.400_05b68cd7464c",
+                "exemplo": "Plano Diretor Municipal"
+            },
+            {
+                "idExemplo": "exemplo_100.10.400_f37b8f97bb01",
+                "exemplo": "Regulamento Municipal de Toponímia e Numeração de Polícia"
+            },
+            {
+                "idExemplo": "exemplo_100.10.400_df9dbc00d618",
+                "exemplo": "Regulamento de Horários de Funcionamento dos Estabelecimentos Comerciais na área do Município"
+            },
+            {
+                "idExemplo": "exemplo_100.10.400_e8b624e61aae",
+                "exemplo": "Regulamento Municipal de Publicidade"
+            },
+            {
+                "idExemplo": "exemplo_100.10.400_03cb1d4bbc8a",
+                "exemplo": "Plano de Circulação do Município"
+            },
+            {
+                "idExemplo": "exemplo_100.10.400_8f0e587c950e",
+                "exemplo": "Nomeação por deliberação da assembleia municipal dos conselhos municipais"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_100.10.400_1c2de9bb5024",
+                "nota": "Os regulamentos de funcionamento dos serviços devem ser considerados em 100.10.600 – Produção e comunicação de regras institucionais"
+            },
+            {
+                "idNota": "nota_100.10.400_fa1b5a689409",
+                "nota": "Os procedimentos administrativos, trabalhos preparatórios ou elaboração de estudos preliminares, por exemplo quando a regulamentação seja necessária para dar forma legal a instrumentos de planeamento, devem ser considerados em “Planeamento e gestão estratégica /Definição e avaliação de políticas” (150.10)"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "CCDR"
+        ],
+        "participantes": [
+            {
+                "id": "JurisAPP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGPCM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INCM",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "Lei_169_99",
+            "DL_442_91"
+        ],
+        "processosRelacionados": [
+            "100.10.001",
+            "100.10.200",
+            "100.10.600",
+            "100.20.001",
+            "100.20.200",
+            "150.10.400",
+            "150.10.700",
+            "150.10.701",
+            "900.20.201"
+        ],
+        "proRel": [
+            "eComplementarDe",
+            "eComplementarDe",
+            "eComplementarDe",
+            "eComplementarDe",
+            "eComplementarDe",
+            "eComplementarDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c100.10.400_0",
+                    "tipo": "gestionário",
+                    "conteudo": "Prazo para imputação de responsabilidade pela gestão estratégica, decorrente de escrutínio público (eleições).Considerou-se para a definição do prazo o tempo do mandato de maior duração: 5 anos."
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c100.10.400_0",
+                    "tipo": "complementaridade",
+                    "conteudo": "É complementar dosPN 100.10.001 - Produção e comunicação de atos legislativos;PN 100.10.200 - Produção e comunicação de atos regulamentares gerais;PN 100.10.600 - Produção e comunicação de regras institucionais;PN 100.20.001 - Produção de pareceres técnico-jurídicos de interpretação de diplomas jurídico-normativos;PN 100.20.200 - Produção e comunicação de instruções para aplicação de diplomas jurídico-normativos;PN 150.10.400 - Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito municipal e intermunicipal.O texto final é publicitado no Diário da República.",
+                    "procRefs": [
+                        "100.10.001",
+                        "100.10.200",
+                        "100.10.600",
+                        "100.20.001",
+                        "100.20.200",
+                        "150.10.400"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "100.10.600",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Produção e comunicação de regras institucionais",
+        "descricao": "Elaboração e formalização de atos regrantes do funcionamento de uma instituição. Inicia com a apresentação do projeto de regra, quando houver lugar ao mesmo, e termina com a sua publicitação ou comunicação direta aos visados. Inclui verificação jurídica e apreciação. ",
+        "notasAp": [
+            {
+                "idNota": "nota_100.10.600_38bd6cde2b32",
+                "nota": "Atos administrativos individuais que alteram os termos de aplicação de lei ou regulamento vigente"
+            },
+            {
+                "idNota": "nota_100.10.600_8a20fe7c80df",
+                "nota": "Atos regulamentares relativos ao funcionamento de uma instituição, independentemente de ser da competência da própria instituição ou de membro(s) do Governo"
+            },
+            {
+                "idNota": "nota_100.10.600_82edb5fd252e",
+                "nota": "Regulamentos"
+            },
+            {
+                "idNota": "nota_100.10.600_e4fdcb964aae",
+                "nota": "Despachos"
+            },
+            {
+                "idNota": "nota_100.10.600_766fef62f2e2",
+                "nota": "Ordens de serviço"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_100.10.600_d91ebc13f080",
+                "exemplo": "Despacho de delegação de competências"
+            },
+            {
+                "idExemplo": "exemplo_100.10.600_a5e7e587067f",
+                "exemplo": "Regimentos da Assembleia da República, do Conselho de Estado e das Assembleias Legislativas das Regiões Autónomas"
+            },
+            {
+                "idExemplo": "exemplo_100.10.600_d6c62dfd3e2c",
+                "exemplo": "Regimentos de órgãos colegiais"
+            },
+            {
+                "idExemplo": "exemplo_100.10.600_7076c9e5b7fd",
+                "exemplo": "Regulamento municipal da Biblioteca"
+            },
+            {
+                "idExemplo": "exemplo_100.10.600_6e7fae334b25",
+                "exemplo": "Regulamento de taxas municipais"
+            },
+            {
+                "idExemplo": "exemplo_100.10.600_649d427f4780",
+                "exemplo": "Diplomas que regulamentam a lei orgânica (Estatutos, Decreto Regulamentar, portaria ou despacho de organização dos serviços)"
+            },
+            {
+                "idExemplo": "exemplo_100.10.600_1e2e361fd67d",
+                "exemplo": "Regulamentos de horário de funcionamento"
+            },
+            {
+                "idExemplo": "exemplo_100.10.600_c1a07233a6c3",
+                "exemplo": "Regulamentos relativos a relações de trabalho: horários de trabalho, contratação de docentes convidados, procedimentos concursais, avaliação de docentes, acumulação de funções"
+            },
+            {
+                "idExemplo": "exemplo_100.10.600_ab38c30093a8",
+                "exemplo": "Regulamentos relativos a serviços"
+            },
+            {
+                "idExemplo": "exemplo_100.10.600_5304e9d6bd42",
+                "exemplo": "Regulamentos relativos à área académica: acesso e ingresso no ensino superior, avaliação de conhecimentos e aproveitamento, faltas, vigilância de provas, estatutos especiais, emolumentos, propinas, estágio, creditação, estudante internacional"
+            },
+            {
+                "idExemplo": "exemplo_100.10.600_eae69c0c6f27",
+                "exemplo": "Regulamentos relativos a concursos/prémios"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_100.10.600_dd7d341f4f1a",
+                "nota": "A preparação das regras e orientações internas deve ser consideradas em 150.20.001 - Preparação de regras e orientações internas"
+            },
+            {
+                "idNota": "nota_100.10.600_1d3b78fbcdeb",
+                "nota": "Os projetos de reengenharia de processos, simplificação de procedimentos, ou melhoria no funcionamento dos serviços, devem ser considerados em 150.20.500 – Análise e melhoria de processos ou 150.20.501 - Análise e melhoria de serviços"
+            },
+            {
+                "idNota": "nota_100.10.600_907838466349",
+                "nota": "As nomeações devem ser consideradas em 250.10.400 – Nomeação para comando, direção ou chefia, ou 250.10.401 – Nomeação para postos de trabalho (exemplos: nomeação de embaixadores, chefe de estado das forças armadas, diretores-gerais, diretores de serviço, trabalhadores, funcionários públicos)"
+            },
+            {
+                "idNota": "nota_100.10.600_2e2bb6fd6d62",
+                "nota": "Os trabalhos preparatórios ou estudos preliminares quando integram processo específico, como por exemplo os desenvolvidos no âmbito da definição do sistema de qualidade"
+            },
+            {
+                "idNota": "nota_100.10.600_9e562fe51429",
+                "nota": "Os avisos que não incidem sobre a publicitação das regras de funcionamento devem ser considerados na área correspondente, por exemplo, um aviso para abertura de concurso de pessoal deve ser considerado no respetivo processo em “Administração das relações de trabalho/ Estabelecimento e cessação de relações de trabalho” (250.10)"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "Grupo_IP",
+            "INFARMED",
+            "CP",
+            "CCDR",
+            "IMT",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IES",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "ICNF",
+            "IGAMAOT",
+            "DGRM",
+            "DGPM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "ASAE",
+            "DGAE",
+            "DGC",
+            "GEE",
+            "SGME",
+            "CV",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Decidir"
+            },
+            {
+                "id": "AL",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "INFARMED",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IMT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "II",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "INR",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ASAE",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGAE",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGC",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "GEE",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "SGME",
+                "interv": "Apreciar"
+            }
+        ],
+        "legislacao": [
+            "Lei_Constitucional_1_2005",
+            "DL_4_2015",
+            "DL_5_2012",
+            "Lei_62_2007"
+        ],
+        "processosRelacionados": [
+            "100.10.001",
+            "100.10.200",
+            "100.10.400",
+            "100.20.001",
+            "150.10.700",
+            "150.10.701",
+            "150.20.001",
+            "150.20.500",
+            "150.20.501",
+            "250.30.001",
+            "900.20.201",
+            "150.20.404"
+        ],
+        "proRel": [
+            "eComplementarDe",
+            "eComplementarDe",
+            "eComplementarDe",
+            "eComplementarDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSinteseDe",
+            "eSinteseDe",
+            "eComplementarDe",
+            "eComplementarDe",
+            "eAntecessorDe",
+            "eComplementarDe"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c100.10.600_0",
+                    "tipo": "gestionário",
+                    "conteudo": "Prazo para imputação de responsabilidade pela gestão estratégica, decorrente de escrutínio público (eleições).Considerou-se para a definição do prazo o tempo do mandato de maior duração: 5 anos."
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c100.10.600_0",
+                    "tipo": "complementaridade",
+                    "conteudo": "É complementar dosPN 100.10.001 - Produção e comunicação de atos legislativos;PN 100.10.200 - Produção e comunicação de atos regulamentares gerais;PN 100.10.400 - Produção e comunicação de atos regulamentares locais;PN 100.20.001 - Produção de pareceres técnico-jurídicos de interpretação de diplomas jurídico-normativos;PN 100.20.200 – Produção e comunicação de instruções para aplicação de diplomas jurídico-normativos;PN 150.20.501 - Análise e melhoria de serviços;PN 250.30.001 - Negociação de convenções coletivas de trabalho.PN 150.20.404 – Prestação de contas.O texto final é publicitado.",
+                    "procRefs": [
+                        "100.10.001",
+                        "100.10.200",
+                        "100.10.400",
+                        "100.20.001",
+                        "100.20.200",
+                        "150.20.501",
+                        "250.30.001",
+                        "150.20.404"
+                    ]
+                },
+                {
+                    "critCodigo": "just_df_c100.10.600_1",
+                    "tipo": "densidade",
+                    "conteudo": "Sintetiza a informação dosPN 150.20.001 - Preparação de regras e orientações internas;PN 150.20.500 - Análise e melhoria de processos.",
+                    "procRefs": [
+                        "150.20.001",
+                        "150.20.500"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "100.10.800",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Produção e comunicação de normas técnicas",
+        "descricao": "Elaboração (formalização e estabelecimento de prescrições) de disposições destinadas à utilização comum e repetida, visando a obtenção de normas técnicas, ações e procedimentos normalizados num dado contexto, podendo revestir a forma de norma padrão (standard), isto é norma técnica que foi adotada \"de facto\", sem necessariamente ter havido uma ratificação formal, ou de norma produzida por um órgão oficialmente acreditado para tal (norma \"de jure\"). Inicia com a identificação da necessidade (da norma técnica) do documento normativo e termina com o envio para publicação e publicitação. Inclui elaboração de pareceres técnicos especializados na área, redação dos documentos, traduções técnicas e elaboração de projetos de documentos normativos, com consulta nacional e europeia incluindo consulta às entidades reguladoras, análise dos contributos recebidos, elaboração/redação final do documento normativo.",
+        "notasAp": [
+            {
+                "idNota": "nota_100.10.800_20c03e1e8f69",
+                "nota": "Documentos normativos, editados pelo Organismo Nacional de Normalização"
+            },
+            {
+                "idNota": "nota_100.10.800_2dd50aee8608",
+                "nota": "Documentos normativos, editados por Organismos Europeus ou Internacionais de Normalização"
+            },
+            {
+                "idNota": "nota_100.10.800_d9086c74aca9",
+                "nota": "Documentos normativos elaborados por Organismos de Normalização Setorial"
+            },
+            {
+                "idNota": "nota_100.10.800_2d2be68dc092",
+                "nota": "Documentos normativos elaborados por Organismos Gestores de Comissão Técnica e por Comissões Técnicas (Qualificados pelo IPQ)"
+            },
+            {
+                "idNota": "nota_100.10.800_4868e3de99e2",
+                "nota": "Normas técnicas de iniciativa institucional"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_100.10.800_d2fa99dd70d2",
+                "exemplo": "Normas STANAG"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "IPQ",
+            "AP",
+            "Grupo_IP",
+            "IMT",
+            "INFARMED",
+            "CP",
+            "IMT",
+            "ICNF",
+            "IGAMAOT",
+            "DGRM",
+            "DGPM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "ASAE",
+            "DGAE",
+            "DGC",
+            "SGME",
+            "CV",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "AL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "AP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ONS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "Grupo_IP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INFARMED",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IMT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "II",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ASAE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGC",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CV",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "DL_71_2012",
+            "Portaria_23_2013",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "100.20.400",
+            "150.10.700",
+            "150.10.701",
+            "900.20.201"
+        ],
+        "proRel": [
+            "eComplementarDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c100.10.800_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.Os intervenientes na elaboração da norma podem ser objeto de sanções, caso este apresente incorreções que ponham em causa a sua boa aplicação.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c100.10.800_0",
+                    "tipo": "complementaridade",
+                    "conteudo": "É complementar doPN 100.20.400 - Produção de orientações e pareceres para a interpretação da norma técnica.O texto final é publicitado.",
+                    "procRefs": [
+                        "100.20.400"
+                    ]
+                }
+            ]
+        },
+        "Notas": "o IPQ é dono dos PN relativos a Documentos normativos de carater global.\nA AP é dona dos documentos normativos de iniciativa institucional."
+    },
+    {
+        "codigo": "100.20",
+        "nivel": 2,
+        "estado": "A",
+        "titulo": "Interpretação da legislação e das normas",
+        "descricao": "Compreende os processos de assessoria/consulta jurídico-normativa e técnico-normativa, solicitada ou prestada por serviços próprios ou externos à Administração, quando não integrados em processos específicos de que sejam parte indissociável. Compreende, igualmente, os acórdãos de uniformização de jurisprudência emitidos pelos tribunais.",
+        "notasEx": [
+            {
+                "idNota": "nota_100.20_d4fa816fc132",
+                "nota": "Os pareceres, obrigatórios ou facultativos, que fundamentem a evolução de um qualquer caso/processo devem ser considerados no processo a que respeitam (por exemplo, processos de elaboração de diplomas legais, processos de auditoria, processos judiciais)"
+            }
+        ]
+    },
+    {
+        "codigo": "100.20.001",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Produção de pareceres técnico-jurídicos de interpretação de diplomas jurídico-normativos",
+        "descricao": "Elaboração de parecer de interpretação de diplomas jurídico-normativos de forma abstrata e geral, podendo ser válida para a decisão de casos concretos. Inicia com o pedido e termina com a entrega do parecer técnico-jurídico. Inclui trabalhos de consulta de elementos e fundamentação do parecer.",
+        "notasAp": [
+            {
+                "idNota": "nota_100.20.001_0cce8bf29ba4",
+                "nota": "Produção de pareceres emitidos pelas entidades reguladoras para esclarecimento do sentido da lei"
+            },
+            {
+                "idNota": "nota_100.20.001_51806a96c3a4",
+                "nota": "Emissão de informações vinculativas"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_100.20.001_e3f2eff9beb0",
+                "nota": "Os pareceres elaborados no âmbito de processos específicos relativos ao apoio à decisão individual e concreta devem ser considerados nos respetivos processos"
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "INFARMED",
+            "CP",
+            "CCDR",
+            "IMT",
+            "AL",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "ICNF",
+            "IGAMAOT",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "ASAE",
+            "SGME",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "AL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "AP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INFARMED",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IMT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "II",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ASAE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGC",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GEE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "SGME",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "DL_47344_66",
+            "DL_433_99",
+            "DL_398_98",
+            "Lei_30_2017",
+            "Portaria_972_2009",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "100.10.001",
+            "100.10.200",
+            "100.10.400"
+        ],
+        "proRel": [
+            "eComplementarDe",
+            "eComplementarDe",
+            "eComplementarDe"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c100.20.001_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.Os intervenientes na elaboração do parecer podem ser objeto de sanções, caso este apresente incorreções que ponham em causa a boa aplicação da norma.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c100.20.001_0",
+                    "tipo": "complementaridade",
+                    "conteudo": "É complementar do PN 100.10 que visa esclarecer:PN 100.10.001 - Produção e comunicação de atos legislativos;PN 100.10.200 - Produção e comunicação de atos regulamentares gerais;PN 100.10.400 - Produção e comunicação de atos regulamentares locais;PN 100.10.600 – Produção e comunicação de regras institucionais.",
+                    "procRefs": [
+                        "100.10.001",
+                        "100.10.200",
+                        "100.10.400",
+                        "100.10.600"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "100.20.200",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Produção e comunicação de instruções para aplicação de diplomas jurídico-normativos",
+        "descricao": "Elaboração e divulgação de instruções gerais, emitidas por entidades de coordenação setorial acerca do sentido como devem ser entendidas determinadas normas ou princípios jurídicos, que a essas entidades cabe interpretar ou integrar. Inicia com a identificação da necessidade de emissão de instruções para aplicação de normas e termina com a comunicação aos órgãos e agentes responsáveis pela aplicação das instruções. Inclui, quando devido, elaboração de diversos esquemas sintetizadores para mais fácil apreensão das regras instituídas e elaboração de orientações práticas para a aplicação da regra.",
+        "notasAp": [
+            {
+                "idNota": "nota_100.20.200_be45bbe52768",
+                "nota": "Circulares interpretativas"
+            },
+            {
+                "idNota": "nota_100.20.200_e0c5279fdbb4",
+                "nota": "Instruções administrativas emanadas das entidades competentes"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_100.20.200_64b40e93ce5e",
+                "exemplo": "Pauta de serviço (Pauta Aduaneira)"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_100.20.200_8f6e6f8cc0f0",
+                "nota": "Devem ser excluídos pareceres efetuados pelos serviços ou solicitados a entidades externas sobre a aplicação genérica da norma jurídica e pedidos de interpretação de casos concretos, os quais devem ser considerados no âmbito dos processos específicos a que dizem respeito"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "AP",
+            "INFARMED",
+            "CP",
+            "IMT",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "ICNF",
+            "IGAMAOT",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "ASAE",
+            "SGME",
+            "CV",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "AL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IMT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "II",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ASAE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGC",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGME",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CV",
+                "interv": "Assessorar"
+            }
+        ],
+        "processosRelacionados": [
+            "100.10.001",
+            "100.10.200",
+            "100.10.400",
+            "100.10.600"
+        ],
+        "proRel": [
+            "eComplementarDe",
+            "eComplementarDe",
+            "eComplementarDe",
+            "eComplementarDe"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c100.20.200_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.Os intervenientes na elaboração do parecer podem ser objeto de sanções, caso este apresente incorreções que ponham em causa a boa aplicação da norma.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c100.20.200_0",
+                    "tipo": "complementaridade",
+                    "conteudo": "É complementar do PN 100.10 que visa esclarecer:PN 100.10.001 - Produção e comunicação de atos legislativos;PN 100.10.200 - Produção e comunicação de atos regulamentares gerais;PN 100.10.400 - Produção e comunicação de atos regulamentares locais;PN 100.10.600 – Produção e comunicação de regras institucionais.",
+                    "procRefs": [
+                        "100.10.001",
+                        "100.10.200",
+                        "100.10.400",
+                        "100.10.600"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "100.20.400",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Produção de orientações e pareceres para a interpretação da norma técnica",
+        "descricao": "Elaboração e comunicação de orientações para a explicitação dos conteúdos das normas técnicas. Inicia com a necessidade ou vontade de emitir uma interpretação da norma e termina com a entrega da orientação. Inclui consulta de elementos e fundamentação do proposto.",
+        "notasAp": [
+            {
+                "idNota": "nota_100.20.400_9660cb590c4b",
+                "nota": "Produção de pareceres técnicos de interpretação da norma"
+            },
+            {
+                "idNota": "nota_100.20.400_f9a1f8568544",
+                "nota": "Prestação de informações sobre instrumentos de regulamentação coletiva de trabalho aplicáveis aos diversos setores e entidades empregadoras"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_100.20.400_a41c4436da68",
+                "exemplo": "Produção de FAQ’s (Frequently Asked Questions)"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "AP",
+            "INFARMED",
+            "CP",
+            "CCDR",
+            "IMT",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "ICNF",
+            "IGAMAOT",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "ASAE",
+            "DGAE",
+            "DGC",
+            "SGME",
+            "CV"
+        ],
+        "participantes": [
+            {
+                "id": "AL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "AP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INFARMED",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IMT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "II",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ASAE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGC",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CV",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "Lei_7_2009",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "100.10.800"
+        ],
+        "proRel": [
+            "eComplementarDe"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c100.20.400_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.Os intervenientes na elaboração do parecer podem ser objeto de sanções, caso este apresente incorreções que ponham em causa a boa aplicação da norma.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c100.20.400_0",
+                    "tipo": "complementaridade",
+                    "conteudo": "É complementar doPN 100.10.800 - Produção e comunicação de normas técnicas.",
+                    "procRefs": [
+                        "100.10.800"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "100.20.600",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Produção e comunicação de decisões de uniformização de jurisprudência",
+        "descricao": "Produção e comunicação de orientação jurisprudencial uniformizada, sem força vinculativa. Inicia com o pedido para decisão quando relativamente à mesma questão de direito sejam proferidas soluções opostas e termina com a publicação da decisão. Inclui conferência para admissibilidade do pedido, alegações, julgamento e proferição do acórdão.",
+        "notasAp": [
+            {
+                "idNota": "nota_100.20.600_789109a034ca",
+                "nota": "Acórdãos de uniformização de jurisprudência"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "STA",
+            "STJ"
+        ],
+        "participantes": [
+            {
+                "id": "Trb",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "AL",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "AP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "II",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "INR",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "DL_78_87",
+            "Lei_41_2013",
+            "Lei_21_85"
+        ],
+        "pca": {
+            "valores": 4.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c100.20.600_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 21/85], Estatuto dos Magistrados Judiciais, art.º 36º, nº 1;[Deliberação CSM 55/2003], Regulamento das Inspeções Judiciais, art.º 5º, [Deliberação CSM 1777/2016].",
+                    "legRefs": [
+                        "Lei_21_85"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c100.20.600_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Periodicidade das inspeções."
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c100.20.600_0",
+                    "tipo": "densidade",
+                    "conteudo": "Não é recuperável noutro PN."
+                }
+            ]
+        }
+    }
+]

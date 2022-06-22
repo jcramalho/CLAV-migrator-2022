@@ -1,0 +1,2102 @@
+[
+    {
+        "codigo": "710",
+        "nivel": 1,
+        "estado": "A",
+        "titulo": "PRESTAÇÃO DE SERVIÇOS DE HIGIENE E SALUBRIDADE PÚBLICAS",
+        "descricao": "Relativo à prestação de serviços nos domínios da higiene e salubridade públicas, assegurando uma adequada qualidade ambiental às populações. Inclui as atividades de limpeza de espaços públicos, recolha e tratamento de resíduos sólidos e efluentes, recolha de animais da via pública, combate às pragas, e os serviços prestados no âmbito do movimento mortuário.",
+        "notasAp": [
+            {
+                "idNota": "nota_710_4a89520d3e57",
+                "nota": "Situações em que estes serviços sejam efetivamente prestados por entidades públicas"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_710_294e7525b84f",
+                "nota": "A contratualização e controlo da concessão de serviços públicos, bem como a constituição de parcerias público-privadas para a prestação dos serviços, devem ser consideradas em \\\"Administração de direitos, bens e serviços/ Concessão, delegação e parceria público-privada\\\" (300.20)"
+            },
+            {
+                "idNota": "nota_710_ea3cace6e49f",
+                "nota": "A contratualização e gestão de contratos de fornecimento de água deve ser considerada em \\\"Administração de direitos, bens e serviços/ Aquisição, venda, abate ou permuta\\\" (300.10)."
+            },
+            {
+                "idNota": "nota_710_da6a3b8cc157",
+                "nota": "As ações de promoção da higiene e salubridade públicas que se revistam da forma de campanhas de sensibilização e educação sanitária devem ser consideradas em \\\"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\\\" (900.10)"
+            },
+            {
+                "idNota": "nota_710_74b34e96c07d",
+                "nota": "Os estudos e ações de monitorização de parâmetros de qualidade ambiental (níveis de ruído, de poluição) devem ser considerados em \\\"Prestação de serviços técnicos e científicos, investigação e desenvolvimento\\\" (800)"
+            },
+            {
+                "idNota": "nota_710_9eab11eae7c5",
+                "nota": "A inspeção higiénico-sanitária ou outras formas de verificação do cumprimento de leis e regulamentos deve ser considerada em \\\"Supervisão, controlo e responsabilização/ Inspeção, auditoria, fiscalização e monitorização de conformidade à norma\\\" (500.10)"
+            }
+        ]
+    },
+    {
+        "codigo": "710.10",
+        "nivel": 2,
+        "estado": "A",
+        "titulo": "Serviços de higiene e limpeza",
+        "descricao": "Compreende as atividades de limpeza dos espaços públicos e de recolha e tratamento de resíduos sólidos e efluentes. Compreende, igualmente, o controlo de pragas, a recolha, tratamento e encaminhamento de animais abandonados ou errantes na via pública e outras ações de profilaxia sanitária.",
+        "notasAp": [
+            {
+                "idNota": "nota_710.10_5b2a22e762a0",
+                "nota": "Qualquer tipo de resíduos sólidos, líquidos ou gasosos - urbanos, industriais, hospitalares, agrícolas, florestais ou outros."
+            },
+            {
+                "idNota": "nota_710.10_83d06e89e1e0",
+                "nota": "Inclui a prestação de serviços de limpeza de equipamentos sanitários privados (exemplo, limpeza de fossas)"
+            },
+            {
+                "idNota": "nota_710.10_8149b5983239",
+                "nota": "O controlo de pragas pode assumir a forma de desratizações, controlo de reprodução de espécies ou outras"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_710.10_4efa566160a3",
+                "nota": "A construção, monitorização do estado de conservação e realização de obras de manutenção, tanto em infraestruturas como em espaços públicos, bem como a higiene e limpeza regular de instalações públicas, devem ser consideradas em \\\"Administração de direitos, bens e serviços\\\" (300)"
+            },
+            {
+                "idNota": "nota_710.10_6eddae359d0d",
+                "nota": "O processamento de análises laboratoriais deve ser considerado em \\\"Prestação de serviços técnicos e científicos, investigação e desenvolvimento/ Execução de serviços científicos e técnicos\\\" (800.10)"
+            },
+            {
+                "idNota": "nota_710.10_fb941856dc57",
+                "nota": "Os atos médico-veterinários devem ser considerados em \\\"Prestação de cuidados de saúde/ Serviços clínicos\\\" (700.20)"
+            }
+        ]
+    },
+    {
+        "codigo": "710.10.001",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Limpeza de espaços públicos",
+        "descricao": "Prestação de serviços no âmbito da regular manutenção e conservação da limpeza no espaço público. Inicia na sequência do planeamento e calendarização definidos ou por pedido de particulares e termina com o comprovativo dos trabalhos executados ou com a resposta aos requerentes. Inclui operacionalização e registo de ocorrências.",
+        "notasAp": [
+            {
+                "idNota": "nota_710.10.001_2eba90675443",
+                "nota": "Despejo de papeleiras"
+            },
+            {
+                "idNota": "nota_710.10.001_f7e51491684a",
+                "nota": "Eliminação de ervas de passeios públicos"
+            },
+            {
+                "idNota": "nota_710.10.001_107d7166dcd4",
+                "nota": "Lavagem e varredura de arruamentos e espaços públicos"
+            },
+            {
+                "idNota": "nota_710.10.001_4b10b6380bf8",
+                "nota": "Limpeza de dejetos caninos"
+            },
+            {
+                "idNota": "nota_710.10.001_25723c345cb5",
+                "nota": "Limpeza de praias"
+            },
+            {
+                "idNota": "nota_710.10.001_d556ba94a7ff",
+                "nota": "Limpeza de sargetas e sumidouros"
+            },
+            {
+                "idNota": "nota_710.10.001_bc4358807d98",
+                "nota": "Limpeza de terrenos"
+            },
+            {
+                "idNota": "nota_710.10.001_6007b135c809",
+                "nota": "Limpeza de cemitérios, talhões, ossários, criptas e monumentos de militares portugueses sediados em território nacional e no estrangeiro"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_710.10.001_b0c9c42dedb6",
+                "nota": "A recolha de resíduos deve ser considerada em 710.10.002 – Recolha de resíduos"
+            },
+            {
+                "idNota": "nota_710.10.001_23db067e213d",
+                "nota": "A desobstrução de equipamentos sanitários privados como as fossas sépticas deve ser considerada em 710.10.003 – Recolha e drenagem de águas residuais"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "N",
+        "donos": [
+            "AL",
+            "APA",
+            "ICNF"
+        ],
+        "participantes": [
+            {
+                "id": "DRAP",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "Lei_75_2013",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008",
+            "500.10.301"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSuplementoPara"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c710.10.001_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c710.10.001_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização.",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c710.10.001_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade).PN 300.30.008 - Registo de documentos e informação (casos tratados).",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "710.10.002",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Recolha de resíduos",
+        "descricao": "Prestação dos serviços de recolha de todo o tipo de resíduos. Inicia na sequência do planeamento e calendarização definidos ou por pedido de particulares ou ainda por pedido de entidades públicas produtoras de resíduos e termina com o comprovativo de trabalhos realizados ou com a resposta aos requerentes. Inclui recolha, transporte e depósito dos resíduos em lugar apropriado e registo de ocorrências.",
+        "notasAp": [
+            {
+                "idNota": "nota_710.10.002_46ef660d9446",
+                "nota": "Recolha de monstros"
+            },
+            {
+                "idNota": "nota_710.10.002_4cf1d5acbf61",
+                "nota": "Recolha de resíduos animais"
+            },
+            {
+                "idNota": "nota_710.10.002_ce59d71457b2",
+                "nota": "Recolha de cadávers de animais"
+            },
+            {
+                "idNota": "nota_710.10.002_2d7abd4c4146",
+                "nota": "Recolha de resíduos de obras"
+            },
+            {
+                "idNota": "nota_710.10.002_afd5f330f281",
+                "nota": "Recolha de resíduos sólidos urbanos (RSU)"
+            },
+            {
+                "idNota": "nota_710.10.002_05720160d8fe",
+                "nota": "Recolha de resíduos tóxicos"
+            },
+            {
+                "idNota": "nota_710.10.002_623784389081",
+                "nota": "Recolha de resíduos verdes"
+            },
+            {
+                "idNota": "nota_710.10.002_afb2c49649fa",
+                "nota": "Recolha seletiva"
+            },
+            {
+                "idNota": "nota_710.10.002_cd847eb33c55",
+                "nota": "Remoção de cortes de jardim"
+            },
+            {
+                "idNota": "nota_710.10.002_8d01359129e5",
+                "nota": "Recolha de equipamentos elétricos e eletrónicos"
+            },
+            {
+                "idNota": "nota_710.10.002_ec8f76cdcb0f",
+                "nota": "Transporte de resíduos efetuados pelas empresas transportadoras que procedam à recolha ou ao transporte de resíduos a título profissional"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_710.10.002_30f941d476b2",
+                "nota": "A recolha e manutenção de papeleiras e dispensadores para dejetos caninos devem ser considerados em 710.10.001 – Limpeza de espaços públicos"
+            },
+            {
+                "idNota": "nota_710.10.002_69161d52afb7",
+                "nota": "A triagem, reciclagem, valorização ou eliminação de resíduos devem ser consideradas em 710.10.004 – Tratamento de resíduos"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "Grupo_IP",
+            "APA",
+            "DGADR"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "Grupo_IP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "II",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "INR",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "DL_67_2014",
+            "DL_366_A_97",
+            "DL_162_2000",
+            "DL_92_2006",
+            "DL_110_2013",
+            "DL_178_2006",
+            "DL_73_2011",
+            "DL_267_2009",
+            "DL_6_2009",
+            "DL_46_2008",
+            "Portaria_417_2008",
+            "Portaria_29_B_98",
+            "Portaria_335_97",
+            "DL_433_82",
+            "Lei_50_2006"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008",
+            "500.10.301",
+            "710.10.004"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSuplementoPara",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c710.10.002_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.[Lei 50/2006], LQCA, art.º 40º - Prazo prescricional das contraordenações ambientais.",
+                    "legRefs": [
+                        "DL_433_82",
+                        "Lei_50_2006"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c710.10.002_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização.",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c710.10.002_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos e informação (casos tratados).",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "710.10.003",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Recolha e drenagem de águas residuais",
+        "descricao": "Operações de recolha de águas residuais em estações elevatórias ou fossas sépticas e transporte para destino adequado. Inicia na sequência do planeamento ou a pedido de particulares e termina com o registo de operações ou com a resposta aos requerentes. Inclui operacionalização e comprovativo de pagamento, quando devido.",
+        "notasAp": [
+            {
+                "idNota": "nota_710.10.003_99561a931b6e",
+                "nota": "Desobstrução de fossas séticas privadas"
+            },
+            {
+                "idNota": "nota_710.10.003_4b0d582c91aa",
+                "nota": "Drenagem de águas residuais domésticas"
+            },
+            {
+                "idNota": "nota_710.10.003_4e01a70f34db",
+                "nota": "Drenagem de águas residuais pluviais"
+            },
+            {
+                "idNota": "nota_710.10.003_142d76c87880",
+                "nota": "Drenagem de águas residuais unitárias"
+            },
+            {
+                "idNota": "nota_710.10.003_3c24f5811c5f",
+                "nota": "Drenagem de efluentes agrícolas"
+            },
+            {
+                "idNota": "nota_710.10.003_71c0f1d87f77",
+                "nota": "Drenagem de efluentes industriais"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_710.10.003_dd3277d9307f",
+                "nota": "A limpeza, desobstrução e reparação de coletores, ramais de ligação e fossas sépticas públicas devem ser consideradas em 300.40.503 – Conservação e valorização de edifícios, infraestruturas e equipamentos"
+            },
+            {
+                "idNota": "nota_710.10.003_23e172827e44",
+                "nota": "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
+            },
+            {
+                "idNota": "nota_710.10.003_c404ce3a65ca",
+                "nota": "O tratamento de efluentes e lamas deve ser considerado em 710.10.005 – Tratamento e rejeição de águas residuais"
+            },
+            {
+                "idNota": "nota_710.10.003_497504227d92",
+                "nota": "A recolha de dados sobre o saneamento de águas residuais deve ser considerada em 800.10.303 – Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais"
+            },
+            {
+                "idNota": "nota_710.10.003_415e8e9a0475",
+                "nota": "A aquisição de serviços deve ser considerada em 300.10.005 Transação e transmissão de bens móveis não culturais e contratação de serviços"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AL"
+        ],
+        "participantes": [
+            {
+                "id": "AL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "II",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "DL_194_2009",
+            "Decreto_Regulamentar_23_95",
+            "DL_92_2013",
+            "Lei_98_97",
+            "DL_433_82",
+            "Lei_50_2006"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "500.10.001",
+            "500.10.301",
+            "710.10.005",
+            "800.10.001",
+            "800.10.303"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eAntecessorDe",
+            "eSintetizadoPor",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c710.10.003_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.[Lei 50/2006], LQCA, art.º 40º - Prazo prescricional das contraordenações ambientais.",
+                    "legRefs": [
+                        "Lei_98_97",
+                        "DL_433_82",
+                        "Lei_50_2006"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c710.10.003_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e dos PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c710.10.003_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades;PN 800.10.001 - Produção de informação georreferenciada.",
+                    "procRefs": [
+                        "150.20.300",
+                        "800.10.001"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "710.10.004",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Tratamento de resíduos",
+        "descricao": "Execução da triagem, reciclagem, valorização ou eliminação por incineração, co-incineração, aterro ou outro meio adequado de todo o tipo de resíduos. Inicia com a receção de resíduos e termina com o relato das operações. Inclui registo de ocorrências, operacionalização, cálculo e comprovativo de pagamento, quando devido. ",
+        "notasAp": [
+            {
+                "idNota": "nota_710.10.004_45e44d9db7c3",
+                "nota": "Tratamento de resíduos animais"
+            },
+            {
+                "idNota": "nota_710.10.004_712a786603d2",
+                "nota": "Tratamento de resíduos hospitalares"
+            },
+            {
+                "idNota": "nota_710.10.004_37fd7482932e",
+                "nota": "Tratamento de resíduos indiferenciados"
+            },
+            {
+                "idNota": "nota_710.10.004_699fc50bfcf9",
+                "nota": "Tratamento de resíduos industriais"
+            },
+            {
+                "idNota": "nota_710.10.004_02abea6b5017",
+                "nota": "Tratamento de resíduos seletivos"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_710.10.004_a3450dcca828",
+                "nota": "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
+            },
+            {
+                "idNota": "nota_710.10.004_f18e1f7cbbe0",
+                "nota": "A remoção indiferenciada e seletiva de resíduos deve ser considerada em 710.10.002 – Recolha de resíduos"
+            },
+            {
+                "idNota": "nota_710.10.004_3d5bc2b6a151",
+                "nota": "O tratamento de lamas deve ser considerado em 710.10.005 – Tratamento e rejeição de águas residuais"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "N",
+        "donos": [
+            "AL",
+            "SPE",
+            "AL",
+            "HH",
+            "ICNF"
+        ],
+        "participantes": [
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "DL_73_2011",
+            "DL_46_2008",
+            "DL_178_2006",
+            "DL_85_2005",
+            "Lei_98_97",
+            "DL_433_82",
+            "Lei_50_2006"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "500.10.001",
+            "500.10.301",
+            "710.10.002",
+            "800.10.001"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eSucessorDe",
+            "eSintetizadoPor"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c710.10.004_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.[Lei 50/2006], LQCA, art.º 40º - Prazo prescricional das contraordenações ambientais.",
+                    "legRefs": [
+                        "Lei_98_97",
+                        "DL_433_82",
+                        "Lei_50_2006"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c710.10.004_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e do PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c710.10.004_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades;PN 800.10.001 - Produção de informação georreferenciada.",
+                    "procRefs": [
+                        "150.20.300",
+                        "800.10.001"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "710.10.005",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Tratamento e rejeição de águas residuais",
+        "descricao": "Correção das características físicas, químicas e microbiológicas de águas residuais em função das características do meio recetor. Inicia com a receção das águas residuais e termina com a sua reutilização ou rejeição em meio recetor. Inclui operações de valorização ou rejeição das lamas resultantes. ",
+        "notasAp": [
+            {
+                "idNota": "nota_710.10.005_c2e9d1ad61dc",
+                "nota": "Tratamento de águas residuais domésticas"
+            },
+            {
+                "idNota": "nota_710.10.005_ae427af33d2a",
+                "nota": "Tratamento de águas residuais pluviais"
+            },
+            {
+                "idNota": "nota_710.10.005_10cdaa4ad546",
+                "nota": "Tratamento de águas residuais unitárias"
+            },
+            {
+                "idNota": "nota_710.10.005_72e8e6068727",
+                "nota": "Tratamento de efluentes agrícolas"
+            },
+            {
+                "idNota": "nota_710.10.005_244584caf012",
+                "nota": "Tratamento de efluentes industriais"
+            },
+            {
+                "idNota": "nota_710.10.005_1e2d84c00543",
+                "nota": "Tratamento de lamas"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_710.10.005_a7f935e34a31",
+                "nota": "A recolha e o transporte de efluentes e lamas provenientes de fossas sépticas, coletores e ramais de ligação devem ser considerados em 710.10.003 – Recolha e drenagem de águas residuais"
+            },
+            {
+                "idNota": "nota_710.10.005_f2ad233c1c25",
+                "nota": "A monitorização do tratamento de águas residuais deve ser considerada em 800.10.303 – Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "SPE",
+            "AL",
+            "CPL"
+        ],
+        "participantes": [
+            {
+                "id": "DGRM",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "DL_152_97",
+            "Lei_98_97",
+            "DL_433_82",
+            "Lei_50_2006"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "500.10.001",
+            "500.10.301",
+            "710.10.003",
+            "800.10.001"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eSucessorDe",
+            "eSintetizadoPor"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c710.10.005_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.[Lei 50/2006], LQCA, art.º 40º - Prazo prescricional das contraordenações ambientais.",
+                    "legRefs": [
+                        "Lei_98_97",
+                        "DL_433_82",
+                        "Lei_50_2006"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c710.10.005_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e do PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c710.10.005_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades;PN 800.10.001 - Produção de informação georreferenciada.",
+                    "procRefs": [
+                        "150.20.300",
+                        "800.10.001"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "710.10.300",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Recolha e adoção de animais",
+        "descricao": "Captura ou entrega em centros de recolha de animais perigosos ou vadios, errantes ou com donos, de vias e espaços públicos ou de espaços privados e posterior cedência por adoção ou restituição ao dono. Inicia na sequência de planeamento, a pedido de particulares ou de denúncia e termina com a entrega do animal. Inclui registo de ocorrências, comunicação às entidades competentes, quarentena do animal, se aplicável. ",
+        "notasAp": [
+            {
+                "idNota": "nota_710.10.300_95bb9f7e361f",
+                "nota": "Captura de animais domésticos silvestres e assilvestrados"
+            },
+            {
+                "idNota": "nota_710.10.300_0d25e57a388e",
+                "nota": "Captura de animais em espaços particulares a pedido de interessados"
+            },
+            {
+                "idNota": "nota_710.10.300_076d5d921483",
+                "nota": "Captura de cães e gatos vadios"
+            },
+            {
+                "idNota": "nota_710.10.300_67fad055aba3",
+                "nota": "Entrega de animais capturados em canil ou gatil municipal"
+            },
+            {
+                "idNota": "nota_710.10.300_a5fb00b53c11",
+                "nota": "Recolha de animais no âmbito da higiene pública e veterinária"
+            },
+            {
+                "idNota": "nota_710.10.300_dfd4886cd74a",
+                "nota": "Recolha de animais que tenham causado ofensa ao corpo ou à saúde de uma pessoa"
+            },
+            {
+                "idNota": "nota_710.10.300_dc5b11b1fde5",
+                "nota": "Recolha de animais perigosos"
+            },
+            {
+                "idNota": "nota_710.10.300_a949dfd9b33d",
+                "nota": "Adoção de animais"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_710.10.300_f6b074ee93dc",
+                "nota": "A recolha de animais portadores de zoonoses ou doença terminal deve ser considerada em 700.20.701 – Sequestro sanitário de animais"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "N",
+        "donos": [
+            "AL",
+            "GNR",
+            "ICNF",
+            "DGAV"
+        ],
+        "participantes": [
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Lei_169_99",
+            "DL_315_2009",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008",
+            "650.20.306",
+            "400.10.400",
+            "500.10.001",
+            "500.10.301"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eSuplementoPara"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c710.10.300_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c710.10.300_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e do PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c710.10.300_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos e informação.",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        },
+        "Notas": "\n"
+    },
+    {
+        "codigo": "710.10.600",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Profilaxia e controlo de infestantes, pragas e doenças das plantas",
+        "descricao": "Intervenção preventiva ou reativa a agentes patogénicos ou surtos de determinadas espécies animais ou vegetais, em meios urbanos ou rurais, nocivas ao bem-estar das populações, do património e do meio ambiente. Inicia com a prospeção ou deteção da presença dos vetores nocivos, por iniciativa própria ou a pedido de entidades públicas ou privadas, e termina com a elaboração do relatório dos trabalhos realizados. Inclui planeamento e calendarização de ações, definição e preparação de meios adequados ao tipo de praga biológica, doença ou infestante, operacionalização, cálculo do valor da taxa, quando devido. ",
+        "notasAp": [
+            {
+                "idNota": "nota_710.10.600_1ee0cedb07d3",
+                "nota": "Controlo de infestantes aquáticas"
+            },
+            {
+                "idNota": "nota_710.10.600_6592e5ea9fca",
+                "nota": "Controlo de plantas infestantes em solo agrícola"
+            },
+            {
+                "idNota": "nota_710.10.600_b0aac0c8ce09",
+                "nota": "Controlo de população de pombos em meio urbano"
+            },
+            {
+                "idNota": "nota_710.10.600_d851bdb21697",
+                "nota": "Controlo de população de ratos e baratas"
+            },
+            {
+                "idNota": "nota_710.10.600_d4a6131ba028",
+                "nota": "Controlo de pragas em redes de esgotos"
+            },
+            {
+                "idNota": "nota_710.10.600_60e3e072d3ab",
+                "nota": "Controlo sazonal de espécies nocivas na via e espaços públicos"
+            },
+            {
+                "idNota": "nota_710.10.600_e17f655d99bc",
+                "nota": "Controlo de doenças de plantas"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_710.10.600_24db762fa5d1",
+                "nota": "Os pagamentos devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
+            },
+            {
+                "idNota": "nota_710.10.600_050df446f839",
+                "nota": "As ações de manutenção e desinfestação em instalações e equipamentos públicos deverão ser consideradas em 300.40.505 – Higienização de instalações e equipamentos públicos"
+            },
+            {
+                "idNota": "nota_710.10.600_7db9ac6aba9b",
+                "nota": "A monitorização de pragas e infestantes deve ser considerada em 800.10.607 - Realização de ações de observação em saúde e vigilância epidemiológica"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "APA",
+            "Grupo_IP",
+            "DGAV",
+            "ICNF",
+            "CP"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "II",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Resolução_da_Assembleia_da_República_93_2015",
+            "DL_113_2006",
+            "Lei_58_2005",
+            "Lei_98_97",
+            "DL_433_82",
+            "Lei_50_2006"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008",
+            "500.10.001",
+            "500.10.301",
+            "800.10.300"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c710.10.600_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.[Lei 50/2006], LQCA, art.º 40º - Prazo prescricional das contraordenações ambientais.",
+                    "legRefs": [
+                        "Lei_98_97",
+                        "DL_433_82",
+                        "Lei_50_2006"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c710.10.600_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e dos PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c710.10.600_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos (casos tratados).",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "710.20",
+        "nivel": 2,
+        "estado": "A",
+        "titulo": "Serviços mortuários",
+        "descricao": "Compreende a prestação de serviços relacionados com a gestão de restos mortais e de outras atividades dos cemitérios, centros funerários e outros espaços adequados.",
+        "notasAp": [
+            {
+                "idNota": "nota_710.20_33d5911b0b39",
+                "nota": "Trasladações"
+            },
+            {
+                "idNota": "nota_710.20_f52f79295022",
+                "nota": "Inumações"
+            },
+            {
+                "idNota": "nota_710.20_5d51b268b205",
+                "nota": "Exumações"
+            },
+            {
+                "idNota": "nota_710.20_2975f7839caf",
+                "nota": "Cremações"
+            },
+            {
+                "idNota": "nota_710.20_bf081065ccef",
+                "nota": "Serviços prestados no quadro da gestão de restos mortais"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_710.20_35875b6b71e4",
+                "nota": "A concessão de terrenos em cemitérios deve ser considerada em “Administração de direitos, bens e serviços/ Concessão e parceria público-privada” (300.20)"
+            },
+            {
+                "idNota": "nota_710.20_7513ef1fce5c",
+                "nota": "O licenciamento deve ser considerado em “Reconhecimentos e permissões/ Licenciamentos, certificações e outras autorizações” (450.10)"
+            }
+        ]
+    },
+    {
+        "codigo": "710.20.001",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Inumação e cremação de restos mortais",
+        "descricao": "Colocação de cadáver em sepultura, jazigo ou local de consumpção aeróbia ou redução de cadáver ou ossadas a cinzas. Inicia com o pedido e termina com a inumação ou com a entrega de cinzas. Inclui identificação de cadáver, ossadas, cinzas e de óbito, análise do pedido, cálculo do valor da taxa, comprovativo de pagamento e cremação, quando devido. ",
+        "notasAp": [
+            {
+                "idNota": "nota_710.20.001_1e3528f081ac",
+                "nota": "Cremação de cadáveres e ossadas"
+            },
+            {
+                "idNota": "nota_710.20.001_b3a7ac70498d",
+                "nota": "Cremação de fetos mortos e peças anatómicas"
+            },
+            {
+                "idNota": "nota_710.20.001_3d1834905403",
+                "nota": "Inumação de cinzas"
+            },
+            {
+                "idNota": "nota_710.20.001_77807017b1f5",
+                "nota": "Inumação em local de consumpção aeróbia"
+            },
+            {
+                "idNota": "nota_710.20.001_007eb77d3d4d",
+                "nota": "Inumação em sepultura ou jazigo"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_710.20.001_23db1d218d57",
+                "nota": "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
+            },
+            {
+                "idNota": "nota_710.20.001_94615aa2a539",
+                "nota": "A entrega de cinzas inumadas deve ser considerada em 710.20.002 – Entrega de cinzas inumadas"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "AL"
+        ],
+        "participantes": [
+            {
+                "id": "INMLCF",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "DL_138_2000",
+            "DL_109_2010",
+            "DL_5_2000",
+            "DL_411_98"
+        ],
+        "processosRelacionados": [
+            "450.30.504",
+            "500.10.001",
+            "710.20.004",
+            "710.20.600"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eSuplementoPara",
+            "eSucessorDe",
+            "eSucessorDe"
+        ]
+    },
+    {
+        "codigo": "710.20.001.01",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Inumação e cremação de restos mortais: identificação de restos mortais",
+        "descricao": "Receção, registo e guarda dos elementos de identificação do cadáver e de certificação do óbito.",
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c710.20.001.01_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "Lei_98_97",
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c710.20.001.01_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c710.20.001.01_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 411/98], art.º 9, n.º 7 \\\"...entidade responsável pela administração do cemitério procede ao arquivamento do boletim de óbito\\\".",
+                    "legRefs": [
+                        "DL_411_98"
+                    ]
+                },
+                {
+                    "critCodigo": "just_df_c710.20.001.01_1",
+                    "tipo": "densidade",
+                    "conteudo": "Sintetiza a informação de 710.20.001.02 – Inumação e cremação de restos mortais: execução.",
+                    "procRefs": [
+                        "710.20.001"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "710.20.001.02",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Inumação e cremação de restos mortais: execução",
+        "descricao": "Receção e análise do pedido, cálculo do valor da taxa, comprovativo de pagamento e execução da inumação ou cremação. ",
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c710.20.001.02_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "Lei_98_97",
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c710.20.001.02_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c710.20.001.02_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada em 710.20.001.01 - Inumação e cremação de restos mortais: identificação de restos mortais.",
+                    "procRefs": [
+                        "710.20.001"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "710.20.002",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Entrega de cinzas inumadas",
+        "descricao": "Saída de cinzas inumadas em qualquer construção funerária, salvo cendrário. Inicia com o pedido e termina com a entrega das cinzas. Inclui verificação dos elementos instrutórios e dos requisitos legais.",
+        "notasEx": [
+            {
+                "idNota": "nota_710.20.002_9f17525d6cbd",
+                "nota": "A entrega de cinzas imediatamente após cremação deve ser considerada em 710.20.001 – Inumação e cremação de restos mortais"
+            }
+        ],
+        "dimensao": "Reduzida\n",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "N",
+        "donos": [
+            "AL"
+        ],
+        "legislacao": [
+            "DL_138_2000",
+            "DL_5_2000",
+            "DL_411_98",
+            "Lei_98_97",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008",
+            "500.10.001"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSuplementoPara"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c710.20.002_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "Lei_98_97",
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c710.20.002_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c710.20.002_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos (registo dos casos tratados, intervenientes e etapas).",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "710.20.003",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Identificação de restos mortais abandonados em cemitérios",
+        "descricao": "Reconhecimento da condição de abandono de restos mortais. Inicia com a verificação das condições de abandono e termina com o registo. Inclui elaboração e envio de notificação aos interessados e para publicitação e definição do destino a dar aos restos mortais, quando devido.",
+        "notasAp": [
+            {
+                "idNota": "nota_710.20.003_4735b2d7b70b",
+                "nota": "Identificação de restos mortais em compartimentos municipais por falta de pagamento"
+            },
+            {
+                "idNota": "nota_710.20.003_9bbfea034e71",
+                "nota": "Identificação de restos mortais em jazigos particulares e sepulturas perpétuas na sequência de prescrição ou renúncia da concessão"
+            },
+            {
+                "idNota": "nota_710.20.003_c0f89598b6b4",
+                "nota": "Identificação de restos mortais em sepulturas temporárias cuja exumação não foi agendada"
+            },
+            {
+                "idNota": "nota_710.20.003_6aea813471a3",
+                "nota": "Renúncia a direitos sobre restos mortais por parte dos interessados"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_710.20.003_d57eb6de24ad",
+                "nota": "Os pedidos de informação sobre localização de restos mortais devem ser considerados em 900.20.604 – Tratamento de informações e processamento de pedidos de informação"
+            }
+        ],
+        "dimensao": "Média\n",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "N",
+        "donos": [
+            "AL"
+        ],
+        "legislacao": [
+            "DL_138_2000",
+            "DL_5_2000",
+            "DL_411_98",
+            "Lei_98_97",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008",
+            "500.10.001",
+            "800.10.603",
+            "800.10.609"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c710.20.003_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "Lei_98_97",
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c710.20.003_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c710.20.003_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos (registo dos casos tratados, intervenientes e etapas).",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "710.20.004",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Entrega de restos mortais",
+        "descricao": "Transferência da responsabilidade sobre os restos mortais a fim de se proceder à autópsia, inumação, cremação ou uso para investigação. Inicia com o aviso de óbito ou com o pedido de levantamento de cadáver e termina com a entrega dos restos mortais. Inclui verificação da legitimidade. ",
+        "notasAp": [
+            {
+                "idNota": "nota_710.20.004_5b7abdca9175",
+                "nota": "Entrega de restos mortais a agencias funerárias"
+            },
+            {
+                "idNota": "nota_710.20.004_af6c7689112c",
+                "nota": "Entrega de restos mortais a centros de investigação"
+            },
+            {
+                "idNota": "nota_710.20.004_1b4652390f75",
+                "nota": "Entrega de restos mortais para autópsia"
+            },
+            {
+                "idNota": "nota_710.20.004_19442053ba64",
+                "nota": "Entrega de restos mortais para investigação forense"
+            },
+            {
+                "idNota": "nota_710.20.004_cdcc690924f6",
+                "nota": "Reclamação de restos mortais"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_710.20.004_9f55d314c120",
+                "nota": "A trasladação de deve ser considerada em 710.20.601 – Trasladação de cadáveres e ossadas"
+            },
+            {
+                "idNota": "nota_710.20.004_30d5cbf206b0",
+                "nota": "A autorização para realização de trabalhos de investigação que tenham por base o estudo de restos mortais, deve ser considerada em 450.10.073 – Licenciamento ou autorização de atividades de investigação científica e de desenvolvimento"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "INMLCF",
+            "FA",
+            "DGACCP",
+            "HH"
+        ],
+        "participantes": [
+            {
+                "id": "AL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "Cns",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "Lei_12_99",
+            "Portaria_165_2014",
+            "DL_411_98",
+            "DL_48_95"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008",
+            "500.10.001",
+            "710.20.001",
+            "800.10.603",
+            "800.10.609",
+            "710.20.300"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSuplementoPara",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": 15.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c710.20.004_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 48/95], CP, art.º 118º - Prazo prescricional do procedimento criminal.",
+                    "legRefs": [
+                        "DL_48_95"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c710.20.004_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c710.20.004_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos (registo dos casos tratados, intervenientes e etapas).",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "710.20.300",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Exumação de cadáveres e ossadas",
+        "descricao": "Abertura e recolha de restos mortais inumados em sepultura, local de consumpção aeróbia ou caixão de metal. Inicia com o pedido e termina com a exumação de restos mortais. Inclui verificação de elementos instrutórios, análise do pedido, verificação dos requisitos legais aplicáveis, cálculo do valor da taxa devida e comprovativo do seu pagamento, abertura de urna e recolha de restos mortais e relato de ocorrências. ",
+        "notasAp": [
+            {
+                "idNota": "nota_710.20.300_f926cd26c5fd",
+                "nota": "Abertura de caixão de metal ou de madeira"
+            },
+            {
+                "idNota": "nota_710.20.300_fa6b7de598f3",
+                "nota": "Abertura de local de consumpção aeróbia"
+            },
+            {
+                "idNota": "nota_710.20.300_1a6a2555183b",
+                "nota": "Abertura de sepultura"
+            },
+            {
+                "idNota": "nota_710.20.300_999b0d00c58b",
+                "nota": "Exumação de cadáver por decisão judicial"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_710.20.300_733f0ea48310",
+                "nota": "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
+            },
+            {
+                "idNota": "nota_710.20.300_803a1a481f54",
+                "nota": "As escavações e tratamento científico das ossadas encontradas em contextos arqueológicos / antropológicos no âmbito de projetos de investigação arqueológica devem ser consideradas em 800.20.500 – Desenvolvimento experimental e aplicacional"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "AL"
+        ],
+        "participantes": [
+            {
+                "id": "Trb",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "DL_138_2000",
+            "DL_5_2000",
+            "DL_411_98",
+            "DL_48_95"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008",
+            "500.10.001",
+            "800.10.603",
+            "800.10.609"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 15.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c710.20.300_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 48/95], CP, art.º 118º - Prazo prescricional do procedimento criminal.",
+                    "legRefs": [
+                        "DL_48_95"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c710.20.300_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c710.20.300_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos (registo dos casos tratados, intervenientes e etapas).",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "710.20.600",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Depósito de urnas",
+        "descricao": "Guarda temporária de urnas com restos mortais em cemitérios e em outros espaços autorizados. Inicia com o pedido e termina com o levantamento da urna. Inclui verificação de elementos instrutórios, análise do pedido, cálculo da taxa devida e comprovativo do seu pagamento. ",
+        "notasAp": [
+            {
+                "idNota": "nota_710.20.600_f51f4cbb9ceb",
+                "nota": "Depósito de ossadas a aguardar cremação"
+            },
+            {
+                "idNota": "nota_710.20.600_98cdd38a8369",
+                "nota": "Depósito de urnas em câmara frigoríficas"
+            },
+            {
+                "idNota": "nota_710.20.600_740ced3ea0d6",
+                "nota": "Depósito de urnas provenientes de construções funerárias em obras"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_710.20.600_c25c3853a0f8",
+                "nota": "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
+            }
+        ],
+        "dimensao": "Média\n",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "FA",
+            "HH",
+            "DGS",
+            "DGACCP"
+        ],
+        "participantes": [
+            {
+                "id": "Cns",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "DL_138_2000",
+            "DL_109_2010",
+            "DL_5_2000",
+            "DL_411_98",
+            "Lei_98_97",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008",
+            "500.10.001",
+            "710.20.001",
+            "710.20.601"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSuplementoPara",
+            "eAntecessorDe",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c710.20.600_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "Lei_98_97",
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c710.20.600_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c710.20.600_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos (registo dos casos tratados, intervenientes e etapas).",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "710.20.601",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Trasladação de cadáveres e ossadas",
+        "descricao": "Transporte de cadáver ou de ossadas para local diferente daquele em que se encontram a fim de serem de novo inumados, cremados ou colocados em ossário. Inicia com o pedido e termina com a entrega dos restos mortais. Inclui verificação dos elementos instrutórios, verificação dos requisitos legais, cálculo da taxa devida e comprovativo do seu pagamento. ",
+        "notasEx": [
+            {
+                "idNota": "nota_710.20.601_e00039f7bc12",
+                "nota": "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "HH",
+            "FA",
+            "DGS",
+            "DGACCP"
+        ],
+        "participantes": [
+            {
+                "id": "Cns",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "DL_138_2000",
+            "DL_5_2000",
+            "DL_411_98",
+            "Lei_98_97",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008",
+            "500.10.001",
+            "710.20.600",
+            "800.10.609"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSuplementoPara",
+            "eSucessorDe",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c710.20.601_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "Lei_98_97",
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c710.20.601_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c710.20.601_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos (registo dos casos tratados, intervenientes e etapas).",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    }
+]

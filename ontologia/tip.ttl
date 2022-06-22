@@ -1,0 +1,408 @@
+###  http://jcr.di.uminho.pt/m51-clav#tip_AAC
+:tip_AAC rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "AAC";
+	:tipDesignacao "Autoridades Administrativas Civis".
+###  http://jcr.di.uminho.pt/m51-clav#tip_AADR
+:tip_AADR rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "AADR";
+	:tipDesignacao "Assembleias de apuramento distrital de resultados".
+###  http://jcr.di.uminho.pt/m51-clav#tip_AAGR
+:tip_AAGR rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "AAGR";
+	:tipDesignacao "Assembleias de apuramento geral dos resultados".
+###  http://jcr.di.uminho.pt/m51-clav#tip_ACE
+:tip_ACE rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "ACE";
+	:tipDesignacao "Administração Central do Estado".
+###  http://jcr.di.uminho.pt/m51-clav#tip_ACES
+:tip_ACES rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "ACES";
+	:tipDesignacao "Agrupamentos de Centros de Saúde".
+###  http://jcr.di.uminho.pt/m51-clav#tip_AF
+:tip_AF rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "AF";
+	:tipDesignacao "Assembleias de Freguesia".
+###  http://jcr.di.uminho.pt/m51-clav#tip_AL
+:tip_AL rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "AL";
+	:tipDesignacao "Autarquias Locais".
+###  http://jcr.di.uminho.pt/m51-clav#tip_AM
+:tip_AM rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "AM";
+	:tipDesignacao "Assembleias Municipais".
+###  http://jcr.di.uminho.pt/m51-clav#tip_AP
+:tip_AP rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "AP";
+	:tipDesignacao "Administração Pública".
+###  http://jcr.di.uminho.pt/m51-clav#tip_ARS
+:tip_ARS rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "ARS";
+	:tipDesignacao "Administrações Regionais de Saúde".
+###  http://jcr.di.uminho.pt/m51-clav#tip_AS
+:tip_AS rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "AS";
+	:tipDesignacao "Autoridades de Saúde".
+###  http://jcr.di.uminho.pt/m51-clav#tip_ASF
+:tip_ASF rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "ASF";
+	:tipDesignacao "Autoridades de supervisão e fiscalização".
+###  http://jcr.di.uminho.pt/m51-clav#tip_AV
+:tip_AV rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "AV";
+	:tipDesignacao "Assembleias de voto".
+###  http://jcr.di.uminho.pt/m51-clav#tip_CA
+:tip_CA rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "CA";
+	:tipDesignacao "Centros de Arbitragem".
+###  http://jcr.di.uminho.pt/m51-clav#tip_CCDR
+:tip_CCDR rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "CCDR";
+	:tipDesignacao "Comissões de Coordenação do Desenvolvimento Regional".
+###  http://jcr.di.uminho.pt/m51-clav#tip_CH
+:tip_CH rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "CH";
+	:tipDesignacao "Comissões de Heráldica".
+###  http://jcr.di.uminho.pt/m51-clav#tip_CN
+:tip_CN rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "CN";
+	:tipDesignacao "Cartórios Notariais".
+###  http://jcr.di.uminho.pt/m51-clav#tip_Cns
+:tip_Cns rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "Cns";
+	:tipDesignacao "Consulados".
+###  http://jcr.di.uminho.pt/m51-clav#tip_CPCJ
+:tip_CPCJ rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "CPCJ";
+	:tipDesignacao "Comissões de Proteção de Crianças e Jovens".
+###  http://jcr.di.uminho.pt/m51-clav#tip_CT
+:tip_CT rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "CT";
+	:tipDesignacao "Comissões Técnicas de Normalização".
+###  http://jcr.di.uminho.pt/m51-clav#tip_DRAP
+:tip_DRAP rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "DRAP";
+	:tipDesignacao "Direções Regionais de Agricultura e Pescas".
+###  http://jcr.di.uminho.pt/m51-clav#tip_EAARPNC
+:tip_EAARPNC rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "EAARPNC";
+	:tipDesignacao "Entidades com autonomia administrativa e receitas próprias não consignadas".
+###  http://jcr.di.uminho.pt/m51-clav#tip_EAI
+:tip_EAI rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "EAI";
+	:tipDesignacao "Entidades administrativas independentes".
+###  http://jcr.di.uminho.pt/m51-clav#tip_ECM
+:tip_ECM rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "ECM";
+	:tipDesignacao "Entidades com competência de monitorização".
+###  http://jcr.di.uminho.pt/m51-clav#tip_ECP
+:tip_ECP rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "ECP";
+	:tipDesignacao "Entidades com capacidade pericial".
+###  http://jcr.di.uminho.pt/m51-clav#tip_ECS
+:tip_ECS rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "ECS";
+	:tipDesignacao "Entidades com competência sancionatória".
+###  http://jcr.di.uminho.pt/m51-clav#tip_ECV
+:tip_ECV rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "ECV";
+	:tipDesignacao "Entidades com competência de visita".
+###  http://jcr.di.uminho.pt/m51-clav#tip_EDA
+:tip_EDA rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "EDA";
+	:tipDesignacao "Entidades detentoras de animais".
+###  http://jcr.di.uminho.pt/m51-clav#tip_EGAG
+:tip_EGAG rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "EGAG";
+	:tipDesignacao "Entidades gestoras de água".
+###  http://jcr.di.uminho.pt/m51-clav#tip_EGAP
+:tip_EGAP rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "EGAP";
+	:tipDesignacao "Entidades gestoras de apoios".
+###  http://jcr.di.uminho.pt/m51-clav#tip_Emb
+:tip_Emb rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "Emb";
+	:tipDesignacao "Embaixadas".
+###  http://jcr.di.uminho.pt/m51-clav#tip_ER
+:tip_ER rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "ER";
+	:tipDesignacao "Entidades reguladoras".
+###  http://jcr.di.uminho.pt/m51-clav#tip_ESPS
+:tip_ESPS rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "ESPS";
+	:tipDesignacao "Entidades do sistema de proteção na saúde".
+###  http://jcr.di.uminho.pt/m51-clav#tip_EstE
+:tip_EstE rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "EstE";
+	:tipDesignacao "Estabelecimentos escolares".
+###  http://jcr.di.uminho.pt/m51-clav#tip_FA
+:tip_FA rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "FA";
+	:tipDesignacao "Forças Armadas".
+###  http://jcr.di.uminho.pt/m51-clav#tip_FA-M
+:tip_FA-M rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "FA-M";
+	:tipDesignacao "Forças Armadas – Marinha".
+###  http://jcr.di.uminho.pt/m51-clav#tip_FA-E
+:tip_FA-E rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "FA-E";
+	:tipDesignacao "Forças Armadas – Exército".
+###  http://jcr.di.uminho.pt/m51-clav#tip_FA-FA
+:tip_FA-FA rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "FA-FA";
+	:tipDesignacao "Forças Armadas – Força Aérea".
+###  http://jcr.di.uminho.pt/m51-clav#tip_FSS
+:tip_FSS rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "FSS";
+	:tipDesignacao "Forças e serviços de segurança".
+###  http://jcr.di.uminho.pt/m51-clav#tip_Fnd
+:tip_Fnd rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "Fnd";
+	:tipDesignacao "Fundações".
+###  http://jcr.di.uminho.pt/m51-clav#tip_Gov
+:tip_Gov rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "Gov";
+	:tipDesignacao "Governo".
+###  http://jcr.di.uminho.pt/m51-clav#tip_HH
+:tip_HH rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "HH";
+	:tipDesignacao "Hospitais".
+###  http://jcr.di.uminho.pt/m51-clav#tip_IP
+:tip_IP rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "IP";
+	:tipDesignacao "Institutos Públicos".
+###  http://jcr.di.uminho.pt/m51-clav#tip_IES
+:tip_IES rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "IES";
+	:tipDesignacao "Instituições do Ensino Superior".
+###  http://jcr.di.uminho.pt/m51-clav#tip_IPSS
+:tip_IPSS rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "IPSS";
+	:tipDesignacao "Instituições Particulares de Solidariedade Social".
+###  http://jcr.di.uminho.pt/m51-clav#tip_JP
+:tip_JP rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "JP";
+	:tipDesignacao "Julgados de Paz".
+###  http://jcr.di.uminho.pt/m51-clav#tip_ONS
+:tip_ONS rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "ONS";
+	:tipDesignacao "Organizações de normalização setorial".
+###  http://jcr.di.uminho.pt/m51-clav#tip_OP
+:tip_OP rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "OP";
+	:tipDesignacao "Ordens profissionais".
+###  http://jcr.di.uminho.pt/m51-clav#tip_OPC
+:tip_OPC rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "OPC";
+	:tipDesignacao "Órgãos de polícia criminal".
+###  http://jcr.di.uminho.pt/m51-clav#tip_OSJ
+:tip_OSJ rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "OSJ";
+	:tipDesignacao "Órgãos do sistema judiciário".
+###  http://jcr.di.uminho.pt/m51-clav#tip_PMun
+:tip_PMun rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "PMun";
+	:tipDesignacao "Polícias Municipais".
+###  http://jcr.di.uminho.pt/m51-clav#tip_SEN
+:tip_SEN rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "SEN";
+	:tipDesignacao "Sistema Estatístico Nacional".
+###  http://jcr.di.uminho.pt/m51-clav#tip_SG
+:tip_SG rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "SG";
+	:tipDesignacao "Secretarias Gerais".
+###  http://jcr.di.uminho.pt/m51-clav#tip_SMT
+:tip_SMT rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "SMT";
+	:tipDesignacao "Serviços de Medicina do Trabalho".
+###  http://jcr.di.uminho.pt/m51-clav#tip_SPE
+:tip_SPE rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "SPE";
+	:tipDesignacao "Setor Público Empresarial".
+###  http://jcr.di.uminho.pt/m51-clav#tip_TComarca
+:tip_TComarca rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "TComarca";
+	:tipDesignacao "Tribunais de Comarca".
+###  http://jcr.di.uminho.pt/m51-clav#tip_TEP
+:tip_TEP rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "TEP";
+	:tipDesignacao "Tribunais de Execução de Penas".
+###  http://jcr.di.uminho.pt/m51-clav#tip_TFM
+:tip_TFM rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "TFM";
+	:tipDesignacao "Tribunais de Família e Menores".
+###  http://jcr.di.uminho.pt/m51-clav#tip_TIC
+:tip_TIC rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "TIC";
+	:tipDesignacao "Tribunais de Instrução Criminal".
+###  http://jcr.di.uminho.pt/m51-clav#tip_TR
+:tip_TR rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "TR";
+	:tipDesignacao "Tribunais da Relação".
+###  http://jcr.di.uminho.pt/m51-clav#tip_Trb
+:tip_Trb rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "Trb";
+	:tipDesignacao "Tribunais".
+###  http://jcr.di.uminho.pt/m51-clav#tip_UI
+:tip_UI rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "UI";
+	:tipDesignacao "Unidades de Investigação".
+###  http://jcr.di.uminho.pt/m51-clav#tip_UL
+:tip_UL rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "UL";
+	:tipDesignacao "Unidades Laboratoriais".
+###  http://jcr.di.uminho.pt/m51-clav#tip_UPCS
+:tip_UPCS rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "UPCS";
+	:tipDesignacao "Unidades Prestadoras de Cuidados de Saúde".
+###  http://jcr.di.uminho.pt/m51-clav#tip_DRE
+:tip_DRE rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "DRE";
+	:tipDesignacao "Direções Regionais de Educação".
+###  http://jcr.di.uminho.pt/m51-clav#tip_GC
+:tip_GC rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "GC";
+	:tipDesignacao "Governos Civis".
+###  http://jcr.di.uminho.pt/m51-clav#tip_TJ
+:tip_TJ rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "TJ";
+	:tipDesignacao "Tribunais Judiciais".
+###  http://jcr.di.uminho.pt/m51-clav#tip_TAF
+:tip_TAF rdf:type owl:NamedIndividual ,
+		:TipologiaEntidade ;
+	:tipEstado "Ativa";
+	:tipSigla "TAF";
+	:tipDesignacao "Tribunais Administrativos e Fiscais".

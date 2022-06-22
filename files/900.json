@@ -1,0 +1,4792 @@
+[
+    {
+        "codigo": "900",
+        "nivel": 1,
+        "estado": "A",
+        "titulo": "PROTOCOLO, DINAMIZAÇÃO E COMUNICAÇÃO INSTITUCIONAL",
+        "descricao": "Relativo à conceção, produção, organização e comunicação (por qualquer meio ou forma) de eventos, conteúdos informativos ou outros produtos e serviços que sirvam para melhorar a perceção e o conhecimento dos organismos e respetivas atividades, ou para sensibilizar para programas, atitudes ou valores que os serviços promovam."
+    },
+    {
+        "codigo": "900.10",
+        "nivel": 2,
+        "estado": "A",
+        "titulo": "Execução de atividades de dinamização da sociedade",
+        "descricao": "Compreende as atividades de conceção, de produção, de organização ou participação na organização de eventos, como sejam conferências, encontros, seminários, debates, exposições, festivais, espetáculos, ou outras atividades de caráter informativo, educativo, científico, cultural, desportivo, recreativo ou outro que estimulem a iniciativa e a participação das comunidades.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10_7632961ff36c",
+                "nota": "Todo o processo técnico e protocolar de organização (planeamento operacional, ações comuns de divulgação, processamento de inscrições, etc.), bem como eventuais registos dos eventos (comunicações e discursos, registos sonoros, audiovisuais)."
+            },
+            {
+                "idNota": "nota_900.10_b3a73b540566",
+                "nota": "Eventos e cerimónias desportivas"
+            },
+            {
+                "idNota": "nota_900.10_209b0ae7e588",
+                "nota": "Cerimónias de entrega de prémios ou distinções honoríficas"
+            },
+            {
+                "idNota": "nota_900.10_3a988a7fab6d",
+                "nota": "Cerimónias e eventos comemorativos"
+            },
+            {
+                "idNota": "nota_900.10_988c584958c5",
+                "nota": "Ações de sensibilização"
+            },
+            {
+                "idNota": "nota_900.10_c988715ee480",
+                "nota": "Qualquer evento de divulgação e sensibilização pública ou dirigida a comunidades de interesse."
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.10_f76683ddb58d",
+                "nota": "A organização da representação nacional em eventos internacionais, a organização de eventos de promoção do país no estrangeiro e a colaboração na organização de eventos de promoção de países estrangeiros em Portugal, devem ser consideradas em \\\"Execução da política externa/ Projetos de execução da política externa\\\" (200.30)."
+            },
+            {
+                "idNota": "nota_900.10_069816ccb3eb",
+                "nota": "Conferências de imprensa devem ser consideradas em \\\"Dinamização e comunicação institucional/ Execução de atividades de protocolo e comunicação institucional\\\" (900.20)"
+            },
+            {
+                "idNota": "nota_900.10_b25c8f70971d",
+                "nota": "O processo de publicação de atas ou outros registos de eventos deve ser considerado em \\\"Dinamização e comunicação institucional/ Execução de atividades de protocolo e comunicação institucional\\\" (900.20)"
+            }
+        ]
+    },
+    {
+        "codigo": "900.10.001",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Conceção e realização de atividades ou acontecimentos artísticos",
+        "descricao": "Criação e produção de iniciativas ou atividades artísticas de qualquer tipo. Inicia com a conceção da atividade ou obra e termina com a concretização da mesma. Inclui o desenvolvimento do conceito ou ideia, planeamento, estimativa dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável, definição dos meios de divulgação e produção.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10.001_8abcacb780e2",
+                "nota": "Representação e exposição artística, teatral, cinematográfica, musical, televisiva"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.10.001_45cb84c3baaa",
+                "nota": "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
+            },
+            {
+                "idNota": "nota_900.10.001_30c661819fbc",
+                "nota": "O processamento de despesas e receitas deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
+            },
+            {
+                "idNota": "nota_900.10.001_35cdb2f3c094",
+                "nota": "As questões de segurança devem ser consideradas em 550.20.004 – Realização de piquetes de prevenção"
+            },
+            {
+                "idNota": "nota_900.10.001_bc74746134ed",
+                "nota": "A divulgação deve ser considerada em 900.20.201 - Edição e publicação de conteúdos"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "CP",
+            "CCDR",
+            "IES",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "CV"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "II",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CV",
+                "interv": "Executar"
+            }
+        ],
+        "legislacao": [
+            "Lei_28_2014",
+            "DL_23_2014",
+            "Lei_107_2001",
+            "Decreto_Regulamentar_34_95"
+        ],
+        "processosRelacionados": [
+            "300.10.005",
+            "300.10.006",
+            "300.40.504",
+            "300.50.202",
+            "300.50.204",
+            "300.50.402",
+            "350.30.001",
+            "450.10.072",
+            "450.10.205",
+            "450.10.649",
+            "500.10.001",
+            "550.10.001",
+            "550.10.002",
+            "550.20.004",
+            "800.10.604",
+            "800.10.605",
+            "850.10.002",
+            "850.10.003",
+            "900.10.500",
+            "900.20.001",
+            "900.20.002",
+            "900.20.200",
+            "900.20.201"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe"
+        ]
+    },
+    {
+        "codigo": "900.10.001.01",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Conceção e realização de atividades ou acontecimentos artísticos: conceção e registo",
+        "descricao": "Criação e registo de obras ou atividades artísticas. Inicia com a proposta ou iniciativa de criação da obra ou atividade e inclui a conceção ou planeamento, a autorização de realização e o registo documental do ato criativo (em imagem, som ou texto).",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10.001.01_4f7a0986aff1",
+                "nota": "Maquetes de cenografia"
+            },
+            {
+                "idNota": "nota_900.10.001.01_da9a11abfae3",
+                "nota": "Esboços e / ou desenhos de figurinos"
+            },
+            {
+                "idNota": "nota_900.10.001.01_beeb9fd7f3c8",
+                "nota": "Memórias descritivas"
+            },
+            {
+                "idNota": "nota_900.10.001.01_6f65c4a985ea",
+                "nota": "Registo fotográfico/vídeo da obra ou atividade"
+            }
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.10.001.01_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.10.001.01_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.10.001.01_0",
+                    "tipo": "densidade",
+                    "conteudo": "Sintetiza a informação de 900.10.001.02- Conceção e realização de atividades ou acontecimentos artísticos: operacionalização.",
+                    "procRefs": [
+                        "900.10.001"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.10.001.02",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Conceção e realização de atividades ou acontecimentos artísticos: operacionalização",
+        "descricao": "Concretização das ações necessárias à produção e apresentação de obras ou atividades artísticas. Inclui o planeamento operacional, a definição de meios, a logística e organização do espaço ou materiais, estudo de viabilidade (quando aplicável), a definição dos meios de divulgação, a produção e a apresentação de obra ou atividade.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10.001.02_d2dbf2f9158b",
+                "nota": "Marcação de provas de guarda roupa"
+            },
+            {
+                "idNota": "nota_900.10.001.02_af9d2ef14ab4",
+                "nota": "Visionamento e revisão de filmes"
+            }
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.10.001.02_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.10.001.02_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.10.001.02_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada em900.10.001.01 - Conceção e realização de atividades ou acontecimentos artísticos: conceção e registo;PN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação.",
+                    "procRefs": [
+                        "900.10.001",
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.10.002",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Conceção e realização de atividades desportivas ou recreativas",
+        "descricao": "Criação e produção de iniciativas e atividades de caráter desportivo, amador ou profissional, de recreação, entretenimento ou ocupação do tempo. Inicia com a conceção da atividade e termina com a concretização da mesma. Inclui o desenvolvimento do conceito ou ideia, planeamento, estimativa dos recursos a alocar, seleção e organização de espaços e do esquema protocolar, se aplicável, a definição dos meios de divulgação e a produção, a distribuição de eventuais convites, a gestão dos ingressos do público, a seleção dos executantes ou intervenientes nas atividades.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10.002_b55d7bd0be54",
+                "nota": "Provas desportivas"
+            },
+            {
+                "idNota": "nota_900.10.002_250cd1bca0fe",
+                "nota": "Sessões recreativas"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.10.002_e9b12a8bdf85",
+                "nota": "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
+            },
+            {
+                "idNota": "nota_900.10.002_cc883d9dfbf7",
+                "nota": "O processamento de despesas e receitas deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
+            },
+            {
+                "idNota": "nota_900.10.002_769e2d8b359f",
+                "nota": "As questões de segurança devem ser consideradas em 550.20.004 – Realização de piquetes de prevenção"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "CP",
+            "CCDR",
+            "IES",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "IFAP",
+            "CV"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "II",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CV",
+                "interv": "Executar"
+            }
+        ],
+        "legislacao": [
+            "DL_23_2014",
+            "Decreto_Regulamentar_6_2010",
+            "DL_268_2009",
+            "Decreto_Regulamentar_34_95"
+        ],
+        "processosRelacionados": [
+            "300.10.005",
+            "300.40.504",
+            "300.50.202",
+            "300.50.402",
+            "350.30.001",
+            "450.10.072",
+            "450.10.205",
+            "450.10.213",
+            "450.10.215",
+            "450.10.221",
+            "500.10.001",
+            "550.10.001",
+            "550.20.004",
+            "900.10.500",
+            "900.20.001",
+            "900.20.002",
+            "900.20.200",
+            "900.20.201"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eSucessorDe"
+        ]
+    },
+    {
+        "codigo": "900.10.002.01",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Conceção e realização de atividades desportivas ou recreativas: conceção e registo",
+        "descricao": "Criação e registo de atividades desportivas ou recreativas. Inicia com a proposta ou iniciativa para atividade e inclui a conceção ou planeamento, a autorização de realização e o registo documental da iniciativa (em imagem, som ou texto).",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10.002.01_22a7bbed4226",
+                "nota": "Registo fotográfico/vídeo da atividade desportiva"
+            },
+            {
+                "idNota": "nota_900.10.002.01_1be14476860f",
+                "nota": "Registo fotográfico/vídeo da atividade recreativa"
+            }
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.10.002.01_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.10.002.01_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.10.002.01_0",
+                    "tipo": "densidade",
+                    "conteudo": "Sintetiza a informação de 900.10.002.02 – Conceção e realização de atividades desportivas ou recreativas: operacionalização.",
+                    "procRefs": [
+                        "900.10.002"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.10.002.02",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Conceção e realização de atividades desportivas ou recreativas: operacionalização",
+        "descricao": "Concretização das ações necessárias à produção ou participação em atividades desportivas ou recreativas. Inclui o planeamento operacional, a definição de meios, a logística e organização do espaço ou materiais, estudo de viabilidade (quando aplicável), a definição dos meios de divulgação e a produção ou execução da atividade.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10.002.02_0e7ac96bdec5",
+                "nota": "Marcação de percurso da atividade"
+            },
+            {
+                "idNota": "nota_900.10.002.02_d3663c341919",
+                "nota": "Apoio logístico a provas desportivas"
+            }
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.10.002.02_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.10.002.02_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.10.002.02_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada em900.10.002.01- Conceção e realização de atividades desportivas ou recreativas: conceção e registo;PN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação.",
+                    "procRefs": [
+                        "900.10.002",
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.10.500",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Organização e participação em homenagens e cerimónias comemorativas",
+        "descricao": "Preparação e execução ou intervenção em atos de celebração de datas, pessoas ou acontecimentos relevantes e de entrega de prémios, distinções ou condecorações. Inicia com a proposta ou pedido de participação e termina com a realização do ato. Inclui, entre outras, o planeamento, a logística, estimativa dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável, a definição dos meios de divulgação e a produção.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10.500_44b234a47dfc",
+                "nota": "Entrega de prémios"
+            },
+            {
+                "idNota": "nota_900.10.500_0308ff137219",
+                "nota": "Celebração de datas comemorativas"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.10.500_aaca0e294f4d",
+                "nota": "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
+            },
+            {
+                "idNota": "nota_900.10.500_0a4841e7424d",
+                "nota": "A seleção dos premiados deve ser considerada em 850.10.500 – Atribuição de prémios"
+            },
+            {
+                "idNota": "nota_900.10.500_d42a91458b19",
+                "nota": "A seleção para atribuição de prémios de reconhecimento da prestação de atos cívicos ou para distinções honoríficas deve ser considerada em 950.30.001 – Reconhecimento por mérito e serviços prestados"
+            },
+            {
+                "idNota": "nota_900.10.500_cb85c1119275",
+                "nota": "A divulgação da cerimónia deve ser considerada em 900.20.201 - Edição e publicação de conteúdos"
+            },
+            {
+                "idNota": "nota_900.10.500_9a28cd8b0d72",
+                "nota": "As questões de segurança devem ser consideradas em 550.10 - Segurança pública"
+            },
+            {
+                "idNota": "nota_900.10.500_82560b92458b",
+                "nota": "A entrega de condecorações e distinções deve ser consideradada em 900.20.601 - Organização de cerimónias protocolares."
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "Grupo_IP",
+            "INFARMED",
+            "CP",
+            "IES",
+            "CCDR",
+            "IMT",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "ICNF",
+            "DGPM",
+            "DGRM",
+            "DGADR",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "GPP",
+            "CV",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "AL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INFARMED",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IMT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "II",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CV",
+                "interv": "Executar"
+            }
+        ],
+        "processosRelacionados": [
+            "300.10.005",
+            "350.30.001",
+            "500.10.001",
+            "550.10.001",
+            "550.10.007",
+            "850.10.500",
+            "850.10.600",
+            "900.10.001",
+            "900.10.002",
+            "900.20.601",
+            "900.20.602",
+            "950.30.001"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ]
+    },
+    {
+        "codigo": "900.10.500.01",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Organização e participação em homenagens e cerimónias comemorativas: programação e registo",
+        "descricao": "Planeamento, programação e registo de iniciativas comemorativas ou de homenagem. Inicia com a proposta e inclui a definição do cronograma, a identificação dos intervenientes, a decisão de execução da atividade e o seu registo (em imagem, som ou texto).",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10.500.01_7ae861d934a3",
+                "nota": "Programa da cerimónia"
+            },
+            {
+                "idNota": "nota_900.10.500.01_477b803be966",
+                "nota": "Registo fotográfico/vídeo da cerimónia"
+            }
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.10.500.01_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.10.500.01_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.10.500.01_0",
+                    "tipo": "densidade",
+                    "conteudo": "Sintetiza a informação de 900.10.500.02 - Organização e participação em homenagens e cerimónias comemorativas: operacionalização",
+                    "procRefs": [
+                        "900.10.500"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.10.500.02",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Organização e participação em homenagens e cerimónias comemorativas: operacionalização",
+        "descricao": "Concretização das ações necessárias à execução de atividades comemorativas. Inclui o planeamento operacional, a definição dos recursos a utilizar, a logística e organização do espaço ou materiais e a realização da atividade.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10.500.02_e5f7c491f437",
+                "nota": "Apoio logístico à cerimónia"
+            }
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.10.500.02_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.10.500.02_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.10.500.02_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada em900.10.500.01 - Organização e participação em homenagens e cerimónias comemorativas: programação e registo;PN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação.",
+                    "procRefs": [
+                        "900.10.500",
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.10.501",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Organização e participação em iniciativas de partilha e debate crítico",
+        "descricao": "Preparação e execução ou intervenção em atividades de divulgação e troca de ideias técnicas, científicas, culturais, políticas, sociais, ambientais ou outras. Inicia com a proposta ou o pedido de participação e termina com a conclusão da atividade. Inclui, entre outras, o planeamento, a logística, estimativa dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável, a definição dos meios de divulgação e a produção.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10.501_fa88755decb1",
+                "nota": "Apresentações em público e outras atividades especializadas ou de natureza técnica ou académica sobre algum tema concreto"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.10.501_6a66f74f83db",
+                "nota": "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
+            },
+            {
+                "idNota": "nota_900.10.501_8d7c1db527ee",
+                "nota": "As questões de segurança devem ser consideradas em 550"
+            },
+            {
+                "idNota": "nota_900.10.501_276a38f27065",
+                "nota": "10 - Segurança pública"
+            },
+            {
+                "idNota": "nota_900.10.501_011b13877c8d",
+                "nota": "As campanhas de saúde com intervenção clínica devem ser consideradas em 700.20.101 – Realização de ações de promoção da saúde"
+            },
+            {
+                "idNota": "nota_900.10.501_b5534273bd42",
+                "nota": "A divulgação, bem como a eventual publicação de atas deve ser considerada em 900.20.201 – Edição e publicação de conteúdos"
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "Grupo_IP",
+            "INFARMED",
+            "CP",
+            "IES",
+            "CCDR",
+            "IMT",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "ICNF",
+            "DGPM",
+            "DGRM",
+            "DGADR",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "GPP",
+            "CV",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "AL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INFARMED",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IMT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "II",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CV",
+                "interv": "Executar"
+            }
+        ],
+        "processosRelacionados": [
+            "150.20.101",
+            "500.10.001",
+            "800.20.001",
+            "800.20.002",
+            "800.20.500",
+            "900.20.001",
+            "900.20.002",
+            "900.20.200",
+            "900.20.201"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eSucessorDe"
+        ]
+    },
+    {
+        "codigo": "900.10.501.01",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Organização e participação em iniciativas de partilha e debate crítico: programação e registo",
+        "descricao": "Planeamento, programação e registo de iniciativas de partilha e debate crítico. Inicia com a proposta e inclui a definição do cronograma, a identificação dos intervenientes, a decisão de execução da atividade e o seu registo (em imagem, som ou texto).",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10.501.01_99d3925b5a12",
+                "nota": "Programa da iniciativa"
+            },
+            {
+                "idNota": "nota_900.10.501.01_01554bf3f62e",
+                "nota": "Registo fotográfico/vídeo da iniciativa"
+            }
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.10.501.01_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.10.501.01_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.10.501.01_0",
+                    "tipo": "densidade",
+                    "conteudo": "Sintetiza a informação de 900.10.501.02 - Organização e participação em iniciativas de partilha e debate crítico: operacionalização.",
+                    "procRefs": [
+                        "900.10.501"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.10.501.02",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Organização e participação em iniciativas de partilha e debate crítico: operacionalização",
+        "descricao": "Concretização das ações necessárias à execução de iniciativas de partilha e debate crítico. Inclui o planeamento operacional, a definição dos recursos a utilizar, a logística e organização do espaço ou materiais e a realização da atividade.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10.501.02_90e85894f988",
+                "nota": "Apoio logístico à iniciativa"
+            }
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.10.501.02_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.10.501.02_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.10.501.02_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada em900.10.501.01 - Organização e participação em iniciativas de partilha e debate crítico: programação e registo.PN 150.20.300 - Avaliação de atividades.",
+                    "procRefs": [
+                        "900.10.501",
+                        "150.20.300"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.10.502",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Organização e participação em iniciativas de prevenção e sensibilização",
+        "descricao": "Preparação e execução ou intervenção em ações que pretendem esclarecer, alertar ou prevenir riscos com o objetivo de alterar determinados comportamentos de natureza social, cultural ou cívica. Inicia com a proposta ou o pedido de participação e termina com a apreciação do relatório de execução da atividade. Inclui definição dos materiais informativos, distribuição e afetação de recursos, logística da ação, seleção e organização do espaço e do esquema protocolar, se aplicável.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10.502_5a42aaa185c0",
+                "nota": "Sessões de abordagem direta à população ou a públicos-alvo"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.10.502_36592044f72f",
+                "nota": "A conceção dos materiais e conteúdos informativos deve ser considerada em 900.20.200 – Conceção de conteúdos institucionais para divulgação"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "CP",
+            "Grupo_IP",
+            "INFARMED",
+            "CCDR",
+            "IES",
+            "IMT",
+            "ICNF",
+            "IGAMAOT",
+            "ACT",
+            "IES",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGPM",
+            "DGRM",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "CV",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "AL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INFARMED",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IMT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "II",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CV",
+                "interv": "Executar"
+            }
+        ],
+        "processosRelacionados": [
+            "150.20.103",
+            "150.20.300",
+            "300.10.005",
+            "300.30.008",
+            "500.10.001",
+            "900.20.001",
+            "900.20.002",
+            "900.20.200",
+            "900.20.201"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eSintetizadoPor",
+            "eSucessorDe",
+            "eSintetizadoPor",
+            "eSuplementoPara",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.10.502_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.10.502_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.10.502_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada emPN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação.",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.10.503",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Organização e participação em iniciativas de promoção ou divulgação de produtos e serviços",
+        "descricao": "Preparação e execução ou intervenção em atividades que estimulam o interesse ou dão a conhecer modos de vida, produtos ou serviços. Inicia com a proposta de realização ou o pedido de participação e termina com a apreciação do relatório de execução da atividade. Inclui, entre outras, o planeamento, a seleção dos participantes, articulação entre entidades, a logística, estimativa dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável, a definição dos meios de divulgação e a produção.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10.503_92f68bc037bc",
+                "nota": "Organização de atividades do serviço educativo"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.10.503_6e0ac76cf12c",
+                "nota": "A realização de ações de promoção da imagem de Portugal no estrangeiro, e de países estrangeiros em Portugal, deve ser considerada em 200.30.600 – Apoio à internacionalização e à promoção do país"
+            },
+            {
+                "idNota": "nota_900.10.503_a7e62c8a6695",
+                "nota": "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
+            },
+            {
+                "idNota": "nota_900.10.503_5e807552f773",
+                "nota": "O processamento de despesas e receitas deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
+            },
+            {
+                "idNota": "nota_900.10.503_771a9e30e42a",
+                "nota": "A mera publicitação de iniciativas de terceiros deve ser considerada em 900.10.504 - Publicitação de iniciativas e atividades de terceiros"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "CP",
+            "Grupo_IP",
+            "INFARMED",
+            "CCDR",
+            "IES",
+            "IMT",
+            "ICNF",
+            "IGAMAOT",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGPM",
+            "DGRM",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "CV"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "AL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INFARMED",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IMT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "II",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CV",
+                "interv": "Executar"
+            }
+        ],
+        "legislacao": [
+            "Lei_47_2014",
+            "Lei_10_2013",
+            "DL_67_2003",
+            "Lei_98_97"
+        ],
+        "processosRelacionados": [
+            "150.20.103",
+            "150.20.300",
+            "300.10.005",
+            "300.30.008",
+            "500.10.001",
+            "900.20.001",
+            "900.20.002",
+            "900.20.200",
+            "900.20.201"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eSintetizadoPor",
+            "eSucessorDe",
+            "eSintetizadoPor",
+            "eSuplementoPara",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.10.503_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.10.503_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.10.503_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente emPN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação.",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.10.504",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Publicitação de iniciativas e atividades de terceiros",
+        "descricao": "Divulgação de iniciativas e atividades de outras entidades. Inicia com o pedido de publicitação e termina com a decisão sobre a publicitação. Inclui a análise do pedido.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10.504_4c3fd5bfda77",
+                "nota": "Quando não há qualquer intervenção no processo para além da publicitação da atividade ou iniciativa"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.10.504_e79cbf4130ad",
+                "nota": "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
+            },
+            {
+                "idNota": "nota_900.10.504_b55aa36d5c7a",
+                "nota": "A divulgação de atividades ou serviços de terceiros que envolva participação ativa da administração deve ser considerada em 900.10.503 – Organização e participação em iniciativas de promoção ou divulgação de produtos e serviços"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "CP",
+            "INFARMED",
+            "IES",
+            "CCDR",
+            "IMT",
+            "ICNF",
+            "IGAMAOT",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "AL",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IMT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "II",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CV",
+                "interv": "Comunicar"
+            }
+        ],
+        "processosRelacionados": [
+            "150.20.101",
+            "150.20.300",
+            "300.10.005",
+            "300.30.008",
+            "900.20.200",
+            "900.20.201"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eSintetizadoPor",
+            "eSucessorDe",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": "1",
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.10.504_0",
+                    "tipo": "utilidade",
+                    "conteudo": "A utilidade do PN esgota-se na comunicação do ato."
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.10.504_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente emPN 150.20.300 - Avaliação de atividadesPN 300.30.008 - Registo de documentos e informação",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.10.505",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Organização e participação em cerimónia religiosa",
+        "descricao": "Preparação e execução ou intervenção em iniciativas de cariz religioso. Inicia com o pedido de organização ou de participação em ato espiritual ou religioso e termina com a realização ou participação no ato. Inclui identificação do ato, programação, definição dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.10.505_d37ab22bb483",
+                "nota": "Organização das celebrações espirituais e religiosas em estabelecimento prisional"
+            },
+            {
+                "idNota": "nota_900.10.505_cc6b0f3a7539",
+                "nota": "Cerimónias religiosas em centros educativos"
+            },
+            {
+                "idNota": "nota_900.10.505_a0b3eb5d2780",
+                "nota": "Cerimónias religiosas em hospitais e outros estabelecimentos do Serviço Nacional de Saúde"
+            },
+            {
+                "idNota": "nota_900.10.505_0651c7b50a65",
+                "nota": " Cerimónias religiosas em estabelecimentos das Forças Armadas e Forças de Segurança"
+            },
+            {
+                "idNota": "nota_900.10.505_d7eca3b49b2b",
+                "nota": "Procissões religiosas comemorativas dos padroeiros"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.10.505_6b65f76e6d72",
+                "nota": "As questões de segurança devem ser consideradas em 550.10 - Segurança pública"
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "N",
+        "donos": [
+            "DGRSP",
+            "IES",
+            "HH",
+            "FA",
+            "FSS",
+            "IES",
+            "CPL"
+        ],
+        "legislacao": [
+            "DL_253_2009",
+            "DL_252_2009",
+            "DL_251_2009",
+            "Lei_16_2001",
+            "Lei_58_2019",
+            "Lei_98_97"
+        ],
+        "processosRelacionados": [
+            "150.10.700",
+            "150.10.701",
+            "150.20.300",
+            "300.10.005",
+            "500.10.001"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSintetizadoPor",
+            "eSucessorDe",
+            "eSuplementoPara"
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.10.505_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.10.505_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.10.505_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada noPN 150.20.300 - Avaliação de atividades.",
+                    "procRefs": [
+                        "150.20.300"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.20",
+        "nivel": 2,
+        "estado": "A",
+        "titulo": "Execução de atividades de protocolo e comunicação institucional",
+        "descricao": "Compreende o conjunto de ações que visam a criação e promoção da imagem da instituição, bem como a administração estratégica dos contactos e do relacionamento entre a organização e os diferentes públicos que com ela se relacionam e interagem. Considerar a criação de identidade/imagem gráfica, a atividade editorial que suporta a publicação de conteúdos institucionais, o tratamento de informação publicada nos meios de comunicação social e na internet, a preparação de informação destinada à comunicação social, à internet e à intranet e, ainda, a conceção e produção de campanhas publicitárias e artigos promocionais. Compreende, ainda, o processamento de pedidos de informação/esclarecimento dirigidos por qualquer entidade, nacional ou estrangeira, aos serviços públicos (incluindo os pedidos apresentados por grupos parlamentares ou deputados).",
+        "notasAp": [
+            {
+                "idNota": "nota_900.20_c860abd83ef2",
+                "nota": "Mensagens de cortesia"
+            },
+            {
+                "idNota": "nota_900.20_71f343ab87e0",
+                "nota": "Convites institucionais (quando não incluídos no processo de organização de evento)"
+            },
+            {
+                "idNota": "nota_900.20_706a4b3c813c",
+                "nota": "Criação de logótipo e de linha gráfica (do organismo, da região, do produto, do programa, do serviço, do evento ou outros)"
+            },
+            {
+                "idNota": "nota_900.20_41c35b160906",
+                "nota": "Gestão de conteúdos para a internet e intranet"
+            },
+            {
+                "idNota": "nota_900.20_aefad35e75d8",
+                "nota": "Publicações, em papel ou suporte eletrónico, de estudos, relatórios, boletins ou folhetos informativos"
+            },
+            {
+                "idNota": "nota_900.20_2f11726c998a",
+                "nota": "Comunicados e notas de imprensa, entrevistas aos meios de comunicação social"
+            },
+            {
+                "idNota": "nota_900.20_da8a40a769ab",
+                "nota": "Criação de spots publicitários para divulgação nos meios de comunicação social"
+            },
+            {
+                "idNota": "nota_900.20_7a224a06160d",
+                "nota": "Cartazes"
+            },
+            {
+                "idNota": "nota_900.20_eeb4abf1247d",
+                "nota": "Edição de reproduções de peças do património cultural"
+            },
+            {
+                "idNota": "nota_900.20_f4bfa0da153b",
+                "nota": "Qualquer tipo de objeto promocional (canetas, camisolas, etc.)"
+            },
+            {
+                "idNota": "nota_900.20_eab3f0c89d30",
+                "nota": "Resposta a pedidos de informação"
+            },
+            {
+                "idNota": "nota_900.20_dc2f7ed4d17a",
+                "nota": "Bases de dados de contactos institucionais"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.20_452e2199dab2",
+                "nota": "O processamento dos pedidos/requisições de acesso a documentos devem ser considerados em \\\"Administração de direitos, bens e serviços/ Utilização, exploração e rentabilidade\\\" (300.50)"
+            },
+            {
+                "idNota": "nota_900.20_07c2affb4457",
+                "nota": "Não confundir com pedidos de parecer no âmbito dos processos de negócio em que o organismo participa, os quais devem ser considerados na área respetiva"
+            },
+            {
+                "idNota": "nota_900.20_ca76e42d09f3",
+                "nota": "Atividades como, por exemplo, edições para a divulgação de autores portugueses, devem ser consideradas em \\\"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\\\" (900.10)"
+            }
+        ]
+    },
+    {
+        "codigo": "900.20.001",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Criação de imagem e identidade gráficas",
+        "descricao": "Conceção e consolidação da imagem gráfica uniformizada a utilizar por uma instituição, de modo a permitir o seu reconhecimento. Inicia com a decisão de criar ou de mudar a imagem e termina com a divulgação oficial dos objetos gráficos concebidos. Inclui criação e apresentação de propostas de imagem gráfica e a seleção do objeto gráfico.",
+        "notasEx": [
+            {
+                "idNota": "nota_900.20.001_5c7593bf6e06",
+                "nota": "A aquisição de serviços e produtos deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "Grupo_IP",
+            "IES",
+            "INFARMED",
+            "CP",
+            "CCDR",
+            "IMT",
+            "ICNF",
+            "IGAMAOT",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "CV",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CV",
+                "interv": "Assessorar"
+            }
+        ],
+        "processosRelacionados": [
+            "300.10.005",
+            "400.10.606",
+            "500.10.001",
+            "900.10.001",
+            "900.10.002",
+            "900.10.501",
+            "900.10.502",
+            "900.10.503"
+        ],
+        "proRel": [
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eSuplementoPara",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eSucessorDe"
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.20.001_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.20.001_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.20.001_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutro PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.20.002",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Criação de produtos e artigos promocionais",
+        "descricao": "Conceção de produtos que consolidem e projetem a imagem da instituição na comunidade ou reforcem o simbolismo de um determinado acontecimento ou data. Inicia com a proposta de criação do produto ou artigo e termina com a apresentação do produto. Inclui definição e a aprovação do layout final.",
+        "notasEx": [
+            {
+                "idNota": "nota_900.20.002_02f6fe84b015",
+                "nota": "A aquisição de serviços deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "Grupo_IP",
+            "INFARMED",
+            "CP",
+            "CCDR",
+            "IES",
+            "IMT",
+            "ICNF",
+            "IGAMAOT",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "CV",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            }
+        ],
+        "processosRelacionados": [
+            "300.10.005",
+            "400.10.606",
+            "500.10.001",
+            "900.10.001",
+            "900.10.002",
+            "900.10.501",
+            "900.10.502",
+            "900.10.503"
+        ],
+        "proRel": [
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eSuplementoPara",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eSucessorDe"
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.20.002_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.20.002_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.20.002_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutro PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.20.200",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Conceção de conteúdos institucionais para divulgação",
+        "descricao": "Elaboração de conteúdos inerentes às atividades da organização e à definição de modalidades de difusão. Inicia com a definição dos conteúdos e termina com o envio para processo editorial ou a publicação. Inclui a criação, a redação de textos e a gestão de conteúdos.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.20.200_1ba029504c70",
+                "nota": "Criação de conteúdos para divulgação na internet, intranet e nas redes sociais"
+            },
+            {
+                "idNota": "nota_900.20.200_8bbb86c5cac3",
+                "nota": "Criação de conteúdos para folhetos institucionais e newsletter"
+            },
+            {
+                "idNota": "nota_900.20.200_021d9e80a635",
+                "nota": "Realização de campanhas e spots publicitários"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.20.200_013b4c9efb85",
+                "nota": "A aquisição de serviços de ou para publicidade deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
+            },
+            {
+                "idNota": "nota_900.20.200_9d9793a000fe",
+                "nota": "O arranjo gráfico de conteúdos informacionais no âmbito da atividade de edição deve ser considerado em 900.20.201 – Edição e publicação de conteúdos"
+            },
+            {
+                "idNota": "nota_900.20.200_4fc13bd28cb7",
+                "nota": "A comunicação de atos legislativos deve ser considerada em \\\"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\\\" (100.10)"
+            },
+            {
+                "idNota": "nota_900.20.200_b765167ec1c1",
+                "nota": "A elaboração de conteúdos decorrentes de um PN específico deve ser considerada no respetivo PN"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "Grupo_IP",
+            "INFARMED",
+            "IES",
+            "CP",
+            "CCDR",
+            "IMT",
+            "ICNF",
+            "IGAMAOT",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "CV",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "Lei_95_2015",
+            "Resolução_do_Conselho_de_Ministros_91_2012",
+            "Lei_36_2011",
+            "Resolução_do_Conselho_de_Ministros_47_2010",
+            "Lei_98_97"
+        ],
+        "processosRelacionados": [
+            "150.20.001",
+            "150.20.100",
+            "150.20.200",
+            "150.20.301",
+            "150.20.501",
+            "300.10.005",
+            "400.10.607",
+            "500.10.001",
+            "900.10.001",
+            "900.10.002",
+            "900.10.501",
+            "900.10.502",
+            "900.10.503",
+            "900.10.504",
+            "900.20.201"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eSuplementoPara",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSinteseDe"
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.20.200_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.20.200_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.20.200_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutro PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.20.201",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Edição e publicação de conteúdos",
+        "descricao": "Edição de publicações e comunicação de conteúdos institucionais, por iniciativa própria, imposição legal ou proposta de outras entidades. Inicia com a proposta de elaboração, cumprimento legal ou convite para participação na obra ou produto e termina com a divulgação. Inclui a definição e aprovação de layout, execução gráfica, e a apresentação da versão final. ",
+        "notasAp": [
+            {
+                "idNota": "nota_900.20.201_45cbf9e65fb1",
+                "nota": "Edição, reedição e reimpressão"
+            },
+            {
+                "idNota": "nota_900.20.201_bfd87a63f81e",
+                "nota": "Publicitação da informação institucional de forma tradicional (por exemplo sob a forma de edital ou anúncio) ou eletrónica (como os portais, plataformas)"
+            },
+            {
+                "idNota": "nota_900.20.201_77a887a98024",
+                "nota": "Publicação de diretórios de entidades"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.20.201_613b3c80fa9d",
+                "nota": "A conceção de conteúdos informacionais institucionais para posterior edição deve ser considerada em 900.20.200 – Conceção de conteúdos institucionais para divulgação"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "CP",
+            "Grupo_IP",
+            "IES",
+            "INFARMED",
+            "CCDR",
+            "IMT",
+            "ICNF",
+            "IGAMAOT",
+            "ACT",
+            "CASES",
+            "IES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "CV",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "DL_63_85",
+            "Lei_16_2008",
+            "Lei_98_97"
+        ],
+        "processosRelacionados": [
+            "100.10.001",
+            "100.10.002",
+            "100.10.003",
+            "100.10.200",
+            "100.10.400",
+            "100.10.600",
+            "100.10.800",
+            "150.10.001",
+            "150.10.100",
+            "150.10.200",
+            "150.10.300",
+            "150.10.400",
+            "150.20.001",
+            "150.20.100",
+            "150.20.101",
+            "300.10.005",
+            "400.10.602",
+            "400.10.603",
+            "400.10.604",
+            "400.10.607",
+            "400.10.201",
+            "400.10.445",
+            "400.10.446",
+            "450.10.447",
+            "450.20.003",
+            "450.20.503",
+            "450.20.504",
+            "450.20.505",
+            "500.10.001",
+            "500.30.004",
+            "800.10.604",
+            "800.10.605",
+            "800.20.001",
+            "900.10.001",
+            "900.10.002",
+            "900.10.501",
+            "900.10.502",
+            "900.10.503",
+            "900.10.504",
+            "900.20.200",
+            "950.10.400",
+            "950.10.601",
+            "150.40.001"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSuplementoPara",
+            "eAntecessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSintetizadoPor",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.20.201_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.20.201_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.20.201_0",
+                    "tipo": "densidade",
+                    "conteudo": "O conteúdo é recuperável noPN 900.20.200 - Conceção de conteúdos institucionais para divulgação",
+                    "procRefs": [
+                        "900.20.200"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.20.400",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Elaboração de informações ou esclarecimentos institucionais para a comunicação social",
+        "descricao": "Preparação e divulgação de informações e esclarecimentos sobre assuntos de interesse para a organização ou para a comunidade, através de órgãos de comunicação social. Inicia com a proposta ou decisão de transmitir a informação ou esclarecimento e termina com a comunicação da mesma. Inclui decisão e redação dos termos em que a comunicação vai ser feita.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.20.400_d9def1eeff2d",
+                "nota": "Exercício de direito de resposta"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "Grupo_IP",
+            "INFARMED",
+            "IES",
+            "CP",
+            "IMT",
+            "ICNF",
+            "IGAMAOT",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "CV",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "Lei_54_2010",
+            "Lei_27_2007",
+            "Lei_31_96",
+            "Lei_2_99",
+            "DL_106_88",
+            "Lei_98_97"
+        ],
+        "processosRelacionados": [
+            "500.10.001",
+            "900.20.402"
+        ],
+        "proRel": [
+            "eSuplementoPara",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.20.400_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.20.400_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.20.400_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutro PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.20.401",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Promoção ou participação em conferências de imprensa e entrevistas",
+        "descricao": "Organização ou intervenção em conferências de imprensa e entrevistas. Inicia com a decisão de organizar ou intervir e termina com a realização da conferência de imprensa ou entrevista. Inclui, no caso da entrevista, a seleção dos órgãos de comunicação social.",
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "INFARMED",
+            "CP",
+            "CCDR",
+            "IES",
+            "IMT",
+            "ICNF",
+            "IGAMAOT",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "CV",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "Lei_54_2010",
+            "Lei_27_2007",
+            "Lei_2_99",
+            "Lei_31_96",
+            "DL_106_88",
+            "Lei_98_97"
+        ],
+        "processosRelacionados": [
+            "500.10.001"
+        ],
+        "proRel": [
+            "eSuplementoPara"
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.20.401_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.20.401_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.20.401_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutro PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.20.402",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Recolha e tratamento de dados de imprensa",
+        "descricao": "Processamento de informação veiculada pela comunicação social, independentemente do suporte, sobre matérias ou temas de interesse para a instituição ou relacionados com esta. Inicia com a seleção dos meios onde se faz a recolha e termina com a disponibilização dos resultados da análise ao serviço/entidade competente. Inclui consulta e seleção de notícias ou artigos de opinião e análise dos seus conteúdos.",
+        "notasEx": [
+            {
+                "idNota": "nota_900.20.402_d61981cd5d02",
+                "nota": "A contratação de agência para esta recolha deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "CP",
+            "INFARMED",
+            "CCDR",
+            "IMT",
+            "ICNF",
+            "IGAMAOT",
+            "ACT",
+            "IES",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "CV"
+        ],
+        "participantes": [
+            {
+                "id": "IGAMAOT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "Lei_16_2008",
+            "Lei_98_97"
+        ],
+        "processosRelacionados": [
+            "300.30.002",
+            "900.20.400",
+            "500.10.001"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSuplementoPara"
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.20.402_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.20.402_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.20.402_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação recuperável nos meios de comunicação."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.20.600",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Criação e atualização de contactos institucionais",
+        "descricao": "Criação e atualização de listagens, bases de dados ou outra agregação de contactos singulares ou coletivos que interagem ou são destinatários de produtos ou serviços institucionais. Inicia com a identificação dos potenciais interlocutores ou destinatários de interesse para o desenvolvimento das atividades organizacionais e termina com a manifestação de ausência de interesse na manutenção do contacto. Inclui sistematização da informação dos contactos e respetivo registo.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.20.600_cae76ea242ab",
+                "nota": "Criação de mailing list da Entidade"
+            },
+            {
+                "idNota": "nota_900.20.600_e648c06b3cc2",
+                "nota": "Gestão de mailing list da Entidade"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.20.600_14434c1b1268",
+                "nota": "A aquisição de base de dados a outras entidades deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
+            },
+            {
+                "idNota": "nota_900.20.600_c959d7b21cf7",
+                "nota": "A criação e gestão de utilizadores de Sistemas de Informação da entidade devem ser considerados no PN 300.50.802 – Registo e identificação de utilizadores de serviços e de sistemas de informação"
+            },
+            {
+                "idNota": "nota_900.20.600_5b40df03bdec",
+                "nota": "O registo e controlo de entidades prestadoras de serviços devem ser considerados no PN 300.50.803 – Identificação e caracterização de prestadores e fornecedores de bens e serviços"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "CP",
+            "Grupo_IP",
+            "INFARMED",
+            "CCDR",
+            "IES",
+            "IMT",
+            "ICNF",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "IGAMAOT",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "CV"
+        ],
+        "participantes": [
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "Lei_26_2016",
+            "Lei_58_2019",
+            "Lei_35_2014",
+            "Lei_7_2009"
+        ],
+        "processosRelacionados": [
+            "300.30.008"
+        ],
+        "proRel": [
+            "eSintetizadoPor"
+        ],
+        "pca": {
+            "valores": 1,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.20.600_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 35/2014], LGTFP, art.º 178º - Prazo prescricional do procedimento disciplinar[Lei 7/2009], CT, art.º 329º - Prazo prescricional do procedimento disciplinar",
+                    "legRefs": [
+                        "Lei_35_2014",
+                        "Lei_7_2009"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.20.600_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação relativa à interação com os contactos institucionais recuperável noPN 300.30.008 - Registo de documentos e informação",
+                    "procRefs": [
+                        "300.30.008"
+                    ]
+                }
+            ]
+        },
+        "Notas": "PN não pode ser criado em sistemas informatizados sem autorização da CADA, para o fim indicado."
+    },
+    {
+        "codigo": "900.20.601",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Organização de cerimónias protocolares",
+        "descricao": "Preparação e realização de atos solenes institucionais que impliquem cerimonial de Estado. Inicia com a comunicação do órgão ou serviço competente e termina com a realização da cerimónia. Inclui, entre outras, a logística e organização dos espaços, de acordo com as regras do protocolo, e dos meios de divulgação.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.20.601_8557be6b96a4",
+                "nota": "Cerimónias de tomada de posse"
+            },
+            {
+                "idNota": "nota_900.20.601_c9a77cbf7ffe",
+                "nota": "Cerimónias de assinatura de documentos"
+            },
+            {
+                "idNota": "nota_900.20.601_70961dc470b3",
+                "nota": "Cerimónias de apresentação de credenciais"
+            },
+            {
+                "idNota": "nota_900.20.601_89923f1a001a",
+                "nota": "Cermónias fúnebres com honras de Estado"
+            },
+            {
+                "idNota": "nota_900.20.601_f855c7a34e02",
+                "nota": "Cerimónias nacionais"
+            },
+            {
+                "idNota": "nota_900.20.601_a9113585d26c",
+                "nota": "Cerimónias de entrega de condecorações e distinções"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.20.601_d745a315cb13",
+                "nota": "A aquisição de serviços deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e prestação de serviços"
+            },
+            {
+                "idNota": "nota_900.20.601_696a78df646d",
+                "nota": "As questões de segurança devem ser consideradas em 550.10 – Segurança pública"
+            },
+            {
+                "idNota": "nota_900.20.601_7ae175298462",
+                "nota": "A atribuição de medalhas e distinções de mérito por serviços prestados deve ser considerada em 950.30.001 - Reconhecimento por mérito e serviços prestados"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "INFARMED",
+            "CP",
+            "CCDR",
+            "IMT",
+            "ICNF",
+            "ACT",
+            "CASES",
+            "CGA",
+            "IES",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGPM",
+            "DGRM",
+            "DGADR",
+            "INIAV",
+            "IVV",
+            "IVDP"
+        ],
+        "participantes": [
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "Lei_40_2006"
+        ],
+        "processosRelacionados": [
+            "150.10.500",
+            "150.10.501",
+            "200.10.800",
+            "250.10.500",
+            "250.10.700",
+            "300.10.005",
+            "350.30.001",
+            "500.10.001",
+            "550.10.001",
+            "900.10.500",
+            "900.20.602",
+            "950.30.001"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ]
+    },
+    {
+        "codigo": "900.20.601.01",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Organização de cerimónias protocolares: preparação",
+        "descricao": "Sucessão de atos preparativos das cerimónias. Inicia com a comunicação do órgão ou serviço competente e termina com o esboço da cerimonia. Inclui a escolha do espaço e dos recursos humanos e materiais a afetar, previsão de encargos, lista de intervenientes e de entidades convidadas.",
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.20.601.01_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.20.601.01_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.20.601.01_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada em 900.20.601.02 - Organização de cerimónias de tomada de posse e assinatura de documentos: realização.",
+                    "procRefs": [
+                        "900.20.601"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.20.601.02",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Organização de cerimónias protocolares: realização",
+        "descricao": "Execução da cerimónia. Inicia com a organização do espaço de acordo com as regras de protocolo e termina com a concretização da cerimónia. Inclui o registo documental (em imagem, som ou texto).",
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.20.601.02_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.20.601.02_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.20.601.02_0",
+                    "tipo": "densidade",
+                    "conteudo": "Sintetiza a informação de 900.20.601.01 - Organização de cerimónias de tomada de posse e assinatura de documentos: preparação.",
+                    "procRefs": [
+                        "900.20.601"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.20.602",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Organização de visitas institucionais",
+        "descricao": "Preparação e realização de visitas de comitivas nacionais ou estrangeiras. Inicia com o pedido ou proposta da visita e termina com a concretização da mesma. Inclui, entre outras, o planeamento, a logística e organização dos espaços ou materiais, a definição do programa e dos meios de divulgação.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.20.602_551e948c82e9",
+                "nota": "Receção de entidades"
+            },
+            {
+                "idNota": "nota_900.20.602_42409f257b5c",
+                "nota": "Participação em visitas a outras entidades"
+            },
+            {
+                "idNota": "nota_900.20.602_cc3965c0d47f",
+                "nota": "Visitas oficiais"
+            },
+            {
+                "idNota": "nota_900.20.602_cfc1166a6e26",
+                "nota": "Visitas não oficiais"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.20.602_94f5d1cf3056",
+                "nota": "As visitas de Estado devem ser consideradas em 200.20.500 – Organização de visitas de Estado ou equiparadas"
+            },
+            {
+                "idNota": "nota_900.20.602_14cf50220f1a",
+                "nota": "A aquisição de serviços deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
+            },
+            {
+                "idNota": "nota_900.20.602_9a3f14a64a9e",
+                "nota": "As questões de segurança devem ser consideradas em 550.10 - Segurança pública"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "Grupo_IP",
+            "INFARMED",
+            "CP",
+            "CCDR",
+            "IES",
+            "IMT",
+            "ICNF",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "CV",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "INFARMED",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CV",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "Lei_40_2006"
+        ],
+        "processosRelacionados": [
+            "300.10.005",
+            "350.30.001",
+            "500.10.001",
+            "550.10.001",
+            "900.10.500",
+            "950.30.001"
+        ],
+        "proRel": [
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ]
+    },
+    {
+        "codigo": "900.20.602.01",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Organização de visitas institucionais: preparação",
+        "descricao": "Sucessão de atos preparativos das visitas. Inicia com o pedido ou proposta de realização da visita e termina com definição programa. Inclui a identificação das necessidades e preparação dos espaços a visitar.",
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.20.602.01_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.20.602.01_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.20.602.01_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada em 900.20.602.02 - Organização de visitas institucionais: realização.",
+                    "procRefs": [
+                        "900.20.602"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.20.602.02",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Organização de visitas institucionais: realização",
+        "descricao": "Concretização da visita. Inicia com a tomada de conhecimento do programa definitivo e termina com a sua realização ou execução. Inclui o registo documental. ",
+        "pca": {
+            "valores": 10,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.20.602.02_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.20.602.02_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.20.602.02_0",
+                    "tipo": "densidade",
+                    "conteudo": "Sintetiza a informação de 900.20.602.01 - Organização de visitas institucionais: preparação.",
+                    "procRefs": [
+                        "900.20.602"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.20.603",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Processamento de pedidos de audiência",
+        "descricao": "Tratamento de solicitação de audiência ou reunião por parte de cidadãos ou entidades. Inicia com o pedido e termina com a resposta ao interessado. Inclui agendamento e resposta ao pedido.",
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "CP",
+            "INFARMED",
+            "CCDR",
+            "IMT",
+            "IES",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "ICNF",
+            "IGAMAOT",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "CV",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "PDR2020",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "II",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CV",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "DL_4_2015",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.20.603_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.20.603_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.20.603_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada emPN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação.",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.20.604",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Tratamento de informações e processamento de pedidos de informação",
+        "descricao": "Processamento de informações recebidas e de pedidos de informações e/ou esclarecimentos dirigidos à ou pela instituição. Inicia com a receção ou envio do pedido e termina com a resposta ao mesmo. Inclui análise ou elaboração do pedido, recolha de informação pertinente e preparação da resposta.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.20.604_1bcacf87c0d4",
+                "nota": "Pedidos de informação que não integrem um processo específico"
+            },
+            {
+                "idNota": "nota_900.20.604_8f6ee68203a5",
+                "nota": "Receção e resposta a pedidos efetuados à entidade ou pela entidade"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.20.604_3c74b7068741",
+                "nota": "A emissão de informações vinculativas deve ser considerada em 100.20.001 – Produção de pareceres técnico-jurídicos de interpretação de diplomas jurídico-normativos"
+            },
+            {
+                "idNota": "nota_900.20.604_0bbcdf521d62",
+                "nota": "As instruções para a aplicação de normas e diplomas legais devem ser consideradas, respetivamente, em 100.20.200 - Produção e comunicação de instruções para a aplicação de diplomas jurídico-normativos"
+            },
+            {
+                "idNota": "nota_900.20.604_0d536dedbf44",
+                "nota": "As orientações e pareceres para a interpretação de normas técnicas devem ser consideradas em 100.20.400 - Produção de orientações e pareceres para a interpretação da norma técnica"
+            },
+            {
+                "idNota": "nota_900.20.604_09dfe81710e2",
+                "nota": "Os pedidos de informação e de consulta ao abrigo do direito de informação devem ser considerados no PN 300.50.400 - Processamento de pedidos de consulta e reprodução de documentos e informação"
+            },
+            {
+                "idNota": "nota_900.20.604_8ee5bd10427f",
+                "nota": "As reclamações devem ser consideradas em 950.20.001 – Processamento de petições, reclamações e sugestões"
+            },
+            {
+                "idNota": "nota_900.20.604_a911f45f0bd6",
+                "nota": "A elaboração de informações ou esclarecimentos institucionais para a comunicação social deve ser considerada em 900.20.400 – Elaboração de informações ou esclarecimentos institucionais para a comunicação social"
+            },
+            {
+                "idNota": "nota_900.20.604_7540aeea6ad3",
+                "nota": "Os convites para eventos devem ser classificados no respetivo PN do evento, na classe 900.10"
+            },
+            {
+                "idNota": "nota_900.20.604_e46ba01ddecb",
+                "nota": "A divulgação ou pedidos de divulgação de eventos por outras entidades devem ser classificados em 900.10.504 - Publicitação de iniciativas e atividades de terceiros"
+            },
+            {
+                "idNota": "nota_900.20.604_2a1a955d1c20",
+                "nota": "As mensagens de cortesia devem ser classificadas em 900.20.605 - Processamento de mensagens de cortesia"
+            },
+            {
+                "idNota": "nota_900.20.604_4fff7e80e4ee",
+                "nota": "Os pedidos de informação sobre processos específicos devem ser considerados no âmbito dos mesmos"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "CCDR",
+            "Grupo_IP",
+            "CP",
+            "IMT",
+            "IES",
+            "ICNF",
+            "IGAMAOT",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "CV",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "ICNF",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "II",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "INR",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CV",
+                "interv": "Apreciar"
+            }
+        ],
+        "legislacao": [
+            "DL_4_2015",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.20.604_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c900.20.604_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.20.604_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada emPN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação.",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "900.20.605",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Processamento de mensagens de cortesia",
+        "descricao": "Tratamento de mensagens de cortesia dirigidas à ou pela instituição. Inicia com a receção ou envio da mensagem e termina, quando aplicável, com a resposta à mesma. Inclui análise ou elaboração da mensagem e, quando aplicável, recolha de informação pertinente e preparação da resposta.",
+        "notasAp": [
+            {
+                "idNota": "nota_900.20.605_6765717fa736",
+                "nota": "Apresentação de mensagens de boas vindas"
+            },
+            {
+                "idNota": "nota_900.20.605_4336f2185ebd",
+                "nota": "Apresentação de mensagens de despedida"
+            },
+            {
+                "idNota": "nota_900.20.605_1974e83045bb",
+                "nota": "Apresentação de mensagens de congratulação"
+            },
+            {
+                "idNota": "nota_900.20.605_fb320818f441",
+                "nota": "Apresentação de cumprimentos"
+            },
+            {
+                "idNota": "nota_900.20.605_16be1f61966c",
+                "nota": "Convites institucionais (quando não incluídos no processo de organização de evento)"
+            },
+            {
+                "idNota": "nota_900.20.605_c59916e51b81",
+                "nota": "Apresentação de mensagens de boas festas"
+            },
+            {
+                "idNota": "nota_900.20.605_a77b16087b4c",
+                "nota": "Apresentação de mensagens de condolências"
+            },
+            {
+                "idNota": "nota_900.20.605_16895b877268",
+                "nota": "Notas verbais"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_900.20.605_94d1839758e5",
+                "nota": "Os convites institucionais, no âmbito da organização de um evento, deverão ser considerados no PN da respetiva organização do evento ou atividade de dinamização.O processamento de mensagens de elogio ou agradecimento a entidade pela qualidade de serviços prestados deve ser considerado em 950.20.300 – Processamento de mensagens de elogio e de agradecimento."
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "SGMNE",
+            "ACT",
+            "CASES",
+            "IES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "IGAMAOT",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "CCDR",
+            "CV"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "II",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "INR",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Apreciar"
+            }
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c900.20.605_0",
+                    "tipo": "gestionário",
+                    "conteudo": "Prazo para imputação de responsabilidade pela gestão estratégica, decorrente de escrutínio público (eleições).Considerou-se para a definição do prazo o tempo do mandato de maior duração: 5 anos (Presidente da República)."
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c900.20.605_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada emPN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação.",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    }
+]

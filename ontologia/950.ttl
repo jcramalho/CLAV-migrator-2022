@@ -1,0 +1,1835 @@
+
+###  http://jcr.di.uminho.pt/m51-clav#c950
+:c950 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N1 ;
+	:codigo '950' ;
+	:titulo 'ADMINISTRAÇÃO DA PARTICIPAÇÃO CÍVICA' ;
+	:pertenceLC :lc1 ;
+	:temPai :lc1 ;
+	:descricao 'Relativo à realização processos eleitorais para escolha dos representantes dos cidadãos (sufrágio universal), à realização de processos referendários, ao processamento de outros atos de participação dos cidadãos na gestão de assuntos públicos e, ainda, à atribuição de distinções honoríficas.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_950_04353037519e
+:nota_950_04353037519e rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A audição pública no âmbito de um determinado processo, deve ser considerada junto do processo respetivo - por exemplo, a audição pública no âmbito da elaboração de uma lei ou regulamento deve ser considerada em \"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\" (100.10)".
+
+:c950 :temNotaExclusao :nota_950_04353037519e .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.10
+:c950.10 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N2 ;
+	:codigo '950.10' ;
+	:titulo 'Administração eleitoral' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950 ;
+	:descricao 'Compreende as atividades de organização dos processos de sufrágio universal (nacional, regional e local) para eleições e para referendos, bem como o respetivo apuramento, transmissão e difusão de resultados.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10_add2dd9db48c
+:nota_950.10_add2dd9db48c rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Expediente administrativo produzido no âmbito da organização dos processos eleitoral e referendário".
+
+:c950.10 :temNotaAplicacao :nota_950.10_add2dd9db48c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10_705d89bae02a
+:nota_950.10_705d89bae02a rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A eleição para estruturas internas de serviços públicos (por exemplo, para órgãos de administração e gestão de escolas, para Conselhos, Comissões ou outros) deve ser considerada em \"Administração de relações de trabalho/ Estabelecimento e cessação de relações de trabalho\" (250.10)".
+
+:c950.10 :temNotaExclusao :nota_950.10_705d89bae02a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10_64c44916f9b4
+:nota_950.10_64c44916f9b4 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O registo de cidadãos eleitores e o registo de eleitos devem ser considerados em \"Prestação de serviços de identificação e registo/ Registo de dados de identificação e caracterização de entidades ou atos\" (400.10)".
+
+:c950.10 :temNotaExclusao :nota_950.10_64c44916f9b4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10_6ae7a00518c7
+:nota_950.10_6ae7a00518c7 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os processos de atualização do recenseamento eleitoral, incluindo o processamento de pedidos de atualização de dados individuais, devem ser considerados em \"Prestação de serviços de identificação e registo/ Registo de dados de identificação e caracterização de entidades ou atos\" (400.10)".
+
+:c950.10 :temNotaExclusao :nota_950.10_6ae7a00518c7 .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.10.001
+:c950.10.001 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '950.10.001' ;
+	:titulo 'Marcação de atos eleitorais e referendários' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.10 ;
+	:descricao 'Definição de data para a realização de atos eleitorais e referendários. Inicia com a apresentação da proposta de data e termina com a publicação da decisão. Inclui consulta de entidades, decisão e comunicação da data.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.001_0070e5f87c6b
+:nota_950.10.001_0070e5f87c6b rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Referendos nacionais, regionais e locais".
+
+:c950.10.001 :temNotaAplicacao :nota_950.10.001_0070e5f87c6b .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.001_0a1350875550
+:nota_950.10.001_0a1350875550 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Eleições legislativas".
+
+:c950.10.001 :temNotaAplicacao :nota_950.10.001_0a1350875550 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.001_24bd3bc473f9
+:nota_950.10.001_24bd3bc473f9 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Eleições para a presidência da república".
+
+:c950.10.001 :temNotaAplicacao :nota_950.10.001_24bd3bc473f9 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.001_48d722473213
+:nota_950.10.001_48d722473213 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Eleições regionais e autárquicas".
+
+:c950.10.001 :temNotaAplicacao :nota_950.10.001_48d722473213 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.001_e9c1d59eef10
+:nota_950.10.001_e9c1d59eef10 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Eleições dos orgãos de soberania, das regiões autónomas, do poder local e do Conselho das Comunidades Portuguesas".
+
+:c950.10.001 :temNotaAplicacao :nota_950.10.001_e9c1d59eef10 .
+
+:c950.10.001 :processoTipoVC :vc_processoTipo_pe .
+:c950.10.001 :processoTransversal "S" .
+:c950.10.001 :temDono :ent_PR .
+:c950.10.001 :temDono :tip_Gov .
+:c950.10.001 :temDono :tip_AL .
+:c950.10.001 :temDono :ent_GovReg-A .
+:c950.10.001 :temDono :ent_GovReg-M .
+:c950.10.001 :temParticipanteComunicador :ent_CNE .
+:c950.10.001 :temParticipanteComunicador :ent_SGMAI .
+:c950.10.001 :temParticipanteAssessor :tip_Cns .
+:c950.10.001 :temLegislacao :leg_DL_319_A_76 .
+:c950.10.001 :temLegislacao :leg_Lei_14_79 .
+:c950.10.001 :temLegislacao :leg_DL_267_80 .
+:c950.10.001 :temLegislacao :leg_Lei_Orgânica_1_2006 .
+:c950.10.001 :temLegislacao :leg_Lei_Orgânica_1_2001 .
+:c950.10.001 :temLegislacao :leg_Lei_14_87 .
+:c950.10.001 :temLegislacao :leg_Portaria_197_2015 .
+:c950.10.001 :temRelProc :c950.10.200 .
+:c950.10.001 :eAntecessorDe :c950.10.200 .
+:c950.10.001 :temRelProc :c950.10.201 .
+:c950.10.001 :eAntecessorDe :c950.10.201 .
+:c950.10.001 :temRelProc :c950.10.400 .
+:c950.10.001 :eAntecessorDe :c950.10.400 .
+:c950.10.001 :temRelProc :c950.10.402 .
+:c950.10.001 :eAntecessorDe :c950.10.402 .
+:c950.10.001 :temRelProc :c950.10.600 .
+:c950.10.001 :eSucessorDe :c950.10.600 .
+:c950.10.001 :temPCA :pca_c950.10.001.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c950.10.001
+:pca_c950.10.001 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c950.10.001 :pcaValor 5.0.
+:pca_c950.10.001 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c950.10.001
+:just_pca_c950.10.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c950.10.001 :temJustificacao :just_pca_c950.10.001 .
+:just_pca_c950.10.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoGestionario ;
+	:conteudo "Prazo para imputação de responsabilidade pela gestão estratégica, decorrente de escrutínio público (eleições) ou da não recondução no mandato.Considerou-se para a definição do prazo o tempo do mandato de maior duração: 5 anos." .
+:just_pca_c950.10.001 :temCriterio :just_pca_c950.10.001_0. 
+:c950.10.001 :temDF :df_c950.10.001.
+###  http://jcr.di.uminho.pt/m51-clav#df_c950.10.001
+:df_c950.10.001 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c950.10.001 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c950.10.001
+:just_df_c950.10.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c950.10.001 :temJustificacao :just_df_c950.10.001 .
+:just_df_c950.10.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação constante do PN 950.10.600 - Controlo de operações de votação nas assembleias e mesas de voto." .
+:just_df_c950.10.001 :temCriterio :just_df_c950.10.001_0. 
+:just_df_c950.10.001_0 :critTemProcRel :c950.10.600 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.10.200
+:c950.10.200 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '950.10.200' ;
+	:titulo 'Apreciação e admissão de candidaturas a atos eleitorais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.10 ;
+	:descricao 'Análise e aceitação de candidaturas apresentadas por partidos políticos, coligações eleitorais, candidaturas independentes e grupos de cidadãos. Inicia com a apresentação das candidaturas e termina com a publicitação das listas. Inclui verificação da legalidade e regularidade das candidaturas, notificação de aceitação ou de rejeição de candidaturas, reclamação da decisão e sorteio das listas apresentadas.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.200_82025559bb68
+:nota_950.10.200_82025559bb68 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Situações de substituição e desistência de candidaturas e de candidatos".
+
+:c950.10.200 :temNotaAplicacao :nota_950.10.200_82025559bb68 .
+
+:c950.10.200 :processoTipoVC :vc_processoTipo_pe .
+:c950.10.200 :processoTransversal "S" .
+:c950.10.200 :temDono :ent_TC .
+:c950.10.200 :temDono :ent_STJ .
+:c950.10.200 :temParticipanteComunicador :ent_PR .
+:c950.10.200 :temLegislacao :leg_DL_319_A_76 .
+:c950.10.200 :temLegislacao :leg_Lei_14_79 .
+:c950.10.200 :temLegislacao :leg_DL_267_80 .
+:c950.10.200 :temLegislacao :leg_Lei_Orgânica_1_2006 .
+:c950.10.200 :temLegislacao :leg_Lei_Orgânica_1_2001 .
+:c950.10.200 :temLegislacao :leg_Lei_14_87 .
+:c950.10.200 :temLegislacao :leg_Portaria_197_2015 .
+:c950.10.200 :temRelProc :c950.10.001 .
+:c950.10.200 :eSucessorDe :c950.10.001 .
+:c950.10.200 :temRelProc :c950.10.400 .
+:c950.10.200 :eAntecessorDe :c950.10.400 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.10.200.01
+:c950.10.200.01 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '950.10.200.01' ;
+	:titulo 'Apreciação e admissão de candidaturas a atos eleitorais: apresentação de candidaturas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.10.200 ;
+	:descricao 'Receção de candidaturas a atos eleitorais. Inicia com a apresentação das candidaturas e termina com a emissão de recibos ou comprovativos de receção. Inclui a conferência das assinaturas.' .
+:c950.10.200.01 :temPCA :pca_c950.10.200.01.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c950.10.200.01
+:pca_c950.10.200.01 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c950.10.200.01 :pcaValor 5.0.
+:pca_c950.10.200.01 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c950.10.200.01
+:just_pca_c950.10.200.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c950.10.200.01 :temJustificacao :just_pca_c950.10.200.01 .
+:just_pca_c950.10.200.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 319-A/76], art.º 159º, alínea c) “ Toda a documentação relativa à apresentação de candidaturas será conservada durante o prazo de cinco anos a contar da data de tomada de posse do candidato eleito.”[Lei 14/87], art.º 17º \"A documentação relativa à apresentação de candidaturas será conservada pelo Tribunal Constitucional durante o prazo de cinco anos a contar da data da proclamação dos resultados.\"Extensão desta disposição aos demais atos eleitorais e referendários." .
+:just_pca_c950.10.200.01 :temCriterio :just_pca_c950.10.200.01_0. 
+:just_pca_c950.10.200.01_0 :critTemLegAssoc :leg_DL_319_A_76 .
+:just_pca_c950.10.200.01_0 :critTemLegAssoc :leg_Lei_14_87 .
+:c950.10.200.01 :temDF :df_c950.10.200.01.
+###  http://jcr.di.uminho.pt/m51-clav#df_c950.10.200.01
+:df_c950.10.200.01 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c950.10.200.01 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c950.10.200.01
+:just_df_c950.10.200.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c950.10.200.01 :temJustificacao :just_df_c950.10.200.01 .
+:just_df_c950.10.200.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada emPN 950.10.200.02 - Apreciação e admissão de candidaturas a atos eleitorais: apreciação e decisão de candidaturas." .
+:just_df_c950.10.200.01 :temCriterio :just_df_c950.10.200.01_0. 
+:just_df_c950.10.200.01_0 :critTemProcRel :c950.10.200 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.10.200.02
+:c950.10.200.02 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '950.10.200.02' ;
+	:titulo 'Apreciação e admissão de candidaturas a atos eleitorais: apreciação e decisão de candidaturas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.10.200 ;
+	:descricao 'Análise e deliberação sobre as candidaturas apresentadas. Inicia com a verificação das condições de admissibilidade e termina com a publicitação das listas. Inclui verificação da legalidade e regularidade das candidaturas, notificação de aceitação ou de rejeição de candidaturas, reclamação da decisão e sorteio das listas apresentadas. Inclui ainda o sorteio das listas apresentadas a constar nos boletins de voto.' .
+:c950.10.200.02 :temPCA :pca_c950.10.200.02.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c950.10.200.02
+:pca_c950.10.200.02 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c950.10.200.02 :pcaValor 5.0.
+:pca_c950.10.200.02 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c950.10.200.02
+:just_pca_c950.10.200.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c950.10.200.02 :temJustificacao :just_pca_c950.10.200.02 .
+:just_pca_c950.10.200.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 14/87], art.º 17º \"A documentação relativa à apresentação de candidaturas será conservada pelo Tribunal Constitucional durante o prazo de cinco anos a contar da data da proclamação dos resultados.\"Extensão desta disposição aos demais atos eleitorais e referendários." .
+:just_pca_c950.10.200.02 :temCriterio :just_pca_c950.10.200.02_0. 
+:just_pca_c950.10.200.02_0 :critTemLegAssoc :leg_Lei_14_87 .
+:c950.10.200.02 :temDF :df_c950.10.200.02.
+###  http://jcr.di.uminho.pt/m51-clav#df_c950.10.200.02
+:df_c950.10.200.02 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c950.10.200.02 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c950.10.200.02
+:just_df_c950.10.200.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c950.10.200.02 :temJustificacao :just_df_c950.10.200.02 .
+:just_df_c950.10.200.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN.A informação sobre as candidaturas rejeitadas apenas é recuperável neste PN." .
+:just_df_c950.10.200.02 :temCriterio :just_df_c950.10.200.02_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.10.201
+:c950.10.201 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '950.10.201' ;
+	:titulo 'Apreciação e admissão de propostas de referendo' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.10 ;
+	:descricao 'Análise e aceitação de propostas de referendo. Inicia com a apresentação das iniciativas de proposta e termina com o envio da resolução para convocação de referendo. Inclui análise da proposta de referendo, consulta de entidades, notificação de interessados, discussão e votação, elaboração de projeto de resolução e decisão.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.201_4213daa18fb3
+:nota_950.10.201_4213daa18fb3 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Admissão de propostas para referendos nacionais, regionais e locais".
+
+:c950.10.201 :temNotaAplicacao :nota_950.10.201_4213daa18fb3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.201_eb5f8a52f9e0
+:nota_950.10.201_eb5f8a52f9e0 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Propostas da iniciativa de deputados, de grupos parlamentares, do Governo ou de grupos de cidadãos eleitores".
+
+:c950.10.201 :temNotaAplicacao :nota_950.10.201_eb5f8a52f9e0 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.201_130531a8c77f
+:nota_950.10.201_130531a8c77f rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A fiscalização preventiva das iniciativas de referendo, ou da verificação da sua constitucionalidade e legalidade, deve ser considerada em “Administração da justiça” (600.30)".
+
+:c950.10.201 :temNotaExclusao :nota_950.10.201_130531a8c77f .
+
+:c950.10.201 :processoTipoVC :vc_processoTipo_pe .
+:c950.10.201 :processoTransversal "S" .
+:c950.10.201 :temDono :ent_TC .
+:c950.10.201 :temParticipanteComunicador :ent_PR .
+:c950.10.201 :temParticipanteIniciador :tip_AL .
+:c950.10.201 :temParticipanteIniciador :ent_AR .
+:c950.10.201 :temParticipanteIniciador :ent_ALRAA .
+:c950.10.201 :temParticipanteIniciador :ent_ALRAM .
+:c950.10.201 :temParticipanteIniciador :tip_AM .
+:c950.10.201 :temParticipanteIniciador :tip_AF .
+:c950.10.201 :temParticipanteIniciador :ent_CM .
+:c950.10.201 :temLegislacao :leg_Lei_15_A_98 .
+:c950.10.201 :temLegislacao :leg_Lei_4_2000 .
+:c950.10.201 :temLegislacao :leg_Lei_2_2015 .
+:c950.10.201 :temLegislacao :leg_DL_319_A_76 .
+:c950.10.201 :temLegislacao :leg_Lei_14_79 .
+:c950.10.201 :temLegislacao :leg_Lei_14_87 .
+:c950.10.201 :temLegislacao :leg_Lei_1_2001 .
+:c950.10.201 :temLegislacao :leg_DL_267_80 .
+:c950.10.201 :temLegislacao :leg_Lei_1_2006 .
+:c950.10.201 :temLegislacao :leg_Lei_15_A_98 .
+:c950.10.201 :temLegislacao :leg_Lei_4_2000 .
+:c950.10.201 :temRelProc :c150.10.100 .
+:c950.10.201 :eCruzadoCom :c150.10.100 .
+:c950.10.201 :temRelProc :c150.10.700 .
+:c950.10.201 :eAntecessorDe :c150.10.700 .
+:c950.10.201 :temRelProc :c150.10.701 .
+:c950.10.201 :eAntecessorDe :c150.10.701 .
+:c950.10.201 :temRelProc :c600.30.712 .
+:c950.10.201 :eCruzadoCom :c600.30.712 .
+:c950.10.201 :temRelProc :c950.10.001 .
+:c950.10.201 :eSucessorDe :c950.10.001 .
+:c950.10.201 :temRelProc :c950.10.400 .
+:c950.10.201 :eSucessorDe :c950.10.400 .
+:c950.10.201 :temPCA :pca_c950.10.201.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c950.10.201
+:pca_c950.10.201 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c950.10.201 :pcaValor 5.0.
+:pca_c950.10.201 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c950.10.201
+:just_pca_c950.10.201 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c950.10.201 :temJustificacao :just_pca_c950.10.201 .
+:just_pca_c950.10.201_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 14/87], art.º 17º \"A documentação relativa à apresentação de candidaturas será conservada pelo Tribunal Constitucional durante o prazo de cinco anos a contar da data da proclamação dos resultados.\"Extensão desta disposição aos demais atos eleitorais e referendários." .
+:just_pca_c950.10.201 :temCriterio :just_pca_c950.10.201_0. 
+:just_pca_c950.10.201_0 :critTemLegAssoc :leg_Lei_14_87 .
+:c950.10.201 :temDF :df_c950.10.201.
+###  http://jcr.di.uminho.pt/m51-clav#df_c950.10.201
+:df_c950.10.201 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c950.10.201 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c950.10.201
+:just_df_c950.10.201 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c950.10.201 :temJustificacao :just_df_c950.10.201 .
+:just_df_c950.10.201_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN.A informação sobre as candidaturas rejeitadas apenas é recuperável neste PN." .
+:just_df_c950.10.201 :temCriterio :just_df_c950.10.201_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.10.400
+:c950.10.400 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '950.10.400' ;
+	:titulo 'Apoio técnico e logístico ao processo eleitoral e referendário' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.10 ;
+	:descricao 'Organização, conceção e disponibilização de impressos, equipamentos e outros materiais necessários à realização dos atos eleitorais e referendários. Inicia com a definição do calendário eleitoral e referendário e termina com a entrega dos materiais a utilizar. Inclui definição do formato e da cor dos boletins de voto, organização dos cadernos de recenseamento eleitoral atendendo às mesas de voto, verificação do estado do material disponibilizado e comunicação dos procedimentos a observar.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.400_a676eabf094f
+:nota_950.10.400_a676eabf094f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Preparação e entrega de boletins de voto".
+
+:c950.10.400 :temNotaAplicacao :nota_950.10.400_a676eabf094f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.400_355afeb60a3d
+:nota_950.10.400_355afeb60a3d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Preparação e entrega de cadernos de eleitorais".
+
+:c950.10.400 :temNotaAplicacao :nota_950.10.400_355afeb60a3d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.400_79ddbc681963
+:nota_950.10.400_79ddbc681963 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Preparação e entrega de manuais de procedimentos".
+
+:c950.10.400 :temNotaAplicacao :nota_950.10.400_79ddbc681963 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.400_4b7d2b5b843f
+:nota_950.10.400_4b7d2b5b843f rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A elaboração gráfica dos manuais de procedimentos deverá ser considerada em 900.20.201 – Edição e publicação de conteúdos".
+
+:c950.10.400 :temNotaExclusao :nota_950.10.400_4b7d2b5b843f .
+
+:c950.10.400 :processoTipoVC :vc_processoTipo_pe .
+:c950.10.400 :processoTransversal "S" .
+:c950.10.400 :temDono :ent_SGMAI .
+:c950.10.400 :temParticipanteAssessor :tip_AL .
+:c950.10.400 :temParticipanteAssessor :tip_Cns .
+:c950.10.400 :temLegislacao :leg_DL_319_A_76 .
+:c950.10.400 :temLegislacao :leg_Lei_14_79 .
+:c950.10.400 :temLegislacao :leg_Lei_14_87 .
+:c950.10.400 :temLegislacao :leg_Lei_Orgânica_1_2001 .
+:c950.10.400 :temLegislacao :leg_DL_267_80 .
+:c950.10.400 :temLegislacao :leg_Lei_Orgânica_1_2006 .
+:c950.10.400 :temLegislacao :leg_Lei_15_A_98 .
+:c950.10.400 :temLegislacao :leg_Lei_Orgânica_4_2000 .
+:c950.10.400 :temLegislacao :leg_Lei_Orgânica_2_2015 .
+:c950.10.400 :temLegislacao :leg_Lei_66_A_2007 .
+:c950.10.400 :temLegislacao :leg_Portaria_197_2015 .
+:c950.10.400 :temLegislacao :leg_Lei_98_97 .
+:c950.10.400 :temRelProc :c150.20.300 .
+:c950.10.400 :eSintetizadoPor :c150.20.300 .
+:c950.10.400 :temRelProc :c300.10.005 .
+:c950.10.400 :eCruzadoCom :c300.10.005 .
+:c950.10.400 :temRelProc :c350.30.001 .
+:c950.10.400 :eCruzadoCom :c350.30.001 .
+:c950.10.400 :temRelProc :c500.10.001 .
+:c950.10.400 :eSuplementoPara :c500.10.001 .
+:c950.10.400 :temRelProc :c900.20.201 .
+:c950.10.400 :eSucessorDe :c900.20.201 .
+:c950.10.400 :temRelProc :c950.10.001 .
+:c950.10.400 :eSucessorDe :c950.10.001 .
+:c950.10.400 :temRelProc :c950.10.200 .
+:c950.10.400 :eSucessorDe :c950.10.200 .
+:c950.10.400 :temRelProc :c950.10.201 .
+:c950.10.400 :eAntecessorDe :c950.10.201 .
+:c950.10.400 :temRelProc :c950.10.401 .
+:c950.10.400 :eSucessorDe :c950.10.401 .
+:c950.10.400 :temRelProc :c950.10.600 .
+:c950.10.400 :eSucessorDe :c950.10.600 .
+:c950.10.400 :temRelProc :c950.10.602 .
+:c950.10.400 :eSintetizadoPor :c950.10.602 .
+:c950.10.400 :temPCA :pca_c950.10.400.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c950.10.400
+:pca_c950.10.400 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c950.10.400 :pcaValor 10.0.
+:pca_c950.10.400 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c950.10.400
+:just_pca_c950.10.400 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c950.10.400 :temJustificacao :just_pca_c950.10.400 .
+:just_pca_c950.10.400_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c950.10.400 :temCriterio :just_pca_c950.10.400_0. 
+:just_pca_c950.10.400_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c950.10.400_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 (no que diz respeito à atuação da Administração)." .
+:just_pca_c950.10.400 :temCriterio :just_pca_c950.10.400_1. 
+:just_pca_c950.10.400_1 :critTemProcRel :c500.10.001 .
+:c950.10.400 :temDF :df_c950.10.400.
+###  http://jcr.di.uminho.pt/m51-clav#df_c950.10.400
+:df_c950.10.400 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c950.10.400 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c950.10.400
+:just_df_c950.10.400 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c950.10.400 :temJustificacao :just_df_c950.10.400 .
+:just_df_c950.10.400_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente em:PN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 950.10.602 - Apuramento geral de resultados eleitorais (nas atas do ato eleitoral)." .
+:just_df_c950.10.400 :temCriterio :just_df_c950.10.400_0. 
+:just_df_c950.10.400_0 :critTemProcRel :c150.20.300 .
+:just_df_c950.10.400_0 :critTemProcRel :c950.10.602 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.10.401
+:c950.10.401 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '950.10.401' ;
+	:titulo 'Constituição de assembleias de voto' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.10 ;
+	:descricao 'Composição das assembleias e mesas de voto. Inicia com a determinação do local de funcionamento da assembleia de voto e termina com a afixação do mapa definitivo das assembleias e secções de voto através de edital. Inclui determinação do número de secções de voto, escolha dos membros das mesas, designação e credenciação dos delegados das candidaturas concorrentes, afixação dos desdobramentos e anexações de secções de voto.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.401_3df8da502ffb
+:nota_950.10.401_3df8da502ffb rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Constituição das assembleias de voto".
+
+:c950.10.401 :temNotaAplicacao :nota_950.10.401_3df8da502ffb .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.401_91fa3acb6010
+:nota_950.10.401_91fa3acb6010 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Constituição das mesas de voto".
+
+:c950.10.401 :temNotaAplicacao :nota_950.10.401_91fa3acb6010 .
+
+:c950.10.401 :processoTipoVC :vc_processoTipo_pe .
+:c950.10.401 :processoTransversal "S" .
+:c950.10.401 :temDono :tip_AL .
+:c950.10.401 :temDono :ent_DGACCP .
+:c950.10.401 :temParticipanteComunicador :ent_SGMAI .
+:c950.10.401 :temLegislacao :leg_DL_319_A_76 .
+:c950.10.401 :temLegislacao :leg_Lei_14_79 .
+:c950.10.401 :temLegislacao :leg_Lei_14_87 .
+:c950.10.401 :temLegislacao :leg_Lei_Orgânica_1_2001 .
+:c950.10.401 :temLegislacao :leg_DL_267_80 .
+:c950.10.401 :temLegislacao :leg_Lei_Orgânica_1_2006 .
+:c950.10.401 :temLegislacao :leg_Lei_15_A_98 .
+:c950.10.401 :temLegislacao :leg_Lei_Orgânica_4_2000 .
+:c950.10.401 :temLegislacao :leg_Lei_Orgânica_2_2015 .
+:c950.10.401 :temLegislacao :leg_Lei_1_2001 .
+:c950.10.401 :temRelProc :c950.10.400 .
+:c950.10.401 :eAntecessorDe :c950.10.400 .
+:c950.10.401 :temRelProc :c950.10.602 .
+:c950.10.401 :eSintetizadoPor :c950.10.602 .
+:c950.10.401 :temPCA :pca_c950.10.401.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c950.10.401
+:pca_c950.10.401 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c950.10.401 :pcaValor 1.0.
+:pca_c950.10.401 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c950.10.401
+:just_pca_c950.10.401 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c950.10.401 :temJustificacao :just_pca_c950.10.401 .
+:just_pca_c950.10.401_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 1/2001], art.º 152º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\"[Lei 15-A/98], art.º 161º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\"Extensão destas disposições aos demais atos eleitorais e referendários." .
+:just_pca_c950.10.401 :temCriterio :just_pca_c950.10.401_0. 
+:just_pca_c950.10.401_0 :critTemLegAssoc :leg_Lei_1_2001 .
+:just_pca_c950.10.401_0 :critTemLegAssoc :leg_Lei_15_A_98 .
+:c950.10.401 :temDF :df_c950.10.401.
+###  http://jcr.di.uminho.pt/m51-clav#df_c950.10.401
+:df_c950.10.401 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c950.10.401 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c950.10.401
+:just_df_c950.10.401 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c950.10.401 :temJustificacao :just_df_c950.10.401 .
+:just_df_c950.10.401_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 1/2001], art.º 152º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\"[Lei 15-A/98], art.º 161º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\"Extensão desta disposição aos demais atos eleitorais e referendários." .
+:just_df_c950.10.401 :temCriterio :just_df_c950.10.401_0. 
+:just_df_c950.10.401_0 :critTemLegAssoc :leg_Lei_1_2001 .
+:just_df_c950.10.401_0 :critTemLegAssoc :leg_Lei_15_A_98 .
+:just_df_c950.10.401_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada noPN 950.10.602 - Apuramento geral de resultados." .
+:just_df_c950.10.401 :temCriterio :just_df_c950.10.401_1. 
+:just_df_c950.10.401_1 :critTemProcRel :c950.10.602 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.10.402
+:c950.10.402 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '950.10.402' ;
+	:titulo 'Definição e atribuição de meios para propaganda eleitoral' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.10 ;
+	:descricao 'Determinação e concessão de meios necessários ao desenvolvimento das atividades de propaganda eleitoral. Inicia com a determinação dos espaços e meios reservados para a propaganda eleitoral e termina com o estabelecimento de prazos para a remoção dos materiais utilizados. Inclui estabelecimento e distribuição dos tempos reservados para o exercício do direito de antena, comunicação à entidade competente da publicação nos média de matérias respeitantes à campanha eleitoral, requisição de espaços e comunicação da sua disponibilização para ações de campanha eleitoral, estabelecimento de locais para afixação de materiais de propaganda eleitoral.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.402_ced60f7d18fd
+:nota_950.10.402_ced60f7d18fd rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atribuição de tempos de antena e relações com os partidos políticos, no âmbito do desenrolar dos processos eleitorais e referendários".
+
+:c950.10.402 :temNotaAplicacao :nota_950.10.402_ced60f7d18fd .
+
+:c950.10.402 :processoTipoVC :vc_processoTipo_pe .
+:c950.10.402 :processoTransversal "S" .
+:c950.10.402 :temDono :ent_CNE .
+:c950.10.402 :temParticipanteAssessor :tip_AL .
+:c950.10.402 :temLegislacao :leg_Lei_14_79 .
+:c950.10.402 :temLegislacao :leg_Lei_Orgânica_1_2001 .
+:c950.10.402 :temLegislacao :leg_Lei_19_2003 .
+:c950.10.402 :temLegislacao :leg_DL_433_82 .
+:c950.10.402 :temLegislacao :leg_Lei_1_2001 .
+:c950.10.402 :temLegislacao :leg_Lei_15_A_98 .
+:c950.10.402 :temRelProc :c950.10.001 .
+:c950.10.402 :eSucessorDe :c950.10.001 .
+:c950.10.402 :temPCA :pca_c950.10.402.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c950.10.402
+:pca_c950.10.402 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c950.10.402 :pcaValor 5.0.
+:pca_c950.10.402 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c950.10.402
+:just_pca_c950.10.402 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c950.10.402 :temJustificacao :just_pca_c950.10.402 .
+:just_pca_c950.10.402_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c950.10.402 :temCriterio :just_pca_c950.10.402_0. 
+:just_pca_c950.10.402_0 :critTemLegAssoc :leg_DL_433_82 .
+:c950.10.402 :temDF :df_c950.10.402.
+###  http://jcr.di.uminho.pt/m51-clav#df_c950.10.402
+:df_c950.10.402 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c950.10.402 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c950.10.402
+:just_df_c950.10.402 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c950.10.402 :temJustificacao :just_df_c950.10.402 .
+:just_df_c950.10.402_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 1/2001], artº 152, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\"[Lei 15-A/98], artº 161, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\"Extensão destas disposições aos demais atos eleitorais e referendários." .
+:just_df_c950.10.402 :temCriterio :just_df_c950.10.402_0. 
+:just_df_c950.10.402_0 :critTemLegAssoc :leg_Lei_1_2001 .
+:just_df_c950.10.402_0 :critTemLegAssoc :leg_Lei_15_A_98 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.10.600
+:c950.10.600 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '950.10.600' ;
+	:titulo 'Controlo de operações de votação e apuramento parcial de resultados' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.10 ;
+	:descricao 'Verificação do regular funcionamento das assembleias de voto e apuramento dos resultados nelas obtidos. Inicia com a declaração de abertura das assembleias e mesas de voto e termina com a entrega da documentação e comunicação dos resultados do escrutínio parcial à assembleia de apuramento geral. Inclui descarga nos cadernos eleitorais, contagem de votos antecipados, requisições de forças de segurança, quando necessário, receção de dúvidas, reclamações, protestos e contraprotestos relacionados com as operações eleitorais, contagem e devolução de boletins de voto não utilizados e inutilizados, contagem do número de votos introduzidos em urna, contagem e separação dos votos brancos, votos nulos e votos nas diferentes listas, envio dos votos nulos e votos sob protesto ou reclamação à assembleia de apuramento geral, elaboração das atas das operações de votação e apuramento e publicação em edital dos resultados do escrutínio parcial.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.600_12187542dffb
+:nota_950.10.600_12187542dffb rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atividade desenvolvida pela Assembleia de apuramento distrital de resultados".
+
+:c950.10.600 :temNotaAplicacao :nota_950.10.600_12187542dffb .
+
+:c950.10.600 :processoTipoVC :vc_processoTipo_pe .
+:c950.10.600 :processoTransversal "S" .
+:c950.10.600 :temDono :tip_Trb .
+:c950.10.600 :temParticipanteExecutor :tip_AV .
+:c950.10.600 :temParticipanteExecutor :tip_AADR .
+:c950.10.600 :temParticipanteExecutor :tip_AL .
+:c950.10.600 :temLegislacao :leg_Lei_Orgânica_1_2001 .
+:c950.10.600 :temLegislacao :leg_Lei_14_79 .
+:c950.10.600 :temRelProc :c950.10.001 .
+:c950.10.600 :eAntecessorDe :c950.10.001 .
+:c950.10.600 :temRelProc :c950.10.400 .
+:c950.10.600 :eAntecessorDe :c950.10.400 .
+:c950.10.600 :temRelProc :c950.10.602 .
+:c950.10.600 :eAntecessorDe :c950.10.602 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.10.600.01
+:c950.10.600.01 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '950.10.600.01' ;
+	:titulo 'Controlo de operações de votação e apuramento parcial de resultados: controlo nas assembleias e mesas de voto' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.10.600 ;
+	:descricao 'Acompanhamento do funcionamento das assembleias de voto. Inicia com a declaração de abertura das assembleias e mesas de voto e termina com o envio dos votos nulos e votos sob protesto ou reclamação à assembleia de apuramento geral. Inclui descarga nos cadernos eleitorais, contagem de votos antecipados, requisições de forças de segurança, quando necessário, receção de dúvidas, reclamações, protestos e contraprotestos relacionados com as operações eleitorais, contagem e devolução de boletins de voto não utilizados e inutilizados, contagem do número de votos introduzidos em urna, contagem e separação dos votos brancos, votos nulos e votos nas diferentes listas.' .
+:c950.10.600.01 :temPCA :pca_c950.10.600.01.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c950.10.600.01
+:pca_c950.10.600.01 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c950.10.600.01 :pcaValor 1.0.
+:pca_c950.10.600.01 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c950.10.600.01
+:just_pca_c950.10.600.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c950.10.600.01 :temJustificacao :just_pca_c950.10.600.01 .
+:just_pca_c950.10.600.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 1/2001], art.º 152º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\"[Lei 15-A/98], art.º 161º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\"Extensão destas disposições aos demais atos eleitorais e referendários." .
+:just_pca_c950.10.600.01 :temCriterio :just_pca_c950.10.600.01_0. 
+:just_pca_c950.10.600.01_0 :critTemLegAssoc :leg_Lei_1_2001 .
+:just_pca_c950.10.600.01_0 :critTemLegAssoc :leg_Lei_15_A_98 .
+:c950.10.600.01 :temDF :df_c950.10.600.01.
+###  http://jcr.di.uminho.pt/m51-clav#df_c950.10.600.01
+:df_c950.10.600.01 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c950.10.600.01 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c950.10.600.01
+:just_df_c950.10.600.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c950.10.600.01 :temJustificacao :just_df_c950.10.600.01 .
+:just_df_c950.10.600.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 1/2001], artº 152, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais\"[Lei 15-A/98], artº 161, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.Extensão destas disposições aos demais atos eleitorais e referendários." .
+:just_df_c950.10.600.01 :temCriterio :just_df_c950.10.600.01_0. 
+:just_df_c950.10.600.01_0 :critTemLegAssoc :leg_Lei_1_2001 .
+:just_df_c950.10.600.01_0 :critTemLegAssoc :leg_Lei_15_A_98 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.10.600.02
+:c950.10.600.02 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '950.10.600.02' ;
+	:titulo 'Controlo de operações de votação e apuramento parcial de resultados: apuramento e comunicação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.10.600 ;
+	:descricao 'Apuramento parcial de resultados. Inicia com a elaboração das atas das operações de votação e apuramento termina com a comunicação dos resultados do escrutínio parcial à assembleia de apuramento geral. Inclui a elaboração do edital com os resultados do escrutínio parcial.' .
+:c950.10.600.02 :temPCA :pca_c950.10.600.02.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c950.10.600.02
+:pca_c950.10.600.02 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c950.10.600.02 :pcaValor 1.0.
+:pca_c950.10.600.02 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c950.10.600.02
+:just_pca_c950.10.600.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c950.10.600.02 :temJustificacao :just_pca_c950.10.600.02 .
+:just_pca_c950.10.600.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 1/2001], art.º 152º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\"[Lei 15-A/98], art.º 161º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\"Extensão destas disposições aos demais atos eleitorais e referendários." .
+:just_pca_c950.10.600.02 :temCriterio :just_pca_c950.10.600.02_0. 
+:just_pca_c950.10.600.02_0 :critTemLegAssoc :leg_Lei_1_2001 .
+:just_pca_c950.10.600.02_0 :critTemLegAssoc :leg_Lei_15_A_98 .
+:c950.10.600.02 :temDF :df_c950.10.600.02.
+###  http://jcr.di.uminho.pt/m51-clav#df_c950.10.600.02
+:df_c950.10.600.02 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c950.10.600.02 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c950.10.600.02
+:just_df_c950.10.600.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c950.10.600.02 :temJustificacao :just_df_c950.10.600.02 .
+:just_df_c950.10.600.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 1/2001], artº 152, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\"[Lei 15-A/98], artº 161, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento\".Extensão destas disposições aos demais atos eleitorais e referendários." .
+:just_df_c950.10.600.02 :temCriterio :just_df_c950.10.600.02_0. 
+:just_df_c950.10.600.02_0 :critTemLegAssoc :leg_Lei_1_2001 .
+:just_df_c950.10.600.02_0 :critTemLegAssoc :leg_Lei_15_A_98 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.10.601
+:c950.10.601 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '950.10.601' ;
+	:titulo 'Constituição de assembleias de apuramento geral' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.10 ;
+	:descricao 'Composição de assembleias responsáveis pela validação de todas as operações de votação. Inicia com a designação dos elementos que constituem a assembleia de apuramento geral e termina com a divulgação da sua constituição através de edital. Inclui notificação dos designados para a assembleia de apuramento geral e indicação de representantes das diferentes candidaturas.' .
+:c950.10.601 :processoTipoVC :vc_processoTipo_pe .
+:c950.10.601 :processoTransversal "S" .
+:c950.10.601 :temDono :ent_SGMAI .
+:c950.10.601 :temDono :ent_DGACCP .
+:c950.10.601 :temParticipanteComunicador :ent_CSM .
+:c950.10.601 :temParticipanteComunicador :tip_AL .
+:c950.10.601 :temLegislacao :leg_DL_319_A_76 .
+:c950.10.601 :temLegislacao :leg_Lei_14_79 .
+:c950.10.601 :temLegislacao :leg_Lei_14_87 .
+:c950.10.601 :temLegislacao :leg_Lei_Orgânica_1_2001 .
+:c950.10.601 :temLegislacao :leg_DL_267_80 .
+:c950.10.601 :temLegislacao :leg_Lei_Orgânica_1_2006 .
+:c950.10.601 :temLegislacao :leg_Lei_15_A_98 .
+:c950.10.601 :temLegislacao :leg_Lei_Orgânica_4_2000 .
+:c950.10.601 :temLegislacao :leg_Lei_Orgânica_2_2015 .
+:c950.10.601 :temLegislacao :leg_Lei_1_2001 .
+:c950.10.601 :temRelProc :c500.10.001 .
+:c950.10.601 :eSuplementoPara :c500.10.001 .
+:c950.10.601 :temRelProc :c500.10.301 .
+:c950.10.601 :eSuplementoPara :c500.10.301 .
+:c950.10.601 :temRelProc :c900.20.201 .
+:c950.10.601 :eSucessorDe :c900.20.201 .
+:c950.10.601 :temRelProc :c950.10.602 .
+:c950.10.601 :eSintetizadoPor :c950.10.602 .
+:c950.10.601 :temPCA :pca_c950.10.601.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c950.10.601
+:pca_c950.10.601 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c950.10.601 :pcaValor 1.0.
+:pca_c950.10.601 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c950.10.601
+:just_pca_c950.10.601 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c950.10.601 :temJustificacao :just_pca_c950.10.601 .
+:just_pca_c950.10.601_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 1/2001], art.º 152º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais\"[Lei 15-A/98], artº 161, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\"Extensão destas disposições aos demais atos eleitorais e referendários." .
+:just_pca_c950.10.601 :temCriterio :just_pca_c950.10.601_0. 
+:just_pca_c950.10.601_0 :critTemLegAssoc :leg_Lei_1_2001 .
+:just_pca_c950.10.601_0 :critTemLegAssoc :leg_Lei_15_A_98 .
+:just_pca_c950.10.601_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede dePN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c950.10.601 :temCriterio :just_pca_c950.10.601_1. 
+:just_pca_c950.10.601_1 :critTemProcRel :c500.10.001 .
+:just_pca_c950.10.601_1 :critTemProcRel :c500.10.301 .
+:c950.10.601 :temDF :df_c950.10.601.
+###  http://jcr.di.uminho.pt/m51-clav#df_c950.10.601
+:df_c950.10.601 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c950.10.601 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c950.10.601
+:just_df_c950.10.601 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c950.10.601 :temJustificacao :just_df_c950.10.601 .
+:just_df_c950.10.601_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 1/2001], art.º 152º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\"[Lei 15-A/98], art.º 161º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento\".Extensão destas disposições aos demais atos eleitorais e referendários." .
+:just_df_c950.10.601 :temCriterio :just_df_c950.10.601_0. 
+:just_df_c950.10.601_0 :critTemLegAssoc :leg_Lei_1_2001 .
+:just_df_c950.10.601_0 :critTemLegAssoc :leg_Lei_15_A_98 .
+:just_df_c950.10.601_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada noPN 950.10.602 - Apuramento geral de resultados." .
+:just_df_c950.10.601 :temCriterio :just_df_c950.10.601_1. 
+:just_df_c950.10.601_1 :critTemProcRel :c950.10.602 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.10.602
+:c950.10.602 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '950.10.602' ;
+	:titulo 'Apuramento geral de resultados' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.10 ;
+	:descricao 'Verificação da contagem de votos e proclamação dos resultados obtidos em atos eleitorais e referendários. Inicia com a receção da documentação enviada pelas assembleias de apuramento parcial e termina com a proclamação e publicitação dos resultados finais. Inclui verificação do número total de eleitores inscritos e de votantes, verificação do número total de votos em branco e votos nulos, verificação dos números totais de votos obtidos por cada lista, distribuição dos mandatos pelas diversas listas, determinação dos candidatos eleitos por cada lista, decisão sobre as reclamações e protestos, elaboração da ata do apuramento geral, envio de exemplares da ata à entidade competente, elaboração do mapa dos resultados oficiais das eleições e o seu envio para publicação em Diário da República.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.602_611dcf9ca9fa
+:nota_950.10.602_611dcf9ca9fa rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Abertura e lançamento em urna dos votos dos emigrantes".
+
+:c950.10.602 :temNotaAplicacao :nota_950.10.602_611dcf9ca9fa .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.602_4003cfebfa0f
+:nota_950.10.602_4003cfebfa0f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Assembleias de apuramento geral da votação dos emigrantes (círculo da Europa e fora da Europa)".
+
+:c950.10.602 :temNotaAplicacao :nota_950.10.602_4003cfebfa0f .
+
+:c950.10.602 :processoTipoVC :vc_processoTipo_pe .
+:c950.10.602 :processoTransversal "S" .
+:c950.10.602 :temDono :ent_TC .
+:c950.10.602 :temDono :tip_Trb .
+:c950.10.602 :temParticipanteAssessor :ent_CNE .
+:c950.10.602 :temParticipanteAssessor :ent_SGMAI .
+:c950.10.602 :temParticipanteAssessor :tip_AL .
+:c950.10.602 :temParticipanteAssessor :tip_AAGR .
+:c950.10.602 :temLegislacao :leg_DL_319_A_76 .
+:c950.10.602 :temLegislacao :leg_Lei_14_79 .
+:c950.10.602 :temLegislacao :leg_Lei_14_87 .
+:c950.10.602 :temLegislacao :leg_Lei_Orgânica_1_2001 .
+:c950.10.602 :temLegislacao :leg_DL_267_80 .
+:c950.10.602 :temLegislacao :leg_Lei_Orgânica_1_2006 .
+:c950.10.602 :temLegislacao :leg_Lei_15_A_98 .
+:c950.10.602 :temLegislacao :leg_Lei_Orgânica_4_2000 .
+:c950.10.602 :temLegislacao :leg_Lei_Orgânica_2_2015 .
+:c950.10.602 :temRelProc :c400.10.032 .
+:c950.10.602 :eSinteseDe :c400.10.032 .
+:c950.10.602 :temRelProc :c950.10.400 .
+:c950.10.602 :eSinteseDe :c950.10.400 .
+:c950.10.602 :temRelProc :c950.10.401 .
+:c950.10.602 :eSinteseDe :c950.10.401 .
+:c950.10.602 :temRelProc :c950.10.600 .
+:c950.10.602 :eSucessorDe :c950.10.600 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.10.602.01
+:c950.10.602.01 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '950.10.602.01' ;
+	:titulo 'Apuramento geral de resultados: tratamento dos resultados' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.10.602 ;
+	:descricao 'Verificação, contagem de votos e distribuição de mandatos. Inicia com a receção da documentação enviada pelas assembleias de voto e termina com a indicação dos candidatos eleitos por cada lista. Inclui verificação do número total de eleitores inscritos e de votantes, verificação do número total de votos em branco e votos nulos, verificação dos números totais de votos obtidos por cada lista, distribuição dos mandatos pelas diversas listas, decisão sobre as reclamações e protestos.' .
+:c950.10.602.01 :temPCA :pca_c950.10.602.01.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c950.10.602.01
+:pca_c950.10.602.01 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c950.10.602.01 :pcaValor 1.0.
+:pca_c950.10.602.01 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c950.10.602.01
+:just_pca_c950.10.602.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c950.10.602.01 :temJustificacao :just_pca_c950.10.602.01 .
+:just_pca_c950.10.602.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 1/2001], art.º 152º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\"[Lei 15-A/98], art.º 161º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\"Extensão destas disposições aos demais atos eleitorais e referendários." .
+:just_pca_c950.10.602.01 :temCriterio :just_pca_c950.10.602.01_0. 
+:just_pca_c950.10.602.01_0 :critTemLegAssoc :leg_Lei_1_2001 .
+:just_pca_c950.10.602.01_0 :critTemLegAssoc :leg_Lei_15_A_98 .
+:c950.10.602.01 :temDF :df_c950.10.602.01.
+###  http://jcr.di.uminho.pt/m51-clav#df_c950.10.602.01
+:df_c950.10.602.01 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c950.10.602.01 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c950.10.602.01
+:just_df_c950.10.602.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c950.10.602.01 :temJustificacao :just_df_c950.10.602.01 .
+:just_df_c950.10.602.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 1/2001], art.º 152º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\"[Lei 15-A/98], art.º 161º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\"Extensão destas disposições aos demais atos eleitorais e referendários." .
+:just_df_c950.10.602.01 :temCriterio :just_df_c950.10.602.01_0. 
+:just_df_c950.10.602.01_0 :critTemLegAssoc :leg_Lei_1_2001 .
+:just_df_c950.10.602.01_0 :critTemLegAssoc :leg_Lei_15_A_98 .
+:just_df_c950.10.602.01_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Sintetiza a informação dosPN 400.10.031 - Recenseamento eleitoral;PN 400.10.032 - Registo dos eleitos locais." .
+:just_df_c950.10.602.01 :temCriterio :just_df_c950.10.602.01_1. 
+:just_df_c950.10.602.01_1 :critTemProcRel :c400.10.031 .
+:just_df_c950.10.602.01_1 :critTemProcRel :c400.10.032 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.10.602.02
+:c950.10.602.02 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '950.10.602.02' ;
+	:titulo 'Apuramento geral de resultados: publicitação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.10.602 ;
+	:descricao 'Proclamação dos resultados obtidos em atos eleitorais e referendários. Inicia com a elaboração da ata do apuramento geral e termina com o envio dos resultados oficiais para publicação em Diário da República. Inclui o envio de exemplares da ata à entidade competente, elaboração do mapa dos resultados oficiais das eleições.' .
+:c950.10.602.02 :temPCA :pca_c950.10.602.02.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c950.10.602.02
+:pca_c950.10.602.02 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c950.10.602.02 :pcaValor 1.0.
+:pca_c950.10.602.02 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c950.10.602.02
+:just_pca_c950.10.602.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c950.10.602.02 :temJustificacao :just_pca_c950.10.602.02 .
+:just_pca_c950.10.602.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 1/2001], art.º 152º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\"[Lei 15-A/98], art.º 161º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\"Extensão destas disposições aos demais atos eleitorais e referendários." .
+:just_pca_c950.10.602.02 :temCriterio :just_pca_c950.10.602.02_0. 
+:just_pca_c950.10.602.02_0 :critTemLegAssoc :leg_Lei_1_2001 .
+:just_pca_c950.10.602.02_0 :critTemLegAssoc :leg_Lei_15_A_98 .
+:c950.10.602.02 :temDF :df_c950.10.602.02.
+###  http://jcr.di.uminho.pt/m51-clav#df_c950.10.602.02
+:df_c950.10.602.02 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c950.10.602.02 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c950.10.602.02
+:just_df_c950.10.602.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c950.10.602.02 :temJustificacao :just_df_c950.10.602.02 .
+:just_df_c950.10.602.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 1/2001], art.º 152º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\"[Lei 15-A/98], art.º 161º, nº 2 \"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\"Extensão destas disposições aos demais atos eleitorais e referendários." .
+:just_df_c950.10.602.02 :temCriterio :just_df_c950.10.602.02_0. 
+:just_df_c950.10.602.02_0 :critTemLegAssoc :leg_Lei_1_2001 .
+:just_df_c950.10.602.02_0 :critTemLegAssoc :leg_Lei_15_A_98 .
+:just_df_c950.10.602.02_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Sintetiza a informação dosPN 400.10.031 - Recenseamento eleitoral;PN 400.10.032 - Registo dos eleitos locais." .
+:just_df_c950.10.602.02 :temCriterio :just_df_c950.10.602.02_1. 
+:just_df_c950.10.602.02_1 :critTemProcRel :c400.10.031 .
+:just_df_c950.10.602.02_1 :critTemProcRel :c400.10.032 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.20
+:c950.20 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N2 ;
+	:codigo '950.20' ;
+	:titulo 'Processamento de ações peticionárias, reclamações e manifestações de congratulação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950 ;
+	:descricao 'Compreende as atividades de processamento dos atos em que a sociedade toma a iniciativa de se manifestar espontaneamente relativamente a serviços, atos ou políticas públicas.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_6f00a52ba065
+:nota_950.20_6f00a52ba065 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Reclamações e queixas expressas no \"livro amarelo\" ou equivalente;".
+
+:c950.20 :temNotaAplicacao :nota_950.20_6f00a52ba065 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_e2c0cd30d3ed
+:nota_950.20_e2c0cd30d3ed rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Opiniões expressas em \"livro de agradecimentos\";".
+
+:c950.20 :temNotaAplicacao :nota_950.20_e2c0cd30d3ed .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_07ff914cca3a
+:nota_950.20_07ff914cca3a rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Participações, petições, abaixo-assinados, sugestões ou interpelações de cidadãos individuais ou constituídos em entidades jurídicas.".
+
+:c950.20 :temNotaAplicacao :nota_950.20_07ff914cca3a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_a3ccdcb39299
+:nota_950.20_a3ccdcb39299 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As denúncias, notícias ou queixas de crime apresentadas aos órgãos de polícia criminal ou comunicadas ao Ministério Público devem ser consideradas em \"Administração da justiça/ Prevenção e investigação criminal\" (600.10)".
+
+:c950.20 :temNotaExclusao :nota_950.20_a3ccdcb39299 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_079a59900896
+:nota_950.20_079a59900896 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As reclamações que ocorram no quadro de um determinado procedimento administrativo devem ser consideradas no processo em causa (por exemplo, reclamação da avaliação do desempenho individual deve ser considerada em \"Administração de relações de trabalho/ Gestão de relações individuais de trabalho\" (250.20)".
+
+:c950.20 :temNotaExclusao :nota_950.20_079a59900896 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_e2b5e0d5f064
+:nota_950.20_e2b5e0d5f064 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As iniciativas legislativas de grupos de cidadãos devem ser consideradas em \"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\" (100.10)".
+
+:c950.20 :temNotaExclusao :nota_950.20_e2b5e0d5f064 .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.20.001
+:c950.20.001 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '950.20.001' ;
+	:titulo 'Processamento de petições, reclamações e sugestões' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.20 ;
+	:descricao 'Apreciação de exposições com vista à proteção de direitos ou interesses legítimos, resultantes de reivindicações, protestos ou sugestões, relativas ao funcionamento dos serviços, ou sobre as áreas de atuação de uma organização. Inicia com a receção da exposição e termina com resposta ao interessado, ou a sua publicitação. Inclui a análise da situação e a articulação com os serviços, para tentativa de resolução, ou proposta de resposta ao interessado. Pode incluir, quando aplicável, a apreciação em sede de mediação sem formalidade judicial, com intervenção de um provedor.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_a80f3fd51b57
+:nota_950.20.001_a80f3fd51b57 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Reclamações".
+
+:c950.20.001 :temNotaAplicacao :nota_950.20.001_a80f3fd51b57 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_58734ff624a0
+:nota_950.20.001_58734ff624a0 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Recomendações emanadas do Provedor".
+
+:c950.20.001 :temNotaAplicacao :nota_950.20.001_58734ff624a0 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_326c0e630113
+:nota_950.20.001_326c0e630113 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Reinvindicações".
+
+:c950.20.001 :temNotaAplicacao :nota_950.20.001_326c0e630113 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_5fdc2f7a811a
+:nota_950.20.001_5fdc2f7a811a rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Sugestões".
+
+:c950.20.001 :temNotaAplicacao :nota_950.20.001_5fdc2f7a811a .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.001_0a58f8372462
+:exemplo_950.20.001_0a58f8372462 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Reclamações em Livro Amarelo".
+
+:c950.20.001 :temExemploNA :exemplo_950.20.001_0a58f8372462 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.001_981693dcfe75
+:exemplo_950.20.001_981693dcfe75 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Reclamações em Livro Vermelho".
+
+:c950.20.001 :temExemploNA :exemplo_950.20.001_981693dcfe75 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.001_95d45a6f6f4b
+:exemplo_950.20.001_95d45a6f6f4b rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Mediação por provedor do cliente".
+
+:c950.20.001 :temExemploNA :exemplo_950.20.001_95d45a6f6f4b .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.001_fb69f20c2ac3
+:exemplo_950.20.001_fb69f20c2ac3 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Mediação por provedor do estudante".
+
+:c950.20.001 :temExemploNA :exemplo_950.20.001_fb69f20c2ac3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.001_ff76f3aab15a
+:exemplo_950.20.001_ff76f3aab15a rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Conciliação não judicial em área específica de prestação de serviços".
+
+:c950.20.001 :temExemploNA :exemplo_950.20.001_ff76f3aab15a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_eeeb57807ac0
+:nota_950.20.001_eeeb57807ac0 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os processos de conciliação e de mediação extra-judicial deverão ser considerados em 600.20 – Resolução alternativa de litígios".
+
+:c950.20.001 :temNotaExclusao :nota_950.20.001_eeeb57807ac0 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_9f6d17b6980c
+:nota_950.20.001_9f6d17b6980c rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As reclamações, protestos e contraprotestos relacionadas com os atos eleitorais devem ser consideradas em 950.10.602 – Apuramento geral dos resultados".
+
+:c950.20.001 :temNotaExclusao :nota_950.20.001_9f6d17b6980c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_4e37b62df3d2
+:nota_950.20.001_4e37b62df3d2 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As reclamações efetuadas no âmbito de procedimentos concursais e em fase de audiência de interessados devem ser considerados no respetivo processo".
+
+:c950.20.001 :temNotaExclusao :nota_950.20.001_4e37b62df3d2 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_a78ffc369d17
+:nota_950.20.001_a78ffc369d17 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As reclamações efetuadas no âmbito de candidaturas devem ser considerados no respetivo processo".
+
+:c950.20.001 :temNotaExclusao :nota_950.20.001_a78ffc369d17 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_e781dff98580
+:nota_950.20.001_e781dff98580 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O processamento de elogios deve ser considerado em 950.20.300 -  Processamento de mensagens de elogio e de agradecimento".
+
+:c950.20.001 :temNotaExclusao :nota_950.20.001_e781dff98580 .
+
+:c950.20.001 :processoTipoVC :vc_processoTipo_pc .
+:c950.20.001 :processoTransversal "S" .
+:c950.20.001 :temDono :tip_AP .
+:c950.20.001 :temDono :tip_AL .
+:c950.20.001 :temDono :ent_CP .
+:c950.20.001 :temDono :ent_Grupo_IP .
+:c950.20.001 :temDono :tip_IES .
+:c950.20.001 :temDono :tip_ER .
+:c950.20.001 :temDono :ent_INFARMED .
+:c950.20.001 :temDono :tip_CCDR .
+:c950.20.001 :temDono :ent_IMT .
+:c950.20.001 :temDono :ent_ICNF .
+:c950.20.001 :temDono :ent_IGAMAOT .
+:c950.20.001 :temDono :ent_ACT .
+:c950.20.001 :temDono :ent_CASES .
+:c950.20.001 :temDono :ent_CGA .
+:c950.20.001 :temDono :ent_CITE .
+:c950.20.001 :temDono :ent_CNPDPCJ .
+:c950.20.001 :temDono :ent_CPL .
+:c950.20.001 :temDono :ent_CRL .
+:c950.20.001 :temDono :ent_DGERT .
+:c950.20.001 :temDono :ent_DGSS .
+:c950.20.001 :temDono :ent_GEP .
+:c950.20.001 :temDono :ent_IEFP .
+:c950.20.001 :temDono :ent_IGMTSSS .
+:c950.20.001 :temDono :ent_IGFCSS .
+:c950.20.001 :temDono :ent_IGFSS .
+:c950.20.001 :temDono :ent_II .
+:c950.20.001 :temDono :ent_INR .
+:c950.20.001 :temDono :ent_ISS .
+:c950.20.001 :temDono :ent_OIT .
+:c950.20.001 :temDono :ent_POISE .
+:c950.20.001 :temDono :ent_SGMTSSS .
+:c950.20.001 :temDono :ent_DGRM .
+:c950.20.001 :temDono :ent_DGADR .
+:c950.20.001 :temDono :ent_DGAV .
+:c950.20.001 :temDono :ent_INIAV .
+:c950.20.001 :temDono :ent_IVV .
+:c950.20.001 :temDono :ent_IVDP .
+:c950.20.001 :temDono :ent_PDR2020 .
+:c950.20.001 :temDono :ent_GPP .
+:c950.20.001 :temDono :tip_DRAP .
+:c950.20.001 :temDono :ent_IFAP .
+:c950.20.001 :temDono :ent_CV .
+:c950.20.001 :temDono :ent_IGAC .
+:c950.20.001 :temDono :ent_ERSE .
+:c950.20.001 :temParticipanteComunicador :tip_ER .
+:c950.20.001 :temParticipanteComunicador :ent_Grupo_IP .
+:c950.20.001 :temParticipanteComunicador :tip_AP .
+:c950.20.001 :temParticipanteComunicador :tip_CCDR .
+:c950.20.001 :temParticipanteComunicador :ent_IMT .
+:c950.20.001 :temParticipanteComunicador :ent_ICNF .
+:c950.20.001 :temParticipanteComunicador :ent_IGAMAOT .
+:c950.20.001 :temParticipanteComunicador :ent_ACT .
+:c950.20.001 :temParticipanteComunicador :ent_CASES .
+:c950.20.001 :temParticipanteComunicador :ent_CGA .
+:c950.20.001 :temParticipanteComunicador :ent_CITE .
+:c950.20.001 :temParticipanteComunicador :ent_CNPDPCJ .
+:c950.20.001 :temParticipanteComunicador :ent_CPL .
+:c950.20.001 :temParticipanteComunicador :ent_CRL .
+:c950.20.001 :temParticipanteComunicador :ent_DGERT .
+:c950.20.001 :temParticipanteComunicador :ent_DGSS .
+:c950.20.001 :temParticipanteComunicador :ent_GEP .
+:c950.20.001 :temParticipanteComunicador :ent_IEFP .
+:c950.20.001 :temParticipanteComunicador :ent_IGMTSSS .
+:c950.20.001 :temParticipanteComunicador :ent_IGFCSS .
+:c950.20.001 :temParticipanteComunicador :ent_IGFSS .
+:c950.20.001 :temParticipanteComunicador :ent_II .
+:c950.20.001 :temParticipanteComunicador :ent_INR .
+:c950.20.001 :temParticipanteComunicador :ent_ISS .
+:c950.20.001 :temParticipanteComunicador :ent_OIT .
+:c950.20.001 :temParticipanteComunicador :ent_POISE .
+:c950.20.001 :temParticipanteComunicador :ent_SGMTSSS .
+:c950.20.001 :temParticipanteComunicador :ent_DGPM .
+:c950.20.001 :temParticipanteComunicador :ent_DGRM .
+:c950.20.001 :temParticipanteComunicador :ent_GAMA .
+:c950.20.001 :temParticipanteComunicador :ent_DGADR .
+:c950.20.001 :temParticipanteComunicador :ent_DGAV .
+:c950.20.001 :temParticipanteComunicador :ent_INIAV .
+:c950.20.001 :temParticipanteComunicador :ent_IVV .
+:c950.20.001 :temParticipanteComunicador :ent_IVDP .
+:c950.20.001 :temParticipanteComunicador :ent_PDR2020 .
+:c950.20.001 :temParticipanteComunicador :ent_GPP .
+:c950.20.001 :temParticipanteComunicador :tip_DRAP .
+:c950.20.001 :temParticipanteComunicador :ent_IFAP .
+:c950.20.001 :temParticipanteComunicador :ent_CV .
+:c950.20.001 :temParticipanteComunicador :ent_IGAC .
+:c950.20.001 :temLegislacao :leg_DL_4_2015 .
+:c950.20.001 :temLegislacao :leg_DL_97_2002 .
+:c950.20.001 :temLegislacao :leg_DL_156_2005 .
+:c950.20.001 :temLegislacao :leg_DL_433_82 .
+:c950.20.001 :temRelProc :c150.20.300 .
+:c950.20.001 :eSintetizadoPor :c150.20.300 .
+:c950.20.001 :temRelProc :c150.40.500 .
+:c950.20.001 :eSintetizadoPor :c150.40.500 .
+:c950.20.001 :temRelProc :c300.10.002 .
+:c950.20.001 :eCruzadoCom :c300.10.002 .
+:c950.20.001 :temRelProc :c300.30.008 .
+:c950.20.001 :eSintetizadoPor :c300.30.008 .
+:c950.20.001 :temRelProc :c500.10.300 .
+:c950.20.001 :eAntecessorDe :c500.10.300 .
+:c950.20.001 :temRelProc :c500.10.301 .
+:c950.20.001 :eSuplementoPara :c500.10.301 .
+:c950.20.001 :temPCA :pca_c950.20.001.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c950.20.001
+:pca_c950.20.001 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c950.20.001 :pcaValor 5.0.
+:pca_c950.20.001 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c950.20.001
+:just_pca_c950.20.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c950.20.001 :temJustificacao :just_pca_c950.20.001 .
+:just_pca_c950.20.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.[DL 156/2005], art.º 3º, alínea d) \"Manter, por um período mínimo de três anos, um arquivo organizado dos livros de reclamações que tenha encerrado.\"" .
+:just_pca_c950.20.001 :temCriterio :just_pca_c950.20.001_0. 
+:just_pca_c950.20.001_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c950.20.001_0 :critTemLegAssoc :leg_DL_156_2005 .
+:just_pca_c950.20.001_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização." .
+:just_pca_c950.20.001 :temCriterio :just_pca_c950.20.001_1. 
+:just_pca_c950.20.001_1 :critTemProcRel :c500.10.301 .
+:c950.20.001 :temDF :df_c950.20.001.
+###  http://jcr.di.uminho.pt/m51-clav#df_c950.20.001
+:df_c950.20.001 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c950.20.001 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c950.20.001
+:just_df_c950.20.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c950.20.001 :temJustificacao :just_df_c950.20.001 .
+:just_df_c950.20.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente em:PN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão;PN 300.30.008 - Registo de documentos (casos tratados)." .
+:just_df_c950.20.001 :temCriterio :just_df_c950.20.001_0. 
+:just_df_c950.20.001_0 :critTemProcRel :c150.20.300 .
+:just_df_c950.20.001_0 :critTemProcRel :c150.40.500 .
+:just_df_c950.20.001_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.20.300
+:c950.20.300 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '950.20.300' ;
+	:titulo 'Processamento de mensagens de elogio e de agradecimento' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.20 ;
+	:descricao 'Receção e tratamento de mensagens de elogios e de agradecimentos relativos ao funcionamento de serviços. Inicia com a receção do elogio ou agradecimento e termina, quando aplicável, com a resposta a esses mesmos elogios ou agradecimentos. Inclui a análise da situação exposta e respetiva comunicação interna.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.300_f3869ac96f69
+:nota_950.20.300_f3869ac96f69 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Mensagens de elogio ou de agradecimento por serviços prestados".
+
+:c950.20.300 :temNotaAplicacao :nota_950.20.300_f3869ac96f69 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.300_d91d644972ad
+:exemplo_950.20.300_d91d644972ad rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Mensagens de elogio ou de agradecimento registadas em livro próprio".
+
+:c950.20.300 :temExemploNA :exemplo_950.20.300_d91d644972ad .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.300_f62185d1f8cd
+:exemplo_950.20.300_f62185d1f8cd rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Mensagens de elogio ou de agradecimento registadas em formulário próprio".
+
+:c950.20.300 :temExemploNA :exemplo_950.20.300_f62185d1f8cd .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.300_ccc951167bda
+:nota_950.20.300_ccc951167bda rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os louvores decorrentes do desempenho profissional devem ser considerados em 250.20.803 – Atribuição de prémios de desempenho, louvores ou medalhas".
+
+:c950.20.300 :temNotaExclusao :nota_950.20.300_ccc951167bda .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.300_87fe6fd9daf9
+:nota_950.20.300_87fe6fd9daf9 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A entrega de condecorações e distinções deve ser consideradada em 900.20.601 - Organização de cerimónias protocolares".
+
+:c950.20.300 :temNotaExclusao :nota_950.20.300_87fe6fd9daf9 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.300_612b9d85c67b
+:nota_950.20.300_612b9d85c67b rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O tratamento de mensagens de cortesia deve ser considerado em 900.20.605 - Processamento de mensagens de cortesia".
+
+:c950.20.300 :temNotaExclusao :nota_950.20.300_612b9d85c67b .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.300_ed4596c14435
+:nota_950.20.300_ed4596c14435 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A seleção para atribuição de prémios de reconhecimento da prestação de atos cívicos ou para distinções honoríficas deve ser considerada em 950.30.001 – Reconhecimento por mérito e serviços prestados".
+
+:c950.20.300 :temNotaExclusao :nota_950.20.300_ed4596c14435 .
+
+:c950.20.300 :processoTipoVC :vc_processoTipo_pc .
+:c950.20.300 :processoTransversal "S" .
+:c950.20.300 :temDono :tip_AP .
+:c950.20.300 :temDono :tip_AL .
+:c950.20.300 :temDono :ent_CP .
+:c950.20.300 :temDono :ent_Grupo_IP .
+:c950.20.300 :temDono :ent_INFARMED .
+:c950.20.300 :temDono :tip_CCDR .
+:c950.20.300 :temDono :ent_IMT .
+:c950.20.300 :temDono :ent_ICNF .
+:c950.20.300 :temDono :ent_ACT .
+:c950.20.300 :temDono :ent_CASES .
+:c950.20.300 :temDono :ent_CGA .
+:c950.20.300 :temDono :ent_CITE .
+:c950.20.300 :temDono :ent_CNPDPCJ .
+:c950.20.300 :temDono :ent_CPL .
+:c950.20.300 :temDono :ent_CRL .
+:c950.20.300 :temDono :ent_DGERT .
+:c950.20.300 :temDono :ent_DGSS .
+:c950.20.300 :temDono :ent_GEP .
+:c950.20.300 :temDono :ent_IEFP .
+:c950.20.300 :temDono :ent_IGMTSSS .
+:c950.20.300 :temDono :ent_IGFCSS .
+:c950.20.300 :temDono :ent_IGFSS .
+:c950.20.300 :temDono :ent_II .
+:c950.20.300 :temDono :ent_INR .
+:c950.20.300 :temDono :ent_ISS .
+:c950.20.300 :temDono :ent_OIT .
+:c950.20.300 :temDono :ent_POISE .
+:c950.20.300 :temDono :ent_SGMTSSS .
+:c950.20.300 :temDono :ent_IGAMAOT .
+:c950.20.300 :temDono :ent_DGADR .
+:c950.20.300 :temDono :ent_DGAV .
+:c950.20.300 :temDono :ent_INIAV .
+:c950.20.300 :temDono :ent_IVV .
+:c950.20.300 :temDono :ent_IVDP .
+:c950.20.300 :temDono :ent_PDR2020 .
+:c950.20.300 :temDono :ent_GPP .
+:c950.20.300 :temDono :tip_DRAP .
+:c950.20.300 :temDono :ent_IFAP .
+:c950.20.300 :temDono :ent_CV .
+:c950.20.300 :temParticipanteApreciador :tip_AP .
+:c950.20.300 :temParticipanteApreciador :tip_CCDR .
+:c950.20.300 :temParticipanteApreciador :ent_IMT .
+:c950.20.300 :temParticipanteApreciador :ent_ICNF .
+:c950.20.300 :temParticipanteApreciador :ent_IGAMAOT .
+:c950.20.300 :temParticipanteApreciador :ent_ACT .
+:c950.20.300 :temParticipanteApreciador :ent_CASES .
+:c950.20.300 :temParticipanteApreciador :ent_CGA .
+:c950.20.300 :temParticipanteApreciador :ent_CITE .
+:c950.20.300 :temParticipanteApreciador :ent_CNPDPCJ .
+:c950.20.300 :temParticipanteApreciador :ent_CPL .
+:c950.20.300 :temParticipanteApreciador :ent_CRL .
+:c950.20.300 :temParticipanteApreciador :ent_DGERT .
+:c950.20.300 :temParticipanteApreciador :ent_DGSS .
+:c950.20.300 :temParticipanteApreciador :ent_GEP .
+:c950.20.300 :temParticipanteApreciador :ent_IEFP .
+:c950.20.300 :temParticipanteApreciador :ent_IGMTSSS .
+:c950.20.300 :temParticipanteApreciador :ent_IGFCSS .
+:c950.20.300 :temParticipanteApreciador :ent_IGFSS .
+:c950.20.300 :temParticipanteApreciador :ent_II .
+:c950.20.300 :temParticipanteApreciador :ent_INR .
+:c950.20.300 :temParticipanteApreciador :ent_ISS .
+:c950.20.300 :temParticipanteApreciador :ent_OIT .
+:c950.20.300 :temParticipanteApreciador :ent_POISE .
+:c950.20.300 :temParticipanteApreciador :ent_SGMTSSS .
+:c950.20.300 :temParticipanteApreciador :ent_DGPM .
+:c950.20.300 :temParticipanteApreciador :ent_DGRM .
+:c950.20.300 :temParticipanteApreciador :ent_GAMA .
+:c950.20.300 :temParticipanteApreciador :ent_DGADR .
+:c950.20.300 :temParticipanteApreciador :ent_DGAV .
+:c950.20.300 :temParticipanteApreciador :ent_INIAV .
+:c950.20.300 :temParticipanteApreciador :ent_IVV .
+:c950.20.300 :temParticipanteApreciador :ent_IVDP .
+:c950.20.300 :temParticipanteApreciador :ent_PDR2020 .
+:c950.20.300 :temParticipanteApreciador :ent_GPP .
+:c950.20.300 :temParticipanteApreciador :tip_DRAP .
+:c950.20.300 :temParticipanteApreciador :ent_IFAP .
+:c950.20.300 :temLegislacao :leg_DL_4_2015 .
+:c950.20.300 :temRelProc :c150.20.300 .
+:c950.20.300 :eSintetizadoPor :c150.20.300 .
+:c950.20.300 :temRelProc :c150.20.301 .
+:c950.20.300 :eCruzadoCom :c150.20.301 .
+:c950.20.300 :temRelProc :c150.40.500 .
+:c950.20.300 :eSintetizadoPor :c150.40.500 .
+:c950.20.300 :temRelProc :c250.20.800 .
+:c950.20.300 :eCruzadoCom :c250.20.800 .
+:c950.20.300 :temRelProc :c300.30.008 .
+:c950.20.300 :eSintetizadoPor :c300.30.008 .
+:c950.20.300 :temPCA :pca_c950.20.300.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c950.20.300
+:pca_c950.20.300 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c950.20.300 :pcaValor 5.0.
+:pca_c950.20.300 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c950.20.300
+:just_pca_c950.20.300 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c950.20.300 :temJustificacao :just_pca_c950.20.300 .
+:just_pca_c950.20.300_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para processamento dePN 150.20.301 Avaliação do desempenho das organizaçõesPN 250.20.800 - Avaliação individual do desempenhoConsiderou-se o prazo de um mandato." .
+:just_pca_c950.20.300 :temCriterio :just_pca_c950.20.300_0. 
+:just_pca_c950.20.300_0 :critTemProcRel :c150.20.301 .
+:just_pca_c950.20.300_0 :critTemProcRel :c250.20.800 .
+:c950.20.300 :temDF :df_c950.20.300.
+###  http://jcr.di.uminho.pt/m51-clav#df_c950.20.300
+:df_c950.20.300 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c950.20.300 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c950.20.300
+:just_df_c950.20.300 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c950.20.300 :temJustificacao :just_df_c950.20.300 .
+:just_df_c950.20.300_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente emPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão;PN 300.30.008 - Registo de documentos (casos tratados)." .
+:just_df_c950.20.300 :temCriterio :just_df_c950.20.300_0. 
+:just_df_c950.20.300_0 :critTemProcRel :c150.20.300 .
+:just_df_c950.20.300_0 :critTemProcRel :c150.40.500 .
+:just_df_c950.20.300_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.20.600
+:c950.20.600 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '950.20.600' ;
+	:titulo 'Processamento de avisos de exercício do direito de reunião em locais públicos' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.20 ;
+	:descricao 'Receção e tratamento de avisos apresentados por pessoas ou entidades que pretendem a realização de reuniões, comícios, manifestações ou desfiles em lugares públicos ou abertos ao público. Inicia com a comunicação da data, hora e local das reuniões, manifestações e desfiles, e termina com a comunicação de concordância ou dos eventuais constrangimentos relativos à realização dessas ações. Inclui análise do pedido.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.600_52b42e01dc2c
+:nota_950.20.600_52b42e01dc2c rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os avisos relacionados com o exercício do direito de greve, reuniões e manifestações de trabalhadores deverão ser considerados em 250.30.300 – Ações coletivas de defesa e promoção de interesses sócio-profissionais".
+
+:c950.20.600 :temNotaExclusao :nota_950.20.600_52b42e01dc2c .
+
+:c950.20.600 :processoTipoVC :vc_processoTipo_pc .
+:c950.20.600 :processoTransversal "S" .
+:c950.20.600 :temDono :tip_FSS .
+:c950.20.600 :temDono :tip_AL .
+:c950.20.600 :temParticipanteIniciador :tip_AP .
+:c950.20.600 :temParticipanteIniciador :ent_ACT .
+:c950.20.600 :temParticipanteIniciador :ent_CASES .
+:c950.20.600 :temParticipanteIniciador :ent_CGA .
+:c950.20.600 :temParticipanteIniciador :ent_CITE .
+:c950.20.600 :temParticipanteIniciador :ent_CNPDPCJ .
+:c950.20.600 :temParticipanteIniciador :ent_CPL .
+:c950.20.600 :temParticipanteIniciador :ent_CRL .
+:c950.20.600 :temParticipanteIniciador :ent_DGERT .
+:c950.20.600 :temParticipanteIniciador :ent_DGSS .
+:c950.20.600 :temParticipanteIniciador :ent_GEP .
+:c950.20.600 :temParticipanteIniciador :ent_IEFP .
+:c950.20.600 :temParticipanteIniciador :ent_IGMTSSS .
+:c950.20.600 :temParticipanteIniciador :ent_IGFCSS .
+:c950.20.600 :temParticipanteIniciador :ent_IGFSS .
+:c950.20.600 :temParticipanteIniciador :ent_II .
+:c950.20.600 :temParticipanteIniciador :ent_INR .
+:c950.20.600 :temParticipanteIniciador :ent_ISS .
+:c950.20.600 :temParticipanteIniciador :ent_OIT .
+:c950.20.600 :temParticipanteIniciador :ent_POISE .
+:c950.20.600 :temParticipanteIniciador :ent_SGMTSSS .
+:c950.20.600 :temParticipanteIniciador :ent_ICNF .
+:c950.20.600 :temParticipanteIniciador :ent_DGPM .
+:c950.20.600 :temParticipanteIniciador :ent_GAMA .
+:c950.20.600 :temParticipanteIniciador :ent_DGADR .
+:c950.20.600 :temParticipanteIniciador :ent_DGAV .
+:c950.20.600 :temParticipanteIniciador :ent_INIAV .
+:c950.20.600 :temParticipanteIniciador :ent_IVV .
+:c950.20.600 :temParticipanteIniciador :ent_IVDP .
+:c950.20.600 :temParticipanteIniciador :ent_PDR2020 .
+:c950.20.600 :temParticipanteIniciador :ent_GPP .
+:c950.20.600 :temParticipanteIniciador :tip_DRAP .
+:c950.20.600 :temParticipanteIniciador :ent_IFAP .
+:c950.20.600 :temParticipanteIniciador :ent_CV .
+:c950.20.600 :temLegislacao :leg_DL_406_74 .
+:c950.20.600 :temLegislacao :leg_DL_433_82 .
+:c950.20.600 :temRelProc :c150.20.300 .
+:c950.20.600 :eSintetizadoPor :c150.20.300 .
+:c950.20.600 :temRelProc :c150.40.500 .
+:c950.20.600 :eSintetizadoPor :c150.40.500 .
+:c950.20.600 :temRelProc :c300.30.008 .
+:c950.20.600 :eSintetizadoPor :c300.30.008 .
+:c950.20.600 :temRelProc :c500.10.301 .
+:c950.20.600 :eSuplementoPara :c500.10.301 .
+:c950.20.600 :temRelProc :c550.10.001 .
+:c950.20.600 :eSucessorDe :c550.10.001 .
+:c950.20.600 :temRelProc :c550.10.002 .
+:c950.20.600 :eAntecessorDe :c550.10.002 .
+:c950.20.600 :temRelProc :c550.10.004 .
+:c950.20.600 :eAntecessorDe :c550.10.004 .
+:c950.20.600 :temRelProc :c550.20.004 .
+:c950.20.600 :eAntecessorDe :c550.20.004 .
+:c950.20.600 :temPCA :pca_c950.20.600.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c950.20.600
+:pca_c950.20.600 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c950.20.600 :pcaValor 5.0.
+:pca_c950.20.600 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c950.20.600
+:just_pca_c950.20.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c950.20.600 :temJustificacao :just_pca_c950.20.600 .
+:just_pca_c950.20.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c950.20.600 :temCriterio :just_pca_c950.20.600_0. 
+:just_pca_c950.20.600_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c950.20.600_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização." .
+:just_pca_c950.20.600 :temCriterio :just_pca_c950.20.600_1. 
+:just_pca_c950.20.600_1 :critTemProcRel :c500.10.301 .
+:c950.20.600 :temDF :df_c950.20.600.
+###  http://jcr.di.uminho.pt/m51-clav#df_c950.20.600
+:df_c950.20.600 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c950.20.600 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c950.20.600
+:just_df_c950.20.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c950.20.600 :temJustificacao :just_df_c950.20.600 .
+:just_df_c950.20.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente emPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão;PN 300.30.008 - Registo de documentos (casos tratados)." .
+:just_df_c950.20.600 :temCriterio :just_df_c950.20.600_0. 
+:just_df_c950.20.600_0 :critTemProcRel :c150.20.300 .
+:just_df_c950.20.600_0 :critTemProcRel :c150.40.500 .
+:just_df_c950.20.600_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.30
+:c950.30 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N2 ;
+	:codigo '950.30' ;
+	:titulo 'Atribuição de distinções honoríficas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950 ;
+	:descricao 'Compreende as atividades relativas à seleção de pessoas ou outras entidades a distinguir e atribuição de condecorações, ordens honoríficas ou qualquer outra distinção ou recompensa atribuída a título honorífico.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30_84bc202dfe73
+:nota_950.30_84bc202dfe73 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Distinções honoríficas atribuídas a qualquer cidadão, a militares, a atletas, entre outros".
+
+:c950.30 :temNotaAplicacao :nota_950.30_84bc202dfe73 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30_135766d29220
+:nota_950.30_135766d29220 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As distinções atribuídas no âmbito do processo de avaliação do desempenho individual de trabalhador devem ser consideradas em \"Administração de relações de trabalho/ Gestão de relações individuais de trabalho\" (250.20)".
+
+:c950.30 :temNotaExclusao :nota_950.30_135766d29220 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30_e746dfe28287
+:nota_950.30_e746dfe28287 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As distinções atribuídas a representantes de outros Estados ou entidades externas, enquanto atos de política externa, devem ser consideradas em \"Execução da política externa/ Projetos de execução da política externa\" (200.30)".
+
+:c950.30 :temNotaExclusao :nota_950.30_e746dfe28287 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30_60a5e139aa92
+:nota_950.30_60a5e139aa92 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo " O mesmo se aplica a distinções atribuídas por outros países ou organismos internacionais a entidades públicas nacionais ou representantes do Estado português".
+
+:c950.30 :temNotaExclusao :nota_950.30_60a5e139aa92 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30_c0f86e399926
+:nota_950.30_c0f86e399926 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A organização de cerimónias deve ser considerada em \"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\" (900.10)".
+
+:c950.30 :temNotaExclusao :nota_950.30_c0f86e399926 .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c950.30.001
+:c950.30.001 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '950.30.001' ;
+	:titulo 'Reconhecimento por mérito e serviços prestados' ;
+	:pertenceLC :lc1 ;
+	:temPai :c950.30 ;
+	:descricao 'Agraciamento a pessoas ou entidades que, por atividades, serviços ou atos inovadores, relevantes, notórios, perenes ou excecionais, de qualquer natureza, tenham contribuído para o bem da comunidade para o desenvolvimento ou divulgação de uma determinada área científica, do conhecimento, geográfica ou de atuação. Inicia com a identificação ou apresentação da proposta e termina com a atribuição do elemento distintivo. Inclui, quando necessário, a elaboração da nota biográfica, avaliação do mérito, aprovação da distinção e a informação ao agraciado, pode ainda incluir a publicitação.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_860b90260688
+:nota_950.30.001_860b90260688 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atribuição de medalhas de serviços distintos e de mérito de segurança pública".
+
+:c950.30.001 :temNotaAplicacao :nota_950.30.001_860b90260688 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_462f1c327f1d
+:nota_950.30.001_462f1c327f1d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atribuição de medalha comemorativa".
+
+:c950.30.001 :temNotaAplicacao :nota_950.30.001_462f1c327f1d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_5bd73e62e39e
+:nota_950.30.001_5bd73e62e39e rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atribuição de medalha".
+
+:c950.30.001 :temNotaAplicacao :nota_950.30.001_5bd73e62e39e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_6ee2be8cf1b4
+:nota_950.30.001_6ee2be8cf1b4 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atribuição de placa de mérito".
+
+:c950.30.001 :temNotaAplicacao :nota_950.30.001_6ee2be8cf1b4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_5af2f99ca824
+:nota_950.30.001_5af2f99ca824 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atribuição de público louvor".
+
+:c950.30.001 :temNotaAplicacao :nota_950.30.001_5af2f99ca824 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_53a597d341bb
+:nota_950.30.001_53a597d341bb rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atribuição de medalhas de assiduidade".
+
+:c950.30.001 :temNotaAplicacao :nota_950.30.001_53a597d341bb .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.30.001_e8ca1b7551e4
+:exemplo_950.30.001_e8ca1b7551e4 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Atribuição de medalha da cidade".
+
+:c950.30.001 :temExemploNA :exemplo_950.30.001_e8ca1b7551e4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.30.001_1faae94456b7
+:exemplo_950.30.001_1faae94456b7 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Atribuição de medalhas militares".
+
+:c950.30.001 :temExemploNA :exemplo_950.30.001_1faae94456b7 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.30.001_815b2320ca31
+:exemplo_950.30.001_815b2320ca31 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Atribuição de título de honorífico".
+
+:c950.30.001 :temExemploNA :exemplo_950.30.001_815b2320ca31 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.30.001_0e086386bc0a
+:exemplo_950.30.001_0e086386bc0a rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Oferta da chave da cidade".
+
+:c950.30.001 :temExemploNA :exemplo_950.30.001_0e086386bc0a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_c2603f3c5b9c
+:nota_950.30.001_c2603f3c5b9c rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pagamentos devidos aos agraciados das ordens devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c950.30.001 :temNotaExclusao :nota_950.30.001_c2603f3c5b9c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_3946555820e8
+:nota_950.30.001_3946555820e8 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As cerimónias de entrega das distinções devem ser consideradas em 900.20.601 – Organização de cerimónias protocolares".
+
+:c950.30.001 :temNotaExclusao :nota_950.30.001_3946555820e8 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_3402fed98f1b
+:nota_950.30.001_3402fed98f1b rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo ".A aquisição de insígnias, colares,  cunhagem de medalhas ou placas e de diplomas deve ser considerada em 350.30.".
+
+:c950.30.001 :temNotaExclusao :nota_950.30.001_3402fed98f1b .
+
+:c950.30.001 :processoTipoVC :vc_processoTipo_pc .
+:c950.30.001 :processoTransversal "S" .
+:c950.30.001 :temDono :ent_PR .
+:c950.30.001 :temDono :tip_AL .
+:c950.30.001 :temDono :tip_FA .
+:c950.30.001 :temDono :tip_FSS .
+:c950.30.001 :temDono :ent_IPDJ .
+:c950.30.001 :temDono :ent_GEPAC .
+:c950.30.001 :temDono :ent_INFARMED .
+:c950.30.001 :temDono :ent_CP .
+:c950.30.001 :temParticipanteIniciador :tip_AP .
+:c950.30.001 :temParticipanteIniciador :tip_CCDR .
+:c950.30.001 :temParticipanteIniciador :ent_ICNF .
+:c950.30.001 :temParticipanteIniciador :ent_IGAMAOT .
+:c950.30.001 :temParticipanteIniciador :ent_ACT .
+:c950.30.001 :temParticipanteIniciador :ent_CASES .
+:c950.30.001 :temParticipanteIniciador :ent_CGA .
+:c950.30.001 :temParticipanteIniciador :ent_CITE .
+:c950.30.001 :temParticipanteIniciador :ent_CNPDPCJ .
+:c950.30.001 :temParticipanteIniciador :ent_CPL .
+:c950.30.001 :temParticipanteIniciador :ent_CRL .
+:c950.30.001 :temParticipanteIniciador :ent_DGERT .
+:c950.30.001 :temParticipanteIniciador :ent_DGSS .
+:c950.30.001 :temParticipanteIniciador :ent_GEP .
+:c950.30.001 :temParticipanteIniciador :ent_IEFP .
+:c950.30.001 :temParticipanteIniciador :ent_IGMTSSS .
+:c950.30.001 :temParticipanteIniciador :ent_IGFCSS .
+:c950.30.001 :temParticipanteIniciador :ent_IGFSS .
+:c950.30.001 :temParticipanteIniciador :ent_II .
+:c950.30.001 :temParticipanteIniciador :ent_INR .
+:c950.30.001 :temParticipanteIniciador :ent_ISS .
+:c950.30.001 :temParticipanteIniciador :ent_OIT .
+:c950.30.001 :temParticipanteIniciador :ent_POISE .
+:c950.30.001 :temParticipanteIniciador :ent_SGMTSSS .
+:c950.30.001 :temParticipanteIniciador :ent_DGPM .
+:c950.30.001 :temParticipanteIniciador :ent_GAMA .
+:c950.30.001 :temParticipanteIniciador :ent_DGADR .
+:c950.30.001 :temParticipanteIniciador :ent_DGAV .
+:c950.30.001 :temParticipanteIniciador :ent_INIAV .
+:c950.30.001 :temParticipanteIniciador :ent_IVV .
+:c950.30.001 :temParticipanteIniciador :ent_IVDP .
+:c950.30.001 :temParticipanteIniciador :ent_GPP .
+:c950.30.001 :temParticipanteIniciador :tip_DRAP .
+:c950.30.001 :temParticipanteIniciador :ent_IFAP .
+:c950.30.001 :temLegislacao :leg_Lei_5_2011 .
+:c950.30.001 :temLegislacao :leg_DL_316_2002 .
+:c950.30.001 :temRelProc :c150.10.700 .
+:c950.30.001 :eCruzadoCom :c150.10.700 .
+:c950.30.001 :temRelProc :c150.10.701 .
+:c950.30.001 :eCruzadoCom :c150.10.701 .
+:c950.30.001 :temRelProc :c150.20.301 .
+:c950.30.001 :eCruzadoCom :c150.20.301 .
+:c950.30.001 :temRelProc :c250.20.800 .
+:c950.30.001 :eCruzadoCom :c250.20.800 .
+:c950.30.001 :temRelProc :c900.10.500 .
+:c950.30.001 :eAntecessorDe :c900.10.500 .
+:c950.30.001 :temRelProc :c900.20.601 .
+:c950.30.001 :eCruzadoCom :c900.20.601 .
+:c950.30.001 :temRelProc :c900.20.602 .
+:c950.30.001 :eCruzadoCom :c900.20.602 .
+:c950.30.001 :temPCA :pca_c950.30.001.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c950.30.001
+:pca_c950.30.001 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c950.30.001 :pcaValor 5.0.
+:pca_c950.30.001 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c950.30.001
+:just_pca_c950.30.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c950.30.001 :temJustificacao :just_pca_c950.30.001 .
+:just_pca_c950.30.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para processamento dePN 150.20.301 - Avaliação do desempenho das organizações e doPN 250.20.800 - Avaliação individual do desempenho.Considerou-se o prazo de um mandato." .
+:just_pca_c950.30.001 :temCriterio :just_pca_c950.30.001_0. 
+:just_pca_c950.30.001_0 :critTemProcRel :c150.20.301 .
+:just_pca_c950.30.001_0 :critTemProcRel :c250.20.800 .
+:c950.30.001 :temDF :df_c950.30.001.
+###  http://jcr.di.uminho.pt/m51-clav#df_c950.30.001
+:df_c950.30.001 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c950.30.001 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c950.30.001
+:just_df_c950.30.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c950.30.001 :temJustificacao :just_df_c950.30.001 .
+:just_df_c950.30.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Inexistência de relação pertinente entre PN de modo a permitir a recuperação de informação necessária às condições para reconhecimento de mérito." .
+:just_df_c950.30.001 :temCriterio :just_df_c950.30.001_0. 

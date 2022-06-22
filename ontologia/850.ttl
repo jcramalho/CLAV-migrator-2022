@@ -1,0 +1,2271 @@
+
+###  http://jcr.di.uminho.pt/m51-clav#c850
+:c850 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N1 ;
+	:codigo '850' ;
+	:titulo 'EXECUÇÃO DE PROGRAMAS E DE AÇÕES DE INCENTIVO' ;
+	:pertenceLC :lc1 ;
+	:temPai :lc1 ;
+	:descricao 'Relativo à execução de programas regulares ou ações eventuais de incentivo estratégico a pessoas, organismos ou projetos, no quadro das políticas de promoção e fomento de atividades económicas, culturais e sociais. Inclui a atribuição de incentivos diretos e indiretos, bem como o acompanhamento ou controlo de projetos apoiados. Relativo, ainda, à captação de apoios de entidades privadas e serviços públicos.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850_6b61420dea13
+:nota_850_6b61420dea13 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Usualmente os incentivos revestem a forma de apoios financeiros, mas tal não é imperativo".
+
+:c850 :temNotaAplicacao :nota_850_6b61420dea13 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850_aa6dea0ee326
+:nota_850_aa6dea0ee326 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Aplicável às entidades que efetuam a gestão de fundos ou programas de incentivo, bem como às entidades beneficiárias e/ou destinatárias daqueles programas e, ainda, às entidades que participam apenas na apreciação das candidaturas a apoios".
+
+:c850 :temNotaAplicacao :nota_850_aa6dea0ee326 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850_43aed9d0f2f5
+:nota_850_43aed9d0f2f5 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A concessão de apoios de caráter social (prestações sociais, rendimento social de inserção, bolsa de estudo, etc.) dever ser considerada em \"Prestação de serviços de proteção e inclusão social/Atribuição de prestações sociais e auxílios económicos\" (650.10)".
+
+:c850 :temNotaExclusao :nota_850_43aed9d0f2f5 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850_a3d71ccd2681
+:nota_850_a3d71ccd2681 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A contratualização da concessão de indemnizações compensatórias a entidades que prestam serviços de interesse geral deve ser considerada em \"Administração de direitos, bens e serviços\" (300)".
+
+:c850 :temNotaExclusao :nota_850_a3d71ccd2681 .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.10
+:c850.10 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N2 ;
+	:codigo '850.10' ;
+	:titulo 'Atribuição e controlo de financiamentos e de ajudas diretas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850 ;
+	:descricao 'Compreende as atividades relacionadas com a gestão e acesso aos programas que disponibilizam apoio financeiro ou outras ajudas diretas às entidades beneficiárias, destinatárias ou elegíveis em cada medida de apoio, bem como as atividades de acompanhamento e controlo de projetos apoiados. Compreende, igualmente, as ações que revestem a forma de apoios diretos eventuais não submetidos a concurso, bem como de atribuição de prémios com ou sem expressão financeira, sujeitos ou não a concurso, instituídos por entidades nacionais, regionais ou locais, públicas ou privadas. Compreende, ainda, as atividades de captação de mecenas e gestão de apoios mecenáticos, bem como o processamento de pedidos de patrocínio.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_7ba42f23a198
+:nota_850.10_7ba42f23a198 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "As entidades que administram fundos comunitários ou gerem programas de apoio deverão utilizar esta classe para os processos de gestão de cada concurso, incluindo a constituição de júris e respetivos trabalhos, bem como para todos os procedimentos de relacionamento com as entidades beneficiárias/destinatárias, no que se inclui a receção de candidaturas, a celebração de acordos/contratos de apoio, o acompanhamento e a avaliação dos projetos apoiados".
+
+:c850.10 :temNotaAplicacao :nota_850.10_7ba42f23a198 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_c96a1db0f79a
+:nota_850.10_c96a1db0f79a rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "As entidades posicionadas para receber os apoios deverão utilizar esta classe para a gestão da respetiva candidatura, ou seja, para a documentação necessária ao relacionamento com as entidades que concedem financiamentos ou ajudas diretas (apresentação de candidatura, relatórios da execução material e financeira, avaliação, encerramento de contas), podendo imputar a restante documentação técnica/administrativa à função sobre a qual o projeto incide (melhoramento de infraestruturas, desenvolvimento de sistemas de informação, organização de eventos, investigação científica, etc.)".
+
+:c850.10 :temNotaAplicacao :nota_850.10_c96a1db0f79a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_1c908577f99f
+:nota_850.10_1c908577f99f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Quando haja lugar à apresentação de candidaturas a programas de incentivo geridos por entidades da União Europeia, as mesmas devem ser aqui consideradas".
+
+:c850.10 :temNotaAplicacao :nota_850.10_1c908577f99f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_f096973c7c44
+:nota_850.10_f096973c7c44 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os processos de definição e de avaliação de programas de apoio devem ser considerados em \"Planeamento e gestão estratégica/ Definição e avaliação de políticas\" (150.10)".
+
+:c850.10 :temNotaExclusao :nota_850.10_f096973c7c44 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_8719f89a9374
+:nota_850.10_8719f89a9374 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A formalização de regulamentos deve ser considerada em \"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\" (100.10)".
+
+:c850.10 :temNotaExclusao :nota_850.10_8719f89a9374 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_9f8277d75b54
+:nota_850.10_9f8277d75b54 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os processos de certificação de despesas devem ser considerados em \"Administração financeira/ Execução orçamental\" (350.10)".
+
+:c850.10 :temNotaExclusao :nota_850.10_9f8277d75b54 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_817110a1d844
+:nota_850.10_817110a1d844 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A atribuição de prémios estabelecidos por acordos internacionais deve ser considerada em \"Execução da política externa/ Projetos de execução da política externa\" (200.30)".
+
+:c850.10 :temNotaExclusao :nota_850.10_817110a1d844 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_ecec75e9d895
+:nota_850.10_ecec75e9d895 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A organização de cerimónias para atribuição de prémios deve ser considerada em \"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\" (900.10)".
+
+:c850.10 :temNotaExclusao :nota_850.10_ecec75e9d895 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_13b7b6e4a289
+:nota_850.10_13b7b6e4a289 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A atribuição de prémios de desempenho no exercício de funções deve ser considerada em \"Administração de relações de trabalho/ Gestão de relações individuais de trabalho\" (250.20)".
+
+:c850.10 :temNotaExclusao :nota_850.10_13b7b6e4a289 .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.10.001
+:c850.10.001 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '850.10.001' ;
+	:titulo 'Atribuição de subsídios à exploração de serviços públicos' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.10 ;
+	:descricao 'Pagamento compensatório dos custos ou perdas resultantes da exploração e prestação de serviços de interesse público que não são economicamente rentáveis. Inicia com o pedido de pagamento do subsídio ou por iniciativa da entidade pagadora e termina com a decisão de deferimento ou indeferimento do respetivo pedido. Inclui demonstração dos valores das transferências efetuadas ou a efetuar. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.001_0d90b9a57ecb
+:nota_850.10.001_0d90b9a57ecb rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Pedidos de pagamento de subsídios de exploração e indemnizações compensatórias".
+
+:c850.10.001 :temNotaAplicacao :nota_850.10.001_0d90b9a57ecb .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.001_df44e471d1ff
+:nota_850.10.001_df44e471d1ff rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O valor e a periodicidade dos pagamentos devem ser considerados em 150.20.202 – Preparação do orçamento".
+
+:c850.10.001 :temNotaExclusao :nota_850.10.001_df44e471d1ff .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.001_5385f5dab0d6
+:nota_850.10.001_5385f5dab0d6 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pagamentos aos beneficiários deverão ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c850.10.001 :temNotaExclusao :nota_850.10.001_5385f5dab0d6 .
+
+:c850.10.001 :processoTipoVC :vc_processoTipo_pe .
+:c850.10.001 :processoTransversal "S" .
+:c850.10.001 :temDono :ent_DGTF .
+:c850.10.001 :temDono :tip_AL .
+:c850.10.001 :temParticipanteDecisor :tip_Gov .
+:c850.10.001 :temParticipanteAssessor :ent_IMT .
+:c850.10.001 :temParticipanteAssessor :ent_CP .
+:c850.10.001 :temLegislacao :leg_Lei_69_2015 .
+:c850.10.001 :temLegislacao :leg_Lei_50_2012 .
+:c850.10.001 :temLegislacao :leg_DL_167_2008 .
+:c850.10.001 :temLegislacao :leg_Lei_98_97 .
+:c850.10.001 :temRelProc :c150.10.700 .
+:c850.10.001 :eCruzadoCom :c150.10.700 .
+:c850.10.001 :temRelProc :c150.10.701 .
+:c850.10.001 :eCruzadoCom :c150.10.701 .
+:c850.10.001 :temRelProc :c150.20.202 .
+:c850.10.001 :eAntecessorDe :c150.20.202 .
+:c850.10.001 :temRelProc :c350.10.500 .
+:c850.10.001 :eAntecessorDe :c350.10.500 .
+:c850.10.001 :temRelProc :c350.10.600 .
+:c850.10.001 :eAntecessorDe :c350.10.600 .
+:c850.10.001 :temRelProc :c350.10.700 .
+:c850.10.001 :eAntecessorDe :c350.10.700 .
+:c850.10.001 :temRelProc :c350.30.001 .
+:c850.10.001 :eCruzadoCom :c350.30.001 .
+:c850.10.001 :temRelProc :c350.30.004 .
+:c850.10.001 :eAntecessorDe :c350.30.004 .
+:c850.10.001 :temRelProc :c500.10.001 .
+:c850.10.001 :eSuplementoPara :c500.10.001 .
+:c850.10.001 :temRelProc :c500.10.301 .
+:c850.10.001 :eSuplementoPara :c500.10.301 .
+:c850.10.001 :temRelProc :c500.10.002 .
+:c850.10.001 :eCruzadoCom :c500.10.002 .
+:c850.10.001 :temPCA :pca_c850.10.001.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c850.10.001
+:pca_c850.10.001 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c850.10.001 :pcaValor 10.0.
+:pca_c850.10.001 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c850.10.001
+:just_pca_c850.10.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c850.10.001 :temJustificacao :just_pca_c850.10.001 .
+:just_pca_c850.10.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c850.10.001 :temCriterio :just_pca_c850.10.001_0. 
+:just_pca_c850.10.001_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c850.10.001_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede dePN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c850.10.001 :temCriterio :just_pca_c850.10.001_1. 
+:just_pca_c850.10.001_1 :critTemProcRel :c500.10.001 .
+:just_pca_c850.10.001_1 :critTemProcRel :c500.10.301 .
+:c850.10.001 :temDF :df_c850.10.001.
+###  http://jcr.di.uminho.pt/m51-clav#df_c850.10.001
+:df_c850.10.001 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c850.10.001 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c850.10.001
+:just_df_c850.10.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c850.10.001 :temJustificacao :just_df_c850.10.001 .
+:just_df_c850.10.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN." .
+:just_df_c850.10.001 :temCriterio :just_df_c850.10.001_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.10.002
+:c850.10.002 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '850.10.002' ;
+	:titulo 'Atribuição de estímulos e incentivos de apoio regulares' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.10 ;
+	:descricao 'Apresentação de candidaturas a programas ou projetos financiados e acompanhamento da sua execução, no âmbito de medidas enquadráveis num apoio regular ou de continuidade. Inicia com a submissão da candidatura e termina com a elaboração do relatório final de execução da operação ou projeto apoiado, elaborado aquando do fim do programa de apoio. Inclui instrução da candidatura, decisão, comunicação da atribuição do apoio, contratualização, acompanhamento e controlo da execução do projeto ou operação, apresentação de comprovativos de despesa, reajustamentos ao programa e elaboração de relatórios intercalares e relatório final, análise e avaliação dos relatórios, aprovação do encerramento do processo de apoio. Inclui ainda a eventual suspensão ou rescisão do contrato de apoio. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_2998468b8118
+:nota_850.10.002_2998468b8118 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Candidaturas recebidas por entidades que concedem apoios".
+
+:c850.10.002 :temNotaAplicacao :nota_850.10.002_2998468b8118 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_e7c7f1d3bbbf
+:nota_850.10.002_e7c7f1d3bbbf rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Candidaturas apresentadas por entidades que beneficiam de apoios".
+
+:c850.10.002 :temNotaAplicacao :nota_850.10.002_e7c7f1d3bbbf .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_36d2724650e6
+:nota_850.10.002_36d2724650e6 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Eventual suspensão ou rescisão do contrato de apoio".
+
+:c850.10.002 :temNotaAplicacao :nota_850.10.002_36d2724650e6 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_1096214f0bf1
+:nota_850.10.002_1096214f0bf1 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Candidaturas a medidas agroambientais".
+
+:c850.10.002 :temNotaAplicacao :nota_850.10.002_1096214f0bf1 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_a26b69f881b1
+:nota_850.10.002_a26b69f881b1 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Medidas de investimento".
+
+:c850.10.002 :temNotaAplicacao :nota_850.10.002_a26b69f881b1 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_ce65fbc851f6
+:nota_850.10.002_ce65fbc851f6 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Candidaturas a bolsas de investigação".
+
+:c850.10.002 :temNotaAplicacao :nota_850.10.002_ce65fbc851f6 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_06efb013d709
+:nota_850.10.002_06efb013d709 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A definição dos programas operacionais e outros programas de apoio deve ser considerada em 150.10.200 – Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional".
+
+:c850.10.002 :temNotaExclusao :nota_850.10.002_06efb013d709 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_714c1793eff5
+:nota_850.10.002_714c1793eff5 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A monitorização e avaliação dos programas operacionais e outros programas de apoio devem ser consideradas em 150.10.600 – Avaliação de políticas e instrumentos de operacionalização".
+
+:c850.10.002 :temNotaExclusao :nota_850.10.002_714c1793eff5 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_8b4d2d209633
+:nota_850.10.002_8b4d2d209633 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A contratação de serviços ou aquisição de bens deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
+
+:c850.10.002 :temNotaExclusao :nota_850.10.002_8b4d2d209633 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_6e5f443265b9
+:nota_850.10.002_6e5f443265b9 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pagamentos aos beneficiários devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c850.10.002 :temNotaExclusao :nota_850.10.002_6e5f443265b9 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_0375a1e09714
+:nota_850.10.002_0375a1e09714 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os empréstimos no âmbito de programas de apoio financeiro para regularização do pagamento de dívidas devem ser considerados em 350.40.401 – Contração e amortização de empréstimos".
+
+:c850.10.002 :temNotaExclusao :nota_850.10.002_0375a1e09714 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_d918afa95a6f
+:nota_850.10.002_d918afa95a6f rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A atribuição de prestações sociais e auxílios económicos dever ser considerada em “Prestação de serviços de proteção e inclusão social/Atribuição de prestações sociais e auxílios económicos” (650.10)".
+
+:c850.10.002 :temNotaExclusao :nota_850.10.002_d918afa95a6f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_9cf5cfe9b8a9
+:nota_850.10.002_9cf5cfe9b8a9 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A concretização do projeto deverá ser considerada na função respetiva".
+
+:c850.10.002 :temNotaExclusao :nota_850.10.002_9cf5cfe9b8a9 .
+
+:c850.10.002 :processoTipoVC :vc_processoTipo_pc .
+:c850.10.002 :processoTransversal "S" .
+:c850.10.002 :temDono :tip_EGAP .
+:c850.10.002 :temDono :tip_IES .
+:c850.10.002 :temDono :ent_IEFP .
+:c850.10.002 :temDono :tip_CCDR .
+:c850.10.002 :temDono :ent_IMT .
+:c850.10.002 :temDono :ent_ICNF .
+:c850.10.002 :temDono :ent_DGRM .
+:c850.10.002 :temDono :ent_DGADR .
+:c850.10.002 :temDono :ent_DGAV .
+:c850.10.002 :temDono :ent_INIAV .
+:c850.10.002 :temDono :ent_IVV .
+:c850.10.002 :temDono :ent_IVDP .
+:c850.10.002 :temDono :ent_PDR2020 .
+:c850.10.002 :temDono :ent_POISE .
+:c850.10.002 :temDono :ent_IFAP .
+:c850.10.002 :temDono :ent_CV .
+:c850.10.002 :temDono :ent_ERSE .
+:c850.10.002 :temParticipanteIniciador :tip_AP .
+:c850.10.002 :temParticipanteIniciador :tip_AL .
+:c850.10.002 :temParticipanteIniciador :ent_Grupo_IP .
+:c850.10.002 :temParticipanteIniciador :ent_INFARMED .
+:c850.10.002 :temParticipanteIniciador :tip_CCDR .
+:c850.10.002 :temParticipanteIniciador :ent_IMT .
+:c850.10.002 :temParticipanteIniciador :ent_ICNF .
+:c850.10.002 :temParticipanteIniciador :ent_ACT .
+:c850.10.002 :temParticipanteIniciador :ent_CASES .
+:c850.10.002 :temParticipanteIniciador :ent_CGA .
+:c850.10.002 :temParticipanteIniciador :ent_CITE .
+:c850.10.002 :temParticipanteIniciador :ent_CNPDPCJ .
+:c850.10.002 :temParticipanteIniciador :ent_CPL .
+:c850.10.002 :temParticipanteIniciador :ent_CRL .
+:c850.10.002 :temParticipanteIniciador :ent_DGERT .
+:c850.10.002 :temParticipanteIniciador :ent_DGSS .
+:c850.10.002 :temParticipanteIniciador :ent_GEP .
+:c850.10.002 :temParticipanteIniciador :ent_IEFP .
+:c850.10.002 :temParticipanteIniciador :ent_IGMTSSS .
+:c850.10.002 :temParticipanteIniciador :ent_IGFCSS .
+:c850.10.002 :temParticipanteIniciador :ent_IGFSS .
+:c850.10.002 :temParticipanteIniciador :ent_II .
+:c850.10.002 :temParticipanteIniciador :ent_INR .
+:c850.10.002 :temParticipanteIniciador :ent_ISS .
+:c850.10.002 :temParticipanteIniciador :ent_OIT .
+:c850.10.002 :temParticipanteIniciador :ent_POISE .
+:c850.10.002 :temParticipanteIniciador :ent_SGMTSSS .
+:c850.10.002 :temParticipanteIniciador :ent_DGPM .
+:c850.10.002 :temParticipanteIniciador :ent_DGRM .
+:c850.10.002 :temParticipanteIniciador :ent_DGADR .
+:c850.10.002 :temParticipanteIniciador :ent_DGAV .
+:c850.10.002 :temParticipanteIniciador :ent_INIAV .
+:c850.10.002 :temParticipanteIniciador :ent_IVV .
+:c850.10.002 :temParticipanteIniciador :ent_IVDP .
+:c850.10.002 :temParticipanteIniciador :ent_PDR2020 .
+:c850.10.002 :temParticipanteIniciador :ent_GPP .
+:c850.10.002 :temParticipanteIniciador :tip_DRAP .
+:c850.10.002 :temParticipanteIniciador :ent_IFAP .
+:c850.10.002 :temParticipanteApreciador :ent_CV .
+:c850.10.002 :temLegislacao :leg_Despacho_SEAL_5119_B_2015 .
+:c850.10.002 :temLegislacao :leg_DL_6_2015 .
+:c850.10.002 :temLegislacao :leg_DL_159_2014 .
+:c850.10.002 :temLegislacao :leg_DL_137_2014 .
+:c850.10.002 :temLegislacao :leg_Resolução_do_Conselho_de_Ministros_73_B_2014 .
+:c850.10.002 :temLegislacao :leg_Resolução_do_Conselho_de_Ministros_39_2013 .
+:c850.10.002 :temLegislacao :leg_Regulamento_UE_EURATOM_1311_2013 .
+:c850.10.002 :temLegislacao :leg_Regulamento_UE_1305_2013 .
+:c850.10.002 :temLegislacao :leg_Regulamento_UE_1304_2013 .
+:c850.10.002 :temLegislacao :leg_Regulamento_UE_1303_2013 .
+:c850.10.002 :temLegislacao :leg_Regulamento_UE_1301_2013 .
+:c850.10.002 :temLegislacao :leg_Regulamento_UE_1300_2013 .
+:c850.10.002 :temLegislacao :leg_Regulamento_UE_1299_2013 .
+:c850.10.002 :temRelProc :c150.10.100 .
+:c850.10.002 :eSucessorDe :c150.10.100 .
+:c850.10.002 :temRelProc :c150.10.200 .
+:c850.10.002 :eSucessorDe :c150.10.200 .
+:c850.10.002 :temRelProc :c150.10.300 .
+:c850.10.002 :eSucessorDe :c150.10.300 .
+:c850.10.002 :temRelProc :c150.10.500 .
+:c850.10.002 :eSucessorDe :c150.10.500 .
+:c850.10.002 :temRelProc :c150.10.600 .
+:c850.10.002 :eSintetizadoPor :c150.10.600 .
+:c850.10.002 :temRelProc :c150.20.202 .
+:c850.10.002 :eSucessorDe :c150.20.202 .
+:c850.10.002 :temRelProc :c200.10.800 .
+:c850.10.002 :eAntecessorDe :c200.10.800 .
+:c850.10.002 :temRelProc :c200.30.302 .
+:c850.10.002 :eAntecessorDe :c200.30.302 .
+:c850.10.002 :temRelProc :c350.10.600 .
+:c850.10.002 :eAntecessorDe :c350.10.600 .
+:c850.10.002 :temRelProc :c400.10.052 .
+:c850.10.002 :eSucessorDe :c400.10.052 .
+:c850.10.002 :temRelProc :c400.10.053 .
+:c850.10.002 :eSucessorDe :c400.10.053 .
+:c850.10.002 :temRelProc :c400.30.001 .
+:c850.10.002 :eCruzadoCom :c400.30.001 .
+:c850.10.002 :temRelProc :c450.20.505 .
+:c850.10.002 :eAntecessorDe :c450.20.505 .
+:c850.10.002 :temRelProc :c500.10.001 .
+:c850.10.002 :eSuplementoPara :c500.10.001 .
+:c850.10.002 :temRelProc :c500.10.301 .
+:c850.10.002 :eSuplementoPara :c500.10.301 .
+:c850.10.002 :temRelProc :c800.20.001 .
+:c850.10.002 :eAntecessorDe :c800.20.001 .
+:c850.10.002 :temRelProc :c800.20.002 .
+:c850.10.002 :eCruzadoCom :c800.20.002 .
+:c850.10.002 :temRelProc :c800.20.500 .
+:c850.10.002 :eCruzadoCom :c800.20.500 .
+:c850.10.002 :temRelProc :c900.10.001 .
+:c850.10.002 :eAntecessorDe :c900.10.001 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.10.002.01
+:c850.10.002.01 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '850.10.002.01' ;
+	:titulo 'Atribuição de estímulos e incentivos de apoio regulares: candidatura, decisão e execução' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.10.002 ;
+	:descricao 'Fases de candidatura, decisão e avaliação final de apoios regulares. Inicia com a submissão de candidatura e termina com a análise e avaliação do relatório final/relatório de atividades/produto final. Inclui instrução de candidatura, análise da elegibilidade da candidatura, avaliação da candidatura, comunicação da decisão final, contratualização com a entidade/sujeito proponente, elaboração de relatório final/relatório de atividades/produto final e avaliação final do apoio atribuído. ' .
+:c850.10.002.01 :temPCA :pca_c850.10.002.01.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c850.10.002.01
+:pca_c850.10.002.01 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c850.10.002.01 :pcaValor 10.0.
+:pca_c850.10.002.01 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c850.10.002.01
+:just_pca_c850.10.002.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c850.10.002.01 :temJustificacao :just_pca_c850.10.002.01 .
+:just_pca_c850.10.002.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c850.10.002.01 :temCriterio :just_pca_c850.10.002.01_0. 
+:just_pca_c850.10.002.01_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c850.10.002.01_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede doPN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração); doPN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c850.10.002.01 :temCriterio :just_pca_c850.10.002.01_1. 
+:just_pca_c850.10.002.01_1 :critTemProcRel :c500.10.001 .
+:just_pca_c850.10.002.01_1 :critTemProcRel :c500.10.301 .
+:c850.10.002.01 :temDF :df_c850.10.002.01.
+###  http://jcr.di.uminho.pt/m51-clav#df_c850.10.002.01
+:df_c850.10.002.01 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c850.10.002.01 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c850.10.002.01
+:just_df_c850.10.002.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c850.10.002.01 :temJustificacao :just_df_c850.10.002.01 .
+:just_df_c850.10.002.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Não recuperável noutro processo com nível de detalhe para documentar a atividade.Síntese do PN 850.10.002.02 - Formalização de candidaturas e acompanhamento de apoios regulares: controlo de informação financeira." .
+:just_df_c850.10.002.01 :temCriterio :just_df_c850.10.002.01_0. 
+:just_df_c850.10.002.01_0 :critTemProcRel :c850.10.002 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.10.002.02
+:c850.10.002.02 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '850.10.002.02' ;
+	:titulo 'Atribuição de estímulos e incentivos de apoio regulares: controlo de informação financeira' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.10.002 ;
+	:descricao 'Fase de execução e acompanhamento financeiro de apoios regulares. Inclui solicitação de pagamento, com os respetivos documentos comprovativos, análise e verificação, proposta para pagamento, bem como acompanhamento da execução financeira de apoios regulares. ' .
+:c850.10.002.02 :temPCA :pca_c850.10.002.02.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c850.10.002.02
+:pca_c850.10.002.02 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c850.10.002.02 :pcaValor 10.0.
+:pca_c850.10.002.02 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c850.10.002.02
+:just_pca_c850.10.002.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c850.10.002.02 :temJustificacao :just_pca_c850.10.002.02 .
+:just_pca_c850.10.002.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c850.10.002.02 :temCriterio :just_pca_c850.10.002.02_0. 
+:just_pca_c850.10.002.02_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c850.10.002.02_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede doPN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração); doPN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c850.10.002.02 :temCriterio :just_pca_c850.10.002.02_1. 
+:just_pca_c850.10.002.02_1 :critTemProcRel :c500.10.001 .
+:just_pca_c850.10.002.02_1 :critTemProcRel :c500.10.301 .
+:c850.10.002.02 :temDF :df_c850.10.002.02.
+###  http://jcr.di.uminho.pt/m51-clav#df_c850.10.002.02
+:df_c850.10.002.02 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c850.10.002.02 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c850.10.002.02
+:just_df_c850.10.002.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c850.10.002.02 :temJustificacao :just_df_c850.10.002.02 .
+:just_df_c850.10.002.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Sintetizado no PN 850.10.002.01- Formalização de candidaturas e acompanhamento de apoios regulares: candidatura, decisão e execução." .
+:just_df_c850.10.002.02 :temCriterio :just_df_c850.10.002.02_0. 
+:just_df_c850.10.002.02_0 :critTemProcRel :c850.10.002 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.10.003
+:c850.10.003 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '850.10.003' ;
+	:titulo 'Atribuição de estímulos e incentivos de apoio pontuais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.10 ;
+	:descricao 'Apresentação de candidaturas a programas ou projetos financiados de apoio pontual e acompanhamento da sua execução, no âmbito de medidas não enquadráveis num plano de continuidade. Inicia com a submissão da candidatura e termina com a elaboração do relatório final de execução da operação ou projeto apoiado, elaborado aquando do fim do programa de apoio. Inclui preparação e apresentação do pedido formal de apoio ou da candidatura, decisão, eventual contratualização, comunicação da atribuição do apoio e eventual apresentação de comprovativos de despesa.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_cbb70be560b7
+:nota_850.10.003_cbb70be560b7 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apoios em situações de catástrofes naturais".
+
+:c850.10.003 :temNotaAplicacao :nota_850.10.003_cbb70be560b7 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_f7f26a209873
+:nota_850.10.003_f7f26a209873 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apoios que saiam do âmbito dos programas de apoio estabelecidos".
+
+:c850.10.003 :temNotaAplicacao :nota_850.10.003_f7f26a209873 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_3ab9b8c45587
+:nota_850.10.003_3ab9b8c45587 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A contratação de serviços ou aquisição de bens devem ser considerados em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
+
+:c850.10.003 :temNotaExclusao :nota_850.10.003_3ab9b8c45587 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_69a22e9b504d
+:nota_850.10.003_69a22e9b504d rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pagamentos aos beneficiários devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c850.10.003 :temNotaExclusao :nota_850.10.003_69a22e9b504d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_03045e884f55
+:nota_850.10.003_03045e884f55 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os empréstimos no âmbito de programas de apoio financeiro para regularização do pagamento de dívidas devem ser considerados em 350.40.401 – Contração e amortização de empréstimos".
+
+:c850.10.003 :temNotaExclusao :nota_850.10.003_03045e884f55 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_6fd967a2daec
+:nota_850.10.003_6fd967a2daec rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A atribuição de prestações sociais e auxílios económicos deve ser considerada em “Prestação de serviços de proteção e inclusão social/Atribuição de prestações sociais e auxílios económicos” (650.10)".
+
+:c850.10.003 :temNotaExclusao :nota_850.10.003_6fd967a2daec .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_197a41467004
+:nota_850.10.003_197a41467004 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A concretização do projeto deve ser considerada na função respetiva".
+
+:c850.10.003 :temNotaExclusao :nota_850.10.003_197a41467004 .
+
+:c850.10.003 :processoTipoVC :vc_processoTipo_pc .
+:c850.10.003 :processoTransversal "S" .
+:c850.10.003 :temDono :tip_EGAP .
+:c850.10.003 :temDono :tip_AL .
+:c850.10.003 :temDono :ent_CP .
+:c850.10.003 :temDono :tip_CCDR .
+:c850.10.003 :temDono :tip_IES .
+:c850.10.003 :temDono :ent_IMT .
+:c850.10.003 :temDono :ent_ICNF .
+:c850.10.003 :temDono :ent_IEFP .
+:c850.10.003 :temDono :ent_DGRM .
+:c850.10.003 :temDono :ent_DGADR .
+:c850.10.003 :temDono :ent_DGAV .
+:c850.10.003 :temDono :ent_IVDP .
+:c850.10.003 :temDono :ent_PDR2020 .
+:c850.10.003 :temDono :ent_IFAP .
+:c850.10.003 :temDono :ent_CV .
+:c850.10.003 :temDono :ent_ERSE .
+:c850.10.003 :temParticipanteIniciador :tip_AP .
+:c850.10.003 :temParticipanteIniciador :tip_AL .
+:c850.10.003 :temParticipanteIniciador :ent_INFARMED .
+:c850.10.003 :temParticipanteIniciador :ent_CP .
+:c850.10.003 :temParticipanteIniciador :tip_CCDR .
+:c850.10.003 :temParticipanteIniciador :ent_IMT .
+:c850.10.003 :temParticipanteIniciador :ent_ICNF .
+:c850.10.003 :temParticipanteIniciador :ent_ACT .
+:c850.10.003 :temParticipanteIniciador :ent_CASES .
+:c850.10.003 :temParticipanteIniciador :ent_CGA .
+:c850.10.003 :temParticipanteIniciador :ent_CITE .
+:c850.10.003 :temParticipanteIniciador :ent_CNPDPCJ .
+:c850.10.003 :temParticipanteIniciador :ent_CPL .
+:c850.10.003 :temParticipanteIniciador :ent_CRL .
+:c850.10.003 :temParticipanteIniciador :ent_DGERT .
+:c850.10.003 :temParticipanteIniciador :ent_DGSS .
+:c850.10.003 :temParticipanteIniciador :ent_GEP .
+:c850.10.003 :temParticipanteIniciador :ent_IEFP .
+:c850.10.003 :temParticipanteIniciador :ent_IGMTSSS .
+:c850.10.003 :temParticipanteIniciador :ent_IGFCSS .
+:c850.10.003 :temParticipanteIniciador :ent_IGFSS .
+:c850.10.003 :temParticipanteIniciador :ent_II .
+:c850.10.003 :temParticipanteIniciador :ent_INR .
+:c850.10.003 :temParticipanteIniciador :ent_ISS .
+:c850.10.003 :temParticipanteIniciador :ent_OIT .
+:c850.10.003 :temParticipanteIniciador :ent_POISE .
+:c850.10.003 :temParticipanteIniciador :ent_SGMTSSS .
+:c850.10.003 :temParticipanteIniciador :ent_DGPM .
+:c850.10.003 :temParticipanteIniciador :ent_INIAV .
+:c850.10.003 :temParticipanteIniciador :ent_IVV .
+:c850.10.003 :temParticipanteIniciador :ent_IVDP .
+:c850.10.003 :temParticipanteIniciador :ent_PDR2020 .
+:c850.10.003 :temParticipanteIniciador :ent_GPP .
+:c850.10.003 :temParticipanteIniciador :tip_DRAP .
+:c850.10.003 :temParticipanteIniciador :ent_IFAP .
+:c850.10.003 :temParticipanteApreciador :ent_CV .
+:c850.10.003 :temLegislacao :leg_DL_55_2013 .
+:c850.10.003 :temLegislacao :leg_Aviso_11367_2010 .
+:c850.10.003 :temRelProc :c150.10.100 .
+:c850.10.003 :eSucessorDe :c150.10.100 .
+:c850.10.003 :temRelProc :c150.10.200 .
+:c850.10.003 :eSucessorDe :c150.10.200 .
+:c850.10.003 :temRelProc :c150.10.300 .
+:c850.10.003 :eSucessorDe :c150.10.300 .
+:c850.10.003 :temRelProc :c150.10.500 .
+:c850.10.003 :eSucessorDe :c150.10.500 .
+:c850.10.003 :temRelProc :c150.10.600 .
+:c850.10.003 :eSintetizadoPor :c150.10.600 .
+:c850.10.003 :temRelProc :c150.20.202 .
+:c850.10.003 :eSucessorDe :c150.20.202 .
+:c850.10.003 :temRelProc :c200.10.800 .
+:c850.10.003 :eAntecessorDe :c200.10.800 .
+:c850.10.003 :temRelProc :c200.30.302 .
+:c850.10.003 :eAntecessorDe :c200.30.302 .
+:c850.10.003 :temRelProc :c350.10.600 .
+:c850.10.003 :eAntecessorDe :c350.10.600 .
+:c850.10.003 :temRelProc :c400.10.052 .
+:c850.10.003 :eSucessorDe :c400.10.052 .
+:c850.10.003 :temRelProc :c400.10.053 .
+:c850.10.003 :eSucessorDe :c400.10.053 .
+:c850.10.003 :temRelProc :c400.30.001 .
+:c850.10.003 :eCruzadoCom :c400.30.001 .
+:c850.10.003 :temRelProc :c450.20.505 .
+:c850.10.003 :eAntecessorDe :c450.20.505 .
+:c850.10.003 :temRelProc :c500.10.001 .
+:c850.10.003 :eSuplementoPara :c500.10.001 .
+:c850.10.003 :temRelProc :c500.10.301 .
+:c850.10.003 :eSuplementoPara :c500.10.301 .
+:c850.10.003 :temRelProc :c800.20.001 .
+:c850.10.003 :eAntecessorDe :c800.20.001 .
+:c850.10.003 :temRelProc :c800.20.002 .
+:c850.10.003 :eCruzadoCom :c800.20.002 .
+:c850.10.003 :temRelProc :c800.20.500 .
+:c850.10.003 :eCruzadoCom :c800.20.500 .
+:c850.10.003 :temRelProc :c900.10.001 .
+:c850.10.003 :eAntecessorDe :c900.10.001 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.10.003.01
+:c850.10.003.01 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '850.10.003.01' ;
+	:titulo 'Atribuição de estímulos e incentivos de apoio pontuais: candidatura, decisão e execução' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.10.003 ;
+	:descricao 'Fases de candidatura, decisão e de execução e acompanhamento material de apoios pontuais. Inicia com a submissão de candidatura e termina com a análise e avaliação do relatório final/relatório de atividades/produto final. Inclui instrução de candidatura, análise da elegibilidade da candidatura, avaliação científica individual e final da candidatura, comunicação ao beneficiário da decisão final, contratualização com a entidade/sujeito proponente, acompanhamento e controlo da componente material do apoio, processos de atribuição de bolsas no âmbito do projeto (se aplicável), elaboração de relatório final/relatório de atividades/produto final e avaliação científica final do apoio atribuído. ' .
+:c850.10.003.01 :temPCA :pca_c850.10.003.01.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c850.10.003.01
+:pca_c850.10.003.01 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c850.10.003.01 :pcaValor 10.0.
+:pca_c850.10.003.01 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c850.10.003.01
+:just_pca_c850.10.003.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c850.10.003.01 :temJustificacao :just_pca_c850.10.003.01 .
+:just_pca_c850.10.003.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c850.10.003.01 :temCriterio :just_pca_c850.10.003.01_0. 
+:just_pca_c850.10.003.01_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c850.10.003.01_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede doPN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração); doPN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c850.10.003.01 :temCriterio :just_pca_c850.10.003.01_1. 
+:just_pca_c850.10.003.01_1 :critTemProcRel :c500.10.001 .
+:just_pca_c850.10.003.01_1 :critTemProcRel :c500.10.301 .
+:c850.10.003.01 :temDF :df_c850.10.003.01.
+###  http://jcr.di.uminho.pt/m51-clav#df_c850.10.003.01
+:df_c850.10.003.01 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c850.10.003.01 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c850.10.003.01
+:just_df_c850.10.003.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c850.10.003.01 :temJustificacao :just_df_c850.10.003.01 .
+:just_df_c850.10.003.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Não recuperável noutro processo com nível de detalhe para documentar a atividade.Síntese do PN 850.10.003.02 - Formalização de candidaturas e acompanhamento de apoios pontuais: informação financeira." .
+:just_df_c850.10.003.01 :temCriterio :just_df_c850.10.003.01_0. 
+:just_df_c850.10.003.01_0 :critTemProcRel :c850.10.003 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.10.003.02
+:c850.10.003.02 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '850.10.003.02' ;
+	:titulo 'Atribuição de estímulos e incentivos de apoio pontuais: controlo de informação financeira' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.10.003 ;
+	:descricao 'Fase de execução e acompanhamento financeiro de apoios pontuais. Inclui solicitação de pagamento, com os respetivos documentos comprovativos, análise e verificação, proposta para pagamento, bem como acompanhamento da execução financeira de apoios pontuais. ' .
+:c850.10.003.02 :temPCA :pca_c850.10.003.02.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c850.10.003.02
+:pca_c850.10.003.02 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c850.10.003.02 :pcaValor 10.0.
+:pca_c850.10.003.02 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c850.10.003.02
+:just_pca_c850.10.003.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c850.10.003.02 :temJustificacao :just_pca_c850.10.003.02 .
+:just_pca_c850.10.003.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c850.10.003.02 :temCriterio :just_pca_c850.10.003.02_0. 
+:just_pca_c850.10.003.02_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c850.10.003.02_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede doPN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração); doPN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c850.10.003.02 :temCriterio :just_pca_c850.10.003.02_1. 
+:just_pca_c850.10.003.02_1 :critTemProcRel :c500.10.001 .
+:just_pca_c850.10.003.02_1 :critTemProcRel :c500.10.301 .
+:c850.10.003.02 :temDF :df_c850.10.003.02.
+###  http://jcr.di.uminho.pt/m51-clav#df_c850.10.003.02
+:df_c850.10.003.02 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c850.10.003.02 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c850.10.003.02
+:just_df_c850.10.003.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c850.10.003.02 :temJustificacao :just_df_c850.10.003.02 .
+:just_df_c850.10.003.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Sintetizado no PN 850.10.003.01- Formalização de candidaturas e acompanhamento de apoios pontuais: execução." .
+:just_df_c850.10.003.02 :temCriterio :just_df_c850.10.003.02_0. 
+:just_df_c850.10.003.02_0 :critTemProcRel :c850.10.003 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.10.005
+:c850.10.005 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '850.10.005' ;
+	:titulo 'Atribuição de ajudas diretas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.10 ;
+	:descricao 'Proposição de candidatura a ajudas diretas como forma de garantir a estabilidade nos rendimentos, no âmbito de programas financiados. Inicia com a submissão da candidatura e termina com a elaboração do relatório final de execução da operação ou projeto apoiado, elaborado aquando do fim do programa de apoio. Inclui a instrução da candidatura, decisão, comunicação da atribuição do apoio, contratualização e controlo.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.005_e28e73b8474e
+:nota_850.10.005_e28e73b8474e rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Ajudas diretas ao setor primário".
+
+:c850.10.005 :temNotaAplicacao :nota_850.10.005_e28e73b8474e .
+
+:c850.10.005 :processoTipoVC :vc_processoTipo_pe .
+:c850.10.005 :processoTransversal "S" .
+:c850.10.005 :temDono :ent_IFAP .
+:c850.10.005 :temDono :tip_CCDR .
+:c850.10.005 :temDono :ent_IVV .
+:c850.10.005 :temDono :tip_IES .
+:c850.10.005 :temParticipanteAssessor :tip_DRAP .
+:c850.10.005 :temParticipanteAssessor :tip_CCDR .
+:c850.10.005 :temParticipanteAssessor :ent_ICNF .
+:c850.10.005 :temParticipanteAssessor :ent_DGRM .
+:c850.10.005 :temParticipanteAssessor :ent_DGADR .
+:c850.10.005 :temParticipanteAssessor :ent_DGAV .
+:c850.10.005 :temParticipanteAssessor :ent_INIAV .
+:c850.10.005 :temParticipanteAssessor :ent_IVV .
+:c850.10.005 :temParticipanteAssessor :ent_IVDP .
+:c850.10.005 :temParticipanteAssessor :ent_GPP .
+:c850.10.005 :temParticipanteAssessor :tip_DRAP .
+:c850.10.005 :temParticipanteAssessor :ent_IFAP .
+:c850.10.005 :temLegislacao :leg_Lei_98_97 .
+:c850.10.005 :temRelProc :c150.10.100 .
+:c850.10.005 :eAntecessorDe :c150.10.100 .
+:c850.10.005 :temRelProc :c150.10.500 .
+:c850.10.005 :eSucessorDe :c150.10.500 .
+:c850.10.005 :temRelProc :c150.10.600 .
+:c850.10.005 :eSintetizadoPor :c150.10.600 .
+:c850.10.005 :temRelProc :c150.20.202 .
+:c850.10.005 :eSucessorDe :c150.20.202 .
+:c850.10.005 :temRelProc :c150.20.300 .
+:c850.10.005 :eSintetizadoPor :c150.20.300 .
+:c850.10.005 :temRelProc :c150.20.404 .
+:c850.10.005 :eSintetizadoPor :c150.20.404 .
+:c850.10.005 :temRelProc :c150.40.500 .
+:c850.10.005 :eSintetizadoPor :c150.40.500 .
+:c850.10.005 :temRelProc :c200.10.800 .
+:c850.10.005 :eAntecessorDe :c200.10.800 .
+:c850.10.005 :temRelProc :c200.30.302 .
+:c850.10.005 :eAntecessorDe :c200.30.302 .
+:c850.10.005 :temRelProc :c300.30.008 .
+:c850.10.005 :eAntecessorDe :c300.30.008 .
+:c850.10.005 :temRelProc :c350.10.600 .
+:c850.10.005 :eCruzadoCom :c350.10.600 .
+:c850.10.005 :temRelProc :c400.30.001 .
+:c850.10.005 :eCruzadoCom :c400.30.001 .
+:c850.10.005 :temRelProc :c450.10.444 .
+:c850.10.005 :eAntecessorDe :c450.10.444 .
+:c850.10.005 :temRelProc :c500.10.001 .
+:c850.10.005 :eSuplementoPara :c500.10.001 .
+:c850.10.005 :temRelProc :c500.10.301 .
+:c850.10.005 :eSuplementoPara :c500.10.301 .
+:c850.10.005 :temRelProc :c800.20.001 .
+:c850.10.005 :eCruzadoCom :c800.20.001 .
+:c850.10.005 :temRelProc :c800.20.002 .
+:c850.10.005 :eCruzadoCom :c800.20.002 .
+:c850.10.005 :temRelProc :c800.20.500 .
+:c850.10.005 :eCruzadoCom :c800.20.500 .
+:c850.10.005 :temPCA :pca_c850.10.005.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c850.10.005
+:pca_c850.10.005 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c850.10.005 :pcaValor 10.0.
+:pca_c850.10.005 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c850.10.005
+:just_pca_c850.10.005 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c850.10.005 :temJustificacao :just_pca_c850.10.005 .
+:just_pca_c850.10.005_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c850.10.005 :temCriterio :just_pca_c850.10.005_0. 
+:just_pca_c850.10.005_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c850.10.005_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede doPN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração); doPN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c850.10.005 :temCriterio :just_pca_c850.10.005_1. 
+:just_pca_c850.10.005_1 :critTemProcRel :c500.10.001 .
+:just_pca_c850.10.005_1 :critTemProcRel :c500.10.301 .
+:c850.10.005 :temDF :df_c850.10.005.
+###  http://jcr.di.uminho.pt/m51-clav#df_c850.10.005
+:df_c850.10.005 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c850.10.005 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c850.10.005
+:just_df_c850.10.005 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c850.10.005 :temJustificacao :just_df_c850.10.005 .
+:just_df_c850.10.005_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação síntese recuperável complementarmente em PN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 150.20.404 - Prestação de contas (síntese da informação orçamental e patrimonial);PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos); PN 300.30.008 - Registo de documentos e informação (identificação e caracterização)." .
+:just_df_c850.10.005 :temCriterio :just_df_c850.10.005_0. 
+:just_df_c850.10.005_0 :critTemProcRel :c150.20.300 .
+:just_df_c850.10.005_0 :critTemProcRel :c150.20.404 .
+:just_df_c850.10.005_0 :critTemProcRel :c150.40.500 .
+:just_df_c850.10.005_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.10.500
+:c850.10.500 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '850.10.500' ;
+	:titulo 'Atribuição de prémios' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.10 ;
+	:descricao 'Valorização e estímulo da capacidade criativa, científica e técnica em ações, trabalhos e projetos cujos resultados sejam passíveis de serem reconhecidos na sociedade, apoiando o desenvolvimento, a vocação, a inovação, a capacidade de investigação e a dedicação. Inicia com a abertura de concurso, a apresentação de candidaturas ou a identificação dos eventuais candidatos e, termina, com a decisão de atribuição do prémio. Inclui, conforme o tipo de prémio, a avaliação e seleção de trabalhos, projetos ou ações passíveis de serem recompensados.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.500_99800bc55e9b
+:nota_850.10.500_99800bc55e9b rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Candidatura a prémios de investigação científica".
+
+:c850.10.500 :temNotaAplicacao :nota_850.10.500_99800bc55e9b .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.500_793d61e7d600
+:nota_850.10.500_793d61e7d600 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pagamentos aos beneficiários devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c850.10.500 :temNotaExclusao :nota_850.10.500_793d61e7d600 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.500_adb443f331bb
+:nota_850.10.500_adb443f331bb rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A cerimónia de atribuição do prémio deve ser considerada em 900.10.500 – Organização e participação em homenagens e cerimónias comemorativas".
+
+:c850.10.500 :temNotaExclusao :nota_850.10.500_adb443f331bb .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.500_51182aeedd9f
+:nota_850.10.500_51182aeedd9f rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os prémios atribuídos por atos de natureza cívica devem ser considerados em 950.30.001 – Reconhecimento por mérito e serviços prestados".
+
+:c850.10.500 :temNotaExclusao :nota_850.10.500_51182aeedd9f .
+
+:c850.10.500 :processoTipoVC :vc_processoTipo_pc .
+:c850.10.500 :processoTransversal "S" .
+:c850.10.500 :temDono :tip_AP .
+:c850.10.500 :temDono :tip_AL .
+:c850.10.500 :temDono :ent_Grupo_IP .
+:c850.10.500 :temDono :ent_INFARMED .
+:c850.10.500 :temDono :tip_CCDR .
+:c850.10.500 :temDono :tip_IES .
+:c850.10.500 :temDono :ent_IMT .
+:c850.10.500 :temDono :ent_ICNF .
+:c850.10.500 :temDono :ent_ACT .
+:c850.10.500 :temDono :ent_CASES .
+:c850.10.500 :temDono :ent_CGA .
+:c850.10.500 :temDono :ent_CITE .
+:c850.10.500 :temDono :ent_CNPDPCJ .
+:c850.10.500 :temDono :ent_CPL .
+:c850.10.500 :temDono :ent_CRL .
+:c850.10.500 :temDono :ent_DGERT .
+:c850.10.500 :temDono :ent_DGSS .
+:c850.10.500 :temDono :ent_GEP .
+:c850.10.500 :temDono :ent_IEFP .
+:c850.10.500 :temDono :ent_IGMTSSS .
+:c850.10.500 :temDono :ent_IGFCSS .
+:c850.10.500 :temDono :ent_IGFSS .
+:c850.10.500 :temDono :ent_II .
+:c850.10.500 :temDono :ent_INR .
+:c850.10.500 :temDono :ent_ISS .
+:c850.10.500 :temDono :ent_OIT .
+:c850.10.500 :temDono :ent_POISE .
+:c850.10.500 :temDono :ent_SGMTSSS .
+:c850.10.500 :temDono :ent_DGPM .
+:c850.10.500 :temDono :ent_DGRM .
+:c850.10.500 :temDono :ent_DGADR .
+:c850.10.500 :temDono :ent_DGAV .
+:c850.10.500 :temDono :ent_INIAV .
+:c850.10.500 :temDono :ent_IVV .
+:c850.10.500 :temDono :ent_IVDP .
+:c850.10.500 :temDono :ent_PDR2020 .
+:c850.10.500 :temDono :ent_GPP .
+:c850.10.500 :temDono :tip_DRAP .
+:c850.10.500 :temDono :ent_IFAP .
+:c850.10.500 :temDono :ent_CV .
+:c850.10.500 :temDono :ent_ERSE .
+:c850.10.500 :temParticipanteIniciador :tip_AP .
+:c850.10.500 :temParticipanteIniciador :ent_Grupo_IP .
+:c850.10.500 :temParticipanteIniciador :tip_CCDR .
+:c850.10.500 :temParticipanteIniciador :ent_IMT .
+:c850.10.500 :temParticipanteIniciador :ent_ICNF .
+:c850.10.500 :temParticipanteIniciador :ent_ACT .
+:c850.10.500 :temParticipanteIniciador :ent_CASES .
+:c850.10.500 :temParticipanteIniciador :ent_CGA .
+:c850.10.500 :temParticipanteIniciador :ent_CITE .
+:c850.10.500 :temParticipanteIniciador :ent_CNPDPCJ .
+:c850.10.500 :temParticipanteIniciador :ent_CPL .
+:c850.10.500 :temParticipanteIniciador :ent_CRL .
+:c850.10.500 :temParticipanteIniciador :ent_DGERT .
+:c850.10.500 :temParticipanteIniciador :ent_DGSS .
+:c850.10.500 :temParticipanteIniciador :ent_GEP .
+:c850.10.500 :temParticipanteIniciador :ent_IEFP .
+:c850.10.500 :temParticipanteIniciador :ent_IGMTSSS .
+:c850.10.500 :temParticipanteIniciador :ent_IGFCSS .
+:c850.10.500 :temParticipanteIniciador :ent_IGFSS .
+:c850.10.500 :temParticipanteIniciador :ent_II .
+:c850.10.500 :temParticipanteIniciador :ent_INR .
+:c850.10.500 :temParticipanteIniciador :ent_ISS .
+:c850.10.500 :temParticipanteIniciador :ent_OIT .
+:c850.10.500 :temParticipanteIniciador :ent_POISE .
+:c850.10.500 :temParticipanteIniciador :ent_SGMTSSS .
+:c850.10.500 :temParticipanteIniciador :ent_IGAMAOT .
+:c850.10.500 :temParticipanteIniciador :ent_DGPM .
+:c850.10.500 :temParticipanteIniciador :ent_DGRM .
+:c850.10.500 :temParticipanteIniciador :ent_DGADR .
+:c850.10.500 :temParticipanteIniciador :ent_DGAV .
+:c850.10.500 :temParticipanteIniciador :ent_INIAV .
+:c850.10.500 :temParticipanteIniciador :ent_IVV .
+:c850.10.500 :temParticipanteIniciador :ent_IVDP .
+:c850.10.500 :temParticipanteIniciador :ent_GPP .
+:c850.10.500 :temParticipanteIniciador :tip_DRAP .
+:c850.10.500 :temParticipanteIniciador :ent_IFAP .
+:c850.10.500 :temParticipanteApreciador :ent_CV .
+:c850.10.500 :temLegislacao :leg_Lei_98_97 .
+:c850.10.500 :temRelProc :c150.10.100 .
+:c850.10.500 :eSucessorDe :c150.10.100 .
+:c850.10.500 :temRelProc :c150.10.500 .
+:c850.10.500 :eAntecessorDe :c150.10.500 .
+:c850.10.500 :temRelProc :c150.10.600 .
+:c850.10.500 :eSucessorDe :c150.10.600 .
+:c850.10.500 :temRelProc :c150.20.202 .
+:c850.10.500 :eAntecessorDe :c150.20.202 .
+:c850.10.500 :temRelProc :c150.20.404 .
+:c850.10.500 :eSucessorDe :c150.20.404 .
+:c850.10.500 :temRelProc :c350.10.600 .
+:c850.10.500 :eCruzadoCom :c350.10.600 .
+:c850.10.500 :temRelProc :c350.30.001 .
+:c850.10.500 :eCruzadoCom :c350.30.001 .
+:c850.10.500 :temRelProc :c500.10.001 .
+:c850.10.500 :eSuplementoPara :c500.10.001 .
+:c850.10.500 :temRelProc :c500.10.301 .
+:c850.10.500 :eSuplementoPara :c500.10.301 .
+:c850.10.500 :temRelProc :c800.20.001 .
+:c850.10.500 :eCruzadoCom :c800.20.001 .
+:c850.10.500 :temRelProc :c800.20.002 .
+:c850.10.500 :eCruzadoCom :c800.20.002 .
+:c850.10.500 :temRelProc :c800.20.500 .
+:c850.10.500 :eCruzadoCom :c800.20.500 .
+:c850.10.500 :temRelProc :c900.10.500 .
+:c850.10.500 :eCruzadoCom :c900.10.500 .
+:c850.10.500 :temPCA :pca_c850.10.500.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c850.10.500
+:pca_c850.10.500 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c850.10.500 :pcaValor 10.0.
+:pca_c850.10.500 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c850.10.500
+:just_pca_c850.10.500 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c850.10.500 :temJustificacao :just_pca_c850.10.500 .
+:just_pca_c850.10.500_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c850.10.500 :temCriterio :just_pca_c850.10.500_0. 
+:just_pca_c850.10.500_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c850.10.500_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede dePN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c850.10.500 :temCriterio :just_pca_c850.10.500_1. 
+:just_pca_c850.10.500_1 :critTemProcRel :c500.10.001 .
+:just_pca_c850.10.500_1 :critTemProcRel :c500.10.301 .
+:c850.10.500 :temDF :df_c850.10.500.
+###  http://jcr.di.uminho.pt/m51-clav#df_c850.10.500
+:df_c850.10.500 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c850.10.500 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c850.10.500
+:just_df_c850.10.500 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c850.10.500 :temJustificacao :just_df_c850.10.500 .
+:just_df_c850.10.500_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN." .
+:just_df_c850.10.500 :temCriterio :just_df_c850.10.500_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.10.600
+:c850.10.600 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '850.10.600' ;
+	:titulo 'Captação de patrocínios' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.10 ;
+	:descricao 'Aceitação, por entidade pública, de recurso (financeiro ou material) para apoio direto ou para suporte à realização de uma atividade, acontecimento, ou a contrapartidas de caráter comercial, com o propósito de associar o nome do patrocinador a determinado evento ou iniciativa. Inicia com o pedido e termina com a decisão quanto à atribuição e forma de patrocínio. Inclui análise da proposta e negociação entre patrocinador e beneficiário, contrato de patrocínio, quando aplicável.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_b2a283fa82b1
+:nota_850.10.600_b2a283fa82b1 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Patrocínio a atividades artísticas".
+
+:c850.10.600 :temNotaAplicacao :nota_850.10.600_b2a283fa82b1 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_4239e769fe46
+:nota_850.10.600_4239e769fe46 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Patrocínio a atividades culturais".
+
+:c850.10.600 :temNotaAplicacao :nota_850.10.600_4239e769fe46 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_01c04eeb5b5e
+:nota_850.10.600_01c04eeb5b5e rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Patrocínio a atividades desportivas".
+
+:c850.10.600 :temNotaAplicacao :nota_850.10.600_01c04eeb5b5e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_f51e25c1be03
+:nota_850.10.600_f51e25c1be03 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Patrocínio a atividades sociais".
+
+:c850.10.600 :temNotaAplicacao :nota_850.10.600_f51e25c1be03 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_f7c520e8cd30
+:nota_850.10.600_f7c520e8cd30 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Patrocínio institucional".
+
+:c850.10.600 :temNotaAplicacao :nota_850.10.600_f7c520e8cd30 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_0eb418255e0c
+:nota_850.10.600_0eb418255e0c rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Patrocínio promocional".
+
+:c850.10.600 :temNotaAplicacao :nota_850.10.600_0eb418255e0c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_2575e9ed5ad9
+:nota_850.10.600_2575e9ed5ad9 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A disponibilização efetiva dos bens materiais deve ser considerada em 300.50.203 – Aluguer ou cedência de utilização de bens móveis não culturais".
+
+:c850.10.600 :temNotaExclusao :nota_850.10.600_2575e9ed5ad9 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_57f895e05edc
+:nota_850.10.600_57f895e05edc rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O pagamento do valor patrocinado deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c850.10.600 :temNotaExclusao :nota_850.10.600_57f895e05edc .
+
+:c850.10.600 :processoTipoVC :vc_processoTipo_pc .
+:c850.10.600 :processoTransversal "S" .
+:c850.10.600 :temDono :tip_AP .
+:c850.10.600 :temDono :tip_AL .
+:c850.10.600 :temDono :ent_CP .
+:c850.10.600 :temDono :ent_Grupo_IP .
+:c850.10.600 :temDono :tip_IES .
+:c850.10.600 :temDono :ent_INFARMED .
+:c850.10.600 :temDono :tip_CCDR .
+:c850.10.600 :temDono :ent_IMT .
+:c850.10.600 :temDono :ent_ICNF .
+:c850.10.600 :temDono :ent_ACT .
+:c850.10.600 :temDono :ent_CASES .
+:c850.10.600 :temDono :ent_CGA .
+:c850.10.600 :temDono :ent_CITE .
+:c850.10.600 :temDono :ent_CNPDPCJ .
+:c850.10.600 :temDono :ent_CPL .
+:c850.10.600 :temDono :ent_CRL .
+:c850.10.600 :temDono :ent_DGERT .
+:c850.10.600 :temDono :ent_DGSS .
+:c850.10.600 :temDono :ent_GEP .
+:c850.10.600 :temDono :ent_IEFP .
+:c850.10.600 :temDono :ent_IGMTSSS .
+:c850.10.600 :temDono :ent_IGFCSS .
+:c850.10.600 :temDono :ent_IGFSS .
+:c850.10.600 :temDono :ent_II .
+:c850.10.600 :temDono :ent_INR .
+:c850.10.600 :temDono :ent_ISS .
+:c850.10.600 :temDono :ent_OIT .
+:c850.10.600 :temDono :ent_POISE .
+:c850.10.600 :temDono :ent_SGMTSSS .
+:c850.10.600 :temDono :ent_DGPM .
+:c850.10.600 :temDono :ent_DGRM .
+:c850.10.600 :temDono :ent_DGADR .
+:c850.10.600 :temDono :ent_DGAV .
+:c850.10.600 :temDono :ent_INIAV .
+:c850.10.600 :temDono :ent_IVV .
+:c850.10.600 :temDono :ent_IVDP .
+:c850.10.600 :temDono :ent_IFAP .
+:c850.10.600 :temDono :ent_CV .
+:c850.10.600 :temDono :ent_ERSE .
+:c850.10.600 :temParticipanteAssessor :tip_AP .
+:c850.10.600 :temParticipanteAssessor :tip_CCDR .
+:c850.10.600 :temParticipanteAssessor :ent_IMT .
+:c850.10.600 :temParticipanteAssessor :ent_ICNF .
+:c850.10.600 :temParticipanteAssessor :ent_ACT .
+:c850.10.600 :temParticipanteAssessor :ent_CASES .
+:c850.10.600 :temParticipanteAssessor :ent_CGA .
+:c850.10.600 :temParticipanteAssessor :ent_CITE .
+:c850.10.600 :temParticipanteAssessor :ent_CNPDPCJ .
+:c850.10.600 :temParticipanteAssessor :ent_CPL .
+:c850.10.600 :temParticipanteAssessor :ent_CRL .
+:c850.10.600 :temParticipanteAssessor :ent_DGERT .
+:c850.10.600 :temParticipanteAssessor :ent_DGSS .
+:c850.10.600 :temParticipanteAssessor :ent_GEP .
+:c850.10.600 :temParticipanteAssessor :ent_IEFP .
+:c850.10.600 :temParticipanteAssessor :ent_IGMTSSS .
+:c850.10.600 :temParticipanteAssessor :ent_IGFCSS .
+:c850.10.600 :temParticipanteAssessor :ent_IGFSS .
+:c850.10.600 :temParticipanteAssessor :ent_II .
+:c850.10.600 :temParticipanteAssessor :ent_INR .
+:c850.10.600 :temParticipanteAssessor :ent_ISS .
+:c850.10.600 :temParticipanteAssessor :ent_OIT .
+:c850.10.600 :temParticipanteAssessor :ent_POISE .
+:c850.10.600 :temParticipanteAssessor :ent_SGMTSSS .
+:c850.10.600 :temParticipanteAssessor :ent_DGPM .
+:c850.10.600 :temParticipanteAssessor :ent_DGRM .
+:c850.10.600 :temParticipanteAssessor :ent_DGADR .
+:c850.10.600 :temParticipanteAssessor :ent_DGAV .
+:c850.10.600 :temParticipanteAssessor :ent_INIAV .
+:c850.10.600 :temParticipanteAssessor :ent_IVV .
+:c850.10.600 :temParticipanteAssessor :ent_IVDP .
+:c850.10.600 :temParticipanteAssessor :tip_DRAP .
+:c850.10.600 :temParticipanteAssessor :ent_IFAP .
+:c850.10.600 :temLegislacao :leg_Lei_98_97 .
+:c850.10.600 :temRelProc :c150.10.500 .
+:c850.10.600 :eSucessorDe :c150.10.500 .
+:c850.10.600 :temRelProc :c150.20.202 .
+:c850.10.600 :eSucessorDe :c150.20.202 .
+:c850.10.600 :temRelProc :c150.20.300 .
+:c850.10.600 :eSintetizadoPor :c150.20.300 .
+:c850.10.600 :temRelProc :c150.20.404 .
+:c850.10.600 :eSintetizadoPor :c150.20.404 .
+:c850.10.600 :temRelProc :c150.40.500 .
+:c850.10.600 :eSintetizadoPor :c150.40.500 .
+:c850.10.600 :temRelProc :c300.30.008 .
+:c850.10.600 :eSintetizadoPor :c300.30.008 .
+:c850.10.600 :temRelProc :c350.10.600 .
+:c850.10.600 :eAntecessorDe :c350.10.600 .
+:c850.10.600 :temRelProc :c350.30.001 .
+:c850.10.600 :eCruzadoCom :c350.30.001 .
+:c850.10.600 :temRelProc :c500.10.001 .
+:c850.10.600 :eSuplementoPara :c500.10.001 .
+:c850.10.600 :temRelProc :c500.10.301 .
+:c850.10.600 :eSuplementoPara :c500.10.301 .
+:c850.10.600 :temRelProc :c800.20.001 .
+:c850.10.600 :eAntecessorDe :c800.20.001 .
+:c850.10.600 :temRelProc :c800.20.002 .
+:c850.10.600 :eCruzadoCom :c800.20.002 .
+:c850.10.600 :temRelProc :c800.20.500 .
+:c850.10.600 :eCruzadoCom :c800.20.500 .
+:c850.10.600 :temRelProc :c900.10.500 .
+:c850.10.600 :eCruzadoCom :c900.10.500 .
+:c850.10.600 :temPCA :pca_c850.10.600.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c850.10.600
+:pca_c850.10.600 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c850.10.600 :pcaValor 10.0.
+:pca_c850.10.600 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c850.10.600
+:just_pca_c850.10.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c850.10.600 :temJustificacao :just_pca_c850.10.600 .
+:just_pca_c850.10.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c850.10.600 :temCriterio :just_pca_c850.10.600_0. 
+:just_pca_c850.10.600_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c850.10.600_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede dePN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c850.10.600 :temCriterio :just_pca_c850.10.600_1. 
+:just_pca_c850.10.600_1 :critTemProcRel :c500.10.001 .
+:just_pca_c850.10.600_1 :critTemProcRel :c500.10.301 .
+:c850.10.600 :temDF :df_c850.10.600.
+###  http://jcr.di.uminho.pt/m51-clav#df_c850.10.600
+:df_c850.10.600 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c850.10.600 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c850.10.600
+:just_df_c850.10.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c850.10.600 :temJustificacao :just_df_c850.10.600 .
+:just_df_c850.10.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação síntese recuperável complementarmente emPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 150.20.404 - Prestação de contas (síntese da informação orçamental e patrimonial);PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos);PN 300.30.008 - Registo de documentos e informação (identificação e caracterização)." .
+:just_df_c850.10.600 :temCriterio :just_df_c850.10.600_0. 
+:just_df_c850.10.600_0 :critTemProcRel :c150.20.300 .
+:just_df_c850.10.600_0 :critTemProcRel :c150.20.404 .
+:just_df_c850.10.600_0 :critTemProcRel :c150.40.500 .
+:just_df_c850.10.600_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.10.601
+:c850.10.601 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '850.10.601' ;
+	:titulo 'Captação e aplicação de apoios mecenáticos' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.10 ;
+	:descricao 'Desenvolvimento de ações ou programas de incentivo ao financiamento, em dinheiro ou em espécie, tendo em vista a realização de projetos, atividades ou iniciativas de natureza diversa. Inicia com a proposta e termina com a assinatura do acordo. Inclui a análise da proposta, a negociação entre o mecenas e o beneficiário, a contratualização das condições acordadas e, quando aplicável, o reconhecimento do manifesto interesse da tutela pelo projeto ou ação. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_0160dab517f2
+:nota_850.10.601_0160dab517f2 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apoio mecenático na área ambiental".
+
+:c850.10.601 :temNotaAplicacao :nota_850.10.601_0160dab517f2 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_a3c1c990b4ea
+:nota_850.10.601_a3c1c990b4ea rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apoio mecenático na área científica ou tecnológica".
+
+:c850.10.601 :temNotaAplicacao :nota_850.10.601_a3c1c990b4ea .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_358f9ee53c9d
+:nota_850.10.601_358f9ee53c9d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apoio mecenático na área cultural".
+
+:c850.10.601 :temNotaAplicacao :nota_850.10.601_358f9ee53c9d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_1641dc0071a3
+:nota_850.10.601_1641dc0071a3 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apoio mecenático na área desportiva".
+
+:c850.10.601 :temNotaAplicacao :nota_850.10.601_1641dc0071a3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_197f3b03cc78
+:nota_850.10.601_197f3b03cc78 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apoio mecenático na área educacional".
+
+:c850.10.601 :temNotaAplicacao :nota_850.10.601_197f3b03cc78 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_43ffa3e4800c
+:nota_850.10.601_43ffa3e4800c rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apoio mecenático na área social".
+
+:c850.10.601 :temNotaAplicacao :nota_850.10.601_43ffa3e4800c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_b4192e54d1e2
+:nota_850.10.601_b4192e54d1e2 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O registo do bem doado deve ser considerado em “Administração de direitos, bens e serviços/Identificação e caracterização de bens” (300.30)".
+
+:c850.10.601 :temNotaExclusao :nota_850.10.601_b4192e54d1e2 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_16e09d70118a
+:nota_850.10.601_16e09d70118a rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O fluxo financeiro relativo ao apoio mecenático deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c850.10.601 :temNotaExclusao :nota_850.10.601_16e09d70118a .
+
+:c850.10.601 :processoTipoVC :vc_processoTipo_pc .
+:c850.10.601 :processoTransversal "S" .
+:c850.10.601 :temDono :tip_AP .
+:c850.10.601 :temDono :tip_AL .
+:c850.10.601 :temDono :tip_CCDR .
+:c850.10.601 :temDono :tip_IES .
+:c850.10.601 :temDono :ent_ICNF .
+:c850.10.601 :temDono :ent_ACT .
+:c850.10.601 :temDono :ent_CASES .
+:c850.10.601 :temDono :ent_CGA .
+:c850.10.601 :temDono :ent_CITE .
+:c850.10.601 :temDono :ent_CNPDPCJ .
+:c850.10.601 :temDono :ent_CPL .
+:c850.10.601 :temDono :ent_CRL .
+:c850.10.601 :temDono :ent_DGERT .
+:c850.10.601 :temDono :ent_DGSS .
+:c850.10.601 :temDono :ent_GEP .
+:c850.10.601 :temDono :ent_IEFP .
+:c850.10.601 :temDono :ent_IGMTSSS .
+:c850.10.601 :temDono :ent_IGFCSS .
+:c850.10.601 :temDono :ent_IGFSS .
+:c850.10.601 :temDono :ent_II .
+:c850.10.601 :temDono :ent_INR .
+:c850.10.601 :temDono :ent_ISS .
+:c850.10.601 :temDono :ent_OIT .
+:c850.10.601 :temDono :ent_POISE .
+:c850.10.601 :temDono :ent_SGMTSSS .
+:c850.10.601 :temDono :ent_DGRM .
+:c850.10.601 :temDono :ent_DGAV .
+:c850.10.601 :temDono :ent_INIAV .
+:c850.10.601 :temDono :ent_IFAP .
+:c850.10.601 :temParticipanteIniciador :ent_INIAV .
+:c850.10.601 :temParticipanteIniciador :ent_IFAP .
+:c850.10.601 :temLegislacao :leg_Circular_AT_12_2002 .
+:c850.10.601 :temLegislacao :leg_Circular_AT_2_2004 .
+:c850.10.601 :temLegislacao :leg_DL_215_89 .
+:c850.10.601 :temLegislacao :leg_DL_108_2008 .
+:c850.10.601 :temLegislacao :leg_DL_250_2009 .
+:c850.10.601 :temLegislacao :leg_Lei_83_2013 .
+:c850.10.601 :temLegislacao :leg_Lei_72_2014 .
+:c850.10.601 :temLegislacao :leg_Lei_82_B_2014 .
+:c850.10.601 :temLegislacao :leg_DL_7_2015 .
+:c850.10.601 :temLegislacao :leg_Lei_98_97 .
+:c850.10.601 :temRelProc :c150.20.300 .
+:c850.10.601 :eSintetizadoPor :c150.20.300 .
+:c850.10.601 :temRelProc :c150.20.404 .
+:c850.10.601 :eSintetizadoPor :c150.20.404 .
+:c850.10.601 :temRelProc :c150.40.500 .
+:c850.10.601 :eSintetizadoPor :c150.40.500 .
+:c850.10.601 :temRelProc :c300.30.002 .
+:c850.10.601 :eCruzadoCom :c300.30.002 .
+:c850.10.601 :temRelProc :c300.30.003 .
+:c850.10.601 :eCruzadoCom :c300.30.003 .
+:c850.10.601 :temRelProc :c300.30.008 .
+:c850.10.601 :eSintetizadoPor :c300.30.008 .
+:c850.10.601 :temRelProc :c350.30.001 .
+:c850.10.601 :eCruzadoCom :c350.30.001 .
+:c850.10.601 :temRelProc :c500.10.001 .
+:c850.10.601 :eSuplementoPara :c500.10.001 .
+:c850.10.601 :temRelProc :c500.10.301 .
+:c850.10.601 :eSuplementoPara :c500.10.301 .
+:c850.10.601 :temRelProc :c800.20.001 .
+:c850.10.601 :eCruzadoCom :c800.20.001 .
+:c850.10.601 :temRelProc :c800.20.002 .
+:c850.10.601 :eCruzadoCom :c800.20.002 .
+:c850.10.601 :temRelProc :c800.20.500 .
+:c850.10.601 :eCruzadoCom :c800.20.500 .
+:c850.10.601 :temPCA :pca_c850.10.601.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c850.10.601
+:pca_c850.10.601 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c850.10.601 :pcaValor 10.0.
+:pca_c850.10.601 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c850.10.601
+:just_pca_c850.10.601 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c850.10.601 :temJustificacao :just_pca_c850.10.601 .
+:just_pca_c850.10.601_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c850.10.601 :temCriterio :just_pca_c850.10.601_0. 
+:just_pca_c850.10.601_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c850.10.601_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede dePN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c850.10.601 :temCriterio :just_pca_c850.10.601_1. 
+:just_pca_c850.10.601_1 :critTemProcRel :c500.10.001 .
+:just_pca_c850.10.601_1 :critTemProcRel :c500.10.301 .
+:c850.10.601 :temDF :df_c850.10.601.
+###  http://jcr.di.uminho.pt/m51-clav#df_c850.10.601
+:df_c850.10.601 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c850.10.601 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c850.10.601
+:just_df_c850.10.601 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c850.10.601 :temJustificacao :just_df_c850.10.601 .
+:just_df_c850.10.601_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação síntese recuperável complementarmente emPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 150.20.404 - Prestação de contas (síntese da informação orçamental e patrimonial);PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos);PN 300.30.008 - Registo de documentos e informação (identificação e caracterização)." .
+:just_df_c850.10.601 :temCriterio :just_df_c850.10.601_0. 
+:just_df_c850.10.601_0 :critTemProcRel :c150.20.300 .
+:just_df_c850.10.601_0 :critTemProcRel :c150.20.404 .
+:just_df_c850.10.601_0 :critTemProcRel :c150.40.500 .
+:just_df_c850.10.601_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.30
+:c850.30 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N2 ;
+	:codigo '850.30' ;
+	:titulo 'Atribuição e controlo de bonificações e benefícios' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850 ;
+	:descricao 'Compreende as atividades de atribuição e controlo das bonificações e benefícios ao investimento concedidas pelo Estado.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30_76f12a0a8f44
+:nota_850.30_76f12a0a8f44 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Bonificação de juros no crédito à habitação".
+
+:c850.30 :temNotaAplicacao :nota_850.30_76f12a0a8f44 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30_ce1044313ee8
+:nota_850.30_ce1044313ee8 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Bonificação ao gasóleo utilizado na atividade agrícola".
+
+:c850.30 :temNotaAplicacao :nota_850.30_ce1044313ee8 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30_01b4d5c332bf
+:nota_850.30_01b4d5c332bf rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Benefícios fiscais ao investimento".
+
+:c850.30 :temNotaAplicacao :nota_850.30_01b4d5c332bf .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.30.001
+:c850.30.001 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '850.30.001' ;
+	:titulo 'Atribuição de bonificações' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.30 ;
+	:descricao 'Concessão de bonificações a entidades nacionais e estrangeiras, através de linhas de crédito bonificadas e criadas por diploma próprio, nos setores do arrendamento urbano, eventos nacionais, intempéries, calamidades, crédito de ajuda, entre outros. Inicia com um pedido e termina com a decisão de atribuição da bonificação. Inclui a análise dos elementos e a elaboração de pareceres. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_4bf9cfdee55a
+:nota_850.30.001_4bf9cfdee55a rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Crédito à habitação bonificado".
+
+:c850.30.001 :temNotaAplicacao :nota_850.30.001_4bf9cfdee55a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_d681c71a4515
+:nota_850.30.001_d681c71a4515 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Linhas de crédito destinadas à agricultura".
+
+:c850.30.001 :temNotaAplicacao :nota_850.30.001_d681c71a4515 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_0f5b57009df3
+:nota_850.30.001_0f5b57009df3 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Linhas de crédito destinadas à pecuária".
+
+:c850.30.001 :temNotaAplicacao :nota_850.30.001_0f5b57009df3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_cc2ebdab3dd2
+:nota_850.30.001_cc2ebdab3dd2 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Linhas de crédito destinadas às pescas".
+
+:c850.30.001 :temNotaAplicacao :nota_850.30.001_cc2ebdab3dd2 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_228c93d82aa9
+:nota_850.30.001_228c93d82aa9 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A celebração de protocolos deve ser considerada em 150.10.500 – Elaboração de instrumentos de cooperação interinstitucional".
+
+:c850.30.001 :temNotaExclusao :nota_850.30.001_228c93d82aa9 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_65dedaad27c6
+:nota_850.30.001_65dedaad27c6 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pagamentos aos beneficiários devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c850.30.001 :temNotaExclusao :nota_850.30.001_65dedaad27c6 .
+
+:c850.30.001 :processoTipoVC :vc_processoTipo_pe .
+:c850.30.001 :processoTransversal "S" .
+:c850.30.001 :temDono :ent_DGTF .
+:c850.30.001 :temDono :ent_IFAP .
+:c850.30.001 :temDono :ent_ISS .
+:c850.30.001 :temDono :ent_DGRM .
+:c850.30.001 :temDono :ent_DGAV .
+:c850.30.001 :temDono :ent_IFAP .
+:c850.30.001 :temParticipanteAssessor :tip_DRAP .
+:c850.30.001 :temParticipanteAssessor :ent_ICNF .
+:c850.30.001 :temParticipanteIniciador :ent_IEFP .
+:c850.30.001 :temParticipanteAssessor :ent_DGADR .
+:c850.30.001 :temParticipanteAssessor :ent_IVV .
+:c850.30.001 :temParticipanteAssessor :ent_IVDP .
+:c850.30.001 :temParticipanteAssessor :tip_DRAP .
+:c850.30.001 :temParticipanteAssessor :ent_IFAP .
+:c850.30.001 :temLegislacao :leg_Lei_35_2007 .
+:c850.30.001 :temLegislacao :leg_Lei_48_2006 .
+:c850.30.001 :temLegislacao :leg_Lei_98_97 .
+:c850.30.001 :temRelProc :c150.20.300 .
+:c850.30.001 :eSintetizadoPor :c150.20.300 .
+:c850.30.001 :temRelProc :c150.20.404 .
+:c850.30.001 :eSintetizadoPor :c150.20.404 .
+:c850.30.001 :temRelProc :c150.40.500 .
+:c850.30.001 :eSintetizadoPor :c150.40.500 .
+:c850.30.001 :temRelProc :c300.30.008 .
+:c850.30.001 :eSintetizadoPor :c300.30.008 .
+:c850.30.001 :temRelProc :c500.10.001 .
+:c850.30.001 :eSuplementoPara :c500.10.001 .
+:c850.30.001 :temRelProc :c500.10.301 .
+:c850.30.001 :eSuplementoPara :c500.10.301 .
+:c850.30.001 :temPCA :pca_c850.30.001.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c850.30.001
+:pca_c850.30.001 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c850.30.001 :pcaValor 10.0.
+:pca_c850.30.001 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c850.30.001
+:just_pca_c850.30.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c850.30.001 :temJustificacao :just_pca_c850.30.001 .
+:just_pca_c850.30.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c850.30.001 :temCriterio :just_pca_c850.30.001_0. 
+:just_pca_c850.30.001_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c850.30.001_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede dePN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c850.30.001 :temCriterio :just_pca_c850.30.001_1. 
+:just_pca_c850.30.001_1 :critTemProcRel :c500.10.001 .
+:just_pca_c850.30.001_1 :critTemProcRel :c500.10.301 .
+:c850.30.001 :temDF :df_c850.30.001.
+###  http://jcr.di.uminho.pt/m51-clav#df_c850.30.001
+:df_c850.30.001 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c850.30.001 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c850.30.001
+:just_df_c850.30.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c850.30.001 :temJustificacao :just_df_c850.30.001 .
+:just_df_c850.30.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação síntese recuperável complementarmente emPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 150.20.404 - Prestação de contas (síntese da informação orçamental e patrimonial);PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos);PN 300.30.008 - Registo de documentos e informação (identificação e caracterização)." .
+:just_df_c850.30.001 :temCriterio :just_df_c850.30.001_0. 
+:just_df_c850.30.001_0 :critTemProcRel :c150.20.300 .
+:just_df_c850.30.001_0 :critTemProcRel :c150.20.404 .
+:just_df_c850.30.001_0 :critTemProcRel :c150.40.500 .
+:just_df_c850.30.001_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.30.002
+:c850.30.002 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '850.30.002' ;
+	:titulo 'Processamento de benefícios e incentivos contratuais ao investimento' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.30 ;
+	:descricao 'Aplicação do regime de benefícios ao investimento produtivo a entidades contratualizadas. Inicia com a negociação contratual entre as partes e termina com a aplicação do contrato. Inclui todos os procedimentos para a análise e cálculo dos benefícios e incentivos. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.002_371ff3d7ac28
+:nota_850.30.002_371ff3d7ac28 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Todos os tipos de benefícios ou incentivos fiscais ou aduaneiros, objeto de contratualização com o Estado Português para projetos de investimento".
+
+:c850.30.002 :temNotaAplicacao :nota_850.30.002_371ff3d7ac28 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.002_21c1aef2d706
+:nota_850.30.002_21c1aef2d706 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Medidas fiscais que obedeçam às caraterísticas enunciadas no nº 1 do artº 2º do Estatuto dos Benefícios Fiscais".
+
+:c850.30.002 :temNotaAplicacao :nota_850.30.002_21c1aef2d706 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_850.30.002_a1d423991472
+:exemplo_850.30.002_a1d423991472 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Isenções".
+
+:c850.30.002 :temExemploNA :exemplo_850.30.002_a1d423991472 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_850.30.002_5c3e81c27a52
+:exemplo_850.30.002_5c3e81c27a52 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Reduções de taxas".
+
+:c850.30.002 :temExemploNA :exemplo_850.30.002_5c3e81c27a52 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_850.30.002_809376ec130c
+:exemplo_850.30.002_809376ec130c rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Crédito de imposto".
+
+:c850.30.002 :temExemploNA :exemplo_850.30.002_809376ec130c .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_850.30.002_60e78104ad69
+:exemplo_850.30.002_60e78104ad69 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Eliminação de dupla tributação".
+
+:c850.30.002 :temExemploNA :exemplo_850.30.002_60e78104ad69 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.002_2a510d73c397
+:nota_850.30.002_2a510d73c397 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O processamento de benefícios e incentivos fiscais e aduaneiros não contratuais deve ser considerado em 350.10.504 – Processamento de benefícios e incentivos fiscais e aduaneiros não contratuais".
+
+:c850.30.002 :temNotaExclusao :nota_850.30.002_2a510d73c397 .
+
+:c850.30.002 :processoTipoVC :vc_processoTipo_pe .
+:c850.30.002 :processoTransversal "N" .
+:c850.30.002 :temDono :ent_AT .
+:c850.30.002 :temDono :ent_ISS .
+:c850.30.002 :temDono :ent_PDR2020 .
+:c850.30.002 :temDono :ent_IFAP .
+:c850.30.002 :temLegislacao :leg_DL_162_2014 .
+:c850.30.002 :temLegislacao :leg_DL_215_89 .
+:c850.30.002 :temLegislacao :leg_DL_433_99 .
+:c850.30.002 :temRelProc :c150.20.300 .
+:c850.30.002 :eSintetizadoPor :c150.20.300 .
+:c850.30.002 :temRelProc :c150.20.404 .
+:c850.30.002 :eSintetizadoPor :c150.20.404 .
+:c850.30.002 :temRelProc :c150.40.500 .
+:c850.30.002 :eSintetizadoPor :c150.40.500 .
+:c850.30.002 :temRelProc :c300.30.008 .
+:c850.30.002 :eSintetizadoPor :c300.30.008 .
+:c850.30.002 :temRelProc :c350.10.100 .
+:c850.30.002 :eSucessorDe :c350.10.100 .
+:c850.30.002 :temRelProc :c350.10.101 .
+:c850.30.002 :eSucessorDe :c350.10.101 .
+:c850.30.002 :temRelProc :c350.10.200 .
+:c850.30.002 :eSucessorDe :c350.10.200 .
+:c850.30.002 :temRelProc :c350.10.201 .
+:c850.30.002 :eSucessorDe :c350.10.201 .
+:c850.30.002 :temRelProc :c350.10.202 .
+:c850.30.002 :eSucessorDe :c350.10.202 .
+:c850.30.002 :temRelProc :c350.10.203 .
+:c850.30.002 :eSucessorDe :c350.10.203 .
+:c850.30.002 :temRelProc :c350.10.204 .
+:c850.30.002 :eSucessorDe :c350.10.204 .
+:c850.30.002 :temRelProc :c350.10.205 .
+:c850.30.002 :eSucessorDe :c350.10.205 .
+:c850.30.002 :temRelProc :c350.10.206 .
+:c850.30.002 :eSucessorDe :c350.10.206 .
+:c850.30.002 :temRelProc :c350.10.300 .
+:c850.30.002 :eSucessorDe :c350.10.300 .
+:c850.30.002 :temRelProc :c350.10.301 .
+:c850.30.002 :eSucessorDe :c350.10.301 .
+:c850.30.002 :temRelProc :c500.10.001 .
+:c850.30.002 :eSuplementoPara :c500.10.001 .
+:c850.30.002 :temPCA :pca_c850.30.002.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c850.30.002
+:pca_c850.30.002 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c850.30.002 :pcaValor 10.0.
+:pca_c850.30.002 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c850.30.002
+:just_pca_c850.30.002 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c850.30.002 :temJustificacao :just_pca_c850.30.002 .
+:just_pca_c850.30.002_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/99], CPPT, art.º 27º, nº 2 – Prazo estabelecido para a manutenção dos arquivos." .
+:just_pca_c850.30.002 :temCriterio :just_pca_c850.30.002_0. 
+:just_pca_c850.30.002_0 :critTemLegAssoc :leg_DL_433_99 .
+:just_pca_c850.30.002_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede dePN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c850.30.002 :temCriterio :just_pca_c850.30.002_1. 
+:just_pca_c850.30.002_1 :critTemProcRel :c500.10.001 .
+:c850.30.002 :temDF :df_c850.30.002.
+###  http://jcr.di.uminho.pt/m51-clav#df_c850.30.002
+:df_c850.30.002 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c850.30.002 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c850.30.002
+:just_df_c850.30.002 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c850.30.002 :temJustificacao :just_df_c850.30.002 .
+:just_df_c850.30.002_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação síntese recuperável complementarmente emPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 150.20.404 - Prestação de contas (síntese da informação orçamental e patrimonial);PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos);PN 300.30.008 - Registo de documentos e informação (identificação e caracterização)." .
+:just_df_c850.30.002 :temCriterio :just_df_c850.30.002_0. 
+:just_df_c850.30.002_0 :critTemProcRel :c150.20.300 .
+:just_df_c850.30.002_0 :critTemProcRel :c150.20.404 .
+:just_df_c850.30.002_0 :critTemProcRel :c150.40.500 .
+:just_df_c850.30.002_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.30.003
+:c850.30.003 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '850.30.003' ;
+	:titulo 'Gestão de suspensões e de contingentes pautais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.30 ;
+	:descricao 'Aplicação de mecanismo comunitário que permite a importação de matérias-primas ou produtos semi-acabados com a aplicação de um direito aduaneiro reduzido ou nulo, durante um determinado período e relativo a uma quantidade ilimitada (suspensão pautal) ou a uma quantidade limitada (contingente pautal), permitindo às empresas abastecerem-se a preços mais baixos, estimulando a atividade económica na União Europeia, e possibilitando a existência de empresas mais competitivas e o fomento à criação de emprego. Inicia com pedido de candidatura a suspensões e contingentes pautais na importação de mercadorias, formulado por operador económico e termina com a comunicação do resultado da proposta ou do pedido de candidatura, ou ainda com a emissão de certificado, quando aplicável. Inclui a análise dos pedidos de suspensões e de contingentes pautais, produção de prova, prestação de garantia, quando aplicável, comunicação às Alfândegas sobre o estado dos contingentes pautais, comunicação com os Estados Membros. ' .
+:c850.30.003 :processoTipoVC :vc_processoTipo_pe .
+:c850.30.003 :processoTransversal "N" .
+:c850.30.003 :temDono :ent_AT .
+:c850.30.003 :temLegislacao :leg_Regulamento_CE_1301_2006 .
+:c850.30.003 :temLegislacao :leg_DL_433_99 .
+:c850.30.003 :temRelProc :c150.20.300 .
+:c850.30.003 :eSintetizadoPor :c150.20.300 .
+:c850.30.003 :temRelProc :c150.20.404 .
+:c850.30.003 :eSintetizadoPor :c150.20.404 .
+:c850.30.003 :temRelProc :c150.40.500 .
+:c850.30.003 :eSintetizadoPor :c150.40.500 .
+:c850.30.003 :temRelProc :c300.30.008 .
+:c850.30.003 :eSintetizadoPor :c300.30.008 .
+:c850.30.003 :temRelProc :c350.10.400 .
+:c850.30.003 :eAntecessorDe :c350.10.400 .
+:c850.30.003 :temRelProc :c450.10.062 .
+:c850.30.003 :eAntecessorDe :c450.10.062 .
+:c850.30.003 :temPCA :pca_c850.30.003.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c850.30.003
+:pca_c850.30.003 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c850.30.003 :pcaValor 10.0.
+:pca_c850.30.003 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c850.30.003
+:just_pca_c850.30.003 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c850.30.003 :temJustificacao :just_pca_c850.30.003 .
+:just_pca_c850.30.003_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/99], CPPT, art.º 27º, nº 2 – Prazo estabelecido para a manutenção dos arquivos." .
+:just_pca_c850.30.003 :temCriterio :just_pca_c850.30.003_0. 
+:just_pca_c850.30.003_0 :critTemLegAssoc :leg_DL_433_99 .
+:c850.30.003 :temDF :df_c850.30.003.
+###  http://jcr.di.uminho.pt/m51-clav#df_c850.30.003
+:df_c850.30.003 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c850.30.003 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c850.30.003
+:just_df_c850.30.003 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c850.30.003 :temJustificacao :just_df_c850.30.003 .
+:just_df_c850.30.003_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação síntese recuperável complementarmente emPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 150.20.404 - Prestação de contas (síntese da informação orçamental e patrimonial);PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos);PN 300.30.008 - Registo de documentos e informação (identificação e caracterização)." .
+:just_df_c850.30.003 :temCriterio :just_df_c850.30.003_0. 
+:just_df_c850.30.003_0 :critTemProcRel :c150.20.300 .
+:just_df_c850.30.003_0 :critTemProcRel :c150.20.404 .
+:just_df_c850.30.003_0 :critTemProcRel :c150.40.500 .
+:just_df_c850.30.003_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.30.004
+:c850.30.004 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '850.30.004' ;
+	:titulo 'Processamento de isenção de direitos em regime específico de abastecimento nas regiões ultraperiféricas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.30 ;
+	:descricao 'Aplicação de isenção de direitos de importação a produtos agrícolas essenciais importados de países terceiros para regiões ultraperiféricas da União Europeia. Inicia com a solicitação do operador e termina com a decisão. Inclui a validação face a alterações/transferências efetuadas às estimativas durante a campanha.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.004_d4e2302ce7db
+:nota_850.30.004_d4e2302ce7db rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O acompanhamento e avaliação do Programa, nomeadamente o reporte trimestral e o relatório geral do impacto das ações, devem ser considerados em 150.10.600 – Avaliação de políticas e instrumentos de operacionalização".
+
+:c850.30.004 :temNotaExclusao :nota_850.30.004_d4e2302ce7db .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.004_e5adb32bcecc
+:nota_850.30.004_e5adb32bcecc rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A concessão de ajudas ao abastecimento das regiões ultraperiféricas deve ser considerada em 850.10.002 - Formalização de candidaturas e acompanhamento de apoios regulares".
+
+:c850.30.004 :temNotaExclusao :nota_850.30.004_e5adb32bcecc .
+
+:c850.30.004 :processoTipoVC :vc_processoTipo_pe .
+:c850.30.004 :processoTransversal "N" .
+:c850.30.004 :temDono :ent_AT .
+:c850.30.004 :temLegislacao :leg_Regulamento_Delegado_UE_179_2014 .
+:c850.30.004 :temLegislacao :leg_Regulamento_de_Execução_UE_180_2014 .
+:c850.30.004 :temLegislacao :leg_Regulamento_UE_228_2013 .
+:c850.30.004 :temLegislacao :leg_Portaria_1010_2002 .
+:c850.30.004 :temLegislacao :leg_Decisão_CEE_315_91 .
+:c850.30.004 :temLegislacao :leg_DL_433_99 .
+:c850.30.004 :temRelProc :c150.20.300 .
+:c850.30.004 :eSintetizadoPor :c150.20.300 .
+:c850.30.004 :temRelProc :c150.20.404 .
+:c850.30.004 :eSintetizadoPor :c150.20.404 .
+:c850.30.004 :temRelProc :c150.40.500 .
+:c850.30.004 :eSintetizadoPor :c150.40.500 .
+:c850.30.004 :temRelProc :c300.30.008 .
+:c850.30.004 :eSintetizadoPor :c300.30.008 .
+:c850.30.004 :temPCA :pca_c850.30.004.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c850.30.004
+:pca_c850.30.004 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c850.30.004 :pcaValor 10.0.
+:pca_c850.30.004 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c850.30.004
+:just_pca_c850.30.004 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c850.30.004 :temJustificacao :just_pca_c850.30.004 .
+:just_pca_c850.30.004_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/99], CPPT, art.º 27º, nº 2 – Prazo estabelecido para a manutenção dos arquivos." .
+:just_pca_c850.30.004 :temCriterio :just_pca_c850.30.004_0. 
+:just_pca_c850.30.004_0 :critTemLegAssoc :leg_DL_433_99 .
+:c850.30.004 :temDF :df_c850.30.004.
+###  http://jcr.di.uminho.pt/m51-clav#df_c850.30.004
+:df_c850.30.004 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c850.30.004 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c850.30.004
+:just_df_c850.30.004 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c850.30.004 :temJustificacao :just_df_c850.30.004 .
+:just_df_c850.30.004_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação síntese recuperável complementarmente em PN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 150.20.404 - Prestação de contas (síntese da informação orçamental e patrimonial);PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos);PN 300.30.008 - Registo de documentos e informação (identificação e caracterização)." .
+:just_df_c850.30.004 :temCriterio :just_df_c850.30.004_0. 
+:just_df_c850.30.004_0 :critTemProcRel :c150.20.300 .
+:just_df_c850.30.004_0 :critTemProcRel :c150.20.404 .
+:just_df_c850.30.004_0 :critTemProcRel :c150.40.500 .
+:just_df_c850.30.004_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.30.500
+:c850.30.500 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '850.30.500' ;
+	:titulo 'Controlo de bonificações' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.30 ;
+	:descricao 'Registo e controlo dos pagamentos das bonificações de juros e incentivos. Inicia com a receção de comprovativos de despesa e termina com a decisão sobre a conformidade da despesa. Inclui a análise dos mapas de valores a pagar por classificação económica, das reclamações conferidas e não conferidas, dos mapas de execução orçamental anual e da lista de valores pagos por atividade. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.500_1de9890bfc99
+:nota_850.30.500_1de9890bfc99 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A fiscalização dos incentivos deve ser considerada em 500.10.300 – Realização de fiscalização".
+
+:c850.30.500 :temNotaExclusao :nota_850.30.500_1de9890bfc99 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.500_f558d6ca0372
+:nota_850.30.500_f558d6ca0372 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A avaliação dos programas deve ser considerada em 150.10.600 – Avaliação de políticas e instrumentos de operacionalização".
+
+:c850.30.500 :temNotaExclusao :nota_850.30.500_f558d6ca0372 .
+
+:c850.30.500 :processoTipoVC :vc_processoTipo_pe .
+:c850.30.500 :processoTransversal "S" .
+:c850.30.500 :temDono :ent_DGTF .
+:c850.30.500 :temDono :ent_CASES .
+:c850.30.500 :temDono :ent_ISS .
+:c850.30.500 :temParticipanteIniciador :ent_IEFP .
+:c850.30.500 :temParticipanteIniciador :ent_IVV .
+:c850.30.500 :temLegislacao :leg_Lei_98_97 .
+:c850.30.500 :temRelProc :c150.20.300 .
+:c850.30.500 :eSintetizadoPor :c150.20.300 .
+:c850.30.500 :temRelProc :c150.20.404 .
+:c850.30.500 :eSintetizadoPor :c150.20.404 .
+:c850.30.500 :temRelProc :c150.40.500 .
+:c850.30.500 :eSintetizadoPor :c150.40.500 .
+:c850.30.500 :temRelProc :c500.10.001 .
+:c850.30.500 :eSuplementoPara :c500.10.001 .
+:c850.30.500 :temRelProc :c500.10.301 .
+:c850.30.500 :eSuplementoPara :c500.10.301 .
+:c850.30.500 :temPCA :pca_c850.30.500.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c850.30.500
+:pca_c850.30.500 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c850.30.500 :pcaValor 10.0.
+:pca_c850.30.500 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c850.30.500
+:just_pca_c850.30.500 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c850.30.500 :temJustificacao :just_pca_c850.30.500 .
+:just_pca_c850.30.500_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c850.30.500 :temCriterio :just_pca_c850.30.500_0. 
+:just_pca_c850.30.500_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c850.30.500_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede dePN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c850.30.500 :temCriterio :just_pca_c850.30.500_1. 
+:just_pca_c850.30.500_1 :critTemProcRel :c500.10.001 .
+:just_pca_c850.30.500_1 :critTemProcRel :c500.10.301 .
+:c850.30.500 :temDF :df_c850.30.500.
+###  http://jcr.di.uminho.pt/m51-clav#df_c850.30.500
+:df_c850.30.500 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c850.30.500 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c850.30.500
+:just_df_c850.30.500 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c850.30.500 :temJustificacao :just_df_c850.30.500 .
+:just_df_c850.30.500_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação síntese recuperável complementarmente em PN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 150.20.404 - Prestação de contas (síntese da informação orçamental e patrimonial);PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos)." .
+:just_df_c850.30.500 :temCriterio :just_df_c850.30.500_0. 
+:just_df_c850.30.500_0 :critTemProcRel :c150.20.300 .
+:just_df_c850.30.500_0 :critTemProcRel :c150.20.404 .
+:just_df_c850.30.500_0 :critTemProcRel :c150.40.500 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.40
+:c850.40 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N2 ;
+	:codigo '850.40' ;
+	:titulo 'Atribuição e controlo de garantias financeiras prestadas pelo Estado' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850 ;
+	:descricao 'Compreende os processos da iniciativa do Estado na concessão de garantias com caráter de exceção e de acordo com o plafond estabelecido na Lei do Orçamento de Estado, em operações financeiras celebradas por entidades nacionais e com países terceiros.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40_216cd54c3650
+:nota_850.40_216cd54c3650 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Garantias que assegurem a realização de operações de crédito ou de outras operações financeiras, nacionais ou internacionais, de que sejam beneficiárias entidades públicas, empresas nacionais ou outras empresas que legalmente gozem de igualdade de tratamento".
+
+:c850.40 :temNotaAplicacao :nota_850.40_216cd54c3650 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40_b7c53e3eac73
+:nota_850.40_b7c53e3eac73 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Garantias que assegurem a viabilidade financeira de empresas em situação financeira difícil".
+
+:c850.40 :temNotaAplicacao :nota_850.40_b7c53e3eac73 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40_79406cab563d
+:nota_850.40_79406cab563d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Garantias que assegurem o cumprimento das obrigações assumidas em contratos de financiamento, incluindo a renovação das respetivas operações por parte das instituições de crédito sedeadas em Portugal".
+
+:c850.40 :temNotaAplicacao :nota_850.40_79406cab563d .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.40.001
+:c850.40.001 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '850.40.001' ;
+	:titulo 'Concessão, gestão e execução de garantias pessoais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.40 ;
+	:descricao 'Concessão, gestão e execução de garantias pessoais a entidades externas e internas, sob a forma de fiança ou aval, no âmbito de empreendimentos ou projetos de interesse para a economia nacional. Inicia com o pedido dos beneficiários da garantia do Estado ou de um membro do Governo para análise da entidade responsável pelas garantias e subsequente pedido de parecer ao à entidade responsável pela dívida pública e à tutela setorial e termina com a execução da garantia. Inclui pedidos de autorização/manutenção de garantia, minutas dos contratos de empréstimo ou da operação financeira, planos de utilização do financiamento e esquemas de reembolso, propostas de concessão de garantia, pareceres com despachos ministeriais, despacho do membro do Governo competente a autorizar a emissão da garantia, contratos com garantia do Estado e respetivos aditamentos, assim como mapas dos planos de amortização de capital, definição de juros e comissões de garantia, programas, declarações de garantia, entre outros.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.001_f9188d79ec6a
+:nota_850.40.001_f9188d79ec6a rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A celebração de protocolos deve ser considerada em 150.10.500 – Elaboração de instrumentos de cooperação interinstitucional".
+
+:c850.40.001 :temNotaExclusao :nota_850.40.001_f9188d79ec6a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.001_2f70ef45f7fa
+:nota_850.40.001_2f70ef45f7fa rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pagamentos aos beneficiários deverão ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c850.40.001 :temNotaExclusao :nota_850.40.001_2f70ef45f7fa .
+
+:c850.40.001 :processoTipoVC :vc_processoTipo_pe .
+:c850.40.001 :processoTransversal "S" .
+:c850.40.001 :temDono :ent_DGTF .
+:c850.40.001 :temDono :ent_CP .
+:c850.40.001 :temParticipanteApreciador :ent_IGCP .
+:c850.40.001 :temParticipanteAssessor :ent_BdP .
+:c850.40.001 :temParticipanteDecisor :ent_MF .
+:c850.40.001 :temParticipanteApreciador :ent_IEFP .
+:c850.40.001 :temParticipanteApreciador :ent_ISS .
+:c850.40.001 :temParticipanteApreciador :ent_CP .
+:c850.40.001 :temLegislacao :leg_Lei_98_97 .
+:c850.40.001 :temRelProc :c150.10.500 .
+:c850.40.001 :eSucessorDe :c150.10.500 .
+:c850.40.001 :temRelProc :c350.30.001 .
+:c850.40.001 :eCruzadoCom :c350.30.001 .
+:c850.40.001 :temRelProc :c500.10.001 .
+:c850.40.001 :eSuplementoPara :c500.10.001 .
+:c850.40.001 :temRelProc :c500.10.301 .
+:c850.40.001 :eSuplementoPara :c500.10.301 .
+:c850.40.001 :temPCA :pca_c850.40.001.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c850.40.001
+:pca_c850.40.001 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c850.40.001 :pcaValor 10.0.
+:pca_c850.40.001 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c850.40.001
+:just_pca_c850.40.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c850.40.001 :temJustificacao :just_pca_c850.40.001 .
+:just_pca_c850.40.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c850.40.001 :temCriterio :just_pca_c850.40.001_0. 
+:just_pca_c850.40.001_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c850.40.001_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede dePN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c850.40.001 :temCriterio :just_pca_c850.40.001_1. 
+:just_pca_c850.40.001_1 :critTemProcRel :c500.10.001 .
+:just_pca_c850.40.001_1 :critTemProcRel :c500.10.301 .
+:c850.40.001 :temDF :df_c850.40.001.
+###  http://jcr.di.uminho.pt/m51-clav#df_c850.40.001
+:df_c850.40.001 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c850.40.001 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c850.40.001
+:just_df_c850.40.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c850.40.001 :temJustificacao :just_df_c850.40.001 .
+:just_df_c850.40.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN." .
+:just_df_c850.40.001 :temCriterio :just_df_c850.40.001_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c850.40.500
+:c850.40.500 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '850.40.500' ;
+	:titulo 'Concessão e gestão de garantias a operações de seguro de risco' ;
+	:pertenceLC :lc1 ;
+	:temPai :c850.40 ;
+	:descricao 'Concessão e gestão de garantias a operações de seguro do risco de crédito, de produção e de investimento com a garantia do Estado, nomeadamente no contexto da exportação de bens ou serviços de origem portuguesa ou de investimento português no estrangeiro. Inicia com o pedido da seguradora ao Estado para emissão da garantia, sob a forma de seguro, e termina com a eventual autorização do membro do Governo a efetivar a emissão da garantia. Inclui garantias de operações individuais de crédito ou de investimento, de apólices globais, de seguro-caução, de linhas de crédito a estabelecer com países da cooperação portuguesa, pedidos de posição de princípio sobre cobertura da exportação de bens e serviços de origem portuguesa, despachos de autorização de garantia, incluindo os da tutela, prorrogações de prazos de utilização das operações seguras, cobranças de prémios, pedidos de indemnização e respetivos pagamentos. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_c1083836c120
+:nota_850.40.500_c1083836c120 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Garantias sobre o seguro de colheita e de fabrico".
+
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_c1083836c120 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_e887c135fcec
+:nota_850.40.500_e887c135fcec rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Garantias de operações individuais de crédito ou de investimento".
+
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_e887c135fcec .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_34674247706c
+:nota_850.40.500_34674247706c rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Garantias de operações de apólices globais".
+
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_34674247706c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_1e4c95c6952e
+:nota_850.40.500_1e4c95c6952e rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Garantias de operações individuais".
+
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_1e4c95c6952e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_928756f9e195
+:nota_850.40.500_928756f9e195 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Garantias de seguro-caução".
+
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_928756f9e195 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_abac7e6a5761
+:nota_850.40.500_abac7e6a5761 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Garantias de linhas de crédito a estabelecer com países da cooperação portuguesa".
+
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_abac7e6a5761 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_16e4e041e2f5
+:nota_850.40.500_16e4e041e2f5 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Pedidos de posição de princípio sobre cobertura da exportação de bens e serviços de origem portuguesa".
+
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_16e4e041e2f5 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_a8330f899e2d
+:nota_850.40.500_a8330f899e2d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Garantias às exportações".
+
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_a8330f899e2d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_b54427d92b09
+:nota_850.40.500_b54427d92b09 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Garantias ao financiamento".
+
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_b54427d92b09 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_c85e543f2ae3
+:nota_850.40.500_c85e543f2ae3 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Reportes semestrais sobre garantias a operações de seguro do risco".
+
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_c85e543f2ae3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_e075c74e4940
+:nota_850.40.500_e075c74e4940 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A celebração de protocolos deve ser considerada em 150.10.500 – Elaboração de instrumentos de cooperação interinstitucional".
+
+:c850.40.500 :temNotaExclusao :nota_850.40.500_e075c74e4940 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_5c504e822212
+:nota_850.40.500_5c504e822212 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pagamentos aos beneficiários deverão ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c850.40.500 :temNotaExclusao :nota_850.40.500_5c504e822212 .
+
+:c850.40.500 :processoTipoVC :vc_processoTipo_pe .
+:c850.40.500 :processoTransversal "S" .
+:c850.40.500 :temDono :ent_DGTF .
+:c850.40.500 :temDono :ent_IFAP .
+:c850.40.500 :temParticipanteApreciador :ent_IEFP .
+:c850.40.500 :temParticipanteApreciador :ent_ISS .
+:c850.40.500 :temParticipanteApreciador :ent_IVV .
+:c850.40.500 :temLegislacao :leg_Lei_98_97 .
+:c850.40.500 :temLegislacao :leg_Lei_48_2006 .
+:c850.40.500 :temLegislacao :leg_Lei_35_2007 .
+:c850.40.500 :temLegislacao :leg_Resolução_do_Conselho_de_Ministros_34_2008 .
+:c850.40.500 :temLegislacao :leg_Resolução_do_Conselho_de_Ministros_191_A_2008 .
+:c850.40.500 :temLegislacao :leg_Resolução_do_Conselho_de_Ministros_29_2009 .
+:c850.40.500 :temLegislacao :leg_DL_103_2009 .
+:c850.40.500 :temRelProc :c150.10.500 .
+:c850.40.500 :eSucessorDe :c150.10.500 .
+:c850.40.500 :temRelProc :c350.30.001 .
+:c850.40.500 :eCruzadoCom :c350.30.001 .
+:c850.40.500 :temRelProc :c500.10.001 .
+:c850.40.500 :eSuplementoPara :c500.10.001 .
+:c850.40.500 :temRelProc :c500.10.301 .
+:c850.40.500 :eSuplementoPara :c500.10.301 .
+:c850.40.500 :temPCA :pca_c850.40.500.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c850.40.500
+:pca_c850.40.500 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c850.40.500 :pcaValor 10.0.
+:pca_c850.40.500 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c850.40.500
+:just_pca_c850.40.500 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c850.40.500 :temJustificacao :just_pca_c850.40.500 .
+:just_pca_c850.40.500_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c850.40.500 :temCriterio :just_pca_c850.40.500_0. 
+:just_pca_c850.40.500_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c850.40.500_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede dePN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c850.40.500 :temCriterio :just_pca_c850.40.500_1. 
+:just_pca_c850.40.500_1 :critTemProcRel :c500.10.001 .
+:just_pca_c850.40.500_1 :critTemProcRel :c500.10.301 .
+:c850.40.500 :temDF :df_c850.40.500.
+###  http://jcr.di.uminho.pt/m51-clav#df_c850.40.500
+:df_c850.40.500 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c850.40.500 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c850.40.500
+:just_df_c850.40.500 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c850.40.500 :temJustificacao :just_df_c850.40.500 .
+:just_df_c850.40.500_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN." .
+:just_df_c850.40.500 :temCriterio :just_df_c850.40.500_0. 

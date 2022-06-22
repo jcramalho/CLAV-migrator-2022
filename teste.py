@@ -1,4 +1,4 @@
-import json
-f = open('./files/100.json')
-my100 = json.load(f)
-print(type(my100), " :: ", my100)
+import re 
+frase = 'Era uma vez "El Espacio"...'
+frase = re.sub(r'\"', "\\\"", frase)
+print(frase)

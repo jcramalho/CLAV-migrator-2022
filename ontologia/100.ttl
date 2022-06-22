@@ -1,0 +1,2090 @@
+
+###  http://jcr.di.uminho.pt/m51-clav#c100
+:c100 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N1 ;
+	:codigo '100' ;
+	:titulo 'ORDENAMENTO JURÍDICO E NORMATIVO' ;
+	:pertenceLC :lc1 ;
+	:temPai :lc1 ;
+	:descricao 'Relativo à construção e interpretação das Normas, no sentido lato do termo (com e sem caráter coercivo): elaboração, aprovação e publicitação dos atos de caráter dispositivo e de caráter orientador que regulam as ações e relações entre os diversos atores sociais - da legislação aos regulamentos, regras internas de funcionamento, instruções procedimentais e normas técnicas. Inclui os processos de vinculação do Estado português a convenções internacionais, bem como os avisos relativos à vinculação dos restantes Estados-parte naquelas convenções.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_100_9349a4e54b32
+:nota_100_9349a4e54b32 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Os atos de caráter dispositivo podem incidir sobre a sociedade portuguesa em geral, sobre determinados setores de atividade, sobre determinadas parcelas do território ou, ainda, sobre organismos ou serviços singulares".
+
+:c100 :temNotaAplicacao :nota_100_9349a4e54b32 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100_4357da24879d
+:nota_100_4357da24879d rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A negociação de convenções internacionais (tratados, acordos) e a participação na elaboração de normas técnicas internacionais, bem como a participação na elaboração de diretivas e de regulamentos comunitários, devem ser consideradas em \"Execução da política externa/ Definição de políticas conjuntas e dos instrumentos de regulação\" (200.10) - ou seja, na área funcional 100 devem ser considerados apenas os procedimentos de ratificação, transposição e interpretação daquelas disposições comunitárias ou internacionais".
+
+:c100 :temNotaExclusao :nota_100_4357da24879d .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c100.10
+:c100.10 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N2 ;
+	:codigo '100.10' ;
+	:titulo 'Elaboração de diplomas jurídico-normativos e de normas técnicas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c100 ;
+	:descricao 'Compreende os processos de elaboração/alteração de legislação, de regulamentos e de diretivas políticas ou operacionais portuguesas, independentemente da forma, do assunto ou do tipo de participação no processo. Inclui o depósito dos instrumentos de regulação (por exemplo, instrumentos de gestão territorial) nas entidades competentes. Abrange os diplomas jurídico-normativos da competência dos órgãos de soberania (Presidente da República, Assembleia da República, Governo e Tribunais) ou dos órgãos de poder político (regiões autónomas e autarquias), bem como os atos da Administração que têm caráter normativo. Compreende, igualmente, a elaboração ou colaboração na elaboração de normas técnicas nacionais.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10_b0b9c0ce151a
+:nota_100.10_b0b9c0ce151a rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "No que respeita à elaboração de diplomas jurídico-normativos, deve ser sempre considerada nesta área a iniciativa (sob a forma de projeto ou de proposta) e os procedimentos orientados à fixação da respetiva redação final e publicitação oficial, no que se inclui, na generalidade, a verificação jurídica, consulta pública e recolha de pareceres a que a lei obrigue, aprovação, ratificação, promulgação e publicação, sem prejuízo de outros procedimentos próprios da produção de cada norma".
+
+:c100.10 :temNotaAplicacao :nota_100.10_b0b9c0ce151a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10_66794f28d755
+:nota_100.10_66794f28d755 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atos legislativos".
+
+:c100.10 :temNotaAplicacao :nota_100.10_66794f28d755 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10_a4373693795d
+:nota_100.10_a4373693795d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atos regulamentares, independentemente da forma ou da competência para a sua emissão".
+
+:c100.10 :temNotaAplicacao :nota_100.10_a4373693795d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10_88ff33e05791
+:nota_100.10_88ff33e05791 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Qualquer despacho com diretrizes gerais e abstratas".
+
+:c100.10 :temNotaAplicacao :nota_100.10_88ff33e05791 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10_e089618f158c
+:nota_100.10_e089618f158c rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atos administrativos individuais e abstratos que alterem ou complementem os termos de aplicação de lei ou regulamento vigente".
+
+:c100.10 :temNotaAplicacao :nota_100.10_e089618f158c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10_f05e99b78b97
+:nota_100.10_f05e99b78b97 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Resoluções do Conselho de Ministros, independentemente de se revestirem de natureza regulamentar ou de natureza política".
+
+:c100.10 :temNotaAplicacao :nota_100.10_f05e99b78b97 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10_beee5d92a7b8
+:nota_100.10_beee5d92a7b8 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Decretos e outras formas de aprovação/ratificação de convenções internacionais".
+
+:c100.10 :temNotaAplicacao :nota_100.10_beee5d92a7b8 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10_187c552966d8
+:nota_100.10_187c552966d8 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Decisões dos Tribunais a que a lei confira força obrigatória geral".
+
+:c100.10 :temNotaAplicacao :nota_100.10_187c552966d8 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10_99f69f37903b
+:nota_100.10_99f69f37903b rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "No que respeita às normas técnicas, deve ser aqui considerada a elaboração de normas formais emitidas pelo organismo nacional de normalização (NP)".
+
+:c100.10 :temNotaAplicacao :nota_100.10_99f69f37903b .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10_5002ab6fecc6
+:nota_100.10_5002ab6fecc6 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Normas informais ou recomendações técnicas emitidas por organismos de coordenação ou superintendência técnica".
+
+:c100.10 :temNotaAplicacao :nota_100.10_5002ab6fecc6 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10_1686c990574c
+:nota_100.10_1686c990574c rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Devem ser considerados noutras áreas os procedimentos administrativos autonomizáveis do processo legislativo, bem como os trabalhos técnicos, estudos e relatórios preliminares ou acessórios à elaboração ou atualização dos diplomas jurídico-normativos. Por exemplo:- Trabalhos técnicos de comissões ou outras estruturas envolvidas na definição de políticas, planos e programas devem ser considerados em 150.10 - Definição e avaliação de políticas".
+
+:c100.10 :temNotaExclusao :nota_100.10_1686c990574c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10_fb9b500e46e1
+:nota_100.10_fb9b500e46e1 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "- Estudos e trabalhos técnicos orientados à (re)definição de estruturas e/ou funcionamento dos serviços, ou ainda trabalhos preparatórios para a elaboração do Orçamento de Estado, devem ser considerados em 150.20 - Planeamento, avaliação e melhoria de serviços".
+
+:c100.10 :temNotaExclusao :nota_100.10_fb9b500e46e1 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10_fa118a78cbe1
+:nota_100.10_fa118a78cbe1 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "- Trabalhos técnicos preparatórios de planos de classificação e de tabelas de seleção devem ser considerados em 300.30 - Identificação e caracterização de bens".
+
+:c100.10 :temNotaExclusao :nota_100.10_fa118a78cbe1 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10_66305411b99a
+:nota_100.10_66305411b99a rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "- Procedimentos administrativos de classificação do património cultural devem ser considerados em 450.20 - Classificação e declaração de interesse ou utilidade pública".
+
+:c100.10 :temNotaExclusao :nota_100.10_66305411b99a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10_c9814e5b894e
+:nota_100.10_c9814e5b894e rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "- Considerar em 200.10 - Definição de políticas conjuntas e de instrumentos de regulação".
+
+:c100.10 :temNotaExclusao :nota_100.10_c9814e5b894e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10_c783e1d82a77
+:nota_100.10_c783e1d82a77 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo " a participação na elaboração de diretivas e de regulamentos comunitários, bem como a participação na elaboração de tratados ou acordos comunitários ou internacionais e, ainda, a participação na elaboração de normas técnicas europeias e internacionais".
+
+:c100.10 :temNotaExclusao :nota_100.10_c783e1d82a77 .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c100.10.001
+:c100.10.001 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '100.10.001' ;
+	:titulo 'Produção e comunicação de atos legislativos' ;
+	:pertenceLC :lc1 ;
+	:temPai :c100.10 ;
+	:descricao 'Elaboração ou participação na elaboração de atos legislativos conduzidos por iniciativa das autoridades competentes para a definição do regime jurídico aplicável. Inicia com a apresentação de um projeto acompanhado dos documentos que o fundamentam e justificam à entidade com competência para legislar e termina com a respetiva publicação ou publicitação. Inclui verificação jurídica, apreciação, discussão e votação conducentes à elaboração do texto final, aprovação da iniciativa, ratificação pelas entidades competentes e promulgação.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.001_234d22fa15e7
+:nota_100.10.001_234d22fa15e7 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Iniciativa legislativa por parte de cidadãos".
+
+:c100.10.001 :temNotaAplicacao :nota_100.10.001_234d22fa15e7 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.001_9fc2bc8cc893
+:nota_100.10.001_9fc2bc8cc893 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Leis".
+
+:c100.10.001 :temNotaAplicacao :nota_100.10.001_9fc2bc8cc893 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.001_110891c40140
+:nota_100.10.001_110891c40140 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Decretos-Lei".
+
+:c100.10.001 :temNotaAplicacao :nota_100.10.001_110891c40140 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.001_a0e6262b869a
+:nota_100.10.001_a0e6262b869a rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Decretos Legislativos regionais".
+
+:c100.10.001 :temNotaAplicacao :nota_100.10.001_a0e6262b869a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.001_d701f2b27ee9
+:nota_100.10.001_d701f2b27ee9 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Transposição de diretivas da União Europeia".
+
+:c100.10.001 :temNotaAplicacao :nota_100.10.001_d701f2b27ee9 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.001_dab3b9c1fe5e
+:exemplo_100.10.001_dab3b9c1fe5e rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Código da Estrada".
+
+:c100.10.001 :temExemploNA :exemplo_100.10.001_dab3b9c1fe5e .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.001_f6acb31fcb56
+:exemplo_100.10.001_f6acb31fcb56 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Código Civil".
+
+:c100.10.001 :temExemploNA :exemplo_100.10.001_f6acb31fcb56 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.001_5784c029194b
+:exemplo_100.10.001_5784c029194b rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Regime de acesso à informação administrativa e ambiental e de reutilização dos documentos administrativos".
+
+:c100.10.001 :temExemploNA :exemplo_100.10.001_5784c029194b .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.001_25221d93419e
+:nota_100.10.001_25221d93419e rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os procedimentos administrativos, trabalhos preparatórios ou elaboração de estudos preliminares, por exemplo quando a regulamentação seja necessária para dar forma legal a instrumentos de planeamento, devem ser considerados em 150.10 - Planeamento e gestão estratégica / Definição e avaliação de políticas".
+
+:c100.10.001 :temNotaExclusao :nota_100.10.001_25221d93419e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.001_4c589ac161ba
+:nota_100.10.001_4c589ac161ba rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O impulso legiferante, quando reveste a forma de petição pública sem apresentação de projeto de lei, deve ser considerado em 950.20.001 – Processamento de petições, reclamações e sugestões".
+
+:c100.10.001 :temNotaExclusao :nota_100.10.001_4c589ac161ba .
+
+:c100.10.001 :processoTipoVC :vc_processoTipo_pc .
+:c100.10.001 :processoTransversal "S" .
+:c100.10.001 :temDono :ent_AR .
+:c100.10.001 :temDono :ent_ALRAA .
+:c100.10.001 :temDono :ent_ALRAM .
+:c100.10.001 :temDono :tip_Gov .
+:c100.10.001 :temParticipanteAssessor :tip_AL .
+:c100.10.001 :temParticipanteAssessor :ent_JurisAPP .
+:c100.10.001 :temParticipanteAssessor :ent_SGPCM .
+:c100.10.001 :temParticipanteAssessor :tip_AP .
+:c100.10.001 :temParticipanteDecisor :ent_PR .
+:c100.10.001 :temParticipanteComunicador :ent_INCM .
+:c100.10.001 :temParticipanteAssessor :tip_CCDR .
+:c100.10.001 :temParticipanteAssessor :ent_IMT .
+:c100.10.001 :temParticipanteAssessor :ent_ACT .
+:c100.10.001 :temParticipanteAssessor :ent_CASES .
+:c100.10.001 :temParticipanteAssessor :ent_CGA .
+:c100.10.001 :temParticipanteAssessor :ent_CITE .
+:c100.10.001 :temParticipanteAssessor :ent_CNPDPCJ .
+:c100.10.001 :temParticipanteAssessor :ent_CPL .
+:c100.10.001 :temParticipanteAssessor :ent_CRL .
+:c100.10.001 :temParticipanteAssessor :ent_DGERT .
+:c100.10.001 :temParticipanteAssessor :ent_DGSS .
+:c100.10.001 :temParticipanteAssessor :ent_GEP .
+:c100.10.001 :temParticipanteAssessor :ent_IEFP .
+:c100.10.001 :temParticipanteAssessor :ent_IGMTSSS .
+:c100.10.001 :temParticipanteAssessor :ent_IGFCSS .
+:c100.10.001 :temParticipanteAssessor :ent_IGFSS .
+:c100.10.001 :temParticipanteAssessor :ent_II .
+:c100.10.001 :temParticipanteAssessor :ent_INR .
+:c100.10.001 :temParticipanteAssessor :ent_ISS .
+:c100.10.001 :temParticipanteAssessor :ent_OIT .
+:c100.10.001 :temParticipanteAssessor :ent_POISE .
+:c100.10.001 :temParticipanteAssessor :ent_SGMTSSS .
+:c100.10.001 :temParticipanteAssessor :ent_IGAMAOT .
+:c100.10.001 :temParticipanteAssessor :ent_ICNF .
+:c100.10.001 :temParticipanteAssessor :ent_CP .
+:c100.10.001 :temParticipanteAssessor :ent_DGPM .
+:c100.10.001 :temParticipanteAssessor :ent_DGRM .
+:c100.10.001 :temParticipanteAssessor :ent_GAMA .
+:c100.10.001 :temParticipanteAssessor :ent_DGADR .
+:c100.10.001 :temParticipanteAssessor :ent_DGAV .
+:c100.10.001 :temParticipanteAssessor :ent_INIAV .
+:c100.10.001 :temParticipanteAssessor :ent_IVV .
+:c100.10.001 :temParticipanteAssessor :ent_IVDP .
+:c100.10.001 :temParticipanteAssessor :ent_PDR2020 .
+:c100.10.001 :temParticipanteAssessor :ent_GPP .
+:c100.10.001 :temParticipanteAssessor :tip_DRAP .
+:c100.10.001 :temParticipanteAssessor :ent_IFAP .
+:c100.10.001 :temParticipanteAssessor :ent_CP .
+:c100.10.001 :temParticipanteAssessor :ent_ASAE .
+:c100.10.001 :temParticipanteAssessor :ent_DGAE .
+:c100.10.001 :temParticipanteAssessor :ent_DGC .
+:c100.10.001 :temParticipanteAssessor :ent_GEE .
+:c100.10.001 :temParticipanteAssessor :ent_SGME .
+:c100.10.001 :temLegislacao :leg_Lei_Constitucional_1_2005 .
+:c100.10.001 :temLegislacao :leg_Resolução_do_Conselho_de_Ministros_51_2013 .
+:c100.10.001 :temLegislacao :leg_Resolução_do_Conselho_de_Ministros_23_2016 .
+:c100.10.001 :temLegislacao :leg_Lei_43_2014 .
+:c100.10.001 :temLegislacao :leg_Lei_4_98 .
+:c100.10.001 :temRelProc :c100.10.200 .
+:c100.10.001 :eComplementarDe :c100.10.200 .
+:c100.10.001 :temRelProc :c100.10.400 .
+:c100.10.001 :eComplementarDe :c100.10.400 .
+:c100.10.001 :temRelProc :c100.10.600 .
+:c100.10.001 :eComplementarDe :c100.10.600 .
+:c100.10.001 :temRelProc :c100.20.001 .
+:c100.10.001 :eComplementarDe :c100.20.001 .
+:c100.10.001 :temRelProc :c100.20.200 .
+:c100.10.001 :eComplementarDe :c100.20.200 .
+:c100.10.001 :temRelProc :c150.10.001 .
+:c100.10.001 :eSucessorDe :c150.10.001 .
+:c100.10.001 :temRelProc :c150.10.100 .
+:c100.10.001 :eSucessorDe :c150.10.100 .
+:c100.10.001 :temRelProc :c150.20.202 .
+:c100.10.001 :eSucessorDe :c150.20.202 .
+:c100.10.001 :temRelProc :c150.20.404 .
+:c100.10.001 :eAntecessorDe :c150.20.404 .
+:c100.10.001 :temRelProc :c150.20.501 .
+:c100.10.001 :eAntecessorDe :c150.20.501 .
+:c100.10.001 :temRelProc :c900.20.201 .
+:c100.10.001 :eAntecessorDe :c900.20.201 .
+:c100.10.001 :temRelProc :c150.10.700 .
+:c100.10.001 :eCruzadoCom :c150.10.700 .
+:c100.10.001 :temPCA :pca_c100.10.001.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c100.10.001
+:pca_c100.10.001 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c100.10.001 :pcaValor 5.0.
+:pca_c100.10.001 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c100.10.001
+:just_pca_c100.10.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c100.10.001 :temJustificacao :just_pca_c100.10.001 .
+:just_pca_c100.10.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoGestionario ;
+	:conteudo "Prazo para imputação de responsabilidade pela gestão estratégica, decorrente de escrutínio público (eleições).Considerou-se para a definição do prazo o tempo do mandato de maior duração: 5 anos (Presidente da República)." .
+:just_pca_c100.10.001 :temCriterio :just_pca_c100.10.001_0. 
+:c100.10.001 :temDF :df_c100.10.001.
+###  http://jcr.di.uminho.pt/m51-clav#df_c100.10.001
+:df_c100.10.001 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c100.10.001 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c100.10.001
+:just_df_c100.10.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c100.10.001 :temJustificacao :just_df_c100.10.001 .
+:just_df_c100.10.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoComplementaridadeInfo ;
+	:conteudo "É complementar dosPN 100.10.200 - Produção e comunicação de atos regulamentares gerais;PN 100.10.400 - Produção e comunicação de atos regulamentares locais;PN 100.10.600 - Produção e comunicação de regras institucionais;PN 100.20.001 - Produção de pareceres técnico-jurídicos de interpretação de diplomas jurídico-normativos;PN 100.20.200 - Produção e comunicação de instruções para aplicação de diplomas jurídico-normativos." .
+:just_df_c100.10.001 :temCriterio :just_df_c100.10.001_0. 
+:just_df_c100.10.001_0 :critTemProcRel :c100.10.200 .
+:just_df_c100.10.001_0 :critTemProcRel :c100.10.400 .
+:just_df_c100.10.001_0 :critTemProcRel :c100.10.600 .
+:just_df_c100.10.001_0 :critTemProcRel :c100.20.001 .
+:just_df_c100.10.001_0 :critTemProcRel :c100.20.200 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c100.10.002
+:c100.10.002 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '100.10.002' ;
+	:titulo 'Aprovação e comunicação de convenções internacionais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c100.10 ;
+	:descricao 'Manifestação do consentimento à vinculação nacional de convenções (tratados e acordos) internacionais, entrando no ordenamento jurídico português. Inicia com a necessidade ou vontade de vinculação e termina com a publicação. Inclui parecer do MNE antes da ratificação, aprovação parlamentar ou governamental, através de resolução ou decreto, respetivamente, a vinculação internacional mediante assinatura ou ratificação presidencial e a comunicação dos avisos de depósito de instrumento de vinculação ou outros respeitantes às convenções. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.002_f2059cea1e67
+:nota_100.10.002_f2059cea1e67 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Aprovação, ratificação e publicação de convenções internacionais".
+
+:c100.10.002 :temNotaAplicacao :nota_100.10.002_f2059cea1e67 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.002_0fae3e28386b
+:nota_100.10.002_0fae3e28386b rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Avisos respeitantes às convenções internacionais e relativos a outros Estados contratantes".
+
+:c100.10.002 :temNotaAplicacao :nota_100.10.002_0fae3e28386b .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.002_df60990b863b
+:nota_100.10.002_df60990b863b rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Depósito de diploma em entidade designada para efeitos da vinculação do Estado português e dos seus termos".
+
+:c100.10.002 :temNotaAplicacao :nota_100.10.002_df60990b863b .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.002_3f102daa914f
+:nota_100.10.002_3f102daa914f rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os trabalhos relativos à celebração das convenções internacionais (preparação, compromisso entre as partes, assinatura) devem ser considerados em 200.10.800 – Celebração de acordos e outros atos internacionais".
+
+:c100.10.002 :temNotaExclusao :nota_100.10.002_3f102daa914f .
+
+:c100.10.002 :processoTipoVC :vc_processoTipo_pe .
+:c100.10.002 :processoTransversal "S" .
+:c100.10.002 :temDono :ent_AR .
+:c100.10.002 :temDono :tip_Gov .
+:c100.10.002 :temParticipanteAssessor :ent_SGPCM .
+:c100.10.002 :temParticipanteDecisor :ent_PR .
+:c100.10.002 :temParticipanteComunicador :ent_INCM .
+:c100.10.002 :temParticipanteApreciador :ent_IMT .
+:c100.10.002 :temParticipanteAssessor :ent_CNPDPCJ .
+:c100.10.002 :temParticipanteAssessor :ent_DGERT .
+:c100.10.002 :temParticipanteAssessor :ent_DGSS .
+:c100.10.002 :temParticipanteAssessor :ent_ISS .
+:c100.10.002 :temParticipanteAssessor :ent_CP .
+:c100.10.002 :temParticipanteAssessor :ent_DGC .
+:c100.10.002 :temParticipanteAssessor :ent_DGS .
+:c100.10.002 :temLegislacao :leg_Lei_Constitucional_1_2005 .
+:c100.10.002 :temLegislacao :leg_Resolução_do_Conselho_de_Ministros_51_2013 .
+:c100.10.002 :temLegislacao :leg_Resolução_do_Conselho_de_Ministros_23_2016 .
+:c100.10.002 :temLegislacao :leg_Lei_43_2014 .
+:c100.10.002 :temLegislacao :leg_Lei_4_98 .
+:c100.10.002 :temRelProc :c150.10.100 .
+:c100.10.002 :eSucessorDe :c150.10.100 .
+:c100.10.002 :temRelProc :c150.10.700 .
+:c100.10.002 :eCruzadoCom :c150.10.700 .
+:c100.10.002 :temRelProc :c200.10.100 .
+:c100.10.002 :eAntecessorDe :c200.10.100 .
+:c100.10.002 :temRelProc :c200.10.600 .
+:c100.10.002 :eComplementarDe :c200.10.600 .
+:c100.10.002 :temRelProc :c200.10.800 .
+:c100.10.002 :eSucessorDe :c200.10.800 .
+:c100.10.002 :temRelProc :c550.30.601 .
+:c100.10.002 :eAntecessorDe :c550.30.601 .
+:c100.10.002 :temRelProc :c900.20.201 .
+:c100.10.002 :eAntecessorDe :c900.20.201 .
+:c100.10.002 :temPCA :pca_c100.10.002.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c100.10.002
+:pca_c100.10.002 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c100.10.002 :pcaValor 5.0.
+:pca_c100.10.002 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c100.10.002
+:just_pca_c100.10.002 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c100.10.002 :temJustificacao :just_pca_c100.10.002 .
+:just_pca_c100.10.002_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoGestionario ;
+	:conteudo "Prazo para imputação de responsabilidade pela gestão estratégica, decorrente de escrutínio público (eleições).Considerou-se para a definição do prazo o tempo do mandato de maior duração: 5 anos (Presidente da República)." .
+:just_pca_c100.10.002 :temCriterio :just_pca_c100.10.002_0. 
+:c100.10.002 :temDF :df_c100.10.002.
+###  http://jcr.di.uminho.pt/m51-clav#df_c100.10.002
+:df_c100.10.002 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c100.10.002 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c100.10.002
+:just_df_c100.10.002 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c100.10.002 :temJustificacao :just_df_c100.10.002 .
+:just_df_c100.10.002_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "O processo de aprovação não é recuperável noutro PN.O texto final é publicitado no Diário da República." .
+:just_df_c100.10.002 :temCriterio :just_df_c100.10.002_0. 
+:just_df_c100.10.002_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoComplementaridadeInfo ;
+	:conteudo "É complementar de:PN 200.10.600 - Preparação e implementação de políticas e atos da União Europeia." .
+:just_df_c100.10.002 :temCriterio :just_df_c100.10.002_1. 
+:just_df_c100.10.002_1 :critTemProcRel :c200.10.600 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c100.10.003
+:c100.10.003 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '100.10.003' ;
+	:titulo 'Comunicação de decisões dos tribunais a que a lei confira força obrigatória geral' ;
+	:pertenceLC :lc1 ;
+	:temPai :c100.10 ;
+	:descricao 'Declaração de inconstitucionalidade ou outras decisões de Tribunais, a que a lei confira força obrigatória geral. Inicia com o envio aos órgãos competentes e termina com a publicação. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.003_2fd8c7ac6585
+:nota_100.10.003_2fd8c7ac6585 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Declaração de inconstitucionalidade ou de ilegalidade com força obrigatória geral pelo Tribunal Constitucional".
+
+:c100.10.003 :temNotaAplicacao :nota_100.10.003_2fd8c7ac6585 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.003_2d18d7bfbba1
+:nota_100.10.003_2d18d7bfbba1 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Declaração de ilegalidade com força obrigatória geral de normas regulamentares pelos Tribunais Administrativos".
+
+:c100.10.003 :temNotaAplicacao :nota_100.10.003_2d18d7bfbba1 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.003_d3e156387844
+:nota_100.10.003_d3e156387844 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Declarações do Tribunal de Contas que se dirijam a um número indeterminado ou indeterminável de serviços, organismos ou pessoas singulares, exteriores ao mesmo Tribunal, impondo regras de observância vinculativa".
+
+:c100.10.003 :temNotaAplicacao :nota_100.10.003_d3e156387844 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.003_0d4ba356f989
+:nota_100.10.003_0d4ba356f989 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O processo de fiscalização (prévia ou sucessiva) da constitucionalidade da norma, incluindo a audição do autor da norma para pronúncia, deve ser considerado em “Administração da justiça/ Produção de prova e decisão judiciária” (600.30)".
+
+:c100.10.003 :temNotaExclusao :nota_100.10.003_0d4ba356f989 .
+
+:c100.10.003 :processoTipoVC :vc_processoTipo_pc .
+:c100.10.003 :processoTransversal "S" .
+:c100.10.003 :temDono :ent_TC .
+:c100.10.003 :temDono :ent_TContas .
+:c100.10.003 :temDono :ent_STA .
+:c100.10.003 :temDono :ent_STJ .
+:c100.10.003 :temParticipanteComunicador :tip_AL .
+:c100.10.003 :temParticipanteComunicador :tip_AP .
+:c100.10.003 :temParticipanteComunicador :ent_INCM .
+:c100.10.003 :temParticipanteComunicador :ent_ICNF .
+:c100.10.003 :temParticipanteComunicador :ent_IGAMAOT .
+:c100.10.003 :temParticipanteComunicador :ent_DGRM .
+:c100.10.003 :temParticipanteComunicador :ent_DGPM .
+:c100.10.003 :temParticipanteComunicador :ent_GAMA .
+:c100.10.003 :temParticipanteComunicador :ent_DGADR .
+:c100.10.003 :temParticipanteComunicador :ent_DGAV .
+:c100.10.003 :temParticipanteComunicador :ent_INIAV .
+:c100.10.003 :temParticipanteComunicador :ent_IVV .
+:c100.10.003 :temParticipanteComunicador :ent_IVDP .
+:c100.10.003 :temParticipanteComunicador :ent_PDR2020 .
+:c100.10.003 :temParticipanteComunicador :ent_GPP .
+:c100.10.003 :temParticipanteComunicador :tip_DRAP .
+:c100.10.003 :temParticipanteComunicador :ent_IFAP .
+:c100.10.003 :temParticipanteComunicador :ent_CP .
+:c100.10.003 :temParticipanteComunicador :ent_ASAE .
+:c100.10.003 :temParticipanteComunicador :ent_SGME .
+:c100.10.003 :temLegislacao :leg_Lei_Constitucional_1_2005 .
+:c100.10.003 :temLegislacao :leg_Lei_2_2012 .
+:c100.10.003 :temRelProc :c600.30.701 .
+:c100.10.003 :eSinteseDe :c600.30.701 .
+:c100.10.003 :temRelProc :c600.30.702 .
+:c100.10.003 :eSinteseDe :c600.30.702 .
+:c100.10.003 :temRelProc :c600.30.703 .
+:c100.10.003 :eSinteseDe :c600.30.703 .
+:c100.10.003 :temRelProc :c600.30.712 .
+:c100.10.003 :eSinteseDe :c600.30.712 .
+:c100.10.003 :temRelProc :c900.20.201 .
+:c100.10.003 :eAntecessorDe :c900.20.201 .
+:c100.10.003 :temPCA :pca_c100.10.003.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c100.10.003
+:pca_c100.10.003 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c100.10.003 :pcaValor 5.0.
+:pca_c100.10.003 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c100.10.003
+:just_pca_c100.10.003 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c100.10.003 :temJustificacao :just_pca_c100.10.003 .
+:just_pca_c100.10.003_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoGestionario ;
+	:conteudo "Prazo para imputação de responsabilidade pela gestão estratégica, decorrente de escrutínio público (eleições).Considerou-se para a definição do prazo o tempo do mandato de maior duração: 5 anos." .
+:just_pca_c100.10.003 :temCriterio :just_pca_c100.10.003_0. 
+:c100.10.003 :temDF :df_c100.10.003.
+###  http://jcr.di.uminho.pt/m51-clav#df_c100.10.003
+:df_c100.10.003 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c100.10.003 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c100.10.003
+:just_df_c100.10.003 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c100.10.003 :temJustificacao :just_df_c100.10.003 .
+:just_df_c100.10.003_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN." .
+:just_df_c100.10.003 :temCriterio :just_df_c100.10.003_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c100.10.200
+:c100.10.200 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '100.10.200' ;
+	:titulo 'Produção e comunicação de atos regulamentares gerais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c100.10 ;
+	:descricao 'Elaboração e formalização de regulamentos gerais, que se destinam a vigorar em todo o território nacional, em todo o território do continente ou em todo o território de uma região autónoma. Inicia com a apresentação do projeto de regulamentação da lei, de criação de regulamento independente ou autónomo destinado à boa execução das leis, ou de alteração de regulamentos existentes e termina com a aprovação final ou ratificação pelos órgãos competentes e consequente publicitação. Inclui verificação jurídica e apreciação.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.200_e14de53bd3cb
+:nota_100.10.200_e14de53bd3cb rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atos regulamentares da competência do governo, mesmo quando tenham por objeto uma área geográfica determinada".
+
+:c100.10.200 :temNotaAplicacao :nota_100.10.200_e14de53bd3cb .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.200_238a264830d1
+:nota_100.10.200_238a264830d1 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Decretos regulamentares".
+
+:c100.10.200 :temNotaAplicacao :nota_100.10.200_238a264830d1 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.200_4150eafeeab4
+:nota_100.10.200_4150eafeeab4 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Decretos regulamentares regionais".
+
+:c100.10.200 :temNotaAplicacao :nota_100.10.200_4150eafeeab4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.200_ff8e4598eded
+:nota_100.10.200_ff8e4598eded rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Portarias".
+
+:c100.10.200 :temNotaAplicacao :nota_100.10.200_ff8e4598eded .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.200_8b07d5c498de
+:nota_100.10.200_8b07d5c498de rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Resoluções do Conselho de Ministros".
+
+:c100.10.200 :temNotaAplicacao :nota_100.10.200_8b07d5c498de .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.200_3b8d176872b6
+:nota_100.10.200_3b8d176872b6 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Despachos normativos".
+
+:c100.10.200 :temNotaAplicacao :nota_100.10.200_3b8d176872b6 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.200_bf8660a45e05
+:exemplo_100.10.200_bf8660a45e05 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Decreto Regulamentar que aprova o Plano da Bacia Hidrográfica do Guadiana".
+
+:c100.10.200 :temExemploNA :exemplo_100.10.200_bf8660a45e05 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.200_2e467fa45c62
+:exemplo_100.10.200_2e467fa45c62 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Decreto Regulamentar que classifica como monumento natural as Portas de Rodão".
+
+:c100.10.200 :temExemploNA :exemplo_100.10.200_2e467fa45c62 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.200_fcd0d47378cb
+:nota_100.10.200_fcd0d47378cb rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os regulamentos municipais de aplicação à respetiva circunscrição territorial deverão ser considerados em 100.10.400 – Produção e comunicação de atos regulamentares locais".
+
+:c100.10.200 :temNotaExclusao :nota_100.10.200_fcd0d47378cb .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.200_1f9808468857
+:nota_100.10.200_1f9808468857 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os regulamentos de funcionamento dos serviços devem ser considerados em 100.10.600 – Produção e comunicação de regras institucionais".
+
+:c100.10.200 :temNotaExclusao :nota_100.10.200_1f9808468857 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.200_266261198bd5
+:nota_100.10.200_266261198bd5 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os procedimentos administrativos, trabalhos preparatórios ou elaboração de estudos preliminares, por exemplo quando a regulamentação seja necessária para dar forma legal a instrumentos de planeamento, devem ser considerados em “Planeamento e gestão estratégica/Definição e avaliação de políticas” (150.10)".
+
+:c100.10.200 :temNotaExclusao :nota_100.10.200_266261198bd5 .
+
+:c100.10.200 :processoTipoVC :vc_processoTipo_pc .
+:c100.10.200 :processoTransversal "S" .
+:c100.10.200 :temDono :tip_Gov .
+:c100.10.200 :temDono :ent_GovReg-A .
+:c100.10.200 :temDono :ent_GovReg-M .
+:c100.10.200 :temParticipanteAssessor :ent_JurisAPP .
+:c100.10.200 :temParticipanteAssessor :ent_SGPCM .
+:c100.10.200 :temParticipanteAssessor :tip_AP .
+:c100.10.200 :temParticipanteAssessor :ent_INCM .
+:c100.10.200 :temParticipanteComunicador :ent_INFARMED .
+:c100.10.200 :temParticipanteAssessor :tip_CCDR .
+:c100.10.200 :temParticipanteAssessor :ent_ACT .
+:c100.10.200 :temParticipanteAssessor :ent_CASES .
+:c100.10.200 :temParticipanteAssessor :ent_CGA .
+:c100.10.200 :temParticipanteAssessor :ent_CITE .
+:c100.10.200 :temParticipanteAssessor :ent_CNPDPCJ .
+:c100.10.200 :temParticipanteAssessor :ent_CPL .
+:c100.10.200 :temParticipanteAssessor :ent_CRL .
+:c100.10.200 :temParticipanteAssessor :ent_DGERT .
+:c100.10.200 :temParticipanteAssessor :ent_DGSS .
+:c100.10.200 :temParticipanteAssessor :ent_GEP .
+:c100.10.200 :temParticipanteAssessor :ent_IEFP .
+:c100.10.200 :temParticipanteAssessor :ent_IGMTSSS .
+:c100.10.200 :temParticipanteAssessor :ent_IGFCSS .
+:c100.10.200 :temParticipanteAssessor :tip_AL .
+:c100.10.200 :temParticipanteAssessor :ent_IGFSS .
+:c100.10.200 :temParticipanteAssessor :ent_II .
+:c100.10.200 :temParticipanteAssessor :ent_INR .
+:c100.10.200 :temParticipanteAssessor :ent_ISS .
+:c100.10.200 :temParticipanteAssessor :ent_OIT .
+:c100.10.200 :temParticipanteAssessor :ent_POISE .
+:c100.10.200 :temParticipanteAssessor :ent_SGMTSSS .
+:c100.10.200 :temParticipanteAssessor :ent_ICNF .
+:c100.10.200 :temParticipanteAssessor :ent_IGAMAOT .
+:c100.10.200 :temParticipanteAssessor :ent_DGRM .
+:c100.10.200 :temParticipanteAssessor :ent_DGPM .
+:c100.10.200 :temParticipanteAssessor :ent_GAMA .
+:c100.10.200 :temParticipanteAssessor :ent_DGADR .
+:c100.10.200 :temParticipanteAssessor :ent_DGAV .
+:c100.10.200 :temParticipanteAssessor :ent_INIAV .
+:c100.10.200 :temParticipanteAssessor :ent_IVV .
+:c100.10.200 :temParticipanteAssessor :ent_IVDP .
+:c100.10.200 :temParticipanteAssessor :ent_PDR2020 .
+:c100.10.200 :temParticipanteAssessor :ent_GPP .
+:c100.10.200 :temParticipanteAssessor :tip_DRAP .
+:c100.10.200 :temParticipanteAssessor :ent_IFAP .
+:c100.10.200 :temParticipanteAssessor :ent_CP .
+:c100.10.200 :temParticipanteAssessor :ent_ASAE .
+:c100.10.200 :temParticipanteAssessor :ent_DGAE .
+:c100.10.200 :temParticipanteAssessor :ent_DGC .
+:c100.10.200 :temParticipanteAssessor :ent_GEE .
+:c100.10.200 :temParticipanteAssessor :ent_SGME .
+:c100.10.200 :temLegislacao :leg_Lei_Constitucional_1_2005 .
+:c100.10.200 :temLegislacao :leg_Resolução_do_Conselho_de_Ministros_51_2013 .
+:c100.10.200 :temLegislacao :leg_Resolução_do_Conselho_de_Ministros_23_2016 .
+:c100.10.200 :temLegislacao :leg_Lei_43_2014 .
+:c100.10.200 :temLegislacao :leg_Lei_4_98 .
+:c100.10.200 :temRelProc :c100.10.001 .
+:c100.10.200 :eComplementarDe :c100.10.001 .
+:c100.10.200 :temRelProc :c100.10.400 .
+:c100.10.200 :eComplementarDe :c100.10.400 .
+:c100.10.200 :temRelProc :c100.10.600 .
+:c100.10.200 :eComplementarDe :c100.10.600 .
+:c100.10.200 :temRelProc :c100.20.001 .
+:c100.10.200 :eComplementarDe :c100.20.001 .
+:c100.10.200 :temRelProc :c100.20.200 .
+:c100.10.200 :eComplementarDe :c100.20.200 .
+:c100.10.200 :temRelProc :c150.10.001 .
+:c100.10.200 :eSucessorDe :c150.10.001 .
+:c100.10.200 :temRelProc :c150.10.100 .
+:c100.10.200 :eSucessorDe :c150.10.100 .
+:c100.10.200 :temRelProc :c150.10.200 .
+:c100.10.200 :eComplementarDe :c150.10.200 .
+:c100.10.200 :temRelProc :c150.10.600 .
+:c100.10.200 :eComplementarDe :c150.10.600 .
+:c100.10.200 :temRelProc :c150.10.700 .
+:c100.10.200 :eCruzadoCom :c150.10.700 .
+:c100.10.200 :temRelProc :c900.20.201 .
+:c100.10.200 :eAntecessorDe :c900.20.201 .
+:c100.10.200 :temRelProc :c250.30.001 .
+:c100.10.200 :eComplementarDe :c250.30.001 .
+:c100.10.200 :temPCA :pca_c100.10.200.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c100.10.200
+:pca_c100.10.200 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c100.10.200 :pcaValor 5.0.
+:pca_c100.10.200 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c100.10.200
+:just_pca_c100.10.200 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c100.10.200 :temJustificacao :just_pca_c100.10.200 .
+:just_pca_c100.10.200_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoGestionario ;
+	:conteudo "Prazo para imputação de responsabilidade pela gestão estratégica, decorrente de escrutínio público (eleições).Considerou-se para a definição do prazo o tempo do mandato de maior duração: 5 anos." .
+:just_pca_c100.10.200 :temCriterio :just_pca_c100.10.200_0. 
+:c100.10.200 :temDF :df_c100.10.200.
+###  http://jcr.di.uminho.pt/m51-clav#df_c100.10.200
+:df_c100.10.200 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c100.10.200 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c100.10.200
+:just_df_c100.10.200 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c100.10.200 :temJustificacao :just_df_c100.10.200 .
+:just_df_c100.10.200_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoComplementaridadeInfo ;
+	:conteudo "É complementar de:PN 100.10.001 - Produção e comunicação de atos legislativos;PN 100.10.400 - Produção e comunicação de atos regulamentares locais;PN 100.10.600 - Produção e comunicação de regras institucionais;PN 100.20.001 - Produção de pareceres técnico-jurídicos de interpretação de diplomas jurídico-normativos;PN 100.20.200 - Produção e comunicação de instruções para aplicação de diplomas jurídico-normativos;PN 150.10.200 - Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional;PN 150.10.600 – Avaliação de políticas e instrumentos de operacionalização;PN 250.30.001 - Negociação de convenções coletivas de trabalho.O texto final é publicitado no Diário da República." .
+:just_df_c100.10.200 :temCriterio :just_df_c100.10.200_0. 
+:just_df_c100.10.200_0 :critTemProcRel :c100.10.001 .
+:just_df_c100.10.200_0 :critTemProcRel :c100.10.400 .
+:just_df_c100.10.200_0 :critTemProcRel :c100.10.600 .
+:just_df_c100.10.200_0 :critTemProcRel :c100.20.001 .
+:just_df_c100.10.200_0 :critTemProcRel :c100.20.200 .
+:just_df_c100.10.200_0 :critTemProcRel :c150.10.200 .
+:just_df_c100.10.200_0 :critTemProcRel :c150.10.600 .
+:just_df_c100.10.200_0 :critTemProcRel :c250.30.001 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c100.10.400
+:c100.10.400 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '100.10.400' ;
+	:titulo 'Produção e comunicação de atos regulamentares locais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c100.10 ;
+	:descricao 'Elaboração e formalização de atos regulamentares que têm o seu domínio de aplicação limitado ao território sob a jurisdição de uma autarquia local. Inicia com a apresentação do projeto de regulamento ou de atualização de regulamento e termina com a aprovação pelos órgãos territorialmente competentes, eventual ratificação, e consequente publicitação. Inclui verificação jurídica e apreciação. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.400_865ffaa045c7
+:nota_100.10.400_865ffaa045c7 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atos regulamentares da competência dos órgãos autárquicos, mesmo quando necessitam de ratificação do Governo".
+
+:c100.10.400 :temNotaAplicacao :nota_100.10.400_865ffaa045c7 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.400_4bc2bc490ca8
+:nota_100.10.400_4bc2bc490ca8 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Depósito do diploma em entidade designada".
+
+:c100.10.400 :temNotaAplicacao :nota_100.10.400_4bc2bc490ca8 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.400_8e0de19c3e7f
+:nota_100.10.400_8e0de19c3e7f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Posturas e regulamentos municipais que não tenham incidência sobre o funcionamento dos serviços dependentes da autarquia".
+
+:c100.10.400 :temNotaAplicacao :nota_100.10.400_8e0de19c3e7f .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.400_05b68cd7464c
+:exemplo_100.10.400_05b68cd7464c rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Plano Diretor Municipal".
+
+:c100.10.400 :temExemploNA :exemplo_100.10.400_05b68cd7464c .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.400_f37b8f97bb01
+:exemplo_100.10.400_f37b8f97bb01 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Regulamento Municipal de Toponímia e Numeração de Polícia".
+
+:c100.10.400 :temExemploNA :exemplo_100.10.400_f37b8f97bb01 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.400_df9dbc00d618
+:exemplo_100.10.400_df9dbc00d618 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Regulamento de Horários de Funcionamento dos Estabelecimentos Comerciais na área do Município".
+
+:c100.10.400 :temExemploNA :exemplo_100.10.400_df9dbc00d618 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.400_e8b624e61aae
+:exemplo_100.10.400_e8b624e61aae rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Regulamento Municipal de Publicidade".
+
+:c100.10.400 :temExemploNA :exemplo_100.10.400_e8b624e61aae .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.400_03cb1d4bbc8a
+:exemplo_100.10.400_03cb1d4bbc8a rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Plano de Circulação do Município".
+
+:c100.10.400 :temExemploNA :exemplo_100.10.400_03cb1d4bbc8a .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.400_8f0e587c950e
+:exemplo_100.10.400_8f0e587c950e rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Nomeação por deliberação da assembleia municipal dos conselhos municipais".
+
+:c100.10.400 :temExemploNA :exemplo_100.10.400_8f0e587c950e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.400_1c2de9bb5024
+:nota_100.10.400_1c2de9bb5024 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os regulamentos de funcionamento dos serviços devem ser considerados em 100.10.600 – Produção e comunicação de regras institucionais".
+
+:c100.10.400 :temNotaExclusao :nota_100.10.400_1c2de9bb5024 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.400_fa1b5a689409
+:nota_100.10.400_fa1b5a689409 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os procedimentos administrativos, trabalhos preparatórios ou elaboração de estudos preliminares, por exemplo quando a regulamentação seja necessária para dar forma legal a instrumentos de planeamento, devem ser considerados em “Planeamento e gestão estratégica /Definição e avaliação de políticas” (150.10)".
+
+:c100.10.400 :temNotaExclusao :nota_100.10.400_fa1b5a689409 .
+
+:c100.10.400 :processoTipoVC :vc_processoTipo_pe .
+:c100.10.400 :processoTransversal "S" .
+:c100.10.400 :temDono :tip_AL .
+:c100.10.400 :temDono :tip_CCDR .
+:c100.10.400 :temParticipanteAssessor :ent_JurisAPP .
+:c100.10.400 :temParticipanteAssessor :ent_SGPCM .
+:c100.10.400 :temParticipanteComunicador :ent_INCM .
+:c100.10.400 :temParticipanteComunicador :tip_CCDR .
+:c100.10.400 :temParticipanteComunicador :ent_ICNF .
+:c100.10.400 :temParticipanteComunicador :ent_IGAMAOT .
+:c100.10.400 :temParticipanteComunicador :ent_DGAV .
+:c100.10.400 :temParticipanteComunicador :ent_INIAV .
+:c100.10.400 :temParticipanteComunicador :tip_DRAP .
+:c100.10.400 :temParticipanteComunicador :ent_IFAP .
+:c100.10.400 :temLegislacao :leg_Lei_169_99 .
+:c100.10.400 :temLegislacao :leg_DL_442_91 .
+:c100.10.400 :temRelProc :c100.10.001 .
+:c100.10.400 :eComplementarDe :c100.10.001 .
+:c100.10.400 :temRelProc :c100.10.200 .
+:c100.10.400 :eComplementarDe :c100.10.200 .
+:c100.10.400 :temRelProc :c100.10.600 .
+:c100.10.400 :eComplementarDe :c100.10.600 .
+:c100.10.400 :temRelProc :c100.20.001 .
+:c100.10.400 :eComplementarDe :c100.20.001 .
+:c100.10.400 :temRelProc :c100.20.200 .
+:c100.10.400 :eComplementarDe :c100.20.200 .
+:c100.10.400 :temRelProc :c150.10.400 .
+:c100.10.400 :eComplementarDe :c150.10.400 .
+:c100.10.400 :temRelProc :c150.10.700 .
+:c100.10.400 :eCruzadoCom :c150.10.700 .
+:c100.10.400 :temRelProc :c150.10.701 .
+:c100.10.400 :eCruzadoCom :c150.10.701 .
+:c100.10.400 :temRelProc :c900.20.201 .
+:c100.10.400 :eAntecessorDe :c900.20.201 .
+:c100.10.400 :temPCA :pca_c100.10.400.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c100.10.400
+:pca_c100.10.400 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c100.10.400 :pcaValor 5.0.
+:pca_c100.10.400 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c100.10.400
+:just_pca_c100.10.400 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c100.10.400 :temJustificacao :just_pca_c100.10.400 .
+:just_pca_c100.10.400_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoGestionario ;
+	:conteudo "Prazo para imputação de responsabilidade pela gestão estratégica, decorrente de escrutínio público (eleições).Considerou-se para a definição do prazo o tempo do mandato de maior duração: 5 anos." .
+:just_pca_c100.10.400 :temCriterio :just_pca_c100.10.400_0. 
+:c100.10.400 :temDF :df_c100.10.400.
+###  http://jcr.di.uminho.pt/m51-clav#df_c100.10.400
+:df_c100.10.400 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c100.10.400 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c100.10.400
+:just_df_c100.10.400 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c100.10.400 :temJustificacao :just_df_c100.10.400 .
+:just_df_c100.10.400_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoComplementaridadeInfo ;
+	:conteudo "É complementar dosPN 100.10.001 - Produção e comunicação de atos legislativos;PN 100.10.200 - Produção e comunicação de atos regulamentares gerais;PN 100.10.600 - Produção e comunicação de regras institucionais;PN 100.20.001 - Produção de pareceres técnico-jurídicos de interpretação de diplomas jurídico-normativos;PN 100.20.200 - Produção e comunicação de instruções para aplicação de diplomas jurídico-normativos;PN 150.10.400 - Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito municipal e intermunicipal.O texto final é publicitado no Diário da República." .
+:just_df_c100.10.400 :temCriterio :just_df_c100.10.400_0. 
+:just_df_c100.10.400_0 :critTemProcRel :c100.10.001 .
+:just_df_c100.10.400_0 :critTemProcRel :c100.10.200 .
+:just_df_c100.10.400_0 :critTemProcRel :c100.10.600 .
+:just_df_c100.10.400_0 :critTemProcRel :c100.20.001 .
+:just_df_c100.10.400_0 :critTemProcRel :c100.20.200 .
+:just_df_c100.10.400_0 :critTemProcRel :c150.10.400 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c100.10.600
+:c100.10.600 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '100.10.600' ;
+	:titulo 'Produção e comunicação de regras institucionais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c100.10 ;
+	:descricao 'Elaboração e formalização de atos regrantes do funcionamento de uma instituição. Inicia com a apresentação do projeto de regra, quando houver lugar ao mesmo, e termina com a sua publicitação ou comunicação direta aos visados. Inclui verificação jurídica e apreciação. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.600_38bd6cde2b32
+:nota_100.10.600_38bd6cde2b32 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atos administrativos individuais que alteram os termos de aplicação de lei ou regulamento vigente".
+
+:c100.10.600 :temNotaAplicacao :nota_100.10.600_38bd6cde2b32 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.600_8a20fe7c80df
+:nota_100.10.600_8a20fe7c80df rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atos regulamentares relativos ao funcionamento de uma instituição, independentemente de ser da competência da própria instituição ou de membro(s) do Governo".
+
+:c100.10.600 :temNotaAplicacao :nota_100.10.600_8a20fe7c80df .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.600_82edb5fd252e
+:nota_100.10.600_82edb5fd252e rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Regulamentos".
+
+:c100.10.600 :temNotaAplicacao :nota_100.10.600_82edb5fd252e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.600_e4fdcb964aae
+:nota_100.10.600_e4fdcb964aae rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Despachos".
+
+:c100.10.600 :temNotaAplicacao :nota_100.10.600_e4fdcb964aae .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.600_766fef62f2e2
+:nota_100.10.600_766fef62f2e2 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Ordens de serviço".
+
+:c100.10.600 :temNotaAplicacao :nota_100.10.600_766fef62f2e2 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.600_d91ebc13f080
+:exemplo_100.10.600_d91ebc13f080 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Despacho de delegação de competências".
+
+:c100.10.600 :temExemploNA :exemplo_100.10.600_d91ebc13f080 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.600_a5e7e587067f
+:exemplo_100.10.600_a5e7e587067f rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Regimentos da Assembleia da República, do Conselho de Estado e das Assembleias Legislativas das Regiões Autónomas".
+
+:c100.10.600 :temExemploNA :exemplo_100.10.600_a5e7e587067f .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.600_d6c62dfd3e2c
+:exemplo_100.10.600_d6c62dfd3e2c rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Regimentos de órgãos colegiais".
+
+:c100.10.600 :temExemploNA :exemplo_100.10.600_d6c62dfd3e2c .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.600_7076c9e5b7fd
+:exemplo_100.10.600_7076c9e5b7fd rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Regulamento municipal da Biblioteca".
+
+:c100.10.600 :temExemploNA :exemplo_100.10.600_7076c9e5b7fd .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.600_6e7fae334b25
+:exemplo_100.10.600_6e7fae334b25 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Regulamento de taxas municipais".
+
+:c100.10.600 :temExemploNA :exemplo_100.10.600_6e7fae334b25 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.600_649d427f4780
+:exemplo_100.10.600_649d427f4780 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Diplomas que regulamentam a lei orgânica (Estatutos, Decreto Regulamentar, portaria ou despacho de organização dos serviços)".
+
+:c100.10.600 :temExemploNA :exemplo_100.10.600_649d427f4780 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.600_1e2e361fd67d
+:exemplo_100.10.600_1e2e361fd67d rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Regulamentos de horário de funcionamento".
+
+:c100.10.600 :temExemploNA :exemplo_100.10.600_1e2e361fd67d .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.600_c1a07233a6c3
+:exemplo_100.10.600_c1a07233a6c3 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Regulamentos relativos a relações de trabalho: horários de trabalho, contratação de docentes convidados, procedimentos concursais, avaliação de docentes, acumulação de funções".
+
+:c100.10.600 :temExemploNA :exemplo_100.10.600_c1a07233a6c3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.600_ab38c30093a8
+:exemplo_100.10.600_ab38c30093a8 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Regulamentos relativos a serviços".
+
+:c100.10.600 :temExemploNA :exemplo_100.10.600_ab38c30093a8 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.600_5304e9d6bd42
+:exemplo_100.10.600_5304e9d6bd42 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Regulamentos relativos à área académica: acesso e ingresso no ensino superior, avaliação de conhecimentos e aproveitamento, faltas, vigilância de provas, estatutos especiais, emolumentos, propinas, estágio, creditação, estudante internacional".
+
+:c100.10.600 :temExemploNA :exemplo_100.10.600_5304e9d6bd42 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.600_eae69c0c6f27
+:exemplo_100.10.600_eae69c0c6f27 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Regulamentos relativos a concursos/prémios".
+
+:c100.10.600 :temExemploNA :exemplo_100.10.600_eae69c0c6f27 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.600_dd7d341f4f1a
+:nota_100.10.600_dd7d341f4f1a rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A preparação das regras e orientações internas deve ser consideradas em 150.20.001 - Preparação de regras e orientações internas".
+
+:c100.10.600 :temNotaExclusao :nota_100.10.600_dd7d341f4f1a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.600_1d3b78fbcdeb
+:nota_100.10.600_1d3b78fbcdeb rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os projetos de reengenharia de processos, simplificação de procedimentos, ou melhoria no funcionamento dos serviços, devem ser considerados em 150.20.500 – Análise e melhoria de processos ou 150.20.501 - Análise e melhoria de serviços".
+
+:c100.10.600 :temNotaExclusao :nota_100.10.600_1d3b78fbcdeb .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.600_907838466349
+:nota_100.10.600_907838466349 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As nomeações devem ser consideradas em 250.10.400 – Nomeação para comando, direção ou chefia, ou 250.10.401 – Nomeação para postos de trabalho (exemplos: nomeação de embaixadores, chefe de estado das forças armadas, diretores-gerais, diretores de serviço, trabalhadores, funcionários públicos)".
+
+:c100.10.600 :temNotaExclusao :nota_100.10.600_907838466349 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.600_2e2bb6fd6d62
+:nota_100.10.600_2e2bb6fd6d62 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os trabalhos preparatórios ou estudos preliminares quando integram processo específico, como por exemplo os desenvolvidos no âmbito da definição do sistema de qualidade".
+
+:c100.10.600 :temNotaExclusao :nota_100.10.600_2e2bb6fd6d62 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.600_9e562fe51429
+:nota_100.10.600_9e562fe51429 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os avisos que não incidem sobre a publicitação das regras de funcionamento devem ser considerados na área correspondente, por exemplo, um aviso para abertura de concurso de pessoal deve ser considerado no respetivo processo em “Administração das relações de trabalho/ Estabelecimento e cessação de relações de trabalho” (250.10)".
+
+:c100.10.600 :temNotaExclusao :nota_100.10.600_9e562fe51429 .
+
+:c100.10.600 :processoTipoVC :vc_processoTipo_pc .
+:c100.10.600 :processoTransversal "S" .
+:c100.10.600 :temDono :tip_AP .
+:c100.10.600 :temDono :tip_AL .
+:c100.10.600 :temDono :ent_Grupo_IP .
+:c100.10.600 :temDono :ent_INFARMED .
+:c100.10.600 :temDono :ent_CP .
+:c100.10.600 :temDono :tip_CCDR .
+:c100.10.600 :temDono :ent_IMT .
+:c100.10.600 :temDono :ent_ACT .
+:c100.10.600 :temDono :ent_CASES .
+:c100.10.600 :temDono :ent_CGA .
+:c100.10.600 :temDono :ent_CITE .
+:c100.10.600 :temDono :ent_CNPDPCJ .
+:c100.10.600 :temDono :ent_CPL .
+:c100.10.600 :temDono :ent_CRL .
+:c100.10.600 :temDono :ent_DGERT .
+:c100.10.600 :temDono :ent_DGSS .
+:c100.10.600 :temDono :ent_GEP .
+:c100.10.600 :temDono :ent_IEFP .
+:c100.10.600 :temDono :tip_IES .
+:c100.10.600 :temDono :ent_IGMTSSS .
+:c100.10.600 :temDono :ent_IGFCSS .
+:c100.10.600 :temDono :ent_IGFSS .
+:c100.10.600 :temDono :ent_II .
+:c100.10.600 :temDono :ent_INR .
+:c100.10.600 :temDono :ent_ISS .
+:c100.10.600 :temDono :ent_OIT .
+:c100.10.600 :temDono :ent_POISE .
+:c100.10.600 :temDono :ent_SGMTSSS .
+:c100.10.600 :temDono :ent_ICNF .
+:c100.10.600 :temDono :ent_IGAMAOT .
+:c100.10.600 :temDono :ent_DGRM .
+:c100.10.600 :temDono :ent_DGPM .
+:c100.10.600 :temDono :ent_GAMA .
+:c100.10.600 :temDono :ent_DGADR .
+:c100.10.600 :temDono :ent_DGAV .
+:c100.10.600 :temDono :ent_INIAV .
+:c100.10.600 :temDono :ent_IVV .
+:c100.10.600 :temDono :ent_IVDP .
+:c100.10.600 :temDono :ent_PDR2020 .
+:c100.10.600 :temDono :ent_GPP .
+:c100.10.600 :temDono :tip_DRAP .
+:c100.10.600 :temDono :ent_IFAP .
+:c100.10.600 :temDono :ent_ASAE .
+:c100.10.600 :temDono :ent_DGAE .
+:c100.10.600 :temDono :ent_DGC .
+:c100.10.600 :temDono :ent_GEE .
+:c100.10.600 :temDono :ent_SGME .
+:c100.10.600 :temDono :ent_CV .
+:c100.10.600 :temDono :ent_ERSE .
+:c100.10.600 :temParticipanteDecisor :tip_AP .
+:c100.10.600 :temParticipanteApreciador :tip_AL .
+:c100.10.600 :temParticipanteApreciador :ent_INFARMED .
+:c100.10.600 :temParticipanteApreciador :ent_CP .
+:c100.10.600 :temParticipanteApreciador :tip_CCDR .
+:c100.10.600 :temParticipanteApreciador :ent_IMT .
+:c100.10.600 :temParticipanteApreciador :ent_ACT .
+:c100.10.600 :temParticipanteApreciador :ent_CASES .
+:c100.10.600 :temParticipanteApreciador :ent_CGA .
+:c100.10.600 :temParticipanteApreciador :ent_CITE .
+:c100.10.600 :temParticipanteApreciador :ent_CNPDPCJ .
+:c100.10.600 :temParticipanteApreciador :ent_CPL .
+:c100.10.600 :temParticipanteApreciador :ent_CRL .
+:c100.10.600 :temParticipanteApreciador :ent_DGERT .
+:c100.10.600 :temParticipanteApreciador :ent_DGSS .
+:c100.10.600 :temParticipanteApreciador :ent_GEP .
+:c100.10.600 :temParticipanteApreciador :ent_IEFP .
+:c100.10.600 :temParticipanteApreciador :ent_IGMTSSS .
+:c100.10.600 :temParticipanteApreciador :ent_IGFCSS .
+:c100.10.600 :temParticipanteApreciador :ent_IGFSS .
+:c100.10.600 :temParticipanteApreciador :ent_II .
+:c100.10.600 :temParticipanteApreciador :ent_INR .
+:c100.10.600 :temParticipanteApreciador :ent_ISS .
+:c100.10.600 :temParticipanteApreciador :ent_OIT .
+:c100.10.600 :temParticipanteApreciador :ent_POISE .
+:c100.10.600 :temParticipanteApreciador :ent_SGMTSSS .
+:c100.10.600 :temParticipanteApreciador :ent_ICNF .
+:c100.10.600 :temParticipanteApreciador :ent_IGAMAOT .
+:c100.10.600 :temParticipanteApreciador :ent_DGRM .
+:c100.10.600 :temParticipanteApreciador :ent_DGPM .
+:c100.10.600 :temParticipanteApreciador :ent_GAMA .
+:c100.10.600 :temParticipanteApreciador :ent_DGADR .
+:c100.10.600 :temParticipanteApreciador :ent_DGAV .
+:c100.10.600 :temParticipanteApreciador :ent_INIAV .
+:c100.10.600 :temParticipanteApreciador :ent_IVV .
+:c100.10.600 :temParticipanteApreciador :ent_IVDP .
+:c100.10.600 :temParticipanteApreciador :ent_PDR2020 .
+:c100.10.600 :temParticipanteApreciador :ent_GPP .
+:c100.10.600 :temParticipanteApreciador :tip_DRAP .
+:c100.10.600 :temParticipanteApreciador :ent_IFAP .
+:c100.10.600 :temParticipanteApreciador :ent_ASAE .
+:c100.10.600 :temParticipanteApreciador :ent_DGAE .
+:c100.10.600 :temParticipanteApreciador :ent_DGC .
+:c100.10.600 :temParticipanteApreciador :ent_GEE .
+:c100.10.600 :temParticipanteApreciador :ent_SGME .
+:c100.10.600 :temLegislacao :leg_Lei_Constitucional_1_2005 .
+:c100.10.600 :temLegislacao :leg_DL_4_2015 .
+:c100.10.600 :temLegislacao :leg_DL_5_2012 .
+:c100.10.600 :temLegislacao :leg_Lei_62_2007 .
+:c100.10.600 :temRelProc :c100.10.001 .
+:c100.10.600 :eComplementarDe :c100.10.001 .
+:c100.10.600 :temRelProc :c100.10.200 .
+:c100.10.600 :eComplementarDe :c100.10.200 .
+:c100.10.600 :temRelProc :c100.10.400 .
+:c100.10.600 :eComplementarDe :c100.10.400 .
+:c100.10.600 :temRelProc :c100.20.001 .
+:c100.10.600 :eComplementarDe :c100.20.001 .
+:c100.10.600 :temRelProc :c150.10.700 .
+:c100.10.600 :eCruzadoCom :c150.10.700 .
+:c100.10.600 :temRelProc :c150.10.701 .
+:c100.10.600 :eCruzadoCom :c150.10.701 .
+:c100.10.600 :temRelProc :c150.20.001 .
+:c100.10.600 :eSinteseDe :c150.20.001 .
+:c100.10.600 :temRelProc :c150.20.500 .
+:c100.10.600 :eSinteseDe :c150.20.500 .
+:c100.10.600 :temRelProc :c150.20.501 .
+:c100.10.600 :eComplementarDe :c150.20.501 .
+:c100.10.600 :temRelProc :c250.30.001 .
+:c100.10.600 :eComplementarDe :c250.30.001 .
+:c100.10.600 :temRelProc :c900.20.201 .
+:c100.10.600 :eAntecessorDe :c900.20.201 .
+:c100.10.600 :temRelProc :c150.20.404 .
+:c100.10.600 :eComplementarDe :c150.20.404 .
+:c100.10.600 :temPCA :pca_c100.10.600.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c100.10.600
+:pca_c100.10.600 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c100.10.600 :pcaValor 5.0.
+:pca_c100.10.600 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c100.10.600
+:just_pca_c100.10.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c100.10.600 :temJustificacao :just_pca_c100.10.600 .
+:just_pca_c100.10.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoGestionario ;
+	:conteudo "Prazo para imputação de responsabilidade pela gestão estratégica, decorrente de escrutínio público (eleições).Considerou-se para a definição do prazo o tempo do mandato de maior duração: 5 anos." .
+:just_pca_c100.10.600 :temCriterio :just_pca_c100.10.600_0. 
+:c100.10.600 :temDF :df_c100.10.600.
+###  http://jcr.di.uminho.pt/m51-clav#df_c100.10.600
+:df_c100.10.600 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c100.10.600 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c100.10.600
+:just_df_c100.10.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c100.10.600 :temJustificacao :just_df_c100.10.600 .
+:just_df_c100.10.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoComplementaridadeInfo ;
+	:conteudo "É complementar dosPN 100.10.001 - Produção e comunicação de atos legislativos;PN 100.10.200 - Produção e comunicação de atos regulamentares gerais;PN 100.10.400 - Produção e comunicação de atos regulamentares locais;PN 100.20.001 - Produção de pareceres técnico-jurídicos de interpretação de diplomas jurídico-normativos;PN 100.20.200 – Produção e comunicação de instruções para aplicação de diplomas jurídico-normativos;PN 150.20.501 - Análise e melhoria de serviços;PN 250.30.001 - Negociação de convenções coletivas de trabalho.PN 150.20.404 – Prestação de contas.O texto final é publicitado." .
+:just_df_c100.10.600 :temCriterio :just_df_c100.10.600_0. 
+:just_df_c100.10.600_0 :critTemProcRel :c100.10.001 .
+:just_df_c100.10.600_0 :critTemProcRel :c100.10.200 .
+:just_df_c100.10.600_0 :critTemProcRel :c100.10.400 .
+:just_df_c100.10.600_0 :critTemProcRel :c100.20.001 .
+:just_df_c100.10.600_0 :critTemProcRel :c100.20.200 .
+:just_df_c100.10.600_0 :critTemProcRel :c150.20.501 .
+:just_df_c100.10.600_0 :critTemProcRel :c250.30.001 .
+:just_df_c100.10.600_0 :critTemProcRel :c150.20.404 .
+:just_df_c100.10.600_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Sintetiza a informação dosPN 150.20.001 - Preparação de regras e orientações internas;PN 150.20.500 - Análise e melhoria de processos." .
+:just_df_c100.10.600 :temCriterio :just_df_c100.10.600_1. 
+:just_df_c100.10.600_1 :critTemProcRel :c150.20.001 .
+:just_df_c100.10.600_1 :critTemProcRel :c150.20.500 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c100.10.800
+:c100.10.800 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '100.10.800' ;
+	:titulo 'Produção e comunicação de normas técnicas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c100.10 ;
+	:descricao 'Elaboração (formalização e estabelecimento de prescrições) de disposições destinadas à utilização comum e repetida, visando a obtenção de normas técnicas, ações e procedimentos normalizados num dado contexto, podendo revestir a forma de norma padrão (standard), isto é norma técnica que foi adotada "de facto", sem necessariamente ter havido uma ratificação formal, ou de norma produzida por um órgão oficialmente acreditado para tal (norma "de jure"). Inicia com a identificação da necessidade (da norma técnica) do documento normativo e termina com o envio para publicação e publicitação. Inclui elaboração de pareceres técnicos especializados na área, redação dos documentos, traduções técnicas e elaboração de projetos de documentos normativos, com consulta nacional e europeia incluindo consulta às entidades reguladoras, análise dos contributos recebidos, elaboração/redação final do documento normativo.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.800_20c03e1e8f69
+:nota_100.10.800_20c03e1e8f69 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Documentos normativos, editados pelo Organismo Nacional de Normalização".
+
+:c100.10.800 :temNotaAplicacao :nota_100.10.800_20c03e1e8f69 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.800_2dd50aee8608
+:nota_100.10.800_2dd50aee8608 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Documentos normativos, editados por Organismos Europeus ou Internacionais de Normalização".
+
+:c100.10.800 :temNotaAplicacao :nota_100.10.800_2dd50aee8608 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.800_d9086c74aca9
+:nota_100.10.800_d9086c74aca9 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Documentos normativos elaborados por Organismos de Normalização Setorial".
+
+:c100.10.800 :temNotaAplicacao :nota_100.10.800_d9086c74aca9 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.800_2d2be68dc092
+:nota_100.10.800_2d2be68dc092 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Documentos normativos elaborados por Organismos Gestores de Comissão Técnica e por Comissões Técnicas (Qualificados pelo IPQ)".
+
+:c100.10.800 :temNotaAplicacao :nota_100.10.800_2d2be68dc092 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.10.800_4868e3de99e2
+:nota_100.10.800_4868e3de99e2 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Normas técnicas de iniciativa institucional".
+
+:c100.10.800 :temNotaAplicacao :nota_100.10.800_4868e3de99e2 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.10.800_d2fa99dd70d2
+:exemplo_100.10.800_d2fa99dd70d2 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Normas STANAG".
+
+:c100.10.800 :temExemploNA :exemplo_100.10.800_d2fa99dd70d2 .
+
+:c100.10.800 :processoTipoVC :vc_processoTipo_pc .
+:c100.10.800 :processoTransversal "S" .
+:c100.10.800 :temDono :tip_AL .
+:c100.10.800 :temDono :ent_IPQ .
+:c100.10.800 :temDono :tip_AP .
+:c100.10.800 :temDono :ent_Grupo_IP .
+:c100.10.800 :temDono :ent_IMT .
+:c100.10.800 :temDono :ent_INFARMED .
+:c100.10.800 :temDono :ent_CP .
+:c100.10.800 :temDono :ent_IMT .
+:c100.10.800 :temDono :ent_ICNF .
+:c100.10.800 :temDono :ent_IGAMAOT .
+:c100.10.800 :temDono :ent_DGRM .
+:c100.10.800 :temDono :ent_DGPM .
+:c100.10.800 :temDono :ent_GAMA .
+:c100.10.800 :temDono :ent_DGADR .
+:c100.10.800 :temDono :ent_DGAV .
+:c100.10.800 :temDono :ent_INIAV .
+:c100.10.800 :temDono :ent_IVV .
+:c100.10.800 :temDono :ent_IVDP .
+:c100.10.800 :temDono :ent_PDR2020 .
+:c100.10.800 :temDono :ent_GPP .
+:c100.10.800 :temDono :tip_DRAP .
+:c100.10.800 :temDono :ent_IFAP .
+:c100.10.800 :temDono :ent_ASAE .
+:c100.10.800 :temDono :ent_DGAE .
+:c100.10.800 :temDono :ent_DGC .
+:c100.10.800 :temDono :ent_SGME .
+:c100.10.800 :temDono :ent_CV .
+:c100.10.800 :temDono :ent_ERSE .
+:c100.10.800 :temParticipanteAssessor :tip_AL .
+:c100.10.800 :temParticipanteAssessor :tip_AP .
+:c100.10.800 :temParticipanteAssessor :tip_ONS .
+:c100.10.800 :temParticipanteAssessor :tip_CT .
+:c100.10.800 :temParticipanteAssessor :ent_Grupo_IP .
+:c100.10.800 :temParticipanteAssessor :ent_INFARMED .
+:c100.10.800 :temParticipanteAssessor :ent_CP .
+:c100.10.800 :temParticipanteAssessor :tip_CCDR .
+:c100.10.800 :temParticipanteAssessor :ent_IMT .
+:c100.10.800 :temParticipanteAssessor :ent_ACT .
+:c100.10.800 :temParticipanteAssessor :ent_CASES .
+:c100.10.800 :temParticipanteAssessor :ent_CGA .
+:c100.10.800 :temParticipanteAssessor :ent_CITE .
+:c100.10.800 :temParticipanteAssessor :ent_CNPDPCJ .
+:c100.10.800 :temParticipanteAssessor :ent_CPL .
+:c100.10.800 :temParticipanteAssessor :ent_CRL .
+:c100.10.800 :temParticipanteAssessor :ent_DGERT .
+:c100.10.800 :temParticipanteAssessor :ent_DGSS .
+:c100.10.800 :temParticipanteAssessor :ent_GEP .
+:c100.10.800 :temParticipanteAssessor :ent_IEFP .
+:c100.10.800 :temParticipanteAssessor :ent_IGMTSSS .
+:c100.10.800 :temParticipanteAssessor :ent_IGFCSS .
+:c100.10.800 :temParticipanteAssessor :ent_IGFSS .
+:c100.10.800 :temParticipanteAssessor :ent_II .
+:c100.10.800 :temParticipanteAssessor :ent_INR .
+:c100.10.800 :temParticipanteAssessor :ent_ISS .
+:c100.10.800 :temParticipanteAssessor :ent_OIT .
+:c100.10.800 :temParticipanteAssessor :ent_POISE .
+:c100.10.800 :temParticipanteAssessor :ent_SGMTSSS .
+:c100.10.800 :temParticipanteAssessor :ent_ICNF .
+:c100.10.800 :temParticipanteAssessor :ent_IGAMAOT .
+:c100.10.800 :temParticipanteAssessor :ent_DGRM .
+:c100.10.800 :temParticipanteAssessor :ent_DGPM .
+:c100.10.800 :temParticipanteAssessor :ent_GAMA .
+:c100.10.800 :temParticipanteAssessor :ent_DGADR .
+:c100.10.800 :temParticipanteAssessor :ent_DGAV .
+:c100.10.800 :temParticipanteAssessor :ent_INIAV .
+:c100.10.800 :temParticipanteAssessor :ent_IVV .
+:c100.10.800 :temParticipanteAssessor :ent_IVDP .
+:c100.10.800 :temParticipanteAssessor :ent_PDR2020 .
+:c100.10.800 :temParticipanteAssessor :ent_GPP .
+:c100.10.800 :temParticipanteAssessor :tip_DRAP .
+:c100.10.800 :temParticipanteAssessor :ent_IFAP .
+:c100.10.800 :temParticipanteAssessor :ent_CP .
+:c100.10.800 :temParticipanteAssessor :ent_ASAE .
+:c100.10.800 :temParticipanteAssessor :ent_DGAE .
+:c100.10.800 :temParticipanteAssessor :ent_DGC .
+:c100.10.800 :temParticipanteAssessor :ent_GEE .
+:c100.10.800 :temParticipanteAssessor :ent_CV .
+:c100.10.800 :temLegislacao :leg_DL_71_2012 .
+:c100.10.800 :temLegislacao :leg_Portaria_23_2013 .
+:c100.10.800 :temLegislacao :leg_DL_433_82 .
+:c100.10.800 :temRelProc :c100.20.400 .
+:c100.10.800 :eComplementarDe :c100.20.400 .
+:c100.10.800 :temRelProc :c150.10.700 .
+:c100.10.800 :eCruzadoCom :c150.10.700 .
+:c100.10.800 :temRelProc :c150.10.701 .
+:c100.10.800 :eCruzadoCom :c150.10.701 .
+:c100.10.800 :temRelProc :c900.20.201 .
+:c100.10.800 :eAntecessorDe :c900.20.201 .
+:c100.10.800 :temPCA :pca_c100.10.800.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c100.10.800
+:pca_c100.10.800 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c100.10.800 :pcaValor 5.0.
+:pca_c100.10.800 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c100.10.800
+:just_pca_c100.10.800 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c100.10.800 :temJustificacao :just_pca_c100.10.800 .
+:just_pca_c100.10.800_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.Os intervenientes na elaboração da norma podem ser objeto de sanções, caso este apresente incorreções que ponham em causa a sua boa aplicação." .
+:just_pca_c100.10.800 :temCriterio :just_pca_c100.10.800_0. 
+:just_pca_c100.10.800_0 :critTemLegAssoc :leg_DL_433_82 .
+:c100.10.800 :temDF :df_c100.10.800.
+###  http://jcr.di.uminho.pt/m51-clav#df_c100.10.800
+:df_c100.10.800 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c100.10.800 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c100.10.800
+:just_df_c100.10.800 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c100.10.800 :temJustificacao :just_df_c100.10.800 .
+:just_df_c100.10.800_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoComplementaridadeInfo ;
+	:conteudo "É complementar doPN 100.20.400 - Produção de orientações e pareceres para a interpretação da norma técnica.O texto final é publicitado." .
+:just_df_c100.10.800 :temCriterio :just_df_c100.10.800_0. 
+:just_df_c100.10.800_0 :critTemProcRel :c100.20.400 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c100.20
+:c100.20 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N2 ;
+	:codigo '100.20' ;
+	:titulo 'Interpretação da legislação e das normas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c100 ;
+	:descricao 'Compreende os processos de assessoria/consulta jurídico-normativa e técnico-normativa, solicitada ou prestada por serviços próprios ou externos à Administração, quando não integrados em processos específicos de que sejam parte indissociável. Compreende, igualmente, os acórdãos de uniformização de jurisprudência emitidos pelos tribunais.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.20_d4fa816fc132
+:nota_100.20_d4fa816fc132 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pareceres, obrigatórios ou facultativos, que fundamentem a evolução de um qualquer caso/processo devem ser considerados no processo a que respeitam (por exemplo, processos de elaboração de diplomas legais, processos de auditoria, processos judiciais)".
+
+:c100.20 :temNotaExclusao :nota_100.20_d4fa816fc132 .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c100.20.001
+:c100.20.001 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '100.20.001' ;
+	:titulo 'Produção de pareceres técnico-jurídicos de interpretação de diplomas jurídico-normativos' ;
+	:pertenceLC :lc1 ;
+	:temPai :c100.20 ;
+	:descricao 'Elaboração de parecer de interpretação de diplomas jurídico-normativos de forma abstrata e geral, podendo ser válida para a decisão de casos concretos. Inicia com o pedido e termina com a entrega do parecer técnico-jurídico. Inclui trabalhos de consulta de elementos e fundamentação do parecer.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.20.001_0cce8bf29ba4
+:nota_100.20.001_0cce8bf29ba4 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Produção de pareceres emitidos pelas entidades reguladoras para esclarecimento do sentido da lei".
+
+:c100.20.001 :temNotaAplicacao :nota_100.20.001_0cce8bf29ba4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.20.001_51806a96c3a4
+:nota_100.20.001_51806a96c3a4 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Emissão de informações vinculativas".
+
+:c100.20.001 :temNotaAplicacao :nota_100.20.001_51806a96c3a4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.20.001_e3f2eff9beb0
+:nota_100.20.001_e3f2eff9beb0 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pareceres elaborados no âmbito de processos específicos relativos ao apoio à decisão individual e concreta devem ser considerados nos respetivos processos".
+
+:c100.20.001 :temNotaExclusao :nota_100.20.001_e3f2eff9beb0 .
+
+:c100.20.001 :processoTipoVC :vc_processoTipo_pc .
+:c100.20.001 :processoTransversal "S" .
+:c100.20.001 :temDono :tip_AP .
+:c100.20.001 :temDono :ent_INFARMED .
+:c100.20.001 :temDono :ent_CP .
+:c100.20.001 :temDono :tip_CCDR .
+:c100.20.001 :temDono :ent_IMT .
+:c100.20.001 :temDono :tip_AL .
+:c100.20.001 :temDono :ent_ACT .
+:c100.20.001 :temDono :ent_CASES .
+:c100.20.001 :temDono :ent_CGA .
+:c100.20.001 :temDono :ent_CITE .
+:c100.20.001 :temDono :ent_CNPDPCJ .
+:c100.20.001 :temDono :ent_CPL .
+:c100.20.001 :temDono :ent_CRL .
+:c100.20.001 :temDono :ent_DGERT .
+:c100.20.001 :temDono :ent_DGSS .
+:c100.20.001 :temDono :ent_GEP .
+:c100.20.001 :temDono :ent_IEFP .
+:c100.20.001 :temDono :ent_IGMTSSS .
+:c100.20.001 :temDono :ent_IGFCSS .
+:c100.20.001 :temDono :ent_IGFSS .
+:c100.20.001 :temDono :ent_II .
+:c100.20.001 :temDono :ent_INR .
+:c100.20.001 :temDono :ent_ISS .
+:c100.20.001 :temDono :ent_OIT .
+:c100.20.001 :temDono :ent_POISE .
+:c100.20.001 :temDono :ent_SGMTSSS .
+:c100.20.001 :temDono :ent_ICNF .
+:c100.20.001 :temDono :ent_IGAMAOT .
+:c100.20.001 :temDono :ent_DGPM .
+:c100.20.001 :temDono :ent_DGRM .
+:c100.20.001 :temDono :ent_GAMA .
+:c100.20.001 :temDono :ent_DGADR .
+:c100.20.001 :temDono :ent_DGAV .
+:c100.20.001 :temDono :ent_INIAV .
+:c100.20.001 :temDono :ent_IVV .
+:c100.20.001 :temDono :ent_IVDP .
+:c100.20.001 :temDono :ent_PDR2020 .
+:c100.20.001 :temDono :ent_GPP .
+:c100.20.001 :temDono :tip_DRAP .
+:c100.20.001 :temDono :ent_IFAP .
+:c100.20.001 :temDono :ent_ASAE .
+:c100.20.001 :temDono :ent_SGME .
+:c100.20.001 :temDono :ent_ERSE .
+:c100.20.001 :temParticipanteIniciador :tip_AL .
+:c100.20.001 :temParticipanteIniciador :tip_AP .
+:c100.20.001 :temParticipanteIniciador :ent_INFARMED .
+:c100.20.001 :temParticipanteIniciador :ent_CP .
+:c100.20.001 :temParticipanteIniciador :tip_CCDR .
+:c100.20.001 :temParticipanteIniciador :ent_IMT .
+:c100.20.001 :temParticipanteIniciador :ent_ACT .
+:c100.20.001 :temParticipanteIniciador :ent_CASES .
+:c100.20.001 :temParticipanteIniciador :ent_CGA .
+:c100.20.001 :temParticipanteIniciador :ent_CITE .
+:c100.20.001 :temParticipanteIniciador :ent_CNPDPCJ .
+:c100.20.001 :temParticipanteIniciador :ent_CPL .
+:c100.20.001 :temParticipanteIniciador :ent_CRL .
+:c100.20.001 :temParticipanteIniciador :ent_DGERT .
+:c100.20.001 :temParticipanteIniciador :ent_DGSS .
+:c100.20.001 :temParticipanteIniciador :ent_GEP .
+:c100.20.001 :temParticipanteIniciador :ent_IEFP .
+:c100.20.001 :temParticipanteIniciador :ent_IGMTSSS .
+:c100.20.001 :temParticipanteIniciador :ent_IGFCSS .
+:c100.20.001 :temParticipanteIniciador :ent_IGFSS .
+:c100.20.001 :temParticipanteIniciador :ent_II .
+:c100.20.001 :temParticipanteIniciador :ent_INR .
+:c100.20.001 :temParticipanteIniciador :ent_ISS .
+:c100.20.001 :temParticipanteIniciador :ent_OIT .
+:c100.20.001 :temParticipanteIniciador :ent_POISE .
+:c100.20.001 :temParticipanteIniciador :ent_SGMTSSS .
+:c100.20.001 :temParticipanteIniciador :ent_ICNF .
+:c100.20.001 :temParticipanteIniciador :ent_IGAMAOT .
+:c100.20.001 :temParticipanteIniciador :ent_DGPM .
+:c100.20.001 :temParticipanteIniciador :ent_GAMA .
+:c100.20.001 :temParticipanteIniciador :ent_DGADR .
+:c100.20.001 :temParticipanteIniciador :ent_DGAV .
+:c100.20.001 :temParticipanteIniciador :ent_INIAV .
+:c100.20.001 :temParticipanteIniciador :ent_IVV .
+:c100.20.001 :temParticipanteIniciador :ent_IVDP .
+:c100.20.001 :temParticipanteIniciador :ent_PDR2020 .
+:c100.20.001 :temParticipanteIniciador :ent_GPP .
+:c100.20.001 :temParticipanteIniciador :tip_DRAP .
+:c100.20.001 :temParticipanteIniciador :ent_IFAP .
+:c100.20.001 :temParticipanteIniciador :ent_CP .
+:c100.20.001 :temParticipanteIniciador :ent_ASAE .
+:c100.20.001 :temParticipanteIniciador :ent_DGAE .
+:c100.20.001 :temParticipanteIniciador :ent_DGC .
+:c100.20.001 :temParticipanteIniciador :ent_GEE .
+:c100.20.001 :temParticipanteIniciador :ent_SGME .
+:c100.20.001 :temLegislacao :leg_DL_47344_66 .
+:c100.20.001 :temLegislacao :leg_DL_433_99 .
+:c100.20.001 :temLegislacao :leg_DL_398_98 .
+:c100.20.001 :temLegislacao :leg_Lei_30_2017 .
+:c100.20.001 :temLegislacao :leg_Portaria_972_2009 .
+:c100.20.001 :temLegislacao :leg_DL_433_82 .
+:c100.20.001 :temRelProc :c100.10.001 .
+:c100.20.001 :eComplementarDe :c100.10.001 .
+:c100.20.001 :temRelProc :c100.10.200 .
+:c100.20.001 :eComplementarDe :c100.10.200 .
+:c100.20.001 :temRelProc :c100.10.400 .
+:c100.20.001 :eComplementarDe :c100.10.400 .
+:c100.20.001 :temPCA :pca_c100.20.001.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c100.20.001
+:pca_c100.20.001 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c100.20.001 :pcaValor 5.0.
+:pca_c100.20.001 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c100.20.001
+:just_pca_c100.20.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c100.20.001 :temJustificacao :just_pca_c100.20.001 .
+:just_pca_c100.20.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.Os intervenientes na elaboração do parecer podem ser objeto de sanções, caso este apresente incorreções que ponham em causa a boa aplicação da norma." .
+:just_pca_c100.20.001 :temCriterio :just_pca_c100.20.001_0. 
+:just_pca_c100.20.001_0 :critTemLegAssoc :leg_DL_433_82 .
+:c100.20.001 :temDF :df_c100.20.001.
+###  http://jcr.di.uminho.pt/m51-clav#df_c100.20.001
+:df_c100.20.001 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c100.20.001 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c100.20.001
+:just_df_c100.20.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c100.20.001 :temJustificacao :just_df_c100.20.001 .
+:just_df_c100.20.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoComplementaridadeInfo ;
+	:conteudo "É complementar do PN 100.10 que visa esclarecer:PN 100.10.001 - Produção e comunicação de atos legislativos;PN 100.10.200 - Produção e comunicação de atos regulamentares gerais;PN 100.10.400 - Produção e comunicação de atos regulamentares locais;PN 100.10.600 – Produção e comunicação de regras institucionais." .
+:just_df_c100.20.001 :temCriterio :just_df_c100.20.001_0. 
+:just_df_c100.20.001_0 :critTemProcRel :c100.10.001 .
+:just_df_c100.20.001_0 :critTemProcRel :c100.10.200 .
+:just_df_c100.20.001_0 :critTemProcRel :c100.10.400 .
+:just_df_c100.20.001_0 :critTemProcRel :c100.10.600 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c100.20.200
+:c100.20.200 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '100.20.200' ;
+	:titulo 'Produção e comunicação de instruções para aplicação de diplomas jurídico-normativos' ;
+	:pertenceLC :lc1 ;
+	:temPai :c100.20 ;
+	:descricao 'Elaboração e divulgação de instruções gerais, emitidas por entidades de coordenação setorial acerca do sentido como devem ser entendidas determinadas normas ou princípios jurídicos, que a essas entidades cabe interpretar ou integrar. Inicia com a identificação da necessidade de emissão de instruções para aplicação de normas e termina com a comunicação aos órgãos e agentes responsáveis pela aplicação das instruções. Inclui, quando devido, elaboração de diversos esquemas sintetizadores para mais fácil apreensão das regras instituídas e elaboração de orientações práticas para a aplicação da regra.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.20.200_be45bbe52768
+:nota_100.20.200_be45bbe52768 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Circulares interpretativas".
+
+:c100.20.200 :temNotaAplicacao :nota_100.20.200_be45bbe52768 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.20.200_e0c5279fdbb4
+:nota_100.20.200_e0c5279fdbb4 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Instruções administrativas emanadas das entidades competentes".
+
+:c100.20.200 :temNotaAplicacao :nota_100.20.200_e0c5279fdbb4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.20.200_64b40e93ce5e
+:exemplo_100.20.200_64b40e93ce5e rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Pauta de serviço (Pauta Aduaneira)".
+
+:c100.20.200 :temExemploNA :exemplo_100.20.200_64b40e93ce5e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.20.200_8f6e6f8cc0f0
+:nota_100.20.200_8f6e6f8cc0f0 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Devem ser excluídos pareceres efetuados pelos serviços ou solicitados a entidades externas sobre a aplicação genérica da norma jurídica e pedidos de interpretação de casos concretos, os quais devem ser considerados no âmbito dos processos específicos a que dizem respeito".
+
+:c100.20.200 :temNotaExclusao :nota_100.20.200_8f6e6f8cc0f0 .
+
+:c100.20.200 :processoTipoVC :vc_processoTipo_pc .
+:c100.20.200 :processoTransversal "S" .
+:c100.20.200 :temDono :tip_AL .
+:c100.20.200 :temDono :tip_AP .
+:c100.20.200 :temDono :ent_INFARMED .
+:c100.20.200 :temDono :ent_CP .
+:c100.20.200 :temDono :ent_IMT .
+:c100.20.200 :temDono :ent_ACT .
+:c100.20.200 :temDono :ent_CASES .
+:c100.20.200 :temDono :ent_CGA .
+:c100.20.200 :temDono :ent_CITE .
+:c100.20.200 :temDono :ent_CNPDPCJ .
+:c100.20.200 :temDono :ent_CPL .
+:c100.20.200 :temDono :ent_CRL .
+:c100.20.200 :temDono :ent_DGERT .
+:c100.20.200 :temDono :ent_DGSS .
+:c100.20.200 :temDono :ent_GEP .
+:c100.20.200 :temDono :ent_IEFP .
+:c100.20.200 :temDono :ent_IGMTSSS .
+:c100.20.200 :temDono :ent_IGFCSS .
+:c100.20.200 :temDono :ent_IGFSS .
+:c100.20.200 :temDono :ent_II .
+:c100.20.200 :temDono :ent_INR .
+:c100.20.200 :temDono :ent_ISS .
+:c100.20.200 :temDono :ent_OIT .
+:c100.20.200 :temDono :ent_POISE .
+:c100.20.200 :temDono :ent_SGMTSSS .
+:c100.20.200 :temDono :ent_ICNF .
+:c100.20.200 :temDono :ent_IGAMAOT .
+:c100.20.200 :temDono :ent_DGPM .
+:c100.20.200 :temDono :ent_DGRM .
+:c100.20.200 :temDono :ent_GAMA .
+:c100.20.200 :temDono :ent_DGADR .
+:c100.20.200 :temDono :ent_DGAV .
+:c100.20.200 :temDono :ent_INIAV .
+:c100.20.200 :temDono :ent_IVV .
+:c100.20.200 :temDono :ent_IVDP .
+:c100.20.200 :temDono :ent_PDR2020 .
+:c100.20.200 :temDono :ent_GPP .
+:c100.20.200 :temDono :tip_DRAP .
+:c100.20.200 :temDono :ent_IFAP .
+:c100.20.200 :temDono :ent_ASAE .
+:c100.20.200 :temDono :ent_SGME .
+:c100.20.200 :temDono :ent_CV .
+:c100.20.200 :temDono :ent_ERSE .
+:c100.20.200 :temParticipanteAssessor :tip_AL .
+:c100.20.200 :temParticipanteAssessor :ent_CP .
+:c100.20.200 :temParticipanteAssessor :tip_CCDR .
+:c100.20.200 :temParticipanteAssessor :ent_IMT .
+:c100.20.200 :temParticipanteAssessor :ent_ACT .
+:c100.20.200 :temParticipanteAssessor :ent_CASES .
+:c100.20.200 :temParticipanteAssessor :ent_CGA .
+:c100.20.200 :temParticipanteAssessor :ent_CITE .
+:c100.20.200 :temParticipanteAssessor :ent_CNPDPCJ .
+:c100.20.200 :temParticipanteAssessor :ent_CPL .
+:c100.20.200 :temParticipanteAssessor :ent_CRL .
+:c100.20.200 :temParticipanteAssessor :ent_DGERT .
+:c100.20.200 :temParticipanteAssessor :ent_DGSS .
+:c100.20.200 :temParticipanteAssessor :ent_GEP .
+:c100.20.200 :temParticipanteAssessor :ent_IEFP .
+:c100.20.200 :temParticipanteAssessor :ent_IGMTSSS .
+:c100.20.200 :temParticipanteAssessor :ent_IGFCSS .
+:c100.20.200 :temParticipanteAssessor :ent_IGFSS .
+:c100.20.200 :temParticipanteAssessor :ent_II .
+:c100.20.200 :temParticipanteAssessor :ent_INR .
+:c100.20.200 :temParticipanteAssessor :ent_ISS .
+:c100.20.200 :temParticipanteAssessor :ent_OIT .
+:c100.20.200 :temParticipanteAssessor :ent_POISE .
+:c100.20.200 :temParticipanteAssessor :ent_SGMTSSS .
+:c100.20.200 :temParticipanteAssessor :ent_ICNF .
+:c100.20.200 :temParticipanteAssessor :ent_IGAMAOT .
+:c100.20.200 :temParticipanteAssessor :ent_DGPM .
+:c100.20.200 :temParticipanteAssessor :ent_GAMA .
+:c100.20.200 :temParticipanteAssessor :ent_DGADR .
+:c100.20.200 :temParticipanteAssessor :ent_DGAV .
+:c100.20.200 :temParticipanteAssessor :ent_INIAV .
+:c100.20.200 :temParticipanteAssessor :ent_IVV .
+:c100.20.200 :temParticipanteAssessor :ent_IVDP .
+:c100.20.200 :temParticipanteAssessor :ent_PDR2020 .
+:c100.20.200 :temParticipanteAssessor :ent_GPP .
+:c100.20.200 :temParticipanteAssessor :tip_DRAP .
+:c100.20.200 :temParticipanteAssessor :ent_IFAP .
+:c100.20.200 :temParticipanteAssessor :ent_ASAE .
+:c100.20.200 :temParticipanteAssessor :ent_DGAE .
+:c100.20.200 :temParticipanteAssessor :ent_DGC .
+:c100.20.200 :temParticipanteAssessor :ent_GEE .
+:c100.20.200 :temParticipanteAssessor :ent_SGME .
+:c100.20.200 :temParticipanteAssessor :ent_CV .
+:c100.20.200 :temRelProc :c100.10.001 .
+:c100.20.200 :eComplementarDe :c100.10.001 .
+:c100.20.200 :temRelProc :c100.10.200 .
+:c100.20.200 :eComplementarDe :c100.10.200 .
+:c100.20.200 :temRelProc :c100.10.400 .
+:c100.20.200 :eComplementarDe :c100.10.400 .
+:c100.20.200 :temRelProc :c100.10.600 .
+:c100.20.200 :eComplementarDe :c100.10.600 .
+:c100.20.200 :temPCA :pca_c100.20.200.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c100.20.200
+:pca_c100.20.200 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c100.20.200 :pcaValor 5.0.
+:pca_c100.20.200 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c100.20.200
+:just_pca_c100.20.200 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c100.20.200 :temJustificacao :just_pca_c100.20.200 .
+:just_pca_c100.20.200_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.Os intervenientes na elaboração do parecer podem ser objeto de sanções, caso este apresente incorreções que ponham em causa a boa aplicação da norma." .
+:just_pca_c100.20.200 :temCriterio :just_pca_c100.20.200_0. 
+:just_pca_c100.20.200_0 :critTemLegAssoc :leg_DL_433_82 .
+:c100.20.200 :temDF :df_c100.20.200.
+###  http://jcr.di.uminho.pt/m51-clav#df_c100.20.200
+:df_c100.20.200 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c100.20.200 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c100.20.200
+:just_df_c100.20.200 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c100.20.200 :temJustificacao :just_df_c100.20.200 .
+:just_df_c100.20.200_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoComplementaridadeInfo ;
+	:conteudo "É complementar do PN 100.10 que visa esclarecer:PN 100.10.001 - Produção e comunicação de atos legislativos;PN 100.10.200 - Produção e comunicação de atos regulamentares gerais;PN 100.10.400 - Produção e comunicação de atos regulamentares locais;PN 100.10.600 – Produção e comunicação de regras institucionais." .
+:just_df_c100.20.200 :temCriterio :just_df_c100.20.200_0. 
+:just_df_c100.20.200_0 :critTemProcRel :c100.10.001 .
+:just_df_c100.20.200_0 :critTemProcRel :c100.10.200 .
+:just_df_c100.20.200_0 :critTemProcRel :c100.10.400 .
+:just_df_c100.20.200_0 :critTemProcRel :c100.10.600 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c100.20.400
+:c100.20.400 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '100.20.400' ;
+	:titulo 'Produção de orientações e pareceres para a interpretação da norma técnica' ;
+	:pertenceLC :lc1 ;
+	:temPai :c100.20 ;
+	:descricao 'Elaboração e comunicação de orientações para a explicitação dos conteúdos das normas técnicas. Inicia com a necessidade ou vontade de emitir uma interpretação da norma e termina com a entrega da orientação. Inclui consulta de elementos e fundamentação do proposto.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.20.400_9660cb590c4b
+:nota_100.20.400_9660cb590c4b rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Produção de pareceres técnicos de interpretação da norma".
+
+:c100.20.400 :temNotaAplicacao :nota_100.20.400_9660cb590c4b .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.20.400_f9a1f8568544
+:nota_100.20.400_f9a1f8568544 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Prestação de informações sobre instrumentos de regulamentação coletiva de trabalho aplicáveis aos diversos setores e entidades empregadoras".
+
+:c100.20.400 :temNotaAplicacao :nota_100.20.400_f9a1f8568544 .
+
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_100.20.400_a41c4436da68
+:exemplo_100.20.400_a41c4436da68 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Produção de FAQ’s (Frequently Asked Questions)".
+
+:c100.20.400 :temExemploNA :exemplo_100.20.400_a41c4436da68 .
+
+:c100.20.400 :processoTipoVC :vc_processoTipo_pc .
+:c100.20.400 :processoTransversal "S" .
+:c100.20.400 :temDono :tip_AL .
+:c100.20.400 :temDono :tip_AP .
+:c100.20.400 :temDono :ent_INFARMED .
+:c100.20.400 :temDono :ent_CP .
+:c100.20.400 :temDono :tip_CCDR .
+:c100.20.400 :temDono :ent_IMT .
+:c100.20.400 :temDono :ent_ACT .
+:c100.20.400 :temDono :ent_CASES .
+:c100.20.400 :temDono :ent_CGA .
+:c100.20.400 :temDono :ent_CITE .
+:c100.20.400 :temDono :ent_CNPDPCJ .
+:c100.20.400 :temDono :ent_CPL .
+:c100.20.400 :temDono :ent_CRL .
+:c100.20.400 :temDono :ent_DGERT .
+:c100.20.400 :temDono :ent_DGSS .
+:c100.20.400 :temDono :ent_GEP .
+:c100.20.400 :temDono :ent_IEFP .
+:c100.20.400 :temDono :ent_IGMTSSS .
+:c100.20.400 :temDono :ent_IGFCSS .
+:c100.20.400 :temDono :ent_IGFSS .
+:c100.20.400 :temDono :ent_II .
+:c100.20.400 :temDono :ent_INR .
+:c100.20.400 :temDono :ent_ISS .
+:c100.20.400 :temDono :ent_OIT .
+:c100.20.400 :temDono :ent_POISE .
+:c100.20.400 :temDono :ent_SGMTSSS .
+:c100.20.400 :temDono :ent_ICNF .
+:c100.20.400 :temDono :ent_IGAMAOT .
+:c100.20.400 :temDono :ent_DGPM .
+:c100.20.400 :temDono :ent_DGRM .
+:c100.20.400 :temDono :ent_GAMA .
+:c100.20.400 :temDono :ent_DGADR .
+:c100.20.400 :temDono :ent_DGAV .
+:c100.20.400 :temDono :ent_INIAV .
+:c100.20.400 :temDono :ent_IVV .
+:c100.20.400 :temDono :ent_IVDP .
+:c100.20.400 :temDono :ent_PDR2020 .
+:c100.20.400 :temDono :ent_GPP .
+:c100.20.400 :temDono :tip_DRAP .
+:c100.20.400 :temDono :ent_IFAP .
+:c100.20.400 :temDono :ent_ASAE .
+:c100.20.400 :temDono :ent_DGAE .
+:c100.20.400 :temDono :ent_DGC .
+:c100.20.400 :temDono :ent_SGME .
+:c100.20.400 :temDono :ent_CV .
+:c100.20.400 :temParticipanteAssessor :tip_AL .
+:c100.20.400 :temParticipanteAssessor :tip_AP .
+:c100.20.400 :temParticipanteAssessor :ent_INFARMED .
+:c100.20.400 :temParticipanteAssessor :tip_CCDR .
+:c100.20.400 :temParticipanteAssessor :ent_IMT .
+:c100.20.400 :temParticipanteAssessor :ent_ACT .
+:c100.20.400 :temParticipanteAssessor :ent_CASES .
+:c100.20.400 :temParticipanteAssessor :ent_CGA .
+:c100.20.400 :temParticipanteAssessor :ent_CITE .
+:c100.20.400 :temParticipanteAssessor :ent_CNPDPCJ .
+:c100.20.400 :temParticipanteAssessor :ent_CPL .
+:c100.20.400 :temParticipanteAssessor :ent_CRL .
+:c100.20.400 :temParticipanteAssessor :ent_DGERT .
+:c100.20.400 :temParticipanteAssessor :ent_DGSS .
+:c100.20.400 :temParticipanteAssessor :ent_GEP .
+:c100.20.400 :temParticipanteAssessor :ent_IEFP .
+:c100.20.400 :temParticipanteAssessor :ent_IGMTSSS .
+:c100.20.400 :temParticipanteAssessor :ent_IGFCSS .
+:c100.20.400 :temParticipanteAssessor :ent_IGFSS .
+:c100.20.400 :temParticipanteAssessor :ent_II .
+:c100.20.400 :temParticipanteAssessor :ent_INR .
+:c100.20.400 :temParticipanteAssessor :ent_ISS .
+:c100.20.400 :temParticipanteAssessor :ent_OIT .
+:c100.20.400 :temParticipanteAssessor :ent_POISE .
+:c100.20.400 :temParticipanteAssessor :ent_SGMTSSS .
+:c100.20.400 :temParticipanteAssessor :ent_ICNF .
+:c100.20.400 :temParticipanteAssessor :ent_IGAMAOT .
+:c100.20.400 :temParticipanteAssessor :ent_DGPM .
+:c100.20.400 :temParticipanteAssessor :ent_GAMA .
+:c100.20.400 :temParticipanteAssessor :ent_DGADR .
+:c100.20.400 :temParticipanteAssessor :ent_DGAV .
+:c100.20.400 :temParticipanteAssessor :ent_INIAV .
+:c100.20.400 :temParticipanteAssessor :ent_IVV .
+:c100.20.400 :temParticipanteAssessor :ent_IVDP .
+:c100.20.400 :temParticipanteAssessor :ent_PDR2020 .
+:c100.20.400 :temParticipanteAssessor :ent_GPP .
+:c100.20.400 :temParticipanteAssessor :tip_DRAP .
+:c100.20.400 :temParticipanteAssessor :ent_IFAP .
+:c100.20.400 :temParticipanteAssessor :ent_ASAE .
+:c100.20.400 :temParticipanteAssessor :ent_DGAE .
+:c100.20.400 :temParticipanteAssessor :ent_DGC .
+:c100.20.400 :temParticipanteAssessor :ent_GEE .
+:c100.20.400 :temParticipanteAssessor :ent_CV .
+:c100.20.400 :temLegislacao :leg_Lei_7_2009 .
+:c100.20.400 :temLegislacao :leg_DL_433_82 .
+:c100.20.400 :temRelProc :c100.10.800 .
+:c100.20.400 :eComplementarDe :c100.10.800 .
+:c100.20.400 :temPCA :pca_c100.20.400.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c100.20.400
+:pca_c100.20.400 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c100.20.400 :pcaValor 5.0.
+:pca_c100.20.400 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c100.20.400
+:just_pca_c100.20.400 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c100.20.400 :temJustificacao :just_pca_c100.20.400 .
+:just_pca_c100.20.400_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.Os intervenientes na elaboração do parecer podem ser objeto de sanções, caso este apresente incorreções que ponham em causa a boa aplicação da norma." .
+:just_pca_c100.20.400 :temCriterio :just_pca_c100.20.400_0. 
+:just_pca_c100.20.400_0 :critTemLegAssoc :leg_DL_433_82 .
+:c100.20.400 :temDF :df_c100.20.400.
+###  http://jcr.di.uminho.pt/m51-clav#df_c100.20.400
+:df_c100.20.400 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c100.20.400 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c100.20.400
+:just_df_c100.20.400 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c100.20.400 :temJustificacao :just_df_c100.20.400 .
+:just_df_c100.20.400_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoComplementaridadeInfo ;
+	:conteudo "É complementar doPN 100.10.800 - Produção e comunicação de normas técnicas." .
+:just_df_c100.20.400 :temCriterio :just_df_c100.20.400_0. 
+:just_df_c100.20.400_0 :critTemProcRel :c100.10.800 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c100.20.600
+:c100.20.600 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '100.20.600' ;
+	:titulo 'Produção e comunicação de decisões de uniformização de jurisprudência' ;
+	:pertenceLC :lc1 ;
+	:temPai :c100.20 ;
+	:descricao 'Produção e comunicação de orientação jurisprudencial uniformizada, sem força vinculativa. Inicia com o pedido para decisão quando relativamente à mesma questão de direito sejam proferidas soluções opostas e termina com a publicação da decisão. Inclui conferência para admissibilidade do pedido, alegações, julgamento e proferição do acórdão.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_100.20.600_789109a034ca
+:nota_100.20.600_789109a034ca rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Acórdãos de uniformização de jurisprudência".
+
+:c100.20.600 :temNotaAplicacao :nota_100.20.600_789109a034ca .
+
+:c100.20.600 :processoTipoVC :vc_processoTipo_pc .
+:c100.20.600 :processoTransversal "S" .
+:c100.20.600 :temDono :ent_STA .
+:c100.20.600 :temDono :ent_STJ .
+:c100.20.600 :temParticipanteIniciador :tip_Trb .
+:c100.20.600 :temParticipanteComunicador :tip_AL .
+:c100.20.600 :temParticipanteComunicador :tip_AP .
+:c100.20.600 :temParticipanteComunicador :tip_CCDR .
+:c100.20.600 :temParticipanteComunicador :ent_ACT .
+:c100.20.600 :temParticipanteComunicador :ent_CASES .
+:c100.20.600 :temParticipanteComunicador :ent_CGA .
+:c100.20.600 :temParticipanteComunicador :ent_CITE .
+:c100.20.600 :temParticipanteComunicador :ent_CNPDPCJ .
+:c100.20.600 :temParticipanteComunicador :ent_CPL .
+:c100.20.600 :temParticipanteComunicador :ent_CRL .
+:c100.20.600 :temParticipanteComunicador :ent_DGERT .
+:c100.20.600 :temParticipanteComunicador :ent_DGSS .
+:c100.20.600 :temParticipanteComunicador :ent_GEP .
+:c100.20.600 :temParticipanteComunicador :ent_IEFP .
+:c100.20.600 :temParticipanteComunicador :ent_IGMTSSS .
+:c100.20.600 :temParticipanteComunicador :ent_IGFCSS .
+:c100.20.600 :temParticipanteComunicador :ent_IGFSS .
+:c100.20.600 :temParticipanteComunicador :ent_II .
+:c100.20.600 :temParticipanteComunicador :ent_INR .
+:c100.20.600 :temParticipanteComunicador :ent_ISS .
+:c100.20.600 :temParticipanteComunicador :ent_OIT .
+:c100.20.600 :temParticipanteComunicador :ent_POISE .
+:c100.20.600 :temParticipanteComunicador :ent_SGMTSSS .
+:c100.20.600 :temParticipanteComunicador :ent_ICNF .
+:c100.20.600 :temParticipanteComunicador :ent_IGAMAOT .
+:c100.20.600 :temParticipanteComunicador :ent_DGPM .
+:c100.20.600 :temParticipanteComunicador :ent_DGRM .
+:c100.20.600 :temParticipanteComunicador :ent_GAMA .
+:c100.20.600 :temParticipanteComunicador :ent_DGADR .
+:c100.20.600 :temParticipanteComunicador :ent_DGAV .
+:c100.20.600 :temParticipanteComunicador :ent_INIAV .
+:c100.20.600 :temParticipanteComunicador :ent_IVV .
+:c100.20.600 :temParticipanteComunicador :ent_IVDP .
+:c100.20.600 :temParticipanteComunicador :ent_GPP .
+:c100.20.600 :temParticipanteComunicador :tip_DRAP .
+:c100.20.600 :temLegislacao :leg_DL_78_87 .
+:c100.20.600 :temLegislacao :leg_Lei_41_2013 .
+:c100.20.600 :temLegislacao :leg_Lei_21_85 .
+:c100.20.600 :temPCA :pca_c100.20.600.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c100.20.600
+:pca_c100.20.600 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c100.20.600 :pcaValor 4.0.
+:pca_c100.20.600 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c100.20.600
+:just_pca_c100.20.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c100.20.600 :temJustificacao :just_pca_c100.20.600 .
+:just_pca_c100.20.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 21/85], Estatuto dos Magistrados Judiciais, art.º 36º, nº 1;[Deliberação CSM 55/2003], Regulamento das Inspeções Judiciais, art.º 5º, [Deliberação CSM 1777/2016]." .
+:just_pca_c100.20.600 :temCriterio :just_pca_c100.20.600_0. 
+:just_pca_c100.20.600_0 :critTemLegAssoc :leg_Lei_21_85 .
+:just_pca_c100.20.600_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Periodicidade das inspeções." .
+:just_pca_c100.20.600 :temCriterio :just_pca_c100.20.600_1. 
+:c100.20.600 :temDF :df_c100.20.600.
+###  http://jcr.di.uminho.pt/m51-clav#df_c100.20.600
+:df_c100.20.600 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c100.20.600 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c100.20.600
+:just_df_c100.20.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c100.20.600 :temJustificacao :just_df_c100.20.600 .
+:just_df_c100.20.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Não é recuperável noutro PN." .
+:just_df_c100.20.600 :temCriterio :just_df_c100.20.600_0. 

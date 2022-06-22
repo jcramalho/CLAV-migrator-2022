@@ -81,16 +81,78 @@ def procDecisoes(classe, myReg, ListaErros, entCatalog, tipCatalog, legCatalog):
             myReg['pca']['formaContagem'] = "Desconhecida"
             ListaErros.append('Erro::' + myReg['codigo'] + '::Forma de contagem do PCA desconhecida::' + formaContagem)
     # Justificação do PCA -----
-    if 'pca' in myReg.keys() and classe["Justificação PCA"]:
+    if 'pca' in myReg and classe["Justificação PCA"]:
         just = brancos.sub('', classe["Justificação PCA"])
         just = sepExtra.sub('', just)
-        myReg['pca']['justificacao'] = just.split('#')
+        criterios = just.split('#')
+        myReg['pca']['justificacao'] = []
+        for index,crit in enumerate(criterios):
+            jcodigo = "just_pca_c" + myReg['codigo'] + "_" + str(index)
+            myCrit = {'critCodigo': jcodigo}
+            # --- Critério Legal ------------------------------------------
+            if res := re.search(r'(?:Critério legal:\s*)(.+)', crit, re.I):
+                myCrit['tipo'] = 'legal'
+                conteudo = res.group(1)
+                myCrit['conteudo'] = re.sub(r'\"', '\\\"', conteudo)
+                myCrit['legRefs'] = []
+                legRefs = re.finditer(r'(?:\[)([a-zA-Z0-9\-\/ ]+)(?:\])', myCrit['conteudo'])
+                for ref in legRefs:
+                    myCrit['legRefs'].append(re.sub(r'[/ \u202F\u00A0()\-]+', '_', ref.group(1)))
+                for ref in myCrit['legRefs']:
+                    # ERRO: Legislação referenciado no critério não existe no catálogo
+                    if ref not in legCatalog:
+                        ListaErros.append('Erro::' + jcodigo + '::Legislação inexistente no catálogo legislativo::' + ref)
+                    else:
+                        if 'legislacao' in myReg and ref not in myReg['legislacao']:
+                            # ListaErros.append('Aviso::' + jcodigo + '::Legislação usado no critério não está incluída no contexto, será incluída::' + ref)
+                            myReg['legislacao'].append(ref)
+            # --- Critério Gestionário ------------------------------------
+            if res := re.search(r'(?:Critério gestionário:\s*)(.+)', crit, re.I):
+                myCrit['tipo'] = 'gestionário'
+                conteudo = res.group(1)
+                myCrit['conteudo'] = re.sub(r'\"', '\\\"', conteudo)
+                # Referências a legislação no texto do critério -----------
+                legRefs = re.finditer(r'(?:\[)([a-zA-Z0-9\-\/ ]+)(?:\])', myCrit['conteudo'])
+                if len(list(legRefs)) > 0:
+                    myCrit['legRefs'] = []
+                    for ref in legRefs:
+                        myCrit['legRefs'].append(re.sub(r'[/ \u202F\u00A0()\-]+', '_', ref.group(1)))
+                # Referências a processos no texto do critério -----------
+                procRefs = re.finditer(r'\d{3}\.\d{2,3}\.\d{3}', myCrit['conteudo'])
+                myRefs = []
+                for ref in procRefs:
+                    myRefs.append(ref.group())
+                if len(myRefs) > 0:
+                    myCrit['procRefs'] = myRefs
+                    # ERRO: Todos os processos referenciados têm de estar na zona de contexto
+                    for ref in myRefs:
+                        if 'processosRelacionados' in myReg and ref not in myReg['processosRelacionados']:
+                            ListaErros.append('ERRO::' + jcodigo + '::Processo usado no critério não está incluído no contexto::' + ref)
+            # --- Critério de Utilidade Administrativa ------------------------------------
+            if res := re.search(r'(?:Critério de utilidade administrativa:\s*)(.+)', crit, re.I):
+                myCrit['tipo'] = 'utilidade'
+                conteudo = res.group(1)
+                myCrit['conteudo'] = re.sub(r'\"', '\\\"', conteudo)
+                # Referências a legislação no texto do critério -----------
+                legRefs = re.finditer(r'(?:\[)([a-zA-Z0-9\-\/ ]+)(?:\])', myCrit['conteudo'])
+                if len(list(legRefs)) > 0:
+                    myCrit['legRefs'] = []
+                    for ref in legRefs:
+                        myCrit['legRefs'].append(re.sub(r'[/ \u202F\u00A0()\-]+', '_', ref.group(1)))
+                # Referências a processos no texto do critério -----------
+                procRefs = re.finditer(r'\d{3}\.\d{2,3}\.\d{3}', myCrit['conteudo'])
+                myRefs = []
+                for ref in procRefs:
+                    myRefs.append(ref.group())
+                if len(myRefs) > 0:
+                    myCrit['procRefs'] = myRefs
+                    # ERRO: Todos os processos referenciados têm de estar na zona de contexto (classes N3)
+                    for ref in myRefs:
+                        if 'processosRelacionados' in myReg and ref not in myReg['processosRelacionados']:
+                            ListaErros.append('ERRO::' + jcodigo + '::Processo usado no critério não está incluído no contexto::' + ref)
 
-    if classe["Dimensão qualitativa do processo"]:
-        myReg["dimensao"] = classe["Dimensão qualitativa do processo"]
-    if classe["Uniformização do processo"]:
-        myReg["uniformizacao"] = classe["Uniformização do processo"]
-            
+            myReg['pca']['justificacao'].append(myCrit)
+      
     # DF ------------------------------------------------------
     if classe["Destino final"]:
         myReg['df'] = {}
@@ -102,16 +164,100 @@ def procDecisoes(classe, myReg, ListaErros, entCatalog, tipCatalog, legCatalog):
             if myReg["estado"]!='H':
                 ListaErros.append('Erro::' + myReg['codigo'] + '::Valor inválido para o DF::' + df)
     # Nota ao DF ------------------------------------------------------
-    if "Nota ao DF" in classe.keys() and classe["Nota ao DF"]:
+    if "Nota ao DF" in classe and classe["Nota ao DF"]:
         myReg['df']['nota'] = brancos.sub('', classe["Nota ao DF"])
     # ERRO: um dos dois, DF ou Nota ao DF, tem de ter um valor válido
     if myReg["estado"]!='H' and classe["Destino final"] and (myReg['df']['valor'] == "NE") and not myReg['df']['nota']:
         ListaErros.append('Erro::' + myReg['codigo'] + '::DF e Nota ao DF não podem ser simultaneamente inválidos')
     # Justificação do DF ----------------------------------------------
-    if classe["Destino final"] and classe["Justificação DF"]:
+    if 'df' in myReg and classe["Justificação DF"]:
         just = brancos.sub('', classe["Justificação DF"])
         just = sepExtra.sub('', just)
-        myReg['df']['justificacao'] = just.split('#')
+        criterios = just.split('#')
+        myReg['df']['justificacao'] = []
+        for index,crit in enumerate(criterios):
+            jcodigo = "just_df_c" + myReg['codigo'] + "_" + str(index)
+            myCrit = {'critCodigo': jcodigo}
+            # --- Critério Legal ------------------------------------------
+            if res := re.search(r'(?:Critério legal:\s*)(.+)', crit, re.I):
+                myCrit['tipo'] = 'legal'
+                conteudo = res.group(1)
+                myCrit['conteudo'] = re.sub(r'\"', '\\\"', conteudo)
+                myCrit['legRefs'] = []
+                legRefs = re.finditer(r'(?:\[)([a-zA-Z0-9\-\/ ]+)(?:\])', myCrit['conteudo'])
+                for ref in legRefs:
+                    myCrit['legRefs'].append(re.sub(r'[/ \u202F\u00A0()\-]+', '_', ref.group(1)))
+                for ref in myCrit['legRefs']:
+                    # ERRO: Legislação referenciado no critério não existe no catálogo
+                    if ref not in legCatalog:
+                        ListaErros.append('Erro::' + jcodigo + '::Legislação inexistente no catálogo legislativo::' + ref)
+                    else:
+                        if 'legislacao' in myReg and ref not in myReg['legislacao']:
+                            # ListaErros.append('Aviso::' + jcodigo + '::Legislação usado no critério não está incluída no contexto, será incluída::' + ref)
+                            myReg['legislacao'].append(ref)
+            # --- Critério de Densidade Informacional ------------------------------------------
+            if res := re.search(r'(?:Critério de densidade informacional:\s*)(.+)', crit, re.I):
+                myCrit['tipo'] = 'densidade'
+                conteudo = res.group(1)
+                myCrit['conteudo'] = re.sub(r'\"', '\\\"', conteudo)
+                # Referências a legislação no texto do critério -----------
+                legRefs = re.finditer(r'(?:\[)([a-zA-Z0-9\-\/ ]+)(?:\])', myCrit['conteudo'])
+                if len(list(legRefs)) > 0:
+                    myCrit['legRefs'] = []
+                    for ref in legRefs:
+                        myCrit['legRefs'].append(re.sub(r'[/ \u202F\u00A0()\-]+', '_', ref.group(1)))
+                    for ref in myCrit['legRefs']:
+                        # ERRO: Legislação referenciado no critério não existe no catálogo
+                        if ref not in legCatalog:
+                            ListaErros.append('Erro::' + jcodigo + '::Legislação inexistente no catálogo legislativo::' + ref)
+                        else:
+                            if 'legislacao' in myReg and ref not in myReg['legislacao']:
+                                # ListaErros.append('Aviso::' + jcodigo + '::Legislação usado no critério não está incluída no contexto, será incluída::' + ref)
+                                myReg['legislacao'].append(ref)
+                # Referências a processos no texto do critério -----------
+                procRefs = re.finditer(r'\d{3}\.\d{2,3}\.\d{3}', myCrit['conteudo'])
+                myRefs = []
+                for ref in procRefs:
+                    myRefs.append(ref.group())
+                if len(myRefs) > 0:
+                    myCrit['procRefs'] = myRefs
+                    # ERRO: Todos os processos referenciados têm de estar na zona de contexto
+                    for ref in myRefs:
+                        if 'processosRelacionados' in myReg and ref not in myReg['processosRelacionados']:
+                            ListaErros.append('ERRO::' + jcodigo + '::Processo usado no critério não está incluído no contexto::' + ref)
+            # --- Critério de Complementaridade Informacional ------------------------------------------
+            if res := re.search(r'(?:Critério de complementaridade informacional:\s*)(.+)', crit, re.I):
+                myCrit['tipo'] = 'complementaridade'
+                conteudo = res.group(1)
+                myCrit['conteudo'] = re.sub(r'\"', '\\\"', conteudo)
+                # Referências a legislação no texto do critério -----------
+                legRefs = re.finditer(r'(?:\[)([a-zA-Z0-9\-\/ ]+)(?:\])', myCrit['conteudo'])
+                if len(list(legRefs)) > 0:
+                    myCrit['legRefs'] = []
+                    for ref in legRefs:
+                        myCrit['legRefs'].append(re.sub(r'[/ \u202F\u00A0()\-]+', '_', ref.group(1)))
+                    for ref in myCrit['legRefs']:
+                        # ERRO: Legislação referenciado no critério não existe no catálogo
+                        if ref not in legCatalog:
+                            ListaErros.append('Erro::' + jcodigo + '::Legislação inexistente no catálogo legislativo::' + ref)
+                        else:
+                            if 'legislacao' in myReg and ref not in myReg['legislacao']:
+                                # ListaErros.append('Aviso::' + jcodigo + '::Legislação usado no critério não está incluída no contexto, será incluída::' + ref)
+                                myReg['legislacao'].append(ref)
+                # Referências a processos no texto do critério -----------
+                procRefs = re.finditer(r'\d{3}\.\d{2,3}\.\d{3}', myCrit['conteudo'])
+                myRefs = []
+                for ref in procRefs:
+                    myRefs.append(ref.group())
+                if len(myRefs) > 0:
+                    myCrit['procRefs'] = myRefs
+                    # ERRO: Todos os processos referenciados têm de estar na zona de contexto
+                    for ref in myRefs:
+                        if 'processosRelacionados' in myReg and ref not in myReg['processosRelacionados']:
+                            ListaErros.append('ERRO::' + jcodigo + '::Processo usado no critério não está incluído no contexto::' + ref)
+
+            myReg['df']['justificacao'].append(myCrit)
             
     if classe["Notas"]:
         myReg["Notas"] = classe["Notas"]
+        

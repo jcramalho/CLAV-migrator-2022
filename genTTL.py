@@ -1,8 +1,135 @@
 import json
+import re
+from nanoid import generate
+from datetime import date
 
+agora = date.today()
+# YY-mm-dd
+dataAtualizacao = agora.strftime("%Y-%m-%d")
+# Vou colocar o triplo nos termos de índice
+
+# --- Migra os termos de índice ------------------------
+# ------------------------------------------------------
+def tiGenTTL():
+    fin = open('./files/ti.json')
+    fout = open('./ontologia/ti.ttl', 'w')
+    termos = json.load(fin)
+
+    ttl = ""
+    for ti in termos:
+        ticod = "ti_" + ti['codigo'] + '_' + generate('abcdef', 6)
+        ttl += "###  http://jcr.di.uminho.pt/m51-clav#" + ticod + '\n'
+        ttl += ":" + ticod + " rdf:type owl:NamedIndividual ,\n"
+        ttl += "\t:TermoIndice ;\n"
+        ttl += "\trdfs:label \"TI: " + ti['termo'] + "\";\n"
+        ttl += "\t:estaAssocClasse :" + ti['codigo'] + ";\n"
+        ttl += "\t:estado \"Ativo\";\n"
+        ttl += "\t:termo " + "\"" + ti['termo'] + "\"" + ".\n"
+
+        ttl += "\n# -------------- Data de atualização da ontologia ----------\n"
+        ttl += "<http://jcr.di.uminho.pt/m51-clav> dc:date \"" + dataAtualizacao + "\" .\n"
+
+    fout.write(ttl)
+    fin.close()
+    fout.close()
+
+# --- Migra a legislação -------------------------------
+# ------------------------------------------------------
+def legGenTTL():
+    fin = open('./files/leg.json')
+    fout = open('./ontologia/leg.ttl', 'w')
+    leg = json.load(fin)
+
+    ttl = ""
+    for l in leg:
+        ttl += "###  http://jcr.di.uminho.pt/m51-clav#" + l['codigo'] + '\n'
+        ttl += ":leg_" + l['codigo'] + " rdf:type owl:NamedIndividual ,\n"
+        ttl += "\t:Legislacao ;\n"
+        ttl += "\t:rdfs:label \"Leg.: " + l['codigo'] + "\";\n"
+        ttl += "\t:diplomaTipo " + "\"" + l['tipo'] + "\";\n"
+        ttl += "\t:diplomaNumero " + "\"" + l['numero'] + "\";\n"
+        ttl += "\t:diplomaData " + "\"" + l['data'] + "\";\n"
+        ttl += "\t:diplomaSumario " + "\"" + l['sumario'] + "\";\n"
+        ttl += "\t:diplomaEstado " + "\"" + l['estado'] + "\";\n"
+        
+        if 'fonte' in l:
+            ttl += "\t:diplomaFonte " + "\"" + l['fonte'] + "\";\n"
+
+        if 'entidade' in l:
+            for e in l['entidade']:
+                ttl += "\t:temEntidadeResponsavel " + ":ent_" + e + ";\n"
+
+        ttl += "\t:diplomaLink " + "\"" + l['link'] + "\".\n"
+
+    fout.write(ttl)
+    fin.close()
+    fout.close()
+
+# --- Migra as tipologias ------------------------------
+# ------------------------------------------------------
+def tipologiaGenTTL():
+    fin = open('./files/tip.json')
+    fout = open('./ontologia/tip.ttl', 'w')
+    tipologias = json.load(fin)
+
+    ttl = ""
+    for t in tipologias:
+        ttl += "###  http://jcr.di.uminho.pt/m51-clav#tip_" + t['sigla'] + '\n'
+        ttl += ":tip_" + t['sigla'] + " rdf:type owl:NamedIndividual ,\n"
+        ttl += "\t\t:TipologiaEntidade ;\n"
+        ttl += "\t:tipEstado \"Ativa\";\n"
+        ttl += "\t:tipSigla " + "\"" + t['sigla'] + "\";\n"
+        ttl += "\t:tipDesignacao " + "\"" + t['designacao'] + "\".\n"
+
+    fout.write(ttl)
+    fin.close()
+    fout.close()
+
+# --- Migra as entidades -------------------------------
+# ------------------------------------------------------
+def entidadeGenTTL():
+    fin = open('./files/ent.json')
+    fout = open('./ontologia/ent.ttl', 'w')
+    entidades = json.load(fin)
+
+    ttl = ""
+    for e in entidades:
+        ttl += "###  http://jcr.di.uminho.pt/m51-clav#ent_" + e['sigla'] + '\n'
+        ttl += ":ent_" + e['sigla'] + " rdf:type owl:NamedIndividual ,\n"
+        ttl += "\t\t:Entidade ;\n"
+
+        ttl += "\t:entSigla " + "\"" + e['sigla'] + "\";\n"
+        ttl += "\t:entDesignacao " + "\"" + e['designacao'] + "\";\n"
+
+        if 'estado' in e:
+            ttl += "\t:entEstado " + "\"Inativa\";\n"
+        else:
+            ttl += "\t:entEstado " + "\"Ativa\";\n"
+            
+        if 'sioe' in e:
+            ttl += "\t:entSIOE " + "\"" + e['sioe'] + "\";\n"
+        
+        if 'dataCriacao' in e:
+            ttl += "\t:entDataCriacao " + "\"" + e['dataCriacao'] + "\";\n"
+            
+        if 'dataExtincao' in e:
+            ttl += "\t:entDataExtincao " + "\"" + e['dataExtincao'] + "\";\n"
+        
+        ttl += "\t:entInternacional " + "\"" + e['internacional'] + "\".\n"    
+        
+        if 'tipologias' in e:
+            for tip in e['tipologias']:
+                ttl += ":ent_" + e['sigla'] + " :pertenceTipologiaEnt " + ":tip_" + tip + " .\n"
+
+    fout.write(ttl)
+    fin.close()
+    fout.close()
+
+# --- Migra uma classe ---------------------------------
+# ------------------------------------------------------
 def classeGenTTL(c):
     fin = open('./files/' + c + '.json')
-    fout = open(c + '.ttl', 'w')
+    fout = open('./ontologia/' + c + '.ttl', 'w')
     classes = json.load(fin)
 
     # Carregam-se os catálogos 
@@ -70,7 +197,8 @@ def classeGenTTL(c):
                 ttl += ":" + n['idNota'] + " rdf:type owl:NamedIndividual ,\n"
                 ttl += "\t\t:NotaExclusao ;\n"
                 ttl += "\t:rdfs:label \"Nota de Exclusão\";\n"
-                ttl += "\t:conteudo " + "\"" + n['nota'] + "\".\n\n"
+                nota = re.sub(r'\"', '\"', n['nota'])
+                ttl += "\t:conteudo " + "\"" + nota + "\".\n\n"
                 # criar as relações com das notas de aplicação com a classe
                 ttl += ":c" + classe['codigo'] + " :temNotaExclusao " + ":" + n['idNota'] + " .\n\n"
         # ------------------------------------------------
@@ -109,32 +237,123 @@ def classeGenTTL(c):
         if 'legislacao' in classe.keys():
             for l in classe['legislacao']:
                 if l in legCatalog:
-                    ttl += ":c" + classe['codigo'] + " :temLegislacao" + " :" + l + " .\n"
+                    ttl += ":c" + classe['codigo'] + " :temLegislacao" + " :leg_" + l + " .\n"
         # ------------------------------------------------------------
         # Processos Relacionados -------------------------------------
-        if 'processosRelacionados' in classe.keys():
+        if 'processosRelacionados' in classe:
             for index, p in enumerate(classe['processosRelacionados']):
                 ttl += ":c" + classe['codigo'] + " :temRelProc" + " :c" + p + " .\n"
-                ttl += ":c" + classe['codigo'] + " :" + classe['proRel'][index] + " :c" + p + " .\n"
+                if 'proRel' in classe:
+                    ttl += ":c" + classe['codigo'] + " :" + classe['proRel'][index] + " :c" + p + " .\n"
         # ------------------------------------------------------------
         # PCA --------------------------------------------------------
-        if 'pca' in classe.keys():
+        if 'pca' in classe:
+            ttl += ":c" + classe['codigo'] + " :temPCA :pca_c" + classe['codigo'] + ".\n"
             ttl += "###  http://jcr.di.uminho.pt/m51-clav#pca_c" + classe['codigo'] + "\n"
-            ttl += ":" + classe['codigo'] + " rdf:type owl:NamedIndividual ,\n"
-            ttl += "\t:PCA ;\n"
+            ttl += ":pca_c" + classe['codigo'] + " rdf:type owl:NamedIndividual ,\n"
+            ttl += "\t:PCA .\n"
             if type(classe['pca']['valores']) != list:
-                ttl += "\t:pcaValor " + str(classe['pca']['valores']) + ";\n"
+                if str(classe['pca']['valores']) == 'NE':
+                    ttl += ":pca_c" + classe['codigo'] + " :pcaValor \"NE\" .\n"
+                else:
+                    ttl += ":pca_c" + classe['codigo'] + " :pcaValor " + str(classe['pca']['valores']) + ".\n"
             else:
                 for v in classe['pca']['valores']:
-                    ttl += "\t:pcaValor " + str(v) + ";\n"
-    
+                    ttl += ":pca_c" + classe['codigo'] + " :pcaValor " + str(v) + ".\n"
+        # ------------------------------------------------------------
+        # Nota ao PCA ------------------------------------------------
+            if 'notas' in classe['pca']:
+                ttl += ":pca_c" + classe['codigo'] + " :pcaNota " + "\"" + classe['pca']['notas'] + "\".\n"
+        # ------------------------------------------------------------
+        # Forma de Contagem do PCA -----------------------------------
+            if 'formaContagem' in classe['pca']:
+                ttl += ":pca_c" + classe['codigo'] + " :pcaFormaContagemNormalizada :vc_pcaFormaContagem_" + classe['pca']['formaContagem'] + " .\n"
+            if 'subFormaContagem' in classe['pca']:
+                ttl += ":pca_c" + classe['codigo'] + " :pcaSubformaContagem :vc_pcaSubformaContagem_" + classe['pca']['subFormaContagem'] + " .\n"
+        # ------------------------------------------------------------
+        # Justificação do PCA ----------------------------------------
+            if 'justificacao' in classe['pca']:
+                ttl += "###  http://jcr.di.uminho.pt/m51-clav#just_pca_c" + classe['codigo'] + "\n"
+                ttl += ":just_pca_c" + classe['codigo'] + " rdf:type owl:NamedIndividual ,\n"
+                ttl += "\t\t:JustificacaoPCA .\n"
+                ttl += ":pca_c"  + classe['codigo'] + " :temJustificacao :just_pca_c" + classe['codigo'] + " .\n"
+                for crit in classe['pca']['justificacao']:
+                    ttl += ":" + crit['critCodigo'] + " rdf:type owl:NamedIndividual ,\n"
 
+                    if crit['tipo'] == 'legal':
+                        ttl += "\t\t:CriterioJustificacaoLegal ;\n"
+                    elif crit['tipo'] == 'utilidade':
+                        ttl += "\t\t:CriterioJustificacaoUtilidadeAdministrativa ;\n"
+                    elif crit['tipo'] == 'gestionário':
+                        ttl += "\t\t:CriterioJustificacaoGestionario ;\n"
+
+                    ttl += "\t:conteudo \"" + crit['conteudo'] + "\" .\n"
+                    ttl += ":just_pca_c" + classe['codigo'] + " :temCriterio :" + crit['critCodigo'] + ". \n"
+
+                    if 'legRefs' in crit:
+                        for ref in crit['legRefs']:
+                            ttl += ":" + crit['critCodigo'] + " :critTemLegAssoc :leg_" + ref + " .\n"
+
+                    if 'procRefs' in crit:
+                        for ref in crit['procRefs']:
+                            ttl += ":" + crit['critCodigo'] + " :critTemProcRel :c" + ref + " .\n"
+
+        # ------------------------------------------------------------
+        # DF ---------------------------------------------------------
+        if 'df' in classe:
+            ttl += ":c" + classe['codigo'] + " :temDF :df_c" + classe['codigo'] + ".\n"
+            ttl += "###  http://jcr.di.uminho.pt/m51-clav#df_c" + classe['codigo'] + "\n"
+            ttl += ":df_c" + classe['codigo'] + " rdf:type owl:NamedIndividual ,\n"
+            ttl += "\t\t:DestinoFinal .\n"
+
+            ttl += ":df_c" + classe['codigo'] + " :dfValor \"" + classe['df']['valor'] + "\" .\n"
+
+            if 'nota' in classe['df']:
+                ttl += ":df_c" + classe['codigo'] + " :dfNota \"" + classe['df']['nota'] + "\" .\n"
+
+        # ------------------------------------------------------------
+        # Justificação do DF -----------------------------------------
+            if 'justificacao' in classe['df']:
+                ttl += "###  http://jcr.di.uminho.pt/m51-clav#just_df_c" + classe['codigo'] + "\n"
+                ttl += ":just_df_c" + classe['codigo'] + " rdf:type owl:NamedIndividual ,\n"
+                ttl += "\t\t:JustificacaoDF .\n"
+                ttl += ":df_c"  + classe['codigo'] + " :temJustificacao :just_df_c" + classe['codigo'] + " .\n"
+                for crit in classe['df']['justificacao']:
+                    ttl += ":" + crit['critCodigo'] + " rdf:type owl:NamedIndividual ,\n"
+
+                    if crit['tipo'] == 'legal':
+                        ttl += "\t\t:CriterioJustificacaoLegal ;\n"
+                    elif crit['tipo'] == 'densidade':
+                        ttl += "\t\t:CriterioJustificacaoDensidadeInfo ;\n"
+                    elif crit['tipo'] == 'complementaridade':
+                        ttl += "\t\t:CriterioJustificacaoComplementaridadeInfo ;\n"
+
+                    ttl += "\t:conteudo \"" + crit['conteudo'] + "\" .\n"
+                    ttl += ":just_df_c" + classe['codigo'] + " :temCriterio :" + crit['critCodigo'] + ". \n"
+
+                    if 'legRefs' in crit:
+                        for ref in crit['legRefs']:
+                            ttl += ":" + crit['critCodigo'] + " :critTemLegAssoc :leg_" + ref + " .\n"
+
+                    if 'procRefs' in crit:
+                        for ref in crit['procRefs']:
+                            ttl += ":" + crit['critCodigo'] + " :critTemProcRel :c" + ref + " .\n"
+    
 
         fout.write(ttl)
     
     fin.close()
     fout.close()
 
-classeGenTTL('400')
+tiGenTTL()
+entidadeGenTTL()
+tipologiaGenTTL()
+legGenTTL()
+
+classes = ['100','150','200','250','300','350','400','450','500','550','600',
+            '650','700','710','750','800','850','900','950']
+for c in classes:
+    print('Classe: ', c)
+    classeGenTTL(c)
 
     

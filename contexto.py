@@ -7,6 +7,10 @@ def procContexto(classe, myReg, ListaErros, entCatalog, tipCatalog, legCatalog):
     # --------------------------------------------------
     intervCatalog = ['Apreciar','Assessorar','Comunicar','Decidir','Executar','Iniciar']
     # --------------------------------------------------
+    if classe["Dimensão qualitativa do processo"]:
+        myReg["dimensao"] = classe["Dimensão qualitativa do processo"]
+    if classe["Uniformização do processo"]:
+        myReg["uniformizacao"] = classe["Uniformização do processo"]
     # Tipo de processo -----
     if classe["Tipo de processo"]:
         myReg['tipoProc'] = brancos.sub('', str(classe["Tipo de processo"]))
@@ -23,7 +27,13 @@ def procContexto(classe, myReg, ListaErros, entCatalog, tipCatalog, legCatalog):
     if classe["Dono do processo"]:
         donos = brancos.sub('', classe["Dono do processo"])
         donos = sepExtra.sub('', donos)
-        myReg['donos'] = donos.split('#')
+        listaDonos = donos.split('#')
+        ldonos = []
+        for d in listaDonos:
+            limpo = brancos.sub('', d)
+            novo = re.sub(r'[ \u202F\u00A0]+', '_', limpo)
+            ldonos.append(novo)
+        myReg['donos'] = ldonos
         # ERRO: Verificação da existência dos donos no catálogo de entidades e/ou tipologias
         for d in myReg['donos']:
             if (d not in entCatalog) and (d not in tipCatalog):
@@ -38,7 +48,8 @@ def procContexto(classe, myReg, ListaErros, entCatalog, tipCatalog, legCatalog):
         lparticipantes = participantes.split('#')
         myReg['participantes'] = []
         for p in lparticipantes:
-            myReg['participantes'].append({'id': brancos.sub('', p)})
+            limpa = brancos.sub('', p)
+            myReg['participantes'].append({'id': re.sub(r'[ \u202F\u00A0]+', '_', limpa)})
         # ERRO: Verificação da existência dos participantes no catálogo de entidades e/ou tipologias
         for part in myReg['participantes']:
             if (part['id'] not in entCatalog) and (part['id'] not in tipCatalog):
@@ -75,8 +86,9 @@ def procContexto(classe, myReg, ListaErros, entCatalog, tipCatalog, legCatalog):
         # Limpeza e normalização dos ids da legislação
         for l in myReg['legislacao']:
             limpa = re.sub(r'([ \u202F\u00A0]+)|([ \u202F\u00A0]*,[ \u202F\u00A0]*)', '_', brancos.sub('', l))
+            limpa = re.sub(r'\/|\(|\)|\-', '_', limpa)
             nova.append(limpa)
-            myReg['legislacao'] = nova
+        myReg['legislacao'] = nova
         # ERRO: Verificação da existência da legislação no catálogo legislativo
         for l in myReg['legislacao']:
             if l not in legCatalog:
@@ -85,7 +97,12 @@ def procContexto(classe, myReg, ListaErros, entCatalog, tipCatalog, legCatalog):
     if classe["Código do processo relacionado"]:
         proc = brancos.sub('', classe["Código do processo relacionado"])
         proc = sepExtra.sub('', proc)
-        myReg['processosRelacionados'] = proc.split('#')
+        processos = proc.split('#')
+        limpos = []
+        for proc in processos:
+            limpo = brancos.sub('', proc)
+            limpos.append(limpo)
+        myReg['processosRelacionados'] = limpos
     # Tipo de relação entre processos -----
     if classe["Tipo de relação entre processos"]:
         procRel = brancos.sub('', classe["Tipo de relação entre processos"])

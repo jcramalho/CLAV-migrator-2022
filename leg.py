@@ -31,11 +31,12 @@ def processSheet(sheet, nome):
         myReg = {}
         if row["Tipo"] and str(row["Tipo"]) != 'NaT':
             # Tipo: ------------------------------------------------------
-            myReg["tipo"] = brancos.sub('', str(row["Tipo"]))
+            limpa = brancos.sub('', str(row["Tipo"]))
+            myReg["tipo"] = re.sub(r'[/ \u202F\u00A0()\-]+', '_', limpa)
             # Número: ----------------------------------------------------
             if row["Número"]:
                 myReg["numero"] = brancos.sub('', str(row["Número"]))
-                myReg["numero"] = re.sub(r'[ \u202F\u00A0]+', '_', myReg["numero"])
+                myReg["numero"] = re.sub(r'[/ \u202F\u00A0()\-]+', '_', myReg["numero"])
             # Entidades:--------------------------------------------------
             filtradas = []
             if row["Entidade"]:
@@ -44,7 +45,9 @@ def processSheet(sheet, nome):
                 if len(filtradas)> 0:
                     myReg["entidade"] = []
                     for e in filtradas:
-                        myReg["entidade"].append(brancos.sub('', e))
+                        limpa = brancos.sub('', e)
+                        limpa = re.sub(r'[/ \u202F\u00A0()]+', '_', limpa)
+                        myReg["entidade"].append(limpa)
             if len(filtradas)> 0:
             # Cálculo do id/código da legislação: tipo + entidades + numero -------------------------
                 legCod = re.sub(r'[ ]+', '_', myReg["tipo"]) + '_' + '_'.join(myReg["entidade"]) + '_' + myReg["numero"]
@@ -62,15 +65,16 @@ def processSheet(sheet, nome):
                 ListaErros.append('Erro::' + legCod + '::Legislação duplicada.')
             # Estado: ----------------------------------------------------
             if row['Estado'] and str(row['Estado']).strip() != "":
-                myReg["estado"] = 'R'
+                myReg["estado"] = 'Revogado'
             else:
-                myReg["estado"] = 'A'
+                myReg["estado"] = 'Ativo'
             # Data:-------------------------------------------------------
             if row["Data"] and (not pd.isnull(row["Data"])):
                 myReg["data"] = row["Data"].isoformat()[:10]
             # Sumário:----------------------------------------------------
             if row["Sumário"]:
-                myReg["sumario"] = brancos.sub('', str(row["Sumário"]))
+                mySum = brancos.sub('', str(row["Sumário"]))
+                myReg["sumario"] = re.sub(r'\"', '\\\"', mySum)
             # Fonte:------------------------------------------------------
             if row["Fonte"]:
                 myReg["fonte"] = brancos.sub('', str(row["Fonte"])).strip()

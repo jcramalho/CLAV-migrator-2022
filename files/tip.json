@@ -1,0 +1,274 @@
+[
+    {
+        "sigla": "AAC",
+        "designacao": "Autoridades Administrativas Civis"
+    },
+    {
+        "sigla": "AADR",
+        "designacao": "Assembleias de apuramento distrital de resultados"
+    },
+    {
+        "sigla": "AAGR",
+        "designacao": "Assembleias de apuramento geral dos resultados"
+    },
+    {
+        "sigla": "ACE",
+        "designacao": "Administração Central do Estado"
+    },
+    {
+        "sigla": "ACES",
+        "designacao": "Agrupamentos de Centros de Saúde"
+    },
+    {
+        "sigla": "AF",
+        "designacao": "Assembleias de Freguesia"
+    },
+    {
+        "sigla": "AL",
+        "designacao": "Autarquias Locais"
+    },
+    {
+        "sigla": "AM",
+        "designacao": "Assembleias Municipais"
+    },
+    {
+        "sigla": "AP",
+        "designacao": "Administração Pública"
+    },
+    {
+        "sigla": "ARS",
+        "designacao": "Administrações Regionais de Saúde"
+    },
+    {
+        "sigla": "AS",
+        "designacao": "Autoridades de Saúde"
+    },
+    {
+        "sigla": "ASF",
+        "designacao": "Autoridades de supervisão e fiscalização"
+    },
+    {
+        "sigla": "AV",
+        "designacao": "Assembleias de voto"
+    },
+    {
+        "sigla": "CA",
+        "designacao": "Centros de Arbitragem"
+    },
+    {
+        "sigla": "CCDR",
+        "designacao": "Comissões de Coordenação do Desenvolvimento Regional"
+    },
+    {
+        "sigla": "CH",
+        "designacao": "Comissões de Heráldica"
+    },
+    {
+        "sigla": "CN",
+        "designacao": "Cartórios Notariais"
+    },
+    {
+        "sigla": "Cns",
+        "designacao": "Consulados"
+    },
+    {
+        "sigla": "CPCJ",
+        "designacao": "Comissões de Proteção de Crianças e Jovens"
+    },
+    {
+        "sigla": "CT",
+        "designacao": "Comissões Técnicas de Normalização"
+    },
+    {
+        "sigla": "DRAP",
+        "designacao": "Direções Regionais de Agricultura e Pescas"
+    },
+    {
+        "sigla": "EAARPNC",
+        "designacao": "Entidades com autonomia administrativa e receitas próprias não consignadas"
+    },
+    {
+        "sigla": "EAI",
+        "designacao": "Entidades administrativas independentes"
+    },
+    {
+        "sigla": "ECM",
+        "designacao": "Entidades com competência de monitorização"
+    },
+    {
+        "sigla": "ECP",
+        "designacao": "Entidades com capacidade pericial"
+    },
+    {
+        "sigla": "ECS",
+        "designacao": "Entidades com competência sancionatória"
+    },
+    {
+        "sigla": "ECV",
+        "designacao": "Entidades com competência de visita"
+    },
+    {
+        "sigla": "EDA",
+        "designacao": "Entidades detentoras de animais"
+    },
+    {
+        "sigla": "EGAG",
+        "designacao": "Entidades gestoras de água"
+    },
+    {
+        "sigla": "EGAP",
+        "designacao": "Entidades gestoras de apoios"
+    },
+    {
+        "sigla": "Emb",
+        "designacao": "Embaixadas"
+    },
+    {
+        "sigla": "ER",
+        "designacao": "Entidades reguladoras"
+    },
+    {
+        "sigla": "ESPS",
+        "designacao": "Entidades do sistema de proteção na saúde"
+    },
+    {
+        "sigla": "EstE",
+        "designacao": "Estabelecimentos escolares"
+    },
+    {
+        "sigla": "FA",
+        "designacao": "Forças Armadas"
+    },
+    {
+        "sigla": "FA-M",
+        "designacao": "Forças Armadas – Marinha"
+    },
+    {
+        "sigla": "FA-E",
+        "designacao": "Forças Armadas – Exército"
+    },
+    {
+        "sigla": "FA-FA",
+        "designacao": "Forças Armadas – Força Aérea"
+    },
+    {
+        "sigla": "FSS",
+        "designacao": "Forças e serviços de segurança"
+    },
+    {
+        "sigla": "Fnd",
+        "designacao": "Fundações"
+    },
+    {
+        "sigla": "Gov",
+        "designacao": "Governo"
+    },
+    {
+        "sigla": "HH",
+        "designacao": "Hospitais"
+    },
+    {
+        "sigla": "IP",
+        "designacao": "Institutos Públicos"
+    },
+    {
+        "sigla": "IES",
+        "designacao": "Instituições do Ensino Superior"
+    },
+    {
+        "sigla": "IPSS",
+        "designacao": "Instituições Particulares de Solidariedade Social"
+    },
+    {
+        "sigla": "JP",
+        "designacao": "Julgados de Paz"
+    },
+    {
+        "sigla": "ONS",
+        "designacao": "Organizações de normalização setorial"
+    },
+    {
+        "sigla": "OP",
+        "designacao": "Ordens profissionais"
+    },
+    {
+        "sigla": "OPC",
+        "designacao": "Órgãos de polícia criminal"
+    },
+    {
+        "sigla": "OSJ",
+        "designacao": "Órgãos do sistema judiciário"
+    },
+    {
+        "sigla": "PMun",
+        "designacao": "Polícias Municipais"
+    },
+    {
+        "sigla": "SEN",
+        "designacao": "Sistema Estatístico Nacional"
+    },
+    {
+        "sigla": "SG",
+        "designacao": "Secretarias Gerais"
+    },
+    {
+        "sigla": "SMT",
+        "designacao": "Serviços de Medicina do Trabalho"
+    },
+    {
+        "sigla": "SPE",
+        "designacao": "Setor Público Empresarial"
+    },
+    {
+        "sigla": "TComarca",
+        "designacao": "Tribunais de Comarca"
+    },
+    {
+        "sigla": "TEP",
+        "designacao": "Tribunais de Execução de Penas"
+    },
+    {
+        "sigla": "TFM",
+        "designacao": "Tribunais de Família e Menores"
+    },
+    {
+        "sigla": "TIC",
+        "designacao": "Tribunais de Instrução Criminal"
+    },
+    {
+        "sigla": "TR",
+        "designacao": "Tribunais da Relação"
+    },
+    {
+        "sigla": "Trb",
+        "designacao": "Tribunais"
+    },
+    {
+        "sigla": "UI",
+        "designacao": "Unidades de Investigação"
+    },
+    {
+        "sigla": "UL",
+        "designacao": "Unidades Laboratoriais"
+    },
+    {
+        "sigla": "UPCS",
+        "designacao": "Unidades Prestadoras de Cuidados de Saúde"
+    },
+    {
+        "sigla": "DRE",
+        "designacao": "Direções Regionais de Educação"
+    },
+    {
+        "sigla": "GC",
+        "designacao": "Governos Civis"
+    },
+    {
+        "sigla": "TJ",
+        "designacao": "Tribunais Judiciais"
+    },
+    {
+        "sigla": "TAF",
+        "designacao": "Tribunais Administrativos e Fiscais"
+    }
+]

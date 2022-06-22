@@ -1,0 +1,6301 @@
+[
+    {
+        "sigla": "ACSS",
+        "sioe": "149110000",
+        "designacao": "Administração Central do Sistema de Saúde, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ARS-LVT",
+        "sioe": "146000000",
+        "designacao": "Administração Regional de Saúde de Lisboa e Vale do Tejo, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ARS-Aln",
+        "sioe": "147000000",
+        "designacao": "Administração Regional de Saúde do Alentejo, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ARS-Alg",
+        "sioe": "148000000",
+        "designacao": "Administração Regional de Saúde do Algarve, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ARS-C",
+        "sioe": "145000000",
+        "designacao": "Administração Regional de Saúde do Centro, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ARS-N",
+        "sioe": "144000000",
+        "designacao": "Administração Regional de Saúde do Norte, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "A3ES",
+        "designacao": "Agência de Avaliação e Acreditação do Ensino Superior",
+        "tipologias": [
+            "Fnd"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IGCP",
+        "sioe": "53300000",
+        "designacao": "Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, EPE",
+        "tipologias": [
+            "SPE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ECHA",
+        "designacao": "Agência Europeia dos Produtos Químicos",
+        "internacional": "Sim"
+    },
+    {
+        "sigla": "ANCP",
+        "estado": "Inativo",
+        "designacao": "Agência Nacional de Compras Públicas, EPE",
+        "tipologias": [
+            "SPE"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2007-02-19",
+        "dataExtincao": "2012-06-14"
+    },
+    {
+        "sigla": "ANQEP",
+        "sioe": "90540000",
+        "designacao": "Agência Nacional para a Qualificação e o Ensino Profissional, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IAPMEI",
+        "sioe": "70080000",
+        "designacao": "Agência para a Competitividade e Inovação, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "AGIF",
+        "sioe": "875793280",
+        "designacao": "Agência para a Gestão Integrada de Fogos Rurais, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2018-02-16"
+    },
+    {
+        "sigla": "AMA",
+        "sioe": "13250000",
+        "designacao": "Agência para a Modernização Administrativa, I.P.",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ADC",
+        "sioe": "875791975",
+        "designacao": "Agência para o Desenvolvimento e Coesão, I.P.",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "AICEP",
+        "sioe": "70090000",
+        "designacao": "Agência para o Investimento e Comércio Externo de Portugal, EPE",
+        "tipologias": [
+            "SPE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "APA",
+        "sioe": "83420000",
+        "designacao": "Agência Portuguesa do Ambiente, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "AC",
+        "sioe": "875790676",
+        "designacao": "Águas de Coimbra, EM",
+        "tipologias": [
+            "SPE",
+            "EGAG"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ACM",
+        "sioe": "875791993",
+        "designacao": "Alto Comissariado para as Migrações, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ANA",
+        "designacao": "ANA - Aeroportos de Portugal, SA",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "AR",
+        "sioe": "875780306",
+        "designacao": "Assembleia da República",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ALRAM",
+        "sioe": "770000054",
+        "designacao": "Assembleia Legislativa da Região Autónoma da Madeira",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ALRAA",
+        "sioe": "875780307",
+        "designacao": "Assembleia Legislativa da Região Autónoma dos Açores",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DNS.PT",
+        "designacao": "Associação DNS.PT",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ANMP",
+        "sioe": "770000136",
+        "designacao": "Associação Nacional de Municípios Portugueses",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ANTRAL",
+        "designacao": "Associação Nacional dos Transportes Rodoviários em Automóveis Ligeiros",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "APAV",
+        "designacao": "Associação Portuguesa de Apoio à Vítima",
+        "tipologias": [
+            "IPSS"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "APEL",
+        "designacao": "Associação Portuguesa de Editores e Livreiros",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "AAN",
+        "sioe": "875780390",
+        "designacao": "Autoridade Aeronáutica Nacional",
+        "tipologias": [
+            "FA",
+            "ASF"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "AdC",
+        "sioe": "70010000",
+        "designacao": "Autoridade da Concorrência",
+        "tipologias": [
+            "EAI"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "AMT",
+        "sioe": "875792925",
+        "designacao": "Autoridade da Mobilidade e dos Transportes",
+        "tipologias": [
+            "ER",
+            "ASF"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "PDR2020",
+        "sioe": "875792060",
+        "designacao": "Autoridade de Gestão do Programa de Desenvolvimento Rural 2020",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "POAT_2020",
+        "sioe": "875792876",
+        "designacao": "Autoridade de Gestão do Programa Operacional de Assistência Técnica",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2014-12-11"
+    },
+    {
+        "sigla": "POISE",
+        "sioe": "875792878",
+        "designacao": "Autoridade de Gestão do Programa Operacional Inclusão Social e Emprego",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2014-12-11"
+    },
+    {
+        "sigla": "POMar2020",
+        "sioe": "875792879",
+        "designacao": "Autoridade de Gestão do Programa Operacional Mar 2020",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2014-12-11"
+    },
+    {
+        "sigla": "Lisboa2020",
+        "sioe": "875792096",
+        "designacao": "Autoridade de Gestão do Programa Operacional Regional de Lisboa",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2014-12-11"
+    },
+    {
+        "sigla": "Alentejo2020",
+        "sioe": "875792869",
+        "designacao": "Autoridade de Gestão do Programa Operacional Regional do Alentejo",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2014-12-11"
+    },
+    {
+        "sigla": "Algarve2020",
+        "sioe": "875792872",
+        "designacao": "Autoridade de Gestão do Programa Operacional Regional do Algarve",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2014-12-11"
+    },
+    {
+        "sigla": "Centro2020",
+        "sioe": "875792874",
+        "designacao": "Autoridade de Gestão do Programa Operacional Regional do Centro",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2014-12-11"
+    },
+    {
+        "sigla": "Norte2020",
+        "sioe": "875792870",
+        "designacao": "Autoridade de Gestão do Programa Operacional Regional do Norte",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2014-12-11"
+    },
+    {
+        "sigla": "POCH",
+        "sioe": "875792868",
+        "designacao": "Autoridade de Gestão do Programa Operacional Temático Capital Humano",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2014-12-11"
+    },
+    {
+        "sigla": "POCI",
+        "sioe": "875792100",
+        "designacao": "Autoridade de Gestão do Programa Operacional Temático Competitividade e Internacionalização",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2014-12-11"
+    },
+    {
+        "sigla": "PO_SEUR",
+        "sioe": "875792877",
+        "designacao": "Autoridade de Gestão do Programa Operacional Temático Sustentabilidade e Eficiência no Uso de Recursos",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2014-12-11"
+    },
+    {
+        "sigla": "ASAE",
+        "sioe": "74500000",
+        "designacao": "Autoridade de Segurança Alimentar e Económica",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "ASF",
+            "OPC"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ASF",
+        "sioe": "53200000",
+        "designacao": "Autoridade de Supervisão de Seguros e Fundos de Pensões",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "AMN",
+        "sioe": "875780389",
+        "designacao": "Autoridade Marítima Nacional",
+        "tipologias": [
+            "ASF"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ANAC",
+        "sioe": "111300000",
+        "designacao": "Autoridade Nacional da Aviação Civil",
+        "tipologias": [
+            "ER",
+            "EAI",
+            "ASF"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ANACOM",
+        "sioe": "70070000",
+        "designacao": "Autoridade Nacional de Comunicações",
+        "tipologias": [
+            "ER",
+            "ASF"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ANEPC",
+        "sioe": "21300000",
+        "designacao": "Autoridade Nacional de Emergência e Proteção Civil",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "ASF"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2019-04-02"
+    },
+    {
+        "sigla": "ANPC",
+        "estado": "Inativo",
+        "sioe": "21300000",
+        "designacao": "Autoridade Nacional de Proteção Civil",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "ASF"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2006-10-27",
+        "dataExtincao": "2019-04-02"
+    },
+    {
+        "sigla": "ANS",
+        "designacao": "Autoridade Nacional de Segurança",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "ASF"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ANSR",
+        "sioe": "20100000",
+        "designacao": "Autoridade Nacional de Segurança Rodoviária",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "ASF"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "INFARMED",
+        "sioe": "142200000",
+        "designacao": "Autoridade Nacional do Medicamento e Produtos de Saúde, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP",
+            "ASF"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ACT",
+        "sioe": "92380000",
+        "designacao": "Autoridade para as Condições de Trabalho",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "ASF"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "AT",
+        "sioe": "875780312",
+        "designacao": "Autoridade Tributária e Aduaneira",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "ASF",
+            "OPC"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "BNA",
+        "sioe": "875790906",
+        "designacao": "Balcão Nacional de Arrendamento",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "BNI",
+        "sioe": "875780001",
+        "designacao": "Balcão Nacional de Injunções",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "BdP",
+        "sioe": "50200000",
+        "designacao": "Banco de Portugal",
+        "tipologias": [
+            "ER",
+            "ASF",
+            "SEN"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "BNP",
+        "sioe": "60160000",
+        "designacao": "Biblioteca Nacional de Portugal",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CAFEB",
+        "estado": "Inativo",
+        "designacao": "Caixa de Abono de Família dos Empregados Bancários",
+        "internacional": "Não",
+        "dataCriacao": "1970-06-04",
+        "dataExtincao": "2011-01-03"
+    },
+    {
+        "sigla": "CGA",
+        "sioe": "51800000",
+        "designacao": "Caixa Geral de Aposentações, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "OSAE",
+        "designacao": "Ordem dos Solicitadores e dos Agentes de Execução",
+        "tipologias": [
+            "OP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAMD",
+        "sioe": "600000025",
+        "designacao": "Câmara Municipal da Amadora",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAND",
+        "sioe": "600000028",
+        "designacao": "Câmara Municipal da Anadia",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAZB",
+        "sioe": "600000040",
+        "designacao": "Câmara Municipal da Azambuja",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMBTL",
+        "sioe": "600000045",
+        "designacao": "Câmara Municipal da Batalha",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCHT",
+        "sioe": "600000058",
+        "designacao": "Câmara Municipal da Calheta (Açores)",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCLT",
+        "sioe": "600000057",
+        "designacao": "Câmara Municipal da Calheta (Madeira)",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCHM",
+        "sioe": "600000076",
+        "designacao": "Câmara Municipal da Chamusca",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCVL",
+        "sioe": "600000084",
+        "designacao": "Câmara Municipal da Covilhã",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMFIG",
+        "sioe": "600000099",
+        "designacao": "Câmara Municipal da Figueira da Foz",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMGLG",
+        "sioe": "600000109",
+        "designacao": "Câmara Municipal da Golegã",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMGRD",
+        "sioe": "600000113",
+        "designacao": "Câmara Municipal da Guarda",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMHRT",
+        "sioe": "600000115",
+        "designacao": "Câmara Municipal da Horta",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMLNH",
+        "sioe": "600000137",
+        "designacao": "Câmara Municipal da Lourinhã",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMLSA",
+        "sioe": "600000138",
+        "designacao": "Câmara Municipal da Lousã",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMAD",
+        "sioe": "600000143",
+        "designacao": "Câmara Municipal da Madalena",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMAI",
+        "sioe": "600000145",
+        "designacao": "Câmara Municipal da Maia",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMGR",
+        "sioe": "600000149",
+        "designacao": "Câmara Municipal da Marinha Grande",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMLD",
+        "sioe": "600000152",
+        "designacao": "Câmara Municipal da Mealhada",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMTA",
+        "sioe": "600000163",
+        "designacao": "Câmara Municipal da Moita",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMRS",
+        "sioe": "600000177",
+        "designacao": "Câmara Municipal da Murtosa",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMNZR",
+        "sioe": "600000178",
+        "designacao": "Câmara Municipal da Nazaré",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPPS",
+        "sioe": "600000197",
+        "designacao": "Câmara Municipal da Pampilhosa da Serra",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMRBR",
+        "sioe": "600000224",
+        "designacao": "Câmara Municipal da Ribeira Brava",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSRT",
+        "sioe": "600000253",
+        "designacao": "Câmara Municipal da Sertã",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMABT",
+        "sioe": "600000001",
+        "designacao": "Câmara Municipal de Abrantes",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAGD",
+        "sioe": "600000002",
+        "designacao": "Câmara Municipal de Águeda",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAGB",
+        "sioe": "600000003",
+        "designacao": "Câmara Municipal de Aguiar da Beira",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMADL",
+        "sioe": "600000004",
+        "designacao": "Câmara Municipal de Alandroal",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMALB",
+        "sioe": "600000005",
+        "designacao": "Câmara Municipal de Albergaria-A-Velha",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMABF",
+        "sioe": "600000006",
+        "designacao": "Câmara Municipal de Albufeira",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMASL",
+        "sioe": "600000007",
+        "designacao": "Câmara Municipal de Alcácer do Sal",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMACN",
+        "sioe": "600000008",
+        "designacao": "Câmara Municipal de Alcanena",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMACB",
+        "sioe": "600000009",
+        "designacao": "Câmara Municipal de Alcobaça",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMACH",
+        "sioe": "600000010",
+        "designacao": "Câmara Municipal de Alcochete",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMACT",
+        "sioe": "600000011",
+        "designacao": "Câmara Municipal de Alcoutim",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMALQ",
+        "sioe": "600000012",
+        "designacao": "Câmara Municipal de Alenquer",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAFE",
+        "sioe": "600000013",
+        "designacao": "Câmara Municipal de Alfândega da Fé",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMALJ",
+        "sioe": "600000014",
+        "designacao": "Câmara Municipal de Alijó",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAJZ",
+        "sioe": "600000015",
+        "designacao": "Câmara Municipal de Aljezur",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAJT",
+        "sioe": "600000016",
+        "designacao": "Câmara Municipal de Aljustrel",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMALM",
+        "sioe": "600000017",
+        "designacao": "Câmara Municipal de Almada",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMALD",
+        "sioe": "600000018",
+        "designacao": "Câmara Municipal de Almeida",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMALR",
+        "sioe": "600000019",
+        "designacao": "Câmara Municipal de Almeirim",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMADV",
+        "sioe": "600000020",
+        "designacao": "Câmara Municipal de Almodôvar",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAPC",
+        "sioe": "600000021",
+        "designacao": "Câmara Municipal de Alpiarça",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMALT",
+        "sioe": "600000022",
+        "designacao": "Câmara Municipal de Alter do Chão",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAVZ",
+        "sioe": "600000023",
+        "designacao": "Câmara Municipal de Alvaiázere",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAVT",
+        "sioe": "600000024",
+        "designacao": "Câmara Municipal de Alvito",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAMT",
+        "sioe": "600000026",
+        "designacao": "Câmara Municipal de Amarante",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAMR",
+        "sioe": "600000027",
+        "designacao": "Câmara Municipal de Amares",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAGH",
+        "sioe": "600000029",
+        "designacao": "Câmara Municipal de Angra do Heroísmo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMANS",
+        "sioe": "600000030",
+        "designacao": "Câmara Municipal de Ansião",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAVV",
+        "sioe": "600000031",
+        "designacao": "Câmara Municipal de Arcos de Valdevez",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAGN",
+        "sioe": "600000032",
+        "designacao": "Câmara Municipal de Arganil",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAMM",
+        "sioe": "600000033",
+        "designacao": "Câmara Municipal de Armamar",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMARC",
+        "sioe": "600000034",
+        "designacao": "Câmara Municipal de Arouca",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMARL",
+        "sioe": "600000035",
+        "designacao": "Câmara Municipal de Arraiolos",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMARR",
+        "sioe": "600000036",
+        "designacao": "Câmara Municipal de Arronches",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMARV",
+        "sioe": "600000037",
+        "designacao": "Câmara Municipal de Arruda dos Vinhos",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAVR",
+        "sioe": "600000038",
+        "designacao": "Câmara Municipal de Aveiro",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMAVS",
+        "sioe": "600000039",
+        "designacao": "Câmara Municipal de Avis",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMBAO",
+        "sioe": "600000041",
+        "designacao": "Câmara Municipal de Baião",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMBCL",
+        "sioe": "600000042",
+        "designacao": "Câmara Municipal de Barcelos",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMBRC",
+        "sioe": "600000043",
+        "designacao": "Câmara Municipal de Barrancos",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMBJA",
+        "sioe": "600000046",
+        "designacao": "Câmara Municipal de Beja",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMBMT",
+        "sioe": "600000047",
+        "designacao": "Câmara Municipal de Belmonte",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMBNV",
+        "sioe": "600000048",
+        "designacao": "Câmara Municipal de Benavente",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMBRB",
+        "sioe": "600000050",
+        "designacao": "Câmara Municipal de Borba",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMBTC",
+        "sioe": "600000051",
+        "designacao": "Câmara Municipal de Boticas",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMBRG",
+        "sioe": "600000052",
+        "designacao": "Câmara Municipal de Braga",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMBGC",
+        "sioe": "600000053",
+        "designacao": "Câmara Municipal de Bragança",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCBC",
+        "sioe": "600000054",
+        "designacao": "Câmara Municipal de Cabeceiras de Basto",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCDV",
+        "sioe": "600000055",
+        "designacao": "Câmara Municipal de Cadaval",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCLD",
+        "sioe": "600000056",
+        "designacao": "Câmara Municipal de Caldas da Rainha",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCML",
+        "sioe": "600000059",
+        "designacao": "Câmara Municipal de Câmara de Lobos",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCMN",
+        "sioe": "600000060",
+        "designacao": "Câmara Municipal de Caminha",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCMR",
+        "sioe": "600000061",
+        "designacao": "Câmara Municipal de Campo Maior",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCNT",
+        "sioe": "600000062",
+        "designacao": "Câmara Municipal de Cantanhede",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCRZ",
+        "sioe": "600000063",
+        "designacao": "Câmara Municipal de Carrazeda de Ansiães",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCRS",
+        "sioe": "600000064",
+        "designacao": "Câmara Municipal de Carregal do Sal",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCSC",
+        "sioe": "600000066",
+        "designacao": "Câmara Municipal de Cascais",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCPR",
+        "sioe": "600000067",
+        "designacao": "Câmara Municipal de Castanheira de Pera",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCTB",
+        "sioe": "600000068",
+        "designacao": "Câmara Municipal de Castelo Branco",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCPV",
+        "sioe": "600000069",
+        "designacao": "Câmara Municipal de Castelo de Paiva",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCVD",
+        "sioe": "600000070",
+        "designacao": "Câmara Municipal de Castelo de Vide",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCDR",
+        "sioe": "600000071",
+        "designacao": "Câmara Municipal de Castro Daire",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCTM",
+        "sioe": "600000072",
+        "designacao": "Câmara Municipal de Castro Marim",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCVR",
+        "sioe": "600000073",
+        "designacao": "Câmara Municipal de Castro Verde",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCLB",
+        "sioe": "600000074",
+        "designacao": "Câmara Municipal de Celorico da Beira",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCBT",
+        "sioe": "600000075",
+        "designacao": "Câmara Municipal de Celorico de Basto",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCHV",
+        "sioe": "600000077",
+        "designacao": "Câmara Municipal de Chaves",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCNF",
+        "sioe": "600000078",
+        "designacao": "Câmara Municipal de Cinfães",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCBR",
+        "sioe": "600000079",
+        "designacao": "Câmara Municipal de Coimbra",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCDN",
+        "sioe": "600000080",
+        "designacao": "Câmara Municipal de Condeixa-a-Nova",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCNS",
+        "sioe": "600000081",
+        "designacao": "Câmara Municipal de Constância",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCCH",
+        "sioe": "600000082",
+        "designacao": "Câmara Municipal de Coruche",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCBA",
+        "sioe": "600000086",
+        "designacao": "Câmara Municipal de Cuba",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMELV",
+        "sioe": "600000087",
+        "designacao": "Câmara Municipal de Elvas",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMESP",
+        "sioe": "600000089",
+        "designacao": "Câmara Municipal de Espinho",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMEPS",
+        "sioe": "600000090",
+        "designacao": "Câmara Municipal de Esposende",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMETR",
+        "sioe": "600000091",
+        "designacao": "Câmara Municipal de Estarreja",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMETZ",
+        "sioe": "600000092",
+        "designacao": "Câmara Municipal de Estremoz",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMEVR",
+        "sioe": "600000093",
+        "designacao": "Câmara Municipal de Évora",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMFAF",
+        "sioe": "600000094",
+        "designacao": "Câmara Municipal de Fafe",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMFAR",
+        "sioe": "600000095",
+        "designacao": "Câmara Municipal de Faro",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMFLG",
+        "sioe": "600000096",
+        "designacao": "Câmara Municipal de Felgueiras",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMFAL",
+        "sioe": "600000097",
+        "designacao": "Câmara Municipal de Ferreira do Alentejo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMFZZ",
+        "sioe": "600000098",
+        "designacao": "Câmara Municipal de Ferreira do Zêzere",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMFCR",
+        "sioe": "600000100",
+        "designacao": "Câmara Municipal de Figueira de Castelo Rodrigo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMFVN",
+        "sioe": "600000101",
+        "designacao": "Câmara Municipal de Figueiró dos Vinhos",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMFAG",
+        "sioe": "600000102",
+        "designacao": "Câmara Municipal de Fornos de Algodres",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMFEC",
+        "sioe": "600000103",
+        "designacao": "Câmara Municipal de Freixo de Espada à Cinta",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMFTR",
+        "sioe": "600000104",
+        "designacao": "Câmara Municipal de Fronteira",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMGAV",
+        "sioe": "600000107",
+        "designacao": "Câmara Municipal de Gavião",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMGOI",
+        "sioe": "600000108",
+        "designacao": "Câmara Municipal de Góis",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMGDM",
+        "sioe": "600000110",
+        "designacao": "Câmara Municipal de Gondomar",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMGVA",
+        "sioe": "600000111",
+        "designacao": "Câmara Municipal de Gouveia",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMGDL",
+        "sioe": "600000112",
+        "designacao": "Câmara Municipal de Grândola",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMGMR",
+        "sioe": "600000114",
+        "designacao": "Câmara Municipal de Guimarães",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMIDN",
+        "sioe": "600000116",
+        "designacao": "Câmara Municipal de Idanha-a-Nova",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMILH",
+        "sioe": "600000117",
+        "designacao": "Câmara Municipal de Ílhavo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMLAG",
+        "sioe": "600000118",
+        "designacao": "Câmara Municipal de Lagoa (Açores)",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMLGA",
+        "sioe": "600000119",
+        "designacao": "Câmara Municipal de Lagoa (Algarve)",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMLGS",
+        "sioe": "600000120",
+        "designacao": "Câmara Municipal de Lagos",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMLGF",
+        "sioe": "600000121",
+        "designacao": "Câmara Municipal de Lajes das Flores",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMLGP",
+        "sioe": "600000122",
+        "designacao": "Câmara Municipal de Lajes do Pico",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMLMG",
+        "sioe": "600000123",
+        "designacao": "Câmara Municipal de Lamego",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMLRA",
+        "sioe": "600000124",
+        "designacao": "Câmara Municipal de Leiria",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMLSB",
+        "sioe": "600000125",
+        "designacao": "Câmara Municipal de Lisboa",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMLLE",
+        "sioe": "600000126",
+        "designacao": "Câmara Municipal de Loulé",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMLRS",
+        "sioe": "600000136",
+        "designacao": "Câmara Municipal de Loures",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMLOU",
+        "sioe": "600000139",
+        "designacao": "Câmara Municipal de Lousada",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMAC",
+        "sioe": "600000140",
+        "designacao": "Câmara Municipal de Mação",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMCD",
+        "sioe": "600000141",
+        "designacao": "Câmara Municipal de Macedo de Cavaleiros",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMCH",
+        "sioe": "600000142",
+        "designacao": "Câmara Municipal de Machico",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMFR",
+        "sioe": "600000144",
+        "designacao": "Câmara Municipal de Mafra",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMGL",
+        "sioe": "600000146",
+        "designacao": "Câmara Municipal de Mangualde",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMTG",
+        "sioe": "600000147",
+        "designacao": "Câmara Municipal de Manteigas",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMCN",
+        "sioe": "600000148",
+        "designacao": "Câmara Municipal de Marco de Canaveses",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMRV",
+        "sioe": "600000150",
+        "designacao": "Câmara Municipal de Marvão",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMTS",
+        "sioe": "600000151",
+        "designacao": "Câmara Municipal de Matosinhos",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMED",
+        "sioe": "600000153",
+        "designacao": "Câmara Municipal de Mêda",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMLG",
+        "sioe": "600000154",
+        "designacao": "Câmara Municipal de Melgaço",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMTL",
+        "sioe": "600000155",
+        "designacao": "Câmara Municipal de Mértola",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMSF",
+        "sioe": "600000156",
+        "designacao": "Câmara Municipal de Mesão Frio",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMIR",
+        "sioe": "600000157",
+        "designacao": "Câmara Municipal de Mira",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMCV",
+        "sioe": "600000158",
+        "designacao": "Câmara Municipal de Miranda do Corvo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMDR",
+        "sioe": "600000159",
+        "designacao": "Câmara Municipal de Miranda do Douro",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMDL",
+        "sioe": "600000160",
+        "designacao": "Câmara Municipal de Mirandela",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMGD",
+        "sioe": "600000161",
+        "designacao": "Câmara Municipal de Mogadouro",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMBR",
+        "sioe": "600000162",
+        "designacao": "Câmara Municipal de Moimenta da Beira",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMNC",
+        "sioe": "600000164",
+        "designacao": "Câmara Municipal de Monção",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMCQ",
+        "sioe": "600000165",
+        "designacao": "Câmara Municipal de Monchique",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMDB",
+        "sioe": "600000166",
+        "designacao": "Câmara Municipal de Mondim de Basto",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMFT",
+        "sioe": "600000167",
+        "designacao": "Câmara Municipal de Monforte",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMTR",
+        "sioe": "600000168",
+        "designacao": "Câmara Municipal de Montalegre",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMMN",
+        "sioe": "600000169",
+        "designacao": "Câmara Municipal de Montemor-o-Novo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMMV",
+        "sioe": "600000170",
+        "designacao": "Câmara Municipal de Montemor-o-Velho",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMOR",
+        "sioe": "600000172",
+        "designacao": "Câmara Municipal de Mora",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMRT",
+        "sioe": "600000173",
+        "designacao": "Câmara Municipal de Mortágua",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMRA",
+        "sioe": "600000174",
+        "designacao": "Câmara Municipal de Moura",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMOU",
+        "sioe": "600000175",
+        "designacao": "Câmara Municipal de Mourão",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMUR",
+        "sioe": "600000176",
+        "designacao": "Câmara Municipal de Murça",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMNLS",
+        "sioe": "600000179",
+        "designacao": "Câmara Municipal de Nelas",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMNIS",
+        "sioe": "600000180",
+        "designacao": "Câmara Municipal de Nisa",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMOBD",
+        "sioe": "600000182",
+        "designacao": "Câmara Municipal de Óbidos",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMODM",
+        "sioe": "600000183",
+        "designacao": "Câmara Municipal de Odemira",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMODV",
+        "sioe": "600000184",
+        "designacao": "Câmara Municipal de Odivelas",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMOER",
+        "sioe": "600000185",
+        "designacao": "Câmara Municipal de Oeiras",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMOLR",
+        "sioe": "600000186",
+        "designacao": "Câmara Municipal de Oleiros",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMOLH",
+        "sioe": "600000187",
+        "designacao": "Câmara Municipal de Olhão",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMOAZ",
+        "sioe": "600000188",
+        "designacao": "Câmara Municipal de Oliveira de Azeméis",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMOFR",
+        "sioe": "600000189",
+        "designacao": "Câmara Municipal de Oliveira de Frades",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMOBR",
+        "sioe": "600000190",
+        "designacao": "Câmara Municipal de Oliveira do Bairro",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMOHP",
+        "sioe": "600000191",
+        "designacao": "Câmara Municipal de Oliveira do Hospital",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMORM",
+        "sioe": "600000192",
+        "designacao": "Câmara Municipal de Ourém",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMORQ",
+        "sioe": "600000193",
+        "designacao": "Câmara Municipal de Ourique",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMOVR",
+        "sioe": "600000194",
+        "designacao": "Câmara Municipal de Ovar",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPFR",
+        "sioe": "600000195",
+        "designacao": "Câmara Municipal de Paços de Ferreira",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPLM",
+        "sioe": "600000196",
+        "designacao": "Câmara Municipal de Palmela",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPRD",
+        "sioe": "600000198",
+        "designacao": "Câmara Municipal de Paredes",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPCR",
+        "sioe": "600000199",
+        "designacao": "Câmara Municipal de Paredes de Coura",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPGR",
+        "sioe": "600000200",
+        "designacao": "Câmara Municipal de Pedrógão Grande",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPCV",
+        "sioe": "600000201",
+        "designacao": "Câmara Municipal de Penacova",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPNF",
+        "sioe": "600000127",
+        "designacao": "Câmara Municipal de Penafiel",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPCT",
+        "sioe": "600000128",
+        "designacao": "Câmara Municipal de Penalva do Castelo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPNC",
+        "sioe": "600000129",
+        "designacao": "Câmara Municipal de Penamacor",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPND",
+        "sioe": "600000130",
+        "designacao": "Câmara Municipal de Penedono",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPNL",
+        "sioe": "600000131",
+        "designacao": "Câmara Municipal de Penela",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPNI",
+        "sioe": "600000132",
+        "designacao": "Câmara Municipal de Peniche",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPRG",
+        "sioe": "600000202",
+        "designacao": "Câmara Municipal de Peso da Régua",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPNH",
+        "sioe": "600000203",
+        "designacao": "Câmara Municipal de Pinhel",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPBL",
+        "sioe": "600000204",
+        "designacao": "Câmara Municipal de Pombal",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPDL",
+        "sioe": "600000205",
+        "designacao": "Câmara Municipal de Ponta Delgada",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPTS",
+        "sioe": "600000206",
+        "designacao": "Câmara Municipal de Ponta do Sol",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPTB",
+        "sioe": "600000207",
+        "designacao": "Câmara Municipal de Ponte da Barca",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPTL",
+        "sioe": "600000208",
+        "designacao": "Câmara Municipal de Ponte de Lima",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPSR",
+        "sioe": "600000209",
+        "designacao": "Câmara Municipal de Ponte de Sôr",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPTG",
+        "sioe": "600000210",
+        "designacao": "Câmara Municipal de Portalegre",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPRL",
+        "sioe": "600000211",
+        "designacao": "Câmara Municipal de Portel",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPTM",
+        "sioe": "600000212",
+        "designacao": "Câmara Municipal de Portimão",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPMS",
+        "sioe": "600000214",
+        "designacao": "Câmara Municipal de Porto de Mós",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPMZ",
+        "sioe": "600000215",
+        "designacao": "Câmara Municipal de Porto Moniz",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPST",
+        "sioe": "600000216",
+        "designacao": "Câmara Municipal de Porto Santo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPVL",
+        "sioe": "600000217",
+        "designacao": "Câmara Municipal de Póvoa de Lanhoso",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPVZ",
+        "sioe": "600000218",
+        "designacao": "Câmara Municipal de Póvoa de Varzim",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPVC",
+        "sioe": "600000219",
+        "designacao": "Câmara Municipal de Povoação",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPNV",
+        "sioe": "600000220",
+        "designacao": "Câmara Municipal de Proença-a-Nova",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMRMZ",
+        "sioe": "600000222",
+        "designacao": "Câmara Municipal de Reguengos de Monsaraz",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMRSD",
+        "sioe": "600000223",
+        "designacao": "Câmara Municipal de Resende",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMRPN",
+        "sioe": "600000225",
+        "designacao": "Câmara Municipal de Ribeira de Pena",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMRGR",
+        "sioe": "600000226",
+        "designacao": "Câmara Municipal de Ribeira Grande",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMRMR",
+        "sioe": "600000227",
+        "designacao": "Câmara Municipal de Rio Maior",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSBS",
+        "sioe": "600000228",
+        "designacao": "Câmara Municipal de Sabrosa",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSMG",
+        "sioe": "600000230",
+        "designacao": "Câmara Municipal de Salvaterra de Magos",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSCD",
+        "sioe": "600000231",
+        "designacao": "Câmara Municipal de Santa Comba Dão",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSCR",
+        "sioe": "600000232",
+        "designacao": "Câmara Municipal de Santa Cruz",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSCG",
+        "sioe": "600000233",
+        "designacao": "Câmara Municipal de Santa Cruz da Graciosa",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSCF",
+        "sioe": "600000234",
+        "designacao": "Câmara Municipal de Santa Cruz das Flores",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVFR",
+        "sioe": "600000235",
+        "designacao": "Câmara Municipal de Santa Maria da Feira",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSMP",
+        "sioe": "600000236",
+        "designacao": "Câmara Municipal de Santa Marta de Penaguião",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSTN",
+        "sioe": "600000237",
+        "designacao": "Câmara Municipal de Santana",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSTR",
+        "sioe": "600000238",
+        "designacao": "Câmara Municipal de Santarém",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSTC",
+        "sioe": "600000239",
+        "designacao": "Câmara Municipal de Santiago do Cacém",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSTS",
+        "sioe": "600000240",
+        "designacao": "Câmara Municipal de Santo Tirso",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSBA",
+        "sioe": "600000241",
+        "designacao": "Câmara Municipal de São Brás de Alportel",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSJM",
+        "sioe": "600000242",
+        "designacao": "Câmara Municipal de São João da Madeira",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSJP",
+        "sioe": "600000243",
+        "designacao": "Câmara Municipal de São João da Pesqueira",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSPS",
+        "sioe": "600000244",
+        "designacao": "Câmara Municipal de São Pedro do Sul",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSRQ",
+        "sioe": "600000245",
+        "designacao": "Câmara Municipal de São Roque do Pico",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSVC",
+        "sioe": "600000246",
+        "designacao": "Câmara Municipal de São Vicente",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSRD",
+        "sioe": "600000247",
+        "designacao": "Câmara Municipal de Sardoal",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSAT",
+        "sioe": "600000248",
+        "designacao": "Câmara Municipal de Sátão",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSEI",
+        "sioe": "600000249",
+        "designacao": "Câmara Municipal de Seia",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSRN",
+        "sioe": "600000251",
+        "designacao": "Câmara Municipal de Sernancelhe",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSRP",
+        "sioe": "600000252",
+        "designacao": "Câmara Municipal de Serpa",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSSB",
+        "sioe": "600000254",
+        "designacao": "Câmara Municipal de Sesimbra",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSTB",
+        "sioe": "600000255",
+        "designacao": "Câmara Municipal de Setúbal",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSVV",
+        "sioe": "600000256",
+        "designacao": "Câmara Municipal de Sever do Vouga",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSLV",
+        "sioe": "600000257",
+        "designacao": "Câmara Municipal de Silves",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSNS",
+        "sioe": "600000258",
+        "designacao": "Câmara Municipal de Sines",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSNT",
+        "sioe": "600000259",
+        "designacao": "Câmara Municipal de Sintra",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSMA",
+        "sioe": "600000260",
+        "designacao": "Câmara Municipal de Sobral de Monte Agraço",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSRE",
+        "sioe": "600000261",
+        "designacao": "Câmara Municipal de Soure",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSSL",
+        "sioe": "600000262",
+        "designacao": "Câmara Municipal de Sousel",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMTBU",
+        "sioe": "600000263",
+        "designacao": "Câmara Municipal de Tábua",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMTBC",
+        "sioe": "600000264",
+        "designacao": "Câmara Municipal de Tabuaço",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMTRC",
+        "sioe": "600000265",
+        "designacao": "Câmara Municipal de Tarouca",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMTVR",
+        "sioe": "600000266",
+        "designacao": "Câmara Municipal de Tavira",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMTBR",
+        "sioe": "600000267",
+        "designacao": "Câmara Municipal de Terras de Bouro",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMTMR",
+        "sioe": "600000133",
+        "designacao": "Câmara Municipal de Tomar",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMTND",
+        "sioe": "600000134",
+        "designacao": "Câmara Municipal de Tondela",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMTMC",
+        "sioe": "600000135",
+        "designacao": "Câmara Municipal de Torre de Moncorvo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMTNV",
+        "sioe": "600000268",
+        "designacao": "Câmara Municipal de Torres Novas",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMTVD",
+        "sioe": "600000269",
+        "designacao": "Câmara Municipal de Torres Vedras",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMTCS",
+        "sioe": "600000270",
+        "designacao": "Câmara Municipal de Trancoso",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMTRF",
+        "sioe": "600000271",
+        "designacao": "Câmara Municipal de Trofa",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVGS",
+        "sioe": "600000272",
+        "designacao": "Câmara Municipal de Vagos",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVLC",
+        "sioe": "600000273",
+        "designacao": "Câmara Municipal de Vale de Cambra",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVLN",
+        "sioe": "600000274",
+        "designacao": "Câmara Municipal de Valença",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVLG",
+        "sioe": "600000275",
+        "designacao": "Câmara Municipal de Valongo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVLP",
+        "sioe": "600000276",
+        "designacao": "Câmara Municipal de Valpaços",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVLS",
+        "sioe": "600000277",
+        "designacao": "Câmara Municipal de Velas",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVND",
+        "sioe": "600000278",
+        "designacao": "Câmara Municipal de Vendas Novas",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVNT",
+        "sioe": "600000279",
+        "designacao": "Câmara Municipal de Viana do Alentejo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVCT",
+        "sioe": "600000280",
+        "designacao": "Câmara Municipal de Viana do Castelo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVDG",
+        "sioe": "600000281",
+        "designacao": "Câmara Municipal de Vidigueira",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVRM",
+        "sioe": "600000282",
+        "designacao": "Câmara Municipal de Vieira do Minho",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVLR",
+        "sioe": "600000283",
+        "designacao": "Câmara Municipal de Vila de Rei",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVBP",
+        "sioe": "600000284",
+        "designacao": "Câmara Municipal de Vila do Bispo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVCD",
+        "sioe": "600000285",
+        "designacao": "Câmara Municipal de Vila do Conde",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVPT",
+        "sioe": "600000286",
+        "designacao": "Câmara Municipal de Vila do Porto",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVFL",
+        "sioe": "600000287",
+        "designacao": "Câmara Municipal de Vila Flor",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVFX",
+        "sioe": "600000288",
+        "designacao": "Câmara Municipal de Vila Franca de Xira",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVFC",
+        "sioe": "600000289",
+        "designacao": "Câmara Municipal de Vila Franca do Campo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVNB",
+        "sioe": "600000290",
+        "designacao": "Câmara Municipal de Vila Nova da Barquinha",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVNC",
+        "sioe": "600000291",
+        "designacao": "Câmara Municipal de Vila Nova de Cerveira",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVNF",
+        "sioe": "600000292",
+        "designacao": "Câmara Municipal de Vila Nova de Famalicão",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVLF",
+        "sioe": "600000293",
+        "designacao": "Câmara Municipal de Vila Nova de Foz Côa",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVNG",
+        "sioe": "600000294",
+        "designacao": "Câmara Municipal de Vila Nova de Gaia",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVNP",
+        "sioe": "600000295",
+        "designacao": "Câmara Municipal de Vila Nova de Paiva",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPRS",
+        "sioe": "600000296",
+        "designacao": "Câmara Municipal de Vila Nova de Poiares",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVPA",
+        "sioe": "600000297",
+        "designacao": "Câmara Municipal de Vila Pouca de Aguiar",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPV",
+        "sioe": "600000298",
+        "designacao": "Câmara Municipal da Praia da Vitória",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVRL",
+        "sioe": "600000299",
+        "designacao": "Câmara Municipal de Vila Real",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVRS",
+        "sioe": "600000300",
+        "designacao": "Câmara Municipal de Vila Real de Santo António",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVVR",
+        "sioe": "600000301",
+        "designacao": "Câmara Municipal de Vila Velha de Ródão",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVVD",
+        "sioe": "600000302",
+        "designacao": "Câmara Municipal de Vila Verde",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVVC",
+        "sioe": "600000303",
+        "designacao": "Câmara Municipal de Vila Viçosa",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVMS",
+        "sioe": "600000304",
+        "designacao": "Câmara Municipal de Vimioso",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVNH",
+        "sioe": "600000305",
+        "designacao": "Câmara Municipal de Vinhais",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVIS",
+        "sioe": "600000306",
+        "designacao": "Câmara Municipal de Viseu",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVIZ",
+        "sioe": "600000307",
+        "designacao": "Câmara Municipal de Vizela",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVZL",
+        "sioe": "600000308",
+        "designacao": "Câmara Municipal de Vouzela",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMBRR",
+        "sioe": "600000044",
+        "designacao": "Câmara Municipal do Barreiro",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMBBR",
+        "sioe": "600000049",
+        "designacao": "Câmara Municipal do Bombarral",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCTX",
+        "sioe": "600000065",
+        "designacao": "Câmara Municipal do Cartaxo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCRV",
+        "sioe": "600000083",
+        "designacao": "Câmara Municipal do Corvo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMCRT",
+        "sioe": "600000085",
+        "designacao": "Câmara Municipal do Crato",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMENT",
+        "sioe": "600000088",
+        "designacao": "Câmara Municipal do Entroncamento",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMFNC",
+        "sioe": "600000105",
+        "designacao": "Câmara Municipal do Funchal",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMFND",
+        "sioe": "600000106",
+        "designacao": "Câmara Municipal do Fundão",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMMTJ",
+        "sioe": "600000171",
+        "designacao": "Câmara Municipal do Montijo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMNRD",
+        "sioe": "600000181",
+        "designacao": "Câmara Municipal do Nordeste",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMPRT",
+        "sioe": "600000213",
+        "designacao": "Câmara Municipal do Porto",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMRDD",
+        "sioe": "600000221",
+        "designacao": "Câmara Municipal do Redondo",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSBG",
+        "sioe": "600000229",
+        "designacao": "Câmara Municipal do Sabugal",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMSXL",
+        "sioe": "600000250",
+        "designacao": "Câmara Municipal do Seixal",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "Camões",
+        "sioe": "875780322",
+        "designacao": "Camões - Instituto da Cooperação e da Língua, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CPL",
+        "sioe": "90120000",
+        "designacao": "Casa Pia de Lisboa, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "JurisAPP",
+        "sioe": "875793281",
+        "designacao": "Centro de Competências Jurídicas do Estado",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CEJ",
+        "sioe": "152800000",
+        "designacao": "Centro de Estudos Judiciários",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CEGER",
+        "sioe": "13130000",
+        "designacao": "Centro de Gestão da Rede Informática do Governo",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CRL",
+        "sioe": "875780377",
+        "designacao": "Centro de Relações Laborais",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CNCS",
+        "sioe": "875793274",
+        "designacao": "Centro Nacional de Cibersegurança",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CNPRP",
+        "estado": "Inativo",
+        "sioe": "90312000",
+        "designacao": "Centro Nacional de Proteção contra os Riscos Profissionais",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1999-05-11",
+        "dataExtincao": "2006-10-27"
+    },
+    {
+        "sigla": "CV",
+        "designacao": "Ciência Viva – Agência Nacional para a Cultura Científica e Tecnológica",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CP-MC",
+        "sioe": "60330000",
+        "designacao": "Cinemateca Portuguesa-Museu do Cinema, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CP",
+        "sioe": "875790327",
+        "designacao": "Comboios de Portugal, EPE",
+        "tipologias": [
+            "SPE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CCM",
+        "sioe": "875791078",
+        "designacao": "Comissão Cultural de Marinha",
+        "tipologias": [
+            "FA",
+            "FA-M"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CADA",
+        "sioe": "875780258",
+        "designacao": "Comissão de Acesso aos Documentos Administrativos",
+        "tipologias": [
+            "EAI",
+            "ASF"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CACME",
+        "estado": "Inativo",
+        "designacao": "Comissão de Aplicação de Coimas em Matéria Económica",
+        "internacional": "Não",
+        "dataCriacao": "1984-07-03",
+        "dataExtincao": "2020-08-10"
+    },
+    {
+        "sigla": "CACMP",
+        "estado": "Inativo",
+        "designacao": "Comissão de Aplicação de Coimas em Matéria de Publicidade",
+        "internacional": "Não",
+        "dataCriacao": "1990-10-23",
+        "dataExtincao": "2020-08-10"
+    },
+    {
+        "sigla": "CCDR-LVT",
+        "sioe": "83140000",
+        "designacao": "Comissão de Coordenação do Desenvolvimento Regional de Lisboa e Vale do Tejo",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CCDR-Aln",
+        "sioe": "83360000",
+        "designacao": "Comissão de Coordenação do Desenvolvimento Regional do Alentejo",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CCDR-Alg",
+        "sioe": "83370000",
+        "designacao": "Comissão de Coordenação do Desenvolvimento Regional do Algarve",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CCDR-C",
+        "sioe": "83410000",
+        "designacao": "Comissão de Coordenação do Desenvolvimento Regional do Centro",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CCDR-N",
+        "sioe": "83400000",
+        "designacao": "Comissão de Coordenação do Desenvolvimento Regional do Norte",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CEIC",
+        "sioe": "875792011",
+        "designacao": "Comissão de Ética para a Investigação Clínica",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CPES",
+        "sioe": "300200000",
+        "designacao": "Comissão de Programas Especiais de Segurança",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CPVC",
+        "sioe": "153000000",
+        "designacao": "Comissão de Proteção às Vítimas de Crimes",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CRESAP",
+        "sioe": "875780391",
+        "designacao": "Comissão de Recrutamento e Seleção para a Administração Pública",
+        "tipologias": [
+            "EAI"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CMVM",
+        "designacao": "Comissão do Mercado de Valores Mobiliários",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CNU",
+        "estado": "Inativo",
+        "designacao": "Comissão Nacional da UNESCO",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CNE",
+        "sioe": "875780257",
+        "designacao": "Comissão Nacional de Eleições",
+        "tipologias": [
+            "EAI"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CNOC",
+        "designacao": "Comissão Nacional de Objeção de Consciência",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CNPDPCJ",
+        "sioe": "875793019",
+        "designacao": "Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CNPC",
+        "designacao": "Comissão Nacional de Proteção Civil",
+        "tipologias": [
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CNPD",
+        "sioe": "800002002",
+        "designacao": "Comissão Nacional de Proteção de Dados",
+        "tipologias": [
+            "EAI"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CIG",
+        "sioe": "13230000",
+        "designacao": "Comissão para a Cidadania e a Igualdade de Género",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CITE",
+        "sioe": "90150000",
+        "designacao": "Comissão para a Igualdade no Trabalho e no Emprego",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CEE",
+        "estado": "Inativo",
+        "designacao": "Comunidade Económica Europeia",
+        "internacional": "Sim"
+    },
+    {
+        "sigla": "CE",
+        "estado": "Inativo",
+        "designacao": "Comunidade Europeia",
+        "internacional": "Sim"
+    },
+    {
+        "sigla": "EURATOM",
+        "designacao": "Comunidade Europeia da Energia Atómica",
+        "internacional": "Sim"
+    },
+    {
+        "sigla": "CCPFC",
+        "designacao": "Conselho Científico-Pedagógico da Formação Contínua",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CM",
+        "designacao": "Conselho de Ministros",
+        "tipologias": [
+            "Gov"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CES",
+        "sioe": "800003367",
+        "designacao": "Conselho Económico e Social",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CNEdu",
+        "sioe": "89280000",
+        "designacao": "Conselho Nacional de Educação",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CNECV",
+        "sioe": "875780304",
+        "designacao": "Conselho Nacional de Ética para as Ciências da Vida",
+        "tipologias": [
+            "EAI"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CNPMA",
+        "sioe": "875793282",
+        "designacao": "Conselho Nacional de Procriação Medicamente Assistida",
+        "tipologias": [
+            "EAI"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CNPSSS",
+        "sioe": "875780378",
+        "designacao": "Conselho Nacional para as Políticas de Solidariedade, Voluntariado, Família, Reabilitação e Segurança Social",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CSE",
+        "sioe": "875780386",
+        "designacao": "Conselho Superior de Estatística",
+        "tipologias": [
+            "AP",
+            "SEN"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CSM",
+        "sioe": "800004000",
+        "designacao": "Conselho Superior de Magistratura",
+        "tipologias": [
+            "OSJ"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CSTAF",
+        "sioe": "770000439",
+        "designacao": "Conselho Superior dos Tribunais Administrativos e Fiscais",
+        "tipologias": [
+            "OSJ"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CASES",
+        "sioe": "875780315",
+        "designacao": "Cooperativa António Sérgio para a Economia Social",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DPP",
+        "estado": "Inativo",
+        "designacao": "Departamento de Prospetiva e Planeamento",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DRAP-LVT",
+        "sioe": "32260000",
+        "designacao": "Direção Regional de Agricultura e Pescas de Lisboa e Vale do Tejo",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DRAP-Aln",
+        "sioe": "32240000",
+        "designacao": "Direção Regional de Agricultura e Pescas do Alentejo",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DRAP-Alg",
+        "sioe": "32250000",
+        "designacao": "Direção Regional de Agricultura e Pescas do Algarve",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DRAP-C",
+        "sioe": "32400000",
+        "designacao": "Direção Regional de Agricultura e Pescas do Centro",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DRAP-N",
+        "sioe": "32270000",
+        "designacao": "Direção Regional de Agricultura e Pescas do Norte",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DRAC-Aln",
+        "sioe": "60270000",
+        "designacao": "Direção Regional de Cultura do Alentejo",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DRAC-Alg",
+        "sioe": "60280000",
+        "designacao": "Direção Regional de Cultura do Algarve",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DRAC-C",
+        "sioe": "60260000",
+        "designacao": "Direção Regional de Cultura do Centro",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DRAC-N",
+        "sioe": "60250000",
+        "designacao": "Direção Regional de Cultura do Norte",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGAJ",
+        "sioe": "151500000",
+        "designacao": "Direção-Geral da Administração da Justiça",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGAEP",
+        "sioe": "54300000",
+        "designacao": "Direção-Geral da Administração e do Emprego Público",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGAEs",
+        "sioe": "875780329",
+        "designacao": "Direção-Geral da Administração Escolar",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGAM",
+        "sioe": "875791082",
+        "designacao": "Direção-Geral da Autoridade Marítima",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGE",
+        "sioe": "875780318",
+        "designacao": "Direção-Geral da Educação",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "INA",
+        "sioe": "875780331",
+        "designacao": "Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGSS",
+        "sioe": "90220000",
+        "designacao": "Direção-Geral da Segurança Social",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGAIESC",
+        "estado": "Inativo",
+        "designacao": "Direção-Geral das Alfândegas e do Impostos Especiais sobre o Consumo",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGARTES",
+        "sioe": "60170000",
+        "designacao": "Direção-Geral das Artes",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGAE",
+        "sioe": "71210000",
+        "designacao": "Direção-Geral das Atividades Económicas",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2007-04-27"
+    },
+    {
+        "sigla": "DGAL",
+        "sioe": "83080000",
+        "designacao": "Direção-Geral das Autarquias Locais",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGADR",
+        "sioe": "32160000",
+        "designacao": "Direção-Geral de Agricultura e Desenvolvimento Rural",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGAV",
+        "sioe": "875780353",
+        "designacao": "Direção-Geral de Alimentação e Veterinária",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGEG",
+        "sioe": "71200000",
+        "designacao": "Direção-Geral de Energia e Geologia",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SEN"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGEEC",
+        "sioe": "875780319",
+        "designacao": "Direção-Geral de Estatísticas da Educação e Ciência",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SEN"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGPDN",
+        "sioe": "85040000",
+        "designacao": "Direção-Geral de Política de Defesa Nacional",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGPJ",
+        "sioe": "300220000",
+        "designacao": "Direção-Geral de Política de Justiça",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SEN"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGPE",
+        "sioe": "86040000",
+        "designacao": "Direção-Geral de Política Externa",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGPM",
+        "sioe": "600082458",
+        "designacao": "Direção-Geral de Política do Mar",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGRDN",
+        "sioe": "875792095",
+        "designacao": "Direção-Geral de Recursos da Defesa Nacional",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGRM",
+        "sioe": "875780332",
+        "designacao": "Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SEN"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGRSP",
+        "sioe": "875780381",
+        "designacao": "Direção-Geral de Reinserção e Serviços Prisionais",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGS",
+        "sioe": "141300000",
+        "designacao": "Direção-Geral de Saúde",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGV",
+        "estado": "Inativo",
+        "designacao": "Direção-Geral de Viação",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1971-11-09",
+        "dataExtincao": "2007-07-25"
+    },
+    {
+        "sigla": "DGC",
+        "sioe": "12010000",
+        "designacao": "Direção-Geral do Consumidor",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGERT",
+        "sioe": "90230000",
+        "designacao": "Direção-Geral do Emprego e das Relações de Trabalho",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGES",
+        "sioe": "101990000",
+        "designacao": "Direção-Geral do Ensino Superior",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGLAB",
+        "sioe": "875780384",
+        "designacao": "Direção-Geral do Livro, dos Arquivos e das Bibliotecas",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGLB",
+        "estado": "Inativo",
+        "designacao": "Direção-Geral do Livro e das Bibliotecas",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2007-03-29",
+        "dataExtincao": "2011-12-29"
+    },
+    {
+        "sigla": "DGO",
+        "sioe": "51100000",
+        "designacao": "Direção-Geral do Orçamento",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGPC",
+        "sioe": "875780385",
+        "designacao": "Direção-Geral do Património Cultural",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGT",
+        "sioe": "875780352",
+        "designacao": "Direção-Geral do Território",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGOTDU",
+        "sioe": "83090000",
+        "designacao": "Direção Geral de Ordenamento do Território e Desenvolvimento Urbano",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1994-10-28",
+        "dataExtincao": "2006-10-27"
+    },
+    {
+        "sigla": "DGTF",
+        "sioe": "53410000",
+        "designacao": "Direção-Geral do Tesouro e Finanças",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGTur",
+        "estado": "Inativo",
+        "designacao": "Direção-Geral do Turismo",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1968-11-15",
+        "dataExtincao": "2006-10-27"
+    },
+    {
+        "sigla": "DGACCP",
+        "sioe": "86060000",
+        "designacao": "Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGAC",
+        "designacao": "Direção-Geral dos Assuntos Comunitários",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGAEu",
+        "sioe": "86050000",
+        "designacao": "Direção-Geral dos Assuntos Europeus",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGCSP",
+        "estado": "Inativo",
+        "designacao": "Direção-Geral dos Cuidados de Saúde Primários",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1984-03-02",
+        "dataExtincao": "1993-10-01"
+    },
+    {
+        "sigla": "DGEstE",
+        "sioe": "875790445",
+        "designacao": "Direção-Geral dos Estabelecimentos Escolares",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGSP",
+        "estado": "Inativo",
+        "designacao": "Direção-Geral dos Serviços Prisionais",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não",
+        "dataExtincao": "2011-12-29"
+    },
+    {
+        "sigla": "DGMARE",
+        "designacao": "Directorate General for Maritime Affairs and Fisheries",
+        "internacional": "Sim"
+    },
+    {
+        "sigla": "DRELVT",
+        "estado": "Inativo",
+        "designacao": "Direção Regional de Educação de Lisboa e Vale do Tejo",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1987-01-03",
+        "dataExtincao": "2012-12-31"
+    },
+    {
+        "sigla": "DREALE",
+        "estado": "Inativo",
+        "designacao": "Direção Regional de Educação do Alentejo",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1987-01-03",
+        "dataExtincao": "2012-12-31"
+    },
+    {
+        "sigla": "DREALG",
+        "estado": "Inativo",
+        "designacao": "Direção Regional de Educação do Algarve",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1987-01-03",
+        "dataExtincao": "2012-12-31"
+    },
+    {
+        "sigla": "DREC",
+        "estado": "Inativo",
+        "designacao": "Direção Regional de Educação do Centro",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1987-01-03",
+        "dataExtincao": "2012-12-31"
+    },
+    {
+        "sigla": "DREN",
+        "estado": "Inativo",
+        "designacao": "Direção Regional de Educação do Norte",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1987-01-03",
+        "dataExtincao": "2012-12-31"
+    },
+    {
+        "sigla": "ECFP",
+        "sioe": "875780490",
+        "designacao": "Entidade das Contas e Financiamentos Políticos",
+        "tipologias": [
+            "ASF"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ESPAP",
+        "sioe": "875780379",
+        "designacao": "Entidade de Serviços Partilhados da Administração Pública, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ENMC",
+        "designacao": "Entidade Nacional para o Mercado de Combustíveis, EPE",
+        "tipologias": [
+            "SPE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ERS",
+        "sioe": "142900000",
+        "designacao": "Entidade Reguladora da Saúde",
+        "tipologias": [
+            "AP",
+            "ER"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ERSAR",
+        "sioe": "83270000",
+        "designacao": "Entidade Reguladora dos Serviços de Águas e Resíduos",
+        "tipologias": [
+            "AP",
+            "ER"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ERC",
+        "sioe": "800002003",
+        "designacao": "Entidade Reguladora para a Comunicação Social",
+        "tipologias": [
+            "AP",
+            "ER"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "EPAE",
+        "designacao": "Escola Portuguesa de Arte Equestre",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "EMGFA",
+        "sioe": "85080000",
+        "designacao": "Estado-Maior General das Forças Armadas",
+        "tipologias": [
+            "AP",
+            "FA"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SEUE",
+        "designacao": "Eurostat – Serviços de Estatística da União Europeia",
+        "internacional": "Sim"
+    },
+    {
+        "sigla": "Exército",
+        "sioe": "85110000",
+        "designacao": "Exército Português",
+        "tipologias": [
+            "FA"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "FC-UL",
+        "sioe": "102091400",
+        "designacao": "Faculdade de Ciências da Universidade de Lisboa",
+        "tipologias": [
+            "AP",
+            "IES"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1905-03-25"
+    },
+    {
+        "sigla": "FF-UL",
+        "sioe": "102091200",
+        "designacao": "Faculdade de Farmácia da Universidade de Lisboa",
+        "tipologias": [
+            "AP",
+            "IES"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "FL-UL",
+        "sioe": "102091600",
+        "designacao": "Faculdade de Letras da Universidade de Lisboa",
+        "tipologias": [
+            "AP",
+            "IES"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1905-03-25"
+    },
+    {
+        "sigla": "FPT",
+        "designacao": "Federação Portuguesa de Táxis",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "FAP",
+        "sioe": "85100000",
+        "designacao": "Força Aérea Portuguesa",
+        "tipologias": [
+            "FA"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "FCT",
+        "sioe": "104110000",
+        "designacao": "Fundação para a Ciência e a Tecnologia",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1997-07-28"
+    },
+    {
+        "sigla": "GAMA",
+        "sioe": "875790002",
+        "designacao": "Gabinete  de Investigação de Acidentes Marítimos e da Autoridade para a  Meteorologia Aeronáutica",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "ASF"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "GEE",
+        "sioe": "74400000",
+        "designacao": "Gabinete de Estratégia e Estudos",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "GEP",
+        "sioe": "90530000",
+        "designacao": "Gabinete de Estratégia e Planeamento",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "GEPAC",
+        "sioe": "60240000",
+        "designacao": "Gabinete de Estratégia, Planeamento e Avaliação Culturais",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "GPP",
+        "sioe": "600082458",
+        "designacao": "Gabinete de Planeamento e Políticas",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "GPEARI",
+        "sioe": "54800000",
+        "designacao": "Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "GPERI",
+        "estado": "Inativo",
+        "designacao": "Gabinete de Planeamento, Estratégia e Relações Internacionais do Ministério das Obras Públicas, Transportes e Comunicações",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2007-04-30",
+        "dataExtincao": "2009-01-22"
+    },
+    {
+        "sigla": "GPIAAF",
+        "sioe": "875793151",
+        "designacao": "Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e Acidentes Ferroviários",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "GNS",
+        "sioe": "800007772",
+        "designacao": "Gabinete Nacional de Segurança",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "GovReg-M",
+        "designacao": "Governo Regional da Madeira",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "GovReg-A",
+        "sioe": "795000090",
+        "designacao": "Governo Regional dos Açores",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "Grupo_IP",
+        "sioe": "770000377",
+        "designacao": "Grupo Infraestruturas de Portugal",
+        "tipologias": [
+            "SPE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "GNR",
+        "sioe": "20050000",
+        "designacao": "Guarda Nacional Repúblicana",
+        "tipologias": [
+            "AP",
+            "FSS",
+            "OPC"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "INCM",
+        "sioe": "875790441",
+        "designacao": "Imprensa Nacional-Casa da Moeda, SA",
+        "tipologias": [
+            "SPE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IDC",
+        "estado": "Inativo",
+        "designacao": "Inspeção Diplomática e Consular",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1994-02-24",
+        "dataExtincao": "2006-10-27"
+    },
+    {
+        "sigla": "IGAI",
+        "sioe": "20020000",
+        "designacao": "Inspeção-Geral da Administração Interna",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IGAMAOT",
+        "estado": "Inativo",
+        "sioe": "875780330",
+        "designacao": "Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "OPC"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IGDN",
+        "sioe": "85120000",
+        "designacao": "Inspeção-Geral da Defesa Nacional",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IGEC",
+        "sioe": "875780321",
+        "designacao": "Inspeção-Geral da Educação e Ciência",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IGAC",
+        "sioe": "60210000",
+        "designacao": "Inspeção-Geral das Atividades Culturais",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "OPC"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IGAE",
+        "estado": "Inativo",
+        "designacao": "Inspeção-Geral das Atividades Económicas",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IGAS",
+        "sioe": "141200000",
+        "designacao": "Inspeção-Geral das Atividades em Saúde",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IGF",
+        "sioe": "51400000",
+        "designacao": "Inspeção-Geral de Finanças",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IGDC",
+        "sioe": "86120000",
+        "designacao": "Inspeção-Geral Diplomática e Consular",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IGMTSSS",
+        "sioe": "90250000",
+        "designacao": "Inspeção-Geral do Ministério do Trabalho, Solidariedade e Segurança Social",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IGSJ",
+        "sioe": "151200000",
+        "designacao": "Inspeção-Geral dos Serviços de Justiça",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ICNF",
+        "sioe": "875780365",
+        "designacao": "Instituto da Conservação da Natureza e das Florestas, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IDN",
+        "sioe": "85130000",
+        "designacao": "Instituto da Defesa Nacional",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IHRU",
+        "sioe": "112200000",
+        "designacao": "Instituto da Habitação e da Reabilitação Urbana, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ISSM",
+        "sioe": "790000022",
+        "designacao": "Instituto da Segurança Social da Madeira, IP",
+        "tipologias": [
+            "AP",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ISSA",
+        "sioe": "875792013",
+        "designacao": "Instituto da Segurança Social dos Açores, IP",
+        "tipologias": [
+            "AP",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ISS",
+        "sioe": "90310000",
+        "designacao": "Instituto da Segurança Social, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IVV",
+        "sioe": "30200000",
+        "designacao": "Instituto da Vinha e do Vinho, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IASFA",
+        "sioe": "85230000",
+        "designacao": "Instituto de Ação Social das Forças Armadas, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IAMA",
+        "sioe": "795000105",
+        "designacao": "Instituto de Alimentação e Mercados Agrícolas",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IAVE",
+        "sioe": "875791977",
+        "designacao": "Instituto de Avaliação Educativa, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ICN",
+        "estado": "Inativo",
+        "designacao": "Instituto da Conservação da Natureza, IP",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1993-05-24",
+        "dataExtincao": "2007-04-27"
+    },
+    {
+        "sigla": "IFAP",
+        "sioe": "30160000",
+        "designacao": "Instituto de Financiamento da Agricultura e Pescas, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IGFCSS",
+        "sioe": "90270000",
+        "designacao": "Instituto de Gestão de Fundos de Capitalização da Segurança Social, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IgeFE",
+        "sioe": "875792882",
+        "designacao": "Instituto de Gestão Financeira da Educação, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IGFSS",
+        "sioe": "90290000",
+        "designacao": "Instituto de Gestão Financeira da Segurança Social, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IGFEJ",
+        "sioe": "875780382",
+        "designacao": "Instituto de Gestão Financeira e Equipamentos da Justiça, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "II",
+        "sioe": "90300000",
+        "designacao": "Instituto de Informática, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IMT",
+        "sioe": "110090000",
+        "designacao": "Instituto de Mobilidade e dos Transportes, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ADSE",
+        "sioe": "875793041",
+        "designacao": "Instituto de Proteção e Assistência na Doença, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ICA",
+        "sioe": "60320000",
+        "designacao": "Instituto do Cinema e do Audiovisual, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ICAM",
+        "estado": "Inativo",
+        "designacao": "Instituto do Cinema, do Audiovisual e do Multimédia, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1998-12-21",
+        "dataExtincao": "2007-03-29"
+    },
+    {
+        "sigla": "IEFP",
+        "sioe": "90320000",
+        "designacao": "Instituto do Emprego e Formação Profissional, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IMPIC",
+        "sioe": "111500000",
+        "designacao": "Instituto dos Mercados Públicos, do Imobiliário e da Construção, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "INA_IP",
+        "estado": "Inativo",
+        "designacao": "Instituto Nacional da Administração, IP",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IRN",
+        "sioe": "152600000",
+        "designacao": "Instituto dos Registos e do Notariado, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IVDP",
+        "sioe": "30210000",
+        "designacao": "Instituto dos Vinhos do Douro e do Porto, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IH",
+        "sioe": "875790606",
+        "designacao": "Instituto Hidrográfico",
+        "tipologias": [
+            "FA",
+            "FA-M"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "INPI",
+        "sioe": "71400000",
+        "designacao": "Instituto Nacional da Propriedade Industrial, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "INEM",
+        "sioe": "142300000",
+        "designacao": "Instituto Nacional de Emergência Médica, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "INE",
+        "sioe": "12150000",
+        "designacao": "Instituto Nacional de Estatística, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "INIAV",
+        "sioe": "875780356",
+        "designacao": "Instituto Nacional de Investigação Agrária e Veterinária, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "INMLCF",
+        "sioe": "151800000",
+        "designacao": "Instituto Nacional de Medicina Legal e Ciências Forenses, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "INSA",
+        "sioe": "142100000",
+        "designacao": "Instituto Nacional de Saúde Doutor Ricardo Jorge, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "INR",
+        "sioe": "90170000",
+        "designacao": "Instituto Nacional para a Reabilitação, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IPCA",
+        "sioe": "102450000",
+        "designacao": "Instituto Politécnico do Cávado e do Ave",
+        "tipologias": [
+            "AP",
+            "IES"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IPTM",
+        "estado": "Inativo",
+        "designacao": "Instituto Portuário e dos Transportes Marítimos, I.P.",
+        "tipologias": [
+            "AP",
+            "IES"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2002-11-22",
+        "dataExtincao": "2012-02-29"
+    },
+    {
+        "sigla": "IPQ",
+        "sioe": "71600000",
+        "designacao": "Instituto Português da Qualidade, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IPAC",
+        "sioe": "71960000",
+        "designacao": "Instituto Português de Acreditação, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IPDJ",
+        "sioe": "875780313",
+        "designacao": "Instituto Português do Desporto e Juventude, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IPMA",
+        "sioe": "875780355",
+        "designacao": "Instituto Português do Mar e da Atmosfera, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IPST",
+        "sioe": "142400000",
+        "designacao": "Instituto Português do Sangue e da Transplantação, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ISCTE",
+        "designacao": "Instituto Superior de Ciências do Trabalho e da Empresa",
+        "tipologias": [
+            "IES"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "IST",
+        "sioe": "102100600",
+        "designacao": "Instituto Superior Técnico",
+        "tipologias": [
+            "EFD",
+            "IES"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "CISAC",
+        "designacao": "International Confederation of Societies of Authors and Composers",
+        "internacional": "Sim"
+    },
+    {
+        "sigla": "ISAN_Portugal",
+        "designacao": "Agência ISAN Portugal",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "LSB71",
+        "sioe": "875791253",
+        "designacao": "Junta de Freguesia de Belém",
+        "tipologias": [
+            "AP",
+            "AL"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "LNEG",
+        "sioe": "71510000",
+        "designacao": "Laboratório Nacional de Energia e Geologia, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "LNEC",
+        "sioe": "112400000",
+        "designacao": "Laboratório Nacional de Engenharia Civil, I.P.",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "EN",
+        "sioe": "875791079",
+        "designacao": "Marinha – Escola Naval",
+        "tipologias": [
+            "FA",
+            "FA-M"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "Marinha",
+        "sioe": "85090000",
+        "designacao": "Marinha Portuguesa",
+        "tipologias": [
+            "FA",
+            "FA-M"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "MdP",
+        "sioe": "770000329",
+        "designacao": "Metro do Porto, SA",
+        "tipologias": [
+            "SPE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "MP",
+        "designacao": "Ministério Público",
+        "tipologias": [
+            "OSJ"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "MJ",
+        "designacao": "Ministro da Justiça",
+        "tipologias": [
+            "Gov"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "MF",
+        "designacao": "Ministro das Finanças",
+        "tipologias": [
+            "Gov"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "OIT",
+        "designacao": "Organização Internacional do Trabalho - Lisboa",
+        "internacional": "Sim"
+    },
+    {
+        "sigla": "OMS",
+        "sioe": "85090000",
+        "designacao": "Organização Mundial de Saúde",
+        "internacional": "Sim"
+    },
+    {
+        "sigla": "PE",
+        "designacao": "Parlamento Europeu",
+        "internacional": "Sim"
+    },
+    {
+        "sigla": "PSML_SA",
+        "sioe": "875790342",
+        "designacao": "Parques Sintra - Monte da Lua, SA",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "PSP",
+        "sioe": "20040000",
+        "designacao": "Polícia de Segurança Pública",
+        "tipologias": [
+            "AP",
+            "FSS",
+            "OPC"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "PJ",
+        "sioe": "152900000",
+        "designacao": "Polícia Judiciária",
+        "tipologias": [
+            "AP",
+            "FSS",
+            "OPC"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "PJM",
+        "sioe": "85140000",
+        "designacao": "Polícia Judiciária Militar",
+        "tipologias": [
+            "AP",
+            "OPC"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "PMar",
+        "sioe": "875791092",
+        "designacao": "Polícia Marítima",
+        "tipologias": [
+            "AP",
+            "ASF",
+            "OPC",
+            "FA"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "PCM",
+        "designacao": "Presidência do Conselho de Ministros",
+        "tipologias": [
+            "Gov"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "PR",
+        "sioe": "875780308",
+        "designacao": "Presidente da República",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "PM",
+        "sioe": "90350000",
+        "designacao": "Primeiro-Ministro",
+        "tipologias": [
+            "Gov"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "PGR",
+        "sioe": "800003365",
+        "designacao": "Procuradoria-Geral da República",
+        "tipologias": [
+            "OSJ"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "PRJ",
+        "sioe": "800003366",
+        "designacao": "Provedoria de Justiça",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "RA-M",
+        "designacao": "Região Autónoma da Madeira",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "RA-A",
+        "designacao": "Região Autónoma dos Açores",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "RNOVA",
+        "designacao": "Reitoria da Universidade Nova de Lisboa",
+        "tipologias": [
+            "AP",
+            "IES"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SCML",
+        "sioe": "90350000",
+        "designacao": "Santa Casa da Misericórdia de Lisboa",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SGPCM",
+        "sioe": "13110000",
+        "designacao": "Secretaria Geral da Presidência do Conselho de Ministros",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SG"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SGMAI",
+        "sioe": "22100000",
+        "designacao": "Secretaria Geral do Ministério da Administração Interna",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SG"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SGMADRP",
+        "estado": "Inativo",
+        "designacao": "Secretaria-Geral do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1996-06-18",
+        "dataExtincao": "2006-10-27"
+    },
+    {
+        "sigla": "SGMDN",
+        "sioe": "85010000",
+        "designacao": "Secretaria Geral do Ministério da Defesa Nacional",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SG"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SGME",
+        "sioe": "875780376",
+        "designacao": "Secretaria Geral do Ministério da Economia",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SG"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SGMEI",
+        "estado": "Inativo",
+        "sioe": "70020000",
+        "designacao": "Secretaria Geral do Ministério da Economia e Inovação",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SG"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2006-10-27",
+        "dataExtincao": "2011-12-29"
+    },
+    {
+        "sigla": "SGMJ",
+        "sioe": "151100000",
+        "designacao": "Secretaria Geral do Ministério da Justiça",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SG"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SGMF",
+        "sioe": "54100000",
+        "designacao": "Secretaria Geral do Ministério das Finanças",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SG"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SGMTSSS",
+        "sioe": "90370000",
+        "designacao": "Secretaria Geral do Ministério do Trabalho, Solidariedade e Segurança Social",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SG"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SGMNE",
+        "sioe": "86160000",
+        "designacao": "Secretaria Geral do Ministério dos Negócios Estrangeiros",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SG"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SGEC",
+        "sioe": "875780324",
+        "designacao": "Secretaria-Geral da Educação e Ciência",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SG"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SGMCES",
+        "estado": "Inativo",
+        "designacao": "Secretaria-Geral do Ministério da Ciência e do Ensino Superior",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SG"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SGMEd",
+        "estado": "Inativo",
+        "designacao": "Secretaria-Geral do Ministério da Educação",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SG"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SGMS",
+        "sioe": "141100000",
+        "designacao": "Secretaria-Geral do Ministério da Saúde",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SG"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SGMSST",
+        "estado": "Inativo",
+        "designacao": "Secretaria-Geral do Ministério da Segurança Social e do Trabalho",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SGMA",
+        "sioe": "875792006",
+        "designacao": "Secretaria-Geral do Ministério do Ambiente",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "SG"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SEAL",
+        "sioe": "875792993",
+        "designacao": "Secretário de Estado das Autarquias Locais",
+        "tipologias": [
+            "Gov"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SEF",
+        "sioe": "20060000",
+        "designacao": "Serviço de Estrangeiros e Fronteiras",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "FSS",
+            "OPC"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SIS",
+        "sioe": "20070000",
+        "designacao": "Serviço de Informações e Segurança",
+        "tipologias": [
+            "AP",
+            "FSS"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SICAD",
+        "sioe": "875780320",
+        "designacao": "Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SNB",
+        "estado": "Inativo",
+        "designacao": "Serviço Nacional de Bombeiros",
+        "internacional": "Não",
+        "dataCriacao": "1980-09-29",
+        "dataExtincao": "2000-11-17"
+    },
+    {
+        "sigla": "SPMS",
+        "sioe": "875780255",
+        "designacao": "Serviços Partilhados do Ministério da Saúde, EPE",
+        "tipologias": [
+            "SPE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SSAP",
+        "sioe": "51710000",
+        "designacao": "Serviços Sociais da Administração Pública",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SIRP",
+        "sioe": "17000000",
+        "designacao": "Sistema de Informações da República Portuguesa",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SEN",
+        "designacao": "Sistema Estatístico Nacional",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SF-M",
+        "designacao": "Superintendência das Finanças – Marinha",
+        "tipologias": [
+            "FA",
+            "FA-M"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "STI-M",
+        "designacao": "Superintendência das Tecnologias da Informação – Marinha",
+        "tipologias": [
+            "FA",
+            "FA-M"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SM-M",
+        "designacao": "Superintendência do Material – Marinha",
+        "tipologias": [
+            "FA",
+            "FA-M"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SP-M",
+        "sioe": "875791081",
+        "designacao": "Superintendência do Pessoal – Marinha",
+        "tipologias": [
+            "FA",
+            "FA-M"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "STA",
+        "sioe": "800003021",
+        "designacao": "Supremo Tribunal Administrativo",
+        "tipologias": [
+            "OSJ",
+            "Trb"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "STJ",
+        "sioe": "800003022",
+        "designacao": "Supremo Tribunal de Justiça",
+        "tipologias": [
+            "OSJ",
+            "Trb"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "TAP",
+        "designacao": "Transportes Aéreos Portugueses, S. A",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "TC",
+        "sioe": "800003044",
+        "designacao": "Tribunal Constitucional",
+        "tipologias": [
+            "OSJ"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "TContas",
+        "sioe": "800003052",
+        "designacao": "Tribunal de Contas",
+        "tipologias": [
+            "OSJ"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "TJUE",
+        "designacao": "Tribunal de Justiça da União Europeia",
+        "internacional": "Sim"
+    },
+    {
+        "sigla": "TP",
+        "sioe": "73400000",
+        "designacao": "Turismo de Portugal, IP",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "UE",
+        "designacao": "União Europeia",
+        "internacional": "Sim"
+    },
+    {
+        "sigla": "ON",
+        "designacao": "Ordem dos Notários",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGCI",
+        "estado": "Inativo",
+        "designacao": "Direção-Geral das Contribuições e Impostos",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "1911-01-14",
+        "dataExtincao": "2011-12-15"
+    },
+    {
+        "sigla": "IPP",
+        "sioe": "102460000",
+        "designacao": "Instituto Politécnico do Porto",
+        "tipologias": [
+            "AP",
+            "IES"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGRS",
+        "estado": "Inativo",
+        "designacao": "Direção-Geral de Reinserção Social",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não",
+        "dataExtincao": "2011-12-29"
+    },
+    {
+        "sigla": "UTAD",
+        "sioe": "102150000",
+        "designacao": "Universidade de Trás-os-Montes e Alto Douro",
+        "tipologias": [
+            "AP",
+            "IES"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SMASALM",
+        "sioe": "875790839",
+        "designacao": "Serviços Municipalizados de Água e Saneamento de Almada",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "FCM-UNL",
+        "sioe": "875793117",
+        "designacao": "Faculdade de Ciências Médicas da Universidade Nova de Lisboa",
+        "tipologias": [
+            "AP",
+            "IES"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "HDVCT",
+        "estado": "Inativo",
+        "designacao": "Hospital de Viana do Castelo",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGITA",
+        "estado": "Inativo",
+        "designacao": "Direção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "MAC",
+        "estado": "Inativo",
+        "designacao": "Maternidade Alfredo da Costa",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "SGMC",
+        "estado": "Inativo",
+        "designacao": "Secretaria Geral do Ministério da Cultura",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "DGAIEC",
+        "estado": "Inativo",
+        "designacao": "Direção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "GSEAE",
+        "estado": "Inativo",
+        "designacao": "Gabinete do Secretário de Estado dos Assuntos Europeus",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ERSE",
+        "sioe": "75000000",
+        "designacao": "Entidade Reguladora dos Serviços Energéticos",
+        "tipologias": [
+            "AAC",
+            "ASF",
+            "EAI",
+            "ER"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2002-04-12"
+    },
+    {
+        "sigla": "CPCS",
+        "designacao": "Comissão Permanente de Concertação Social",
+        "internacional": "Não"
+    },
+    {
+        "sigla": "INML",
+        "estado": "INATIVO",
+        "designacao": "Instituto Nacional de Medicina Legal",
+        "tipologias": [
+            "AP",
+            "ACE",
+            "IP"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "UMCCI",
+        "estado": "INATIVO",
+        "designacao": "Unidade de Missão para os Cuidados Continuados Integrados",
+        "tipologias": [
+            "AP"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2006-12-18",
+        "dataExtincao": "2012-12-01"
+    },
+    {
+        "sigla": "SEAP",
+        "designacao": "Secretaria de Estado da Administração Pública",
+        "tipologias": [
+            "Gov"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "ML",
+        "sioe": "770000330",
+        "designacao": "Metropolitano de Lisboa, E.P.E.",
+        "tipologias": [
+            "SPE"
+        ],
+        "internacional": "Não"
+    },
+    {
+        "sigla": "NaT",
+        "estado": "NaT",
+        "sioe": "NaT",
+        "designacao": "NaT",
+        "tipologias": [
+            "NaT"
+        ],
+        "internacional": "NaT"
+    },
+    {
+        "sigla": "NaT",
+        "estado": "NaT",
+        "sioe": "NaT",
+        "designacao": "NaT",
+        "tipologias": [
+            "NaT"
+        ],
+        "internacional": "NaT"
+    },
+    {
+        "sigla": "NaT",
+        "estado": "NaT",
+        "sioe": "NaT",
+        "designacao": "NaT",
+        "tipologias": [
+            "NaT"
+        ],
+        "internacional": "NaT"
+    },
+    {
+        "sigla": "NaT",
+        "estado": "NaT",
+        "sioe": "NaT",
+        "designacao": "NaT",
+        "tipologias": [
+            "NaT"
+        ],
+        "internacional": "NaT"
+    },
+    {
+        "sigla": "NaT",
+        "estado": "NaT",
+        "sioe": "NaT",
+        "designacao": "NaT",
+        "tipologias": [
+            "NaT"
+        ],
+        "internacional": "NaT"
+    },
+    {
+        "sigla": "NaT",
+        "estado": "NaT",
+        "sioe": "NaT",
+        "designacao": "NaT",
+        "tipologias": [
+            "NaT"
+        ],
+        "internacional": "NaT"
+    }
+]

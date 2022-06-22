@@ -1,0 +1,3275 @@
+
+###  http://jcr.di.uminho.pt/m51-clav#c750
+:c750 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N1 ;
+	:codigo '750' ;
+	:titulo 'PRESTAÇÃO DE SERVIÇOS DE ENSINO E FORMAÇÃO' ;
+	:pertenceLC :lc1 ;
+	:temPai :lc1 ;
+	:descricao 'Relativo à prestação de serviços no domínio da educação/ensino/qualificação da população, independentemente da idade ou do contexto (escolar, académico, profissional ou outro) - inclui a educação pré-escolar, o ensino básico e secundário, o ensino superior, a educação extraescolar e todos os cursos de formação, de qualificação profissional e valorização permanente, em qualquer área do conhecimento. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750_15e3b9a97050
+:nota_750_15e3b9a97050 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Inclui as ações de formação para a qualificação dos recursos humanos da administração pública, bem como a realização de estágios.".
+
+:c750 :temNotaAplicacao :nota_750_15e3b9a97050 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750_2ba90827ee4f
+:nota_750_2ba90827ee4f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Aplicável tanto às entidades que prestam os serviços referidos como às que solicitam a prestação dos mesmos.".
+
+:c750 :temNotaAplicacao :nota_750_2ba90827ee4f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750_c6bf68ac875b
+:nota_750_c6bf68ac875b rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As ações de sensibilização, congressos, seminários e outros encontros científicos ou profissionais, devem ser considerados em \"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\" (900.10)".
+
+:c750 :temNotaExclusao :nota_750_c6bf68ac875b .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.10
+:c750.10 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N2 ;
+	:codigo '750.10' ;
+	:titulo 'Gestão do aluno/formando' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750 ;
+	:descricao 'Compreende as atividades relacionadas com apresentação de candidaturas, seleção de candidatos, matrículas, inscrições, transferências de alunos/formandos entre cursos, turmas ou estabelecimentos de ensino, e ainda as atividades relacionadas com a orientação vocacional do aluno/formando, e/ou o seu encaminhamento para percurso ou ensino especial.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10_ea081048e0fd
+:nota_750.10_ea081048e0fd rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Quando aplicável, estas atividades incidem igualmente sobre estagiários.".
+
+:c750.10 :temNotaAplicacao :nota_750.10_ea081048e0fd .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.10.001
+:c750.10.001 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.10.001' ;
+	:titulo 'Seleção e seriação para ingresso no ensino ou formação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.10 ;
+	:descricao 'Avaliação da capacidade para a frequência de curso ou de ação de formação, bem como a realização das tarefas inerentes ao concurso ou admissão, designadamente as provas específicas, e à satisfação de pré-requisitos (realização de provas de aptidão física, funcional ou vocacional). Inicia com a candidatura a curso ou inscrição/encaminhamento para formação e termina com a publicação da lista de graduação final ou lista de admitidos a formação. Inclui realização de provas de ingresso, aplicação de fórmulas e classificações mínimas, seriação dos candidatos, elaboração de pautas finais e respetiva homologação.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.001_8fc46e78a3b6
+:nota_750.10.001_8fc46e78a3b6 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Candidatura a formação profissional".
+
+:c750.10.001 :temNotaAplicacao :nota_750.10.001_8fc46e78a3b6 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.001_fe82f686cd4c
+:nota_750.10.001_fe82f686cd4c rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Candidatos selecionados ou encaminhados para a formação profissional".
+
+:c750.10.001 :temNotaAplicacao :nota_750.10.001_fe82f686cd4c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.001_f9c0d9eec506
+:nota_750.10.001_f9c0d9eec506 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Candidatura por bolseiro de língua portuguesa".
+
+:c750.10.001 :temNotaAplicacao :nota_750.10.001_f9c0d9eec506 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.001_be5fe1aa2cf1
+:nota_750.10.001_be5fe1aa2cf1 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Proposição a reingresso, mudança de curso e transferência".
+
+:c750.10.001 :temNotaAplicacao :nota_750.10.001_be5fe1aa2cf1 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.001_0082373b7414
+:nota_750.10.001_0082373b7414 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Candidatura a formação para acesso ou progressão na carreira".
+
+:c750.10.001 :temNotaAplicacao :nota_750.10.001_0082373b7414 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.001_445e97dcc3c7
+:nota_750.10.001_445e97dcc3c7 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Candidatura a pós-graduação".
+
+:c750.10.001 :temNotaAplicacao :nota_750.10.001_445e97dcc3c7 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.001_98dc090e08e9
+:nota_750.10.001_98dc090e08e9 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Candidatura no âmbito do ensino regular profissional".
+
+:c750.10.001 :temNotaAplicacao :nota_750.10.001_98dc090e08e9 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.001_308ce393a1e1
+:nota_750.10.001_308ce393a1e1 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Candidatura a concurso especial de acesso ao ensino superior".
+
+:c750.10.001 :temNotaAplicacao :nota_750.10.001_308ce393a1e1 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.001_a4b959ee1be7
+:nota_750.10.001_a4b959ee1be7 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Seriação para ingresso no ensino básico ou secundário ou no âmbito da escolaridade obrigatória".
+
+:c750.10.001 :temNotaAplicacao :nota_750.10.001_a4b959ee1be7 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.001_dd65f07ab655
+:nota_750.10.001_dd65f07ab655 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Seleção e encaminhamento de candidatos para formação profissional".
+
+:c750.10.001 :temNotaAplicacao :nota_750.10.001_dd65f07ab655 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.001_e36799d01452
+:nota_750.10.001_e36799d01452 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Candidatura a opções e ramos".
+
+:c750.10.001 :temNotaAplicacao :nota_750.10.001_e36799d01452 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.001_38e98dd85ac2
+:nota_750.10.001_38e98dd85ac2 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A elaboração de calendários das provas de ingresso deve ser considerada em 150.20.101 – Planeamento estratégico de atividades".
+
+:c750.10.001 :temNotaExclusao :nota_750.10.001_38e98dd85ac2 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.001_64f1fc2adca6
+:nota_750.10.001_64f1fc2adca6 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A reclamação de resultados da seleção deve ser considerada em 500.40.001 – Processamento de reclamações em atos administrativos, ou em 500.40.500 – Processamento de recursos hierárquicos, ou, ainda, em 500.40.501 – Processamento de recursos administrativos especiais".
+
+:c750.10.001 :temNotaExclusao :nota_750.10.001_64f1fc2adca6 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.001_d091c027b9a6
+:nota_750.10.001_d091c027b9a6 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O recurso que evolua para os Tribunais deve ser considerado em 600.30.550 – Ação administrativa".
+
+:c750.10.001 :temNotaExclusao :nota_750.10.001_d091c027b9a6 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.001_a3406f8ba60d
+:nota_750.10.001_a3406f8ba60d rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As atividades relacionadas com a seleção e seriação de recluso para acesso a ação de formação devem ser consideradas em 600.40.303 – Acompanhamento da execução de medida tutelar educativa não privativa da liberdade".
+
+:c750.10.001 :temNotaExclusao :nota_750.10.001_a3406f8ba60d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.001_f29c65b6cf08
+:nota_750.10.001_f29c65b6cf08 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As atividades relacionadas com a seleção e seriação de jovem em centro educativo para acesso a ação de formação devem ser consideradas em 600.40.100 – Execução de medida de internamento em centro educativo".
+
+:c750.10.001 :temNotaExclusao :nota_750.10.001_f29c65b6cf08 .
+
+:c750.10.001 :processoTipoVC :vc_processoTipo_pc .
+:c750.10.001 :processoTransversal "S" .
+:c750.10.001 :temDono :tip_IES .
+:c750.10.001 :temDono :tip_EstE .
+:c750.10.001 :temDono :ent_DGES .
+:c750.10.001 :temDono :tip_AP .
+:c750.10.001 :temDono :tip_AL .
+:c750.10.001 :temDono :tip_CCDR .
+:c750.10.001 :temDono :ent_IMT .
+:c750.10.001 :temDono :ent_ICNF .
+:c750.10.001 :temDono :ent_ACT .
+:c750.10.001 :temDono :ent_CASES .
+:c750.10.001 :temDono :ent_CGA .
+:c750.10.001 :temDono :ent_CITE .
+:c750.10.001 :temDono :ent_CNPDPCJ .
+:c750.10.001 :temDono :ent_CPL .
+:c750.10.001 :temDono :ent_CRL .
+:c750.10.001 :temDono :ent_DGERT .
+:c750.10.001 :temDono :ent_DGSS .
+:c750.10.001 :temDono :ent_GEP .
+:c750.10.001 :temDono :ent_IEFP .
+:c750.10.001 :temDono :ent_IGMTSSS .
+:c750.10.001 :temDono :ent_IGFCSS .
+:c750.10.001 :temDono :ent_IGFSS .
+:c750.10.001 :temDono :ent_II .
+:c750.10.001 :temDono :ent_INR .
+:c750.10.001 :temDono :ent_ISS .
+:c750.10.001 :temDono :ent_OIT .
+:c750.10.001 :temDono :ent_POISE .
+:c750.10.001 :temDono :ent_SGMTSSS .
+:c750.10.001 :temDono :ent_DGPM .
+:c750.10.001 :temDono :ent_DGRM .
+:c750.10.001 :temDono :ent_DGADR .
+:c750.10.001 :temDono :ent_INIAV .
+:c750.10.001 :temDono :ent_PDR2020 .
+:c750.10.001 :temDono :tip_DRAP .
+:c750.10.001 :temDono :ent_CV .
+:c750.10.001 :temParticipanteComunicador :tip_IES .
+:c750.10.001 :temParticipanteAssessor :tip_FA .
+:c750.10.001 :temParticipanteIniciador :tip_AP .
+:c750.10.001 :temParticipanteIniciador :ent_INFARMED .
+:c750.10.001 :temParticipanteIniciador :ent_IMT .
+:c750.10.001 :temParticipanteIniciador :ent_ICNF .
+:c750.10.001 :temParticipanteIniciador :ent_ACT .
+:c750.10.001 :temParticipanteIniciador :ent_CASES .
+:c750.10.001 :temParticipanteIniciador :ent_CGA .
+:c750.10.001 :temParticipanteIniciador :ent_CITE .
+:c750.10.001 :temParticipanteIniciador :ent_CNPDPCJ .
+:c750.10.001 :temParticipanteIniciador :ent_CPL .
+:c750.10.001 :temParticipanteIniciador :ent_CRL .
+:c750.10.001 :temParticipanteIniciador :ent_DGERT .
+:c750.10.001 :temParticipanteIniciador :ent_DGSS .
+:c750.10.001 :temParticipanteIniciador :ent_GEP .
+:c750.10.001 :temParticipanteIniciador :ent_IEFP .
+:c750.10.001 :temParticipanteIniciador :ent_IGMTSSS .
+:c750.10.001 :temParticipanteIniciador :ent_IGFCSS .
+:c750.10.001 :temParticipanteIniciador :ent_IGFSS .
+:c750.10.001 :temParticipanteIniciador :ent_II .
+:c750.10.001 :temParticipanteIniciador :ent_INR .
+:c750.10.001 :temParticipanteIniciador :ent_ISS .
+:c750.10.001 :temParticipanteIniciador :ent_OIT .
+:c750.10.001 :temParticipanteIniciador :ent_POISE .
+:c750.10.001 :temParticipanteIniciador :ent_SGMTSSS .
+:c750.10.001 :temParticipanteIniciador :ent_DGPM .
+:c750.10.001 :temParticipanteIniciador :ent_DGRM .
+:c750.10.001 :temParticipanteIniciador :ent_GAMA .
+:c750.10.001 :temParticipanteIniciador :ent_DGADR .
+:c750.10.001 :temParticipanteIniciador :ent_DGAV .
+:c750.10.001 :temParticipanteIniciador :ent_INIAV .
+:c750.10.001 :temParticipanteIniciador :ent_IVV .
+:c750.10.001 :temParticipanteIniciador :ent_IVDP .
+:c750.10.001 :temParticipanteIniciador :ent_PDR2020 .
+:c750.10.001 :temParticipanteIniciador :ent_GPP .
+:c750.10.001 :temParticipanteIniciador :tip_DRAP .
+:c750.10.001 :temParticipanteIniciador :ent_IFAP .
+:c750.10.001 :temParticipanteIniciador :ent_CV .
+:c750.10.001 :temLegislacao :leg_Lei_45_2013 .
+:c750.10.001 :temLegislacao :leg_Lei_45_2012 .
+:c750.10.001 :temLegislacao :leg_DL_92_2011 .
+:c750.10.001 :temLegislacao :leg_Lei_60_2011 .
+:c750.10.001 :temLegislacao :leg_Portaria_181_D_2015 .
+:c750.10.001 :temLegislacao :leg_Lei_9_2009 .
+:c750.10.001 :temLegislacao :leg_Lei_2_2008 .
+:c750.10.001 :temLegislacao :leg_Portaria_1500_2007 .
+:c750.10.001 :temLegislacao :leg_Portaria_832_2007 .
+:c750.10.001 :temLegislacao :leg_Portaria_401_2007 .
+:c750.10.001 :temLegislacao :leg_DL_24_2006 .
+:c750.10.001 :temLegislacao :leg_DL_174_2001 .
+:c750.10.001 :temLegislacao :leg_Lei_166_99 .
+:c750.10.001 :temLegislacao :leg_DL_70_A_2000 .
+:c750.10.001 :temLegislacao :leg_DL_174_2001 .
+:c750.10.001 :temLegislacao :leg_DL_4_98 .
+:c750.10.001 :temLegislacao :leg_DL_48_86 .
+:c750.10.001 :temRelProc :c150.20.001 .
+:c750.10.001 :eSucessorDe :c150.20.001 .
+:c750.10.001 :temRelProc :c150.20.101 .
+:c750.10.001 :eSucessorDe :c150.20.101 .
+:c750.10.001 :temRelProc :c450.30.502 .
+:c750.10.001 :eAntecessorDe :c450.30.502 .
+:c750.10.001 :temRelProc :c500.40.001 .
+:c750.10.001 :eAntecessorDe :c500.40.001 .
+:c750.10.001 :temRelProc :c500.40.500 .
+:c750.10.001 :eAntecessorDe :c500.40.500 .
+:c750.10.001 :temRelProc :c750.10.002 .
+:c750.10.001 :eAntecessorDe :c750.10.002 .
+:c750.10.001 :temRelProc :c750.10.602 .
+:c750.10.001 :eAntecessorDe :c750.10.602 .
+:c750.10.001 :temRelProc :c900.10.504 .
+:c750.10.001 :eSucessorDe :c900.10.504 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.10.001.01
+:c750.10.001.01 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '750.10.001.01' ;
+	:titulo 'Seleção e seriação para ingresso no ensino ou formação: seleção' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.10.001 ;
+	:descricao 'Inicia com a candidatura / encaminhamento. Inclui apresentação de elementos instrutórios, verificação dos pré-requisitos, aplicação dos métodos para a seleção, quando necessário, como a realização de provas de ingresso (gerais ou específicas) e respetiva avaliação, elaboração e publicitação de lista provisória de admitidos e excluídos. Termina com publicitação de lista de admitidos e excluídos.' .
+:c750.10.001.01 :temPCA :pca_c750.10.001.01.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.10.001.01
+:pca_c750.10.001.01 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.10.001.01 :pcaValor 5.0.
+:pca_c750.10.001.01 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.10.001.01
+:just_pca_c750.10.001.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.10.001.01 :temJustificacao :just_pca_c750.10.001.01 .
+:just_pca_c750.10.001.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c750.10.001.01 :temCriterio :just_pca_c750.10.001.01_0. 
+:just_pca_c750.10.001.01_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c750.10.001.01_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito, 500.20.003 - Realização de sindicância) e de fiscalização (500.10.301 - Realização de fiscalização) e para processamento de novos planos." .
+:just_pca_c750.10.001.01 :temCriterio :just_pca_c750.10.001.01_1. 
+:just_pca_c750.10.001.01_1 :critTemProcRel :c500.20.002 .
+:just_pca_c750.10.001.01_1 :critTemProcRel :c500.20.003 .
+:just_pca_c750.10.001.01_1 :critTemProcRel :c500.10.301 .
+:c750.10.001.01 :temDF :df_c750.10.001.01.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.10.001.01
+:df_c750.10.001.01 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.10.001.01 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.10.001.01
+:just_df_c750.10.001.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.10.001.01 :temJustificacao :just_df_c750.10.001.01 .
+:just_df_c750.10.001.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada em 750.10.001.02 - Seleção e seriação para ingresso no ensino ou formação: seriação." .
+:just_df_c750.10.001.01 :temCriterio :just_df_c750.10.001.01_0. 
+:just_df_c750.10.001.01_0 :critTemProcRel :c750.10.001 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.10.001.02
+:c750.10.001.02 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '750.10.001.02' ;
+	:titulo 'Seleção e seriação para ingresso no ensino ou formação: seriação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.10.001 ;
+	:descricao 'Inicia-se com a aplicação dos métodos para a ordenação dos candidatos. Inclui a elaboração de listas ou pautas definitivas. Termina com a publicitação. ' .
+:c750.10.001.02 :temPCA :pca_c750.10.001.02.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.10.001.02
+:pca_c750.10.001.02 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.10.001.02 :pcaValor 5.0.
+:pca_c750.10.001.02 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.10.001.02
+:just_pca_c750.10.001.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.10.001.02 :temJustificacao :just_pca_c750.10.001.02 .
+:just_pca_c750.10.001.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c750.10.001.02 :temCriterio :just_pca_c750.10.001.02_0. 
+:just_pca_c750.10.001.02_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c750.10.001.02_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito, 500.20.003 - Realização de sindicância) e de fiscalização (500.10.301 - Realização de fiscalização) e para processamento de novos plano" .
+:just_pca_c750.10.001.02 :temCriterio :just_pca_c750.10.001.02_1. 
+:just_pca_c750.10.001.02_1 :critTemProcRel :c500.20.002 .
+:just_pca_c750.10.001.02_1 :critTemProcRel :c500.20.003 .
+:just_pca_c750.10.001.02_1 :critTemProcRel :c500.10.301 .
+:c750.10.001.02 :temDF :df_c750.10.001.02.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.10.001.02
+:df_c750.10.001.02 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.10.001.02 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.10.001.02
+:just_df_c750.10.001.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.10.001.02 :temJustificacao :just_df_c750.10.001.02 .
+:just_df_c750.10.001.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Sintetiza a informação de 750.10.001.01 - Seleção e seriação para ingresso no ensino ou formação: seleção." .
+:just_df_c750.10.001.02 :temCriterio :just_df_c750.10.001.02_0. 
+:just_df_c750.10.001.02_0 :critTemProcRel :c750.10.001 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.10.002
+:c750.10.002 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.10.002' ;
+	:titulo 'Processamento de matrículas ou inscrições no ensino ou em formação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.10 ;
+	:descricao 'Realização ou renovação de matrícula em cursos ou inscrição em ações de formação. Inicia com o pedido de acesso ou ingresso e termina com a entrega de comprovativo de matrícula ou inscrição. Inclui proposta, verificação de dados de identificação e validação da existência dos requisitos necessários para efeito de matrícula ou inscrição. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_55e666443e4f
+:nota_750.10.002_55e666443e4f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Matrícula ou inscrição de alunos ou formandos do ensino à distância".
+
+:c750.10.002 :temNotaAplicacao :nota_750.10.002_55e666443e4f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_207264a84751
+:nota_750.10.002_207264a84751 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Matrícula ou inscrição de alunos do ensino profissional".
+
+:c750.10.002 :temNotaAplicacao :nota_750.10.002_207264a84751 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_5a743250a886
+:nota_750.10.002_5a743250a886 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Matrícula ou inscrição de alunos do ensino secundário".
+
+:c750.10.002 :temNotaAplicacao :nota_750.10.002_5a743250a886 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_4b51108ce2c0
+:nota_750.10.002_4b51108ce2c0 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Matrícula ou inscrição de alunos do ensino superior".
+
+:c750.10.002 :temNotaAplicacao :nota_750.10.002_4b51108ce2c0 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_39673d2f3b71
+:nota_750.10.002_39673d2f3b71 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Matrícula ou inscrição de alunos filhos de profissionais itinerantes".
+
+:c750.10.002 :temNotaAplicacao :nota_750.10.002_39673d2f3b71 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_f34f438d16bf
+:nota_750.10.002_f34f438d16bf rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Matrícula ou inscrição de alunos colocados em centros educativos ou estabelecimentos prisionais".
+
+:c750.10.002 :temNotaAplicacao :nota_750.10.002_f34f438d16bf .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_d95f5fc05d44
+:nota_750.10.002_d95f5fc05d44 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Matrícula ou inscrição de alunos com necessidades educativas especiais (condições especiais de matrícula)".
+
+:c750.10.002 :temNotaAplicacao :nota_750.10.002_d95f5fc05d44 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_f0da88f8b55f
+:nota_750.10.002_f0da88f8b55f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Matrícula ou inscrição de alunos sobredotados (antecipação de matrícula)".
+
+:c750.10.002 :temNotaAplicacao :nota_750.10.002_f0da88f8b55f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_b1c5fb419306
+:nota_750.10.002_b1c5fb419306 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Matrícula ou inscrição em formação inicial para ingresso em carreiras profissionais específicas".
+
+:c750.10.002 :temNotaAplicacao :nota_750.10.002_b1c5fb419306 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_206628b344ab
+:nota_750.10.002_206628b344ab rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Inscrição de formandos em cursos de formação profissional".
+
+:c750.10.002 :temNotaAplicacao :nota_750.10.002_206628b344ab .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_d46fa41f97d6
+:nota_750.10.002_d46fa41f97d6 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Inscrição de trabalhadores em ações de formação profissional".
+
+:c750.10.002 :temNotaAplicacao :nota_750.10.002_d46fa41f97d6 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_ae7306b1d6c0
+:nota_750.10.002_ae7306b1d6c0 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Inscrição em atividades extra curriculares e de enriquecimento curricular".
+
+:c750.10.002 :temNotaAplicacao :nota_750.10.002_ae7306b1d6c0 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_46818940d0d0
+:nota_750.10.002_46818940d0d0 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Inscrição em estágios".
+
+:c750.10.002 :temNotaAplicacao :nota_750.10.002_46818940d0d0 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_f123107755fc
+:nota_750.10.002_f123107755fc rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Reingresso de alunos no ensino".
+
+:c750.10.002 :temNotaAplicacao :nota_750.10.002_f123107755fc .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_817a572b0834
+:nota_750.10.002_817a572b0834 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Transferência de alunos ou formandos".
+
+:c750.10.002 :temNotaAplicacao :nota_750.10.002_817a572b0834 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_3fd1dc816564
+:nota_750.10.002_3fd1dc816564 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pedidos de horário especial em contexto laboral devem ser considerados em 250.20.200 – Processamento de pedidos de horário de trabalho especial".
+
+:c750.10.002 :temNotaExclusao :nota_750.10.002_3fd1dc816564 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_60aad82ef767
+:nota_750.10.002_60aad82ef767 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O pagamento de propinas deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c750.10.002 :temNotaExclusao :nota_750.10.002_60aad82ef767 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_c66b02198cfe
+:nota_750.10.002_c66b02198cfe rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A emissão de certificados ou diplomas de escolaridade deve ser considerada em 450.30.002 – Certificação de habilitações ou qualificações".
+
+:c750.10.002 :temNotaExclusao :nota_750.10.002_c66b02198cfe .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_8eca5c87c46a
+:nota_750.10.002_8eca5c87c46a rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A ação disciplinar em contexto escolar ou formativo deve ser considerada em 500.20.300 – Procedimento disciplinar".
+
+:c750.10.002 :temNotaExclusao :nota_750.10.002_8eca5c87c46a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.002_838235e3d3fa
+:nota_750.10.002_838235e3d3fa rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A aplicação de métodos de seleção, designadamente concursos, provas de ingresso e a satisfação de pré-requisitos (realização de provas de aptidão física, funcional ou vocacional) devem ser considerados em 750.10.001 – Seleção e seriação para ingresso no ensino ou formação".
+
+:c750.10.002 :temNotaExclusao :nota_750.10.002_838235e3d3fa .
+
+:c750.10.002 :processoTipoVC :vc_processoTipo_pc .
+:c750.10.002 :processoTransversal "S" .
+:c750.10.002 :temDono :tip_IES .
+:c750.10.002 :temDono :tip_EstE .
+:c750.10.002 :temDono :tip_AP .
+:c750.10.002 :temDono :tip_AL .
+:c750.10.002 :temDono :ent_Grupo_IP .
+:c750.10.002 :temDono :tip_CCDR .
+:c750.10.002 :temDono :ent_IMT .
+:c750.10.002 :temDono :ent_ICNF .
+:c750.10.002 :temDono :ent_ACT .
+:c750.10.002 :temDono :ent_CASES .
+:c750.10.002 :temDono :ent_CGA .
+:c750.10.002 :temDono :ent_CITE .
+:c750.10.002 :temDono :ent_CNPDPCJ .
+:c750.10.002 :temDono :ent_CPL .
+:c750.10.002 :temDono :ent_CRL .
+:c750.10.002 :temDono :ent_DGERT .
+:c750.10.002 :temDono :ent_DGSS .
+:c750.10.002 :temDono :ent_GEP .
+:c750.10.002 :temDono :ent_IEFP .
+:c750.10.002 :temDono :ent_IGMTSSS .
+:c750.10.002 :temDono :ent_IGFCSS .
+:c750.10.002 :temDono :ent_IGFSS .
+:c750.10.002 :temDono :ent_II .
+:c750.10.002 :temDono :ent_INR .
+:c750.10.002 :temDono :ent_ISS .
+:c750.10.002 :temDono :ent_OIT .
+:c750.10.002 :temDono :ent_POISE .
+:c750.10.002 :temDono :ent_SGMTSSS .
+:c750.10.002 :temDono :ent_DGPM .
+:c750.10.002 :temDono :ent_DGRM .
+:c750.10.002 :temDono :ent_DGADR .
+:c750.10.002 :temDono :ent_INIAV .
+:c750.10.002 :temDono :ent_PDR2020 .
+:c750.10.002 :temDono :ent_GPP .
+:c750.10.002 :temDono :tip_DRAP .
+:c750.10.002 :temDono :ent_CV .
+:c750.10.002 :temDono :ent_ERSE .
+:c750.10.002 :temParticipanteComunicador :ent_DGES .
+:c750.10.002 :temParticipanteIniciador :tip_AP .
+:c750.10.002 :temParticipanteIniciador :tip_AL .
+:c750.10.002 :temParticipanteIniciador :ent_INFARMED .
+:c750.10.002 :temParticipanteIniciador :ent_IMT .
+:c750.10.002 :temParticipanteIniciador :ent_ICNF .
+:c750.10.002 :temParticipanteIniciador :ent_IGAMAOT .
+:c750.10.002 :temParticipanteIniciador :ent_ACT .
+:c750.10.002 :temParticipanteIniciador :ent_CASES .
+:c750.10.002 :temParticipanteIniciador :ent_CGA .
+:c750.10.002 :temParticipanteIniciador :ent_CITE .
+:c750.10.002 :temParticipanteIniciador :ent_CNPDPCJ .
+:c750.10.002 :temParticipanteIniciador :ent_CPL .
+:c750.10.002 :temParticipanteIniciador :ent_CRL .
+:c750.10.002 :temParticipanteIniciador :ent_DGERT .
+:c750.10.002 :temParticipanteIniciador :ent_DGSS .
+:c750.10.002 :temParticipanteIniciador :ent_GEP .
+:c750.10.002 :temParticipanteIniciador :ent_IEFP .
+:c750.10.002 :temParticipanteIniciador :ent_IGMTSSS .
+:c750.10.002 :temParticipanteIniciador :ent_IGFCSS .
+:c750.10.002 :temParticipanteIniciador :ent_IGFSS .
+:c750.10.002 :temParticipanteIniciador :ent_II .
+:c750.10.002 :temParticipanteIniciador :ent_INR .
+:c750.10.002 :temParticipanteIniciador :ent_ISS .
+:c750.10.002 :temParticipanteIniciador :ent_OIT .
+:c750.10.002 :temParticipanteIniciador :ent_POISE .
+:c750.10.002 :temParticipanteIniciador :ent_SGMTSSS .
+:c750.10.002 :temParticipanteIniciador :ent_DGPM .
+:c750.10.002 :temParticipanteIniciador :ent_DGRM .
+:c750.10.002 :temParticipanteIniciador :ent_GAMA .
+:c750.10.002 :temParticipanteIniciador :ent_DGADR .
+:c750.10.002 :temParticipanteIniciador :ent_DGAV .
+:c750.10.002 :temParticipanteIniciador :ent_INIAV .
+:c750.10.002 :temParticipanteIniciador :ent_IVV .
+:c750.10.002 :temParticipanteIniciador :ent_IVDP .
+:c750.10.002 :temParticipanteIniciador :ent_PDR2020 .
+:c750.10.002 :temParticipanteIniciador :ent_GPP .
+:c750.10.002 :temParticipanteIniciador :tip_DRAP .
+:c750.10.002 :temParticipanteIniciador :ent_IFAP .
+:c750.10.002 :temParticipanteIniciador :ent_CV .
+:c750.10.002 :temLegislacao :leg_Portaria_1141_2005 .
+:c750.10.002 :temLegislacao :leg_DL_174_2001 .
+:c750.10.002 :temLegislacao :leg_DL_29_2001 .
+:c750.10.002 :temLegislacao :leg_DL_70_A_2000 .
+:c750.10.002 :temLegislacao :leg_DL_174_2001 .
+:c750.10.002 :temLegislacao :leg_DL_48_86 .
+:c750.10.002 :temLegislacao :leg_DL_433_82 .
+:c750.10.002 :temRelProc :c150.20.101 .
+:c750.10.002 :eSucessorDe :c150.20.101 .
+:c750.10.002 :temRelProc :c150.20.300 .
+:c750.10.002 :eSintetizadoPor :c150.20.300 .
+:c750.10.002 :temRelProc :c150.40.001 .
+:c750.10.002 :eSintetizadoPor :c150.40.001 .
+:c750.10.002 :temRelProc :c250.20.001 .
+:c750.10.002 :eSintetizadoPor :c250.20.001 .
+:c750.10.002 :temRelProc :c350.30.001 .
+:c750.10.002 :eCruzadoCom :c350.30.001 .
+:c750.10.002 :temRelProc :c450.30.502 .
+:c750.10.002 :eAntecessorDe :c450.30.502 .
+:c750.10.002 :temRelProc :c500.10.301 .
+:c750.10.002 :eSuplementoPara :c500.10.301 .
+:c750.10.002 :temRelProc :c750.10.001 .
+:c750.10.002 :eSucessorDe :c750.10.001 .
+:c750.10.002 :temRelProc :c750.10.300 .
+:c750.10.002 :eSintetizadoPor :c750.10.300 .
+:c750.10.002 :temRelProc :c750.20.301 .
+:c750.10.002 :eAntecessorDe :c750.20.301 .
+:c750.10.002 :temRelProc :c750.20.600 .
+:c750.10.002 :eAntecessorDe :c750.20.600 .
+:c750.10.002 :temRelProc :c750.30.602 .
+:c750.10.002 :eSucessorDe :c750.30.602 .
+:c750.10.002 :temRelProc :c800.20.001 .
+:c750.10.002 :eAntecessorDe :c800.20.001 .
+:c750.10.002 :temRelProc :c800.20.002 .
+:c750.10.002 :eAntecessorDe :c800.20.002 .
+:c750.10.002 :temRelProc :c800.20.500 .
+:c750.10.002 :eAntecessorDe :c800.20.500 .
+:c750.10.002 :temPCA :pca_c750.10.002.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.10.002
+:pca_c750.10.002 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.10.002 :pcaValor 5.0.
+:pca_c750.10.002 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.10.002
+:just_pca_c750.10.002 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.10.002 :temJustificacao :just_pca_c750.10.002 .
+:just_pca_c750.10.002_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c750.10.002 :temCriterio :just_pca_c750.10.002_0. 
+:just_pca_c750.10.002_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c750.10.002_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito, 500.20.003 - Realização de sindicância) e de fiscalização (500.10.301 - Realização de fiscalização) e para processamento de novos planos." .
+:just_pca_c750.10.002 :temCriterio :just_pca_c750.10.002_1. 
+:just_pca_c750.10.002_1 :critTemProcRel :c500.20.002 .
+:just_pca_c750.10.002_1 :critTemProcRel :c500.20.003 .
+:just_pca_c750.10.002_1 :critTemProcRel :c500.10.301 .
+:c750.10.002 :temDF :df_c750.10.002.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.10.002
+:df_c750.10.002 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.10.002 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.10.002
+:just_df_c750.10.002 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.10.002 :temJustificacao :just_df_c750.10.002 .
+:just_df_c750.10.002_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação recuperável nos PN:150.20.300 - Avaliação de atividades;150.40.001 - Realização de operações estatísticas oficiais;250.20.001 – Registo biográfico de trabalhadores;750.10.300 - Processamento de dados cadastrais de alunos ou formandos." .
+:just_df_c750.10.002 :temCriterio :just_df_c750.10.002_0. 
+:just_df_c750.10.002_0 :critTemProcRel :c150.20.300 .
+:just_df_c750.10.002_0 :critTemProcRel :c150.40.001 .
+:just_df_c750.10.002_0 :critTemProcRel :c250.20.001 .
+:just_df_c750.10.002_0 :critTemProcRel :c750.10.300 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.10.300
+:c750.10.300 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.10.300' ;
+	:titulo 'Processamento dos dados cadastrais de alunos ou formandos' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.10 ;
+	:descricao 'Atualização continuada da informação cadastral do aluno ou formando. Inicia com o registo dos dados biográficos, curriculares, do aproveitamento escolar e ou profissionais do aluno ou formando e termina com a indicação de conclusão de estudos ou da ação de formação ou com a prescrição da matrícula. Inclui validação de dados do aluno ou formando, registo de dados relativos à assiduidade e à aplicação do regime disciplinar, registo e atualização de dados relativos ao aproveitamento escolar e percurso académico ou de ensino.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.300_409ba821ff1e
+:nota_750.10.300_409ba821ff1e rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Processamento de dados cadastrais dos alunos ou formandos de todos os graus e modalidades de ensino ou formação".
+
+:c750.10.300 :temNotaAplicacao :nota_750.10.300_409ba821ff1e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.300_779a61e20d4d
+:nota_750.10.300_779a61e20d4d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Processamento de dados relativos à transferência de estabelecimento de ensino".
+
+:c750.10.300 :temNotaAplicacao :nota_750.10.300_779a61e20d4d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.300_e20f48978662
+:nota_750.10.300_e20f48978662 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Formulário de identificação do formando".
+
+:c750.10.300 :temNotaAplicacao :nota_750.10.300_e20f48978662 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.300_619aff087c06
+:nota_750.10.300_619aff087c06 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Abate ao efetivo batalhão escolar ou colegial".
+
+:c750.10.300 :temNotaAplicacao :nota_750.10.300_619aff087c06 .
+
+:c750.10.300 :processoTipoVC :vc_processoTipo_pc .
+:c750.10.300 :processoTransversal "S" .
+:c750.10.300 :temDono :tip_AL .
+:c750.10.300 :temDono :tip_IES .
+:c750.10.300 :temDono :ent_IEFP .
+:c750.10.300 :temDono :ent_ICNF .
+:c750.10.300 :temDono :ent_ACT .
+:c750.10.300 :temDono :ent_CASES .
+:c750.10.300 :temDono :ent_CGA .
+:c750.10.300 :temDono :ent_CITE .
+:c750.10.300 :temDono :ent_CNPDPCJ .
+:c750.10.300 :temDono :ent_CPL .
+:c750.10.300 :temDono :ent_CRL .
+:c750.10.300 :temDono :ent_DGERT .
+:c750.10.300 :temDono :ent_DGSS .
+:c750.10.300 :temDono :ent_GEP .
+:c750.10.300 :temDono :ent_IEFP .
+:c750.10.300 :temDono :ent_IGMTSSS .
+:c750.10.300 :temDono :ent_IGFCSS .
+:c750.10.300 :temDono :ent_IGFSS .
+:c750.10.300 :temDono :ent_II .
+:c750.10.300 :temDono :ent_INR .
+:c750.10.300 :temDono :ent_ISS .
+:c750.10.300 :temDono :ent_OIT .
+:c750.10.300 :temDono :ent_POISE .
+:c750.10.300 :temDono :ent_SGMTSSS .
+:c750.10.300 :temDono :ent_DGPM .
+:c750.10.300 :temDono :ent_DGRM .
+:c750.10.300 :temDono :ent_DGAV .
+:c750.10.300 :temDono :ent_INIAV .
+:c750.10.300 :temDono :ent_PDR2020 .
+:c750.10.300 :temDono :ent_GPP .
+:c750.10.300 :temDono :tip_DRAP .
+:c750.10.300 :temDono :ent_CV .
+:c750.10.300 :temParticipanteIniciador :ent_ICNF .
+:c750.10.300 :temParticipanteIniciador :ent_DGPM .
+:c750.10.300 :temParticipanteIniciador :ent_DGRM .
+:c750.10.300 :temParticipanteIniciador :ent_GAMA .
+:c750.10.300 :temParticipanteIniciador :ent_DGADR .
+:c750.10.300 :temParticipanteIniciador :ent_DGAV .
+:c750.10.300 :temParticipanteIniciador :ent_INIAV .
+:c750.10.300 :temParticipanteIniciador :ent_IVV .
+:c750.10.300 :temParticipanteIniciador :ent_IVDP .
+:c750.10.300 :temParticipanteIniciador :ent_PDR2020 .
+:c750.10.300 :temParticipanteIniciador :tip_DRAP .
+:c750.10.300 :temParticipanteIniciador :ent_IFAP .
+:c750.10.300 :temParticipanteIniciador :ent_CV .
+:c750.10.300 :temLegislacao :leg_Lei_51_2012 .
+:c750.10.300 :temLegislacao :leg_Lei_49_2005 .
+:c750.10.300 :temLegislacao :leg_DL_50_98 .
+:c750.10.300 :temLegislacao :leg_Lei_47_86 .
+:c750.10.300 :temLegislacao :leg_Lei_21_85 .
+:c750.10.300 :temLegislacao :leg_DL_174_2001 .
+:c750.10.300 :temLegislacao :leg_DL_29_2001 .
+:c750.10.300 :temLegislacao :leg_DL_48_86 .
+:c750.10.300 :temLegislacao :leg_Portaria_213_2009 .
+:c750.10.300 :temLegislacao :leg_Portaria_400_2007 .
+:c750.10.300 :temLegislacao :leg_Portaria_181_D_2015 .
+:c750.10.300 :temRelProc :c450.30.002 .
+:c750.10.300 :eSinteseDe :c450.30.002 .
+:c750.10.300 :temRelProc :c450.30.003 .
+:c750.10.300 :eSinteseDe :c450.30.003 .
+:c750.10.300 :temRelProc :c450.30.502 .
+:c750.10.300 :eSinteseDe :c450.30.502 .
+:c750.10.300 :temRelProc :c500.20.300 .
+:c750.10.300 :eSinteseDe :c500.20.300 .
+:c750.10.300 :temRelProc :c500.30.004 .
+:c750.10.300 :eSinteseDe :c500.30.004 .
+:c750.10.300 :temRelProc :c650.20.304 .
+:c750.10.300 :eSinteseDe :c650.20.304 .
+:c750.10.300 :temRelProc :c750.10.002 .
+:c750.10.300 :eSinteseDe :c750.10.002 .
+:c750.10.300 :temRelProc :c750.10.600 .
+:c750.10.300 :eSinteseDe :c750.10.600 .
+:c750.10.300 :temRelProc :c750.10.602 .
+:c750.10.300 :eSinteseDe :c750.10.602 .
+:c750.10.300 :temRelProc :c750.30.601 .
+:c750.10.300 :eCruzadoCom :c750.30.601 .
+:c750.10.300 :temPCA :pca_c750.10.300.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.10.300
+:pca_c750.10.300 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.10.300 :pcaValor 60.0.
+:pca_c750.10.300 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_inicioProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.10.300
+:just_pca_c750.10.300 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.10.300 :temJustificacao :just_pca_c750.10.300 .
+:just_pca_c750.10.300_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "Conjugação:[Lei 49/2005], LBSE, art.º 11º, nº 2, alínea e), em que se refere a educação ao longo da vida;[Portaria 181-D/2015], que aprova o Regulamento dos Regimes de Reingresso e de Mudança de Par Instituição/Curso no Ensino Superior:- art.º 4º \"... ato pelo qual um estudante, após interrupção dos estudos num par instituição/curso de ensino superior, se matricula na mesma instituição e se inscreve no mesmo curso ou em curso que lhe tenha sucedido.\"- art.º 14º , nº2, que menciona as limitações quantitativas das vagas dos concursos de mudança de curso e transferência." .
+:just_pca_c750.10.300 :temCriterio :just_pca_c750.10.300_0. 
+:just_pca_c750.10.300_0 :critTemLegAssoc :leg_Lei_49_2005 .
+:just_pca_c750.10.300_0 :critTemLegAssoc :leg_Portaria_181_D_2015 .
+:just_pca_c750.10.300_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Considerando que o aluno pode reingressar no Ensino em qualquer momento da sua vida, conforme dispositivo legal, é necessário conservar a informação deste PN para o processamento do PN 750.10.002 - Processamento de matrículas ou inscrições no ensino ou em formação, considerando ainda a esperança média de vida à nascença (80 anos, fonte INE), descontados os 20 anos de idade média para o ingresso no ensino superior, obteve-se o valor de 60 anos." .
+:just_pca_c750.10.300 :temCriterio :just_pca_c750.10.300_1. 
+:just_pca_c750.10.300_1 :critTemProcRel :c750.10.002 .
+:c750.10.300 :temDF :df_c750.10.300.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.10.300
+:df_c750.10.300 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.10.300 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.10.300
+:just_df_c750.10.300 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.10.300 :temJustificacao :just_df_c750.10.300 .
+:just_df_c750.10.300_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "O PN contém informação quantitativa e qualitativa de síntese de outros processos." .
+:just_df_c750.10.300 :temCriterio :just_df_c750.10.300_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.10.600
+:c750.10.600 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.10.600' ;
+	:titulo 'Controlo de assiduidade de alunos ou formandos' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.10 ;
+	:descricao 'Verificação do cumprimento do dever do aluno ou formando de frequentar as atividades letivas, escolares ou formativas. Inicia com o registo de faltas do aluno ou formando e termina com a síntese de ocorrências relativas à assiduidade e pontualidade do mesmo. Inclui justificação de faltas e notificação dos interessados.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.600_be484391a00a
+:nota_750.10.600_be484391a00a rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Controlo de assiduidade em cursos financiados".
+
+:c750.10.600 :temNotaAplicacao :nota_750.10.600_be484391a00a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.600_f3179728fcb8
+:nota_750.10.600_f3179728fcb8 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Controlo de assiduidade em cursos não financiados".
+
+:c750.10.600 :temNotaAplicacao :nota_750.10.600_f3179728fcb8 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.600_dfe604b75c65
+:nota_750.10.600_dfe604b75c65 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Controlo da assiduidade durante o estágio".
+
+:c750.10.600 :temNotaAplicacao :nota_750.10.600_dfe604b75c65 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.600_01d4502fe456
+:nota_750.10.600_01d4502fe456 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A definição e aplicação de medidas disciplinares no caso do incumprimento do dever de assiduidade por parte do aluno ou formando devem ser consideradas em 500.20.300 – Procedimento disciplinar".
+
+:c750.10.600 :temNotaExclusao :nota_750.10.600_01d4502fe456 .
+
+:c750.10.600 :processoTipoVC :vc_processoTipo_pc .
+:c750.10.600 :processoTransversal "S" .
+:c750.10.600 :temDono :tip_IES .
+:c750.10.600 :temDono :tip_AP .
+:c750.10.600 :temDono :tip_AL .
+:c750.10.600 :temDono :ent_Grupo_IP .
+:c750.10.600 :temDono :tip_CCDR .
+:c750.10.600 :temDono :ent_IMT .
+:c750.10.600 :temDono :ent_ICNF .
+:c750.10.600 :temDono :ent_ACT .
+:c750.10.600 :temDono :ent_CASES .
+:c750.10.600 :temDono :ent_CGA .
+:c750.10.600 :temDono :ent_CITE .
+:c750.10.600 :temDono :ent_CNPDPCJ .
+:c750.10.600 :temDono :ent_CPL .
+:c750.10.600 :temDono :ent_CRL .
+:c750.10.600 :temDono :ent_DGERT .
+:c750.10.600 :temDono :ent_DGSS .
+:c750.10.600 :temDono :ent_GEP .
+:c750.10.600 :temDono :ent_IEFP .
+:c750.10.600 :temDono :ent_IGMTSSS .
+:c750.10.600 :temDono :ent_IGFCSS .
+:c750.10.600 :temDono :ent_IGFSS .
+:c750.10.600 :temDono :ent_II .
+:c750.10.600 :temDono :ent_INR .
+:c750.10.600 :temDono :ent_ISS .
+:c750.10.600 :temDono :ent_OIT .
+:c750.10.600 :temDono :ent_POISE .
+:c750.10.600 :temDono :ent_SGMTSSS .
+:c750.10.600 :temDono :ent_DGPM .
+:c750.10.600 :temDono :ent_DGRM .
+:c750.10.600 :temDono :ent_DGADR .
+:c750.10.600 :temDono :ent_INIAV .
+:c750.10.600 :temDono :ent_PDR2020 .
+:c750.10.600 :temDono :ent_GPP .
+:c750.10.600 :temDono :tip_DRAP .
+:c750.10.600 :temDono :ent_IFAP .
+:c750.10.600 :temDono :ent_CV .
+:c750.10.600 :temParticipanteIniciador :ent_ICNF .
+:c750.10.600 :temParticipanteIniciador :ent_DGPM .
+:c750.10.600 :temParticipanteIniciador :ent_DGRM .
+:c750.10.600 :temParticipanteIniciador :ent_GAMA .
+:c750.10.600 :temParticipanteIniciador :ent_DGADR .
+:c750.10.600 :temParticipanteIniciador :ent_DGAV .
+:c750.10.600 :temParticipanteIniciador :ent_INIAV .
+:c750.10.600 :temParticipanteIniciador :ent_IVV .
+:c750.10.600 :temParticipanteIniciador :ent_IVDP .
+:c750.10.600 :temParticipanteIniciador :ent_PDR2020 .
+:c750.10.600 :temParticipanteIniciador :ent_CV .
+:c750.10.600 :temLegislacao :leg_DL_174_2001 .
+:c750.10.600 :temLegislacao :leg_Lei_2_2008 .
+:c750.10.600 :temRelProc :c450.30.002 .
+:c750.10.600 :eCruzadoCom :c450.30.002 .
+:c750.10.600 :temRelProc :c450.30.502 .
+:c750.10.600 :eCruzadoCom :c450.30.502 .
+:c750.10.600 :temRelProc :c500.10.301 .
+:c750.10.600 :eSuplementoPara :c500.10.301 .
+:c750.10.600 :temRelProc :c500.20.300 .
+:c750.10.600 :eCruzadoCom :c500.20.300 .
+:c750.10.600 :temRelProc :c500.30.004 .
+:c750.10.600 :eCruzadoCom :c500.30.004 .
+:c750.10.600 :temRelProc :c750.10.300 .
+:c750.10.600 :eSintetizadoPor :c750.10.300 .
+:c750.10.600 :temRelProc :c750.30.601 .
+:c750.10.600 :eAntecessorDe :c750.30.601 .
+:c750.10.600 :temRelProc :c850.10.002 .
+:c750.10.600 :eSucessorDe :c850.10.002 .
+:c750.10.600 :temRelProc :c850.10.003 .
+:c750.10.600 :eSucessorDe :c850.10.003 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.10.600.01
+:c750.10.600.01 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '750.10.600.01' ;
+	:titulo 'Controlo de assiduidade de alunos ou formandos: cursos ou ações de formação financiadas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.10.600 ;
+	:descricao 'Verificação do cumprimento do dever do aluno ou formando de frequentar as atividades letivas, escolares ou formativas em cursos ou ações de formação financiados. Inicia com o registo de faltas do aluno ou formando e termina com a síntese de ocorrências relativas à assiduidade e pontualidade do mesmo no encerramento do curso, ação ou ano letivo. Inclui justificação de faltas e notificação dos interessados.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.600.01_580bff0425d2
+:nota_750.10.600.01_580bff0425d2 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Controlo de assiduidade em cursos financiados".
+
+:c750.10.600.01 :temNotaAplicacao :nota_750.10.600.01_580bff0425d2 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.600.01_03d57f466e3d
+:nota_750.10.600.01_03d57f466e3d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Controlo de assiduidade em formação financiada".
+
+:c750.10.600.01 :temNotaAplicacao :nota_750.10.600.01_03d57f466e3d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.600.01_db7278cbf5e6
+:nota_750.10.600.01_db7278cbf5e6 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Controlo de assiduidade em estágios de formação financiada".
+
+:c750.10.600.01 :temNotaAplicacao :nota_750.10.600.01_db7278cbf5e6 .
+
+:c750.10.600.01 :temPCA :pca_c750.10.600.01.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.10.600.01
+:pca_c750.10.600.01 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.10.600.01 :pcaValor 10.0.
+:pca_c750.10.600.01 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.10.600.01
+:just_pca_c750.10.600.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.10.600.01 :temJustificacao :just_pca_c750.10.600.01 .
+:just_pca_c750.10.600.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c750.10.600.01 :temCriterio :just_pca_c750.10.600.01_0. 
+:just_pca_c750.10.600.01_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c750.10.600.01_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 - Realização de fiscalização." .
+:just_pca_c750.10.600.01 :temCriterio :just_pca_c750.10.600.01_1. 
+:just_pca_c750.10.600.01_1 :critTemProcRel :c500.10.301 .
+:c750.10.600.01 :temDF :df_c750.10.600.01.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.10.600.01
+:df_c750.10.600.01 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.10.600.01 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.10.600.01
+:just_df_c750.10.600.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.10.600.01 :temJustificacao :just_df_c750.10.600.01 .
+:just_df_c750.10.600.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação recuperável noPN 750.10.300 - Processamento dos dados cadastrais de alunos ou formandos" .
+:just_df_c750.10.600.01 :temCriterio :just_df_c750.10.600.01_0. 
+:just_df_c750.10.600.01_0 :critTemProcRel :c750.10.300 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.10.600.02
+:c750.10.600.02 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '750.10.600.02' ;
+	:titulo 'Controlo de assiduidade de alunos ou formandos: cursos ou ações de formação não financiadas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.10.600 ;
+	:descricao 'Verificação do cumprimento do dever do aluno ou formando de frequentar as atividades letivas, escolares ou formativas em cursos ou ações de formação não financiados. Inicia com o registo de faltas do aluno ou formando e termina com a síntese de ocorrências relativas à assiduidade e pontualidade do mesmo no encerramento do curso, ação ou ano letivo. Inclui justificação de faltas e notificação dos interessados.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.600.02_da9359430b70
+:nota_750.10.600.02_da9359430b70 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Controlo de assiduidade em cursos não financiados".
+
+:c750.10.600.02 :temNotaAplicacao :nota_750.10.600.02_da9359430b70 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.600.02_b419caf2bc3e
+:nota_750.10.600.02_b419caf2bc3e rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Controlo de assiduidade no ensino regular".
+
+:c750.10.600.02 :temNotaAplicacao :nota_750.10.600.02_b419caf2bc3e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.600.02_6c757463f8e2
+:nota_750.10.600.02_6c757463f8e2 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Controlo de assiduidade em estágios de formação não financiada".
+
+:c750.10.600.02 :temNotaAplicacao :nota_750.10.600.02_6c757463f8e2 .
+
+:c750.10.600.02 :temPCA :pca_c750.10.600.02.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.10.600.02
+:pca_c750.10.600.02 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.10.600.02 :pcaValor 1.0.
+:pca_c750.10.600.02 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.10.600.02
+:just_pca_c750.10.600.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.10.600.02 :temJustificacao :just_pca_c750.10.600.02 .
+:just_pca_c750.10.600.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo para processamento de informação cadastral do aluno ou formando PN 750.10.300 - Processamento dos dados cadastrais de alunos ou formandos" .
+:just_pca_c750.10.600.02 :temCriterio :just_pca_c750.10.600.02_0. 
+:just_pca_c750.10.600.02_0 :critTemProcRel :c750.10.300 .
+:c750.10.600.02 :temDF :df_c750.10.600.02.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.10.600.02
+:df_c750.10.600.02 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.10.600.02 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.10.600.02
+:just_df_c750.10.600.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.10.600.02 :temJustificacao :just_df_c750.10.600.02 .
+:just_df_c750.10.600.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação recuperável noPN 750.10.300 - Processamento dos dados cadastrais de alunos ou formandos" .
+:just_df_c750.10.600.02 :temCriterio :just_df_c750.10.600.02_0. 
+:just_df_c750.10.600.02_0 :critTemProcRel :c750.10.300 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.10.601
+:c750.10.601 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.10.601' ;
+	:titulo 'Processamento de marcação e admissão a provas de avaliação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.10 ;
+	:descricao 'Realização das atividades inerentes à prestação de provas de avaliação de conhecimentos. Inicia com a marcação e termina com a realização da prova. Inclui, a apresentação de comprovativos da inscrição e frequência, conforme o grau de ensino, ciclo de estudos ou formação em apreço, a proposição de realização de prova ou de defesa de trabalho académico, a inscrição na prova, entrega de termo de aceitação ou parecer do orientador, de declaração do departamento e de autorização de depósito em repositório e a atribuição do número interno de identificação, sempre que aplicável. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_0bbfd7e968e4
+:nota_750.10.601_0bbfd7e968e4 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Exames finais".
+
+:c750.10.601 :temNotaAplicacao :nota_750.10.601_0bbfd7e968e4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_ca885e257a9a
+:nota_750.10.601_ca885e257a9a rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Exames nacionais dos ensinos básico e secundário".
+
+:c750.10.601 :temNotaAplicacao :nota_750.10.601_ca885e257a9a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_3b5b73b6c71d
+:nota_750.10.601_3b5b73b6c71d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Inscrição em época especial de exame".
+
+:c750.10.601 :temNotaAplicacao :nota_750.10.601_3b5b73b6c71d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_6712a058832a
+:nota_750.10.601_6712a058832a rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Inscrição em exame de melhoria de nota".
+
+:c750.10.601 :temNotaAplicacao :nota_750.10.601_6712a058832a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_826e919776f5
+:nota_750.10.601_826e919776f5 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Provas académicas".
+
+:c750.10.601 :temNotaAplicacao :nota_750.10.601_826e919776f5 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_bccee37af58e
+:nota_750.10.601_bccee37af58e rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Provas de equivalência à frequência".
+
+:c750.10.601 :temNotaAplicacao :nota_750.10.601_bccee37af58e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_0cf7516d1e75
+:nota_750.10.601_0cf7516d1e75 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Provas globais".
+
+:c750.10.601 :temNotaAplicacao :nota_750.10.601_0cf7516d1e75 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_7b2ff395a601
+:nota_750.10.601_7b2ff395a601 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Provas nacionais de aferição".
+
+:c750.10.601 :temNotaAplicacao :nota_750.10.601_7b2ff395a601 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_b6bda025ec66
+:nota_750.10.601_b6bda025ec66 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Provas orais".
+
+:c750.10.601 :temNotaAplicacao :nota_750.10.601_b6bda025ec66 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_d7d1ba721ca9
+:nota_750.10.601_d7d1ba721ca9 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Provas intercalares".
+
+:c750.10.601 :temNotaAplicacao :nota_750.10.601_d7d1ba721ca9 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_cf79f29255ce
+:nota_750.10.601_cf79f29255ce rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Inscrição na sequência de impedimento para a realização de prova".
+
+:c750.10.601 :temNotaAplicacao :nota_750.10.601_cf79f29255ce .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_cccf9963af24
+:nota_750.10.601_cccf9963af24 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Provas de agregação".
+
+:c750.10.601 :temNotaAplicacao :nota_750.10.601_cccf9963af24 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_14873ed77031
+:nota_750.10.601_14873ed77031 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Defesa de dissertação de mestrado e/ou tese de doutoramento".
+
+:c750.10.601 :temNotaAplicacao :nota_750.10.601_14873ed77031 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_ef146704ffe8
+:nota_750.10.601_ef146704ffe8 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Provas para título de especialista".
+
+:c750.10.601 :temNotaAplicacao :nota_750.10.601_ef146704ffe8 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_6f163a809f08
+:nota_750.10.601_6f163a809f08 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As candidaturas a provas de ingresso ao ensino superior devem ser consideradas em 750.10.001 – Seleção e seriação para ingresso no ensino ou formação".
+
+:c750.10.601 :temNotaExclusao :nota_750.10.601_6f163a809f08 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_557e71b56ce8
+:nota_750.10.601_557e71b56ce8 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A publicitação das pautas finais deve ser considerada em 750.30.601- Processamento e comunicação dos resultados de avaliação".
+
+:c750.10.601 :temNotaExclusao :nota_750.10.601_557e71b56ce8 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.601_f9dfabcdc0f4
+:nota_750.10.601_f9dfabcdc0f4 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A nomeação de júri deve ser considerada em 250.10.500".
+
+:c750.10.601 :temNotaExclusao :nota_750.10.601_f9dfabcdc0f4 .
+
+:c750.10.601 :processoTipoVC :vc_processoTipo_pe .
+:c750.10.601 :processoTransversal "N" .
+:c750.10.601 :temDono :tip_IES .
+:c750.10.601 :temDono :tip_EstE .
+:c750.10.601 :temDono :ent_INA .
+:c750.10.601 :temDono :ent_IEFP .
+:c750.10.601 :temDono :ent_ICNF .
+:c750.10.601 :temDono :ent_CASES .
+:c750.10.601 :temDono :ent_CPL .
+:c750.10.601 :temDono :ent_ISS .
+:c750.10.601 :temDono :ent_INIAV .
+:c750.10.601 :temDono :ent_GPP .
+:c750.10.601 :temDono :tip_DRAP .
+:c750.10.601 :temLegislacao :leg_DL_55_2018 .
+:c750.10.601 :temRelProc :c150.20.300 .
+:c750.10.601 :eSintetizadoPor :c150.20.300 .
+:c750.10.601 :temRelProc :c150.40.001 .
+:c750.10.601 :eSintetizadoPor :c150.40.001 .
+:c750.10.601 :temRelProc :c350.30.001 .
+:c750.10.601 :eCruzadoCom :c350.30.001 .
+:c750.10.601 :temRelProc :c750.10.002 .
+:c750.10.601 :eSucessorDe :c750.10.002 .
+:c750.10.601 :temRelProc :c750.10.600 .
+:c750.10.601 :eAntecessorDe :c750.10.600 .
+:c750.10.601 :temRelProc :c750.30.600 .
+:c750.10.601 :eAntecessorDe :c750.30.600 .
+:c750.10.601 :temRelProc :c750.30.601 .
+:c750.10.601 :eSintetizadoPor :c750.30.601 .
+:c750.10.601 :temRelProc :c800.20.001 .
+:c750.10.601 :eSucessorDe :c800.20.001 .
+:c750.10.601 :temRelProc :c800.20.002 .
+:c750.10.601 :eSucessorDe :c800.20.002 .
+:c750.10.601 :temRelProc :c800.20.500 .
+:c750.10.601 :eAntecessorDe :c800.20.500 .
+:c750.10.601 :temPCA :pca_c750.10.601.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.10.601
+:pca_c750.10.601 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.10.601 :pcaValor 1.0.
+:pca_c750.10.601 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.10.601
+:just_pca_c750.10.601 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.10.601 :temJustificacao :just_pca_c750.10.601 .
+:just_pca_c750.10.601_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo para processamento doPN 750.30.600 - Aplicação de instrumentos de avaliação de aprendizagens;PN 750.30.601 - Processamento e comunicação de resultados de avaliação." .
+:just_pca_c750.10.601 :temCriterio :just_pca_c750.10.601_0. 
+:just_pca_c750.10.601_0 :critTemProcRel :c750.30.600 .
+:just_pca_c750.10.601_0 :critTemProcRel :c750.30.601 .
+:c750.10.601 :temDF :df_c750.10.601.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.10.601
+:df_c750.10.601 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.10.601 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.10.601
+:just_df_c750.10.601 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.10.601 :temJustificacao :just_df_c750.10.601 .
+:just_df_c750.10.601_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação de síntese recuperável noPN 750.30.601 - Processamento e comunicação dos resultados de avaliação." .
+:just_df_c750.10.601 :temCriterio :just_df_c750.10.601_0. 
+:just_df_c750.10.601_0 :critTemProcRel :c750.30.601 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.10.602
+:c750.10.602 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.10.602' ;
+	:titulo 'Integração e acompanhamento de alunos com necessidades educativas especiais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.10 ;
+	:descricao 'Acolhimento e disponibilização de recursos educativos adequados a cada caso, durante o percurso escolar ou formativo, de forma a facilitar o desenvolvimento académico, pessoal e sócio-emocional do estudante ou formando, com vista à sua integração e participação em todas as esferas da sociedade. Inicia com a manifestação expressa da necessidade ou sinalização de acompanhamento especial e termina com a satisfação da necessidade ou com a conclusão do grau de ensino ou da formação. Inclui procedimentos de referenciação e avaliação, a proposta de adoção de medidas e soluções apropriadas à necessidade expressa, através de programa/plano educativo individual e seu acompanhamento.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.602_41b2cfb8a2b4
+:nota_750.10.602_41b2cfb8a2b4 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Acompanhamento de estudantes ou formandos com necessidades educativas especiais".
+
+:c750.10.602 :temNotaAplicacao :nota_750.10.602_41b2cfb8a2b4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.602_a9a4350f0554
+:nota_750.10.602_a9a4350f0554 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Acompanhamento de estudantes ou formandos pessoas com  deficiência física ou incapacidade".
+
+:c750.10.602 :temNotaAplicacao :nota_750.10.602_a9a4350f0554 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.602_4b4542987a82
+:nota_750.10.602_4b4542987a82 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Acompanhamento de estudantes ou formandos com dislexia, discalculia, ou outras dificuldades associadas que compreendam a adequada compreensão do material escrito".
+
+:c750.10.602 :temNotaAplicacao :nota_750.10.602_4b4542987a82 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.602_2d20c4fe8102
+:nota_750.10.602_2d20c4fe8102 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Acompanhamento de estudantes ou formandos com doenças permanentes ou de longa duração, associadas a tratamentos periódicos e frequentes ou a tratamentos agressivos (radioterapia, quimioterapia, citostáticos ou equiparáveis), que produzam condições desvantajosas para o seu desempenho académico".
+
+:c750.10.602 :temNotaAplicacao :nota_750.10.602_2d20c4fe8102 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.602_aebe8333a9e3
+:nota_750.10.602_aebe8333a9e3 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Acompanhamento de estudantes ou formandos com doença mental crónica, que comprometa acentuadamente a adaptação e seja limitativa quanto ao processo de aprendizagem académica".
+
+:c750.10.602 :temNotaAplicacao :nota_750.10.602_aebe8333a9e3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.10.602_4b3f9af2539a
+:nota_750.10.602_4b3f9af2539a rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A disponibilização de produtos ou equipamentos de apoio deve ser considerada no PN 650.10.104 – Atribuição de produtos de apoio".
+
+:c750.10.602 :temNotaExclusao :nota_750.10.602_4b3f9af2539a .
+
+:c750.10.602 :processoTipoVC :vc_processoTipo_pe .
+:c750.10.602 :processoTransversal "N" .
+:c750.10.602 :temDono :tip_IES .
+:c750.10.602 :temDono :tip_EstE .
+:c750.10.602 :temDono :ent_IEFP .
+:c750.10.602 :temDono :ent_CPL .
+:c750.10.602 :temDono :ent_ISS .
+:c750.10.602 :temLegislacao :leg_DL_29_2001 .
+:c750.10.602 :temLegislacao :leg_DL_3_2008 .
+:c750.10.602 :temLegislacao :leg_DL_433_82 .
+:c750.10.602 :temRelProc :c500.10.301 .
+:c750.10.602 :eSuplementoPara :c500.10.301 .
+:c750.10.602 :temRelProc :c650.10.307 .
+:c750.10.602 :eCruzadoCom :c650.10.307 .
+:c750.10.602 :temRelProc :c650.20.304 .
+:c750.10.602 :eCruzadoCom :c650.20.304 .
+:c750.10.602 :temRelProc :c750.10.001 .
+:c750.10.602 :eSucessorDe :c750.10.001 .
+:c750.10.602 :temRelProc :c750.10.002 .
+:c750.10.602 :eSucessorDe :c750.10.002 .
+:c750.10.602 :temRelProc :c750.10.300 .
+:c750.10.602 :eSintetizadoPor :c750.10.300 .
+:c750.10.602 :temRelProc :c750.10.600 .
+:c750.10.602 :eCruzadoCom :c750.10.600 .
+:c750.10.602 :temRelProc :c750.20.001 .
+:c750.10.602 :eCruzadoCom :c750.20.001 .
+:c750.10.602 :temRelProc :c750.20.300 .
+:c750.10.602 :eCruzadoCom :c750.20.300 .
+:c750.10.602 :temRelProc :c750.20.301 .
+:c750.10.602 :eCruzadoCom :c750.20.301 .
+:c750.10.602 :temRelProc :c750.30.001 .
+:c750.10.602 :eCruzadoCom :c750.30.001 .
+:c750.10.602 :temRelProc :c750.30.300 .
+:c750.10.602 :eCruzadoCom :c750.30.300 .
+:c750.10.602 :temRelProc :c750.30.600 .
+:c750.10.602 :eCruzadoCom :c750.30.600 .
+:c750.10.602 :temRelProc :c750.30.602 .
+:c750.10.602 :eCruzadoCom :c750.30.602 .
+:c750.10.602 :temPCA :pca_c750.10.602.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.10.602
+:pca_c750.10.602 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.10.602 :pcaValor 5.0.
+:pca_c750.10.602 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.10.602
+:just_pca_c750.10.602 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.10.602 :temJustificacao :just_pca_c750.10.602 .
+:just_pca_c750.10.602_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c750.10.602 :temCriterio :just_pca_c750.10.602_0. 
+:just_pca_c750.10.602_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c750.10.602_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito, 500.20.003 - Realização de sindicância) e de fiscalização (500.10.301 - Realização de fiscalização) e para processamento de novos planos" .
+:just_pca_c750.10.602 :temCriterio :just_pca_c750.10.602_1. 
+:just_pca_c750.10.602_1 :critTemProcRel :c500.20.002 .
+:just_pca_c750.10.602_1 :critTemProcRel :c500.20.003 .
+:just_pca_c750.10.602_1 :critTemProcRel :c500.10.301 .
+:c750.10.602 :temDF :df_c750.10.602.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.10.602
+:df_c750.10.602 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.10.602 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.10.602
+:just_df_c750.10.602 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.10.602 :temJustificacao :just_df_c750.10.602 .
+:just_df_c750.10.602_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação recuperável noPN 750.10.300 - Processamento dos dados cadastrais de alunos ou formandos." .
+:just_df_c750.10.602 :temCriterio :just_df_c750.10.602_0. 
+:just_df_c750.10.602_0 :critTemProcRel :c750.10.300 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.20
+:c750.20 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N2 ;
+	:codigo '750.20' ;
+	:titulo 'Gestão formativa e curricular' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750 ;
+	:descricao 'Compreende as atividades preparatórias da criação, realização, avaliação, reestruturação e extinção de cursos, ciclos de ensino, ações de formação, estágios ou qualquer outro tipo de oferta formativa, no que se inclui a oferta de atividades extracurriculares.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20_8f6880b16a2b
+:nota_750.20_8f6880b16a2b rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Aplicável a todos os patamares da gestão formativa e curricular desde a definição das disciplinas de um curso, dos conteúdos programáticos das disciplinas e das aulas/sessões de formação, até à organização de turmas ou à seleção de materiais pedagógicos.".
+
+:c750.20 :temNotaAplicacao :nota_750.20_8f6880b16a2b .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20_7370b6e136a4
+:nota_750.20_7370b6e136a4 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A homologação de cursos deve ser considerada em \"Reconhecimentos e permissões/ Licenciamentos, certificações e outras autorizações\" (450.10)".
+
+:c750.20 :temNotaExclusao :nota_750.20_7370b6e136a4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20_534d0f5fb6d9
+:nota_750.20_534d0f5fb6d9 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O diagnóstico de necessidades deve ser considerado em \"Planeamento e gestão estratégica/ Planeamento, avaliação e melhoria dos serviços\" (150.20)".
+
+:c750.20 :temNotaExclusao :nota_750.20_534d0f5fb6d9 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20_db528c5c0807
+:nota_750.20_db528c5c0807 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As operações estatísticas devem ser consideradas em \"Planeamento e gestão estratégica/ Produção de informação estatística\" (150.40)".
+
+:c750.20 :temNotaExclusao :nota_750.20_db528c5c0807 .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.20.001
+:c750.20.001 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.20.001' ;
+	:titulo 'Conceção, revisão e extinção de currículos e planos de estudos' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.20 ;
+	:descricao 'Desenvolvimento e estudo dos currículos, programas das disciplinas, programas e orientações relativas às áreas ou estruturas curriculares e áreas curriculares não disciplinares, bem como a sua alteração ou extinção, em coerência com os objetivos do sistema educativo. Inicia com a apresentação de propostas e termina com a decisão. Inclui análise de conteúdos informativos, elaboração e recolha de pareceres e deliberação por parte dos órgãos de gestão.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.001_32d78dd1b316
+:nota_750.20.001_32d78dd1b316 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Ciclos de estudos".
+
+:c750.20.001 :temNotaAplicacao :nota_750.20.001_32d78dd1b316 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.001_d221a8d2d741
+:nota_750.20.001_d221a8d2d741 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Elaboração de planos de estudos".
+
+:c750.20.001 :temNotaAplicacao :nota_750.20.001_d221a8d2d741 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.001_055cb38dd20f
+:nota_750.20.001_055cb38dd20f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Estruturas curriculares".
+
+:c750.20.001 :temNotaAplicacao :nota_750.20.001_055cb38dd20f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.001_9596c8004c2e
+:nota_750.20.001_9596c8004c2e rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Metas curriculares".
+
+:c750.20.001 :temNotaAplicacao :nota_750.20.001_9596c8004c2e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.001_83d84bf27344
+:nota_750.20.001_83d84bf27344 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Programas de disciplinas".
+
+:c750.20.001 :temNotaAplicacao :nota_750.20.001_83d84bf27344 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.001_6cb0eb888bcd
+:nota_750.20.001_6cb0eb888bcd rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A programação anual escolar deve ser considerada em 150.20.101 – Planeamento estratégico de atividades".
+
+:c750.20.001 :temNotaExclusao :nota_750.20.001_6cb0eb888bcd .
+
+:c750.20.001 :processoTipoVC :vc_processoTipo_pe .
+:c750.20.001 :processoTransversal "N" .
+:c750.20.001 :temDono :tip_IES .
+:c750.20.001 :temDono :tip_EstE .
+:c750.20.001 :temDono :ent_CASES .
+:c750.20.001 :temDono :ent_CPL .
+:c750.20.001 :temDono :ent_ISS .
+:c750.20.001 :temLegislacao :leg_DL_91_2013 .
+:c750.20.001 :temLegislacao :leg_DL_139_2012 .
+:c750.20.001 :temLegislacao :leg_DL_6_2001 .
+:c750.20.001 :temLegislacao :leg_DL_48_86 .
+:c750.20.001 :temLegislacao :leg_Lei_5_97 .
+:c750.20.001 :temLegislacao :leg_DL_433_82 .
+:c750.20.001 :temRelProc :c450.10.651 .
+:c750.20.001 :eComplementarDe :c450.10.651 .
+:c750.20.001 :temRelProc :c150.10.100 .
+:c750.20.001 :eAntecessorDe :c150.10.100 .
+:c750.20.001 :temRelProc :c100.10.200 .
+:c750.20.001 :eSucessorDe :c100.10.200 .
+:c750.20.001 :temRelProc :c150.20.101 .
+:c750.20.001 :eSucessorDe :c150.20.101 .
+:c750.20.001 :temRelProc :c500.10.301 .
+:c750.20.001 :eSuplementoPara :c500.10.301 .
+:c750.20.001 :temRelProc :c500.20.002 .
+:c750.20.001 :eSuplementoPara :c500.20.002 .
+:c750.20.001 :temRelProc :c500.20.003 .
+:c750.20.001 :eSuplementoPara :c500.20.003 .
+:c750.20.001 :temRelProc :c750.10.602 .
+:c750.20.001 :eCruzadoCom :c750.10.602 .
+:c750.20.001 :temRelProc :c750.20.300 .
+:c750.20.001 :eAntecessorDe :c750.20.300 .
+:c750.20.001 :temRelProc :c750.20.600 .
+:c750.20.001 :eAntecessorDe :c750.20.600 .
+:c750.20.001 :temRelProc :c800.20.001 .
+:c750.20.001 :eSucessorDe :c800.20.001 .
+:c750.20.001 :temRelProc :c800.20.002 .
+:c750.20.001 :eSucessorDe :c800.20.002 .
+:c750.20.001 :temRelProc :c800.20.500 .
+:c750.20.001 :eSucessorDe :c800.20.500 .
+:c750.20.001 :temPCA :pca_c750.20.001.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.20.001
+:pca_c750.20.001 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.20.001 :pcaValor 5.0.
+:pca_c750.20.001 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.20.001
+:just_pca_c750.20.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.20.001 :temJustificacao :just_pca_c750.20.001 .
+:just_pca_c750.20.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c750.20.001 :temCriterio :just_pca_c750.20.001_0. 
+:just_pca_c750.20.001_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c750.20.001_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito, 500.20.003 - Realização de sindicância) e de fiscalização (500.10.301 - Realização de fiscalização)e para processamento de novos planos." .
+:just_pca_c750.20.001 :temCriterio :just_pca_c750.20.001_1. 
+:just_pca_c750.20.001_1 :critTemProcRel :c500.20.002 .
+:just_pca_c750.20.001_1 :critTemProcRel :c500.20.003 .
+:just_pca_c750.20.001_1 :critTemProcRel :c500.10.301 .
+:c750.20.001 :temDF :df_c750.20.001.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.20.001
+:df_c750.20.001 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.20.001 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.20.001
+:just_df_c750.20.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.20.001 :temJustificacao :just_df_c750.20.001 .
+:just_df_c750.20.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoComplementaridadeInfo ;
+	:conteudo "É complementar de PN 450.10.651 - Acreditação de ciclos de estudos" .
+:just_df_c750.20.001 :temCriterio :just_df_c750.20.001_0. 
+:just_df_c750.20.001_0 :critTemProcRel :c450.10.651 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.20.002
+:c750.20.002 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.20.002' ;
+	:titulo 'Conceção, revisão e extinção de planos de ações de formação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.20 ;
+	:descricao 'Desenvolvimento de programas e referenciais das ações de formação, bem como a sua alteração ou extinção, em coerência com os objetivos de formação. Inicia com a proposta e termina com a decisão. Inclui análise de conteúdos informativos, elaboração e recolha de pareceres e deliberação por parte dos órgãos competentes.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.002_433e2ac7445e
+:nota_750.20.002_433e2ac7445e rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Planos de ações de formação".
+
+:c750.20.002 :temNotaAplicacao :nota_750.20.002_433e2ac7445e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.002_561cb02dd65f
+:nota_750.20.002_561cb02dd65f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Estruturas curriculares da ação".
+
+:c750.20.002 :temNotaAplicacao :nota_750.20.002_561cb02dd65f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.002_c15251ec7dec
+:nota_750.20.002_c15251ec7dec rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Metas curriculares da ação".
+
+:c750.20.002 :temNotaAplicacao :nota_750.20.002_c15251ec7dec .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.002_305d5cc21d3f
+:nota_750.20.002_305d5cc21d3f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Programas de módulos e disciplinas".
+
+:c750.20.002 :temNotaAplicacao :nota_750.20.002_305d5cc21d3f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.002_15cf16ad426f
+:nota_750.20.002_15cf16ad426f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Programas e referenciais de formação".
+
+:c750.20.002 :temNotaAplicacao :nota_750.20.002_15cf16ad426f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.002_2ef540409efb
+:nota_750.20.002_2ef540409efb rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A elaboração de Planos anuais de formação deve ser considerada em 150.20.101 – Planeamento estratégico de atividades".
+
+:c750.20.002 :temNotaExclusao :nota_750.20.002_2ef540409efb .
+
+:c750.20.002 :processoTipoVC :vc_processoTipo_pc .
+:c750.20.002 :processoTransversal "N" .
+:c750.20.002 :temDono :tip_AP .
+:c750.20.002 :temDono :tip_AL .
+:c750.20.002 :temDono :ent_Grupo_IP .
+:c750.20.002 :temDono :tip_CCDR .
+:c750.20.002 :temDono :ent_IMT .
+:c750.20.002 :temDono :ent_ICNF .
+:c750.20.002 :temDono :ent_IGAMAOT .
+:c750.20.002 :temDono :ent_ACT .
+:c750.20.002 :temDono :ent_CASES .
+:c750.20.002 :temDono :ent_CGA .
+:c750.20.002 :temDono :ent_CITE .
+:c750.20.002 :temDono :ent_CNPDPCJ .
+:c750.20.002 :temDono :ent_CPL .
+:c750.20.002 :temDono :ent_CRL .
+:c750.20.002 :temDono :ent_DGERT .
+:c750.20.002 :temDono :ent_DGSS .
+:c750.20.002 :temDono :ent_GEP .
+:c750.20.002 :temDono :ent_IEFP .
+:c750.20.002 :temDono :ent_IGMTSSS .
+:c750.20.002 :temDono :ent_IGFCSS .
+:c750.20.002 :temDono :ent_IGFSS .
+:c750.20.002 :temDono :ent_II .
+:c750.20.002 :temDono :ent_INR .
+:c750.20.002 :temDono :ent_ISS .
+:c750.20.002 :temDono :ent_OIT .
+:c750.20.002 :temDono :ent_POISE .
+:c750.20.002 :temDono :ent_SGMTSSS .
+:c750.20.002 :temDono :ent_DGADR .
+:c750.20.002 :temDono :ent_INIAV .
+:c750.20.002 :temDono :ent_IVV .
+:c750.20.002 :temDono :ent_IVDP .
+:c750.20.002 :temDono :ent_PDR2020 .
+:c750.20.002 :temDono :ent_GPP .
+:c750.20.002 :temDono :tip_DRAP .
+:c750.20.002 :temDono :ent_IFAP .
+:c750.20.002 :temDono :ent_CV .
+:c750.20.002 :temDono :ent_ERSE .
+:c750.20.002 :temLegislacao :leg_Despacho_Normativo_13_2014 .
+:c750.20.002 :temLegislacao :leg_DL_79_2014 .
+:c750.20.002 :temLegislacao :leg_DL_91_2013 .
+:c750.20.002 :temLegislacao :leg_DL_48_86 .
+:c750.20.002 :temLegislacao :leg_Portaria_243_2012 .
+:c750.20.002 :temLegislacao :leg_DL_174_2001 .
+:c750.20.002 :temLegislacao :leg_DL_286_89 .
+:c750.20.002 :temLegislacao :leg_Lei_2_2008 .
+:c750.20.002 :temRelProc :c150.10.100 .
+:c750.20.002 :eAntecessorDe :c150.10.100 .
+:c750.20.002 :temRelProc :c150.10.500 .
+:c750.20.002 :eAntecessorDe :c150.10.500 .
+:c750.20.002 :temRelProc :c150.10.600 .
+:c750.20.002 :eSucessorDe :c150.10.600 .
+:c750.20.002 :temRelProc :c150.20.101 .
+:c750.20.002 :eAntecessorDe :c150.20.101 .
+:c750.20.002 :temRelProc :c450.10.648 .
+:c750.20.002 :eSinteseDe :c450.10.648 .
+:c750.20.002 :temRelProc :c500.10.301 .
+:c750.20.002 :eSuplementoPara :c500.10.301 .
+:c750.20.002 :temRelProc :c500.20.002 .
+:c750.20.002 :eSuplementoPara :c500.20.002 .
+:c750.20.002 :temRelProc :c500.20.003 .
+:c750.20.002 :eSuplementoPara :c500.20.003 .
+:c750.20.002 :temRelProc :c750.20.300 .
+:c750.20.002 :eAntecessorDe :c750.20.300 .
+:c750.20.002 :temRelProc :c750.10.602 .
+:c750.20.002 :eCruzadoCom :c750.10.602 .
+:c750.20.002 :temRelProc :c750.20.600 .
+:c750.20.002 :eAntecessorDe :c750.20.600 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.20.002.01
+:c750.20.002.01 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '750.20.002.01' ;
+	:titulo 'Conceção, revisão e extinção de planos de ações de formação: preparação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.20.002 ;
+	:descricao 'Preparação de programas e referenciais das ações de formação, bem como a sua alteração ou extinção, em coerência com os objetivos de formação. Inicia com a proposta e termina com a análise. Inclui a instrução do processo.' .
+:c750.20.002.01 :temPCA :pca_c750.20.002.01.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.20.002.01
+:pca_c750.20.002.01 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.20.002.01 :pcaValor 5.0.
+:pca_c750.20.002.01 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.20.002.01
+:just_pca_c750.20.002.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.20.002.01 :temJustificacao :just_pca_c750.20.002.01 .
+:just_pca_c750.20.002.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c750.20.002.01 :temCriterio :just_pca_c750.20.002.01_0. 
+:just_pca_c750.20.002.01_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c750.20.002.01_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito, 500.20.003 - Realização de sindicância) e de fiscalização (500.10.301 - Realização de fiscalização)e para processamento de novos planos." .
+:just_pca_c750.20.002.01 :temCriterio :just_pca_c750.20.002.01_1. 
+:just_pca_c750.20.002.01_1 :critTemProcRel :c500.20.002 .
+:just_pca_c750.20.002.01_1 :critTemProcRel :c500.20.003 .
+:just_pca_c750.20.002.01_1 :critTemProcRel :c500.10.301 .
+:c750.20.002.01 :temDF :df_c750.20.002.01.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.20.002.01
+:df_c750.20.002.01 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.20.002.01 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.20.002.01
+:just_df_c750.20.002.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.20.002.01 :temJustificacao :just_df_c750.20.002.01 .
+:just_df_c750.20.002.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada em 750.20.002.02 - Conceção, revisão e extinção de planos de ações de formação: aprovação" .
+:just_df_c750.20.002.01 :temCriterio :just_df_c750.20.002.01_0. 
+:just_df_c750.20.002.01_0 :critTemProcRel :c750.20.002 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.20.002.02
+:c750.20.002.02 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '750.20.002.02' ;
+	:titulo 'Conceção, revisão e extinção de planos de ações de formação: aprovação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.20.002 ;
+	:descricao 'Deliberação e aprovação de programas e referenciais de ações de formação. Inicia com a proposta de deliberação e termina com a decisão. Inclui a fundamentação da decisão.' .
+:c750.20.002.02 :temPCA :pca_c750.20.002.02.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.20.002.02
+:pca_c750.20.002.02 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.20.002.02 :pcaValor 5.0.
+:pca_c750.20.002.02 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.20.002.02
+:just_pca_c750.20.002.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.20.002.02 :temJustificacao :just_pca_c750.20.002.02 .
+:just_pca_c750.20.002.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c750.20.002.02 :temCriterio :just_pca_c750.20.002.02_0. 
+:just_pca_c750.20.002.02_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c750.20.002.02_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito, 500.20.003 - Realização de sindicância) e de fiscalização (500.10.301 - Realização de fiscalização)e para processamento de novos planos." .
+:just_pca_c750.20.002.02 :temCriterio :just_pca_c750.20.002.02_1. 
+:just_pca_c750.20.002.02_1 :critTemProcRel :c500.20.002 .
+:just_pca_c750.20.002.02_1 :critTemProcRel :c500.20.003 .
+:just_pca_c750.20.002.02_1 :critTemProcRel :c500.10.301 .
+:c750.20.002.02 :temDF :df_c750.20.002.02.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.20.002.02
+:df_c750.20.002.02 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.20.002.02 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.20.002.02
+:just_df_c750.20.002.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.20.002.02 :temJustificacao :just_df_c750.20.002.02 .
+:just_df_c750.20.002.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Sintetiza a informação de 750.20.002.01 – Conceção, revisão e extinção de planos de ações de formação: preparação." .
+:just_df_c750.20.002.02 :temCriterio :just_df_c750.20.002.02_0. 
+:just_df_c750.20.002.02_0 :critTemProcRel :c750.20.002 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.20.003
+:c750.20.003 rdf:type owl:NamedIndividual ;
+	:classeStatus 'H';
+	rdf:type :Classe_N3 ;
+	:codigo '750.20.003' ;
+	:titulo 'Avaliação da atividade pedagógica' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.20 ;
+	:descricao 'Monitorização e apreciação da atividade pedagógica, no ensino superior. Inicia com a autoavaliação de bacharelatos, licenciaturas, mestrados e doutoramentos e termina com o relatório global. Inclui a avaliação das disciplinas, a avaliação das unidades curriculares, os inquéritos a alunos e professores, os relatórios finais, os relatórios da discência, docência e comissão do curso.' .
+:c750.20.003 :temPCA :pca_c750.20.003.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.20.003
+:pca_c750.20.003 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.20.003 :pcaValor "NE" .
+:pca_c750.20.003 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_Desconhecida .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.20.300
+:c750.20.300 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.20.300' ;
+	:titulo 'Produção e seleção de recursos didático-pedagógicos' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.20 ;
+	:descricao 'Apreciação dos recursos didático-pedagógicos no que diz respeito à sua adequação às atividades educativas e formativas a que se destinam. Inicia com a identificação de necessidades de material didático e termina com a divulgação ou disponibilização dos recursos. Inclui elaboração ou seleção de fontes de informação e aplicação de critérios para apreciação de material didático.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.300_9b3d9d478441
+:nota_750.20.300_9b3d9d478441 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Adoção de manuais escolares certificados do ensino básico e secundário".
+
+:c750.20.300 :temNotaAplicacao :nota_750.20.300_9b3d9d478441 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.300_a4b2478a634a
+:nota_750.20.300_a4b2478a634a rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Elaboração de manuais de formação".
+
+:c750.20.300 :temNotaAplicacao :nota_750.20.300_a4b2478a634a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.300_ad824dddecd4
+:nota_750.20.300_ad824dddecd4 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Elaboração de selectas de textos ou sebentas".
+
+:c750.20.300 :temNotaAplicacao :nota_750.20.300_ad824dddecd4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.300_49d4a8e353b6
+:nota_750.20.300_49d4a8e353b6 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Elaboração de instrumentos didáticos adaptados".
+
+:c750.20.300 :temNotaAplicacao :nota_750.20.300_49d4a8e353b6 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.300_9049a8122219
+:nota_750.20.300_9049a8122219 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Seleção e divulgação de recursos de informação aconselhados".
+
+:c750.20.300 :temNotaAplicacao :nota_750.20.300_9049a8122219 .
+
+:c750.20.300 :processoTipoVC :vc_processoTipo_pc .
+:c750.20.300 :processoTransversal "S" .
+:c750.20.300 :temDono :tip_IES .
+:c750.20.300 :temDono :tip_EstE .
+:c750.20.300 :temDono :tip_AP .
+:c750.20.300 :temDono :tip_AL .
+:c750.20.300 :temDono :ent_Grupo_IP .
+:c750.20.300 :temDono :tip_CCDR .
+:c750.20.300 :temDono :ent_ACT .
+:c750.20.300 :temDono :ent_CASES .
+:c750.20.300 :temDono :ent_CGA .
+:c750.20.300 :temDono :ent_CITE .
+:c750.20.300 :temDono :ent_CNPDPCJ .
+:c750.20.300 :temDono :ent_CPL .
+:c750.20.300 :temDono :ent_CRL .
+:c750.20.300 :temDono :ent_DGERT .
+:c750.20.300 :temDono :ent_DGSS .
+:c750.20.300 :temDono :ent_GEP .
+:c750.20.300 :temDono :ent_IEFP .
+:c750.20.300 :temDono :ent_IGMTSSS .
+:c750.20.300 :temDono :ent_IGFCSS .
+:c750.20.300 :temDono :ent_IGFSS .
+:c750.20.300 :temDono :ent_II .
+:c750.20.300 :temDono :ent_INR .
+:c750.20.300 :temDono :ent_ISS .
+:c750.20.300 :temDono :ent_OIT .
+:c750.20.300 :temDono :ent_POISE .
+:c750.20.300 :temDono :ent_SGMTSSS .
+:c750.20.300 :temDono :ent_DGPM .
+:c750.20.300 :temDono :ent_DGRM .
+:c750.20.300 :temDono :ent_DGADR .
+:c750.20.300 :temDono :ent_INIAV .
+:c750.20.300 :temDono :ent_PDR2020 .
+:c750.20.300 :temDono :ent_GPP .
+:c750.20.300 :temDono :tip_DRAP .
+:c750.20.300 :temDono :ent_IFAP .
+:c750.20.300 :temDono :ent_CV .
+:c750.20.300 :temParticipanteApreciador :ent_INIAV .
+:c750.20.300 :temParticipanteAssessor :ent_CV .
+:c750.20.300 :temLegislacao :leg_DL_5_2014 .
+:c750.20.300 :temLegislacao :leg_Portaria_81_2014 .
+:c750.20.300 :temLegislacao :leg_Lei_47_2006 .
+:c750.20.300 :temRelProc :c300.10.005 .
+:c750.20.300 :eAntecessorDe :c300.10.005 .
+:c750.20.300 :temRelProc :c300.50.802 .
+:c750.20.300 :eCruzadoCom :c300.50.802 .
+:c750.20.300 :temRelProc :c450.10.445 .
+:c750.20.300 :eAntecessorDe :c450.10.445 .
+:c750.20.300 :temRelProc :c450.10.648 .
+:c750.20.300 :eAntecessorDe :c450.10.648 .
+:c750.20.300 :temRelProc :c750.10.602 .
+:c750.20.300 :eSucessorDe :c750.10.602 .
+:c750.20.300 :temRelProc :c750.20.001 .
+:c750.20.300 :eCruzadoCom :c750.20.001 .
+:c750.20.300 :temRelProc :c750.20.600 .
+:c750.20.300 :eAntecessorDe :c750.20.600 .
+:c750.20.300 :temRelProc :c800.20.001 .
+:c750.20.300 :eSucessorDe :c800.20.001 .
+:c750.20.300 :temRelProc :c800.20.002 .
+:c750.20.300 :eSucessorDe :c800.20.002 .
+:c750.20.300 :temRelProc :c800.20.500 .
+:c750.20.300 :eSucessorDe :c800.20.500 .
+:c750.20.300 :temPCA :pca_c750.20.300.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.20.300
+:pca_c750.20.300 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.20.300 :pcaValor 6.0.
+:pca_c750.20.300 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.20.300
+:just_pca_c750.20.300 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.20.300 :temJustificacao :just_pca_c750.20.300 .
+:just_pca_c750.20.300_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 47/2006], art.º 4º - Prazo de vigência dos manuais escolares do ensino básico e do ensino secundário" .
+:just_pca_c750.20.300 :temCriterio :just_pca_c750.20.300_0. 
+:just_pca_c750.20.300_0 :critTemLegAssoc :leg_Lei_47_2006 .
+:c750.20.300 :temDF :df_c750.20.300.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.20.300
+:df_c750.20.300 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.20.300 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.20.300
+:just_df_c750.20.300 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.20.300 :temJustificacao :just_df_c750.20.300 .
+:just_df_c750.20.300_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN." .
+:just_df_c750.20.300 :temCriterio :just_df_c750.20.300_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.20.301
+:c750.20.301 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.20.301' ;
+	:titulo 'Distribuição de atividades de ensino ou formação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.20 ;
+	:descricao 'Organização do ano letivo em qualquer nível de ensino, bem como à organização da formação. Inicia com a listagem dos alunos ou formandos inscritos e termina com a divulgação dos horários e das turmas, turnos ou grupos. Inclui constituição das turmas, turnos ou grupos.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.301_f0a9bb2f6cfe
+:nota_750.20.301_f0a9bb2f6cfe rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Constituição de turmas".
+
+:c750.20.301 :temNotaAplicacao :nota_750.20.301_f0a9bb2f6cfe .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.301_2e5871ae2c3d
+:nota_750.20.301_2e5871ae2c3d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Elaboração de horários letivos".
+
+:c750.20.301 :temNotaAplicacao :nota_750.20.301_2e5871ae2c3d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.301_7346b17a998e
+:nota_750.20.301_7346b17a998e rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A elaboração de normas e critérios de constituição de turmas deve ser considerada em 100.10.600 – Produção e comunicação de regras institucionais".
+
+:c750.20.301 :temNotaExclusao :nota_750.20.301_7346b17a998e .
+
+:c750.20.301 :processoTipoVC :vc_processoTipo_pc .
+:c750.20.301 :processoTransversal "S" .
+:c750.20.301 :temDono :tip_IES .
+:c750.20.301 :temDono :tip_EstE .
+:c750.20.301 :temDono :tip_AP .
+:c750.20.301 :temDono :tip_AL .
+:c750.20.301 :temDono :ent_Grupo_IP .
+:c750.20.301 :temDono :tip_CCDR .
+:c750.20.301 :temDono :ent_ACT .
+:c750.20.301 :temDono :ent_CASES .
+:c750.20.301 :temDono :ent_CGA .
+:c750.20.301 :temDono :ent_CITE .
+:c750.20.301 :temDono :ent_CNPDPCJ .
+:c750.20.301 :temDono :ent_CPL .
+:c750.20.301 :temDono :ent_CRL .
+:c750.20.301 :temDono :ent_DGERT .
+:c750.20.301 :temDono :ent_DGSS .
+:c750.20.301 :temDono :ent_GEP .
+:c750.20.301 :temDono :ent_IEFP .
+:c750.20.301 :temDono :ent_IGMTSSS .
+:c750.20.301 :temDono :ent_IGFCSS .
+:c750.20.301 :temDono :ent_IGFSS .
+:c750.20.301 :temDono :ent_II .
+:c750.20.301 :temDono :ent_INR .
+:c750.20.301 :temDono :ent_ISS .
+:c750.20.301 :temDono :ent_OIT .
+:c750.20.301 :temDono :ent_POISE .
+:c750.20.301 :temDono :ent_SGMTSSS .
+:c750.20.301 :temDono :ent_DGPM .
+:c750.20.301 :temDono :ent_DGRM .
+:c750.20.301 :temDono :ent_DGADR .
+:c750.20.301 :temDono :ent_INIAV .
+:c750.20.301 :temDono :ent_PDR2020 .
+:c750.20.301 :temDono :ent_GPP .
+:c750.20.301 :temDono :tip_DRAP .
+:c750.20.301 :temDono :ent_IFAP .
+:c750.20.301 :temDono :ent_CV .
+:c750.20.301 :temParticipanteIniciador :ent_INIAV .
+:c750.20.301 :temParticipanteIniciador :ent_IFAP .
+:c750.20.301 :temLegislacao :leg_DL_75_2008 .
+:c750.20.301 :temLegislacao :leg_Lei_2_2008 .
+:c750.20.301 :temLegislacao :leg_DL_433_82 .
+:c750.20.301 :temRelProc :c100.10.800 .
+:c750.20.301 :eSucessorDe :c100.10.800 .
+:c750.20.301 :temRelProc :c250.10.101 .
+:c750.20.301 :eCruzadoCom :c250.10.101 .
+:c750.20.301 :temRelProc :c250.10.600 .
+:c750.20.301 :eCruzadoCom :c250.10.600 .
+:c750.20.301 :temRelProc :c500.10.001 .
+:c750.20.301 :eSuplementoPara :c500.10.001 .
+:c750.20.301 :temRelProc :c500.10.301 .
+:c750.20.301 :eSuplementoPara :c500.10.301 .
+:c750.20.301 :temRelProc :c500.20.002 .
+:c750.20.301 :eSuplementoPara :c500.20.002 .
+:c750.20.301 :temRelProc :c500.20.003 .
+:c750.20.301 :eSuplementoPara :c500.20.003 .
+:c750.20.301 :temRelProc :c750.10.002 .
+:c750.20.301 :eSucessorDe :c750.10.002 .
+:c750.20.301 :temRelProc :c750.10.602 .
+:c750.20.301 :eSucessorDe :c750.10.602 .
+:c750.20.301 :temRelProc :c750.20.001 .
+:c750.20.301 :eSucessorDe :c750.20.001 .
+:c750.20.301 :temRelProc :c750.20.300 .
+:c750.20.301 :eCruzadoCom :c750.20.300 .
+:c750.20.301 :temRelProc :c750.20.600 .
+:c750.20.301 :eSinteseDe :c750.20.600 .
+:c750.20.301 :temPCA :pca_c750.20.301.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.20.301
+:pca_c750.20.301 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.20.301 :pcaValor 5.0.
+:pca_c750.20.301 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.20.301
+:just_pca_c750.20.301 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.20.301 :temJustificacao :just_pca_c750.20.301 .
+:just_pca_c750.20.301_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c750.20.301 :temCriterio :just_pca_c750.20.301_0. 
+:just_pca_c750.20.301_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c750.20.301_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito, 500.20.003 - Realização de sindicância) e de fiscalização (500.10.301 - Realização de fiscalização)e para processamento de novos planos." .
+:just_pca_c750.20.301 :temCriterio :just_pca_c750.20.301_1. 
+:just_pca_c750.20.301_1 :critTemProcRel :c500.20.002 .
+:just_pca_c750.20.301_1 :critTemProcRel :c500.20.003 .
+:just_pca_c750.20.301_1 :critTemProcRel :c500.10.301 .
+:c750.20.301 :temDF :df_c750.20.301.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.20.301
+:df_c750.20.301 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.20.301 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.20.301
+:just_df_c750.20.301 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.20.301 :temJustificacao :just_df_c750.20.301 .
+:just_df_c750.20.301_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN." .
+:just_df_c750.20.301 :temCriterio :just_df_c750.20.301_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.20.600
+:c750.20.600 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.20.600' ;
+	:titulo 'Realização de atividades de ensino ou formação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.20 ;
+	:descricao 'Concretização de atividades formativas, letivas e extra curriculares. Inicia com a análise do programa de curso ou formação e termina com a apresentação do relatório sobre a concretização das atividades curriculares letivas e formativas no encerramento da ação ou do ano letivo. Inclui elaboração de plano de aula ou plano de formação, implementação de estratégias técnico-pedagógicas, definição de planos de recuperação, de acompanhamento ou desenvolvimento, produção de sumários, elaboração de relatórios periódicos das aulas, apresentação de propostas de atividades, monitorização do desenvolvimento das aprendizagens e interação entre docentes ou formadores e alunos ou formandos.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.600_3ec90e47fe7f
+:nota_750.20.600_3ec90e47fe7f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atividades de enriquecimento curricular".
+
+:c750.20.600 :temNotaAplicacao :nota_750.20.600_3ec90e47fe7f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.600_074dd1af6384
+:nota_750.20.600_074dd1af6384 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Atividades extra curriculares".
+
+:c750.20.600 :temNotaAplicacao :nota_750.20.600_074dd1af6384 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.600_ecf1d8d535d7
+:nota_750.20.600_ecf1d8d535d7 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Aulas práticas".
+
+:c750.20.600 :temNotaAplicacao :nota_750.20.600_ecf1d8d535d7 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.600_56f130a2bdb5
+:nota_750.20.600_56f130a2bdb5 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Aulas teóricas".
+
+:c750.20.600 :temNotaAplicacao :nota_750.20.600_56f130a2bdb5 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.600_c4fb9e9613bf
+:nota_750.20.600_c4fb9e9613bf rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Estágios curriculares".
+
+:c750.20.600 :temNotaAplicacao :nota_750.20.600_c4fb9e9613bf .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.600_8a967db82890
+:nota_750.20.600_8a967db82890 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Orientação tutorial".
+
+:c750.20.600 :temNotaAplicacao :nota_750.20.600_8a967db82890 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.600_832f1a993e27
+:nota_750.20.600_832f1a993e27 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Realização de exercícios e simulacros decorrentes de ações de formação".
+
+:c750.20.600 :temNotaAplicacao :nota_750.20.600_832f1a993e27 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.600_0f2bb0f6400c
+:nota_750.20.600_0f2bb0f6400c rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Redação de sumário".
+
+:c750.20.600 :temNotaAplicacao :nota_750.20.600_0f2bb0f6400c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.600_1224aeba979d
+:nota_750.20.600_1224aeba979d rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A realização de atividades de ensino no âmbito das necessidades educativas especiais deve ser considerada em 750.10.602 – Integração e acompanhamento de alunos com necessidades educativas especiais".
+
+:c750.20.600 :temNotaExclusao :nota_750.20.600_1224aeba979d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.600_ed6bd6f2dc3e
+:nota_750.20.600_ed6bd6f2dc3e rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A aplicação de critérios para escolha de candidatos a estágios em contexto real de trabalho deve ser considerada em 250.10.103 - Seleção de candidatos para frequência de estágios profissionais e programas ocupacionais".
+
+:c750.20.600 :temNotaExclusao :nota_750.20.600_ed6bd6f2dc3e .
+
+:c750.20.600 :processoTipoVC :vc_processoTipo_pc .
+:c750.20.600 :processoTransversal "S" .
+:c750.20.600 :temDono :tip_IES .
+:c750.20.600 :temDono :tip_EstE .
+:c750.20.600 :temDono :tip_AP .
+:c750.20.600 :temDono :tip_AL .
+:c750.20.600 :temDono :ent_CP .
+:c750.20.600 :temDono :ent_Grupo_IP .
+:c750.20.600 :temDono :tip_CCDR .
+:c750.20.600 :temDono :ent_IMT .
+:c750.20.600 :temDono :tip_IES .
+:c750.20.600 :temDono :ent_IEFP .
+:c750.20.600 :temDono :ent_ACT .
+:c750.20.600 :temDono :ent_CASES .
+:c750.20.600 :temDono :ent_CGA .
+:c750.20.600 :temDono :ent_CITE .
+:c750.20.600 :temDono :ent_CNPDPCJ .
+:c750.20.600 :temDono :ent_CPL .
+:c750.20.600 :temDono :ent_CRL .
+:c750.20.600 :temDono :ent_DGERT .
+:c750.20.600 :temDono :ent_DGSS .
+:c750.20.600 :temDono :ent_GEP .
+:c750.20.600 :temDono :ent_IGMTSSS .
+:c750.20.600 :temDono :ent_IGFCSS .
+:c750.20.600 :temDono :ent_IGFSS .
+:c750.20.600 :temDono :ent_II .
+:c750.20.600 :temDono :ent_INR .
+:c750.20.600 :temDono :ent_ISS .
+:c750.20.600 :temDono :ent_OIT .
+:c750.20.600 :temDono :ent_POISE .
+:c750.20.600 :temDono :ent_SGMTSSS .
+:c750.20.600 :temDono :ent_DGPM .
+:c750.20.600 :temDono :ent_DGRM .
+:c750.20.600 :temDono :ent_DGADR .
+:c750.20.600 :temDono :ent_INIAV .
+:c750.20.600 :temDono :ent_PDR2020 .
+:c750.20.600 :temDono :ent_CV .
+:c750.20.600 :temDono :ent_ERSE .
+:c750.20.600 :temParticipanteExecutor :tip_IES .
+:c750.20.600 :temParticipanteExecutor :ent_IEFP .
+:c750.20.600 :temParticipanteExecutor :ent_INIAV .
+:c750.20.600 :temParticipanteIniciador :ent_Grupo_IP .
+:c750.20.600 :temParticipanteIniciador :ent_CP .
+:c750.20.600 :temParticipanteAssessor :ent_CV .
+:c750.20.600 :temLegislacao :leg_DL_92_2014 .
+:c750.20.600 :temLegislacao :leg_Lei_45_2013 .
+:c750.20.600 :temLegislacao :leg_Lei_45_2012 .
+:c750.20.600 :temLegislacao :leg_Lei_9_2009 .
+:c750.20.600 :temLegislacao :leg_Lei_2_2008 .
+:c750.20.600 :temLegislacao :leg_Lei_39_2010 .
+:c750.20.600 :temLegislacao :leg_Portaria_1500_2007 .
+:c750.20.600 :temLegislacao :leg_Portaria_832_2007 .
+:c750.20.600 :temLegislacao :leg_Portaria_401_2007 .
+:c750.20.600 :temLegislacao :leg_DL_24_2006 .
+:c750.20.600 :temLegislacao :leg_DL_174_2001 .
+:c750.20.600 :temLegislacao :leg_Lei_166_99 .
+:c750.20.600 :temLegislacao :leg_DL_4_98 .
+:c750.20.600 :temLegislacao :leg_Lei_98_97 .
+:c750.20.600 :temRelProc :c150.20.101 .
+:c750.20.600 :eSintetizadoPor :c150.20.101 .
+:c750.20.600 :temRelProc :c150.20.300 .
+:c750.20.600 :eSintetizadoPor :c150.20.300 .
+:c750.20.600 :temRelProc :c250.20.001 .
+:c750.20.600 :eSintetizadoPor :c250.20.001 .
+:c750.20.600 :temRelProc :c250.20.400 .
+:c750.20.600 :eCruzadoCom :c250.20.400 .
+:c750.20.600 :temRelProc :c250.20.605 .
+:c750.20.600 :eCruzadoCom :c250.20.605 .
+:c750.20.600 :temRelProc :c250.20.800 .
+:c750.20.600 :eCruzadoCom :c250.20.800 .
+:c750.20.600 :temRelProc :c450.10.444 .
+:c750.20.600 :eSucessorDe :c450.10.444 .
+:c750.20.600 :temRelProc :c450.10.441 .
+:c750.20.600 :eSucessorDe :c450.10.441 .
+:c750.20.600 :temRelProc :c500.10.301 .
+:c750.20.600 :eSuplementoPara :c500.10.301 .
+:c750.20.600 :temRelProc :c750.10.600 .
+:c750.20.600 :eCruzadoCom :c750.10.600 .
+:c750.20.600 :temRelProc :c750.10.602 .
+:c750.20.600 :eCruzadoCom :c750.10.602 .
+:c750.20.600 :temRelProc :c750.20.001 .
+:c750.20.600 :eSucessorDe :c750.20.001 .
+:c750.20.600 :temRelProc :c750.20.300 .
+:c750.20.600 :eCruzadoCom :c750.20.300 .
+:c750.20.600 :temRelProc :c750.20.301 .
+:c750.20.600 :eSintetizadoPor :c750.20.301 .
+:c750.20.600 :temRelProc :c750.30.300 .
+:c750.20.600 :eCruzadoCom :c750.30.300 .
+:c750.20.600 :temRelProc :c750.30.600 .
+:c750.20.600 :eCruzadoCom :c750.30.600 .
+:c750.20.600 :temRelProc :c750.30.601 .
+:c750.20.600 :eSintetizadoPor :c750.30.601 .
+:c750.20.600 :temRelProc :c800.10.604 .
+:c750.20.600 :eCruzadoCom :c800.10.604 .
+:c750.20.600 :temRelProc :c800.10.605 .
+:c750.20.600 :eCruzadoCom :c800.10.605 .
+:c750.20.600 :temPCA :pca_c750.20.600.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.20.600
+:pca_c750.20.600 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.20.600 :pcaValor 10.0.
+:pca_c750.20.600 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.20.600
+:just_pca_c750.20.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.20.600 :temJustificacao :just_pca_c750.20.600 .
+:just_pca_c750.20.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c750.20.600 :temCriterio :just_pca_c750.20.600_0. 
+:just_pca_c750.20.600_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c750.20.600_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 (no que diz respeito à atuação da Administração)." .
+:just_pca_c750.20.600 :temCriterio :just_pca_c750.20.600_1. 
+:just_pca_c750.20.600_1 :critTemProcRel :c500.10.001 .
+:c750.20.600 :temDF :df_c750.20.600.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.20.600
+:df_c750.20.600 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.20.600 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.20.600
+:just_df_c750.20.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.20.600 :temJustificacao :just_df_c750.20.600 .
+:just_df_c750.20.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "A informação encontra-se sintetizada nosPN 150.20.300 - Avaliação de atividades;PN 250.20.001 - Registo biográfico de trabalhadores;PN 750.10.300 - Processamento dos dados cadastrais de alunos ou formandos;PN 750.20.301 - Distribuição de atividades de ensino ou formação;PN 750.30.601 - Processamento e comunicação de resultados de avaliação." .
+:just_df_c750.20.600 :temCriterio :just_df_c750.20.600_0. 
+:just_df_c750.20.600_0 :critTemProcRel :c150.20.300 .
+:just_df_c750.20.600_0 :critTemProcRel :c250.20.001 .
+:just_df_c750.20.600_0 :critTemProcRel :c750.10.300 .
+:just_df_c750.20.600_0 :critTemProcRel :c750.20.301 .
+:just_df_c750.20.600_0 :critTemProcRel :c750.30.601 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.20.601
+:c750.20.601 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.20.601' ;
+	:titulo 'Realização de atividades de formação e treino animal' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.20 ;
+	:descricao 'Concretização de atividades práticas de ensino e treino animal. Inicia com a definição do programa de formação adaptado a cada caso, e termina com a concretização das atividades. Inclui elaboração de plano de aula, a avaliação do desenvolvimento animal, relativos a graus de dificuldade ou capacidades desenvolvidas. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.601_94d66c5e207b
+:nota_750.20.601_94d66c5e207b rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Preparação do efetivo animal para missões de proteção, segurança, deteção de explosivos, drogas ou pessoas e a equipas cinotécnicas (binómio)".
+
+:c750.20.601 :temNotaAplicacao :nota_750.20.601_94d66c5e207b .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.601_10800f9e3ec6
+:nota_750.20.601_10800f9e3ec6 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Treino animal para fins de competição".
+
+:c750.20.601 :temNotaAplicacao :nota_750.20.601_10800f9e3ec6 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.601_7d90f443db17
+:nota_750.20.601_7d90f443db17 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Preparação dos conjuntos cavalo / cavaleiro para demonstração ou exibição".
+
+:c750.20.601 :temNotaAplicacao :nota_750.20.601_7d90f443db17 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.601_78dd6e3c360c
+:nota_750.20.601_78dd6e3c360c rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As provas equestres e exibições devem ser consideradas em 900.10.503 – Organização e participação em iniciativas de promoção ou divulgação de produtos e serviços".
+
+:c750.20.601 :temNotaExclusao :nota_750.20.601_78dd6e3c360c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.601_09a1528b1139
+:nota_750.20.601_09a1528b1139 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As demonstrações de equipas cinotécnicas devem ser consideradas em 900.10.503 – Organização e participação em iniciativas de promoção ou divulgação de produtos e serviços".
+
+:c750.20.601 :temNotaExclusao :nota_750.20.601_09a1528b1139 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.20.601_cf8b7f8d12f7
+:nota_750.20.601_cf8b7f8d12f7 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A formação de treinadores em cinotecnia e maneio de equinos e equitação deve ser considerada em 750.10.002 – Processamento de matrículas ou inscrições no ensino ou em formação".
+
+:c750.20.601 :temNotaExclusao :nota_750.20.601_cf8b7f8d12f7 .
+
+:c750.20.601 :processoTipoVC :vc_processoTipo_pe .
+:c750.20.601 :processoTransversal "N" .
+:c750.20.601 :temDono :tip_FSS .
+:c750.20.601 :temDono :tip_FA .
+:c750.20.601 :temDono :ent_EPAE .
+:c750.20.601 :temDono :tip_AL .
+:c750.20.601 :temDono :ent_CPL .
+:c750.20.601 :temLegislacao :leg_DL_205_2012 .
+:c750.20.601 :temLegislacao :leg_DL_215_2012 .
+:c750.20.601 :temLegislacao :leg_Lei_63_2007 .
+:c750.20.601 :temLegislacao :leg_Despacho_Conjunto_275_2006 .
+:c750.20.601 :temLegislacao :leg_DL_44599_62 .
+:c750.20.601 :temLegislacao :leg_Lei_98_97 .
+:c750.20.601 :temRelProc :c150.20.103 .
+:c750.20.601 :eAntecessorDe :c150.20.103 .
+:c750.20.601 :temRelProc :c150.20.300 .
+:c750.20.601 :eSintetizadoPor :c150.20.300 .
+:c750.20.601 :temRelProc :c300.10.005 .
+:c750.20.601 :eSucessorDe :c300.10.005 .
+:c750.20.601 :temRelProc :c500.10.301 .
+:c750.20.601 :eSuplementoPara :c500.10.301 .
+:c750.20.601 :temRelProc :c750.30.601 .
+:c750.20.601 :eSintetizadoPor :c750.30.601 .
+:c750.20.601 :temPCA :pca_c750.20.601.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.20.601
+:pca_c750.20.601 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.20.601 :pcaValor 10.0.
+:pca_c750.20.601 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.20.601
+:just_pca_c750.20.601 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.20.601 :temJustificacao :just_pca_c750.20.601 .
+:just_pca_c750.20.601_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c750.20.601 :temCriterio :just_pca_c750.20.601_0. 
+:just_pca_c750.20.601_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c750.20.601_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 (no que diz respeito à atuação da Administração)." .
+:just_pca_c750.20.601 :temCriterio :just_pca_c750.20.601_1. 
+:just_pca_c750.20.601_1 :critTemProcRel :c500.10.001 .
+:c750.20.601 :temDF :df_c750.20.601.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.20.601
+:df_c750.20.601 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.20.601 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.20.601
+:just_df_c750.20.601 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.20.601 :temJustificacao :just_df_c750.20.601 .
+:just_df_c750.20.601_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada noPN 150.20.300 - Avaliação de atividade;Ou, em caso específico noPN 750.30.601 - Processamento e comunicação de resultados de avaliação." .
+:just_df_c750.20.601 :temCriterio :just_df_c750.20.601_0. 
+:just_df_c750.20.601_0 :critTemProcRel :c150.20.300 .
+:just_df_c750.20.601_0 :critTemProcRel :c750.30.601 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.30
+:c750.30 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N2 ;
+	:codigo '750.30' ;
+	:titulo 'Avaliação de aprendizagens' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750 ;
+	:descricao 'Compreende as atividades de preparação, execução e processamento de resultados dos processos de avaliação de aprendizagens que decorrem no quadro do ensino regular e da formação profissional inicial ou contínua. Compreende, igualmente, as atividades de reconhecimento, creditação e validação de competências e qualificações académicas, bem como de creditação da experiência profissional e das aprendizagens não formais e informais (obtidas fora do sistema formal de ensino), para prosseguimento de estudos e/ou atribuição de diplomas. Inclui o reconhecimento de graus e diplomas obtidos no estrangeiro, a pedido dos titulares.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30_21ee31f5a8c4
+:nota_750.30_21ee31f5a8c4 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Exames".
+
+:c750.30 :temNotaAplicacao :nota_750.30_21ee31f5a8c4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30_377b18fc0f0f
+:nota_750.30_377b18fc0f0f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Relatórios de estágio".
+
+:c750.30 :temNotaAplicacao :nota_750.30_377b18fc0f0f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30_cae856f6a189
+:nota_750.30_cae856f6a189 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Diplomas".
+
+:c750.30 :temNotaAplicacao :nota_750.30_cae856f6a189 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30_9a8fd0a977f8
+:nota_750.30_9a8fd0a977f8 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Processos de reconhecimento".
+
+:c750.30 :temNotaAplicacao :nota_750.30_9a8fd0a977f8 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30_994f65027302
+:nota_750.30_994f65027302 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Creditação, validação e certificação de competências".
+
+:c750.30 :temNotaAplicacao :nota_750.30_994f65027302 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30_57ddeba76697
+:nota_750.30_57ddeba76697 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Processamento de pedidos de equivalência ou reconhecimento específicos apresentados por titulares de graus académicos obtidos no estrangeiro".
+
+:c750.30 :temNotaAplicacao :nota_750.30_57ddeba76697 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30_48019f6c50fa
+:nota_750.30_48019f6c50fa rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Registo de diplomas estrangeiros".
+
+:c750.30 :temNotaAplicacao :nota_750.30_48019f6c50fa .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30_f628273be461
+:nota_750.30_f628273be461 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Fixação na escala de classificação portuguesa de classificação obtida no estrangeiro".
+
+:c750.30 :temNotaAplicacao :nota_750.30_f628273be461 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30_5ef1f4a9dd9a
+:nota_750.30_5ef1f4a9dd9a rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os processos de reconhecimento genérico de um grau num Estado, ou de um grau conferido por um conjunto de instituições de ensino superior de um Estado, devem ser considerados em \"Reconhecimentos e permissões/ licenciamentos, certificações e outras autorizações\" (450.10)".
+
+:c750.30 :temNotaExclusao :nota_750.30_5ef1f4a9dd9a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30_15659d63f855
+:nota_750.30_15659d63f855 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A emissão de certificados de habilitações deve ser considerada em \"Reconhecimentos e permissões/ Emissão de comprovativos de factos ou atos\" (450.30)".
+
+:c750.30 :temNotaExclusao :nota_750.30_15659d63f855 .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.30.001
+:c750.30.001 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.30.001' ;
+	:titulo 'Conceção e revisão dos métodos de avaliação de aprendizagens' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.30 ;
+	:descricao 'Elaboração de referenciais e modalidades de avaliação quer das aprendizagens e qualificações, quer do sistema educativo. Inicia com a apresentação de propostas e termina com a aprovação. Inclui verificação e análise de propostas, elaboração e recolha de pareceres e deliberação por parte dos órgãos de gestão.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.001_98e6165f3dec
+:nota_750.30.001_98e6165f3dec rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A produção de enunciados ou matrizes de provas deverá ser considerada em 750.30.300 – Elaboração de instrumentos de avaliação de aprendizagens".
+
+:c750.30.001 :temNotaExclusao :nota_750.30.001_98e6165f3dec .
+
+:c750.30.001 :processoTipoVC :vc_processoTipo_pc .
+:c750.30.001 :processoTransversal "S" .
+:c750.30.001 :temDono :tip_IES .
+:c750.30.001 :temDono :tip_EstE .
+:c750.30.001 :temDono :tip_AP .
+:c750.30.001 :temDono :tip_AL .
+:c750.30.001 :temDono :tip_CCDR .
+:c750.30.001 :temDono :ent_ACT .
+:c750.30.001 :temDono :ent_CASES .
+:c750.30.001 :temDono :ent_CGA .
+:c750.30.001 :temDono :ent_CITE .
+:c750.30.001 :temDono :ent_CNPDPCJ .
+:c750.30.001 :temDono :ent_CPL .
+:c750.30.001 :temDono :ent_CRL .
+:c750.30.001 :temDono :ent_DGERT .
+:c750.30.001 :temDono :ent_DGSS .
+:c750.30.001 :temDono :ent_GEP .
+:c750.30.001 :temDono :ent_IEFP .
+:c750.30.001 :temDono :ent_IGMTSSS .
+:c750.30.001 :temDono :ent_IGFCSS .
+:c750.30.001 :temDono :ent_IGFSS .
+:c750.30.001 :temDono :ent_II .
+:c750.30.001 :temDono :ent_INR .
+:c750.30.001 :temDono :ent_ISS .
+:c750.30.001 :temDono :ent_OIT .
+:c750.30.001 :temDono :ent_POISE .
+:c750.30.001 :temDono :ent_SGMTSSS .
+:c750.30.001 :temDono :ent_DGPM .
+:c750.30.001 :temDono :ent_DGADR .
+:c750.30.001 :temDono :ent_INIAV .
+:c750.30.001 :temDono :tip_DRAP .
+:c750.30.001 :temParticipanteIniciador :ent_DGPM .
+:c750.30.001 :temParticipanteIniciador :ent_INIAV .
+:c750.30.001 :temParticipanteIniciador :ent_PDR2020 .
+:c750.30.001 :temParticipanteIniciador :tip_DRAP .
+:c750.30.001 :temParticipanteIniciador :ent_IFAP .
+:c750.30.001 :temLegislacao :leg_DL_17_2016 .
+:c750.30.001 :temLegislacao :leg_Despacho_Normativo_1_F_2016 .
+:c750.30.001 :temLegislacao :leg_DL_139_2012 .
+:c750.30.001 :temLegislacao :leg_Lei_2_2008 .
+:c750.30.001 :temLegislacao :leg_DL_4_2015 .
+:c750.30.001 :temRelProc :c500.10.301 .
+:c750.30.001 :eSuplementoPara :c500.10.301 .
+:c750.30.001 :temRelProc :c750.30.300 .
+:c750.30.001 :eAntecessorDe :c750.30.300 .
+:c750.30.001 :temRelProc :c800.20.001 .
+:c750.30.001 :eSucessorDe :c800.20.001 .
+:c750.30.001 :temRelProc :c800.20.002 .
+:c750.30.001 :eSucessorDe :c800.20.002 .
+:c750.30.001 :temRelProc :c800.20.500 .
+:c750.30.001 :eSucessorDe :c800.20.500 .
+:c750.30.001 :temPCA :pca_c750.30.001.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.30.001
+:pca_c750.30.001 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.30.001 :pcaValor 5.0.
+:pca_c750.30.001 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.30.001
+:just_pca_c750.30.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.30.001 :temJustificacao :just_pca_c750.30.001 .
+:just_pca_c750.30.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 4/2015], CPA, art.º 168º – Prazo estabelecido para pedir a anulação administrativa do ato constitutivo do direito." .
+:just_pca_c750.30.001 :temCriterio :just_pca_c750.30.001_0. 
+:just_pca_c750.30.001_0 :critTemLegAssoc :leg_DL_4_2015 .
+:just_pca_c750.30.001_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 - Realização de fiscalização (no que diz respeito à atuação da Administração), conjugado com o PN 150.10.600 - Avaliação de políticas e instrumentos de operacionalização e com o PN 150.20.300 - Avaliação de atividades." .
+:just_pca_c750.30.001 :temCriterio :just_pca_c750.30.001_1. 
+:just_pca_c750.30.001_1 :critTemProcRel :c500.10.301 .
+:just_pca_c750.30.001_1 :critTemProcRel :c150.10.600 .
+:just_pca_c750.30.001_1 :critTemProcRel :c150.20.300 .
+:c750.30.001 :temDF :df_c750.30.001.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.30.001
+:df_c750.30.001 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.30.001 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.30.001
+:just_df_c750.30.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.30.001 :temJustificacao :just_df_c750.30.001 .
+:just_df_c750.30.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação qualitativa não recuperável noutro PN" .
+:just_df_c750.30.001 :temCriterio :just_df_c750.30.001_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.30.300
+:c750.30.300 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.30.300' ;
+	:titulo 'Elaboração de instrumentos de avaliação de aprendizagens' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.30 ;
+	:descricao 'Conceção de instrumentos adequados à avaliação das diversas aprendizagens e às circunstâncias em que ocorrem. Inicia com a elaboração da matriz e projeto de instrumento de avaliação e termina com a apresentação de instrumento de avaliação. Inclui seleção de materiais-suporte dos itens de avaliação, elaboração de instruções ou informações a incluir na prova, definição de critérios e construção de grelhas de classificação, adaptação de provas para alunos ou formandos pessoas com deficiência e aprovação superior do instrumento de avaliação, quando devido.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.300_6ca09d02e22e
+:nota_750.30.300_6ca09d02e22e rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Elaboração de exames de avaliação final".
+
+:c750.30.300 :temNotaAplicacao :nota_750.30.300_6ca09d02e22e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.300_aaf01ae49107
+:nota_750.30.300_aaf01ae49107 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Elaboração de provas de avaliação intermédia".
+
+:c750.30.300 :temNotaAplicacao :nota_750.30.300_aaf01ae49107 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.300_344c7720f6a6
+:nota_750.30.300_344c7720f6a6 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Elaboração de provas de avaliação periódica".
+
+:c750.30.300 :temNotaAplicacao :nota_750.30.300_344c7720f6a6 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.300_6b208926ba58
+:nota_750.30.300_6b208926ba58 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Produção de instrumentos para a avaliação contínua".
+
+:c750.30.300 :temNotaAplicacao :nota_750.30.300_6b208926ba58 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.300_4c908721e0ad
+:nota_750.30.300_4c908721e0ad rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A distribuição das provas pelos estabelecimentos de ensino deve ser considerada em 550.10.004 – Apoio de forças de segurança a diligências".
+
+:c750.30.300 :temNotaExclusao :nota_750.30.300_4c908721e0ad .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.300_00ee63773a06
+:nota_750.30.300_00ee63773a06 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O registo em pautas das notas de avaliação recolhidas em grelhas de classificação deve ser considerado em 750.30.601 – Processamento e comunicação de resultados de avaliação".
+
+:c750.30.300 :temNotaExclusao :nota_750.30.300_00ee63773a06 .
+
+:c750.30.300 :processoTipoVC :vc_processoTipo_pc .
+:c750.30.300 :processoTransversal "S" .
+:c750.30.300 :temDono :tip_IES .
+:c750.30.300 :temDono :tip_EstE .
+:c750.30.300 :temDono :tip_AP .
+:c750.30.300 :temDono :tip_AL .
+:c750.30.300 :temDono :tip_CCDR .
+:c750.30.300 :temDono :ent_ACT .
+:c750.30.300 :temDono :ent_CASES .
+:c750.30.300 :temDono :ent_CGA .
+:c750.30.300 :temDono :ent_CITE .
+:c750.30.300 :temDono :ent_CNPDPCJ .
+:c750.30.300 :temDono :ent_CPL .
+:c750.30.300 :temDono :ent_CRL .
+:c750.30.300 :temDono :ent_DGERT .
+:c750.30.300 :temDono :ent_DGSS .
+:c750.30.300 :temDono :ent_GEP .
+:c750.30.300 :temDono :ent_IEFP .
+:c750.30.300 :temDono :ent_IGMTSSS .
+:c750.30.300 :temDono :ent_IGFCSS .
+:c750.30.300 :temDono :ent_IGFSS .
+:c750.30.300 :temDono :ent_II .
+:c750.30.300 :temDono :ent_INR .
+:c750.30.300 :temDono :ent_ISS .
+:c750.30.300 :temDono :ent_OIT .
+:c750.30.300 :temDono :ent_POISE .
+:c750.30.300 :temDono :ent_SGMTSSS .
+:c750.30.300 :temDono :ent_DGPM .
+:c750.30.300 :temDono :ent_DGADR .
+:c750.30.300 :temDono :ent_INIAV .
+:c750.30.300 :temDono :tip_DRAP .
+:c750.30.300 :temParticipanteIniciador :ent_DGPM .
+:c750.30.300 :temParticipanteIniciador :ent_INIAV .
+:c750.30.300 :temParticipanteIniciador :ent_PDR2020 .
+:c750.30.300 :temParticipanteIniciador :tip_DRAP .
+:c750.30.300 :temParticipanteIniciador :ent_IFAP .
+:c750.30.300 :temLegislacao :leg_DL_17_2016 .
+:c750.30.300 :temLegislacao :leg_Despacho_Normativo_1_F_2016 .
+:c750.30.300 :temLegislacao :leg_DL_139_2012 .
+:c750.30.300 :temLegislacao :leg_DL_433_82 .
+:c750.30.300 :temRelProc :c150.20.101 .
+:c750.30.300 :eSucessorDe :c150.20.101 .
+:c750.30.300 :temRelProc :c500.10.301 .
+:c750.30.300 :eSuplementoPara :c500.10.301 .
+:c750.30.300 :temRelProc :c500.10.600 .
+:c750.30.300 :eCruzadoCom :c500.10.600 .
+:c750.30.300 :temRelProc :c500.20.002 .
+:c750.30.300 :eSuplementoPara :c500.20.002 .
+:c750.30.300 :temRelProc :c500.20.003 .
+:c750.30.300 :eSuplementoPara :c500.20.003 .
+:c750.30.300 :temRelProc :c750.20.600 .
+:c750.30.300 :eSucessorDe :c750.20.600 .
+:c750.30.300 :temRelProc :c750.30.001 .
+:c750.30.300 :eSucessorDe :c750.30.001 .
+:c750.30.300 :temRelProc :c900.20.200 .
+:c750.30.300 :eAntecessorDe :c900.20.200 .
+:c750.30.300 :temRelProc :c900.20.201 .
+:c750.30.300 :eAntecessorDe :c900.20.201 .
+:c750.30.300 :temPCA :pca_c750.30.300.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.30.300
+:pca_c750.30.300 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.30.300 :pcaValor 5.0.
+:pca_c750.30.300 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.30.300
+:just_pca_c750.30.300 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.30.300 :temJustificacao :just_pca_c750.30.300 .
+:just_pca_c750.30.300_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c750.30.300 :temCriterio :just_pca_c750.30.300_0. 
+:just_pca_c750.30.300_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c750.30.300_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito, 500.20.003 - Realização de sindicância) e de fiscalização (500.10.301 - Realização de fiscalização)e para processamento de novos planos." .
+:just_pca_c750.30.300 :temCriterio :just_pca_c750.30.300_1. 
+:just_pca_c750.30.300_1 :critTemProcRel :c500.20.002 .
+:just_pca_c750.30.300_1 :critTemProcRel :c500.20.003 .
+:just_pca_c750.30.300_1 :critTemProcRel :c500.10.301 .
+:c750.30.300 :temDF :df_c750.30.300.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.30.300
+:df_c750.30.300 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.30.300 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.30.300
+:just_df_c750.30.300 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.30.300 :temJustificacao :just_df_c750.30.300 .
+:just_df_c750.30.300_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN" .
+:just_df_c750.30.300 :temCriterio :just_df_c750.30.300_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.30.600
+:c750.30.600 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.30.600' ;
+	:titulo 'Aplicação de instrumentos de avaliação de aprendizagens' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.30 ;
+	:descricao 'Execução organizada de modalidades de avaliação. Inicia com a aplicação de instrumentos de avaliação e termina com a classificação do aluno ou formando. Inclui elaboração da lista dos alunos que realizam a prova (pautas de chamada), distribuição de enunciados, cotação das respostas dos alunos ou formandos, elaboração de grelhas de classificação e pautas provisórias.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.600_dc645dbb36bf
+:nota_750.30.600_dc645dbb36bf rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Avaliação de projetos e trabalhos de grupo ou individuais".
+
+:c750.30.600 :temNotaAplicacao :nota_750.30.600_dc645dbb36bf .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.600_81444913c24d
+:nota_750.30.600_81444913c24d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Aplicação de guias de trabalho para avaliação".
+
+:c750.30.600 :temNotaAplicacao :nota_750.30.600_81444913c24d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.600_5783732411d1
+:nota_750.30.600_5783732411d1 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A avaliação da capacidade para a frequência de curso ou formação deve ser considerada em 750.10.001 – Seleção e seriação para ingresso no ensino ou formação".
+
+:c750.30.600 :temNotaExclusao :nota_750.30.600_5783732411d1 .
+
+:c750.30.600 :processoTipoVC :vc_processoTipo_pc .
+:c750.30.600 :processoTransversal "S" .
+:c750.30.600 :temDono :tip_IES .
+:c750.30.600 :temDono :tip_EstE .
+:c750.30.600 :temDono :tip_AP .
+:c750.30.600 :temDono :tip_AL .
+:c750.30.600 :temDono :ent_Grupo_IP .
+:c750.30.600 :temDono :tip_CCDR .
+:c750.30.600 :temDono :ent_IMT .
+:c750.30.600 :temDono :ent_ACT .
+:c750.30.600 :temDono :ent_CASES .
+:c750.30.600 :temDono :ent_CGA .
+:c750.30.600 :temDono :ent_CITE .
+:c750.30.600 :temDono :ent_CNPDPCJ .
+:c750.30.600 :temDono :ent_CPL .
+:c750.30.600 :temDono :ent_CRL .
+:c750.30.600 :temDono :ent_DGERT .
+:c750.30.600 :temDono :ent_DGSS .
+:c750.30.600 :temDono :ent_GEP .
+:c750.30.600 :temDono :ent_IEFP .
+:c750.30.600 :temDono :ent_IGMTSSS .
+:c750.30.600 :temDono :ent_IGFCSS .
+:c750.30.600 :temDono :ent_IGFSS .
+:c750.30.600 :temDono :ent_II .
+:c750.30.600 :temDono :ent_INR .
+:c750.30.600 :temDono :ent_ISS .
+:c750.30.600 :temDono :ent_OIT .
+:c750.30.600 :temDono :ent_POISE .
+:c750.30.600 :temDono :ent_SGMTSSS .
+:c750.30.600 :temDono :ent_DGPM .
+:c750.30.600 :temDono :ent_DGADR .
+:c750.30.600 :temDono :ent_INIAV .
+:c750.30.600 :temDono :ent_GPP .
+:c750.30.600 :temDono :tip_DRAP .
+:c750.30.600 :temParticipanteIniciador :ent_DGPM .
+:c750.30.600 :temParticipanteIniciador :ent_INIAV .
+:c750.30.600 :temParticipanteIniciador :ent_PDR2020 .
+:c750.30.600 :temParticipanteIniciador :tip_DRAP .
+:c750.30.600 :temParticipanteIniciador :ent_IFAP .
+:c750.30.600 :temLegislacao :leg_DL_17_2016 .
+:c750.30.600 :temLegislacao :leg_Despacho_Normativo_1_F_2016 .
+:c750.30.600 :temLegislacao :leg_DL_139_2012 .
+:c750.30.600 :temLegislacao :leg_DL_433_82 .
+:c750.30.600 :temRelProc :c450.10.801 .
+:c750.30.600 :eAntecessorDe :c450.10.801 .
+:c750.30.600 :temRelProc :c450.10.802 .
+:c750.30.600 :eAntecessorDe :c450.10.802 .
+:c750.30.600 :temRelProc :c500.10.301 .
+:c750.30.600 :eSuplementoPara :c500.10.301 .
+:c750.30.600 :temRelProc :c500.20.002 .
+:c750.30.600 :eSuplementoPara :c500.20.002 .
+:c750.30.600 :temRelProc :c500.20.003 .
+:c750.30.600 :eSuplementoPara :c500.20.003 .
+:c750.30.600 :temRelProc :c550.10.004 .
+:c750.30.600 :eCruzadoCom :c550.10.004 .
+:c750.30.600 :temRelProc :c750.10.601 .
+:c750.30.600 :eSucessorDe :c750.10.601 .
+:c750.30.600 :temRelProc :c750.20.600 .
+:c750.30.600 :eSucessorDe :c750.20.600 .
+:c750.30.600 :temRelProc :c750.30.300 .
+:c750.30.600 :eCruzadoCom :c750.30.300 .
+:c750.30.600 :temRelProc :c750.30.601 .
+:c750.30.600 :eAntecessorDe :c750.30.601 .
+:c750.30.600 :temPCA :pca_c750.30.600.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.30.600
+:pca_c750.30.600 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.30.600 :pcaValor 5.0.
+:pca_c750.30.600 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.30.600
+:just_pca_c750.30.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.30.600 :temJustificacao :just_pca_c750.30.600 .
+:just_pca_c750.30.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c750.30.600 :temCriterio :just_pca_c750.30.600_0. 
+:just_pca_c750.30.600_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c750.30.600_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito, 500.20.003 - Realização de sindicância) e de fiscalização (500.10.301 - Realização de fiscalização) e para processamento de novos planos." .
+:just_pca_c750.30.600 :temCriterio :just_pca_c750.30.600_1. 
+:just_pca_c750.30.600_1 :critTemProcRel :c500.20.002 .
+:just_pca_c750.30.600_1 :critTemProcRel :c500.20.003 .
+:just_pca_c750.30.600_1 :critTemProcRel :c500.10.301 .
+:c750.30.600 :temDF :df_c750.30.600.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.30.600
+:df_c750.30.600 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.30.600 :dfValor "CP" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.30.600
+:just_df_c750.30.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.30.600 :temJustificacao :just_df_c750.30.600 .
+:just_df_c750.30.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Enumeração e tipificação dos casos recuperável através das estatísticas.Esta síntese não permite recuperar o particular e individual, mas apenas o geral.A aplicação de um critério de amostragem aleatória sobre este PN permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo de todas as características da população-alvo.Toma ainda como base o facto da imprevisibilidade dos estudos nesta área e a impossibilidade atual de conservar toda a produção.A constituição de uma amostra significativa do universo de onde é retirada, mediante a aplicação de métodos estatísticos com uma margem de erro controlada, será suficiente para representar o universo.Extra amostra poderão ser conservadas os fat files ou os processos referentes a casos com maior impacto social." .
+:just_df_c750.30.600 :temCriterio :just_df_c750.30.600_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.30.601
+:c750.30.601 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.30.601' ;
+	:titulo 'Processamento e comunicação de resultados de avaliação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.30 ;
+	:descricao 'Lançamento e publicitação dos resultados da avaliação das aprendizagens. Inicia com a análise de grelhas de classificação e pautas provisórias e termina com o lançamento de resultados definitivos e a sua publicitação. Inclui reapreciação da avaliação da prova sempre que solicitado e o registo dos resultados definitivos.' .
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_750.30.601_f856715fa822
+:exemplo_750.30.601_f856715fa822 rdf:type owl:NamedIndividual ,
+		:ExemploNotaAplicacao ;
+	:rdfs:label "Exemplo de nota de aplicação";
+	:conteudo "Pauta final de avaliação".
+
+:c750.30.601 :temExemploNA :exemplo_750.30.601_f856715fa822 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.601_c07ee2b863c0
+:nota_750.30.601_c07ee2b863c0 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A admissão a provas de avaliação deve ser considerada em 750.10.601 - Prestação de provas de avaliação".
+
+:c750.30.601 :temNotaExclusao :nota_750.30.601_c07ee2b863c0 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.601_1ede8e898e9e
+:nota_750.30.601_1ede8e898e9e rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A elaboração de relatórios de avaliação sobre avaliação das aprendizagens deve ser considerada em 150.20.300 – Avaliação de atividades".
+
+:c750.30.601 :temNotaExclusao :nota_750.30.601_1ede8e898e9e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.601_158683e06f15
+:nota_750.30.601_158683e06f15 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O recurso relativo à avaliação deve ser considerado em 500.40.500 – Processamento de recursos hierárquicos".
+
+:c750.30.601 :temNotaExclusao :nota_750.30.601_158683e06f15 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.601_507911b07df1
+:nota_750.30.601_507911b07df1 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O recurso relativo à avaliação, caso evolua para os Tribunais, deve ser considerado em 600.30.550 – Ação administrativa".
+
+:c750.30.601 :temNotaExclusao :nota_750.30.601_507911b07df1 .
+
+:c750.30.601 :processoTipoVC :vc_processoTipo_pc .
+:c750.30.601 :processoTransversal "S" .
+:c750.30.601 :temDono :tip_IES .
+:c750.30.601 :temDono :tip_EstE .
+:c750.30.601 :temDono :tip_AP .
+:c750.30.601 :temDono :tip_AL .
+:c750.30.601 :temDono :ent_Grupo_IP .
+:c750.30.601 :temDono :tip_CCDR .
+:c750.30.601 :temDono :ent_ACT .
+:c750.30.601 :temDono :ent_CASES .
+:c750.30.601 :temDono :ent_CGA .
+:c750.30.601 :temDono :ent_CITE .
+:c750.30.601 :temDono :ent_CNPDPCJ .
+:c750.30.601 :temDono :ent_CPL .
+:c750.30.601 :temDono :ent_CRL .
+:c750.30.601 :temDono :ent_DGERT .
+:c750.30.601 :temDono :ent_DGSS .
+:c750.30.601 :temDono :ent_GEP .
+:c750.30.601 :temDono :ent_IEFP .
+:c750.30.601 :temDono :ent_IGMTSSS .
+:c750.30.601 :temDono :ent_IGFCSS .
+:c750.30.601 :temDono :ent_IGFSS .
+:c750.30.601 :temDono :ent_II .
+:c750.30.601 :temDono :ent_INR .
+:c750.30.601 :temDono :ent_ISS .
+:c750.30.601 :temDono :ent_OIT .
+:c750.30.601 :temDono :ent_POISE .
+:c750.30.601 :temDono :ent_SGMTSSS .
+:c750.30.601 :temDono :ent_DGPM .
+:c750.30.601 :temDono :ent_DGADR .
+:c750.30.601 :temDono :ent_INIAV .
+:c750.30.601 :temDono :ent_GPP .
+:c750.30.601 :temDono :tip_DRAP .
+:c750.30.601 :temDono :ent_CV .
+:c750.30.601 :temParticipanteIniciador :ent_DGPM .
+:c750.30.601 :temParticipanteIniciador :ent_INIAV .
+:c750.30.601 :temParticipanteIniciador :ent_PDR2020 .
+:c750.30.601 :temParticipanteIniciador :tip_DRAP .
+:c750.30.601 :temParticipanteIniciador :ent_IFAP .
+:c750.30.601 :temLegislacao :leg_DL_17_2016 .
+:c750.30.601 :temLegislacao :leg_Despacho_Normativo_1_F_2016 .
+:c750.30.601 :temLegislacao :leg_DL_55_2018 .
+:c750.30.601 :temLegislacao :leg_DL_433_82 .
+:c750.30.601 :temLegislacao :leg_DL_4_2015 .
+:c750.30.601 :temRelProc :c350.30.001 .
+:c750.30.601 :eCruzadoCom :c350.30.001 .
+:c750.30.601 :temRelProc :c450.30.002 .
+:c750.30.601 :eSuplementoDe :c450.30.002 .
+:c750.30.601 :temRelProc :c500.10.001 .
+:c750.30.601 :eSuplementoPara :c500.10.001 .
+:c750.30.601 :temRelProc :c500.10.301 .
+:c750.30.601 :eSuplementoPara :c500.10.301 .
+:c750.30.601 :temRelProc :c500.40.500 .
+:c750.30.601 :eCruzadoCom :c500.40.500 .
+:c750.30.601 :temRelProc :c750.10.300 .
+:c750.30.601 :eCruzadoCom :c750.10.300 .
+:c750.30.601 :temRelProc :c750.10.601 .
+:c750.30.601 :eSinteseDe :c750.10.601 .
+:c750.30.601 :temRelProc :c750.20.600 .
+:c750.30.601 :eSinteseDe :c750.20.600 .
+:c750.30.601 :temRelProc :c750.30.600 .
+:c750.30.601 :eSucessorDe :c750.30.600 .
+:c750.30.601 :temRelProc :c750.10.300 .
+:c750.30.601 :eCruzadoCom :c750.10.300 .
+:c750.30.601 :temPCA :pca_c750.30.601.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.30.601
+:pca_c750.30.601 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.30.601 :pcaValor 5.0.
+:pca_c750.30.601 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.30.601
+:just_pca_c750.30.601 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.30.601 :temJustificacao :just_pca_c750.30.601 .
+:just_pca_c750.30.601_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional;[DL 4/2015], CPA, art.º 168º – Prazo estabelecido para pedir a anulação administrativa do ato constitutivo do direito." .
+:just_pca_c750.30.601 :temCriterio :just_pca_c750.30.601_0. 
+:just_pca_c750.30.601_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c750.30.601_0 :critTemLegAssoc :leg_DL_4_2015 .
+:just_pca_c750.30.601_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito, 500.20.003 - Realização de sindicância) e de fiscalização (500.10.301 - Realização de fiscalização) e para processamento de novos planos" .
+:just_pca_c750.30.601 :temCriterio :just_pca_c750.30.601_1. 
+:just_pca_c750.30.601_1 :critTemProcRel :c500.20.002 .
+:just_pca_c750.30.601_1 :critTemProcRel :c500.20.003 .
+:just_pca_c750.30.601_1 :critTemProcRel :c500.10.301 .
+:c750.30.601 :temDF :df_c750.30.601.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.30.601
+:df_c750.30.601 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.30.601 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.30.601
+:just_df_c750.30.601 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.30.601 :temJustificacao :just_df_c750.30.601 .
+:just_df_c750.30.601_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN.Fonte primária para emissão de certificados de habilitações ou de qualificações." .
+:just_df_c750.30.601 :temCriterio :just_df_c750.30.601_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.30.602
+:c750.30.602 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '750.30.602' ;
+	:titulo 'Reconhecimento, creditação e validação de competências e qualificações' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.30 ;
+	:descricao 'Ações de validação e valorização de conhecimentos, aptidões, competências e qualificações adquiridas pela experiência de ensino, laboral e de vida, através da atribuição de equivalência ou reconhecimento de um grau de habilitação académica ou profissional. Inicia com a verificação e análise do percurso formativo e termina com a atribuição da qualificação. Inclui, conforme os casos, o portfólio individual ou os comprovativos entregues que explicitam e evidenciam as competências adquiridas.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.602_8ee8b3cbbda4
+:nota_750.30.602_8ee8b3cbbda4 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Reconhecimento académico pelo qual uma qualificação académica estrangeira é comparada a uma qualificação portuguesa relativamente ao nível, duração e conteúdo programático".
+
+:c750.30.602 :temNotaAplicacao :nota_750.30.602_8ee8b3cbbda4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.602_2cb345d7f703
+:nota_750.30.602_2cb345d7f703 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Reconhecimento a indivíduos que não obtiveram qualificação escolar, académica, profissional pela via formal e pretendam ver confirmado os seus conhecimentos e competências".
+
+:c750.30.602 :temNotaAplicacao :nota_750.30.602_2cb345d7f703 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.602_e24698c63375
+:nota_750.30.602_e24698c63375 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Reconhecimento de qualificações profissionais destinado aos cidadãos qualificados para o exercício de uma profissão num determinado Estado-Membro que pretendam exercê-la num outro Estado-Membro onde a mesma esteja regulamentada".
+
+:c750.30.602 :temNotaAplicacao :nota_750.30.602_e24698c63375 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_750.30.602_e82ec3d2530f
+:nota_750.30.602_e82ec3d2530f rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A emissão de certificados e diplomas deve ser considerada em 450.30.002 – Certificação de habilitações ou qualificações".
+
+:c750.30.602 :temNotaExclusao :nota_750.30.602_e82ec3d2530f .
+
+:c750.30.602 :processoTipoVC :vc_processoTipo_pe .
+:c750.30.602 :processoTransversal "S" .
+:c750.30.602 :temDono :tip_IES .
+:c750.30.602 :temDono :tip_EstE .
+:c750.30.602 :temDono :ent_IEFP .
+:c750.30.602 :temDono :tip_AL .
+:c750.30.602 :temDono :ent_CPL .
+:c750.30.602 :temDono :ent_SGMTSSS .
+:c750.30.602 :temDono :tip_DRAP .
+:c750.30.602 :temDono :ent_IFAP .
+:c750.30.602 :temParticipanteIniciador :ent_ICNF .
+:c750.30.602 :temParticipanteIniciador :ent_ISS .
+:c750.30.602 :temParticipanteIniciador :ent_DGAV .
+:c750.30.602 :temParticipanteIniciador :ent_IVV .
+:c750.30.602 :temParticipanteIniciador :ent_GPP .
+:c750.30.602 :temParticipanteIniciador :tip_DRAP .
+:c750.30.602 :temLegislacao :leg_DL_17_2016 .
+:c750.30.602 :temLegislacao :leg_Despacho_Normativo_1_F_2016 .
+:c750.30.602 :temLegislacao :leg_DL_55_2018 .
+:c750.30.602 :temRelProc :c400.10.616 .
+:c750.30.602 :eAntecessorDe :c400.10.616 .
+:c750.30.602 :temRelProc :c450.10.648 .
+:c750.30.602 :eAntecessorDe :c450.10.648 .
+:c750.30.602 :temRelProc :c500.10.301 .
+:c750.30.602 :eSuplementoPara :c500.10.301 .
+:c750.30.602 :temRelProc :c500.20.002 .
+:c750.30.602 :eSuplementoPara :c500.20.002 .
+:c750.30.602 :temRelProc :c500.20.003 .
+:c750.30.602 :eSuplementoPara :c500.20.003 .
+:c750.30.602 :temRelProc :c500.40.500 .
+:c750.30.602 :eCruzadoCom :c500.40.500 .
+:c750.30.602 :temRelProc :c750.10.001 .
+:c750.30.602 :eAntecessorDe :c750.10.001 .
+:c750.30.602 :temRelProc :c750.10.002 .
+:c750.30.602 :eAntecessorDe :c750.10.002 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.30.602.01
+:c750.30.602.01 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '750.30.602.01' ;
+	:titulo 'Reconhecimento, creditação e validação de competências e qualificações: verificação das condições' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.30.602 ;
+	:descricao 'Inicia com a verificação e análise do percurso formativo e termina com a redação de um relatório preliminar ou propostas de aceitação. Inclui, quando aplicável, o portofólio individual que explicita e organiza as evidências das competências adquiridas ou os comprovativos do percurso profissional.' .
+:c750.30.602.01 :temPCA :pca_c750.30.602.01.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.30.602.01
+:pca_c750.30.602.01 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.30.602.01 :pcaValor 5.0.
+:pca_c750.30.602.01 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.30.602.01
+:just_pca_c750.30.602.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.30.602.01 :temJustificacao :just_pca_c750.30.602.01 .
+:just_pca_c750.30.602.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional;[DL 4/2015], CPA, art.º 168º – Prazo estabelecido para pedir a anulação administrativa do ato constitutivo do direito." .
+:just_pca_c750.30.602.01 :temCriterio :just_pca_c750.30.602.01_0. 
+:just_pca_c750.30.602.01_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c750.30.602.01_0 :critTemLegAssoc :leg_DL_4_2015 .
+:just_pca_c750.30.602.01_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito, 500.20.003 - Realização de sindicância) e de fiscalização (500.10.301 - Realização de fiscalização) e para processamento de novos plano)." .
+:just_pca_c750.30.602.01 :temCriterio :just_pca_c750.30.602.01_1. 
+:just_pca_c750.30.602.01_1 :critTemProcRel :c500.20.002 .
+:just_pca_c750.30.602.01_1 :critTemProcRel :c500.20.003 .
+:just_pca_c750.30.602.01_1 :critTemProcRel :c500.10.301 .
+:c750.30.602.01 :temDF :df_c750.30.602.01.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.30.602.01
+:df_c750.30.602.01 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.30.602.01 :dfValor "CP" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.30.602.01
+:just_df_c750.30.602.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.30.602.01 :temJustificacao :just_df_c750.30.602.01 .
+:just_df_c750.30.602.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Enumeração e tipificação dos casos recuperável através das estatísticas.Esta síntese não permite recuperar o particular e individual, mas apenas o geral.A aplicação de um critério de amostragem aleatória sobre este PN permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo de todas as características da população-alvo.Toma ainda como base o facto da imprevisibilidade dos estudos nesta área e a impossibilidade atual de conservar toda a produção.A constituição de uma amostra significativa do universo de onde é retirada, mediante a aplicação de métodos estatísticos com uma margem de erro controlada, será suficiente para representar o universo.Extra amostra poderão ser conservadas os fat files ou os processos referentes a casos com maior impacto social." .
+:just_df_c750.30.602.01 :temCriterio :just_df_c750.30.602.01_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c750.30.602.02
+:c750.30.602.02 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '750.30.602.02' ;
+	:titulo 'Reconhecimento, creditação e validação de competências e qualificações: atribuição de equivalência ou reconhecimento' ;
+	:pertenceLC :lc1 ;
+	:temPai :c750.30.602 ;
+	:descricao 'Inicia com a análise dos casos ou do relatório preliminar, quando exista, e termina com a atribuição da qualificação. Inclui reuniões e elaboração de pareceres.' .
+:c750.30.602.02 :temPCA :pca_c750.30.602.02.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c750.30.602.02
+:pca_c750.30.602.02 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c750.30.602.02 :pcaValor 5.0.
+:pca_c750.30.602.02 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c750.30.602.02
+:just_pca_c750.30.602.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c750.30.602.02 :temJustificacao :just_pca_c750.30.602.02 .
+:just_pca_c750.30.602.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional; [DL 4/2015], CPA, art.º 168º – Prazo estabelecido para pedir a anulação administrativa do ato constitutivo do direito." .
+:just_pca_c750.30.602.02 :temCriterio :just_pca_c750.30.602.02_0. 
+:just_pca_c750.30.602.02_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c750.30.602.02_0 :critTemLegAssoc :leg_DL_4_2015 .
+:just_pca_c750.30.602.02_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito, 500.20.003 - Realização de sindicância) e de fiscalização (500.10.301 - Realização de fiscalização) e para processamento de novos plano)." .
+:just_pca_c750.30.602.02 :temCriterio :just_pca_c750.30.602.02_1. 
+:just_pca_c750.30.602.02_1 :critTemProcRel :c500.20.002 .
+:just_pca_c750.30.602.02_1 :critTemProcRel :c500.20.003 .
+:just_pca_c750.30.602.02_1 :critTemProcRel :c500.10.301 .
+:c750.30.602.02 :temDF :df_c750.30.602.02.
+###  http://jcr.di.uminho.pt/m51-clav#df_c750.30.602.02
+:df_c750.30.602.02 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c750.30.602.02 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c750.30.602.02
+:just_df_c750.30.602.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c750.30.602.02 :temJustificacao :just_df_c750.30.602.02 .
+:just_df_c750.30.602.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN." .
+:just_df_c750.30.602.02 :temCriterio :just_df_c750.30.602.02_0. 

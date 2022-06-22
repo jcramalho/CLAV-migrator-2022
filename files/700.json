@@ -1,0 +1,3436 @@
+[
+    {
+        "codigo": "700",
+        "nivel": 1,
+        "estado": "A",
+        "titulo": "PRESTAÇÃO DE CUIDADOS DE SAÚDE",
+        "descricao": "Relativo à prestação de cuidados preventivos, curativos ou continuados, assegurada em unidades do Serviço Nacional de Saúde, em contexto laboral (saúde ocupacional), em clínicas, nas escolas, em prisões ou em qualquer outro contexto onde sejam praticados atos clínicos para humanos ou animais.",
+        "notasAp": [
+            {
+                "idNota": "nota_700_3c21d88f1fe8",
+                "nota": "Atos clínicos incluindo os realizados no quadro da promoção da saúde (rastreio, vacinação, consulta do viajante, etc.)"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700_3d96c093f39f",
+                "nota": "A constituição de redes de referenciação dos serviços e unidades de prestação de serviços de saúde (primária e secundária) deve ser considerada em \\\"Planeamento e gestão estratégica/ Planeamento, avaliação e melhoria de serviços\\\" (150.20);"
+            },
+            {
+                "idNota": "nota_700_1395d32262c8",
+                "nota": "As campanhas de divulgação e informação em saúde, como as publicitárias, devem ser consideradas em \\\"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\\\" (900.10);"
+            },
+            {
+                "idNota": "nota_700_3525de3e25b8",
+                "nota": "Os estudos científicos e técnico-científicos no domínio da saúde devem ser considerados em \\\"Prestação de serviços técnicos e científicos, investigação e desenvolvimento\\\" (800);"
+            },
+            {
+                "idNota": "nota_700_656d52f0901e",
+                "nota": "Os serviços de assistência religiosa e/ou de assistência social ou psicossocial orientados à (re)integração social do utente dos serviços de saúde devem ser considerados em \\\"Prestação de serviços de proteção e inclusão social/ Serviços e equipamentos sociais\\\" (650.20)."
+            }
+        ]
+    },
+    {
+        "codigo": "700.10",
+        "nivel": 2,
+        "estado": "A",
+        "titulo": "Gestão de utentes",
+        "descricao": "Compreende as atividades de gestão do atendimento, admissão e encaminhamento de utentes dos serviços de saúde, no que se inclui os serviços de emergência médica.",
+        "notasAp": [
+            {
+                "idNota": "nota_700.10_e0a5bc5707ae",
+                "nota": "Referenciação de doentes"
+            },
+            {
+                "idNota": "nota_700.10_d78e3d593f1e",
+                "nota": "Organização do transporte de doentes"
+            },
+            {
+                "idNota": "nota_700.10_45d47276d970",
+                "nota": "Gestão de inscritos para consultas, para cirurgia e para outros atos clínicos"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700.10_434a48dc109d",
+                "nota": "O registo nacional de \\\"utente de saúde\\\" deve ser considerado em \\\"Prestação de serviços de identificação e registo/ Registo de dados de identificação e caracterização de entidades ou atos\\\" (400.10)"
+            }
+        ]
+    },
+    {
+        "codigo": "700.10.001",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Referenciação de utentes para consultas",
+        "descricao": "Inscrição e monitorização das inscrições de utentes que aguardam a realização de consulta numa unidade de saúde. Inicia com a inscrição na consulta e termina com a confirmação da realização da consulta ou cancelamento do registo. Inclui identificação do utente, avaliação clínica da necessidade da consulta, verificação de disponibilidade e marcação de consulta, notificação ao utente do agendamento da consulta.",
+        "notasAp": [
+            {
+                "idNota": "nota_700.10.001_7f43e7ac4ba2",
+                "nota": "Encaminhamento de utentes para referenciação em consultas de especialidade"
+            },
+            {
+                "idNota": "nota_700.10.001_0284525db218",
+                "nota": "Marcação, alteração e cancelamento de atos clínicos médicos e de enfermagem no âmbito da Medicina do Trabalho"
+            },
+            {
+                "idNota": "nota_700.10.001_453567b7af30",
+                "nota": "Marcação de atos clínicos médicos e de enfermagem nas unidades de saúde dos Serviços Sociais"
+            },
+            {
+                "idNota": "nota_700.10.001_05074adfc9b1",
+                "nota": "Referenciação de utentes para consultas em unidades de saúde públicas ou privadas"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "UPCS",
+            "AL",
+            "Grupo_IP",
+            "HH"
+        ],
+        "participantes": [
+            {
+                "id": "ARS",
+                "interv": "Decidir"
+            },
+            {
+                "id": "ACSS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "AL",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ACES",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "SMT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "HH",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "Lei_26_2016",
+            "Portaria_95_2013",
+            "Lei_12_2005",
+            "Lei_58_2019",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.40.500",
+            "300.10.008",
+            "400.10.040",
+            "500.10.301",
+            "700.10.006",
+            "700.20.200",
+            "700.20.402",
+            "700.20.404"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.10.001_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.10.001_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 (Realização de fiscalização).",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.10.001_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação está sintetizada e é recuperável nos PN:700.10.006 - Registo clinico de utentes;700.20.200 - Prestação de cuidados de saúde personalizados;700.20.402 - Realização de consultas de especialidade.",
+                    "procRefs": [
+                        "700.10.006",
+                        "700.20.200",
+                        "700.20.402"
+                    ]
+                }
+            ]
+        },
+        "Notas": "\"O sistema informático de suporte ao CTH ( Consulta a tempo e horas ) visa agilizar o sistema de referenciação para as 1ºas consultas mas tem ainda subjacente a avaliação especializada dos pedidos inscritos, a identificação da prioridade de atendimento e a marcação de primeiras consultas com base nessa prioridade, permitindo a monitorização de todos os pedidos de consulta com identificação clara dos intervenientes e respetivo desempenho em termos de tempo de resposta e dos atos associados\".\n"
+    },
+    {
+        "codigo": "700.10.002",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Referenciação de utentes para a rede de cuidados continuados integrados",
+        "descricao": "Informação decorrente de um conjunto de intervenções sequenciais integradas de saúde e apoio social em sequência de uma avaliação conjunta que visa promover a autonomia melhorando a funcionalidade do utente em situação de dependência, através da sua reabilitação, readaptação e reinserção familiar e social. Inicia com a avaliação da necessidade de cuidados continuados e preparação da alta hospitalar em articulação com outros serviços e termina com a confirmação do ingresso ou a anulação do registo. Inclui as atividades necessárias à execução do processo de referenciação de acordo com os interesses dos utentes e os recursos disponíveis na comunidade, nomeadamente, a nota de alta, os pareceres das equipas de gestão de altas, o envio dos processos de ingresso e de admissão para as unidades prestadoras. Inclui ainda, o consentimento informado e o termo de aceitação de internamento. ",
+        "notasEx": [
+            {
+                "idNota": "nota_700.10.002_d816ce594fef",
+                "nota": "Os internamentos hospitalares devem ser considerados em 700.20.400 – Internamento de doentes agudos e crónicos"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "UPCS"
+        ],
+        "participantes": [
+            {
+                "id": "ARS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ACES",
+                "interv": "Decidir"
+            },
+            {
+                "id": "ISS",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "DL_101_2006",
+            "Portaria_174_2014",
+            "Diretiva_Técnica_UMCCI_1_2008",
+            "Diretiva_Técnica_UMCCI_5_2008",
+            "Diretiva_Técnica_UMCCI_2_2012",
+            "Diretiva_Técnica_UMCCI_5_2012",
+            "Lei_12_2005",
+            "Lei_26_2016",
+            "Lei_58_2019",
+            "Portaria_189_A_2015",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.40.001",
+            "150.40.500",
+            "400.10.040",
+            "500.10.301",
+            "700.10.006",
+            "700.20.200",
+            "700.20.300",
+            "700.20.400",
+            "700.20.402",
+            "700.20.404",
+            "700.20.407",
+            "700.20.500",
+            "700.20.600",
+            "700.10.004"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.10.002_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.10.002_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 (Realização de fiscalização).",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.10.002_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação está sintetizada e é recuperável nos PN:700.10.006 - Registo clínico de utentes;700.20.407 - Prestação de cuidados de reabilitação;700.20.500 - Prestação de cuidados continuados integrados;700.20.600 - Prestação de cuidados paliativos.",
+                    "procRefs": [
+                        "700.10.006",
+                        "700.20.407",
+                        "700.20.500",
+                        "700.20.600"
+                    ]
+                }
+            ]
+        },
+        "Notas": "Portaria 174/2014, art. 10º nº 2 — O processo individual de cuidados continuados do utente deve ser permanentemente atualizado,|durante o internamento | sendo que, no que reporta a registo de observações, prescrições, administração de terapêutica e prestação de serviços e cuidados, deve ser anotada a data e a hora em que foram realizados, bem como a identificação clara do seu autor.\nnº 4 - As unidades e equipas prestadoras asseguram o arquivo do processo individual do utente, em conformidade com a legislação vigente."
+    },
+    {
+        "codigo": "700.10.003",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Referenciação de utentes para cirurgias",
+        "descricao": "Informação decorrente de um conjunto de procedimentos de encaminhamento de utentes para realização de cirurgias. Inicia com a referenciação do médico que encaminha o utente para cirurgia ou na sequência de atendimento de urgência na unidade hospitalar e termina com a confirmação da realização da cirurgia ou cancelamento do registo. Incluí inscrição dos utentes através da plataforma para a gestão de inscritos para cirurgia e referenciação para outras unidades do setor público ou setor privado ou social através da emissão de um cheque cirúrgico. ",
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "HH"
+        ],
+        "participantes": [
+            {
+                "id": "ARS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ACSS",
+                "interv": "Decidir"
+            },
+            {
+                "id": "UPCS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "Portaria_45_2008",
+            "Lei_12_2005",
+            "Lei_26_2016",
+            "Lei_58_2019",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.40.500",
+            "400.10.040",
+            "500.10.301",
+            "700.10.006",
+            "700.20.200",
+            "700.20.300",
+            "700.20.400",
+            "700.20.401",
+            "700.20.402",
+            "700.10.004"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.10.003_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.10.003_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 (Realização de fiscalização).",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.10.003_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação está sintetizada e é recuperável nos PN:700.10.006 - Registo clinico de utentes;700.20.200 - Prestação de cuidados de saúde personalizados;700.20.400 - Internamento de doentes agudos e crónicos;700.20.401 - Realização de cirurgias de ambulatório;700.20.402 - Realização de consultas de especialidade.",
+                    "procRefs": [
+                        "700.10.006",
+                        "700.20.200",
+                        "700.20.400",
+                        "700.20.401",
+                        "700.20.402"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.10.004",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Registo de utilizadores de unidades de saúde",
+        "descricao": "Inscrição de utilizadores de unidades de saúde privadas ou de caráter social. Inicia com a manifestação do interesse ou necessidade de utilização de uma unidade de saúde e termina com o fim do interesse ou necessidade. Inclui identificação de utilizador, verificação do sistema de apoio à doença utilizado e registo de dados.",
+        "notasAp": [
+            {
+                "idNota": "nota_700.10.004_ca4654ec7919",
+                "nota": "Atualização de dados para registo"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700.10.004_f0acf1b07a65",
+                "nota": "O registo nacional de utente de saúde deve ser considerado em “Prestação de serviços de identificação e registo / Registo de dados de identificação e caracterização de entidades ou atos” (400.10)"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "N",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "UPCS",
+            "INSA",
+            "SMT",
+            "HH",
+            "IEFP"
+        ],
+        "participantes": [
+            {
+                "id": "ACES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Lei_102_2009",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "400.10.040",
+            "450.30.500",
+            "500.10.301",
+            "700.10.001",
+            "700.10.006",
+            "700.10.002",
+            "700.10.003",
+            "700.20.402",
+            "700.10.002"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.10.004_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.10.004_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301- Realização de fiscalização.",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.10.004_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação está sintetizada e é recuperável no PN 700.10.006 - Registo Clinico de utentes.",
+                    "procRefs": [
+                        "700.10.006"
+                    ]
+                }
+            ]
+        },
+        "Notas": "Legal - O processo clínico/ficha clínica (PC/FC) é constituído pelos dados individuais e administrativos do trabalhador, anamnese profissional, o exame objectivo sistemático e a vigilância biológica quando adequada. Deve incluir também o rastreio dos efeitos precoces e reversíveis, bem como a análise comparada dos dados clínicos e pessoais com as exigências de trabalho, carga de trabalho e avaliação dos factores de risco em que o trabalhador está exposto. Este PC/FC está sujeito ao segredo profissional e de acordo com a alínea c), ponto 2, artigo 88º, Lei 102/2009 de 10 de Setembro, deverá, aquando da cessação do contrato de actividade de uma dada empresa ou do médico do trabalho, ser transmitido ao médico do trabalho da nova empresa. Este princípio da transmissão da informação clínica por cessação da actividade é do interesse do trabalhador e salvaguarda os seus direitos à informação, conforme o referem os artigos 101º e 103º do Código Deontológico da Ordem dos Médicos. Esta prática deve constar do manual de procedimentos no capítulo da gestão da informação.\n\nNota: Os PC/FC dos trabalhadores sujeitos ao risco de doença profissional devem ser guardados pelo um período de 40 anos e com a cessação da actividade do trabalhador devem ser remetidos para o serviço com competência para o reconhecimento das doenças profissionais na área da segurança social (n.º 5 do artigo 109º, Lei 102/2009 de 10 de Setembro).\n"
+    },
+    {
+        "codigo": "700.10.005",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Referenciação de utilizadores expostos a agentes biológicos perigosos",
+        "descricao": "A identificação dos trabalhadores expostos a agentes biológicos perigosos, com a indicação da natureza e, se possível, do agente e do grau de exposição. Inicia com a inscrição do trabalhador e termina com o registo exposição a agentes biológicos. Inclui os resultados da vigilância da saúde de cada trabalhador com referência ao respetivo posto de trabalho ou função e o registo de acidentes ou incidentes. ",
+        "notasAp": [
+            {
+                "idNota": "nota_700.10.005_d09afd9bc898",
+                "nota": "Registos efetuados por entidades empregadoras que tenham trabalhadores que possam estar expostos a agentes suscetíveis de implicar riscos para o património genético"
+            },
+            {
+                "idNota": "nota_700.10.005_6ac9a6a21a0f",
+                "nota": "Referenciação de trabalhadores que lidam com materiais insalubres e com agentes biológicos nocivos"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700.10.005_1ed6a9fa6a3f",
+                "nota": "O registo nacional de utente de saúde deve ser considerado em “Prestação de serviços de identificação e registo / Registo de dados de identificação e caracterização de entidades ou atos” (400.10)"
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "ACT"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "AL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "UPCS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "II",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Diretiva_CE_54_2000",
+            "DL_84_97",
+            "Lei_102_2009"
+        ],
+        "processosRelacionados": [
+            "400.10.040",
+            "250.20.001",
+            "700.10.006"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eSintetizadoPor",
+            "eSintetizadoPor"
+        ],
+        "pca": {
+            "valores": 40,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.10.005_0",
+                    "tipo": "legal",
+                    "conteudo": "[Diretiva CE 54/2000], art.º 11º, nº 2 , e) e [DL 84/97], art.º19º, nº 4, \\\"O prazo de conservação dos registos é de 40 anos nos casos de exposições de que possam resultar infecções causadas por agentes biológicos susceptíveis de produzir infecções persistentes ou latentes, ou que, de acordo com os conhecimentos actuais, só sejam diagnosticáveis muitos anos depois com o aparecimento da doença, ou que tenham periodos de incubação muito longos, ou que provoquem doenças com crises de recrudescências, apesar do tratamento, ou com graves sequelas a longo prazo.\\\"",
+                    "legRefs": [
+                        "Diretiva_CE_54_2000",
+                        "DL_84_97"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.10.005_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação está sintetizada e é recuperável em:PN 250.20.001- Registo biográfico de trabalhadores;- PN 700.10.006 - Registo clinico de utentes.",
+                    "procRefs": [
+                        "250.20.001",
+                        "700.10.006"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.10.006",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Registo clínico de utentes",
+        "descricao": "Inscrição de dados relativos à prestação de cuidados de saúde a utentes, relevantes para o conhecimento do seu quadro clínico. Inicia com o registo da inscrição do utente e termina com a informação relativa ao seu óbito. Inclui integração de informação clínica, resumo médico com os dados clínicos mais importantes relativos aos medicamentos prescritos, às diferentes intervenções clínicas e cirúrgicas, bem como aos meios complementares de diagnóstico e terapêutica. ",
+        "notasAp": [
+            {
+                "idNota": "nota_700.10.006_5df0bd34781a",
+                "nota": "Registo da prestação de cuidados de saúde por parte de entidades públicas e privadas"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_700.10.006_2942b6d2a6af",
+                "exemplo": "EpSOS european patient smart onpen service"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700.10.006_be94914eb56d",
+                "nota": "O registo de utentes no serviço nacional de saúde deve ser considerado em 400.10.040 – Registo nacional de utentes"
+            },
+            {
+                "idNota": "nota_700.10.006_a5fcdc783b69",
+                "nota": "O registo de utentes em unidades de saúde deve ser considerado em 700.10.004 – Registo de utilizadores de unidades de saúde"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "UPCS",
+            "HH",
+            "AL"
+        ],
+        "participantes": [
+            {
+                "id": "ACSS",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "500.10.001",
+            "500.10.301",
+            "450.10.073",
+            "150.20.303",
+            "800.20.001",
+            "800.20.002",
+            "400.10.040",
+            "700.10.001",
+            "700.10.002",
+            "700.10.003",
+            "700.10.004",
+            "700.10.005",
+            "700.20.001",
+            "700.20.101"
+        ],
+        "proRel": [
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSinteseDe",
+            "eSinteseDe",
+            "eSinteseDe",
+            "eSinteseDe",
+            "eSinteseDe",
+            "eSinteseDe",
+            "eSinteseDe"
+        ],
+        "pca": {
+            "valores": 10,
+            "formaContagem": "extincaoEntidade",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.10.006_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.10.006_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 (Realização de auditorias).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.10.006_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação sintetiza outros PN da classe de 700"
+                }
+            ]
+        },
+        "Notas": "Relação \"Síntese (sintetiza)\" com todos os PN de 700 (informação retirada das colunas dos processos relacionados)."
+    },
+    {
+        "codigo": "700.10.500",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Registo de utilizadores em unidades de saúde animal",
+        "descricao": "Inscrição de animais em hospitais e clínicas veterinárias. Inicia com a manifestação do interesse ou necessidade de utilização de uma unidade de saúde veterinária e termina com o fim do interesse ou necessidade. Inclui identificação do animal e registo de dados.",
+        "notasAp": [
+            {
+                "idNota": "nota_700.10.500_36beb434efb3",
+                "nota": "Atualização dos dados de registo"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700.10.500_ca200e352b62",
+                "nota": "O registo de animais deve ser considerado em 400.10.400 – Registo animal e material vegetal"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "N",
+        "donos": [
+            "AL",
+            "GNR",
+            "PSP"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008",
+            "700.10.501"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.10.500_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.10.500_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação está sintetizada e é recuperável em:PN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação.",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.10.501",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Referenciação de animais para consultas",
+        "descricao": "Inscrição de animais para consultas e e outros cuidados de saúde. Inicia com a inscrição e temina com a notificação do agendamento do cuidado de saúde pretendido. Inclui identificação do animal, avaliação clínica da necessidade da consulta, verificação de disponibilidade e marcação de consulta. ",
+        "notasEx": [
+            {
+                "idNota": "nota_700.10.501_40da550e03ee",
+                "nota": "A prestação de cuidados veterinários deve ser considerada em 700.20.800 – Prestação de cuidados curativos veterinários"
+            },
+            {
+                "idNota": "nota_700.10.501_115b93d236ba",
+                "nota": "A vacinação de animais deve ser considerada em 700.20.700 – Vacinação de animais"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "N",
+        "donos": [
+            "AL",
+            "GNR",
+            "PSP"
+        ],
+        "legislacao": [
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008",
+            "700.10.500",
+            "700.20.700",
+            "700.20.800"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eSucessorDe"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.10.501_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.10.501_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação está sintetizada e é recuperável em:PN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação.",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20",
+        "nivel": 2,
+        "estado": "A",
+        "titulo": "Serviços clínicos",
+        "descricao": "Compreende as atividades relacionadas com o diagnóstico, o tratamento, a reabilitação e o acompanhamento clínico do doente, no quadro da prestação de cuidados de saúde primários, secundários ou terciários. Compreende, igualmente, os atos clínicos de caráter preventivo (consultas, rastreio, vacinação), bem como as dádivas de sangue e as colheitas de órgãos, tecidos e células.",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20_4cc61634fb6a",
+                "nota": "Inclui os atos clínicos realizados em contexto de emergência médica pré-hospitalar ou de urgência hospitalar, em regime de internamento ou de ambulatório"
+            },
+            {
+                "idNota": "nota_700.20_418da1809b60",
+                "nota": "Eventuais atos clínicos praticados fora das instituições de saúde (locais de trabalho, escolas, prisões, entre outros)"
+            },
+            {
+                "idNota": "nota_700.20_a0a7a94933a7",
+                "nota": "Aplica-se não apenas aos atos médicos e de enfermagem, mas também aos realizados por outros profissionais de saúde quando intervenham no diagnóstico, tratamento e reabilitação de doentes"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700.20_f6188c73e1fb",
+                "nota": "A intervenção médica em processos de avaliação e certificação de saúde ou incapacidade (por exemplo, juntas médicas para declaração de incapacidade, certificados médicos para pilotos e controladores de tráfego aéreo, entre outros) deve ser considerada em \\\"Reconhecimentos e permissões/ Emissão de comprovativos de factos ou atos\\\" (450.30)"
+            }
+        ]
+    },
+    {
+        "codigo": "700.20.001",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Imunização",
+        "descricao": "Prestação de cuidados de prevenção de saúde primária através de ações pelas quais se confere imunidade recorrendo a meios artificiais para prevenir doenças. Inicia com o pedido ou com a verificação da necessidade de vacina e termina com a administração da mesma. Inclui consulta do Plano Nacional de Vacinação, verificação das vacinas em falta ou necessárias e registo da imunização administrada.",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.001_590cd912750b",
+                "nota": "Administração de vacinas contempladas no Plano Nacional de Vacinação"
+            },
+            {
+                "idNota": "nota_700.20.001_52471a5cadcc",
+                "nota": "Administração de vacinas a imunodeprimidos"
+            },
+            {
+                "idNota": "nota_700.20.001_d7882619e1d8",
+                "nota": "Administração de vacinas a profissionais de risco"
+            },
+            {
+                "idNota": "nota_700.20.001_4c5e85197d1b",
+                "nota": "Administração de vacinas a viajantes para áreas endémicas ou outras"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700.20.001_46e69702994b",
+                "nota": "A elaboração do Plano Nacional de Vacinação deve ser considerada em 150.10.100 – Definição de políticas setoriais"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "HH",
+            "UPCS",
+            "SMT"
+        ],
+        "participantes": [
+            {
+                "id": "ACES",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ARS",
+                "interv": "Decidir"
+            },
+            {
+                "id": "DGS",
+                "interv": "Decidir"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Despacho_11961_2014",
+            "Despacho_17067_2011",
+            "Circular_Normativa_DGS_04_2003",
+            "Circular_Normativa_DGS_08_2005",
+            "Lei_12_2005",
+            "Lei_26_2016",
+            "Lei_58_2019",
+            "Lei_103_2015",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.10.600",
+            "150.20.300",
+            "150.40.500",
+            "300.30.008",
+            "400.10.040",
+            "500.10.301",
+            "700.10.006",
+            "700.20.200",
+            "700.20.300",
+            "700.20.403",
+            "800.10.607"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "extincaoEntidade",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.001_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.001_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 (Realização de fiscalização).",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.001_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação está sintetizada e é recuperável em:PN 150.10.600 - Avaliação de políticas e instrumentos de operacionalização;PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão;PN 300.30.008 - Registo de documentos e informação (onde devem ser considerados os registos operacionais centralizados como o e-vacinas);PN 700.10.006 - Registo clínico de utentes.",
+                    "procRefs": [
+                        "150.10.600",
+                        "150.40.500",
+                        "300.30.008",
+                        "700.10.006"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.100",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Rastreio",
+        "descricao": "Prestação de cuidados de prevenção de saúde secundária praticados através de um conjunto de ações ou atividades de base comunitária e populacional programado em articulação com diversas autoridades de saúde e destinadas a detetar ou identificar precocemente doenças específicas junto de determinados grupos de população alvo. Inicia com a informação da realização do rastreio e termina com a avaliação do mesmo. Inclui declaração de consentimento, realização de testes de saúde, análise dos resultados e eventual encaminhamento para consulta.",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.100_c3e24bfab133",
+                "nota": "Todo o tipo de rastreios"
+            },
+            {
+                "idNota": "nota_700.20.100_dd01fc5cfd59",
+                "nota": "Programas de saúde de base comunitária e populacional"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_700.20.100_9b249a6a7b79",
+                "exemplo": "Rastreio Covid-19"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700.20.100_99fa771fb333",
+                "nota": "Os estudos epidemiológicos ou programas de controlo de qualidade/ganhos em saúde e os os Registos Oncológicos Regionais (ROR) devem ser considerados em 800.10.607 – Realização de ações de Observação em saúde e Vigilância Epidemiológica"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "UPCS",
+            "HH"
+        ],
+        "participantes": [
+            {
+                "id": "ACES",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ARS",
+                "interv": "Decidir"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Apreciar"
+            }
+        ],
+        "legislacao": [
+            "Recomendação_CE_878_2003",
+            "Regulamento_CE_889_2008",
+            "Lei_12_2005",
+            "Lei_26_2016",
+            "Lei_58_2019",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.10.600",
+            "150.20.101",
+            "150.20.300",
+            "150.40.500",
+            "500.10.301",
+            "700.20.200",
+            "800.10.300",
+            "800.10.600",
+            "800.10.601",
+            "800.10.607"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSucessorDe",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.100_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.100_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 (Realização de fiscalização).",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.100_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação está sintetizada e é recuperável nos PN 150.20.101 (Planeamento estratégico de atividades; 150.20.300 (Avaliação de atividades); 150.20.501 (Análise e melhoria de serviços); 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão); 800.10.600 (Realização de ensaios clínicos); 800.10.601 (Realização de ensaios laboratoriais).",
+                    "procRefs": [
+                        "150.20.101",
+                        "150.20.300",
+                        "150.20.501",
+                        "150.40.500",
+                        "800.10.600",
+                        "800.10.601"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.101",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Realização de ações de saúde em campanha",
+        "descricao": "Cuidados de prevenção secundária de saúde através da realização de atos clínicos envolvendo os cidadãos no sentido de os consciencializar e responsabilizar pelas suas próprias escolhas em matéria de saúde e bem-estar. Inicia com o diagnóstico de necessidades de formação/informação em matéria de saúde e termina com a realização da ação de promoção. Inclui desenvolvimento de atos clínicos e orientação dos utentes em relação a matérias de saúde e bem-estar. ",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.101_901c58f591ec",
+                "nota": "Projetos ou ações de promoção da saúde não integrados em Programas Nacionais"
+            },
+            {
+                "idNota": "nota_700.20.101_04079f9f20f7",
+                "nota": "Ações de sensibilização e educação para a saúde tais como nutrição de grávidas e idosos ou Dia da alimentação Férias em saúde"
+            },
+            {
+                "idNota": "nota_700.20.101_cfaa34bf027b",
+                "nota": "Ações de sensibilização para a parentalidade"
+            },
+            {
+                "idNota": "nota_700.20.101_5e343739ab64",
+                "nota": "Ações de intervenção comunitária (tais como"
+            },
+            {
+                "idNota": "nota_700.20.101_5bfe2a931140",
+                "nota": " centro de recuperação de jovens)"
+            },
+            {
+                "idNota": "nota_700.20.101_04d6b492fb42",
+                "nota": "Todas as campanhas de promoção da saúde que envolvam atos clínicos (exames médicos, vigilância de níveis, entre outros)"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700.20.101_62d8a1550162",
+                "nota": "As ações integradas nos Programas nacionais do Plano nacional de Saúde devem ser consideradas em 150.10.200 – Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional"
+            },
+            {
+                "idNota": "nota_700.20.101_b27c76d6db97",
+                "nota": "Os Rastreios devem ser considerados em 700.20.100 – Rastreios"
+            },
+            {
+                "idNota": "nota_700.20.101_7129107b0d79",
+                "nota": "As campanhas baseadas em instrumentos de comunicação devem ser consideradas em 900.10.502 – Organização e participação em iniciativas de prevenção e sensibilização"
+            },
+            {
+                "idNota": "nota_700.20.101_e9146639d10b",
+                "nota": "Os instrumentos promocionais das campanhas devem ser considerados em 900.20.002 – Criação de produtos e artigos promocionais"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "UPCS",
+            "IEFP"
+        ],
+        "participantes": [
+            {
+                "id": "ACES",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ARS",
+                "interv": "Decidir"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CP",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "DL_157_99",
+            "DL_28_2007",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.10.200",
+            "150.10.300",
+            "150.10.400",
+            "150.10.600",
+            "150.20.101",
+            "150.20.300",
+            "150.40.500",
+            "400.10.040",
+            "500.10.301",
+            "700.10.006"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSintetizadoPor",
+            "eSucessorDe",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eSintetizadoPor"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.101_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.101_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 (Realização de fiscalização).",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.101_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação está sintetizada e é recuperável nos PN 150.20.101 (Planeamento estratégico de atividades; 150.20.300 (Avaliação de atividades); 150.20.501 (Análise e melhoria de serviços); 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão) e 700.10.006 (Registo clinico de utentes)",
+                    "procRefs": [
+                        "150.20.101",
+                        "150.20.300",
+                        "150.20.501",
+                        "150.40.500",
+                        "700.10.006"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.102",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Prevenção de crises pandémicas e situações de emergência sanitária ou de saúde pública",
+        "descricao": "Cuidados de prevenção secundária de saúde através da realização de atos de assistência médica no âmbito das competências profissionais do médico de saúde pública. Inicia com a intervenção das autoridades de saúde, sempre que instadas e/ou alertadas para situações potencialmente criticas de saúde pública e termina com relatório onde se elabora o diagnóstico e propõe medidas. Inclui ativação de meios de prevenção e relato de resultados.",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.102_70e373621238",
+                "nota": "Atividades das autoridades de saúde e coordenação do funcionamento global em rede dessas autoridades"
+            },
+            {
+                "idNota": "nota_700.20.102_6aa84e111f60",
+                "nota": "Intervenção em situações de grave risco para a saúde pública"
+            },
+            {
+                "idNota": "nota_700.20.102_05c2d0e128dc",
+                "nota": "Limitação da realização de viagens, em especial para zonas com identificação de casos de doença, suspeitos ou confirmados, após a avaliação do risco potencial associado à sua realização"
+            },
+            {
+                "idNota": "nota_700.20.102_d36c4aae01d0",
+                "nota": "Encerramento de escolas, locais de trabalho, centros de dia ou outras instituições, após avaliação do risco potencial associado à sua manutenção em atividade"
+            },
+            {
+                "idNota": "nota_700.20.102_a5c8eb9463f7",
+                "nota": "Adoção de ações de proteção aos agentes funerários e outros intervenientes nas atividades de remoção, transporte e inumação de cadáveres, em que a morte foi provocada pela crise pandémica, designadamente nas situações de excesso"
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "AS",
+            "DGS",
+            "ARS",
+            "UPCS",
+            "HH"
+        ],
+        "participantes": [
+            {
+                "id": "HH",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INEM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "PSP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ANEPC",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "Lei_81_2009",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.10.200",
+            "150.10.300",
+            "150.10.400",
+            "150.20.101",
+            "500.10.301",
+            "550.20.006",
+            "700.20.300",
+            "700.20.403"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSuplementoPara",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.102_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.102_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 (Realização de fiscalização).",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.102_0",
+                    "tipo": "densidade",
+                    "conteudo": "As relações de síntese estabelecidas com outros PN, como as estatisticas e a avaliação da atividade da entidade, apenas permitem recuperar a enumeração dos casos (a sua dimensão geral), não habilitando a uma síntese qualitativa que represente a complexidade do PN.Pelo que, se torna necessário a conservação da atuação particular."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.200",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Prestação de cuidados de saúde personalizados",
+        "descricao": "Prestação continuada de assistência médica e de cuidados de saúde por médico de medicina geral e familiar. Inicia com a realização de consulta e termina com a avaliação de resultados. Inclui elaboração de diagnóstico, aplicação de fármacos, registo dos atos médicos praticados e acompanhamento do utente.",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.200_f4568ae57745",
+                "nota": "Acompanhamento clínico em ambiente prisional"
+            },
+            {
+                "idNota": "nota_700.20.200_ef4f6a2840e7",
+                "nota": "Acompanhamento dos utentes da instituição nas entidades com serviços clínicos"
+            },
+            {
+                "idNota": "nota_700.20.200_9cd47f4344e1",
+                "nota": "Acompanhamento de toxicodependentes"
+            },
+            {
+                "idNota": "nota_700.20.200_1cfcbca954e9",
+                "nota": "Apoio domiciliário de saúde"
+            },
+            {
+                "idNota": "nota_700.20.200_68f250b38e9b",
+                "nota": "Intervenção personalizada com envolvente familiar"
+            },
+            {
+                "idNota": "nota_700.20.200_dc3127d21088",
+                "nota": "Planeamento familiar"
+            },
+            {
+                "idNota": "nota_700.20.200_6c5edbda9ceb",
+                "nota": "Vigilância da saúde infantil"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700.20.200_561e52a44dd5",
+                "nota": "A certificação de incapacidade permanente, de doença profissional ou de acidente de trabalho deve ser considerada em 450.30.500 – Certificação de doença, aptidão ou incapacidade"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "UPCS",
+            "AL",
+            "IEFP"
+        ],
+        "participantes": [
+            {
+                "id": "HH",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ACES",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "Lei_48_90",
+            "Lei_27_2002",
+            "Lei_48_90",
+            "DL_157_99",
+            "DL_28_2008",
+            "Lei_12_2005",
+            "Lei_26_2016",
+            "Lei_101_99",
+            "Lei_21_2014",
+            "DL_48_95"
+        ],
+        "processosRelacionados": [
+            "400.10.040",
+            "400.10.036",
+            "400.10.037",
+            "400.10.038",
+            "400.10.039",
+            "450.30.504",
+            "500.10.001",
+            "700.10.001",
+            "700.10.002",
+            "700.10.003",
+            "700.20.001",
+            "700.20.100",
+            "700.20.404",
+            "700.20.406",
+            "700.20.407",
+            "700.20.500",
+            "700.20.600"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": "15",
+            "formaContagem": "extincaoEntidade",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.200_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.",
+                    "legRefs": [
+                        "DL_48_95"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.200_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "CP",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.200_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clínico de utentes).A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo.Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.",
+                    "procRefs": [
+                        "700.10.006",
+                        "150.40.001",
+                        "150.40.500"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.300",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Prestação de cuidados de emergência médica",
+        "descricao": "Prestação de assistência médica a vítimas de acidente ou de doença súbita. Inicia com o pedido de assistência e termina com a estabilização do utente pela equipa de emergência médica ou com o encaminhamento do sinistrado para unidade de saúde adequada. Inclui registo sonoro do pedido e respetivo atendimento, eventual reencaminhamento da chamada, encaminhamento de meios de assistência médica e aplicação de cuidados médicos e de enfermagem adequados à situação.",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.300_54942fbf11bf",
+                "nota": "Centros de Orientação de Doentes Urgentes (CODU)"
+            },
+            {
+                "idNota": "nota_700.20.300_04530223c1ce",
+                "nota": "Apoio a traumáticos em situação de crise"
+            },
+            {
+                "idNota": "nota_700.20.300_50e694ccf1f7",
+                "nota": "Atos praticados por pessoal médico e de enfermagem em atendimento telefónico"
+            },
+            {
+                "idNota": "nota_700.20.300_86956026efdb",
+                "nota": "Informação e encaminhamento do Centro de Informação Antivenenos (CIAV)"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700.20.300_39e638d5ae7e",
+                "nota": "O transporte de doentes e sinistrados que não envolva assistência médica deve ser considerado em 550.20.500 – Ação de proteção e socorro"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "INEM"
+        ],
+        "participantes": [
+            {
+                "id": "HH",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "Despacho_14041_2012",
+            "Lei_12_2005",
+            "Lei_26_2016",
+            "Lei_58_2019",
+            "Lei_101_99",
+            "Lei_21_2014",
+            "DL_48_95"
+        ],
+        "processosRelacionados": [
+            "400.10.036",
+            "400.10.037",
+            "400.10.038",
+            "400.10.039",
+            "400.10.040",
+            "450.30.504",
+            "500.10.001",
+            "500.10.301",
+            "550.20.500",
+            "700.10.002",
+            "700.10.003",
+            "700.20.001",
+            "700.20.102",
+            "700.20.400",
+            "700.20.401",
+            "700.20.402",
+            "700.20.403",
+            "700.20.404",
+            "700.20.406",
+            "700.20.407",
+            "700.20.500",
+            "700.20.600",
+            "550.20.006"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSucessorDe"
+        ],
+        "pca": {
+            "valores": 15,
+            "formaContagem": "extincaoEntidade",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.300_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.",
+                    "legRefs": [
+                        "DL_48_95"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.300_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e do PN 500.10.301 - Realização de fiscalização.",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "CP",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.300_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clínico de utentes).A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo.Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.",
+                    "procRefs": [
+                        "700.10.006",
+                        "150.40.001",
+                        "150.40.500"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.400",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Internamento de doentes agudos e crónicos",
+        "descricao": "Acolhimento em unidade hospitalar para tratamento de episódio agudo ou acompanhamento de doença crónica. Inicia com o internamento numa unidade de especialidade Hospitalar e termina com a estabilização dos sintomas revelados, emitindo-se uma nota de alta hospitalar. Inclui o diagnóstico, prescrição e monitorização da evolução da doença. Inclui ainda, actos das várias especialidades clínicas e administração de fármacos hospitalares para doenças específicas. ",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.400_23ed8696e41c",
+                "nota": "Internamento forense (doentes inimputáveis)"
+            },
+            {
+                "idNota": "nota_700.20.400_837f8be3f88e",
+                "nota": "Internamento compulsivo"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700.20.400_88736ff5a45e",
+                "nota": "Consultas pré-operatória e pós-operatória devem ser consideradas em 700.20.402 – Realização de consultas de especialidade"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "HH"
+        ],
+        "participantes": [
+            {
+                "id": "UPCS",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "Circular_Normativa_DGS_6_2008",
+            "Lei_12_2005",
+            "Lei_26_2016",
+            "Lei_58_2019",
+            "Lei_101_99",
+            "Lei_12_2009",
+            "Lei_1_2015",
+            "Lei_36_2013",
+            "Lei_2_2015",
+            "Lei_21_2014",
+            "DL_267_2007",
+            "DL_185_2015",
+            "DL_48_95"
+        ],
+        "processosRelacionados": [
+            "400.10.054",
+            "400.10.036",
+            "400.10.037",
+            "400.10.038",
+            "400.10.039",
+            "400.10.040",
+            "450.30.504",
+            "500.10.001",
+            "700.10.002",
+            "700.10.003",
+            "700.20.200",
+            "700.20.300",
+            "700.20.401",
+            "700.20.402",
+            "700.20.403",
+            "700.20.404",
+            "700.20.405",
+            "700.20.406",
+            "700.20.407",
+            "700.20.500",
+            "700.20.600"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 15,
+            "formaContagem": "extincaoEntidade",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.400_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.",
+                    "legRefs": [
+                        "DL_48_95"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.400_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "CP",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.400_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clinico de utentes).A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo.Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.",
+                    "procRefs": [
+                        "700.10.006",
+                        "150.40.001",
+                        "150.40.500"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.401",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Realização de cirurgias de ambulatório",
+        "descricao": "Acolhimento em unidade hospitalar para realização de cirurgia ambulatória. Inicia após a consulta pré-operatória e termina com a emissão da alta hospitalar. Incluí todos os actos praticados no âmbito da atividade no hospital e o registo dos actos praticados no sistema de informação. ",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.401_d9a5671dd51b",
+                "nota": "Cirurgias em que a admissão, intervenção cirúrgica e alta hospitalar para o domicílio ou para unidade não abrangida pelos serviços de saúde, não requerem que o doente pernoite no hospital"
+            },
+            {
+                "idNota": "nota_700.20.401_8852ef6e4f1a",
+                "nota": "Cedência de medicação a utentes em ambulatório"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700.20.401_0c7ba9d97763",
+                "nota": "Cirurgias realizadas em internamento devem ser consideradas em 700.20.400 - Internamento de doentes agudos e crónicos"
+            },
+            {
+                "idNota": "nota_700.20.401_6772fca8f2ae",
+                "nota": "Consultas pré-operatória e pós-operatória devem ser consideradas em 700.20.402 - Realização de consultas de especialidade"
+            },
+            {
+                "idNota": "nota_700.20.401_f08a53c09e4f",
+                "nota": "Os procedimentos relacionados com a gestão do Sistema Integrado de Gestão de Inscritos para Cirurgia (SIGIC) devem ser considerados em 700.10.003 – Referenciação de utentes para cirurgia"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "HH"
+        ],
+        "participantes": [
+            {
+                "id": "UPCS",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "Circular_Normativa_DGS_6_2009",
+            "Lei_12_2005",
+            "Lei_26_2016",
+            "Lei_58_2019",
+            "Lei_101_99",
+            "Lei_21_2014",
+            "DL_48_95"
+        ],
+        "processosRelacionados": [
+            "400.10.040",
+            "450.30.504",
+            "500.10.001",
+            "700.10.003",
+            "700.20.200",
+            "700.20.400",
+            "700.20.300",
+            "700.20.402",
+            "700.20.403",
+            "700.20.404",
+            "700.20.405",
+            "700.20.407",
+            "700.20.500",
+            "700.20.600"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eSuplementoPara",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 15,
+            "formaContagem": "extincaoEntidade",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.401_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.",
+                    "legRefs": [
+                        "DL_48_95"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.401_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "CP",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.401_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clínico de utentes).A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo.Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.",
+                    "procRefs": [
+                        "700.10.006",
+                        "150.40.001",
+                        "150.40.500"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.402",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Realização de consultas de especialidade",
+        "descricao": "Cuidados de saúde que envolvem diagnóstico, prescrição e monitorização da evolução da doença realizada por especialidade médica. Inicia-se com a referenciação do médico dos cuidados de saúde primários (no médico de família ou no médico assistente, fora do Serviço Nacional de Saúde -SNS) ou por solicitação de médico de uma outra especialidade hospitalar para uma unidade de referência e termina com a alta da consulta de especialidade . Inclui o registo dos atos praticados no sistema de informação. ",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.402_f8cdbd317393",
+                "nota": "Consultas subsequentes, teleconsultas e consultas domiciliárias"
+            },
+            {
+                "idNota": "nota_700.20.402_7103302771ef",
+                "nota": "Consultas de medicina do trabalho"
+            },
+            {
+                "idNota": "nota_700.20.402_8473dc9b3458",
+                "nota": "Consultas externas"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "HH",
+            "SMT"
+        ],
+        "participantes": [
+            {
+                "id": "UPCS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Circular_Normativa_DGS_6_2009",
+            "Lei_12_2005",
+            "Lei_26_2016",
+            "Lei_58_2019",
+            "Lei_101_99",
+            "Lei_21_2014",
+            "DL_48_95"
+        ],
+        "processosRelacionados": [
+            "400.10.040",
+            "450.30.504",
+            "500.10.001",
+            "700.10.001",
+            "700.10.002",
+            "700.10.003",
+            "700.10.004",
+            "700.20.300",
+            "700.20.401",
+            "700.20.403",
+            "700.20.404",
+            "700.20.405",
+            "700.20.407",
+            "700.20.500",
+            "700.20.600"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eSuplementoPara",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 15,
+            "formaContagem": "extincaoEntidade",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.402_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.",
+                    "legRefs": [
+                        "DL_48_95"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.402_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "CP",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.402_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clinico de utentes).A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo.Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.",
+                    "procRefs": [
+                        "700.10.006",
+                        "150.40.001",
+                        "150.40.500"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.403",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Atendimentos urgentes",
+        "descricao": "Atendimento de episódios agudos de doença ou emergências. Inicia com o registo do doente no serviço de urgência e termina com a emissão de nota de alta ou transferência para internamento. Inclui o registo dos actos praticados no sistema de informação. ",
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "HH"
+        ],
+        "participantes": [
+            {
+                "id": "UPCS",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "Circular_Normativa_DGS_6_2009",
+            "Lei_12_2005",
+            "Lei_26_2016",
+            "Lei_58_2019",
+            "Lei_101_99",
+            "Lei_21_2014",
+            "DL_48_95"
+        ],
+        "processosRelacionados": [
+            "400.10.040",
+            "400.10.036",
+            "400.10.037",
+            "400.10.038",
+            "400.10.039",
+            "450.30.504",
+            "500.10.001",
+            "700.20.001",
+            "700.20.102",
+            "700.20.300",
+            "700.20.400",
+            "700.20.401",
+            "700.20.402",
+            "700.20.404",
+            "700.20.406",
+            "700.20.407",
+            "700.20.500",
+            "700.20.600"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 15,
+            "formaContagem": "extincaoEntidade",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.403_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.",
+                    "legRefs": [
+                        "DL_48_95"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.403_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "CP",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.403_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clínico de utentes).A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo.Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.",
+                    "procRefs": [
+                        "700.10.006",
+                        "150.40.001",
+                        "150.40.500"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.404",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Realização de cuidados de saúde em hospital de dia",
+        "descricao": "Intervenção terapêutica em ambiente hospitalar. Inicia com o encaminhamento do utente para as sessões e termina com a alta, ou seja, com o fim do episódio de tratamento em hospital de dia, tendo sido realizadas todas as sessões de hospital de dia prescritas. ",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.404_b4766365ef56",
+                "nota": "Sessões de Quimioterapia"
+            },
+            {
+                "idNota": "nota_700.20.404_1a946adbb0ef",
+                "nota": "Sessões de Nefrologia (Hemodiálise)"
+            },
+            {
+                "idNota": "nota_700.20.404_1023d07de2d5",
+                "nota": "Sessões de Dermatologia"
+            },
+            {
+                "idNota": "nota_700.20.404_279f49ecd808",
+                "nota": "Sessões de Doenças Infeciosas"
+            },
+            {
+                "idNota": "nota_700.20.404_cf1cb26c6c65",
+                "nota": "Sessões de Medicina da Dor"
+            },
+            {
+                "idNota": "nota_700.20.404_e38f7ee5376d",
+                "nota": "Sessões de Gastrenterologia"
+            },
+            {
+                "idNota": "nota_700.20.404_80cd82cf818b",
+                "nota": "Sessões de Imunoalergologia"
+            },
+            {
+                "idNota": "nota_700.20.404_d4cd9b0c13f3",
+                "nota": "Sessões de radioterapia"
+            },
+            {
+                "idNota": "nota_700.20.404_51245ed191b5",
+                "nota": "Sessões de psiquiatria"
+            },
+            {
+                "idNota": "nota_700.20.404_3e30f50c9a03",
+                "nota": "Sessões de Hematologia/ Imunohemoterapia"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "HH"
+        ],
+        "participantes": [
+            {
+                "id": "UPCS",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "Circular_Normativa_DGS_6_2009",
+            "Lei_12_2005",
+            "Lei_26_2016",
+            "Lei_58_2019",
+            "Lei_101_99",
+            "Lei_21_2014",
+            "DL_48_95"
+        ],
+        "processosRelacionados": [
+            "400.10.040",
+            "500.10.001",
+            "700.10.001",
+            "700.10.002",
+            "700.20.200",
+            "700.20.300",
+            "700.20.400",
+            "700.20.401",
+            "700.20.402",
+            "700.20.403",
+            "700.20.407",
+            "700.20.500",
+            "700.20.600"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 15,
+            "formaContagem": "extincaoEntidade",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.404_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.",
+                    "legRefs": [
+                        "DL_48_95"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.404_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "CP",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.404_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clinico de utentes).A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo.Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.",
+                    "procRefs": [
+                        "700.10.006",
+                        "150.40.001",
+                        "150.40.500"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.405",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Prestação de assistência médica no estrangeiro",
+        "descricao": "Cuidados de saúde hospitalares especializados prestados no estrangeiro que, por falta de meios técnicos ou humanos, não possam ser prestados em Portugal. Inicia com a assunção de que o país não dispõe de condições para tratar o doente e que o mesmo pode ser referenciado para outro país e termina com o regresso do utente ao país. Inclui os procedimentos específicos definidos na lei, nomeadamente, o relatório clínico, o parecer da Comissão de Assessoria Técnica e a decisão final da autoridade de saúde competente. ",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.405_47915917eb12",
+                "nota": "Atos realizados no âmbito da assistência médica no estrangeiro, tendo por base convenções internacionais"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "HH"
+        ],
+        "participantes": [
+            {
+                "id": "ACSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ARS",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "DL_177_92",
+            "DL_48_95"
+        ],
+        "processosRelacionados": [
+            "400.10.040",
+            "500.10.001",
+            "700.20.400",
+            "700.20.401",
+            "700.20.402",
+            "100.10.002"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSucessorDe"
+        ],
+        "pca": {
+            "valores": 15,
+            "formaContagem": "extincaoEntidade",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.405_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.",
+                    "legRefs": [
+                        "DL_48_95"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.405_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "CP",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.405_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clinico de utentes).A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo.Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.",
+                    "procRefs": [
+                        "700.10.006",
+                        "150.40.001",
+                        "150.40.500"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.406",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Apoio ao diagnóstico e terapêutica",
+        "descricao": "Exames laboratoriais e exames de imagiologia no âmbito de admissão direta. Atividades que concorrem para o apoio à realização do diagnóstico, tratamento e acompanhamento de doenças. Inicia com a requisição do exame e termina com a cessação da prestação de cuidados que lhe deu origem. Inclui todos os atos necessários ao tratamento.",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.406_e67c2e2f2227",
+                "nota": "Meios Complementares de Diagnóstico e Terapêutica realizados no âmbito de admissões diretas"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_700.20.406_c28ec3de1d3d",
+                "exemplo": "Programas hospitalares de Hemodiálise"
+            },
+            {
+                "idExemplo": "exemplo_700.20.406_427001837443",
+                "exemplo": "Programas hospitalares de Saúde Sexual e Reprodutiva"
+            },
+            {
+                "idExemplo": "exemplo_700.20.406_32e19a931090",
+                "exemplo": ",Programas hospitalares de Próteses"
+            },
+            {
+                "idExemplo": "exemplo_700.20.406_7121f9ebcd2f",
+                "exemplo": "Programas hospitalares de VIH"
+            },
+            {
+                "idExemplo": "exemplo_700.20.406_722ef1cc649c",
+                "exemplo": "Programas hospitalares de Esclerose Multipla"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700.20.406_4e3e3143d1d7",
+                "nota": "Os exames realizados no âmbito de perícias devem ser considerados em 800.10.603 - Realização de perícias."
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "HH"
+        ],
+        "participantes": [
+            {
+                "id": "ACSS",
+                "interv": "Decidir"
+            },
+            {
+                "id": "ARS",
+                "interv": "Decidir"
+            }
+        ],
+        "legislacao": [
+            "Circular_Normativa_DGS_6_2009",
+            "Lei_12_2005",
+            "Lei_26_2016",
+            "Lei_58_2019",
+            "Lei_101_99",
+            "Lei_21_2014",
+            "DL_48_95"
+        ],
+        "processosRelacionados": [
+            "400.10.040",
+            "500.10.001",
+            "700.20.200",
+            "700.20.300",
+            "700.20.400",
+            "700.20.403"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 15,
+            "formaContagem": "extincaoEntidade",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.406_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.",
+                    "legRefs": [
+                        "DL_48_95"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.406_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "CP",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.406_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação encontra-se sintetizada e é recuperável nos PN 150.10.600 (Avaliação de políticas e instrumentos de operacionalização) e PN 700.10.006 (Registo clínico de utentes).A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo.Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.",
+                    "procRefs": [
+                        "150.10.600",
+                        "700.10.006",
+                        "150.40.001",
+                        "150.40.500"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.407",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Prestação de cuidados de reabilitação",
+        "descricao": "Internamento para utentes com necessidade de cuidados clínicos de reabilitação, em unidades específica e por um período de tempo inferior a trinta (30) dias articulado com Hospital. Inicia com o tratamento e supervisão clínica, continuada e intensiva na sequência de internamento hospitalar e termina preferencialmente com a recuperação global do utente e nota de alta. Inclui o diagnóstico e todos os atos necessários ao tratamento. ",
+        "notasEx": [
+            {
+                "idNota": "nota_700.20.407_0f60b23cc374",
+                "nota": "Os cuidados continuados integrados devem ser considerados em 700.20.500 – Prestação de cuidados continuados integrados"
+            },
+            {
+                "idNota": "nota_700.20.407_c9c4e2d1ee92",
+                "nota": "Os cuidados paliativos deve ser considerados em 700.20.600 – Prestação de cuidados paliativos"
+            }
+        ],
+        "dimensao": "Elevada\n\n",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "UPCS"
+        ],
+        "participantes": [
+            {
+                "id": "ARS",
+                "interv": "Decidir"
+            },
+            {
+                "id": "ACES",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ACSS",
+                "interv": "Decidir"
+            }
+        ],
+        "legislacao": [
+            "DL_101_2006",
+            "DL_136_2015",
+            "Portaria_174_2014",
+            "Portaria_289_A_2015",
+            "Lei_12_2005",
+            "Lei_26_2016",
+            "Lei_58_2019",
+            "Lei_101_99",
+            "Lei_21_2014",
+            "Portaria_189_A_2015",
+            "DL_48_95"
+        ],
+        "processosRelacionados": [
+            "650.20.306",
+            "400.10.040",
+            "450.30.504",
+            "500.10.001",
+            "700.10.002",
+            "700.20.200",
+            "700.20.300",
+            "700.20.400",
+            "700.20.401",
+            "700.20.402",
+            "700.20.403",
+            "700.20.404"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 15,
+            "formaContagem": "extincaoEntidade",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.407_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.",
+                    "legRefs": [
+                        "DL_48_95"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.407_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "CP",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.407_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clinico de utentes).A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo.Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.",
+                    "procRefs": [
+                        "700.10.006",
+                        "150.40.001",
+                        "150.40.500"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.408",
+        "nivel": 3,
+        "estado": "H",
+        "titulo": "Prestação de cuidados de saúde no domicílio",
+        "descricao": "Cuidados de saúde prestados a doentes no domicílio, em situação de dependência física, mental e/ou social, transitória ou definitiva, cuja situação não requeira internamento nem cuidados hospitalares de caráter urgente. Inicia com a necessidade de manter tratamento e termina com a alta ou a melhoria clínica do que motivou a admissão a prestação de cuidados domiciliários. Inclui todos os atos necessários ao tratamento.",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "UPCS",
+            "HH"
+        ],
+        "participantes": [
+            {
+                "id": "ACES",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ACSS",
+                "interv": "Decidir"
+            },
+            {
+                "id": "ARS",
+                "interv": "Decidir"
+            }
+        ],
+        "processosRelacionados": [
+            "650.20.306",
+            "700.20.407",
+            "700.20.500",
+            "700.20.600"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ]
+    },
+    {
+        "codigo": "700.20.500",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Prestação de cuidados continuados integrados",
+        "descricao": "Cuidados de saúde prestados a doentes em unidades de internamento de carácter temporário para prestar apoio social e cuidados de saúde de manutenção a pessoas que previnam ou retardem o agravamento da situação de dependência, favorecendo o conforto e a qualidade. Inicia com o internamento e termina com a alta e a recuperação global do utente. Inclui, o diagnóstico e definição das diferentes patologias, a identificação de deficiências e incapacidades existentes, a definição do prognóstico e avaliação do potencial de reabilitação, o planeamento e prescrição do tratamento. ",
+        "notasEx": [
+            {
+                "idNota": "nota_700.20.500_fcf7583b8725",
+                "nota": "Os cuidados de reabilitação devem ser considerados em 700.20.407 – Prestação de cuidados de reabilitação."
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "UPCS"
+        ],
+        "participantes": [
+            {
+                "id": "ARS",
+                "interv": "Decidir"
+            },
+            {
+                "id": "ACES",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ACSS",
+                "interv": "Decidir"
+            }
+        ],
+        "legislacao": [
+            "DL_101_2006",
+            "DL_136_2015",
+            "Portaria_174_2014",
+            "Portaria_289_A_2015",
+            "Lei_12_2005",
+            "Lei_26_2016",
+            "Lei_58_2019",
+            "Lei_101_99",
+            "Lei_21_2014",
+            "Portaria_189_A_2015",
+            "DL_48_95"
+        ],
+        "processosRelacionados": [
+            "400.10.040",
+            "450.30.504",
+            "500.10.001",
+            "700.10.002",
+            "700.20.200",
+            "700.20.300",
+            "700.20.400",
+            "700.20.401",
+            "700.20.402",
+            "700.20.403",
+            "700.20.404"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eSuplementoPara",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 15,
+            "formaContagem": "extincaoEntidade",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.500_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.",
+                    "legRefs": [
+                        "DL_48_95"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.500_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "CP",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.500_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clínico de utentes).A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo.Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.",
+                    "procRefs": [
+                        "700.10.006",
+                        "150.40.001",
+                        "150.40.500"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.600",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Prestação de cuidados paliativos",
+        "descricao": "Prestação de cuidados de saúde especializados dirigidos a pessoas com doenças incuráveis em fase avançada e/ou terminal, com intenção de melhorar a qualidade de vida dos doentes e suas famílias através do alívio do sofrimento decorrente dos sintomas físicos, mas também de problemas psicológicos, sociais e espirituais. Inicia com a referenciação à unidade e termina quando a equipa finaliza o acompanhamento. Inclui o diagnóstico e todos os atos necessários ao tratamento. ",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.600_e5a27d686554",
+                "nota": "Situações de internamento nas unidades hospitalares específicas"
+            },
+            {
+                "idNota": "nota_700.20.600_32058d0827bc",
+                "nota": "Situações de internamento nas unidades da rede de cuidados continuados integrados e abrange, sempre que for entendido necessário, o apoio domiciliário e o apoio à família"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "UPCS"
+        ],
+        "participantes": [
+            {
+                "id": "ARS",
+                "interv": "Decidir"
+            },
+            {
+                "id": "ACES",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ACSS",
+                "interv": "Decidir"
+            }
+        ],
+        "legislacao": [
+            "DL_101_2006",
+            "Portaria_174_2014",
+            "Lei_12_2005",
+            "Lei_26_2016",
+            "Lei_58_2019",
+            "Lei_101_99",
+            "Lei_21_2014",
+            "Portaria_189_A_2015",
+            "DL_48_95"
+        ],
+        "processosRelacionados": [
+            "400.10.040",
+            "450.30.504",
+            "500.10.001",
+            "700.10.002",
+            "700.20.200",
+            "700.20.300",
+            "700.20.400",
+            "700.20.401",
+            "700.20.402",
+            "700.20.403",
+            "700.20.404"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 15,
+            "formaContagem": "extincaoEntidade",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.600_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.",
+                    "legRefs": [
+                        "DL_48_95"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.600_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "CP",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.600_0",
+                    "tipo": "densidade",
+                    "conteudo": "A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clínico de utentes).A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo.Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.",
+                    "procRefs": [
+                        "700.10.006",
+                        "150.40.001",
+                        "150.40.500"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.700",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Vacinação de animais",
+        "descricao": "Cuidados de prevenção primária de saúde praticados em espécies animais ao longo da sua vida com o objetivo de imunização. Inicia com o pedido ou com a verificação da necessidade de vacina e termina com a administração da mesma. Inclui verificação das vacinas em falta ou necessárias e registo da vacina administrada.",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.700_dd38eafff98e",
+                "nota": "Vacinação de animais em Centros de Recuperação de Animais Selvagens não abertos ao público"
+            },
+            {
+                "idNota": "nota_700.20.700_998c48d727b0",
+                "nota": "Vacinação de animais domésticos ou de companhia"
+            },
+            {
+                "idNota": "nota_700.20.700_670b3df032fd",
+                "nota": "Vacinação de animais de exploração pecuária"
+            },
+            {
+                "idNota": "nota_700.20.700_f19768937d07",
+                "nota": "Vacinação de animais selvagens em cativeiro"
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "GNR",
+            "PSP",
+            "DGAV"
+        ],
+        "participantes": [
+            {
+                "id": "EDA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Portaria_264_2013",
+            "DL_314_2003",
+            "Regulamento_CE_998_2003"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008",
+            "400.10.400",
+            "400.10.402",
+            "500.10.301"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSuplementoPara"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.700_0",
+                    "tipo": "legal",
+                    "conteudo": "[Portaria 264/2013], Normas técnicas de execução regulamentar do Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses, art.º 2º, nº 1 (validade do boletim de sanidade (boletim de saúde animal)).",
+                    "legRefs": [
+                        "Portaria_264_2013"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.700_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização (no que diz respeito ao processamento do registo da vacinação no boletim).",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.700_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada recuperável em:- PN 150.20.300 - Avaliação de atividades (atuação da entidade),- PN 300.30.008 - Registo de documentos e informação (casos tratados),- PN 400.10.402 - Registo genealógico de animais.",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008",
+                        "400.10.402"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.701",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Sequestro sanitário de animais",
+        "descricao": "Aplicação compulsiva de medidas de caráter sanitário a animais suspeitos de serem portadores de zoonoses. Inicia com o pedido de sequestro e termina com a morte natural do animal ou com o envio para adoção, restituição ou eutanásia. Inclui notificação às entidades competentes e ao proprietário, recolha do animal ou, em alternativa, sequestro sanitário domiciliário, quarentena sob vigilância veterinária, elaboração de informação sobre o estado de saúde do animal, comprovativo do pagamento de taxas, quando devido, e articulação com o laboratório competente para isolamento do agente patogénico, em caso de morte do animal.",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.701_c820f0050480",
+                "nota": "Recolha de animais vadios com suspeita de raiva ou com doença terminal"
+            },
+            {
+                "idNota": "nota_700.20.701_329afa8fcb9a",
+                "nota": "Recolha de animais com dono com suspeita de raiva ou com doença terminal"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700.20.701_dd482f7fb032",
+                "nota": "O abate ou occisão de animais devem ser considerados em 700.20.901 – Occisão ou eutanásia de animais"
+            },
+            {
+                "idNota": "nota_700.20.701_ef0a9d2a8df9",
+                "nota": "A incineração ou outra forma adequada de destruição de cadáveres de animais devem ser consideradas em 710.10.002 – Recolha de resíduos"
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "GNR",
+            "PSP",
+            "DGAV"
+        ],
+        "participantes": [
+            {
+                "id": "EDA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Resolução_da_Assembleia_da_República_93_2015",
+            "Portaria_264_2013",
+            "DL_314_2003"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008",
+            "400.10.400",
+            "400.10.402",
+            "500.10.001",
+            "500.10.301",
+            "700.20.901",
+            "710.10.300"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eSucessorDe",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.701_0",
+                    "tipo": "legal",
+                    "conteudo": "[Portaria 264/2013], Normas técnicas de execução regulamentar do Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses, art.º 2º, nº 1 (validade do boletim de sanidade (boletim de saúde animal)).",
+                    "legRefs": [
+                        "Portaria_264_2013"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.701_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização (no que diz respeito ao processamento do registo de sequestro no boletim).",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.701_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada recuperável em:- PN 150.20.300 - Avaliação de atividades (atuação da entidade),- PN 300.30.008 - Registo de documentos e informação (casos tratados),- PN 400.10.402 - Registo genealógico de animais.",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008",
+                        "400.10.402"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.800",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Prestação de cuidados curativos veterinários",
+        "descricao": "Cuidados de saúde animal praticados por veterinário. Inicia com a identificação da necessidade de intervenção e termina com a eliminação ou atenuação do problema. Inclui elaboração de diagnóstico, aplicação de fármacos, intervenção cirúrgica, registo de ato médico veterinário praticado e acompanhamento do animal.",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.800_6395d595c895",
+                "nota": "Prestação de cuidados curativos a todas as espécies animais"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_700.20.800_06e27faeb081",
+                "nota": "A implantação de micro-chips para identificação do animal deve ser considerada em 400.10.400 - Registo animal e material vegetal."
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "GNR",
+            "PSP"
+        ],
+        "participantes": [
+            {
+                "id": "EDA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Portaria_1005_92",
+            "Portaria_264_2013"
+        ],
+        "processosRelacionados": [
+            "500.10.301",
+            "700.20.901"
+        ],
+        "proRel": [
+            "eSuplementoPara",
+            "eSucessorDe"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.800_0",
+                    "tipo": "legal",
+                    "conteudo": "[Portaria 264/2013], Normas técnicas de execução regulamentar do Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses, art.º 2º, nº 1 (validade do boletim de sanidade (boletim de saúde animal)).",
+                    "legRefs": [
+                        "Portaria_264_2013"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.800_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização (no que diz respeito ao processamento do registo da prestação de cuidados curativos no boletim).",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "CP",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.800_0",
+                    "tipo": "densidade",
+                    "conteudo": "Enumeração e tipificação dos casos recuperável através das estatísticas.Esta síntese não permite recuperar o particular e individual, mas apenas o geral.A aplicação de um critério de amostragem aleatória sobre este PN permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo.Toma ainda como base o facto da imprevisibilidade dos estudos nesta área e a impossibilidade atual de conservar toda a produção.A constituição de uma amostra significativa do universo de onde é retirada, mediante a aplicação de métodos estatísticos com uma margem de erro controlada, será suficiente para representar o universo."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "700.20.900",
+        "nivel": 3,
+        "estado": "H",
+        "titulo": "Prestação de cuidados de reabilitação animal",
+        "descricao": "None",
+        "tipoProc": "PE",
+        "procTrans": "N"
+    },
+    {
+        "codigo": "700.20.901",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Occisão ou eutanásia de animais",
+        "descricao": "Abreviamento da vida de um animal enfermo incurável em sofrimento, de maneira controlada e assistida, por um especialista. Inicia com a solicitação ou decisão de eutanásia e termina com a morte do animal. Inclui diagnóstico, recolha domiciliária de animais com doença terminal.",
+        "notasAp": [
+            {
+                "idNota": "nota_700.20.901_b8715aca9650",
+                "nota": "Eutanásia a animais alojados em canis e gatis"
+            },
+            {
+                "idNota": "nota_700.20.901_a8f949973994",
+                "nota": "Eutanásia a animais externos enfermos, incuráveis e em sofrimento, que solicitem a intervenção de veterinário"
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "GNR",
+            "PSP",
+            "DGAV",
+            "INIAV"
+        ],
+        "participantes": [
+            {
+                "id": "EDA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Portaria_264_2013",
+            "Lei_27_2016"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.30.008",
+            "400.10.400",
+            "400.10.402",
+            "500.10.301",
+            "700.20.701",
+            "700.20.800"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSuplementoPara",
+            "eAntecessorDe",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": 5,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c700.20.901_0",
+                    "tipo": "legal",
+                    "conteudo": "[Portaria 264/2013], Normas técnicas de execução regulamentar do Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses, art.º 2, nº 1 (validade do boletim de sanidade (boletim de saúde animal)).",
+                    "legRefs": [
+                        "Portaria_264_2013"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c700.20.901_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização (no que diz respeito ao processamento do registo da eutanásia no boletim).",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c700.20.901_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada recuperável no PN 150.20.300 - Avaliação de atividades (atuação da entidade), no PN 300.30.008 - Registo de documentos e informação (casos tratados), no PN 400.10.400 - Registo animal e material vegetal e no PN 400.10.402 - Registo genealógico de animais.",
+                    "procRefs": [
+                        "150.20.300",
+                        "300.30.008",
+                        "400.10.400",
+                        "400.10.402"
+                    ]
+                }
+            ]
+        },
+        "Notas": "A informação relativa ao registo animal é conservada no âmbito da Função 400; sendo o boletim sanitário do animal propriedade dos eu dono, a informação acumulada relativa ao animal é escassa."
+    }
+]

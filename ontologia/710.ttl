@@ -1,0 +1,2071 @@
+
+###  http://jcr.di.uminho.pt/m51-clav#c710
+:c710 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N1 ;
+	:codigo '710' ;
+	:titulo 'PRESTAÇÃO DE SERVIÇOS DE HIGIENE E SALUBRIDADE PÚBLICAS' ;
+	:pertenceLC :lc1 ;
+	:temPai :lc1 ;
+	:descricao 'Relativo à prestação de serviços nos domínios da higiene e salubridade públicas, assegurando uma adequada qualidade ambiental às populações. Inclui as atividades de limpeza de espaços públicos, recolha e tratamento de resíduos sólidos e efluentes, recolha de animais da via pública, combate às pragas, e os serviços prestados no âmbito do movimento mortuário.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710_4a89520d3e57
+:nota_710_4a89520d3e57 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Situações em que estes serviços sejam efetivamente prestados por entidades públicas".
+
+:c710 :temNotaAplicacao :nota_710_4a89520d3e57 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710_294e7525b84f
+:nota_710_294e7525b84f rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A contratualização e controlo da concessão de serviços públicos, bem como a constituição de parcerias público-privadas para a prestação dos serviços, devem ser consideradas em \"Administração de direitos, bens e serviços/ Concessão, delegação e parceria público-privada\" (300.20)".
+
+:c710 :temNotaExclusao :nota_710_294e7525b84f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710_ea3cace6e49f
+:nota_710_ea3cace6e49f rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A contratualização e gestão de contratos de fornecimento de água deve ser considerada em \"Administração de direitos, bens e serviços/ Aquisição, venda, abate ou permuta\" (300.10).".
+
+:c710 :temNotaExclusao :nota_710_ea3cace6e49f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710_da6a3b8cc157
+:nota_710_da6a3b8cc157 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As ações de promoção da higiene e salubridade públicas que se revistam da forma de campanhas de sensibilização e educação sanitária devem ser consideradas em \"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\" (900.10)".
+
+:c710 :temNotaExclusao :nota_710_da6a3b8cc157 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710_74b34e96c07d
+:nota_710_74b34e96c07d rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os estudos e ações de monitorização de parâmetros de qualidade ambiental (níveis de ruído, de poluição) devem ser considerados em \"Prestação de serviços técnicos e científicos, investigação e desenvolvimento\" (800)".
+
+:c710 :temNotaExclusao :nota_710_74b34e96c07d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710_9eab11eae7c5
+:nota_710_9eab11eae7c5 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A inspeção higiénico-sanitária ou outras formas de verificação do cumprimento de leis e regulamentos deve ser considerada em \"Supervisão, controlo e responsabilização/ Inspeção, auditoria, fiscalização e monitorização de conformidade à norma\" (500.10)".
+
+:c710 :temNotaExclusao :nota_710_9eab11eae7c5 .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.10
+:c710.10 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N2 ;
+	:codigo '710.10' ;
+	:titulo 'Serviços de higiene e limpeza' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710 ;
+	:descricao 'Compreende as atividades de limpeza dos espaços públicos e de recolha e tratamento de resíduos sólidos e efluentes. Compreende, igualmente, o controlo de pragas, a recolha, tratamento e encaminhamento de animais abandonados ou errantes na via pública e outras ações de profilaxia sanitária.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_5b2a22e762a0
+:nota_710.10_5b2a22e762a0 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Qualquer tipo de resíduos sólidos, líquidos ou gasosos - urbanos, industriais, hospitalares, agrícolas, florestais ou outros.".
+
+:c710.10 :temNotaAplicacao :nota_710.10_5b2a22e762a0 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_83d06e89e1e0
+:nota_710.10_83d06e89e1e0 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Inclui a prestação de serviços de limpeza de equipamentos sanitários privados (exemplo, limpeza de fossas)".
+
+:c710.10 :temNotaAplicacao :nota_710.10_83d06e89e1e0 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_8149b5983239
+:nota_710.10_8149b5983239 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "O controlo de pragas pode assumir a forma de desratizações, controlo de reprodução de espécies ou outras".
+
+:c710.10 :temNotaAplicacao :nota_710.10_8149b5983239 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_4efa566160a3
+:nota_710.10_4efa566160a3 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A construção, monitorização do estado de conservação e realização de obras de manutenção, tanto em infraestruturas como em espaços públicos, bem como a higiene e limpeza regular de instalações públicas, devem ser consideradas em \"Administração de direitos, bens e serviços\" (300)".
+
+:c710.10 :temNotaExclusao :nota_710.10_4efa566160a3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_6eddae359d0d
+:nota_710.10_6eddae359d0d rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O processamento de análises laboratoriais deve ser considerado em \"Prestação de serviços técnicos e científicos, investigação e desenvolvimento/ Execução de serviços científicos e técnicos\" (800.10)".
+
+:c710.10 :temNotaExclusao :nota_710.10_6eddae359d0d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_fb941856dc57
+:nota_710.10_fb941856dc57 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os atos médico-veterinários devem ser considerados em \"Prestação de cuidados de saúde/ Serviços clínicos\" (700.20)".
+
+:c710.10 :temNotaExclusao :nota_710.10_fb941856dc57 .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.10.001
+:c710.10.001 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '710.10.001' ;
+	:titulo 'Limpeza de espaços públicos' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710.10 ;
+	:descricao 'Prestação de serviços no âmbito da regular manutenção e conservação da limpeza no espaço público. Inicia na sequência do planeamento e calendarização definidos ou por pedido de particulares e termina com o comprovativo dos trabalhos executados ou com a resposta aos requerentes. Inclui operacionalização e registo de ocorrências.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_2eba90675443
+:nota_710.10.001_2eba90675443 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Despejo de papeleiras".
+
+:c710.10.001 :temNotaAplicacao :nota_710.10.001_2eba90675443 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_f7e51491684a
+:nota_710.10.001_f7e51491684a rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Eliminação de ervas de passeios públicos".
+
+:c710.10.001 :temNotaAplicacao :nota_710.10.001_f7e51491684a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_107d7166dcd4
+:nota_710.10.001_107d7166dcd4 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Lavagem e varredura de arruamentos e espaços públicos".
+
+:c710.10.001 :temNotaAplicacao :nota_710.10.001_107d7166dcd4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_4b10b6380bf8
+:nota_710.10.001_4b10b6380bf8 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Limpeza de dejetos caninos".
+
+:c710.10.001 :temNotaAplicacao :nota_710.10.001_4b10b6380bf8 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_25723c345cb5
+:nota_710.10.001_25723c345cb5 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Limpeza de praias".
+
+:c710.10.001 :temNotaAplicacao :nota_710.10.001_25723c345cb5 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_d556ba94a7ff
+:nota_710.10.001_d556ba94a7ff rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Limpeza de sargetas e sumidouros".
+
+:c710.10.001 :temNotaAplicacao :nota_710.10.001_d556ba94a7ff .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_bc4358807d98
+:nota_710.10.001_bc4358807d98 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Limpeza de terrenos".
+
+:c710.10.001 :temNotaAplicacao :nota_710.10.001_bc4358807d98 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_6007b135c809
+:nota_710.10.001_6007b135c809 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Limpeza de cemitérios, talhões, ossários, criptas e monumentos de militares portugueses sediados em território nacional e no estrangeiro".
+
+:c710.10.001 :temNotaAplicacao :nota_710.10.001_6007b135c809 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_b0c9c42dedb6
+:nota_710.10.001_b0c9c42dedb6 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A recolha de resíduos deve ser considerada em 710.10.002 – Recolha de resíduos".
+
+:c710.10.001 :temNotaExclusao :nota_710.10.001_b0c9c42dedb6 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_23db067e213d
+:nota_710.10.001_23db067e213d rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A desobstrução de equipamentos sanitários privados como as fossas sépticas deve ser considerada em 710.10.003 – Recolha e drenagem de águas residuais".
+
+:c710.10.001 :temNotaExclusao :nota_710.10.001_23db067e213d .
+
+:c710.10.001 :processoTipoVC :vc_processoTipo_pe .
+:c710.10.001 :processoTransversal "N" .
+:c710.10.001 :temDono :tip_AL .
+:c710.10.001 :temDono :ent_APA .
+:c710.10.001 :temDono :ent_ICNF .
+:c710.10.001 :temLegislacao :leg_Lei_75_2013 .
+:c710.10.001 :temLegislacao :leg_DL_433_82 .
+:c710.10.001 :temRelProc :c150.20.300 .
+:c710.10.001 :eSintetizadoPor :c150.20.300 .
+:c710.10.001 :temRelProc :c300.30.008 .
+:c710.10.001 :eSintetizadoPor :c300.30.008 .
+:c710.10.001 :temRelProc :c500.10.301 .
+:c710.10.001 :eSuplementoPara :c500.10.301 .
+:c710.10.001 :temPCA :pca_c710.10.001.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c710.10.001
+:pca_c710.10.001 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c710.10.001 :pcaValor 5.0.
+:pca_c710.10.001 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c710.10.001
+:just_pca_c710.10.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c710.10.001 :temJustificacao :just_pca_c710.10.001 .
+:just_pca_c710.10.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c710.10.001 :temCriterio :just_pca_c710.10.001_0. 
+:just_pca_c710.10.001_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c710.10.001_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização." .
+:just_pca_c710.10.001 :temCriterio :just_pca_c710.10.001_1. 
+:just_pca_c710.10.001_1 :critTemProcRel :c500.10.301 .
+:c710.10.001 :temDF :df_c710.10.001.
+###  http://jcr.di.uminho.pt/m51-clav#df_c710.10.001
+:df_c710.10.001 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c710.10.001 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c710.10.001
+:just_df_c710.10.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c710.10.001 :temJustificacao :just_df_c710.10.001 .
+:just_df_c710.10.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade).PN 300.30.008 - Registo de documentos e informação (casos tratados)." .
+:just_df_c710.10.001 :temCriterio :just_df_c710.10.001_0. 
+:just_df_c710.10.001_0 :critTemProcRel :c150.20.300 .
+:just_df_c710.10.001_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.10.002
+:c710.10.002 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '710.10.002' ;
+	:titulo 'Recolha de resíduos' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710.10 ;
+	:descricao 'Prestação dos serviços de recolha de todo o tipo de resíduos. Inicia na sequência do planeamento e calendarização definidos ou por pedido de particulares ou ainda por pedido de entidades públicas produtoras de resíduos e termina com o comprovativo de trabalhos realizados ou com a resposta aos requerentes. Inclui recolha, transporte e depósito dos resíduos em lugar apropriado e registo de ocorrências.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_46ef660d9446
+:nota_710.10.002_46ef660d9446 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Recolha de monstros".
+
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_46ef660d9446 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_4cf1d5acbf61
+:nota_710.10.002_4cf1d5acbf61 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Recolha de resíduos animais".
+
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_4cf1d5acbf61 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_ce59d71457b2
+:nota_710.10.002_ce59d71457b2 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Recolha de cadávers de animais".
+
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_ce59d71457b2 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_2d7abd4c4146
+:nota_710.10.002_2d7abd4c4146 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Recolha de resíduos de obras".
+
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_2d7abd4c4146 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_afd5f330f281
+:nota_710.10.002_afd5f330f281 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Recolha de resíduos sólidos urbanos (RSU)".
+
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_afd5f330f281 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_05720160d8fe
+:nota_710.10.002_05720160d8fe rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Recolha de resíduos tóxicos".
+
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_05720160d8fe .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_623784389081
+:nota_710.10.002_623784389081 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Recolha de resíduos verdes".
+
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_623784389081 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_afb2c49649fa
+:nota_710.10.002_afb2c49649fa rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Recolha seletiva".
+
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_afb2c49649fa .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_cd847eb33c55
+:nota_710.10.002_cd847eb33c55 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Remoção de cortes de jardim".
+
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_cd847eb33c55 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_8d01359129e5
+:nota_710.10.002_8d01359129e5 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Recolha de equipamentos elétricos e eletrónicos".
+
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_8d01359129e5 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_ec8f76cdcb0f
+:nota_710.10.002_ec8f76cdcb0f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Transporte de resíduos efetuados pelas empresas transportadoras que procedam à recolha ou ao transporte de resíduos a título profissional".
+
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_ec8f76cdcb0f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_30f941d476b2
+:nota_710.10.002_30f941d476b2 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A recolha e manutenção de papeleiras e dispensadores para dejetos caninos devem ser considerados em 710.10.001 – Limpeza de espaços públicos".
+
+:c710.10.002 :temNotaExclusao :nota_710.10.002_30f941d476b2 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_69161d52afb7
+:nota_710.10.002_69161d52afb7 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A triagem, reciclagem, valorização ou eliminação de resíduos devem ser consideradas em 710.10.004 – Tratamento de resíduos".
+
+:c710.10.002 :temNotaExclusao :nota_710.10.002_69161d52afb7 .
+
+:c710.10.002 :processoTipoVC :vc_processoTipo_pc .
+:c710.10.002 :processoTransversal "S" .
+:c710.10.002 :temDono :tip_AL .
+:c710.10.002 :temDono :ent_Grupo_IP .
+:c710.10.002 :temDono :ent_APA .
+:c710.10.002 :temDono :ent_DGADR .
+:c710.10.002 :temParticipanteComunicador :tip_AP .
+:c710.10.002 :temParticipanteComunicador :ent_Grupo_IP .
+:c710.10.002 :temParticipanteComunicador :ent_CP .
+:c710.10.002 :temParticipanteComunicador :tip_CCDR .
+:c710.10.002 :temParticipanteComunicador :ent_ACT .
+:c710.10.002 :temParticipanteComunicador :ent_CASES .
+:c710.10.002 :temParticipanteComunicador :ent_CGA .
+:c710.10.002 :temParticipanteComunicador :ent_CITE .
+:c710.10.002 :temParticipanteComunicador :ent_CNPDPCJ .
+:c710.10.002 :temParticipanteComunicador :ent_CPL .
+:c710.10.002 :temParticipanteComunicador :ent_CRL .
+:c710.10.002 :temParticipanteComunicador :ent_DGERT .
+:c710.10.002 :temParticipanteComunicador :ent_DGSS .
+:c710.10.002 :temParticipanteComunicador :ent_GEP .
+:c710.10.002 :temParticipanteComunicador :ent_IEFP .
+:c710.10.002 :temParticipanteComunicador :ent_IGMTSSS .
+:c710.10.002 :temParticipanteComunicador :ent_IGFCSS .
+:c710.10.002 :temParticipanteComunicador :ent_IGFSS .
+:c710.10.002 :temParticipanteComunicador :ent_II .
+:c710.10.002 :temParticipanteComunicador :ent_INR .
+:c710.10.002 :temParticipanteComunicador :ent_ISS .
+:c710.10.002 :temParticipanteComunicador :ent_OIT .
+:c710.10.002 :temParticipanteComunicador :ent_POISE .
+:c710.10.002 :temParticipanteComunicador :ent_SGMTSSS .
+:c710.10.002 :temParticipanteComunicador :ent_ICNF .
+:c710.10.002 :temParticipanteComunicador :ent_DGRM .
+:c710.10.002 :temParticipanteComunicador :ent_DGADR .
+:c710.10.002 :temParticipanteComunicador :ent_DGAV .
+:c710.10.002 :temParticipanteComunicador :ent_INIAV .
+:c710.10.002 :temParticipanteComunicador :ent_IVV .
+:c710.10.002 :temParticipanteComunicador :ent_IVDP .
+:c710.10.002 :temParticipanteComunicador :ent_PDR2020 .
+:c710.10.002 :temParticipanteComunicador :tip_DRAP .
+:c710.10.002 :temParticipanteComunicador :ent_IFAP .
+:c710.10.002 :temLegislacao :leg_DL_67_2014 .
+:c710.10.002 :temLegislacao :leg_DL_366_A_97 .
+:c710.10.002 :temLegislacao :leg_DL_162_2000 .
+:c710.10.002 :temLegislacao :leg_DL_92_2006 .
+:c710.10.002 :temLegislacao :leg_DL_110_2013 .
+:c710.10.002 :temLegislacao :leg_DL_178_2006 .
+:c710.10.002 :temLegislacao :leg_DL_73_2011 .
+:c710.10.002 :temLegislacao :leg_DL_267_2009 .
+:c710.10.002 :temLegislacao :leg_DL_6_2009 .
+:c710.10.002 :temLegislacao :leg_DL_46_2008 .
+:c710.10.002 :temLegislacao :leg_Portaria_417_2008 .
+:c710.10.002 :temLegislacao :leg_Portaria_29_B_98 .
+:c710.10.002 :temLegislacao :leg_Portaria_335_97 .
+:c710.10.002 :temLegislacao :leg_DL_433_82 .
+:c710.10.002 :temLegislacao :leg_Lei_50_2006 .
+:c710.10.002 :temRelProc :c150.20.300 .
+:c710.10.002 :eSintetizadoPor :c150.20.300 .
+:c710.10.002 :temRelProc :c300.30.008 .
+:c710.10.002 :eSintetizadoPor :c300.30.008 .
+:c710.10.002 :temRelProc :c500.10.301 .
+:c710.10.002 :eSuplementoPara :c500.10.301 .
+:c710.10.002 :temRelProc :c710.10.004 .
+:c710.10.002 :eAntecessorDe :c710.10.004 .
+:c710.10.002 :temPCA :pca_c710.10.002.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c710.10.002
+:pca_c710.10.002 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c710.10.002 :pcaValor 5.0.
+:pca_c710.10.002 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c710.10.002
+:just_pca_c710.10.002 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c710.10.002 :temJustificacao :just_pca_c710.10.002 .
+:just_pca_c710.10.002_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.[Lei 50/2006], LQCA, art.º 40º - Prazo prescricional das contraordenações ambientais." .
+:just_pca_c710.10.002 :temCriterio :just_pca_c710.10.002_0. 
+:just_pca_c710.10.002_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c710.10.002_0 :critTemLegAssoc :leg_Lei_50_2006 .
+:just_pca_c710.10.002_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização." .
+:just_pca_c710.10.002 :temCriterio :just_pca_c710.10.002_1. 
+:just_pca_c710.10.002_1 :critTemProcRel :c500.10.301 .
+:c710.10.002 :temDF :df_c710.10.002.
+###  http://jcr.di.uminho.pt/m51-clav#df_c710.10.002
+:df_c710.10.002 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c710.10.002 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c710.10.002
+:just_df_c710.10.002 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c710.10.002 :temJustificacao :just_df_c710.10.002 .
+:just_df_c710.10.002_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos e informação (casos tratados)." .
+:just_df_c710.10.002 :temCriterio :just_df_c710.10.002_0. 
+:just_df_c710.10.002_0 :critTemProcRel :c150.20.300 .
+:just_df_c710.10.002_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.10.003
+:c710.10.003 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '710.10.003' ;
+	:titulo 'Recolha e drenagem de águas residuais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710.10 ;
+	:descricao 'Operações de recolha de águas residuais em estações elevatórias ou fossas sépticas e transporte para destino adequado. Inicia na sequência do planeamento ou a pedido de particulares e termina com o registo de operações ou com a resposta aos requerentes. Inclui operacionalização e comprovativo de pagamento, quando devido.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_99561a931b6e
+:nota_710.10.003_99561a931b6e rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Desobstrução de fossas séticas privadas".
+
+:c710.10.003 :temNotaAplicacao :nota_710.10.003_99561a931b6e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_4b0d582c91aa
+:nota_710.10.003_4b0d582c91aa rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Drenagem de águas residuais domésticas".
+
+:c710.10.003 :temNotaAplicacao :nota_710.10.003_4b0d582c91aa .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_4e01a70f34db
+:nota_710.10.003_4e01a70f34db rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Drenagem de águas residuais pluviais".
+
+:c710.10.003 :temNotaAplicacao :nota_710.10.003_4e01a70f34db .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_142d76c87880
+:nota_710.10.003_142d76c87880 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Drenagem de águas residuais unitárias".
+
+:c710.10.003 :temNotaAplicacao :nota_710.10.003_142d76c87880 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_3c24f5811c5f
+:nota_710.10.003_3c24f5811c5f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Drenagem de efluentes agrícolas".
+
+:c710.10.003 :temNotaAplicacao :nota_710.10.003_3c24f5811c5f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_71c0f1d87f77
+:nota_710.10.003_71c0f1d87f77 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Drenagem de efluentes industriais".
+
+:c710.10.003 :temNotaAplicacao :nota_710.10.003_71c0f1d87f77 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_dd3277d9307f
+:nota_710.10.003_dd3277d9307f rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A limpeza, desobstrução e reparação de coletores, ramais de ligação e fossas sépticas públicas devem ser consideradas em 300.40.503 – Conservação e valorização de edifícios, infraestruturas e equipamentos".
+
+:c710.10.003 :temNotaExclusao :nota_710.10.003_dd3277d9307f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_23e172827e44
+:nota_710.10.003_23e172827e44 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c710.10.003 :temNotaExclusao :nota_710.10.003_23e172827e44 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_c404ce3a65ca
+:nota_710.10.003_c404ce3a65ca rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O tratamento de efluentes e lamas deve ser considerado em 710.10.005 – Tratamento e rejeição de águas residuais".
+
+:c710.10.003 :temNotaExclusao :nota_710.10.003_c404ce3a65ca .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_497504227d92
+:nota_710.10.003_497504227d92 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A recolha de dados sobre o saneamento de águas residuais deve ser considerada em 800.10.303 – Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais".
+
+:c710.10.003 :temNotaExclusao :nota_710.10.003_497504227d92 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_415e8e9a0475
+:nota_710.10.003_415e8e9a0475 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A aquisição de serviços deve ser considerada em 300.10.005 Transação e transmissão de bens móveis não culturais e contratação de serviços".
+
+:c710.10.003 :temNotaExclusao :nota_710.10.003_415e8e9a0475 .
+
+:c710.10.003 :processoTipoVC :vc_processoTipo_pc .
+:c710.10.003 :processoTransversal "S" .
+:c710.10.003 :temDono :tip_AL .
+:c710.10.003 :temParticipanteIniciador :tip_AL .
+:c710.10.003 :temParticipanteIniciador :ent_ACT .
+:c710.10.003 :temParticipanteIniciador :ent_CASES .
+:c710.10.003 :temParticipanteIniciador :ent_CGA .
+:c710.10.003 :temParticipanteIniciador :ent_CITE .
+:c710.10.003 :temParticipanteIniciador :ent_CNPDPCJ .
+:c710.10.003 :temParticipanteIniciador :ent_CPL .
+:c710.10.003 :temParticipanteIniciador :ent_CRL .
+:c710.10.003 :temParticipanteIniciador :ent_DGERT .
+:c710.10.003 :temParticipanteIniciador :ent_DGSS .
+:c710.10.003 :temParticipanteIniciador :ent_GEP .
+:c710.10.003 :temParticipanteIniciador :ent_IEFP .
+:c710.10.003 :temParticipanteIniciador :ent_IGMTSSS .
+:c710.10.003 :temParticipanteIniciador :ent_IGFCSS .
+:c710.10.003 :temParticipanteIniciador :ent_IGFSS .
+:c710.10.003 :temParticipanteIniciador :ent_II .
+:c710.10.003 :temParticipanteIniciador :ent_INR .
+:c710.10.003 :temParticipanteIniciador :ent_ISS .
+:c710.10.003 :temParticipanteIniciador :ent_OIT .
+:c710.10.003 :temParticipanteIniciador :ent_POISE .
+:c710.10.003 :temParticipanteIniciador :ent_SGMTSSS .
+:c710.10.003 :temParticipanteIniciador :ent_DGADR .
+:c710.10.003 :temParticipanteIniciador :ent_DGAV .
+:c710.10.003 :temParticipanteIniciador :tip_DRAP .
+:c710.10.003 :temLegislacao :leg_DL_194_2009 .
+:c710.10.003 :temLegislacao :leg_Decreto_Regulamentar_23_95 .
+:c710.10.003 :temLegislacao :leg_DL_92_2013 .
+:c710.10.003 :temLegislacao :leg_Lei_98_97 .
+:c710.10.003 :temLegislacao :leg_DL_433_82 .
+:c710.10.003 :temLegislacao :leg_Lei_50_2006 .
+:c710.10.003 :temRelProc :c150.20.300 .
+:c710.10.003 :eSintetizadoPor :c150.20.300 .
+:c710.10.003 :temRelProc :c500.10.001 .
+:c710.10.003 :eSuplementoPara :c500.10.001 .
+:c710.10.003 :temRelProc :c500.10.301 .
+:c710.10.003 :eSuplementoPara :c500.10.301 .
+:c710.10.003 :temRelProc :c710.10.005 .
+:c710.10.003 :eAntecessorDe :c710.10.005 .
+:c710.10.003 :temRelProc :c800.10.001 .
+:c710.10.003 :eSintetizadoPor :c800.10.001 .
+:c710.10.003 :temRelProc :c800.10.303 .
+:c710.10.003 :eCruzadoCom :c800.10.303 .
+:c710.10.003 :temPCA :pca_c710.10.003.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c710.10.003
+:pca_c710.10.003 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c710.10.003 :pcaValor 10.0.
+:pca_c710.10.003 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c710.10.003
+:just_pca_c710.10.003 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c710.10.003 :temJustificacao :just_pca_c710.10.003 .
+:just_pca_c710.10.003_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.[Lei 50/2006], LQCA, art.º 40º - Prazo prescricional das contraordenações ambientais." .
+:just_pca_c710.10.003 :temCriterio :just_pca_c710.10.003_0. 
+:just_pca_c710.10.003_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c710.10.003_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c710.10.003_0 :critTemLegAssoc :leg_Lei_50_2006 .
+:just_pca_c710.10.003_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e dos PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)" .
+:just_pca_c710.10.003 :temCriterio :just_pca_c710.10.003_1. 
+:just_pca_c710.10.003_1 :critTemProcRel :c500.10.001 .
+:just_pca_c710.10.003_1 :critTemProcRel :c500.10.301 .
+:c710.10.003 :temDF :df_c710.10.003.
+###  http://jcr.di.uminho.pt/m51-clav#df_c710.10.003
+:df_c710.10.003 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c710.10.003 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c710.10.003
+:just_df_c710.10.003 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c710.10.003 :temJustificacao :just_df_c710.10.003 .
+:just_df_c710.10.003_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades;PN 800.10.001 - Produção de informação georreferenciada." .
+:just_df_c710.10.003 :temCriterio :just_df_c710.10.003_0. 
+:just_df_c710.10.003_0 :critTemProcRel :c150.20.300 .
+:just_df_c710.10.003_0 :critTemProcRel :c800.10.001 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.10.004
+:c710.10.004 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '710.10.004' ;
+	:titulo 'Tratamento de resíduos' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710.10 ;
+	:descricao 'Execução da triagem, reciclagem, valorização ou eliminação por incineração, co-incineração, aterro ou outro meio adequado de todo o tipo de resíduos. Inicia com a receção de resíduos e termina com o relato das operações. Inclui registo de ocorrências, operacionalização, cálculo e comprovativo de pagamento, quando devido. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_45e44d9db7c3
+:nota_710.10.004_45e44d9db7c3 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Tratamento de resíduos animais".
+
+:c710.10.004 :temNotaAplicacao :nota_710.10.004_45e44d9db7c3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_712a786603d2
+:nota_710.10.004_712a786603d2 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Tratamento de resíduos hospitalares".
+
+:c710.10.004 :temNotaAplicacao :nota_710.10.004_712a786603d2 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_37fd7482932e
+:nota_710.10.004_37fd7482932e rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Tratamento de resíduos indiferenciados".
+
+:c710.10.004 :temNotaAplicacao :nota_710.10.004_37fd7482932e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_699fc50bfcf9
+:nota_710.10.004_699fc50bfcf9 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Tratamento de resíduos industriais".
+
+:c710.10.004 :temNotaAplicacao :nota_710.10.004_699fc50bfcf9 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_02abea6b5017
+:nota_710.10.004_02abea6b5017 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Tratamento de resíduos seletivos".
+
+:c710.10.004 :temNotaAplicacao :nota_710.10.004_02abea6b5017 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_a3450dcca828
+:nota_710.10.004_a3450dcca828 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c710.10.004 :temNotaExclusao :nota_710.10.004_a3450dcca828 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_f18e1f7cbbe0
+:nota_710.10.004_f18e1f7cbbe0 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A remoção indiferenciada e seletiva de resíduos deve ser considerada em 710.10.002 – Recolha de resíduos".
+
+:c710.10.004 :temNotaExclusao :nota_710.10.004_f18e1f7cbbe0 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_3d5bc2b6a151
+:nota_710.10.004_3d5bc2b6a151 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O tratamento de lamas deve ser considerado em 710.10.005 – Tratamento e rejeição de águas residuais".
+
+:c710.10.004 :temNotaExclusao :nota_710.10.004_3d5bc2b6a151 .
+
+:c710.10.004 :processoTipoVC :vc_processoTipo_pe .
+:c710.10.004 :processoTransversal "N" .
+:c710.10.004 :temDono :tip_AL .
+:c710.10.004 :temDono :tip_SPE .
+:c710.10.004 :temDono :tip_AL .
+:c710.10.004 :temDono :tip_HH .
+:c710.10.004 :temDono :ent_ICNF .
+:c710.10.004 :temLegislacao :leg_DL_73_2011 .
+:c710.10.004 :temLegislacao :leg_DL_46_2008 .
+:c710.10.004 :temLegislacao :leg_DL_178_2006 .
+:c710.10.004 :temLegislacao :leg_DL_85_2005 .
+:c710.10.004 :temLegislacao :leg_Lei_98_97 .
+:c710.10.004 :temLegislacao :leg_DL_433_82 .
+:c710.10.004 :temLegislacao :leg_Lei_50_2006 .
+:c710.10.004 :temRelProc :c150.20.300 .
+:c710.10.004 :eSintetizadoPor :c150.20.300 .
+:c710.10.004 :temRelProc :c500.10.001 .
+:c710.10.004 :eSuplementoPara :c500.10.001 .
+:c710.10.004 :temRelProc :c500.10.301 .
+:c710.10.004 :eSuplementoPara :c500.10.301 .
+:c710.10.004 :temRelProc :c710.10.002 .
+:c710.10.004 :eSucessorDe :c710.10.002 .
+:c710.10.004 :temRelProc :c800.10.001 .
+:c710.10.004 :eSintetizadoPor :c800.10.001 .
+:c710.10.004 :temPCA :pca_c710.10.004.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c710.10.004
+:pca_c710.10.004 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c710.10.004 :pcaValor 10.0.
+:pca_c710.10.004 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c710.10.004
+:just_pca_c710.10.004 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c710.10.004 :temJustificacao :just_pca_c710.10.004 .
+:just_pca_c710.10.004_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.[Lei 50/2006], LQCA, art.º 40º - Prazo prescricional das contraordenações ambientais." .
+:just_pca_c710.10.004 :temCriterio :just_pca_c710.10.004_0. 
+:just_pca_c710.10.004_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c710.10.004_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c710.10.004_0 :critTemLegAssoc :leg_Lei_50_2006 .
+:just_pca_c710.10.004_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e do PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)" .
+:just_pca_c710.10.004 :temCriterio :just_pca_c710.10.004_1. 
+:just_pca_c710.10.004_1 :critTemProcRel :c500.10.001 .
+:just_pca_c710.10.004_1 :critTemProcRel :c500.10.301 .
+:c710.10.004 :temDF :df_c710.10.004.
+###  http://jcr.di.uminho.pt/m51-clav#df_c710.10.004
+:df_c710.10.004 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c710.10.004 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c710.10.004
+:just_df_c710.10.004 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c710.10.004 :temJustificacao :just_df_c710.10.004 .
+:just_df_c710.10.004_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades;PN 800.10.001 - Produção de informação georreferenciada." .
+:just_df_c710.10.004 :temCriterio :just_df_c710.10.004_0. 
+:just_df_c710.10.004_0 :critTemProcRel :c150.20.300 .
+:just_df_c710.10.004_0 :critTemProcRel :c800.10.001 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.10.005
+:c710.10.005 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '710.10.005' ;
+	:titulo 'Tratamento e rejeição de águas residuais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710.10 ;
+	:descricao 'Correção das características físicas, químicas e microbiológicas de águas residuais em função das características do meio recetor. Inicia com a receção das águas residuais e termina com a sua reutilização ou rejeição em meio recetor. Inclui operações de valorização ou rejeição das lamas resultantes. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_c2e9d1ad61dc
+:nota_710.10.005_c2e9d1ad61dc rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Tratamento de águas residuais domésticas".
+
+:c710.10.005 :temNotaAplicacao :nota_710.10.005_c2e9d1ad61dc .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_ae427af33d2a
+:nota_710.10.005_ae427af33d2a rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Tratamento de águas residuais pluviais".
+
+:c710.10.005 :temNotaAplicacao :nota_710.10.005_ae427af33d2a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_10cdaa4ad546
+:nota_710.10.005_10cdaa4ad546 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Tratamento de águas residuais unitárias".
+
+:c710.10.005 :temNotaAplicacao :nota_710.10.005_10cdaa4ad546 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_72e8e6068727
+:nota_710.10.005_72e8e6068727 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Tratamento de efluentes agrícolas".
+
+:c710.10.005 :temNotaAplicacao :nota_710.10.005_72e8e6068727 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_244584caf012
+:nota_710.10.005_244584caf012 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Tratamento de efluentes industriais".
+
+:c710.10.005 :temNotaAplicacao :nota_710.10.005_244584caf012 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_1e2d84c00543
+:nota_710.10.005_1e2d84c00543 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Tratamento de lamas".
+
+:c710.10.005 :temNotaAplicacao :nota_710.10.005_1e2d84c00543 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_a7f935e34a31
+:nota_710.10.005_a7f935e34a31 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A recolha e o transporte de efluentes e lamas provenientes de fossas sépticas, coletores e ramais de ligação devem ser considerados em 710.10.003 – Recolha e drenagem de águas residuais".
+
+:c710.10.005 :temNotaExclusao :nota_710.10.005_a7f935e34a31 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_f2ad233c1c25
+:nota_710.10.005_f2ad233c1c25 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A monitorização do tratamento de águas residuais deve ser considerada em 800.10.303 – Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais".
+
+:c710.10.005 :temNotaExclusao :nota_710.10.005_f2ad233c1c25 .
+
+:c710.10.005 :processoTipoVC :vc_processoTipo_pe .
+:c710.10.005 :processoTransversal "S" .
+:c710.10.005 :temDono :tip_SPE .
+:c710.10.005 :temDono :tip_AL .
+:c710.10.005 :temDono :ent_CPL .
+:c710.10.005 :temParticipanteIniciador :ent_DGRM .
+:c710.10.005 :temParticipanteIniciador :ent_DGADR .
+:c710.10.005 :temParticipanteIniciador :tip_DRAP .
+:c710.10.005 :temLegislacao :leg_DL_152_97 .
+:c710.10.005 :temLegislacao :leg_Lei_98_97 .
+:c710.10.005 :temLegislacao :leg_DL_433_82 .
+:c710.10.005 :temLegislacao :leg_Lei_50_2006 .
+:c710.10.005 :temRelProc :c150.20.300 .
+:c710.10.005 :eSintetizadoPor :c150.20.300 .
+:c710.10.005 :temRelProc :c500.10.001 .
+:c710.10.005 :eSuplementoPara :c500.10.001 .
+:c710.10.005 :temRelProc :c500.10.301 .
+:c710.10.005 :eSuplementoPara :c500.10.301 .
+:c710.10.005 :temRelProc :c710.10.003 .
+:c710.10.005 :eSucessorDe :c710.10.003 .
+:c710.10.005 :temRelProc :c800.10.001 .
+:c710.10.005 :eSintetizadoPor :c800.10.001 .
+:c710.10.005 :temPCA :pca_c710.10.005.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c710.10.005
+:pca_c710.10.005 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c710.10.005 :pcaValor 10.0.
+:pca_c710.10.005 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c710.10.005
+:just_pca_c710.10.005 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c710.10.005 :temJustificacao :just_pca_c710.10.005 .
+:just_pca_c710.10.005_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.[Lei 50/2006], LQCA, art.º 40º - Prazo prescricional das contraordenações ambientais." .
+:just_pca_c710.10.005 :temCriterio :just_pca_c710.10.005_0. 
+:just_pca_c710.10.005_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c710.10.005_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c710.10.005_0 :critTemLegAssoc :leg_Lei_50_2006 .
+:just_pca_c710.10.005_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e do PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c710.10.005 :temCriterio :just_pca_c710.10.005_1. 
+:just_pca_c710.10.005_1 :critTemProcRel :c500.10.001 .
+:just_pca_c710.10.005_1 :critTemProcRel :c500.10.301 .
+:c710.10.005 :temDF :df_c710.10.005.
+###  http://jcr.di.uminho.pt/m51-clav#df_c710.10.005
+:df_c710.10.005 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c710.10.005 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c710.10.005
+:just_df_c710.10.005 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c710.10.005 :temJustificacao :just_df_c710.10.005 .
+:just_df_c710.10.005_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades;PN 800.10.001 - Produção de informação georreferenciada." .
+:just_df_c710.10.005 :temCriterio :just_df_c710.10.005_0. 
+:just_df_c710.10.005_0 :critTemProcRel :c150.20.300 .
+:just_df_c710.10.005_0 :critTemProcRel :c800.10.001 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.10.300
+:c710.10.300 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '710.10.300' ;
+	:titulo 'Recolha e adoção de animais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710.10 ;
+	:descricao 'Captura ou entrega em centros de recolha de animais perigosos ou vadios, errantes ou com donos, de vias e espaços públicos ou de espaços privados e posterior cedência por adoção ou restituição ao dono. Inicia na sequência de planeamento, a pedido de particulares ou de denúncia e termina com a entrega do animal. Inclui registo de ocorrências, comunicação às entidades competentes, quarentena do animal, se aplicável. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_95bb9f7e361f
+:nota_710.10.300_95bb9f7e361f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Captura de animais domésticos silvestres e assilvestrados".
+
+:c710.10.300 :temNotaAplicacao :nota_710.10.300_95bb9f7e361f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_0d25e57a388e
+:nota_710.10.300_0d25e57a388e rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Captura de animais em espaços particulares a pedido de interessados".
+
+:c710.10.300 :temNotaAplicacao :nota_710.10.300_0d25e57a388e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_076d5d921483
+:nota_710.10.300_076d5d921483 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Captura de cães e gatos vadios".
+
+:c710.10.300 :temNotaAplicacao :nota_710.10.300_076d5d921483 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_67fad055aba3
+:nota_710.10.300_67fad055aba3 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Entrega de animais capturados em canil ou gatil municipal".
+
+:c710.10.300 :temNotaAplicacao :nota_710.10.300_67fad055aba3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_a5fb00b53c11
+:nota_710.10.300_a5fb00b53c11 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Recolha de animais no âmbito da higiene pública e veterinária".
+
+:c710.10.300 :temNotaAplicacao :nota_710.10.300_a5fb00b53c11 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_dfd4886cd74a
+:nota_710.10.300_dfd4886cd74a rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Recolha de animais que tenham causado ofensa ao corpo ou à saúde de uma pessoa".
+
+:c710.10.300 :temNotaAplicacao :nota_710.10.300_dfd4886cd74a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_dc5b11b1fde5
+:nota_710.10.300_dc5b11b1fde5 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Recolha de animais perigosos".
+
+:c710.10.300 :temNotaAplicacao :nota_710.10.300_dc5b11b1fde5 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_a949dfd9b33d
+:nota_710.10.300_a949dfd9b33d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Adoção de animais".
+
+:c710.10.300 :temNotaAplicacao :nota_710.10.300_a949dfd9b33d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_f6b074ee93dc
+:nota_710.10.300_f6b074ee93dc rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A recolha de animais portadores de zoonoses ou doença terminal deve ser considerada em 700.20.701 – Sequestro sanitário de animais".
+
+:c710.10.300 :temNotaExclusao :nota_710.10.300_f6b074ee93dc .
+
+:c710.10.300 :processoTipoVC :vc_processoTipo_pe .
+:c710.10.300 :processoTransversal "N" .
+:c710.10.300 :temDono :tip_AL .
+:c710.10.300 :temDono :ent_GNR .
+:c710.10.300 :temDono :ent_ICNF .
+:c710.10.300 :temDono :ent_DGAV .
+:c710.10.300 :temLegislacao :leg_Lei_169_99 .
+:c710.10.300 :temLegislacao :leg_DL_315_2009 .
+:c710.10.300 :temLegislacao :leg_DL_433_82 .
+:c710.10.300 :temRelProc :c150.20.300 .
+:c710.10.300 :eSintetizadoPor :c150.20.300 .
+:c710.10.300 :temRelProc :c300.30.008 .
+:c710.10.300 :eSintetizadoPor :c300.30.008 .
+:c710.10.300 :temRelProc :c650.20.306 .
+:c710.10.300 :eSucessorDe :c650.20.306 .
+:c710.10.300 :temRelProc :c400.10.400 .
+:c710.10.300 :eCruzadoCom :c400.10.400 .
+:c710.10.300 :temRelProc :c500.10.001 .
+:c710.10.300 :eSuplementoPara :c500.10.001 .
+:c710.10.300 :temRelProc :c500.10.301 .
+:c710.10.300 :eSuplementoPara :c500.10.301 .
+:c710.10.300 :temPCA :pca_c710.10.300.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c710.10.300
+:pca_c710.10.300 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c710.10.300 :pcaValor 5.0.
+:pca_c710.10.300 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c710.10.300
+:just_pca_c710.10.300 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c710.10.300 :temJustificacao :just_pca_c710.10.300 .
+:just_pca_c710.10.300_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c710.10.300 :temCriterio :just_pca_c710.10.300_0. 
+:just_pca_c710.10.300_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c710.10.300_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e do PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c710.10.300 :temCriterio :just_pca_c710.10.300_1. 
+:just_pca_c710.10.300_1 :critTemProcRel :c500.10.001 .
+:just_pca_c710.10.300_1 :critTemProcRel :c500.10.301 .
+:c710.10.300 :temDF :df_c710.10.300.
+###  http://jcr.di.uminho.pt/m51-clav#df_c710.10.300
+:df_c710.10.300 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c710.10.300 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c710.10.300
+:just_df_c710.10.300 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c710.10.300 :temJustificacao :just_df_c710.10.300 .
+:just_df_c710.10.300_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos e informação." .
+:just_df_c710.10.300 :temCriterio :just_df_c710.10.300_0. 
+:just_df_c710.10.300_0 :critTemProcRel :c150.20.300 .
+:just_df_c710.10.300_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.10.600
+:c710.10.600 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '710.10.600' ;
+	:titulo 'Profilaxia e controlo de infestantes, pragas e doenças das plantas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710.10 ;
+	:descricao 'Intervenção preventiva ou reativa a agentes patogénicos ou surtos de determinadas espécies animais ou vegetais, em meios urbanos ou rurais, nocivas ao bem-estar das populações, do património e do meio ambiente. Inicia com a prospeção ou deteção da presença dos vetores nocivos, por iniciativa própria ou a pedido de entidades públicas ou privadas, e termina com a elaboração do relatório dos trabalhos realizados. Inclui planeamento e calendarização de ações, definição e preparação de meios adequados ao tipo de praga biológica, doença ou infestante, operacionalização, cálculo do valor da taxa, quando devido. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_1ee0cedb07d3
+:nota_710.10.600_1ee0cedb07d3 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Controlo de infestantes aquáticas".
+
+:c710.10.600 :temNotaAplicacao :nota_710.10.600_1ee0cedb07d3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_6592e5ea9fca
+:nota_710.10.600_6592e5ea9fca rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Controlo de plantas infestantes em solo agrícola".
+
+:c710.10.600 :temNotaAplicacao :nota_710.10.600_6592e5ea9fca .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_b0aac0c8ce09
+:nota_710.10.600_b0aac0c8ce09 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Controlo de população de pombos em meio urbano".
+
+:c710.10.600 :temNotaAplicacao :nota_710.10.600_b0aac0c8ce09 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_d851bdb21697
+:nota_710.10.600_d851bdb21697 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Controlo de população de ratos e baratas".
+
+:c710.10.600 :temNotaAplicacao :nota_710.10.600_d851bdb21697 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_d4a6131ba028
+:nota_710.10.600_d4a6131ba028 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Controlo de pragas em redes de esgotos".
+
+:c710.10.600 :temNotaAplicacao :nota_710.10.600_d4a6131ba028 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_60e3e072d3ab
+:nota_710.10.600_60e3e072d3ab rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Controlo sazonal de espécies nocivas na via e espaços públicos".
+
+:c710.10.600 :temNotaAplicacao :nota_710.10.600_60e3e072d3ab .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_e17f655d99bc
+:nota_710.10.600_e17f655d99bc rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Controlo de doenças de plantas".
+
+:c710.10.600 :temNotaAplicacao :nota_710.10.600_e17f655d99bc .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_24db762fa5d1
+:nota_710.10.600_24db762fa5d1 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pagamentos devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c710.10.600 :temNotaExclusao :nota_710.10.600_24db762fa5d1 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_050df446f839
+:nota_710.10.600_050df446f839 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As ações de manutenção e desinfestação em instalações e equipamentos públicos deverão ser consideradas em 300.40.505 – Higienização de instalações e equipamentos públicos".
+
+:c710.10.600 :temNotaExclusao :nota_710.10.600_050df446f839 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_7db9ac6aba9b
+:nota_710.10.600_7db9ac6aba9b rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A monitorização de pragas e infestantes deve ser considerada em 800.10.607 - Realização de ações de observação em saúde e vigilância epidemiológica".
+
+:c710.10.600 :temNotaExclusao :nota_710.10.600_7db9ac6aba9b .
+
+:c710.10.600 :processoTipoVC :vc_processoTipo_pc .
+:c710.10.600 :processoTransversal "S" .
+:c710.10.600 :temDono :tip_AL .
+:c710.10.600 :temDono :ent_APA .
+:c710.10.600 :temDono :ent_Grupo_IP .
+:c710.10.600 :temDono :ent_DGAV .
+:c710.10.600 :temDono :ent_ICNF .
+:c710.10.600 :temDono :ent_CP .
+:c710.10.600 :temParticipanteIniciador :tip_AP .
+:c710.10.600 :temParticipanteIniciador :ent_ACT .
+:c710.10.600 :temParticipanteIniciador :ent_CASES .
+:c710.10.600 :temParticipanteIniciador :ent_CGA .
+:c710.10.600 :temParticipanteIniciador :ent_CITE .
+:c710.10.600 :temParticipanteIniciador :ent_CNPDPCJ .
+:c710.10.600 :temParticipanteIniciador :ent_CPL .
+:c710.10.600 :temParticipanteIniciador :ent_CRL .
+:c710.10.600 :temParticipanteIniciador :ent_DGERT .
+:c710.10.600 :temParticipanteIniciador :ent_DGSS .
+:c710.10.600 :temParticipanteIniciador :ent_GEP .
+:c710.10.600 :temParticipanteIniciador :ent_IEFP .
+:c710.10.600 :temParticipanteIniciador :ent_IGMTSSS .
+:c710.10.600 :temParticipanteIniciador :ent_IGFCSS .
+:c710.10.600 :temParticipanteIniciador :ent_IGFSS .
+:c710.10.600 :temParticipanteIniciador :ent_II .
+:c710.10.600 :temParticipanteIniciador :ent_INR .
+:c710.10.600 :temParticipanteIniciador :ent_ISS .
+:c710.10.600 :temParticipanteIniciador :ent_OIT .
+:c710.10.600 :temParticipanteIniciador :ent_POISE .
+:c710.10.600 :temParticipanteIniciador :ent_SGMTSSS .
+:c710.10.600 :temParticipanteIniciador :ent_ICNF .
+:c710.10.600 :temParticipanteIniciador :ent_DGRM .
+:c710.10.600 :temParticipanteIniciador :ent_DGADR .
+:c710.10.600 :temParticipanteIniciador :ent_DGAV .
+:c710.10.600 :temParticipanteIniciador :ent_INIAV .
+:c710.10.600 :temParticipanteIniciador :ent_IVV .
+:c710.10.600 :temParticipanteIniciador :ent_IVDP .
+:c710.10.600 :temParticipanteIniciador :ent_PDR2020 .
+:c710.10.600 :temParticipanteIniciador :tip_DRAP .
+:c710.10.600 :temLegislacao :leg_Resolução_da_Assembleia_da_República_93_2015 .
+:c710.10.600 :temLegislacao :leg_DL_113_2006 .
+:c710.10.600 :temLegislacao :leg_Lei_58_2005 .
+:c710.10.600 :temLegislacao :leg_Lei_98_97 .
+:c710.10.600 :temLegislacao :leg_DL_433_82 .
+:c710.10.600 :temLegislacao :leg_Lei_50_2006 .
+:c710.10.600 :temRelProc :c150.20.300 .
+:c710.10.600 :eSintetizadoPor :c150.20.300 .
+:c710.10.600 :temRelProc :c300.30.008 .
+:c710.10.600 :eSintetizadoPor :c300.30.008 .
+:c710.10.600 :temRelProc :c500.10.001 .
+:c710.10.600 :eSuplementoPara :c500.10.001 .
+:c710.10.600 :temRelProc :c500.10.301 .
+:c710.10.600 :eSuplementoPara :c500.10.301 .
+:c710.10.600 :temRelProc :c800.10.300 .
+:c710.10.600 :eCruzadoCom :c800.10.300 .
+:c710.10.600 :temPCA :pca_c710.10.600.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c710.10.600
+:pca_c710.10.600 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c710.10.600 :pcaValor 10.0.
+:pca_c710.10.600 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c710.10.600
+:just_pca_c710.10.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c710.10.600 :temJustificacao :just_pca_c710.10.600 .
+:just_pca_c710.10.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.[Lei 50/2006], LQCA, art.º 40º - Prazo prescricional das contraordenações ambientais." .
+:just_pca_c710.10.600 :temCriterio :just_pca_c710.10.600_0. 
+:just_pca_c710.10.600_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c710.10.600_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c710.10.600_0 :critTemLegAssoc :leg_Lei_50_2006 .
+:just_pca_c710.10.600_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e dos PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização)." .
+:just_pca_c710.10.600 :temCriterio :just_pca_c710.10.600_1. 
+:just_pca_c710.10.600_1 :critTemProcRel :c500.10.001 .
+:just_pca_c710.10.600_1 :critTemProcRel :c500.10.301 .
+:c710.10.600 :temDF :df_c710.10.600.
+###  http://jcr.di.uminho.pt/m51-clav#df_c710.10.600
+:df_c710.10.600 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c710.10.600 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c710.10.600
+:just_df_c710.10.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c710.10.600 :temJustificacao :just_df_c710.10.600 .
+:just_df_c710.10.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos (casos tratados)." .
+:just_df_c710.10.600 :temCriterio :just_df_c710.10.600_0. 
+:just_df_c710.10.600_0 :critTemProcRel :c150.20.300 .
+:just_df_c710.10.600_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.20
+:c710.20 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N2 ;
+	:codigo '710.20' ;
+	:titulo 'Serviços mortuários' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710 ;
+	:descricao 'Compreende a prestação de serviços relacionados com a gestão de restos mortais e de outras atividades dos cemitérios, centros funerários e outros espaços adequados.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_33d5911b0b39
+:nota_710.20_33d5911b0b39 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Trasladações".
+
+:c710.20 :temNotaAplicacao :nota_710.20_33d5911b0b39 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_f52f79295022
+:nota_710.20_f52f79295022 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Inumações".
+
+:c710.20 :temNotaAplicacao :nota_710.20_f52f79295022 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_5d51b268b205
+:nota_710.20_5d51b268b205 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Exumações".
+
+:c710.20 :temNotaAplicacao :nota_710.20_5d51b268b205 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_2975f7839caf
+:nota_710.20_2975f7839caf rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Cremações".
+
+:c710.20 :temNotaAplicacao :nota_710.20_2975f7839caf .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_bf081065ccef
+:nota_710.20_bf081065ccef rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Serviços prestados no quadro da gestão de restos mortais".
+
+:c710.20 :temNotaAplicacao :nota_710.20_bf081065ccef .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_35875b6b71e4
+:nota_710.20_35875b6b71e4 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A concessão de terrenos em cemitérios deve ser considerada em “Administração de direitos, bens e serviços/ Concessão e parceria público-privada” (300.20)".
+
+:c710.20 :temNotaExclusao :nota_710.20_35875b6b71e4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_7513ef1fce5c
+:nota_710.20_7513ef1fce5c rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O licenciamento deve ser considerado em “Reconhecimentos e permissões/ Licenciamentos, certificações e outras autorizações” (450.10)".
+
+:c710.20 :temNotaExclusao :nota_710.20_7513ef1fce5c .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.20.001
+:c710.20.001 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '710.20.001' ;
+	:titulo 'Inumação e cremação de restos mortais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710.20 ;
+	:descricao 'Colocação de cadáver em sepultura, jazigo ou local de consumpção aeróbia ou redução de cadáver ou ossadas a cinzas. Inicia com o pedido e termina com a inumação ou com a entrega de cinzas. Inclui identificação de cadáver, ossadas, cinzas e de óbito, análise do pedido, cálculo do valor da taxa, comprovativo de pagamento e cremação, quando devido. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_1e3528f081ac
+:nota_710.20.001_1e3528f081ac rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Cremação de cadáveres e ossadas".
+
+:c710.20.001 :temNotaAplicacao :nota_710.20.001_1e3528f081ac .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_b3a7ac70498d
+:nota_710.20.001_b3a7ac70498d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Cremação de fetos mortos e peças anatómicas".
+
+:c710.20.001 :temNotaAplicacao :nota_710.20.001_b3a7ac70498d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_3d1834905403
+:nota_710.20.001_3d1834905403 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Inumação de cinzas".
+
+:c710.20.001 :temNotaAplicacao :nota_710.20.001_3d1834905403 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_77807017b1f5
+:nota_710.20.001_77807017b1f5 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Inumação em local de consumpção aeróbia".
+
+:c710.20.001 :temNotaAplicacao :nota_710.20.001_77807017b1f5 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_007eb77d3d4d
+:nota_710.20.001_007eb77d3d4d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Inumação em sepultura ou jazigo".
+
+:c710.20.001 :temNotaAplicacao :nota_710.20.001_007eb77d3d4d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_23db1d218d57
+:nota_710.20.001_23db1d218d57 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c710.20.001 :temNotaExclusao :nota_710.20.001_23db1d218d57 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_94615aa2a539
+:nota_710.20.001_94615aa2a539 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A entrega de cinzas inumadas deve ser considerada em 710.20.002 – Entrega de cinzas inumadas".
+
+:c710.20.001 :temNotaExclusao :nota_710.20.001_94615aa2a539 .
+
+:c710.20.001 :processoTipoVC :vc_processoTipo_pe .
+:c710.20.001 :processoTransversal "S" .
+:c710.20.001 :temDono :tip_AL .
+:c710.20.001 :temParticipanteIniciador :ent_INMLCF .
+:c710.20.001 :temLegislacao :leg_DL_138_2000 .
+:c710.20.001 :temLegislacao :leg_DL_109_2010 .
+:c710.20.001 :temLegislacao :leg_DL_5_2000 .
+:c710.20.001 :temLegislacao :leg_DL_411_98 .
+:c710.20.001 :temRelProc :c450.30.504 .
+:c710.20.001 :eSucessorDe :c450.30.504 .
+:c710.20.001 :temRelProc :c500.10.001 .
+:c710.20.001 :eSuplementoPara :c500.10.001 .
+:c710.20.001 :temRelProc :c710.20.004 .
+:c710.20.001 :eSucessorDe :c710.20.004 .
+:c710.20.001 :temRelProc :c710.20.600 .
+:c710.20.001 :eSucessorDe :c710.20.600 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.20.001.01
+:c710.20.001.01 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '710.20.001.01' ;
+	:titulo 'Inumação e cremação de restos mortais: identificação de restos mortais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710.20.001 ;
+	:descricao 'Receção, registo e guarda dos elementos de identificação do cadáver e de certificação do óbito.' .
+:c710.20.001.01 :temPCA :pca_c710.20.001.01.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c710.20.001.01
+:pca_c710.20.001.01 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c710.20.001.01 :pcaValor 10.0.
+:pca_c710.20.001.01 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c710.20.001.01
+:just_pca_c710.20.001.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c710.20.001.01 :temJustificacao :just_pca_c710.20.001.01 .
+:just_pca_c710.20.001.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c710.20.001.01 :temCriterio :just_pca_c710.20.001.01_0. 
+:just_pca_c710.20.001.01_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c710.20.001.01_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c710.20.001.01_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c710.20.001.01 :temCriterio :just_pca_c710.20.001.01_1. 
+:just_pca_c710.20.001.01_1 :critTemProcRel :c500.10.001 .
+:c710.20.001.01 :temDF :df_c710.20.001.01.
+###  http://jcr.di.uminho.pt/m51-clav#df_c710.20.001.01
+:df_c710.20.001.01 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c710.20.001.01 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c710.20.001.01
+:just_df_c710.20.001.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c710.20.001.01 :temJustificacao :just_df_c710.20.001.01 .
+:just_df_c710.20.001.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 411/98], art.º 9, n.º 7 \"...entidade responsável pela administração do cemitério procede ao arquivamento do boletim de óbito\"." .
+:just_df_c710.20.001.01 :temCriterio :just_df_c710.20.001.01_0. 
+:just_df_c710.20.001.01_0 :critTemLegAssoc :leg_DL_411_98 .
+:just_df_c710.20.001.01_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Sintetiza a informação de 710.20.001.02 – Inumação e cremação de restos mortais: execução." .
+:just_df_c710.20.001.01 :temCriterio :just_df_c710.20.001.01_1. 
+:just_df_c710.20.001.01_1 :critTemProcRel :c710.20.001 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.20.001.02
+:c710.20.001.02 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '710.20.001.02' ;
+	:titulo 'Inumação e cremação de restos mortais: execução' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710.20.001 ;
+	:descricao 'Receção e análise do pedido, cálculo do valor da taxa, comprovativo de pagamento e execução da inumação ou cremação. ' .
+:c710.20.001.02 :temPCA :pca_c710.20.001.02.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c710.20.001.02
+:pca_c710.20.001.02 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c710.20.001.02 :pcaValor 10.0.
+:pca_c710.20.001.02 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c710.20.001.02
+:just_pca_c710.20.001.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c710.20.001.02 :temJustificacao :just_pca_c710.20.001.02 .
+:just_pca_c710.20.001.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c710.20.001.02 :temCriterio :just_pca_c710.20.001.02_0. 
+:just_pca_c710.20.001.02_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c710.20.001.02_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c710.20.001.02_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c710.20.001.02 :temCriterio :just_pca_c710.20.001.02_1. 
+:just_pca_c710.20.001.02_1 :critTemProcRel :c500.10.001 .
+:c710.20.001.02 :temDF :df_c710.20.001.02.
+###  http://jcr.di.uminho.pt/m51-clav#df_c710.20.001.02
+:df_c710.20.001.02 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c710.20.001.02 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c710.20.001.02
+:just_df_c710.20.001.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c710.20.001.02 :temJustificacao :just_df_c710.20.001.02 .
+:just_df_c710.20.001.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada em 710.20.001.01 - Inumação e cremação de restos mortais: identificação de restos mortais." .
+:just_df_c710.20.001.02 :temCriterio :just_df_c710.20.001.02_0. 
+:just_df_c710.20.001.02_0 :critTemProcRel :c710.20.001 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.20.002
+:c710.20.002 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '710.20.002' ;
+	:titulo 'Entrega de cinzas inumadas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710.20 ;
+	:descricao 'Saída de cinzas inumadas em qualquer construção funerária, salvo cendrário. Inicia com o pedido e termina com a entrega das cinzas. Inclui verificação dos elementos instrutórios e dos requisitos legais.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.002_9f17525d6cbd
+:nota_710.20.002_9f17525d6cbd rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A entrega de cinzas imediatamente após cremação deve ser considerada em 710.20.001 – Inumação e cremação de restos mortais".
+
+:c710.20.002 :temNotaExclusao :nota_710.20.002_9f17525d6cbd .
+
+:c710.20.002 :processoTipoVC :vc_processoTipo_pe .
+:c710.20.002 :processoTransversal "N" .
+:c710.20.002 :temDono :tip_AL .
+:c710.20.002 :temLegislacao :leg_DL_138_2000 .
+:c710.20.002 :temLegislacao :leg_DL_5_2000 .
+:c710.20.002 :temLegislacao :leg_DL_411_98 .
+:c710.20.002 :temLegislacao :leg_Lei_98_97 .
+:c710.20.002 :temLegislacao :leg_DL_433_82 .
+:c710.20.002 :temRelProc :c150.20.300 .
+:c710.20.002 :eSintetizadoPor :c150.20.300 .
+:c710.20.002 :temRelProc :c300.30.008 .
+:c710.20.002 :eSintetizadoPor :c300.30.008 .
+:c710.20.002 :temRelProc :c500.10.001 .
+:c710.20.002 :eSuplementoPara :c500.10.001 .
+:c710.20.002 :temPCA :pca_c710.20.002.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c710.20.002
+:pca_c710.20.002 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c710.20.002 :pcaValor 10.0.
+:pca_c710.20.002 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c710.20.002
+:just_pca_c710.20.002 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c710.20.002 :temJustificacao :just_pca_c710.20.002 .
+:just_pca_c710.20.002_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c710.20.002 :temCriterio :just_pca_c710.20.002_0. 
+:just_pca_c710.20.002_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c710.20.002_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c710.20.002_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c710.20.002 :temCriterio :just_pca_c710.20.002_1. 
+:just_pca_c710.20.002_1 :critTemProcRel :c500.10.001 .
+:c710.20.002 :temDF :df_c710.20.002.
+###  http://jcr.di.uminho.pt/m51-clav#df_c710.20.002
+:df_c710.20.002 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c710.20.002 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c710.20.002
+:just_df_c710.20.002 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c710.20.002 :temJustificacao :just_df_c710.20.002 .
+:just_df_c710.20.002_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos (registo dos casos tratados, intervenientes e etapas)." .
+:just_df_c710.20.002 :temCriterio :just_df_c710.20.002_0. 
+:just_df_c710.20.002_0 :critTemProcRel :c150.20.300 .
+:just_df_c710.20.002_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.20.003
+:c710.20.003 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '710.20.003' ;
+	:titulo 'Identificação de restos mortais abandonados em cemitérios' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710.20 ;
+	:descricao 'Reconhecimento da condição de abandono de restos mortais. Inicia com a verificação das condições de abandono e termina com o registo. Inclui elaboração e envio de notificação aos interessados e para publicitação e definição do destino a dar aos restos mortais, quando devido.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.003_4735b2d7b70b
+:nota_710.20.003_4735b2d7b70b rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Identificação de restos mortais em compartimentos municipais por falta de pagamento".
+
+:c710.20.003 :temNotaAplicacao :nota_710.20.003_4735b2d7b70b .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.003_9bbfea034e71
+:nota_710.20.003_9bbfea034e71 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Identificação de restos mortais em jazigos particulares e sepulturas perpétuas na sequência de prescrição ou renúncia da concessão".
+
+:c710.20.003 :temNotaAplicacao :nota_710.20.003_9bbfea034e71 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.003_c0f89598b6b4
+:nota_710.20.003_c0f89598b6b4 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Identificação de restos mortais em sepulturas temporárias cuja exumação não foi agendada".
+
+:c710.20.003 :temNotaAplicacao :nota_710.20.003_c0f89598b6b4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.003_6aea813471a3
+:nota_710.20.003_6aea813471a3 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Renúncia a direitos sobre restos mortais por parte dos interessados".
+
+:c710.20.003 :temNotaAplicacao :nota_710.20.003_6aea813471a3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.003_d57eb6de24ad
+:nota_710.20.003_d57eb6de24ad rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pedidos de informação sobre localização de restos mortais devem ser considerados em 900.20.604 – Tratamento de informações e processamento de pedidos de informação".
+
+:c710.20.003 :temNotaExclusao :nota_710.20.003_d57eb6de24ad .
+
+:c710.20.003 :processoTipoVC :vc_processoTipo_pe .
+:c710.20.003 :processoTransversal "N" .
+:c710.20.003 :temDono :tip_AL .
+:c710.20.003 :temLegislacao :leg_DL_138_2000 .
+:c710.20.003 :temLegislacao :leg_DL_5_2000 .
+:c710.20.003 :temLegislacao :leg_DL_411_98 .
+:c710.20.003 :temLegislacao :leg_Lei_98_97 .
+:c710.20.003 :temLegislacao :leg_DL_433_82 .
+:c710.20.003 :temRelProc :c150.20.300 .
+:c710.20.003 :eSintetizadoPor :c150.20.300 .
+:c710.20.003 :temRelProc :c300.30.008 .
+:c710.20.003 :eSintetizadoPor :c300.30.008 .
+:c710.20.003 :temRelProc :c500.10.001 .
+:c710.20.003 :eSuplementoPara :c500.10.001 .
+:c710.20.003 :temRelProc :c800.10.603 .
+:c710.20.003 :eCruzadoCom :c800.10.603 .
+:c710.20.003 :temRelProc :c800.10.609 .
+:c710.20.003 :eCruzadoCom :c800.10.609 .
+:c710.20.003 :temPCA :pca_c710.20.003.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c710.20.003
+:pca_c710.20.003 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c710.20.003 :pcaValor 10.0.
+:pca_c710.20.003 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c710.20.003
+:just_pca_c710.20.003 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c710.20.003 :temJustificacao :just_pca_c710.20.003 .
+:just_pca_c710.20.003_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c710.20.003 :temCriterio :just_pca_c710.20.003_0. 
+:just_pca_c710.20.003_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c710.20.003_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c710.20.003_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c710.20.003 :temCriterio :just_pca_c710.20.003_1. 
+:just_pca_c710.20.003_1 :critTemProcRel :c500.10.001 .
+:c710.20.003 :temDF :df_c710.20.003.
+###  http://jcr.di.uminho.pt/m51-clav#df_c710.20.003
+:df_c710.20.003 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c710.20.003 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c710.20.003
+:just_df_c710.20.003 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c710.20.003 :temJustificacao :just_df_c710.20.003 .
+:just_df_c710.20.003_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos (registo dos casos tratados, intervenientes e etapas)." .
+:just_df_c710.20.003 :temCriterio :just_df_c710.20.003_0. 
+:just_df_c710.20.003_0 :critTemProcRel :c150.20.300 .
+:just_df_c710.20.003_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.20.004
+:c710.20.004 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '710.20.004' ;
+	:titulo 'Entrega de restos mortais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710.20 ;
+	:descricao 'Transferência da responsabilidade sobre os restos mortais a fim de se proceder à autópsia, inumação, cremação ou uso para investigação. Inicia com o aviso de óbito ou com o pedido de levantamento de cadáver e termina com a entrega dos restos mortais. Inclui verificação da legitimidade. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_5b7abdca9175
+:nota_710.20.004_5b7abdca9175 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Entrega de restos mortais a agencias funerárias".
+
+:c710.20.004 :temNotaAplicacao :nota_710.20.004_5b7abdca9175 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_af6c7689112c
+:nota_710.20.004_af6c7689112c rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Entrega de restos mortais a centros de investigação".
+
+:c710.20.004 :temNotaAplicacao :nota_710.20.004_af6c7689112c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_1b4652390f75
+:nota_710.20.004_1b4652390f75 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Entrega de restos mortais para autópsia".
+
+:c710.20.004 :temNotaAplicacao :nota_710.20.004_1b4652390f75 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_19442053ba64
+:nota_710.20.004_19442053ba64 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Entrega de restos mortais para investigação forense".
+
+:c710.20.004 :temNotaAplicacao :nota_710.20.004_19442053ba64 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_cdcc690924f6
+:nota_710.20.004_cdcc690924f6 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Reclamação de restos mortais".
+
+:c710.20.004 :temNotaAplicacao :nota_710.20.004_cdcc690924f6 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_9f55d314c120
+:nota_710.20.004_9f55d314c120 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A trasladação de deve ser considerada em 710.20.601 – Trasladação de cadáveres e ossadas".
+
+:c710.20.004 :temNotaExclusao :nota_710.20.004_9f55d314c120 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_30d5cbf206b0
+:nota_710.20.004_30d5cbf206b0 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A autorização para realização de trabalhos de investigação que tenham por base o estudo de restos mortais, deve ser considerada em 450.10.073 – Licenciamento ou autorização de atividades de investigação científica e de desenvolvimento".
+
+:c710.20.004 :temNotaExclusao :nota_710.20.004_30d5cbf206b0 .
+
+:c710.20.004 :processoTipoVC :vc_processoTipo_pe .
+:c710.20.004 :processoTransversal "S" .
+:c710.20.004 :temDono :ent_INMLCF .
+:c710.20.004 :temDono :tip_FA .
+:c710.20.004 :temDono :ent_DGACCP .
+:c710.20.004 :temDono :tip_HH .
+:c710.20.004 :temParticipanteAssessor :tip_AL .
+:c710.20.004 :temParticipanteAssessor :tip_Cns .
+:c710.20.004 :temLegislacao :leg_Lei_12_99 .
+:c710.20.004 :temLegislacao :leg_Portaria_165_2014 .
+:c710.20.004 :temLegislacao :leg_DL_411_98 .
+:c710.20.004 :temLegislacao :leg_DL_48_95 .
+:c710.20.004 :temRelProc :c150.20.300 .
+:c710.20.004 :eSintetizadoPor :c150.20.300 .
+:c710.20.004 :temRelProc :c300.30.008 .
+:c710.20.004 :eSintetizadoPor :c300.30.008 .
+:c710.20.004 :temRelProc :c500.10.001 .
+:c710.20.004 :eSuplementoPara :c500.10.001 .
+:c710.20.004 :temRelProc :c710.20.001 .
+:c710.20.004 :eAntecessorDe :c710.20.001 .
+:c710.20.004 :temRelProc :c800.10.603 .
+:c710.20.004 :eCruzadoCom :c800.10.603 .
+:c710.20.004 :temRelProc :c800.10.609 .
+:c710.20.004 :eCruzadoCom :c800.10.609 .
+:c710.20.004 :temRelProc :c710.20.300 .
+:c710.20.004 :eAntecessorDe :c710.20.300 .
+:c710.20.004 :temPCA :pca_c710.20.004.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c710.20.004
+:pca_c710.20.004 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c710.20.004 :pcaValor 15.0.
+:pca_c710.20.004 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c710.20.004
+:just_pca_c710.20.004 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c710.20.004 :temJustificacao :just_pca_c710.20.004 .
+:just_pca_c710.20.004_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 48/95], CP, art.º 118º - Prazo prescricional do procedimento criminal." .
+:just_pca_c710.20.004 :temCriterio :just_pca_c710.20.004_0. 
+:just_pca_c710.20.004_0 :critTemLegAssoc :leg_DL_48_95 .
+:just_pca_c710.20.004_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c710.20.004 :temCriterio :just_pca_c710.20.004_1. 
+:just_pca_c710.20.004_1 :critTemProcRel :c500.10.001 .
+:c710.20.004 :temDF :df_c710.20.004.
+###  http://jcr.di.uminho.pt/m51-clav#df_c710.20.004
+:df_c710.20.004 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c710.20.004 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c710.20.004
+:just_df_c710.20.004 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c710.20.004 :temJustificacao :just_df_c710.20.004 .
+:just_df_c710.20.004_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos (registo dos casos tratados, intervenientes e etapas)." .
+:just_df_c710.20.004 :temCriterio :just_df_c710.20.004_0. 
+:just_df_c710.20.004_0 :critTemProcRel :c150.20.300 .
+:just_df_c710.20.004_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.20.300
+:c710.20.300 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '710.20.300' ;
+	:titulo 'Exumação de cadáveres e ossadas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710.20 ;
+	:descricao 'Abertura e recolha de restos mortais inumados em sepultura, local de consumpção aeróbia ou caixão de metal. Inicia com o pedido e termina com a exumação de restos mortais. Inclui verificação de elementos instrutórios, análise do pedido, verificação dos requisitos legais aplicáveis, cálculo do valor da taxa devida e comprovativo do seu pagamento, abertura de urna e recolha de restos mortais e relato de ocorrências. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_f926cd26c5fd
+:nota_710.20.300_f926cd26c5fd rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Abertura de caixão de metal ou de madeira".
+
+:c710.20.300 :temNotaAplicacao :nota_710.20.300_f926cd26c5fd .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_fa6b7de598f3
+:nota_710.20.300_fa6b7de598f3 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Abertura de local de consumpção aeróbia".
+
+:c710.20.300 :temNotaAplicacao :nota_710.20.300_fa6b7de598f3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_1a6a2555183b
+:nota_710.20.300_1a6a2555183b rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Abertura de sepultura".
+
+:c710.20.300 :temNotaAplicacao :nota_710.20.300_1a6a2555183b .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_999b0d00c58b
+:nota_710.20.300_999b0d00c58b rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Exumação de cadáver por decisão judicial".
+
+:c710.20.300 :temNotaAplicacao :nota_710.20.300_999b0d00c58b .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_733f0ea48310
+:nota_710.20.300_733f0ea48310 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c710.20.300 :temNotaExclusao :nota_710.20.300_733f0ea48310 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_803a1a481f54
+:nota_710.20.300_803a1a481f54 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As escavações e tratamento científico das ossadas encontradas em contextos arqueológicos / antropológicos no âmbito de projetos de investigação arqueológica devem ser consideradas em 800.20.500 – Desenvolvimento experimental e aplicacional".
+
+:c710.20.300 :temNotaExclusao :nota_710.20.300_803a1a481f54 .
+
+:c710.20.300 :processoTipoVC :vc_processoTipo_pe .
+:c710.20.300 :processoTransversal "S" .
+:c710.20.300 :temDono :tip_AL .
+:c710.20.300 :temParticipanteIniciador :tip_Trb .
+:c710.20.300 :temLegislacao :leg_DL_138_2000 .
+:c710.20.300 :temLegislacao :leg_DL_5_2000 .
+:c710.20.300 :temLegislacao :leg_DL_411_98 .
+:c710.20.300 :temLegislacao :leg_DL_48_95 .
+:c710.20.300 :temRelProc :c150.20.300 .
+:c710.20.300 :eSintetizadoPor :c150.20.300 .
+:c710.20.300 :temRelProc :c300.30.008 .
+:c710.20.300 :eSintetizadoPor :c300.30.008 .
+:c710.20.300 :temRelProc :c500.10.001 .
+:c710.20.300 :eSuplementoPara :c500.10.001 .
+:c710.20.300 :temRelProc :c800.10.603 .
+:c710.20.300 :eCruzadoCom :c800.10.603 .
+:c710.20.300 :temRelProc :c800.10.609 .
+:c710.20.300 :eCruzadoCom :c800.10.609 .
+:c710.20.300 :temPCA :pca_c710.20.300.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c710.20.300
+:pca_c710.20.300 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c710.20.300 :pcaValor 15.0.
+:pca_c710.20.300 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c710.20.300
+:just_pca_c710.20.300 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c710.20.300 :temJustificacao :just_pca_c710.20.300 .
+:just_pca_c710.20.300_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 48/95], CP, art.º 118º - Prazo prescricional do procedimento criminal." .
+:just_pca_c710.20.300 :temCriterio :just_pca_c710.20.300_0. 
+:just_pca_c710.20.300_0 :critTemLegAssoc :leg_DL_48_95 .
+:just_pca_c710.20.300_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c710.20.300 :temCriterio :just_pca_c710.20.300_1. 
+:just_pca_c710.20.300_1 :critTemProcRel :c500.10.001 .
+:c710.20.300 :temDF :df_c710.20.300.
+###  http://jcr.di.uminho.pt/m51-clav#df_c710.20.300
+:df_c710.20.300 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c710.20.300 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c710.20.300
+:just_df_c710.20.300 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c710.20.300 :temJustificacao :just_df_c710.20.300 .
+:just_df_c710.20.300_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos (registo dos casos tratados, intervenientes e etapas)." .
+:just_df_c710.20.300 :temCriterio :just_df_c710.20.300_0. 
+:just_df_c710.20.300_0 :critTemProcRel :c150.20.300 .
+:just_df_c710.20.300_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.20.600
+:c710.20.600 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '710.20.600' ;
+	:titulo 'Depósito de urnas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710.20 ;
+	:descricao 'Guarda temporária de urnas com restos mortais em cemitérios e em outros espaços autorizados. Inicia com o pedido e termina com o levantamento da urna. Inclui verificação de elementos instrutórios, análise do pedido, cálculo da taxa devida e comprovativo do seu pagamento. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.600_f51f4cbb9ceb
+:nota_710.20.600_f51f4cbb9ceb rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Depósito de ossadas a aguardar cremação".
+
+:c710.20.600 :temNotaAplicacao :nota_710.20.600_f51f4cbb9ceb .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.600_98cdd38a8369
+:nota_710.20.600_98cdd38a8369 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Depósito de urnas em câmara frigoríficas".
+
+:c710.20.600 :temNotaAplicacao :nota_710.20.600_98cdd38a8369 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.600_740ced3ea0d6
+:nota_710.20.600_740ced3ea0d6 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Depósito de urnas provenientes de construções funerárias em obras".
+
+:c710.20.600 :temNotaAplicacao :nota_710.20.600_740ced3ea0d6 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.600_c25c3853a0f8
+:nota_710.20.600_c25c3853a0f8 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c710.20.600 :temNotaExclusao :nota_710.20.600_c25c3853a0f8 .
+
+:c710.20.600 :processoTipoVC :vc_processoTipo_pe .
+:c710.20.600 :processoTransversal "S" .
+:c710.20.600 :temDono :tip_AL .
+:c710.20.600 :temDono :tip_FA .
+:c710.20.600 :temDono :tip_HH .
+:c710.20.600 :temDono :ent_DGS .
+:c710.20.600 :temDono :ent_DGACCP .
+:c710.20.600 :temParticipanteAssessor :tip_Cns .
+:c710.20.600 :temLegislacao :leg_DL_138_2000 .
+:c710.20.600 :temLegislacao :leg_DL_109_2010 .
+:c710.20.600 :temLegislacao :leg_DL_5_2000 .
+:c710.20.600 :temLegislacao :leg_DL_411_98 .
+:c710.20.600 :temLegislacao :leg_Lei_98_97 .
+:c710.20.600 :temLegislacao :leg_DL_433_82 .
+:c710.20.600 :temRelProc :c150.20.300 .
+:c710.20.600 :eSintetizadoPor :c150.20.300 .
+:c710.20.600 :temRelProc :c300.30.008 .
+:c710.20.600 :eSintetizadoPor :c300.30.008 .
+:c710.20.600 :temRelProc :c500.10.001 .
+:c710.20.600 :eSuplementoPara :c500.10.001 .
+:c710.20.600 :temRelProc :c710.20.001 .
+:c710.20.600 :eAntecessorDe :c710.20.001 .
+:c710.20.600 :temRelProc :c710.20.601 .
+:c710.20.600 :eAntecessorDe :c710.20.601 .
+:c710.20.600 :temPCA :pca_c710.20.600.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c710.20.600
+:pca_c710.20.600 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c710.20.600 :pcaValor 10.0.
+:pca_c710.20.600 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c710.20.600
+:just_pca_c710.20.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c710.20.600 :temJustificacao :just_pca_c710.20.600 .
+:just_pca_c710.20.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c710.20.600 :temCriterio :just_pca_c710.20.600_0. 
+:just_pca_c710.20.600_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c710.20.600_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c710.20.600_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c710.20.600 :temCriterio :just_pca_c710.20.600_1. 
+:just_pca_c710.20.600_1 :critTemProcRel :c500.10.001 .
+:c710.20.600 :temDF :df_c710.20.600.
+###  http://jcr.di.uminho.pt/m51-clav#df_c710.20.600
+:df_c710.20.600 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c710.20.600 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c710.20.600
+:just_df_c710.20.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c710.20.600 :temJustificacao :just_df_c710.20.600 .
+:just_df_c710.20.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos (registo dos casos tratados, intervenientes e etapas)." .
+:just_df_c710.20.600 :temCriterio :just_df_c710.20.600_0. 
+:just_df_c710.20.600_0 :critTemProcRel :c150.20.300 .
+:just_df_c710.20.600_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c710.20.601
+:c710.20.601 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '710.20.601' ;
+	:titulo 'Trasladação de cadáveres e ossadas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c710.20 ;
+	:descricao 'Transporte de cadáver ou de ossadas para local diferente daquele em que se encontram a fim de serem de novo inumados, cremados ou colocados em ossário. Inicia com o pedido e termina com a entrega dos restos mortais. Inclui verificação dos elementos instrutórios, verificação dos requisitos legais, cálculo da taxa devida e comprovativo do seu pagamento. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.601_e00039f7bc12
+:nota_710.20.601_e00039f7bc12 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c710.20.601 :temNotaExclusao :nota_710.20.601_e00039f7bc12 .
+
+:c710.20.601 :processoTipoVC :vc_processoTipo_pe .
+:c710.20.601 :processoTransversal "S" .
+:c710.20.601 :temDono :tip_AL .
+:c710.20.601 :temDono :tip_HH .
+:c710.20.601 :temDono :tip_FA .
+:c710.20.601 :temDono :ent_DGS .
+:c710.20.601 :temDono :ent_DGACCP .
+:c710.20.601 :temParticipanteAssessor :tip_Cns .
+:c710.20.601 :temLegislacao :leg_DL_138_2000 .
+:c710.20.601 :temLegislacao :leg_DL_5_2000 .
+:c710.20.601 :temLegislacao :leg_DL_411_98 .
+:c710.20.601 :temLegislacao :leg_Lei_98_97 .
+:c710.20.601 :temLegislacao :leg_DL_433_82 .
+:c710.20.601 :temRelProc :c150.20.300 .
+:c710.20.601 :eSintetizadoPor :c150.20.300 .
+:c710.20.601 :temRelProc :c300.30.008 .
+:c710.20.601 :eSintetizadoPor :c300.30.008 .
+:c710.20.601 :temRelProc :c500.10.001 .
+:c710.20.601 :eSuplementoPara :c500.10.001 .
+:c710.20.601 :temRelProc :c710.20.600 .
+:c710.20.601 :eSucessorDe :c710.20.600 .
+:c710.20.601 :temRelProc :c800.10.609 .
+:c710.20.601 :eCruzadoCom :c800.10.609 .
+:c710.20.601 :temPCA :pca_c710.20.601.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c710.20.601
+:pca_c710.20.601 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c710.20.601 :pcaValor 10.0.
+:pca_c710.20.601 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c710.20.601
+:just_pca_c710.20.601 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c710.20.601 :temJustificacao :just_pca_c710.20.601 .
+:just_pca_c710.20.601_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c710.20.601 :temCriterio :just_pca_c710.20.601_0. 
+:just_pca_c710.20.601_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c710.20.601_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c710.20.601_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c710.20.601 :temCriterio :just_pca_c710.20.601_1. 
+:just_pca_c710.20.601_1 :critTemProcRel :c500.10.001 .
+:c710.20.601 :temDF :df_c710.20.601.
+###  http://jcr.di.uminho.pt/m51-clav#df_c710.20.601
+:df_c710.20.601 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c710.20.601 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c710.20.601
+:just_df_c710.20.601 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c710.20.601 :temJustificacao :just_df_c710.20.601 .
+:just_df_c710.20.601_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente nosPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 300.30.008 - Registo de documentos (registo dos casos tratados, intervenientes e etapas)." .
+:just_df_c710.20.601 :temCriterio :just_df_c710.20.601_0. 
+:just_df_c710.20.601_0 :critTemProcRel :c150.20.300 .
+:just_df_c710.20.601_0 :critTemProcRel :c300.30.008 .

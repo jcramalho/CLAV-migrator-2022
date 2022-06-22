@@ -14,6 +14,7 @@ n2 = re.compile(r'^\d{3}\.\d{1,3}$')
 n1 = re.compile(r'^\d{3}$')
 
 brancos = re.compile(r'\r\n|\n|\r|[ \u202F\u00A0]+$|^[ \u202F\u00A0]+')
+norm_brancos = re.compile(r'(\r\n|\n|\r|[ \u202F\u00A0])+')
 sepExtra = re.compile(r'#$|^#')
 
 # Calcula e normaliza o estado da classe
@@ -56,7 +57,7 @@ def procNotas(notas, codClasse, chave1=None, chave2=None):
     notas = sepExtra.sub('', notas)
     filtradas = notas.split('#')
     for na in filtradas:
-        na = re.sub('\"', '\"', na)
+        na = re.sub(r'\"', '\\\"', na)
         res.append({
             chave1: chave2 + '_' + codClasse + '_' + generate('1234567890abcdef', 12),
             chave2: na
@@ -70,7 +71,7 @@ def calcSubdivisoes(df):
     for index, row in df.iterrows():
         if row["Código"]:
             # Código -----
-            codigo = re.sub(r'(\r\n|\n|\r)','', str(row["Código"]))
+            codigo = re.sub(r'(\r\n|\n|\r|[ \u202F\u00A0])','', str(row["Código"]))
             # Nível -----
             nivel = calcNivel(codigo)
             if nivel == 3:
@@ -111,7 +112,7 @@ def processSheet(sheet, nome):
         myReg = {}
         if row["Código"]:
             # Código -----
-            myReg["codigo"] = re.sub(r'(\r\n|\n|\r)','', str(row["Código"]))
+            myReg["codigo"] = re.sub(r'(\r\n|\n|\r|[ \u202F\u00A0])','', str(row["Código"]))
             # Nível -----
             myReg["nivel"] = calcNivel(myReg["codigo"])
             # Estado -----
@@ -128,7 +129,7 @@ def processSheet(sheet, nome):
                 if myReg["estado"] != 'H':
                     ListaErros.append('Erro::' + myReg['codigo'] + '::classe sem título')
             # Descrição -----
-            myReg["descricao"] = row["Descrição"]
+            myReg["descricao"] = norm_brancos.sub(' ', str(row["Descrição"]))
             # Notas de aplicação -----
             if row["Notas de aplicação"]:
                 myReg["notasAp"] = procNotas(row["Notas de aplicação"], myReg["codigo"])

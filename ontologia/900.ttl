@@ -1,0 +1,4017 @@
+
+###  http://jcr.di.uminho.pt/m51-clav#c900
+:c900 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N1 ;
+	:codigo '900' ;
+	:titulo 'PROTOCOLO, DINAMIZAÇÃO E COMUNICAÇÃO INSTITUCIONAL' ;
+	:pertenceLC :lc1 ;
+	:temPai :lc1 ;
+	:descricao 'Relativo à conceção, produção, organização e comunicação (por qualquer meio ou forma) de eventos, conteúdos informativos ou outros produtos e serviços que sirvam para melhorar a perceção e o conhecimento dos organismos e respetivas atividades, ou para sensibilizar para programas, atitudes ou valores que os serviços promovam.' .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10
+:c900.10 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N2 ;
+	:codigo '900.10' ;
+	:titulo 'Execução de atividades de dinamização da sociedade' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900 ;
+	:descricao 'Compreende as atividades de conceção, de produção, de organização ou participação na organização de eventos, como sejam conferências, encontros, seminários, debates, exposições, festivais, espetáculos, ou outras atividades de caráter informativo, educativo, científico, cultural, desportivo, recreativo ou outro que estimulem a iniciativa e a participação das comunidades.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_7632961ff36c
+:nota_900.10_7632961ff36c rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Todo o processo técnico e protocolar de organização (planeamento operacional, ações comuns de divulgação, processamento de inscrições, etc.), bem como eventuais registos dos eventos (comunicações e discursos, registos sonoros, audiovisuais).".
+
+:c900.10 :temNotaAplicacao :nota_900.10_7632961ff36c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_b3a73b540566
+:nota_900.10_b3a73b540566 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Eventos e cerimónias desportivas".
+
+:c900.10 :temNotaAplicacao :nota_900.10_b3a73b540566 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_209b0ae7e588
+:nota_900.10_209b0ae7e588 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Cerimónias de entrega de prémios ou distinções honoríficas".
+
+:c900.10 :temNotaAplicacao :nota_900.10_209b0ae7e588 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_3a988a7fab6d
+:nota_900.10_3a988a7fab6d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Cerimónias e eventos comemorativos".
+
+:c900.10 :temNotaAplicacao :nota_900.10_3a988a7fab6d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_988c584958c5
+:nota_900.10_988c584958c5 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Ações de sensibilização".
+
+:c900.10 :temNotaAplicacao :nota_900.10_988c584958c5 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_c988715ee480
+:nota_900.10_c988715ee480 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Qualquer evento de divulgação e sensibilização pública ou dirigida a comunidades de interesse.".
+
+:c900.10 :temNotaAplicacao :nota_900.10_c988715ee480 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_f76683ddb58d
+:nota_900.10_f76683ddb58d rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A organização da representação nacional em eventos internacionais, a organização de eventos de promoção do país no estrangeiro e a colaboração na organização de eventos de promoção de países estrangeiros em Portugal, devem ser consideradas em \"Execução da política externa/ Projetos de execução da política externa\" (200.30).".
+
+:c900.10 :temNotaExclusao :nota_900.10_f76683ddb58d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_069816ccb3eb
+:nota_900.10_069816ccb3eb rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Conferências de imprensa devem ser consideradas em \"Dinamização e comunicação institucional/ Execução de atividades de protocolo e comunicação institucional\" (900.20)".
+
+:c900.10 :temNotaExclusao :nota_900.10_069816ccb3eb .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_b25c8f70971d
+:nota_900.10_b25c8f70971d rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O processo de publicação de atas ou outros registos de eventos deve ser considerado em \"Dinamização e comunicação institucional/ Execução de atividades de protocolo e comunicação institucional\" (900.20)".
+
+:c900.10 :temNotaExclusao :nota_900.10_b25c8f70971d .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10.001
+:c900.10.001 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.10.001' ;
+	:titulo 'Conceção e realização de atividades ou acontecimentos artísticos' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.10 ;
+	:descricao 'Criação e produção de iniciativas ou atividades artísticas de qualquer tipo. Inicia com a conceção da atividade ou obra e termina com a concretização da mesma. Inclui o desenvolvimento do conceito ou ideia, planeamento, estimativa dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável, definição dos meios de divulgação e produção.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001_8abcacb780e2
+:nota_900.10.001_8abcacb780e2 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Representação e exposição artística, teatral, cinematográfica, musical, televisiva".
+
+:c900.10.001 :temNotaAplicacao :nota_900.10.001_8abcacb780e2 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001_45cb84c3baaa
+:nota_900.10.001_45cb84c3baaa rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
+
+:c900.10.001 :temNotaExclusao :nota_900.10.001_45cb84c3baaa .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001_30c661819fbc
+:nota_900.10.001_30c661819fbc rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O processamento de despesas e receitas deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c900.10.001 :temNotaExclusao :nota_900.10.001_30c661819fbc .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001_35cdb2f3c094
+:nota_900.10.001_35cdb2f3c094 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As questões de segurança devem ser consideradas em 550.20.004 – Realização de piquetes de prevenção".
+
+:c900.10.001 :temNotaExclusao :nota_900.10.001_35cdb2f3c094 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001_bc74746134ed
+:nota_900.10.001_bc74746134ed rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A divulgação deve ser considerada em 900.20.201 - Edição e publicação de conteúdos".
+
+:c900.10.001 :temNotaExclusao :nota_900.10.001_bc74746134ed .
+
+:c900.10.001 :processoTipoVC :vc_processoTipo_pc .
+:c900.10.001 :processoTransversal "S" .
+:c900.10.001 :temDono :tip_AP .
+:c900.10.001 :temDono :tip_AL .
+:c900.10.001 :temDono :ent_CP .
+:c900.10.001 :temDono :tip_CCDR .
+:c900.10.001 :temDono :tip_IES .
+:c900.10.001 :temDono :ent_ACT .
+:c900.10.001 :temDono :ent_CASES .
+:c900.10.001 :temDono :ent_CGA .
+:c900.10.001 :temDono :ent_CITE .
+:c900.10.001 :temDono :ent_CNPDPCJ .
+:c900.10.001 :temDono :ent_CPL .
+:c900.10.001 :temDono :ent_CRL .
+:c900.10.001 :temDono :ent_DGERT .
+:c900.10.001 :temDono :ent_DGSS .
+:c900.10.001 :temDono :ent_GEP .
+:c900.10.001 :temDono :ent_IEFP .
+:c900.10.001 :temDono :ent_IGMTSSS .
+:c900.10.001 :temDono :ent_IGFCSS .
+:c900.10.001 :temDono :ent_IGFSS .
+:c900.10.001 :temDono :ent_II .
+:c900.10.001 :temDono :ent_INR .
+:c900.10.001 :temDono :ent_ISS .
+:c900.10.001 :temDono :ent_OIT .
+:c900.10.001 :temDono :ent_POISE .
+:c900.10.001 :temDono :ent_SGMTSSS .
+:c900.10.001 :temDono :ent_CV .
+:c900.10.001 :temParticipanteAssessor :tip_AP .
+:c900.10.001 :temParticipanteAssessor :tip_CCDR .
+:c900.10.001 :temParticipanteAssessor :ent_ICNF .
+:c900.10.001 :temParticipanteAssessor :ent_ACT .
+:c900.10.001 :temParticipanteAssessor :ent_CASES .
+:c900.10.001 :temParticipanteAssessor :ent_CGA .
+:c900.10.001 :temParticipanteAssessor :ent_CITE .
+:c900.10.001 :temParticipanteAssessor :ent_CNPDPCJ .
+:c900.10.001 :temParticipanteAssessor :ent_CPL .
+:c900.10.001 :temParticipanteAssessor :ent_CRL .
+:c900.10.001 :temParticipanteAssessor :ent_DGERT .
+:c900.10.001 :temParticipanteAssessor :ent_DGSS .
+:c900.10.001 :temParticipanteAssessor :ent_GEP .
+:c900.10.001 :temParticipanteAssessor :ent_IEFP .
+:c900.10.001 :temParticipanteAssessor :ent_IGMTSSS .
+:c900.10.001 :temParticipanteAssessor :ent_IGFCSS .
+:c900.10.001 :temParticipanteAssessor :ent_IGFSS .
+:c900.10.001 :temParticipanteAssessor :ent_II .
+:c900.10.001 :temParticipanteAssessor :ent_INR .
+:c900.10.001 :temParticipanteAssessor :ent_ISS .
+:c900.10.001 :temParticipanteAssessor :ent_OIT .
+:c900.10.001 :temParticipanteAssessor :ent_POISE .
+:c900.10.001 :temParticipanteAssessor :ent_SGMTSSS .
+:c900.10.001 :temParticipanteExecutor :ent_CV .
+:c900.10.001 :temLegislacao :leg_Lei_28_2014 .
+:c900.10.001 :temLegislacao :leg_DL_23_2014 .
+:c900.10.001 :temLegislacao :leg_Lei_107_2001 .
+:c900.10.001 :temLegislacao :leg_Decreto_Regulamentar_34_95 .
+:c900.10.001 :temRelProc :c300.10.005 .
+:c900.10.001 :eCruzadoCom :c300.10.005 .
+:c900.10.001 :temRelProc :c300.10.006 .
+:c900.10.001 :eSucessorDe :c300.10.006 .
+:c900.10.001 :temRelProc :c300.40.504 .
+:c900.10.001 :eCruzadoCom :c300.40.504 .
+:c900.10.001 :temRelProc :c300.50.202 .
+:c900.10.001 :eSucessorDe :c300.50.202 .
+:c900.10.001 :temRelProc :c300.50.204 .
+:c900.10.001 :eCruzadoCom :c300.50.204 .
+:c900.10.001 :temRelProc :c300.50.402 .
+:c900.10.001 :eSucessorDe :c300.50.402 .
+:c900.10.001 :temRelProc :c350.30.001 .
+:c900.10.001 :eCruzadoCom :c350.30.001 .
+:c900.10.001 :temRelProc :c450.10.072 .
+:c900.10.001 :eSucessorDe :c450.10.072 .
+:c900.10.001 :temRelProc :c450.10.205 .
+:c900.10.001 :eSucessorDe :c450.10.205 .
+:c900.10.001 :temRelProc :c450.10.649 .
+:c900.10.001 :eSucessorDe :c450.10.649 .
+:c900.10.001 :temRelProc :c500.10.001 .
+:c900.10.001 :eSuplementoPara :c500.10.001 .
+:c900.10.001 :temRelProc :c550.10.001 .
+:c900.10.001 :eCruzadoCom :c550.10.001 .
+:c900.10.001 :temRelProc :c550.10.002 .
+:c900.10.001 :eCruzadoCom :c550.10.002 .
+:c900.10.001 :temRelProc :c550.20.004 .
+:c900.10.001 :eCruzadoCom :c550.20.004 .
+:c900.10.001 :temRelProc :c800.10.604 .
+:c900.10.001 :eCruzadoCom :c800.10.604 .
+:c900.10.001 :temRelProc :c800.10.605 .
+:c900.10.001 :eCruzadoCom :c800.10.605 .
+:c900.10.001 :temRelProc :c850.10.002 .
+:c900.10.001 :eSucessorDe :c850.10.002 .
+:c900.10.001 :temRelProc :c850.10.003 .
+:c900.10.001 :eSucessorDe :c850.10.003 .
+:c900.10.001 :temRelProc :c900.10.500 .
+:c900.10.001 :eAntecessorDe :c900.10.500 .
+:c900.10.001 :temRelProc :c900.20.001 .
+:c900.10.001 :eSucessorDe :c900.20.001 .
+:c900.10.001 :temRelProc :c900.20.002 .
+:c900.10.001 :eSucessorDe :c900.20.002 .
+:c900.10.001 :temRelProc :c900.20.200 .
+:c900.10.001 :eSucessorDe :c900.20.200 .
+:c900.10.001 :temRelProc :c900.20.201 .
+:c900.10.001 :eSucessorDe :c900.20.201 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10.001.01
+:c900.10.001.01 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '900.10.001.01' ;
+	:titulo 'Conceção e realização de atividades ou acontecimentos artísticos: conceção e registo' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.10.001 ;
+	:descricao 'Criação e registo de obras ou atividades artísticas. Inicia com a proposta ou iniciativa de criação da obra ou atividade e inclui a conceção ou planeamento, a autorização de realização e o registo documental do ato criativo (em imagem, som ou texto).' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.01_4f7a0986aff1
+:nota_900.10.001.01_4f7a0986aff1 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Maquetes de cenografia".
+
+:c900.10.001.01 :temNotaAplicacao :nota_900.10.001.01_4f7a0986aff1 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.01_da9a11abfae3
+:nota_900.10.001.01_da9a11abfae3 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Esboços e / ou desenhos de figurinos".
+
+:c900.10.001.01 :temNotaAplicacao :nota_900.10.001.01_da9a11abfae3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.01_beeb9fd7f3c8
+:nota_900.10.001.01_beeb9fd7f3c8 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Memórias descritivas".
+
+:c900.10.001.01 :temNotaAplicacao :nota_900.10.001.01_beeb9fd7f3c8 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.01_6f65c4a985ea
+:nota_900.10.001.01_6f65c4a985ea rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Registo fotográfico/vídeo da obra ou atividade".
+
+:c900.10.001.01 :temNotaAplicacao :nota_900.10.001.01_6f65c4a985ea .
+
+:c900.10.001.01 :temPCA :pca_c900.10.001.01.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.001.01
+:pca_c900.10.001.01 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.10.001.01 :pcaValor 10.
+:pca_c900.10.001.01 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.10.001.01
+:just_pca_c900.10.001.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.10.001.01 :temJustificacao :just_pca_c900.10.001.01 .
+:just_pca_c900.10.001.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.10.001.01 :temCriterio :just_pca_c900.10.001.01_0. 
+:just_pca_c900.10.001.01_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.10.001.01_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.10.001.01 :temCriterio :just_pca_c900.10.001.01_1. 
+:just_pca_c900.10.001.01_1 :critTemProcRel :c500.10.001 .
+:c900.10.001.01 :temDF :df_c900.10.001.01.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.10.001.01
+:df_c900.10.001.01 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.10.001.01 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.10.001.01
+:just_df_c900.10.001.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.10.001.01 :temJustificacao :just_df_c900.10.001.01 .
+:just_df_c900.10.001.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Sintetiza a informação de 900.10.001.02- Conceção e realização de atividades ou acontecimentos artísticos: operacionalização." .
+:just_df_c900.10.001.01 :temCriterio :just_df_c900.10.001.01_0. 
+:just_df_c900.10.001.01_0 :critTemProcRel :c900.10.001 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10.001.02
+:c900.10.001.02 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '900.10.001.02' ;
+	:titulo 'Conceção e realização de atividades ou acontecimentos artísticos: operacionalização' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.10.001 ;
+	:descricao 'Concretização das ações necessárias à produção e apresentação de obras ou atividades artísticas. Inclui o planeamento operacional, a definição de meios, a logística e organização do espaço ou materiais, estudo de viabilidade (quando aplicável), a definição dos meios de divulgação, a produção e a apresentação de obra ou atividade.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.02_d2dbf2f9158b
+:nota_900.10.001.02_d2dbf2f9158b rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Marcação de provas de guarda roupa".
+
+:c900.10.001.02 :temNotaAplicacao :nota_900.10.001.02_d2dbf2f9158b .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.02_af9d2ef14ab4
+:nota_900.10.001.02_af9d2ef14ab4 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Visionamento e revisão de filmes".
+
+:c900.10.001.02 :temNotaAplicacao :nota_900.10.001.02_af9d2ef14ab4 .
+
+:c900.10.001.02 :temPCA :pca_c900.10.001.02.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.001.02
+:pca_c900.10.001.02 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.10.001.02 :pcaValor 10.
+:pca_c900.10.001.02 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.10.001.02
+:just_pca_c900.10.001.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.10.001.02 :temJustificacao :just_pca_c900.10.001.02 .
+:just_pca_c900.10.001.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.10.001.02 :temCriterio :just_pca_c900.10.001.02_0. 
+:just_pca_c900.10.001.02_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.10.001.02_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.10.001.02 :temCriterio :just_pca_c900.10.001.02_1. 
+:just_pca_c900.10.001.02_1 :critTemProcRel :c500.10.001 .
+:c900.10.001.02 :temDF :df_c900.10.001.02.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.10.001.02
+:df_c900.10.001.02 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.10.001.02 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.10.001.02
+:just_df_c900.10.001.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.10.001.02 :temJustificacao :just_df_c900.10.001.02 .
+:just_df_c900.10.001.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada em900.10.001.01 - Conceção e realização de atividades ou acontecimentos artísticos: conceção e registo;PN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação." .
+:just_df_c900.10.001.02 :temCriterio :just_df_c900.10.001.02_0. 
+:just_df_c900.10.001.02_0 :critTemProcRel :c900.10.001 .
+:just_df_c900.10.001.02_0 :critTemProcRel :c150.20.300 .
+:just_df_c900.10.001.02_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10.002
+:c900.10.002 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.10.002' ;
+	:titulo 'Conceção e realização de atividades desportivas ou recreativas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.10 ;
+	:descricao 'Criação e produção de iniciativas e atividades de caráter desportivo, amador ou profissional, de recreação, entretenimento ou ocupação do tempo. Inicia com a conceção da atividade e termina com a concretização da mesma. Inclui o desenvolvimento do conceito ou ideia, planeamento, estimativa dos recursos a alocar, seleção e organização de espaços e do esquema protocolar, se aplicável, a definição dos meios de divulgação e a produção, a distribuição de eventuais convites, a gestão dos ingressos do público, a seleção dos executantes ou intervenientes nas atividades.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002_b55d7bd0be54
+:nota_900.10.002_b55d7bd0be54 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Provas desportivas".
+
+:c900.10.002 :temNotaAplicacao :nota_900.10.002_b55d7bd0be54 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002_250cd1bca0fe
+:nota_900.10.002_250cd1bca0fe rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Sessões recreativas".
+
+:c900.10.002 :temNotaAplicacao :nota_900.10.002_250cd1bca0fe .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002_e9b12a8bdf85
+:nota_900.10.002_e9b12a8bdf85 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
+
+:c900.10.002 :temNotaExclusao :nota_900.10.002_e9b12a8bdf85 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002_cc883d9dfbf7
+:nota_900.10.002_cc883d9dfbf7 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O processamento de despesas e receitas deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c900.10.002 :temNotaExclusao :nota_900.10.002_cc883d9dfbf7 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002_769e2d8b359f
+:nota_900.10.002_769e2d8b359f rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As questões de segurança devem ser consideradas em 550.20.004 – Realização de piquetes de prevenção".
+
+:c900.10.002 :temNotaExclusao :nota_900.10.002_769e2d8b359f .
+
+:c900.10.002 :processoTipoVC :vc_processoTipo_pc .
+:c900.10.002 :processoTransversal "S" .
+:c900.10.002 :temDono :tip_AP .
+:c900.10.002 :temDono :tip_AL .
+:c900.10.002 :temDono :ent_CP .
+:c900.10.002 :temDono :tip_CCDR .
+:c900.10.002 :temDono :tip_IES .
+:c900.10.002 :temDono :ent_ACT .
+:c900.10.002 :temDono :ent_CASES .
+:c900.10.002 :temDono :ent_CGA .
+:c900.10.002 :temDono :ent_CITE .
+:c900.10.002 :temDono :ent_CNPDPCJ .
+:c900.10.002 :temDono :ent_CPL .
+:c900.10.002 :temDono :ent_CRL .
+:c900.10.002 :temDono :ent_DGERT .
+:c900.10.002 :temDono :ent_DGSS .
+:c900.10.002 :temDono :ent_GEP .
+:c900.10.002 :temDono :ent_IEFP .
+:c900.10.002 :temDono :ent_IGMTSSS .
+:c900.10.002 :temDono :ent_IGFCSS .
+:c900.10.002 :temDono :ent_IGFSS .
+:c900.10.002 :temDono :ent_II .
+:c900.10.002 :temDono :ent_INR .
+:c900.10.002 :temDono :ent_ISS .
+:c900.10.002 :temDono :ent_OIT .
+:c900.10.002 :temDono :ent_POISE .
+:c900.10.002 :temDono :ent_SGMTSSS .
+:c900.10.002 :temDono :ent_IFAP .
+:c900.10.002 :temDono :ent_CV .
+:c900.10.002 :temParticipanteAssessor :tip_AP .
+:c900.10.002 :temParticipanteAssessor :tip_CCDR .
+:c900.10.002 :temParticipanteAssessor :ent_ICNF .
+:c900.10.002 :temParticipanteAssessor :ent_ACT .
+:c900.10.002 :temParticipanteAssessor :ent_CASES .
+:c900.10.002 :temParticipanteAssessor :ent_CGA .
+:c900.10.002 :temParticipanteAssessor :ent_CITE .
+:c900.10.002 :temParticipanteAssessor :ent_CNPDPCJ .
+:c900.10.002 :temParticipanteAssessor :ent_CPL .
+:c900.10.002 :temParticipanteAssessor :ent_CRL .
+:c900.10.002 :temParticipanteAssessor :ent_DGERT .
+:c900.10.002 :temParticipanteAssessor :ent_DGSS .
+:c900.10.002 :temParticipanteAssessor :ent_GEP .
+:c900.10.002 :temParticipanteAssessor :ent_IEFP .
+:c900.10.002 :temParticipanteAssessor :ent_IGMTSSS .
+:c900.10.002 :temParticipanteAssessor :ent_IGFCSS .
+:c900.10.002 :temParticipanteAssessor :ent_IGFSS .
+:c900.10.002 :temParticipanteAssessor :ent_II .
+:c900.10.002 :temParticipanteAssessor :ent_INR .
+:c900.10.002 :temParticipanteAssessor :ent_ISS .
+:c900.10.002 :temParticipanteAssessor :ent_OIT .
+:c900.10.002 :temParticipanteAssessor :ent_POISE .
+:c900.10.002 :temParticipanteAssessor :ent_SGMTSSS .
+:c900.10.002 :temParticipanteAssessor :ent_DGPM .
+:c900.10.002 :temParticipanteAssessor :ent_IFAP .
+:c900.10.002 :temParticipanteExecutor :ent_CV .
+:c900.10.002 :temLegislacao :leg_DL_23_2014 .
+:c900.10.002 :temLegislacao :leg_Decreto_Regulamentar_6_2010 .
+:c900.10.002 :temLegislacao :leg_DL_268_2009 .
+:c900.10.002 :temLegislacao :leg_Decreto_Regulamentar_34_95 .
+:c900.10.002 :temRelProc :c300.10.005 .
+:c900.10.002 :eCruzadoCom :c300.10.005 .
+:c900.10.002 :temRelProc :c300.40.504 .
+:c900.10.002 :eSucessorDe :c300.40.504 .
+:c900.10.002 :temRelProc :c300.50.202 .
+:c900.10.002 :eSucessorDe :c300.50.202 .
+:c900.10.002 :temRelProc :c300.50.402 .
+:c900.10.002 :eCruzadoCom :c300.50.402 .
+:c900.10.002 :temRelProc :c350.30.001 .
+:c900.10.002 :eCruzadoCom :c350.30.001 .
+:c900.10.002 :temRelProc :c450.10.072 .
+:c900.10.002 :eSucessorDe :c450.10.072 .
+:c900.10.002 :temRelProc :c450.10.205 .
+:c900.10.002 :eSucessorDe :c450.10.205 .
+:c900.10.002 :temRelProc :c450.10.213 .
+:c900.10.002 :eSucessorDe :c450.10.213 .
+:c900.10.002 :temRelProc :c450.10.215 .
+:c900.10.002 :eSucessorDe :c450.10.215 .
+:c900.10.002 :temRelProc :c450.10.221 .
+:c900.10.002 :eAntecessorDe :c450.10.221 .
+:c900.10.002 :temRelProc :c500.10.001 .
+:c900.10.002 :eSuplementoPara :c500.10.001 .
+:c900.10.002 :temRelProc :c550.10.001 .
+:c900.10.002 :eCruzadoCom :c550.10.001 .
+:c900.10.002 :temRelProc :c550.20.004 .
+:c900.10.002 :eSucessorDe :c550.20.004 .
+:c900.10.002 :temRelProc :c900.10.500 .
+:c900.10.002 :eSucessorDe :c900.10.500 .
+:c900.10.002 :temRelProc :c900.20.001 .
+:c900.10.002 :eSucessorDe :c900.20.001 .
+:c900.10.002 :temRelProc :c900.20.002 .
+:c900.10.002 :eSucessorDe :c900.20.002 .
+:c900.10.002 :temRelProc :c900.20.200 .
+:c900.10.002 :eCruzadoCom :c900.20.200 .
+:c900.10.002 :temRelProc :c900.20.201 .
+:c900.10.002 :eSucessorDe :c900.20.201 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10.002.01
+:c900.10.002.01 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '900.10.002.01' ;
+	:titulo 'Conceção e realização de atividades desportivas ou recreativas: conceção e registo' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.10.002 ;
+	:descricao 'Criação e registo de atividades desportivas ou recreativas. Inicia com a proposta ou iniciativa para atividade e inclui a conceção ou planeamento, a autorização de realização e o registo documental da iniciativa (em imagem, som ou texto).' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002.01_22a7bbed4226
+:nota_900.10.002.01_22a7bbed4226 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Registo fotográfico/vídeo da atividade desportiva".
+
+:c900.10.002.01 :temNotaAplicacao :nota_900.10.002.01_22a7bbed4226 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002.01_1be14476860f
+:nota_900.10.002.01_1be14476860f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Registo fotográfico/vídeo da atividade recreativa".
+
+:c900.10.002.01 :temNotaAplicacao :nota_900.10.002.01_1be14476860f .
+
+:c900.10.002.01 :temPCA :pca_c900.10.002.01.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.002.01
+:pca_c900.10.002.01 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.10.002.01 :pcaValor 10.
+:pca_c900.10.002.01 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.10.002.01
+:just_pca_c900.10.002.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.10.002.01 :temJustificacao :just_pca_c900.10.002.01 .
+:just_pca_c900.10.002.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.10.002.01 :temCriterio :just_pca_c900.10.002.01_0. 
+:just_pca_c900.10.002.01_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.10.002.01_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.10.002.01 :temCriterio :just_pca_c900.10.002.01_1. 
+:just_pca_c900.10.002.01_1 :critTemProcRel :c500.10.001 .
+:c900.10.002.01 :temDF :df_c900.10.002.01.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.10.002.01
+:df_c900.10.002.01 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.10.002.01 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.10.002.01
+:just_df_c900.10.002.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.10.002.01 :temJustificacao :just_df_c900.10.002.01 .
+:just_df_c900.10.002.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Sintetiza a informação de 900.10.002.02 – Conceção e realização de atividades desportivas ou recreativas: operacionalização." .
+:just_df_c900.10.002.01 :temCriterio :just_df_c900.10.002.01_0. 
+:just_df_c900.10.002.01_0 :critTemProcRel :c900.10.002 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10.002.02
+:c900.10.002.02 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '900.10.002.02' ;
+	:titulo 'Conceção e realização de atividades desportivas ou recreativas: operacionalização' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.10.002 ;
+	:descricao 'Concretização das ações necessárias à produção ou participação em atividades desportivas ou recreativas. Inclui o planeamento operacional, a definição de meios, a logística e organização do espaço ou materiais, estudo de viabilidade (quando aplicável), a definição dos meios de divulgação e a produção ou execução da atividade.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002.02_0e7ac96bdec5
+:nota_900.10.002.02_0e7ac96bdec5 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Marcação de percurso da atividade".
+
+:c900.10.002.02 :temNotaAplicacao :nota_900.10.002.02_0e7ac96bdec5 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002.02_d3663c341919
+:nota_900.10.002.02_d3663c341919 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apoio logístico a provas desportivas".
+
+:c900.10.002.02 :temNotaAplicacao :nota_900.10.002.02_d3663c341919 .
+
+:c900.10.002.02 :temPCA :pca_c900.10.002.02.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.002.02
+:pca_c900.10.002.02 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.10.002.02 :pcaValor 10.
+:pca_c900.10.002.02 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.10.002.02
+:just_pca_c900.10.002.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.10.002.02 :temJustificacao :just_pca_c900.10.002.02 .
+:just_pca_c900.10.002.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.10.002.02 :temCriterio :just_pca_c900.10.002.02_0. 
+:just_pca_c900.10.002.02_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.10.002.02_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.10.002.02 :temCriterio :just_pca_c900.10.002.02_1. 
+:just_pca_c900.10.002.02_1 :critTemProcRel :c500.10.001 .
+:c900.10.002.02 :temDF :df_c900.10.002.02.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.10.002.02
+:df_c900.10.002.02 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.10.002.02 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.10.002.02
+:just_df_c900.10.002.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.10.002.02 :temJustificacao :just_df_c900.10.002.02 .
+:just_df_c900.10.002.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada em900.10.002.01- Conceção e realização de atividades desportivas ou recreativas: conceção e registo;PN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação." .
+:just_df_c900.10.002.02 :temCriterio :just_df_c900.10.002.02_0. 
+:just_df_c900.10.002.02_0 :critTemProcRel :c900.10.002 .
+:just_df_c900.10.002.02_0 :critTemProcRel :c150.20.300 .
+:just_df_c900.10.002.02_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10.500
+:c900.10.500 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.10.500' ;
+	:titulo 'Organização e participação em homenagens e cerimónias comemorativas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.10 ;
+	:descricao 'Preparação e execução ou intervenção em atos de celebração de datas, pessoas ou acontecimentos relevantes e de entrega de prémios, distinções ou condecorações. Inicia com a proposta ou pedido de participação e termina com a realização do ato. Inclui, entre outras, o planeamento, a logística, estimativa dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável, a definição dos meios de divulgação e a produção.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_44b234a47dfc
+:nota_900.10.500_44b234a47dfc rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Entrega de prémios".
+
+:c900.10.500 :temNotaAplicacao :nota_900.10.500_44b234a47dfc .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_0308ff137219
+:nota_900.10.500_0308ff137219 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Celebração de datas comemorativas".
+
+:c900.10.500 :temNotaAplicacao :nota_900.10.500_0308ff137219 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_aaca0e294f4d
+:nota_900.10.500_aaca0e294f4d rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
+
+:c900.10.500 :temNotaExclusao :nota_900.10.500_aaca0e294f4d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_0a4841e7424d
+:nota_900.10.500_0a4841e7424d rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A seleção dos premiados deve ser considerada em 850.10.500 – Atribuição de prémios".
+
+:c900.10.500 :temNotaExclusao :nota_900.10.500_0a4841e7424d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_d42a91458b19
+:nota_900.10.500_d42a91458b19 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A seleção para atribuição de prémios de reconhecimento da prestação de atos cívicos ou para distinções honoríficas deve ser considerada em 950.30.001 – Reconhecimento por mérito e serviços prestados".
+
+:c900.10.500 :temNotaExclusao :nota_900.10.500_d42a91458b19 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_cb85c1119275
+:nota_900.10.500_cb85c1119275 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A divulgação da cerimónia deve ser considerada em 900.20.201 - Edição e publicação de conteúdos".
+
+:c900.10.500 :temNotaExclusao :nota_900.10.500_cb85c1119275 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_9a28cd8b0d72
+:nota_900.10.500_9a28cd8b0d72 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As questões de segurança devem ser consideradas em 550.10 - Segurança pública".
+
+:c900.10.500 :temNotaExclusao :nota_900.10.500_9a28cd8b0d72 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_82560b92458b
+:nota_900.10.500_82560b92458b rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A entrega de condecorações e distinções deve ser consideradada em 900.20.601 - Organização de cerimónias protocolares.".
+
+:c900.10.500 :temNotaExclusao :nota_900.10.500_82560b92458b .
+
+:c900.10.500 :processoTipoVC :vc_processoTipo_pc .
+:c900.10.500 :processoTransversal "S" .
+:c900.10.500 :temDono :tip_AP .
+:c900.10.500 :temDono :tip_AL .
+:c900.10.500 :temDono :ent_Grupo_IP .
+:c900.10.500 :temDono :ent_INFARMED .
+:c900.10.500 :temDono :ent_CP .
+:c900.10.500 :temDono :tip_IES .
+:c900.10.500 :temDono :tip_CCDR .
+:c900.10.500 :temDono :ent_IMT .
+:c900.10.500 :temDono :ent_ACT .
+:c900.10.500 :temDono :ent_CASES .
+:c900.10.500 :temDono :ent_CGA .
+:c900.10.500 :temDono :ent_CITE .
+:c900.10.500 :temDono :ent_CNPDPCJ .
+:c900.10.500 :temDono :ent_CPL .
+:c900.10.500 :temDono :ent_CRL .
+:c900.10.500 :temDono :ent_DGERT .
+:c900.10.500 :temDono :ent_DGSS .
+:c900.10.500 :temDono :ent_GEP .
+:c900.10.500 :temDono :ent_IEFP .
+:c900.10.500 :temDono :ent_IGMTSSS .
+:c900.10.500 :temDono :ent_IGFCSS .
+:c900.10.500 :temDono :ent_IGFSS .
+:c900.10.500 :temDono :ent_II .
+:c900.10.500 :temDono :ent_INR .
+:c900.10.500 :temDono :ent_ISS .
+:c900.10.500 :temDono :ent_OIT .
+:c900.10.500 :temDono :ent_POISE .
+:c900.10.500 :temDono :ent_SGMTSSS .
+:c900.10.500 :temDono :ent_ICNF .
+:c900.10.500 :temDono :ent_DGPM .
+:c900.10.500 :temDono :ent_DGRM .
+:c900.10.500 :temDono :ent_DGADR .
+:c900.10.500 :temDono :ent_INIAV .
+:c900.10.500 :temDono :ent_IVV .
+:c900.10.500 :temDono :ent_IVDP .
+:c900.10.500 :temDono :ent_GPP .
+:c900.10.500 :temDono :ent_CV .
+:c900.10.500 :temDono :ent_ERSE .
+:c900.10.500 :temParticipanteAssessor :tip_AP .
+:c900.10.500 :temParticipanteAssessor :tip_AL .
+:c900.10.500 :temParticipanteAssessor :ent_CP .
+:c900.10.500 :temParticipanteAssessor :ent_INFARMED .
+:c900.10.500 :temParticipanteAssessor :tip_CCDR .
+:c900.10.500 :temParticipanteAssessor :ent_IMT .
+:c900.10.500 :temParticipanteAssessor :ent_ICNF .
+:c900.10.500 :temParticipanteAssessor :ent_IGAMAOT .
+:c900.10.500 :temParticipanteAssessor :ent_ACT .
+:c900.10.500 :temParticipanteAssessor :ent_CASES .
+:c900.10.500 :temParticipanteAssessor :ent_CGA .
+:c900.10.500 :temParticipanteAssessor :ent_CITE .
+:c900.10.500 :temParticipanteAssessor :ent_CNPDPCJ .
+:c900.10.500 :temParticipanteAssessor :ent_CPL .
+:c900.10.500 :temParticipanteAssessor :ent_CRL .
+:c900.10.500 :temParticipanteAssessor :ent_DGERT .
+:c900.10.500 :temParticipanteAssessor :ent_DGSS .
+:c900.10.500 :temParticipanteAssessor :ent_GEP .
+:c900.10.500 :temParticipanteAssessor :ent_IEFP .
+:c900.10.500 :temParticipanteAssessor :ent_IGMTSSS .
+:c900.10.500 :temParticipanteAssessor :ent_IGFCSS .
+:c900.10.500 :temParticipanteAssessor :ent_IGFSS .
+:c900.10.500 :temParticipanteAssessor :ent_II .
+:c900.10.500 :temParticipanteAssessor :ent_INR .
+:c900.10.500 :temParticipanteAssessor :ent_ISS .
+:c900.10.500 :temParticipanteAssessor :ent_OIT .
+:c900.10.500 :temParticipanteAssessor :ent_POISE .
+:c900.10.500 :temParticipanteAssessor :ent_SGMTSSS .
+:c900.10.500 :temParticipanteAssessor :ent_DGPM .
+:c900.10.500 :temParticipanteAssessor :ent_DGRM .
+:c900.10.500 :temParticipanteAssessor :ent_GAMA .
+:c900.10.500 :temParticipanteAssessor :ent_DGADR .
+:c900.10.500 :temParticipanteAssessor :ent_DGAV .
+:c900.10.500 :temParticipanteAssessor :ent_INIAV .
+:c900.10.500 :temParticipanteAssessor :ent_IVV .
+:c900.10.500 :temParticipanteAssessor :ent_IVDP .
+:c900.10.500 :temParticipanteAssessor :ent_PDR2020 .
+:c900.10.500 :temParticipanteAssessor :ent_GPP .
+:c900.10.500 :temParticipanteAssessor :tip_DRAP .
+:c900.10.500 :temParticipanteAssessor :ent_IFAP .
+:c900.10.500 :temParticipanteExecutor :ent_CV .
+:c900.10.500 :temRelProc :c300.10.005 .
+:c900.10.500 :eSucessorDe :c300.10.005 .
+:c900.10.500 :temRelProc :c350.30.001 .
+:c900.10.500 :eCruzadoCom :c350.30.001 .
+:c900.10.500 :temRelProc :c500.10.001 .
+:c900.10.500 :eSuplementoPara :c500.10.001 .
+:c900.10.500 :temRelProc :c550.10.001 .
+:c900.10.500 :eCruzadoCom :c550.10.001 .
+:c900.10.500 :temRelProc :c550.10.007 .
+:c900.10.500 :eCruzadoCom :c550.10.007 .
+:c900.10.500 :temRelProc :c850.10.500 .
+:c900.10.500 :eSucessorDe :c850.10.500 .
+:c900.10.500 :temRelProc :c850.10.600 .
+:c900.10.500 :eCruzadoCom :c850.10.600 .
+:c900.10.500 :temRelProc :c900.10.001 .
+:c900.10.500 :eSucessorDe :c900.10.001 .
+:c900.10.500 :temRelProc :c900.10.002 .
+:c900.10.500 :eAntecessorDe :c900.10.002 .
+:c900.10.500 :temRelProc :c900.20.601 .
+:c900.10.500 :eCruzadoCom :c900.20.601 .
+:c900.10.500 :temRelProc :c900.20.602 .
+:c900.10.500 :eCruzadoCom :c900.20.602 .
+:c900.10.500 :temRelProc :c950.30.001 .
+:c900.10.500 :eCruzadoCom :c950.30.001 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10.500.01
+:c900.10.500.01 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '900.10.500.01' ;
+	:titulo 'Organização e participação em homenagens e cerimónias comemorativas: programação e registo' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.10.500 ;
+	:descricao 'Planeamento, programação e registo de iniciativas comemorativas ou de homenagem. Inicia com a proposta e inclui a definição do cronograma, a identificação dos intervenientes, a decisão de execução da atividade e o seu registo (em imagem, som ou texto).' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500.01_7ae861d934a3
+:nota_900.10.500.01_7ae861d934a3 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Programa da cerimónia".
+
+:c900.10.500.01 :temNotaAplicacao :nota_900.10.500.01_7ae861d934a3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500.01_477b803be966
+:nota_900.10.500.01_477b803be966 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Registo fotográfico/vídeo da cerimónia".
+
+:c900.10.500.01 :temNotaAplicacao :nota_900.10.500.01_477b803be966 .
+
+:c900.10.500.01 :temPCA :pca_c900.10.500.01.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.500.01
+:pca_c900.10.500.01 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.10.500.01 :pcaValor 10.
+:pca_c900.10.500.01 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.10.500.01
+:just_pca_c900.10.500.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.10.500.01 :temJustificacao :just_pca_c900.10.500.01 .
+:just_pca_c900.10.500.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.10.500.01 :temCriterio :just_pca_c900.10.500.01_0. 
+:just_pca_c900.10.500.01_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.10.500.01_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.10.500.01 :temCriterio :just_pca_c900.10.500.01_1. 
+:just_pca_c900.10.500.01_1 :critTemProcRel :c500.10.001 .
+:c900.10.500.01 :temDF :df_c900.10.500.01.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.10.500.01
+:df_c900.10.500.01 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.10.500.01 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.10.500.01
+:just_df_c900.10.500.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.10.500.01 :temJustificacao :just_df_c900.10.500.01 .
+:just_df_c900.10.500.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Sintetiza a informação de 900.10.500.02 - Organização e participação em homenagens e cerimónias comemorativas: operacionalização" .
+:just_df_c900.10.500.01 :temCriterio :just_df_c900.10.500.01_0. 
+:just_df_c900.10.500.01_0 :critTemProcRel :c900.10.500 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10.500.02
+:c900.10.500.02 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '900.10.500.02' ;
+	:titulo 'Organização e participação em homenagens e cerimónias comemorativas: operacionalização' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.10.500 ;
+	:descricao 'Concretização das ações necessárias à execução de atividades comemorativas. Inclui o planeamento operacional, a definição dos recursos a utilizar, a logística e organização do espaço ou materiais e a realização da atividade.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500.02_e5f7c491f437
+:nota_900.10.500.02_e5f7c491f437 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apoio logístico à cerimónia".
+
+:c900.10.500.02 :temNotaAplicacao :nota_900.10.500.02_e5f7c491f437 .
+
+:c900.10.500.02 :temPCA :pca_c900.10.500.02.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.500.02
+:pca_c900.10.500.02 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.10.500.02 :pcaValor 10.
+:pca_c900.10.500.02 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.10.500.02
+:just_pca_c900.10.500.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.10.500.02 :temJustificacao :just_pca_c900.10.500.02 .
+:just_pca_c900.10.500.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.10.500.02 :temCriterio :just_pca_c900.10.500.02_0. 
+:just_pca_c900.10.500.02_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.10.500.02_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.10.500.02 :temCriterio :just_pca_c900.10.500.02_1. 
+:just_pca_c900.10.500.02_1 :critTemProcRel :c500.10.001 .
+:c900.10.500.02 :temDF :df_c900.10.500.02.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.10.500.02
+:df_c900.10.500.02 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.10.500.02 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.10.500.02
+:just_df_c900.10.500.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.10.500.02 :temJustificacao :just_df_c900.10.500.02 .
+:just_df_c900.10.500.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada em900.10.500.01 - Organização e participação em homenagens e cerimónias comemorativas: programação e registo;PN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação." .
+:just_df_c900.10.500.02 :temCriterio :just_df_c900.10.500.02_0. 
+:just_df_c900.10.500.02_0 :critTemProcRel :c900.10.500 .
+:just_df_c900.10.500.02_0 :critTemProcRel :c150.20.300 .
+:just_df_c900.10.500.02_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10.501
+:c900.10.501 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.10.501' ;
+	:titulo 'Organização e participação em iniciativas de partilha e debate crítico' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.10 ;
+	:descricao 'Preparação e execução ou intervenção em atividades de divulgação e troca de ideias técnicas, científicas, culturais, políticas, sociais, ambientais ou outras. Inicia com a proposta ou o pedido de participação e termina com a conclusão da atividade. Inclui, entre outras, o planeamento, a logística, estimativa dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável, a definição dos meios de divulgação e a produção.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_fa88755decb1
+:nota_900.10.501_fa88755decb1 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apresentações em público e outras atividades especializadas ou de natureza técnica ou académica sobre algum tema concreto".
+
+:c900.10.501 :temNotaAplicacao :nota_900.10.501_fa88755decb1 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_6a66f74f83db
+:nota_900.10.501_6a66f74f83db rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
+
+:c900.10.501 :temNotaExclusao :nota_900.10.501_6a66f74f83db .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_8d7c1db527ee
+:nota_900.10.501_8d7c1db527ee rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As questões de segurança devem ser consideradas em 550".
+
+:c900.10.501 :temNotaExclusao :nota_900.10.501_8d7c1db527ee .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_276a38f27065
+:nota_900.10.501_276a38f27065 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "10 - Segurança pública".
+
+:c900.10.501 :temNotaExclusao :nota_900.10.501_276a38f27065 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_011b13877c8d
+:nota_900.10.501_011b13877c8d rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As campanhas de saúde com intervenção clínica devem ser consideradas em 700.20.101 – Realização de ações de promoção da saúde".
+
+:c900.10.501 :temNotaExclusao :nota_900.10.501_011b13877c8d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_b5534273bd42
+:nota_900.10.501_b5534273bd42 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A divulgação, bem como a eventual publicação de atas deve ser considerada em 900.20.201 – Edição e publicação de conteúdos".
+
+:c900.10.501 :temNotaExclusao :nota_900.10.501_b5534273bd42 .
+
+:c900.10.501 :processoTipoVC :vc_processoTipo_pc .
+:c900.10.501 :processoTransversal "S" .
+:c900.10.501 :temDono :tip_AP .
+:c900.10.501 :temDono :tip_AL .
+:c900.10.501 :temDono :ent_Grupo_IP .
+:c900.10.501 :temDono :ent_INFARMED .
+:c900.10.501 :temDono :ent_CP .
+:c900.10.501 :temDono :tip_IES .
+:c900.10.501 :temDono :tip_CCDR .
+:c900.10.501 :temDono :ent_IMT .
+:c900.10.501 :temDono :ent_ACT .
+:c900.10.501 :temDono :ent_CASES .
+:c900.10.501 :temDono :ent_CGA .
+:c900.10.501 :temDono :ent_CITE .
+:c900.10.501 :temDono :ent_CNPDPCJ .
+:c900.10.501 :temDono :ent_CPL .
+:c900.10.501 :temDono :ent_CRL .
+:c900.10.501 :temDono :ent_DGERT .
+:c900.10.501 :temDono :ent_DGSS .
+:c900.10.501 :temDono :ent_GEP .
+:c900.10.501 :temDono :ent_IEFP .
+:c900.10.501 :temDono :ent_IGMTSSS .
+:c900.10.501 :temDono :ent_IGFCSS .
+:c900.10.501 :temDono :ent_IGFSS .
+:c900.10.501 :temDono :ent_II .
+:c900.10.501 :temDono :ent_INR .
+:c900.10.501 :temDono :ent_ISS .
+:c900.10.501 :temDono :ent_OIT .
+:c900.10.501 :temDono :ent_POISE .
+:c900.10.501 :temDono :ent_SGMTSSS .
+:c900.10.501 :temDono :ent_ICNF .
+:c900.10.501 :temDono :ent_DGPM .
+:c900.10.501 :temDono :ent_DGRM .
+:c900.10.501 :temDono :ent_DGADR .
+:c900.10.501 :temDono :ent_INIAV .
+:c900.10.501 :temDono :ent_IVV .
+:c900.10.501 :temDono :ent_IVDP .
+:c900.10.501 :temDono :ent_GPP .
+:c900.10.501 :temDono :ent_CV .
+:c900.10.501 :temDono :ent_ERSE .
+:c900.10.501 :temParticipanteAssessor :tip_AP .
+:c900.10.501 :temParticipanteAssessor :tip_AL .
+:c900.10.501 :temParticipanteAssessor :ent_CP .
+:c900.10.501 :temParticipanteAssessor :ent_INFARMED .
+:c900.10.501 :temParticipanteAssessor :tip_CCDR .
+:c900.10.501 :temParticipanteAssessor :ent_IMT .
+:c900.10.501 :temParticipanteAssessor :ent_ICNF .
+:c900.10.501 :temParticipanteAssessor :ent_IGAMAOT .
+:c900.10.501 :temParticipanteAssessor :ent_ACT .
+:c900.10.501 :temParticipanteAssessor :ent_CASES .
+:c900.10.501 :temParticipanteAssessor :ent_CGA .
+:c900.10.501 :temParticipanteAssessor :ent_CITE .
+:c900.10.501 :temParticipanteAssessor :ent_CNPDPCJ .
+:c900.10.501 :temParticipanteAssessor :ent_CPL .
+:c900.10.501 :temParticipanteAssessor :ent_CRL .
+:c900.10.501 :temParticipanteAssessor :ent_DGERT .
+:c900.10.501 :temParticipanteAssessor :ent_DGSS .
+:c900.10.501 :temParticipanteAssessor :ent_GEP .
+:c900.10.501 :temParticipanteAssessor :ent_IEFP .
+:c900.10.501 :temParticipanteAssessor :ent_IGMTSSS .
+:c900.10.501 :temParticipanteAssessor :ent_IGFCSS .
+:c900.10.501 :temParticipanteAssessor :ent_IGFSS .
+:c900.10.501 :temParticipanteAssessor :ent_II .
+:c900.10.501 :temParticipanteAssessor :ent_INR .
+:c900.10.501 :temParticipanteAssessor :ent_ISS .
+:c900.10.501 :temParticipanteAssessor :ent_OIT .
+:c900.10.501 :temParticipanteAssessor :ent_POISE .
+:c900.10.501 :temParticipanteAssessor :ent_SGMTSSS .
+:c900.10.501 :temParticipanteAssessor :ent_ICNF .
+:c900.10.501 :temParticipanteAssessor :ent_DGPM .
+:c900.10.501 :temParticipanteAssessor :ent_DGRM .
+:c900.10.501 :temParticipanteAssessor :ent_GAMA .
+:c900.10.501 :temParticipanteAssessor :ent_DGADR .
+:c900.10.501 :temParticipanteAssessor :ent_DGAV .
+:c900.10.501 :temParticipanteAssessor :ent_INIAV .
+:c900.10.501 :temParticipanteAssessor :ent_IVV .
+:c900.10.501 :temParticipanteAssessor :ent_IVDP .
+:c900.10.501 :temParticipanteAssessor :ent_PDR2020 .
+:c900.10.501 :temParticipanteAssessor :ent_GPP .
+:c900.10.501 :temParticipanteAssessor :tip_DRAP .
+:c900.10.501 :temParticipanteAssessor :ent_IFAP .
+:c900.10.501 :temParticipanteExecutor :ent_CV .
+:c900.10.501 :temRelProc :c150.20.101 .
+:c900.10.501 :eSucessorDe :c150.20.101 .
+:c900.10.501 :temRelProc :c500.10.001 .
+:c900.10.501 :eSucessorDe :c500.10.001 .
+:c900.10.501 :temRelProc :c800.20.001 .
+:c900.10.501 :eAntecessorDe :c800.20.001 .
+:c900.10.501 :temRelProc :c800.20.002 .
+:c900.10.501 :eSucessorDe :c800.20.002 .
+:c900.10.501 :temRelProc :c800.20.500 .
+:c900.10.501 :eCruzadoCom :c800.20.500 .
+:c900.10.501 :temRelProc :c900.20.001 .
+:c900.10.501 :eAntecessorDe :c900.20.001 .
+:c900.10.501 :temRelProc :c900.20.002 .
+:c900.10.501 :eCruzadoCom :c900.20.002 .
+:c900.10.501 :temRelProc :c900.20.200 .
+:c900.10.501 :eSucessorDe :c900.20.200 .
+:c900.10.501 :temRelProc :c900.20.201 .
+:c900.10.501 :eSucessorDe :c900.20.201 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10.501.01
+:c900.10.501.01 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '900.10.501.01' ;
+	:titulo 'Organização e participação em iniciativas de partilha e debate crítico: programação e registo' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.10.501 ;
+	:descricao 'Planeamento, programação e registo de iniciativas de partilha e debate crítico. Inicia com a proposta e inclui a definição do cronograma, a identificação dos intervenientes, a decisão de execução da atividade e o seu registo (em imagem, som ou texto).' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501.01_99d3925b5a12
+:nota_900.10.501.01_99d3925b5a12 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Programa da iniciativa".
+
+:c900.10.501.01 :temNotaAplicacao :nota_900.10.501.01_99d3925b5a12 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501.01_01554bf3f62e
+:nota_900.10.501.01_01554bf3f62e rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Registo fotográfico/vídeo da iniciativa".
+
+:c900.10.501.01 :temNotaAplicacao :nota_900.10.501.01_01554bf3f62e .
+
+:c900.10.501.01 :temPCA :pca_c900.10.501.01.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.501.01
+:pca_c900.10.501.01 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.10.501.01 :pcaValor 10.
+:pca_c900.10.501.01 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.10.501.01
+:just_pca_c900.10.501.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.10.501.01 :temJustificacao :just_pca_c900.10.501.01 .
+:just_pca_c900.10.501.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.10.501.01 :temCriterio :just_pca_c900.10.501.01_0. 
+:just_pca_c900.10.501.01_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.10.501.01_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.10.501.01 :temCriterio :just_pca_c900.10.501.01_1. 
+:just_pca_c900.10.501.01_1 :critTemProcRel :c500.10.001 .
+:c900.10.501.01 :temDF :df_c900.10.501.01.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.10.501.01
+:df_c900.10.501.01 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.10.501.01 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.10.501.01
+:just_df_c900.10.501.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.10.501.01 :temJustificacao :just_df_c900.10.501.01 .
+:just_df_c900.10.501.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Sintetiza a informação de 900.10.501.02 - Organização e participação em iniciativas de partilha e debate crítico: operacionalização." .
+:just_df_c900.10.501.01 :temCriterio :just_df_c900.10.501.01_0. 
+:just_df_c900.10.501.01_0 :critTemProcRel :c900.10.501 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10.501.02
+:c900.10.501.02 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '900.10.501.02' ;
+	:titulo 'Organização e participação em iniciativas de partilha e debate crítico: operacionalização' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.10.501 ;
+	:descricao 'Concretização das ações necessárias à execução de iniciativas de partilha e debate crítico. Inclui o planeamento operacional, a definição dos recursos a utilizar, a logística e organização do espaço ou materiais e a realização da atividade.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501.02_90e85894f988
+:nota_900.10.501.02_90e85894f988 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apoio logístico à iniciativa".
+
+:c900.10.501.02 :temNotaAplicacao :nota_900.10.501.02_90e85894f988 .
+
+:c900.10.501.02 :temPCA :pca_c900.10.501.02.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.501.02
+:pca_c900.10.501.02 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.10.501.02 :pcaValor 10.
+:pca_c900.10.501.02 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.10.501.02
+:just_pca_c900.10.501.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.10.501.02 :temJustificacao :just_pca_c900.10.501.02 .
+:just_pca_c900.10.501.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.10.501.02 :temCriterio :just_pca_c900.10.501.02_0. 
+:just_pca_c900.10.501.02_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.10.501.02_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.10.501.02 :temCriterio :just_pca_c900.10.501.02_1. 
+:just_pca_c900.10.501.02_1 :critTemProcRel :c500.10.001 .
+:c900.10.501.02 :temDF :df_c900.10.501.02.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.10.501.02
+:df_c900.10.501.02 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.10.501.02 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.10.501.02
+:just_df_c900.10.501.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.10.501.02 :temJustificacao :just_df_c900.10.501.02 .
+:just_df_c900.10.501.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada em900.10.501.01 - Organização e participação em iniciativas de partilha e debate crítico: programação e registo.PN 150.20.300 - Avaliação de atividades." .
+:just_df_c900.10.501.02 :temCriterio :just_df_c900.10.501.02_0. 
+:just_df_c900.10.501.02_0 :critTemProcRel :c900.10.501 .
+:just_df_c900.10.501.02_0 :critTemProcRel :c150.20.300 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10.502
+:c900.10.502 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.10.502' ;
+	:titulo 'Organização e participação em iniciativas de prevenção e sensibilização' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.10 ;
+	:descricao 'Preparação e execução ou intervenção em ações que pretendem esclarecer, alertar ou prevenir riscos com o objetivo de alterar determinados comportamentos de natureza social, cultural ou cívica. Inicia com a proposta ou o pedido de participação e termina com a apreciação do relatório de execução da atividade. Inclui definição dos materiais informativos, distribuição e afetação de recursos, logística da ação, seleção e organização do espaço e do esquema protocolar, se aplicável.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.502_5a42aaa185c0
+:nota_900.10.502_5a42aaa185c0 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Sessões de abordagem direta à população ou a públicos-alvo".
+
+:c900.10.502 :temNotaAplicacao :nota_900.10.502_5a42aaa185c0 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.502_36592044f72f
+:nota_900.10.502_36592044f72f rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A conceção dos materiais e conteúdos informativos deve ser considerada em 900.20.200 – Conceção de conteúdos institucionais para divulgação".
+
+:c900.10.502 :temNotaExclusao :nota_900.10.502_36592044f72f .
+
+:c900.10.502 :processoTipoVC :vc_processoTipo_pc .
+:c900.10.502 :processoTransversal "S" .
+:c900.10.502 :temDono :tip_AP .
+:c900.10.502 :temDono :tip_AL .
+:c900.10.502 :temDono :ent_CP .
+:c900.10.502 :temDono :ent_Grupo_IP .
+:c900.10.502 :temDono :ent_INFARMED .
+:c900.10.502 :temDono :tip_CCDR .
+:c900.10.502 :temDono :tip_IES .
+:c900.10.502 :temDono :ent_IMT .
+:c900.10.502 :temDono :ent_ICNF .
+:c900.10.502 :temDono :ent_IGAMAOT .
+:c900.10.502 :temDono :ent_ACT .
+:c900.10.502 :temDono :tip_IES .
+:c900.10.502 :temDono :ent_CASES .
+:c900.10.502 :temDono :ent_CGA .
+:c900.10.502 :temDono :ent_CITE .
+:c900.10.502 :temDono :ent_CNPDPCJ .
+:c900.10.502 :temDono :ent_CPL .
+:c900.10.502 :temDono :ent_CRL .
+:c900.10.502 :temDono :ent_DGERT .
+:c900.10.502 :temDono :ent_DGSS .
+:c900.10.502 :temDono :ent_GEP .
+:c900.10.502 :temDono :ent_IEFP .
+:c900.10.502 :temDono :ent_IGMTSSS .
+:c900.10.502 :temDono :ent_IGFCSS .
+:c900.10.502 :temDono :ent_IGFSS .
+:c900.10.502 :temDono :ent_II .
+:c900.10.502 :temDono :ent_INR .
+:c900.10.502 :temDono :ent_ISS .
+:c900.10.502 :temDono :ent_OIT .
+:c900.10.502 :temDono :ent_POISE .
+:c900.10.502 :temDono :ent_SGMTSSS .
+:c900.10.502 :temDono :ent_DGPM .
+:c900.10.502 :temDono :ent_DGRM .
+:c900.10.502 :temDono :ent_DGADR .
+:c900.10.502 :temDono :ent_DGAV .
+:c900.10.502 :temDono :ent_INIAV .
+:c900.10.502 :temDono :ent_IVV .
+:c900.10.502 :temDono :ent_IVDP .
+:c900.10.502 :temDono :ent_PDR2020 .
+:c900.10.502 :temDono :ent_GPP .
+:c900.10.502 :temDono :tip_DRAP .
+:c900.10.502 :temDono :ent_IFAP .
+:c900.10.502 :temDono :ent_CV .
+:c900.10.502 :temDono :ent_ERSE .
+:c900.10.502 :temParticipanteAssessor :tip_AP .
+:c900.10.502 :temParticipanteAssessor :tip_AL .
+:c900.10.502 :temParticipanteAssessor :ent_INFARMED .
+:c900.10.502 :temParticipanteAssessor :tip_CCDR .
+:c900.10.502 :temParticipanteAssessor :ent_IMT .
+:c900.10.502 :temParticipanteAssessor :ent_ICNF .
+:c900.10.502 :temParticipanteAssessor :ent_IGAMAOT .
+:c900.10.502 :temParticipanteAssessor :ent_ACT .
+:c900.10.502 :temParticipanteAssessor :ent_CASES .
+:c900.10.502 :temParticipanteAssessor :ent_CGA .
+:c900.10.502 :temParticipanteAssessor :ent_CITE .
+:c900.10.502 :temParticipanteAssessor :ent_CNPDPCJ .
+:c900.10.502 :temParticipanteAssessor :ent_CPL .
+:c900.10.502 :temParticipanteAssessor :ent_CRL .
+:c900.10.502 :temParticipanteAssessor :ent_DGERT .
+:c900.10.502 :temParticipanteAssessor :ent_DGSS .
+:c900.10.502 :temParticipanteAssessor :ent_GEP .
+:c900.10.502 :temParticipanteAssessor :ent_IEFP .
+:c900.10.502 :temParticipanteAssessor :ent_IGMTSSS .
+:c900.10.502 :temParticipanteAssessor :ent_IGFCSS .
+:c900.10.502 :temParticipanteAssessor :ent_IGFSS .
+:c900.10.502 :temParticipanteAssessor :ent_II .
+:c900.10.502 :temParticipanteAssessor :ent_INR .
+:c900.10.502 :temParticipanteAssessor :ent_ISS .
+:c900.10.502 :temParticipanteAssessor :ent_OIT .
+:c900.10.502 :temParticipanteAssessor :ent_POISE .
+:c900.10.502 :temParticipanteAssessor :ent_SGMTSSS .
+:c900.10.502 :temParticipanteAssessor :ent_DGPM .
+:c900.10.502 :temParticipanteAssessor :ent_DGRM .
+:c900.10.502 :temParticipanteAssessor :ent_GAMA .
+:c900.10.502 :temParticipanteAssessor :ent_DGADR .
+:c900.10.502 :temParticipanteAssessor :ent_DGAV .
+:c900.10.502 :temParticipanteAssessor :ent_INIAV .
+:c900.10.502 :temParticipanteAssessor :ent_IVV .
+:c900.10.502 :temParticipanteAssessor :ent_IVDP .
+:c900.10.502 :temParticipanteAssessor :ent_PDR2020 .
+:c900.10.502 :temParticipanteAssessor :ent_GPP .
+:c900.10.502 :temParticipanteAssessor :tip_DRAP .
+:c900.10.502 :temParticipanteAssessor :ent_IFAP .
+:c900.10.502 :temParticipanteExecutor :ent_CV .
+:c900.10.502 :temRelProc :c150.20.103 .
+:c900.10.502 :eSucessorDe :c150.20.103 .
+:c900.10.502 :temRelProc :c150.20.300 .
+:c900.10.502 :eSintetizadoPor :c150.20.300 .
+:c900.10.502 :temRelProc :c300.10.005 .
+:c900.10.502 :eSucessorDe :c300.10.005 .
+:c900.10.502 :temRelProc :c300.30.008 .
+:c900.10.502 :eSintetizadoPor :c300.30.008 .
+:c900.10.502 :temRelProc :c500.10.001 .
+:c900.10.502 :eSuplementoPara :c500.10.001 .
+:c900.10.502 :temRelProc :c900.20.001 .
+:c900.10.502 :eSucessorDe :c900.20.001 .
+:c900.10.502 :temRelProc :c900.20.002 .
+:c900.10.502 :eSucessorDe :c900.20.002 .
+:c900.10.502 :temRelProc :c900.20.200 .
+:c900.10.502 :eCruzadoCom :c900.20.200 .
+:c900.10.502 :temRelProc :c900.20.201 .
+:c900.10.502 :eAntecessorDe :c900.20.201 .
+:c900.10.502 :temPCA :pca_c900.10.502.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.502
+:pca_c900.10.502 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.10.502 :pcaValor 10.
+:pca_c900.10.502 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.10.502
+:just_pca_c900.10.502 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.10.502 :temJustificacao :just_pca_c900.10.502 .
+:just_pca_c900.10.502_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.10.502 :temCriterio :just_pca_c900.10.502_0. 
+:just_pca_c900.10.502_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.10.502_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.10.502 :temCriterio :just_pca_c900.10.502_1. 
+:just_pca_c900.10.502_1 :critTemProcRel :c500.10.001 .
+:c900.10.502 :temDF :df_c900.10.502.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.10.502
+:df_c900.10.502 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.10.502 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.10.502
+:just_df_c900.10.502 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.10.502 :temJustificacao :just_df_c900.10.502 .
+:just_df_c900.10.502_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada emPN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação." .
+:just_df_c900.10.502 :temCriterio :just_df_c900.10.502_0. 
+:just_df_c900.10.502_0 :critTemProcRel :c150.20.300 .
+:just_df_c900.10.502_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10.503
+:c900.10.503 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.10.503' ;
+	:titulo 'Organização e participação em iniciativas de promoção ou divulgação de produtos e serviços' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.10 ;
+	:descricao 'Preparação e execução ou intervenção em atividades que estimulam o interesse ou dão a conhecer modos de vida, produtos ou serviços. Inicia com a proposta de realização ou o pedido de participação e termina com a apreciação do relatório de execução da atividade. Inclui, entre outras, o planeamento, a seleção dos participantes, articulação entre entidades, a logística, estimativa dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável, a definição dos meios de divulgação e a produção.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.503_92f68bc037bc
+:nota_900.10.503_92f68bc037bc rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Organização de atividades do serviço educativo".
+
+:c900.10.503 :temNotaAplicacao :nota_900.10.503_92f68bc037bc .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.503_6e0ac76cf12c
+:nota_900.10.503_6e0ac76cf12c rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A realização de ações de promoção da imagem de Portugal no estrangeiro, e de países estrangeiros em Portugal, deve ser considerada em 200.30.600 – Apoio à internacionalização e à promoção do país".
+
+:c900.10.503 :temNotaExclusao :nota_900.10.503_6e0ac76cf12c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.503_a7e62c8a6695
+:nota_900.10.503_a7e62c8a6695 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
+
+:c900.10.503 :temNotaExclusao :nota_900.10.503_a7e62c8a6695 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.503_5e807552f773
+:nota_900.10.503_5e807552f773 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O processamento de despesas e receitas deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
+
+:c900.10.503 :temNotaExclusao :nota_900.10.503_5e807552f773 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.503_771a9e30e42a
+:nota_900.10.503_771a9e30e42a rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A mera publicitação de iniciativas de terceiros deve ser considerada em 900.10.504 - Publicitação de iniciativas e atividades de terceiros".
+
+:c900.10.503 :temNotaExclusao :nota_900.10.503_771a9e30e42a .
+
+:c900.10.503 :processoTipoVC :vc_processoTipo_pc .
+:c900.10.503 :processoTransversal "S" .
+:c900.10.503 :temDono :tip_AP .
+:c900.10.503 :temDono :tip_AL .
+:c900.10.503 :temDono :ent_CP .
+:c900.10.503 :temDono :ent_Grupo_IP .
+:c900.10.503 :temDono :ent_INFARMED .
+:c900.10.503 :temDono :tip_CCDR .
+:c900.10.503 :temDono :tip_IES .
+:c900.10.503 :temDono :ent_IMT .
+:c900.10.503 :temDono :ent_ICNF .
+:c900.10.503 :temDono :ent_IGAMAOT .
+:c900.10.503 :temDono :ent_ACT .
+:c900.10.503 :temDono :ent_CASES .
+:c900.10.503 :temDono :ent_CGA .
+:c900.10.503 :temDono :ent_CITE .
+:c900.10.503 :temDono :ent_CNPDPCJ .
+:c900.10.503 :temDono :ent_CPL .
+:c900.10.503 :temDono :ent_CRL .
+:c900.10.503 :temDono :ent_DGERT .
+:c900.10.503 :temDono :ent_DGSS .
+:c900.10.503 :temDono :ent_GEP .
+:c900.10.503 :temDono :ent_IEFP .
+:c900.10.503 :temDono :ent_IGMTSSS .
+:c900.10.503 :temDono :ent_IGFCSS .
+:c900.10.503 :temDono :ent_IGFSS .
+:c900.10.503 :temDono :ent_II .
+:c900.10.503 :temDono :ent_INR .
+:c900.10.503 :temDono :ent_ISS .
+:c900.10.503 :temDono :ent_OIT .
+:c900.10.503 :temDono :ent_POISE .
+:c900.10.503 :temDono :ent_SGMTSSS .
+:c900.10.503 :temDono :ent_DGPM .
+:c900.10.503 :temDono :ent_DGRM .
+:c900.10.503 :temDono :ent_DGADR .
+:c900.10.503 :temDono :ent_DGAV .
+:c900.10.503 :temDono :ent_INIAV .
+:c900.10.503 :temDono :ent_IVV .
+:c900.10.503 :temDono :ent_PDR2020 .
+:c900.10.503 :temDono :ent_GPP .
+:c900.10.503 :temDono :tip_DRAP .
+:c900.10.503 :temDono :ent_IFAP .
+:c900.10.503 :temDono :ent_CV .
+:c900.10.503 :temParticipanteAssessor :tip_AP .
+:c900.10.503 :temParticipanteAssessor :tip_AL .
+:c900.10.503 :temParticipanteAssessor :ent_INFARMED .
+:c900.10.503 :temParticipanteAssessor :tip_CCDR .
+:c900.10.503 :temParticipanteAssessor :ent_IMT .
+:c900.10.503 :temParticipanteAssessor :ent_ICNF .
+:c900.10.503 :temParticipanteAssessor :ent_IGAMAOT .
+:c900.10.503 :temParticipanteAssessor :ent_ACT .
+:c900.10.503 :temParticipanteAssessor :ent_CASES .
+:c900.10.503 :temParticipanteAssessor :ent_CGA .
+:c900.10.503 :temParticipanteAssessor :ent_CITE .
+:c900.10.503 :temParticipanteAssessor :ent_CNPDPCJ .
+:c900.10.503 :temParticipanteAssessor :ent_CPL .
+:c900.10.503 :temParticipanteAssessor :ent_CRL .
+:c900.10.503 :temParticipanteAssessor :ent_DGERT .
+:c900.10.503 :temParticipanteAssessor :ent_DGSS .
+:c900.10.503 :temParticipanteAssessor :ent_GEP .
+:c900.10.503 :temParticipanteAssessor :ent_IEFP .
+:c900.10.503 :temParticipanteAssessor :ent_IGMTSSS .
+:c900.10.503 :temParticipanteAssessor :ent_IGFCSS .
+:c900.10.503 :temParticipanteAssessor :ent_IGFSS .
+:c900.10.503 :temParticipanteAssessor :ent_II .
+:c900.10.503 :temParticipanteAssessor :ent_INR .
+:c900.10.503 :temParticipanteAssessor :ent_ISS .
+:c900.10.503 :temParticipanteAssessor :ent_OIT .
+:c900.10.503 :temParticipanteAssessor :ent_POISE .
+:c900.10.503 :temParticipanteAssessor :ent_SGMTSSS .
+:c900.10.503 :temParticipanteAssessor :ent_DGPM .
+:c900.10.503 :temParticipanteAssessor :ent_DGRM .
+:c900.10.503 :temParticipanteAssessor :ent_GAMA .
+:c900.10.503 :temParticipanteAssessor :ent_DGADR .
+:c900.10.503 :temParticipanteAssessor :ent_DGAV .
+:c900.10.503 :temParticipanteAssessor :ent_INIAV .
+:c900.10.503 :temParticipanteAssessor :ent_IVV .
+:c900.10.503 :temParticipanteAssessor :ent_IVDP .
+:c900.10.503 :temParticipanteAssessor :ent_PDR2020 .
+:c900.10.503 :temParticipanteAssessor :ent_GPP .
+:c900.10.503 :temParticipanteAssessor :tip_DRAP .
+:c900.10.503 :temParticipanteAssessor :ent_IFAP .
+:c900.10.503 :temParticipanteExecutor :ent_CV .
+:c900.10.503 :temLegislacao :leg_Lei_47_2014 .
+:c900.10.503 :temLegislacao :leg_Lei_10_2013 .
+:c900.10.503 :temLegislacao :leg_DL_67_2003 .
+:c900.10.503 :temLegislacao :leg_Lei_98_97 .
+:c900.10.503 :temRelProc :c150.20.103 .
+:c900.10.503 :eSucessorDe :c150.20.103 .
+:c900.10.503 :temRelProc :c150.20.300 .
+:c900.10.503 :eSintetizadoPor :c150.20.300 .
+:c900.10.503 :temRelProc :c300.10.005 .
+:c900.10.503 :eSucessorDe :c300.10.005 .
+:c900.10.503 :temRelProc :c300.30.008 .
+:c900.10.503 :eSintetizadoPor :c300.30.008 .
+:c900.10.503 :temRelProc :c500.10.001 .
+:c900.10.503 :eSuplementoPara :c500.10.001 .
+:c900.10.503 :temRelProc :c900.20.001 .
+:c900.10.503 :eAntecessorDe :c900.20.001 .
+:c900.10.503 :temRelProc :c900.20.002 .
+:c900.10.503 :eAntecessorDe :c900.20.002 .
+:c900.10.503 :temRelProc :c900.20.200 .
+:c900.10.503 :eCruzadoCom :c900.20.200 .
+:c900.10.503 :temRelProc :c900.20.201 .
+:c900.10.503 :eAntecessorDe :c900.20.201 .
+:c900.10.503 :temPCA :pca_c900.10.503.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.503
+:pca_c900.10.503 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.10.503 :pcaValor 10.
+:pca_c900.10.503 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.10.503
+:just_pca_c900.10.503 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.10.503 :temJustificacao :just_pca_c900.10.503 .
+:just_pca_c900.10.503_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.10.503 :temCriterio :just_pca_c900.10.503_0. 
+:just_pca_c900.10.503_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.10.503_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.10.503 :temCriterio :just_pca_c900.10.503_1. 
+:just_pca_c900.10.503_1 :critTemProcRel :c500.10.001 .
+:c900.10.503 :temDF :df_c900.10.503.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.10.503
+:df_c900.10.503 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.10.503 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.10.503
+:just_df_c900.10.503 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.10.503 :temJustificacao :just_df_c900.10.503 .
+:just_df_c900.10.503_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente emPN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação." .
+:just_df_c900.10.503 :temCriterio :just_df_c900.10.503_0. 
+:just_df_c900.10.503_0 :critTemProcRel :c150.20.300 .
+:just_df_c900.10.503_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10.504
+:c900.10.504 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.10.504' ;
+	:titulo 'Publicitação de iniciativas e atividades de terceiros' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.10 ;
+	:descricao 'Divulgação de iniciativas e atividades de outras entidades. Inicia com o pedido de publicitação e termina com a decisão sobre a publicitação. Inclui a análise do pedido.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.504_4c3fd5bfda77
+:nota_900.10.504_4c3fd5bfda77 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Quando não há qualquer intervenção no processo para além da publicitação da atividade ou iniciativa".
+
+:c900.10.504 :temNotaAplicacao :nota_900.10.504_4c3fd5bfda77 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.504_e79cbf4130ad
+:nota_900.10.504_e79cbf4130ad rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
+
+:c900.10.504 :temNotaExclusao :nota_900.10.504_e79cbf4130ad .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.504_b55aa36d5c7a
+:nota_900.10.504_b55aa36d5c7a rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A divulgação de atividades ou serviços de terceiros que envolva participação ativa da administração deve ser considerada em 900.10.503 – Organização e participação em iniciativas de promoção ou divulgação de produtos e serviços".
+
+:c900.10.504 :temNotaExclusao :nota_900.10.504_b55aa36d5c7a .
+
+:c900.10.504 :processoTipoVC :vc_processoTipo_pc .
+:c900.10.504 :processoTransversal "S" .
+:c900.10.504 :temDono :tip_AP .
+:c900.10.504 :temDono :ent_CP .
+:c900.10.504 :temDono :ent_INFARMED .
+:c900.10.504 :temDono :tip_IES .
+:c900.10.504 :temDono :tip_CCDR .
+:c900.10.504 :temDono :ent_IMT .
+:c900.10.504 :temDono :ent_ICNF .
+:c900.10.504 :temDono :ent_IGAMAOT .
+:c900.10.504 :temDono :ent_ACT .
+:c900.10.504 :temDono :ent_CASES .
+:c900.10.504 :temDono :ent_CGA .
+:c900.10.504 :temDono :ent_CITE .
+:c900.10.504 :temDono :ent_CNPDPCJ .
+:c900.10.504 :temDono :ent_CPL .
+:c900.10.504 :temDono :ent_CRL .
+:c900.10.504 :temDono :ent_DGERT .
+:c900.10.504 :temDono :ent_DGSS .
+:c900.10.504 :temDono :ent_GEP .
+:c900.10.504 :temDono :ent_IEFP .
+:c900.10.504 :temDono :ent_IGMTSSS .
+:c900.10.504 :temDono :ent_IGFCSS .
+:c900.10.504 :temDono :ent_IGFSS .
+:c900.10.504 :temDono :ent_II .
+:c900.10.504 :temDono :ent_INR .
+:c900.10.504 :temDono :ent_ISS .
+:c900.10.504 :temDono :ent_OIT .
+:c900.10.504 :temDono :ent_POISE .
+:c900.10.504 :temDono :ent_SGMTSSS .
+:c900.10.504 :temDono :ent_DGPM .
+:c900.10.504 :temDono :ent_DGRM .
+:c900.10.504 :temDono :ent_GAMA .
+:c900.10.504 :temDono :ent_DGADR .
+:c900.10.504 :temDono :ent_DGAV .
+:c900.10.504 :temDono :ent_INIAV .
+:c900.10.504 :temDono :ent_IVV .
+:c900.10.504 :temDono :ent_IVDP .
+:c900.10.504 :temDono :ent_PDR2020 .
+:c900.10.504 :temDono :ent_GPP .
+:c900.10.504 :temDono :tip_DRAP .
+:c900.10.504 :temDono :ent_IFAP .
+:c900.10.504 :temParticipanteComunicador :tip_AP .
+:c900.10.504 :temParticipanteComunicador :tip_AL .
+:c900.10.504 :temParticipanteComunicador :tip_CCDR .
+:c900.10.504 :temParticipanteComunicador :ent_IMT .
+:c900.10.504 :temParticipanteComunicador :ent_ICNF .
+:c900.10.504 :temParticipanteComunicador :ent_IGAMAOT .
+:c900.10.504 :temParticipanteAssessor :ent_ACT .
+:c900.10.504 :temParticipanteAssessor :ent_CASES .
+:c900.10.504 :temParticipanteAssessor :ent_CGA .
+:c900.10.504 :temParticipanteAssessor :ent_CITE .
+:c900.10.504 :temParticipanteAssessor :ent_CNPDPCJ .
+:c900.10.504 :temParticipanteAssessor :ent_CPL .
+:c900.10.504 :temParticipanteAssessor :ent_CRL .
+:c900.10.504 :temParticipanteAssessor :ent_DGERT .
+:c900.10.504 :temParticipanteAssessor :ent_DGSS .
+:c900.10.504 :temParticipanteAssessor :ent_GEP .
+:c900.10.504 :temParticipanteAssessor :ent_IEFP .
+:c900.10.504 :temParticipanteAssessor :ent_IGMTSSS .
+:c900.10.504 :temParticipanteAssessor :ent_IGFCSS .
+:c900.10.504 :temParticipanteAssessor :ent_IGFSS .
+:c900.10.504 :temParticipanteAssessor :ent_II .
+:c900.10.504 :temParticipanteAssessor :ent_INR .
+:c900.10.504 :temParticipanteAssessor :ent_ISS .
+:c900.10.504 :temParticipanteAssessor :ent_OIT .
+:c900.10.504 :temParticipanteAssessor :ent_POISE .
+:c900.10.504 :temParticipanteAssessor :ent_SGMTSSS .
+:c900.10.504 :temParticipanteAssessor :ent_DGPM .
+:c900.10.504 :temParticipanteAssessor :ent_DGRM .
+:c900.10.504 :temParticipanteAssessor :ent_GAMA .
+:c900.10.504 :temParticipanteAssessor :ent_DGADR .
+:c900.10.504 :temParticipanteAssessor :ent_DGAV .
+:c900.10.504 :temParticipanteAssessor :ent_INIAV .
+:c900.10.504 :temParticipanteAssessor :ent_IVV .
+:c900.10.504 :temParticipanteAssessor :ent_IVDP .
+:c900.10.504 :temParticipanteAssessor :ent_PDR2020 .
+:c900.10.504 :temParticipanteAssessor :ent_GPP .
+:c900.10.504 :temParticipanteAssessor :tip_DRAP .
+:c900.10.504 :temParticipanteAssessor :ent_IFAP .
+:c900.10.504 :temParticipanteComunicador :ent_CV .
+:c900.10.504 :temRelProc :c150.20.101 .
+:c900.10.504 :eSucessorDe :c150.20.101 .
+:c900.10.504 :temRelProc :c150.20.300 .
+:c900.10.504 :eSintetizadoPor :c150.20.300 .
+:c900.10.504 :temRelProc :c300.10.005 .
+:c900.10.504 :eSucessorDe :c300.10.005 .
+:c900.10.504 :temRelProc :c300.30.008 .
+:c900.10.504 :eSintetizadoPor :c300.30.008 .
+:c900.10.504 :temRelProc :c900.20.200 .
+:c900.10.504 :eCruzadoCom :c900.20.200 .
+:c900.10.504 :temRelProc :c900.20.201 .
+:c900.10.504 :eAntecessorDe :c900.20.201 .
+:c900.10.504 :temPCA :pca_c900.10.504.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.504
+:pca_c900.10.504 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.10.504 :pcaValor 1.
+:pca_c900.10.504 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.10.504
+:just_pca_c900.10.504 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.10.504 :temJustificacao :just_pca_c900.10.504 .
+:just_pca_c900.10.504_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "A utilidade do PN esgota-se na comunicação do ato." .
+:just_pca_c900.10.504 :temCriterio :just_pca_c900.10.504_0. 
+:c900.10.504 :temDF :df_c900.10.504.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.10.504
+:df_c900.10.504 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.10.504 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.10.504
+:just_df_c900.10.504 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.10.504 :temJustificacao :just_df_c900.10.504 .
+:just_df_c900.10.504_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada complementarmente emPN 150.20.300 - Avaliação de atividadesPN 300.30.008 - Registo de documentos e informação" .
+:just_df_c900.10.504 :temCriterio :just_df_c900.10.504_0. 
+:just_df_c900.10.504_0 :critTemProcRel :c150.20.300 .
+:just_df_c900.10.504_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.10.505
+:c900.10.505 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.10.505' ;
+	:titulo 'Organização e participação em cerimónia religiosa' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.10 ;
+	:descricao 'Preparação e execução ou intervenção em iniciativas de cariz religioso. Inicia com o pedido de organização ou de participação em ato espiritual ou religioso e termina com a realização ou participação no ato. Inclui identificação do ato, programação, definição dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_d37ab22bb483
+:nota_900.10.505_d37ab22bb483 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Organização das celebrações espirituais e religiosas em estabelecimento prisional".
+
+:c900.10.505 :temNotaAplicacao :nota_900.10.505_d37ab22bb483 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_cc6b0f3a7539
+:nota_900.10.505_cc6b0f3a7539 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Cerimónias religiosas em centros educativos".
+
+:c900.10.505 :temNotaAplicacao :nota_900.10.505_cc6b0f3a7539 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_a0b3eb5d2780
+:nota_900.10.505_a0b3eb5d2780 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Cerimónias religiosas em hospitais e outros estabelecimentos do Serviço Nacional de Saúde".
+
+:c900.10.505 :temNotaAplicacao :nota_900.10.505_a0b3eb5d2780 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_0651c7b50a65
+:nota_900.10.505_0651c7b50a65 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo " Cerimónias religiosas em estabelecimentos das Forças Armadas e Forças de Segurança".
+
+:c900.10.505 :temNotaAplicacao :nota_900.10.505_0651c7b50a65 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_d7eca3b49b2b
+:nota_900.10.505_d7eca3b49b2b rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Procissões religiosas comemorativas dos padroeiros".
+
+:c900.10.505 :temNotaAplicacao :nota_900.10.505_d7eca3b49b2b .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_6b65f76e6d72
+:nota_900.10.505_6b65f76e6d72 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As questões de segurança devem ser consideradas em 550.10 - Segurança pública".
+
+:c900.10.505 :temNotaExclusao :nota_900.10.505_6b65f76e6d72 .
+
+:c900.10.505 :processoTipoVC :vc_processoTipo_pe .
+:c900.10.505 :processoTransversal "N" .
+:c900.10.505 :temDono :ent_DGRSP .
+:c900.10.505 :temDono :tip_IES .
+:c900.10.505 :temDono :tip_HH .
+:c900.10.505 :temDono :tip_FA .
+:c900.10.505 :temDono :tip_FSS .
+:c900.10.505 :temDono :tip_IES .
+:c900.10.505 :temDono :ent_CPL .
+:c900.10.505 :temLegislacao :leg_DL_253_2009 .
+:c900.10.505 :temLegislacao :leg_DL_252_2009 .
+:c900.10.505 :temLegislacao :leg_DL_251_2009 .
+:c900.10.505 :temLegislacao :leg_Lei_16_2001 .
+:c900.10.505 :temLegislacao :leg_Lei_58_2019 .
+:c900.10.505 :temLegislacao :leg_Lei_98_97 .
+:c900.10.505 :temRelProc :c150.10.700 .
+:c900.10.505 :eCruzadoCom :c150.10.700 .
+:c900.10.505 :temRelProc :c150.10.701 .
+:c900.10.505 :eCruzadoCom :c150.10.701 .
+:c900.10.505 :temRelProc :c150.20.300 .
+:c900.10.505 :eSintetizadoPor :c150.20.300 .
+:c900.10.505 :temRelProc :c300.10.005 .
+:c900.10.505 :eSucessorDe :c300.10.005 .
+:c900.10.505 :temRelProc :c500.10.001 .
+:c900.10.505 :eSuplementoPara :c500.10.001 .
+:c900.10.505 :temPCA :pca_c900.10.505.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.505
+:pca_c900.10.505 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.10.505 :pcaValor 10.
+:pca_c900.10.505 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.10.505
+:just_pca_c900.10.505 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.10.505 :temJustificacao :just_pca_c900.10.505 .
+:just_pca_c900.10.505_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.10.505 :temCriterio :just_pca_c900.10.505_0. 
+:just_pca_c900.10.505_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.10.505_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.10.505 :temCriterio :just_pca_c900.10.505_1. 
+:just_pca_c900.10.505_1 :critTemProcRel :c500.10.001 .
+:c900.10.505 :temDF :df_c900.10.505.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.10.505
+:df_c900.10.505 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.10.505 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.10.505
+:just_df_c900.10.505 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.10.505 :temJustificacao :just_df_c900.10.505 .
+:just_df_c900.10.505_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada noPN 150.20.300 - Avaliação de atividades." .
+:just_df_c900.10.505 :temCriterio :just_df_c900.10.505_0. 
+:just_df_c900.10.505_0 :critTemProcRel :c150.20.300 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20
+:c900.20 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N2 ;
+	:codigo '900.20' ;
+	:titulo 'Execução de atividades de protocolo e comunicação institucional' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900 ;
+	:descricao 'Compreende o conjunto de ações que visam a criação e promoção da imagem da instituição, bem como a administração estratégica dos contactos e do relacionamento entre a organização e os diferentes públicos que com ela se relacionam e interagem. Considerar a criação de identidade/imagem gráfica, a atividade editorial que suporta a publicação de conteúdos institucionais, o tratamento de informação publicada nos meios de comunicação social e na internet, a preparação de informação destinada à comunicação social, à internet e à intranet e, ainda, a conceção e produção de campanhas publicitárias e artigos promocionais. Compreende, ainda, o processamento de pedidos de informação/esclarecimento dirigidos por qualquer entidade, nacional ou estrangeira, aos serviços públicos (incluindo os pedidos apresentados por grupos parlamentares ou deputados).' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_c860abd83ef2
+:nota_900.20_c860abd83ef2 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Mensagens de cortesia".
+
+:c900.20 :temNotaAplicacao :nota_900.20_c860abd83ef2 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_71f343ab87e0
+:nota_900.20_71f343ab87e0 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Convites institucionais (quando não incluídos no processo de organização de evento)".
+
+:c900.20 :temNotaAplicacao :nota_900.20_71f343ab87e0 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_706a4b3c813c
+:nota_900.20_706a4b3c813c rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Criação de logótipo e de linha gráfica (do organismo, da região, do produto, do programa, do serviço, do evento ou outros)".
+
+:c900.20 :temNotaAplicacao :nota_900.20_706a4b3c813c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_41c35b160906
+:nota_900.20_41c35b160906 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Gestão de conteúdos para a internet e intranet".
+
+:c900.20 :temNotaAplicacao :nota_900.20_41c35b160906 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_aefad35e75d8
+:nota_900.20_aefad35e75d8 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Publicações, em papel ou suporte eletrónico, de estudos, relatórios, boletins ou folhetos informativos".
+
+:c900.20 :temNotaAplicacao :nota_900.20_aefad35e75d8 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_2f11726c998a
+:nota_900.20_2f11726c998a rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Comunicados e notas de imprensa, entrevistas aos meios de comunicação social".
+
+:c900.20 :temNotaAplicacao :nota_900.20_2f11726c998a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_da8a40a769ab
+:nota_900.20_da8a40a769ab rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Criação de spots publicitários para divulgação nos meios de comunicação social".
+
+:c900.20 :temNotaAplicacao :nota_900.20_da8a40a769ab .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_7a224a06160d
+:nota_900.20_7a224a06160d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Cartazes".
+
+:c900.20 :temNotaAplicacao :nota_900.20_7a224a06160d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_eeb4abf1247d
+:nota_900.20_eeb4abf1247d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Edição de reproduções de peças do património cultural".
+
+:c900.20 :temNotaAplicacao :nota_900.20_eeb4abf1247d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_f4bfa0da153b
+:nota_900.20_f4bfa0da153b rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Qualquer tipo de objeto promocional (canetas, camisolas, etc.)".
+
+:c900.20 :temNotaAplicacao :nota_900.20_f4bfa0da153b .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_eab3f0c89d30
+:nota_900.20_eab3f0c89d30 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Resposta a pedidos de informação".
+
+:c900.20 :temNotaAplicacao :nota_900.20_eab3f0c89d30 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_dc2f7ed4d17a
+:nota_900.20_dc2f7ed4d17a rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Bases de dados de contactos institucionais".
+
+:c900.20 :temNotaAplicacao :nota_900.20_dc2f7ed4d17a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_452e2199dab2
+:nota_900.20_452e2199dab2 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O processamento dos pedidos/requisições de acesso a documentos devem ser considerados em \"Administração de direitos, bens e serviços/ Utilização, exploração e rentabilidade\" (300.50)".
+
+:c900.20 :temNotaExclusao :nota_900.20_452e2199dab2 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_07c2affb4457
+:nota_900.20_07c2affb4457 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Não confundir com pedidos de parecer no âmbito dos processos de negócio em que o organismo participa, os quais devem ser considerados na área respetiva".
+
+:c900.20 :temNotaExclusao :nota_900.20_07c2affb4457 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_ca76e42d09f3
+:nota_900.20_ca76e42d09f3 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Atividades como, por exemplo, edições para a divulgação de autores portugueses, devem ser consideradas em \"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\" (900.10)".
+
+:c900.20 :temNotaExclusao :nota_900.20_ca76e42d09f3 .
+
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.001
+:c900.20.001 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.20.001' ;
+	:titulo 'Criação de imagem e identidade gráficas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20 ;
+	:descricao 'Conceção e consolidação da imagem gráfica uniformizada a utilizar por uma instituição, de modo a permitir o seu reconhecimento. Inicia com a decisão de criar ou de mudar a imagem e termina com a divulgação oficial dos objetos gráficos concebidos. Inclui criação e apresentação de propostas de imagem gráfica e a seleção do objeto gráfico.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.001_5c7593bf6e06
+:nota_900.20.001_5c7593bf6e06 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A aquisição de serviços e produtos deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
+
+:c900.20.001 :temNotaExclusao :nota_900.20.001_5c7593bf6e06 .
+
+:c900.20.001 :processoTipoVC :vc_processoTipo_pc .
+:c900.20.001 :processoTransversal "S" .
+:c900.20.001 :temDono :tip_AP .
+:c900.20.001 :temDono :tip_AL .
+:c900.20.001 :temDono :ent_Grupo_IP .
+:c900.20.001 :temDono :tip_IES .
+:c900.20.001 :temDono :ent_INFARMED .
+:c900.20.001 :temDono :ent_CP .
+:c900.20.001 :temDono :tip_CCDR .
+:c900.20.001 :temDono :ent_IMT .
+:c900.20.001 :temDono :ent_ICNF .
+:c900.20.001 :temDono :ent_IGAMAOT .
+:c900.20.001 :temDono :ent_ACT .
+:c900.20.001 :temDono :ent_CASES .
+:c900.20.001 :temDono :ent_CGA .
+:c900.20.001 :temDono :ent_CITE .
+:c900.20.001 :temDono :ent_CNPDPCJ .
+:c900.20.001 :temDono :ent_CPL .
+:c900.20.001 :temDono :ent_CRL .
+:c900.20.001 :temDono :ent_DGERT .
+:c900.20.001 :temDono :ent_DGSS .
+:c900.20.001 :temDono :ent_GEP .
+:c900.20.001 :temDono :ent_IEFP .
+:c900.20.001 :temDono :ent_IGMTSSS .
+:c900.20.001 :temDono :ent_IGFCSS .
+:c900.20.001 :temDono :ent_IGFSS .
+:c900.20.001 :temDono :ent_II .
+:c900.20.001 :temDono :ent_INR .
+:c900.20.001 :temDono :ent_ISS .
+:c900.20.001 :temDono :ent_OIT .
+:c900.20.001 :temDono :ent_POISE .
+:c900.20.001 :temDono :ent_SGMTSSS .
+:c900.20.001 :temDono :ent_DGPM .
+:c900.20.001 :temDono :ent_DGRM .
+:c900.20.001 :temDono :ent_GAMA .
+:c900.20.001 :temDono :ent_DGADR .
+:c900.20.001 :temDono :ent_DGAV .
+:c900.20.001 :temDono :ent_INIAV .
+:c900.20.001 :temDono :ent_IVV .
+:c900.20.001 :temDono :ent_IVDP .
+:c900.20.001 :temDono :ent_PDR2020 .
+:c900.20.001 :temDono :ent_GPP .
+:c900.20.001 :temDono :tip_DRAP .
+:c900.20.001 :temDono :ent_IFAP .
+:c900.20.001 :temDono :ent_CV .
+:c900.20.001 :temDono :ent_ERSE .
+:c900.20.001 :temParticipanteAssessor :tip_CCDR .
+:c900.20.001 :temParticipanteAssessor :ent_CV .
+:c900.20.001 :temRelProc :c300.10.005 .
+:c900.20.001 :eAntecessorDe :c300.10.005 .
+:c900.20.001 :temRelProc :c400.10.606 .
+:c900.20.001 :eAntecessorDe :c400.10.606 .
+:c900.20.001 :temRelProc :c500.10.001 .
+:c900.20.001 :eSuplementoPara :c500.10.001 .
+:c900.20.001 :temRelProc :c900.10.001 .
+:c900.20.001 :eAntecessorDe :c900.10.001 .
+:c900.20.001 :temRelProc :c900.10.002 .
+:c900.20.001 :eAntecessorDe :c900.10.002 .
+:c900.20.001 :temRelProc :c900.10.501 .
+:c900.20.001 :eAntecessorDe :c900.10.501 .
+:c900.20.001 :temRelProc :c900.10.502 .
+:c900.20.001 :eAntecessorDe :c900.10.502 .
+:c900.20.001 :temRelProc :c900.10.503 .
+:c900.20.001 :eSucessorDe :c900.10.503 .
+:c900.20.001 :temPCA :pca_c900.20.001.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.001
+:pca_c900.20.001 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.20.001 :pcaValor 10.
+:pca_c900.20.001 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.20.001
+:just_pca_c900.20.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.20.001 :temJustificacao :just_pca_c900.20.001 .
+:just_pca_c900.20.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.20.001 :temCriterio :just_pca_c900.20.001_0. 
+:just_pca_c900.20.001_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.20.001_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.20.001 :temCriterio :just_pca_c900.20.001_1. 
+:just_pca_c900.20.001_1 :critTemProcRel :c500.10.001 .
+:c900.20.001 :temDF :df_c900.20.001.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.20.001
+:df_c900.20.001 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.20.001 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.20.001
+:just_df_c900.20.001 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.20.001 :temJustificacao :just_df_c900.20.001 .
+:just_df_c900.20.001_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN." .
+:just_df_c900.20.001 :temCriterio :just_df_c900.20.001_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.002
+:c900.20.002 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.20.002' ;
+	:titulo 'Criação de produtos e artigos promocionais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20 ;
+	:descricao 'Conceção de produtos que consolidem e projetem a imagem da instituição na comunidade ou reforcem o simbolismo de um determinado acontecimento ou data. Inicia com a proposta de criação do produto ou artigo e termina com a apresentação do produto. Inclui definição e a aprovação do layout final.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.002_02f6fe84b015
+:nota_900.20.002_02f6fe84b015 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A aquisição de serviços deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
+
+:c900.20.002 :temNotaExclusao :nota_900.20.002_02f6fe84b015 .
+
+:c900.20.002 :processoTipoVC :vc_processoTipo_pc .
+:c900.20.002 :processoTransversal "S" .
+:c900.20.002 :temDono :tip_AP .
+:c900.20.002 :temDono :tip_AL .
+:c900.20.002 :temDono :ent_Grupo_IP .
+:c900.20.002 :temDono :ent_INFARMED .
+:c900.20.002 :temDono :ent_CP .
+:c900.20.002 :temDono :tip_CCDR .
+:c900.20.002 :temDono :tip_IES .
+:c900.20.002 :temDono :ent_IMT .
+:c900.20.002 :temDono :ent_ICNF .
+:c900.20.002 :temDono :ent_IGAMAOT .
+:c900.20.002 :temDono :ent_ACT .
+:c900.20.002 :temDono :ent_CASES .
+:c900.20.002 :temDono :ent_CGA .
+:c900.20.002 :temDono :ent_CITE .
+:c900.20.002 :temDono :ent_CNPDPCJ .
+:c900.20.002 :temDono :ent_CPL .
+:c900.20.002 :temDono :ent_CRL .
+:c900.20.002 :temDono :ent_DGERT .
+:c900.20.002 :temDono :ent_DGSS .
+:c900.20.002 :temDono :ent_GEP .
+:c900.20.002 :temDono :ent_IEFP .
+:c900.20.002 :temDono :ent_IGMTSSS .
+:c900.20.002 :temDono :ent_IGFCSS .
+:c900.20.002 :temDono :ent_IGFSS .
+:c900.20.002 :temDono :ent_II .
+:c900.20.002 :temDono :ent_INR .
+:c900.20.002 :temDono :ent_ISS .
+:c900.20.002 :temDono :ent_OIT .
+:c900.20.002 :temDono :ent_POISE .
+:c900.20.002 :temDono :ent_SGMTSSS .
+:c900.20.002 :temDono :ent_DGPM .
+:c900.20.002 :temDono :ent_DGRM .
+:c900.20.002 :temDono :ent_GAMA .
+:c900.20.002 :temDono :ent_DGADR .
+:c900.20.002 :temDono :ent_DGAV .
+:c900.20.002 :temDono :ent_INIAV .
+:c900.20.002 :temDono :ent_IVV .
+:c900.20.002 :temDono :ent_IVDP .
+:c900.20.002 :temDono :ent_PDR2020 .
+:c900.20.002 :temDono :ent_GPP .
+:c900.20.002 :temDono :tip_DRAP .
+:c900.20.002 :temDono :ent_IFAP .
+:c900.20.002 :temDono :ent_CV .
+:c900.20.002 :temDono :ent_ERSE .
+:c900.20.002 :temParticipanteAssessor :tip_CCDR .
+:c900.20.002 :temRelProc :c300.10.005 .
+:c900.20.002 :eAntecessorDe :c300.10.005 .
+:c900.20.002 :temRelProc :c400.10.606 .
+:c900.20.002 :eAntecessorDe :c400.10.606 .
+:c900.20.002 :temRelProc :c500.10.001 .
+:c900.20.002 :eSuplementoPara :c500.10.001 .
+:c900.20.002 :temRelProc :c900.10.001 .
+:c900.20.002 :eAntecessorDe :c900.10.001 .
+:c900.20.002 :temRelProc :c900.10.002 .
+:c900.20.002 :eAntecessorDe :c900.10.002 .
+:c900.20.002 :temRelProc :c900.10.501 .
+:c900.20.002 :eAntecessorDe :c900.10.501 .
+:c900.20.002 :temRelProc :c900.10.502 .
+:c900.20.002 :eAntecessorDe :c900.10.502 .
+:c900.20.002 :temRelProc :c900.10.503 .
+:c900.20.002 :eSucessorDe :c900.10.503 .
+:c900.20.002 :temPCA :pca_c900.20.002.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.002
+:pca_c900.20.002 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.20.002 :pcaValor 10.
+:pca_c900.20.002 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.20.002
+:just_pca_c900.20.002 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.20.002 :temJustificacao :just_pca_c900.20.002 .
+:just_pca_c900.20.002_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.20.002 :temCriterio :just_pca_c900.20.002_0. 
+:just_pca_c900.20.002_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.20.002_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.20.002 :temCriterio :just_pca_c900.20.002_1. 
+:just_pca_c900.20.002_1 :critTemProcRel :c500.10.001 .
+:c900.20.002 :temDF :df_c900.20.002.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.20.002
+:df_c900.20.002 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.20.002 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.20.002
+:just_df_c900.20.002 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.20.002 :temJustificacao :just_df_c900.20.002 .
+:just_df_c900.20.002_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN." .
+:just_df_c900.20.002 :temCriterio :just_df_c900.20.002_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.200
+:c900.20.200 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.20.200' ;
+	:titulo 'Conceção de conteúdos institucionais para divulgação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20 ;
+	:descricao 'Elaboração de conteúdos inerentes às atividades da organização e à definição de modalidades de difusão. Inicia com a definição dos conteúdos e termina com o envio para processo editorial ou a publicação. Inclui a criação, a redação de textos e a gestão de conteúdos.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_1ba029504c70
+:nota_900.20.200_1ba029504c70 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Criação de conteúdos para divulgação na internet, intranet e nas redes sociais".
+
+:c900.20.200 :temNotaAplicacao :nota_900.20.200_1ba029504c70 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_8bbb86c5cac3
+:nota_900.20.200_8bbb86c5cac3 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Criação de conteúdos para folhetos institucionais e newsletter".
+
+:c900.20.200 :temNotaAplicacao :nota_900.20.200_8bbb86c5cac3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_021d9e80a635
+:nota_900.20.200_021d9e80a635 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Realização de campanhas e spots publicitários".
+
+:c900.20.200 :temNotaAplicacao :nota_900.20.200_021d9e80a635 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_013b4c9efb85
+:nota_900.20.200_013b4c9efb85 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A aquisição de serviços de ou para publicidade deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
+
+:c900.20.200 :temNotaExclusao :nota_900.20.200_013b4c9efb85 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_9d9793a000fe
+:nota_900.20.200_9d9793a000fe rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O arranjo gráfico de conteúdos informacionais no âmbito da atividade de edição deve ser considerado em 900.20.201 – Edição e publicação de conteúdos".
+
+:c900.20.200 :temNotaExclusao :nota_900.20.200_9d9793a000fe .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_4fc13bd28cb7
+:nota_900.20.200_4fc13bd28cb7 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A comunicação de atos legislativos deve ser considerada em \"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\" (100.10)".
+
+:c900.20.200 :temNotaExclusao :nota_900.20.200_4fc13bd28cb7 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_b765167ec1c1
+:nota_900.20.200_b765167ec1c1 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A elaboração de conteúdos decorrentes de um PN específico deve ser considerada no respetivo PN".
+
+:c900.20.200 :temNotaExclusao :nota_900.20.200_b765167ec1c1 .
+
+:c900.20.200 :processoTipoVC :vc_processoTipo_pc .
+:c900.20.200 :processoTransversal "S" .
+:c900.20.200 :temDono :tip_AP .
+:c900.20.200 :temDono :tip_AL .
+:c900.20.200 :temDono :ent_Grupo_IP .
+:c900.20.200 :temDono :ent_INFARMED .
+:c900.20.200 :temDono :tip_IES .
+:c900.20.200 :temDono :ent_CP .
+:c900.20.200 :temDono :tip_CCDR .
+:c900.20.200 :temDono :ent_IMT .
+:c900.20.200 :temDono :ent_ICNF .
+:c900.20.200 :temDono :ent_IGAMAOT .
+:c900.20.200 :temDono :ent_ACT .
+:c900.20.200 :temDono :ent_CASES .
+:c900.20.200 :temDono :ent_CGA .
+:c900.20.200 :temDono :ent_CITE .
+:c900.20.200 :temDono :ent_CNPDPCJ .
+:c900.20.200 :temDono :ent_CPL .
+:c900.20.200 :temDono :ent_CRL .
+:c900.20.200 :temDono :ent_DGERT .
+:c900.20.200 :temDono :ent_DGSS .
+:c900.20.200 :temDono :ent_GEP .
+:c900.20.200 :temDono :ent_IEFP .
+:c900.20.200 :temDono :ent_IGMTSSS .
+:c900.20.200 :temDono :ent_IGFCSS .
+:c900.20.200 :temDono :ent_IGFSS .
+:c900.20.200 :temDono :ent_II .
+:c900.20.200 :temDono :ent_INR .
+:c900.20.200 :temDono :ent_ISS .
+:c900.20.200 :temDono :ent_OIT .
+:c900.20.200 :temDono :ent_POISE .
+:c900.20.200 :temDono :ent_SGMTSSS .
+:c900.20.200 :temDono :ent_DGPM .
+:c900.20.200 :temDono :ent_DGRM .
+:c900.20.200 :temDono :ent_GAMA .
+:c900.20.200 :temDono :ent_DGADR .
+:c900.20.200 :temDono :ent_DGAV .
+:c900.20.200 :temDono :ent_INIAV .
+:c900.20.200 :temDono :ent_IVV .
+:c900.20.200 :temDono :ent_IVDP .
+:c900.20.200 :temDono :ent_PDR2020 .
+:c900.20.200 :temDono :ent_GPP .
+:c900.20.200 :temDono :tip_DRAP .
+:c900.20.200 :temDono :ent_IFAP .
+:c900.20.200 :temDono :ent_CV .
+:c900.20.200 :temDono :ent_ERSE .
+:c900.20.200 :temParticipanteAssessor :tip_CCDR .
+:c900.20.200 :temLegislacao :leg_Lei_95_2015 .
+:c900.20.200 :temLegislacao :leg_Resolução_do_Conselho_de_Ministros_91_2012 .
+:c900.20.200 :temLegislacao :leg_Lei_36_2011 .
+:c900.20.200 :temLegislacao :leg_Resolução_do_Conselho_de_Ministros_47_2010 .
+:c900.20.200 :temLegislacao :leg_Lei_98_97 .
+:c900.20.200 :temRelProc :c150.20.001 .
+:c900.20.200 :eSucessorDe :c150.20.001 .
+:c900.20.200 :temRelProc :c150.20.100 .
+:c900.20.200 :eSucessorDe :c150.20.100 .
+:c900.20.200 :temRelProc :c150.20.200 .
+:c900.20.200 :eSucessorDe :c150.20.200 .
+:c900.20.200 :temRelProc :c150.20.301 .
+:c900.20.200 :eSucessorDe :c150.20.301 .
+:c900.20.200 :temRelProc :c150.20.501 .
+:c900.20.200 :eSucessorDe :c150.20.501 .
+:c900.20.200 :temRelProc :c300.10.005 .
+:c900.20.200 :eAntecessorDe :c300.10.005 .
+:c900.20.200 :temRelProc :c400.10.607 .
+:c900.20.200 :eAntecessorDe :c400.10.607 .
+:c900.20.200 :temRelProc :c500.10.001 .
+:c900.20.200 :eSuplementoPara :c500.10.001 .
+:c900.20.200 :temRelProc :c900.10.001 .
+:c900.20.200 :eAntecessorDe :c900.10.001 .
+:c900.20.200 :temRelProc :c900.10.002 .
+:c900.20.200 :eCruzadoCom :c900.10.002 .
+:c900.20.200 :temRelProc :c900.10.501 .
+:c900.20.200 :eSucessorDe :c900.10.501 .
+:c900.20.200 :temRelProc :c900.10.502 .
+:c900.20.200 :eCruzadoCom :c900.10.502 .
+:c900.20.200 :temRelProc :c900.10.503 .
+:c900.20.200 :eCruzadoCom :c900.10.503 .
+:c900.20.200 :temRelProc :c900.10.504 .
+:c900.20.200 :eCruzadoCom :c900.10.504 .
+:c900.20.200 :temRelProc :c900.20.201 .
+:c900.20.200 :eSinteseDe :c900.20.201 .
+:c900.20.200 :temPCA :pca_c900.20.200.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.200
+:pca_c900.20.200 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.20.200 :pcaValor 10.
+:pca_c900.20.200 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.20.200
+:just_pca_c900.20.200 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.20.200 :temJustificacao :just_pca_c900.20.200 .
+:just_pca_c900.20.200_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.20.200 :temCriterio :just_pca_c900.20.200_0. 
+:just_pca_c900.20.200_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.20.200_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.20.200 :temCriterio :just_pca_c900.20.200_1. 
+:just_pca_c900.20.200_1 :critTemProcRel :c500.10.001 .
+:c900.20.200 :temDF :df_c900.20.200.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.20.200
+:df_c900.20.200 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.20.200 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.20.200
+:just_df_c900.20.200 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.20.200 :temJustificacao :just_df_c900.20.200 .
+:just_df_c900.20.200_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN." .
+:just_df_c900.20.200 :temCriterio :just_df_c900.20.200_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.201
+:c900.20.201 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.20.201' ;
+	:titulo 'Edição e publicação de conteúdos' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20 ;
+	:descricao 'Edição de publicações e comunicação de conteúdos institucionais, por iniciativa própria, imposição legal ou proposta de outras entidades. Inicia com a proposta de elaboração, cumprimento legal ou convite para participação na obra ou produto e termina com a divulgação. Inclui a definição e aprovação de layout, execução gráfica, e a apresentação da versão final. ' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.201_45cbf9e65fb1
+:nota_900.20.201_45cbf9e65fb1 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Edição, reedição e reimpressão".
+
+:c900.20.201 :temNotaAplicacao :nota_900.20.201_45cbf9e65fb1 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.201_bfd87a63f81e
+:nota_900.20.201_bfd87a63f81e rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Publicitação da informação institucional de forma tradicional (por exemplo sob a forma de edital ou anúncio) ou eletrónica (como os portais, plataformas)".
+
+:c900.20.201 :temNotaAplicacao :nota_900.20.201_bfd87a63f81e .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.201_77a887a98024
+:nota_900.20.201_77a887a98024 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Publicação de diretórios de entidades".
+
+:c900.20.201 :temNotaAplicacao :nota_900.20.201_77a887a98024 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.201_613b3c80fa9d
+:nota_900.20.201_613b3c80fa9d rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A conceção de conteúdos informacionais institucionais para posterior edição deve ser considerada em 900.20.200 – Conceção de conteúdos institucionais para divulgação".
+
+:c900.20.201 :temNotaExclusao :nota_900.20.201_613b3c80fa9d .
+
+:c900.20.201 :processoTipoVC :vc_processoTipo_pc .
+:c900.20.201 :processoTransversal "S" .
+:c900.20.201 :temDono :tip_AP .
+:c900.20.201 :temDono :tip_AL .
+:c900.20.201 :temDono :ent_CP .
+:c900.20.201 :temDono :ent_Grupo_IP .
+:c900.20.201 :temDono :tip_IES .
+:c900.20.201 :temDono :ent_INFARMED .
+:c900.20.201 :temDono :tip_CCDR .
+:c900.20.201 :temDono :ent_IMT .
+:c900.20.201 :temDono :ent_ICNF .
+:c900.20.201 :temDono :ent_IGAMAOT .
+:c900.20.201 :temDono :ent_ACT .
+:c900.20.201 :temDono :ent_CASES .
+:c900.20.201 :temDono :tip_IES .
+:c900.20.201 :temDono :ent_CGA .
+:c900.20.201 :temDono :ent_CITE .
+:c900.20.201 :temDono :ent_CNPDPCJ .
+:c900.20.201 :temDono :ent_CPL .
+:c900.20.201 :temDono :ent_CRL .
+:c900.20.201 :temDono :ent_DGERT .
+:c900.20.201 :temDono :ent_DGSS .
+:c900.20.201 :temDono :ent_GEP .
+:c900.20.201 :temDono :ent_IEFP .
+:c900.20.201 :temDono :ent_IGMTSSS .
+:c900.20.201 :temDono :ent_IGFCSS .
+:c900.20.201 :temDono :ent_IGFSS .
+:c900.20.201 :temDono :ent_II .
+:c900.20.201 :temDono :ent_INR .
+:c900.20.201 :temDono :ent_ISS .
+:c900.20.201 :temDono :ent_OIT .
+:c900.20.201 :temDono :ent_POISE .
+:c900.20.201 :temDono :ent_SGMTSSS .
+:c900.20.201 :temDono :ent_DGPM .
+:c900.20.201 :temDono :ent_DGRM .
+:c900.20.201 :temDono :ent_GAMA .
+:c900.20.201 :temDono :ent_DGADR .
+:c900.20.201 :temDono :ent_DGAV .
+:c900.20.201 :temDono :ent_INIAV .
+:c900.20.201 :temDono :ent_IVV .
+:c900.20.201 :temDono :ent_IVDP .
+:c900.20.201 :temDono :ent_PDR2020 .
+:c900.20.201 :temDono :ent_GPP .
+:c900.20.201 :temDono :tip_DRAP .
+:c900.20.201 :temDono :ent_IFAP .
+:c900.20.201 :temDono :ent_CV .
+:c900.20.201 :temDono :ent_ERSE .
+:c900.20.201 :temParticipanteAssessor :tip_CCDR .
+:c900.20.201 :temLegislacao :leg_DL_63_85 .
+:c900.20.201 :temLegislacao :leg_Lei_16_2008 .
+:c900.20.201 :temLegislacao :leg_Lei_98_97 .
+:c900.20.201 :temRelProc :c100.10.001 .
+:c900.20.201 :eSucessorDe :c100.10.001 .
+:c900.20.201 :temRelProc :c100.10.002 .
+:c900.20.201 :eSucessorDe :c100.10.002 .
+:c900.20.201 :temRelProc :c100.10.003 .
+:c900.20.201 :eSucessorDe :c100.10.003 .
+:c900.20.201 :temRelProc :c100.10.200 .
+:c900.20.201 :eSucessorDe :c100.10.200 .
+:c900.20.201 :temRelProc :c100.10.400 .
+:c900.20.201 :eSucessorDe :c100.10.400 .
+:c900.20.201 :temRelProc :c100.10.600 .
+:c900.20.201 :eSucessorDe :c100.10.600 .
+:c900.20.201 :temRelProc :c100.10.800 .
+:c900.20.201 :eSucessorDe :c100.10.800 .
+:c900.20.201 :temRelProc :c150.10.001 .
+:c900.20.201 :eSucessorDe :c150.10.001 .
+:c900.20.201 :temRelProc :c150.10.100 .
+:c900.20.201 :eSucessorDe :c150.10.100 .
+:c900.20.201 :temRelProc :c150.10.200 .
+:c900.20.201 :eSucessorDe :c150.10.200 .
+:c900.20.201 :temRelProc :c150.10.300 .
+:c900.20.201 :eSucessorDe :c150.10.300 .
+:c900.20.201 :temRelProc :c150.10.400 .
+:c900.20.201 :eSucessorDe :c150.10.400 .
+:c900.20.201 :temRelProc :c150.20.001 .
+:c900.20.201 :eSucessorDe :c150.20.001 .
+:c900.20.201 :temRelProc :c150.20.100 .
+:c900.20.201 :eSucessorDe :c150.20.100 .
+:c900.20.201 :temRelProc :c150.20.101 .
+:c900.20.201 :eSucessorDe :c150.20.101 .
+:c900.20.201 :temRelProc :c300.10.005 .
+:c900.20.201 :eSucessorDe :c300.10.005 .
+:c900.20.201 :temRelProc :c400.10.602 .
+:c900.20.201 :eAntecessorDe :c400.10.602 .
+:c900.20.201 :temRelProc :c400.10.603 .
+:c900.20.201 :eAntecessorDe :c400.10.603 .
+:c900.20.201 :temRelProc :c400.10.604 .
+:c900.20.201 :eAntecessorDe :c400.10.604 .
+:c900.20.201 :temRelProc :c400.10.607 .
+:c900.20.201 :eAntecessorDe :c400.10.607 .
+:c900.20.201 :temRelProc :c400.10.201 .
+:c900.20.201 :eCruzadoCom :c400.10.201 .
+:c900.20.201 :temRelProc :c400.10.445 .
+:c900.20.201 :eSucessorDe :c400.10.445 .
+:c900.20.201 :temRelProc :c400.10.446 .
+:c900.20.201 :eSucessorDe :c400.10.446 .
+:c900.20.201 :temRelProc :c450.10.447 .
+:c900.20.201 :eSucessorDe :c450.10.447 .
+:c900.20.201 :temRelProc :c450.20.003 .
+:c900.20.201 :eSucessorDe :c450.20.003 .
+:c900.20.201 :temRelProc :c450.20.503 .
+:c900.20.201 :eSucessorDe :c450.20.503 .
+:c900.20.201 :temRelProc :c450.20.504 .
+:c900.20.201 :eSucessorDe :c450.20.504 .
+:c900.20.201 :temRelProc :c450.20.505 .
+:c900.20.201 :eSucessorDe :c450.20.505 .
+:c900.20.201 :temRelProc :c500.10.001 .
+:c900.20.201 :eSuplementoPara :c500.10.001 .
+:c900.20.201 :temRelProc :c500.30.004 .
+:c900.20.201 :eAntecessorDe :c500.30.004 .
+:c900.20.201 :temRelProc :c800.10.604 .
+:c900.20.201 :eSucessorDe :c800.10.604 .
+:c900.20.201 :temRelProc :c800.10.605 .
+:c900.20.201 :eSucessorDe :c800.10.605 .
+:c900.20.201 :temRelProc :c800.20.001 .
+:c900.20.201 :eSucessorDe :c800.20.001 .
+:c900.20.201 :temRelProc :c900.10.001 .
+:c900.20.201 :eAntecessorDe :c900.10.001 .
+:c900.20.201 :temRelProc :c900.10.002 .
+:c900.20.201 :eAntecessorDe :c900.10.002 .
+:c900.20.201 :temRelProc :c900.10.501 .
+:c900.20.201 :eSucessorDe :c900.10.501 .
+:c900.20.201 :temRelProc :c900.10.502 .
+:c900.20.201 :eSucessorDe :c900.10.502 .
+:c900.20.201 :temRelProc :c900.10.503 .
+:c900.20.201 :eSucessorDe :c900.10.503 .
+:c900.20.201 :temRelProc :c900.10.504 .
+:c900.20.201 :eSucessorDe :c900.10.504 .
+:c900.20.201 :temRelProc :c900.20.200 .
+:c900.20.201 :eSintetizadoPor :c900.20.200 .
+:c900.20.201 :temRelProc :c950.10.400 .
+:c900.20.201 :eAntecessorDe :c950.10.400 .
+:c900.20.201 :temRelProc :c950.10.601 .
+:c900.20.201 :eAntecessorDe :c950.10.601 .
+:c900.20.201 :temRelProc :c150.40.001 .
+:c900.20.201 :eAntecessorDe :c150.40.001 .
+:c900.20.201 :temPCA :pca_c900.20.201.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.201
+:pca_c900.20.201 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.20.201 :pcaValor 10.
+:pca_c900.20.201 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.20.201
+:just_pca_c900.20.201 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.20.201 :temJustificacao :just_pca_c900.20.201 .
+:just_pca_c900.20.201_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.20.201 :temCriterio :just_pca_c900.20.201_0. 
+:just_pca_c900.20.201_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.20.201_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.20.201 :temCriterio :just_pca_c900.20.201_1. 
+:just_pca_c900.20.201_1 :critTemProcRel :c500.10.001 .
+:c900.20.201 :temDF :df_c900.20.201.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.20.201
+:df_c900.20.201 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.20.201 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.20.201
+:just_df_c900.20.201 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.20.201 :temJustificacao :just_df_c900.20.201 .
+:just_df_c900.20.201_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "O conteúdo é recuperável noPN 900.20.200 - Conceção de conteúdos institucionais para divulgação" .
+:just_df_c900.20.201 :temCriterio :just_df_c900.20.201_0. 
+:just_df_c900.20.201_0 :critTemProcRel :c900.20.200 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.400
+:c900.20.400 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.20.400' ;
+	:titulo 'Elaboração de informações ou esclarecimentos institucionais para a comunicação social' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20 ;
+	:descricao 'Preparação e divulgação de informações e esclarecimentos sobre assuntos de interesse para a organização ou para a comunidade, através de órgãos de comunicação social. Inicia com a proposta ou decisão de transmitir a informação ou esclarecimento e termina com a comunicação da mesma. Inclui decisão e redação dos termos em que a comunicação vai ser feita.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.400_d9def1eeff2d
+:nota_900.20.400_d9def1eeff2d rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Exercício de direito de resposta".
+
+:c900.20.400 :temNotaAplicacao :nota_900.20.400_d9def1eeff2d .
+
+:c900.20.400 :processoTipoVC :vc_processoTipo_pc .
+:c900.20.400 :processoTransversal "S" .
+:c900.20.400 :temDono :tip_AP .
+:c900.20.400 :temDono :tip_AL .
+:c900.20.400 :temDono :ent_Grupo_IP .
+:c900.20.400 :temDono :ent_INFARMED .
+:c900.20.400 :temDono :tip_IES .
+:c900.20.400 :temDono :ent_CP .
+:c900.20.400 :temDono :ent_IMT .
+:c900.20.400 :temDono :ent_ICNF .
+:c900.20.400 :temDono :ent_IGAMAOT .
+:c900.20.400 :temDono :ent_ACT .
+:c900.20.400 :temDono :ent_CASES .
+:c900.20.400 :temDono :ent_CGA .
+:c900.20.400 :temDono :ent_CITE .
+:c900.20.400 :temDono :ent_CNPDPCJ .
+:c900.20.400 :temDono :ent_CPL .
+:c900.20.400 :temDono :ent_CRL .
+:c900.20.400 :temDono :ent_DGERT .
+:c900.20.400 :temDono :ent_DGSS .
+:c900.20.400 :temDono :ent_GEP .
+:c900.20.400 :temDono :ent_IEFP .
+:c900.20.400 :temDono :ent_IGMTSSS .
+:c900.20.400 :temDono :ent_IGFCSS .
+:c900.20.400 :temDono :ent_IGFSS .
+:c900.20.400 :temDono :ent_II .
+:c900.20.400 :temDono :ent_INR .
+:c900.20.400 :temDono :ent_ISS .
+:c900.20.400 :temDono :ent_OIT .
+:c900.20.400 :temDono :ent_POISE .
+:c900.20.400 :temDono :ent_SGMTSSS .
+:c900.20.400 :temDono :ent_DGPM .
+:c900.20.400 :temDono :ent_DGRM .
+:c900.20.400 :temDono :ent_GAMA .
+:c900.20.400 :temDono :ent_DGADR .
+:c900.20.400 :temDono :ent_DGAV .
+:c900.20.400 :temDono :ent_INIAV .
+:c900.20.400 :temDono :ent_IVV .
+:c900.20.400 :temDono :ent_IVDP .
+:c900.20.400 :temDono :ent_PDR2020 .
+:c900.20.400 :temDono :ent_GPP .
+:c900.20.400 :temDono :tip_DRAP .
+:c900.20.400 :temDono :ent_IFAP .
+:c900.20.400 :temDono :ent_CV .
+:c900.20.400 :temDono :ent_ERSE .
+:c900.20.400 :temParticipanteAssessor :tip_CCDR .
+:c900.20.400 :temLegislacao :leg_Lei_54_2010 .
+:c900.20.400 :temLegislacao :leg_Lei_27_2007 .
+:c900.20.400 :temLegislacao :leg_Lei_31_96 .
+:c900.20.400 :temLegislacao :leg_Lei_2_99 .
+:c900.20.400 :temLegislacao :leg_DL_106_88 .
+:c900.20.400 :temLegislacao :leg_Lei_98_97 .
+:c900.20.400 :temRelProc :c500.10.001 .
+:c900.20.400 :eSuplementoPara :c500.10.001 .
+:c900.20.400 :temRelProc :c900.20.402 .
+:c900.20.400 :eCruzadoCom :c900.20.402 .
+:c900.20.400 :temPCA :pca_c900.20.400.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.400
+:pca_c900.20.400 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.20.400 :pcaValor 10.
+:pca_c900.20.400 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.20.400
+:just_pca_c900.20.400 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.20.400 :temJustificacao :just_pca_c900.20.400 .
+:just_pca_c900.20.400_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.20.400 :temCriterio :just_pca_c900.20.400_0. 
+:just_pca_c900.20.400_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.20.400_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.20.400 :temCriterio :just_pca_c900.20.400_1. 
+:just_pca_c900.20.400_1 :critTemProcRel :c500.10.001 .
+:c900.20.400 :temDF :df_c900.20.400.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.20.400
+:df_c900.20.400 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.20.400 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.20.400
+:just_df_c900.20.400 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.20.400 :temJustificacao :just_df_c900.20.400 .
+:just_df_c900.20.400_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN." .
+:just_df_c900.20.400 :temCriterio :just_df_c900.20.400_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.401
+:c900.20.401 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.20.401' ;
+	:titulo 'Promoção ou participação em conferências de imprensa e entrevistas' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20 ;
+	:descricao 'Organização ou intervenção em conferências de imprensa e entrevistas. Inicia com a decisão de organizar ou intervir e termina com a realização da conferência de imprensa ou entrevista. Inclui, no caso da entrevista, a seleção dos órgãos de comunicação social.' .
+:c900.20.401 :processoTipoVC :vc_processoTipo_pc .
+:c900.20.401 :processoTransversal "S" .
+:c900.20.401 :temDono :tip_AP .
+:c900.20.401 :temDono :tip_AL .
+:c900.20.401 :temDono :ent_INFARMED .
+:c900.20.401 :temDono :ent_CP .
+:c900.20.401 :temDono :tip_CCDR .
+:c900.20.401 :temDono :tip_IES .
+:c900.20.401 :temDono :ent_IMT .
+:c900.20.401 :temDono :ent_ICNF .
+:c900.20.401 :temDono :ent_IGAMAOT .
+:c900.20.401 :temDono :ent_ACT .
+:c900.20.401 :temDono :ent_CASES .
+:c900.20.401 :temDono :ent_CGA .
+:c900.20.401 :temDono :ent_CITE .
+:c900.20.401 :temDono :ent_CNPDPCJ .
+:c900.20.401 :temDono :ent_CPL .
+:c900.20.401 :temDono :ent_CRL .
+:c900.20.401 :temDono :ent_DGERT .
+:c900.20.401 :temDono :ent_DGSS .
+:c900.20.401 :temDono :ent_GEP .
+:c900.20.401 :temDono :ent_IEFP .
+:c900.20.401 :temDono :ent_IGMTSSS .
+:c900.20.401 :temDono :ent_IGFCSS .
+:c900.20.401 :temDono :ent_IGFSS .
+:c900.20.401 :temDono :ent_II .
+:c900.20.401 :temDono :ent_INR .
+:c900.20.401 :temDono :ent_ISS .
+:c900.20.401 :temDono :ent_OIT .
+:c900.20.401 :temDono :ent_POISE .
+:c900.20.401 :temDono :ent_SGMTSSS .
+:c900.20.401 :temDono :ent_DGPM .
+:c900.20.401 :temDono :ent_DGRM .
+:c900.20.401 :temDono :ent_GAMA .
+:c900.20.401 :temDono :ent_DGADR .
+:c900.20.401 :temDono :ent_DGAV .
+:c900.20.401 :temDono :ent_INIAV .
+:c900.20.401 :temDono :ent_IVV .
+:c900.20.401 :temDono :ent_IVDP .
+:c900.20.401 :temDono :ent_PDR2020 .
+:c900.20.401 :temDono :ent_GPP .
+:c900.20.401 :temDono :tip_DRAP .
+:c900.20.401 :temDono :ent_IFAP .
+:c900.20.401 :temDono :ent_CV .
+:c900.20.401 :temDono :ent_ERSE .
+:c900.20.401 :temParticipanteComunicador :tip_AP .
+:c900.20.401 :temParticipanteComunicador :tip_CCDR .
+:c900.20.401 :temLegislacao :leg_Lei_54_2010 .
+:c900.20.401 :temLegislacao :leg_Lei_27_2007 .
+:c900.20.401 :temLegislacao :leg_Lei_2_99 .
+:c900.20.401 :temLegislacao :leg_Lei_31_96 .
+:c900.20.401 :temLegislacao :leg_DL_106_88 .
+:c900.20.401 :temLegislacao :leg_Lei_98_97 .
+:c900.20.401 :temRelProc :c500.10.001 .
+:c900.20.401 :eSuplementoPara :c500.10.001 .
+:c900.20.401 :temPCA :pca_c900.20.401.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.401
+:pca_c900.20.401 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.20.401 :pcaValor 10.
+:pca_c900.20.401 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.20.401
+:just_pca_c900.20.401 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.20.401 :temJustificacao :just_pca_c900.20.401 .
+:just_pca_c900.20.401_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.20.401 :temCriterio :just_pca_c900.20.401_0. 
+:just_pca_c900.20.401_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.20.401_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.20.401 :temCriterio :just_pca_c900.20.401_1. 
+:just_pca_c900.20.401_1 :critTemProcRel :c500.10.001 .
+:c900.20.401 :temDF :df_c900.20.401.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.20.401
+:df_c900.20.401 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.20.401 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.20.401
+:just_df_c900.20.401 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.20.401 :temJustificacao :just_df_c900.20.401 .
+:just_df_c900.20.401_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação não recuperável noutro PN." .
+:just_df_c900.20.401 :temCriterio :just_df_c900.20.401_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.402
+:c900.20.402 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.20.402' ;
+	:titulo 'Recolha e tratamento de dados de imprensa' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20 ;
+	:descricao 'Processamento de informação veiculada pela comunicação social, independentemente do suporte, sobre matérias ou temas de interesse para a instituição ou relacionados com esta. Inicia com a seleção dos meios onde se faz a recolha e termina com a disponibilização dos resultados da análise ao serviço/entidade competente. Inclui consulta e seleção de notícias ou artigos de opinião e análise dos seus conteúdos.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.402_d61981cd5d02
+:nota_900.20.402_d61981cd5d02 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A contratação de agência para esta recolha deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
+
+:c900.20.402 :temNotaExclusao :nota_900.20.402_d61981cd5d02 .
+
+:c900.20.402 :processoTipoVC :vc_processoTipo_pc .
+:c900.20.402 :processoTransversal "S" .
+:c900.20.402 :temDono :tip_AP .
+:c900.20.402 :temDono :tip_AL .
+:c900.20.402 :temDono :ent_CP .
+:c900.20.402 :temDono :ent_INFARMED .
+:c900.20.402 :temDono :tip_CCDR .
+:c900.20.402 :temDono :ent_IMT .
+:c900.20.402 :temDono :ent_ICNF .
+:c900.20.402 :temDono :ent_IGAMAOT .
+:c900.20.402 :temDono :ent_ACT .
+:c900.20.402 :temDono :tip_IES .
+:c900.20.402 :temDono :ent_CASES .
+:c900.20.402 :temDono :ent_CGA .
+:c900.20.402 :temDono :ent_CITE .
+:c900.20.402 :temDono :ent_CNPDPCJ .
+:c900.20.402 :temDono :ent_CPL .
+:c900.20.402 :temDono :ent_CRL .
+:c900.20.402 :temDono :ent_DGERT .
+:c900.20.402 :temDono :ent_DGSS .
+:c900.20.402 :temDono :ent_GEP .
+:c900.20.402 :temDono :ent_IEFP .
+:c900.20.402 :temDono :ent_IGMTSSS .
+:c900.20.402 :temDono :ent_IGFCSS .
+:c900.20.402 :temDono :ent_IGFSS .
+:c900.20.402 :temDono :ent_II .
+:c900.20.402 :temDono :ent_INR .
+:c900.20.402 :temDono :ent_ISS .
+:c900.20.402 :temDono :ent_OIT .
+:c900.20.402 :temDono :ent_POISE .
+:c900.20.402 :temDono :ent_SGMTSSS .
+:c900.20.402 :temDono :ent_DGPM .
+:c900.20.402 :temDono :ent_DGRM .
+:c900.20.402 :temDono :ent_GAMA .
+:c900.20.402 :temDono :ent_DGADR .
+:c900.20.402 :temDono :ent_DGAV .
+:c900.20.402 :temDono :ent_INIAV .
+:c900.20.402 :temDono :ent_IVV .
+:c900.20.402 :temDono :ent_IVDP .
+:c900.20.402 :temDono :ent_PDR2020 .
+:c900.20.402 :temDono :ent_GPP .
+:c900.20.402 :temDono :tip_DRAP .
+:c900.20.402 :temDono :ent_IFAP .
+:c900.20.402 :temDono :ent_CV .
+:c900.20.402 :temParticipanteComunicador :ent_IGAMAOT .
+:c900.20.402 :temParticipanteComunicador :tip_CCDR .
+:c900.20.402 :temLegislacao :leg_Lei_16_2008 .
+:c900.20.402 :temLegislacao :leg_Lei_98_97 .
+:c900.20.402 :temRelProc :c300.30.002 .
+:c900.20.402 :eCruzadoCom :c300.30.002 .
+:c900.20.402 :temRelProc :c900.20.400 .
+:c900.20.402 :eCruzadoCom :c900.20.400 .
+:c900.20.402 :temRelProc :c500.10.001 .
+:c900.20.402 :eSuplementoPara :c500.10.001 .
+:c900.20.402 :temPCA :pca_c900.20.402.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.402
+:pca_c900.20.402 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.20.402 :pcaValor 10.
+:pca_c900.20.402 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.20.402
+:just_pca_c900.20.402 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.20.402 :temJustificacao :just_pca_c900.20.402 .
+:just_pca_c900.20.402_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.20.402 :temCriterio :just_pca_c900.20.402_0. 
+:just_pca_c900.20.402_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.20.402_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.20.402 :temCriterio :just_pca_c900.20.402_1. 
+:just_pca_c900.20.402_1 :critTemProcRel :c500.10.001 .
+:c900.20.402 :temDF :df_c900.20.402.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.20.402
+:df_c900.20.402 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.20.402 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.20.402
+:just_df_c900.20.402 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.20.402 :temJustificacao :just_df_c900.20.402 .
+:just_df_c900.20.402_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação recuperável nos meios de comunicação." .
+:just_df_c900.20.402 :temCriterio :just_df_c900.20.402_0. 
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.600
+:c900.20.600 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.20.600' ;
+	:titulo 'Criação e atualização de contactos institucionais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20 ;
+	:descricao 'Criação e atualização de listagens, bases de dados ou outra agregação de contactos singulares ou coletivos que interagem ou são destinatários de produtos ou serviços institucionais. Inicia com a identificação dos potenciais interlocutores ou destinatários de interesse para o desenvolvimento das atividades organizacionais e termina com a manifestação de ausência de interesse na manutenção do contacto. Inclui sistematização da informação dos contactos e respetivo registo.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.600_cae76ea242ab
+:nota_900.20.600_cae76ea242ab rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Criação de mailing list da Entidade".
+
+:c900.20.600 :temNotaAplicacao :nota_900.20.600_cae76ea242ab .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.600_e648c06b3cc2
+:nota_900.20.600_e648c06b3cc2 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Gestão de mailing list da Entidade".
+
+:c900.20.600 :temNotaAplicacao :nota_900.20.600_e648c06b3cc2 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.600_14434c1b1268
+:nota_900.20.600_14434c1b1268 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A aquisição de base de dados a outras entidades deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
+
+:c900.20.600 :temNotaExclusao :nota_900.20.600_14434c1b1268 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.600_c959d7b21cf7
+:nota_900.20.600_c959d7b21cf7 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A criação e gestão de utilizadores de Sistemas de Informação da entidade devem ser considerados no PN 300.50.802 – Registo e identificação de utilizadores de serviços e de sistemas de informação".
+
+:c900.20.600 :temNotaExclusao :nota_900.20.600_c959d7b21cf7 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.600_5b40df03bdec
+:nota_900.20.600_5b40df03bdec rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "O registo e controlo de entidades prestadoras de serviços devem ser considerados no PN 300.50.803 – Identificação e caracterização de prestadores e fornecedores de bens e serviços".
+
+:c900.20.600 :temNotaExclusao :nota_900.20.600_5b40df03bdec .
+
+:c900.20.600 :processoTipoVC :vc_processoTipo_pc .
+:c900.20.600 :processoTransversal "S" .
+:c900.20.600 :temDono :tip_AP .
+:c900.20.600 :temDono :tip_AL .
+:c900.20.600 :temDono :ent_CP .
+:c900.20.600 :temDono :ent_Grupo_IP .
+:c900.20.600 :temDono :ent_INFARMED .
+:c900.20.600 :temDono :tip_CCDR .
+:c900.20.600 :temDono :tip_IES .
+:c900.20.600 :temDono :ent_IMT .
+:c900.20.600 :temDono :ent_ICNF .
+:c900.20.600 :temDono :ent_ACT .
+:c900.20.600 :temDono :ent_CASES .
+:c900.20.600 :temDono :ent_CGA .
+:c900.20.600 :temDono :ent_CITE .
+:c900.20.600 :temDono :ent_CNPDPCJ .
+:c900.20.600 :temDono :ent_CPL .
+:c900.20.600 :temDono :ent_CRL .
+:c900.20.600 :temDono :ent_DGERT .
+:c900.20.600 :temDono :ent_DGSS .
+:c900.20.600 :temDono :ent_GEP .
+:c900.20.600 :temDono :ent_IEFP .
+:c900.20.600 :temDono :ent_IGMTSSS .
+:c900.20.600 :temDono :ent_IGFCSS .
+:c900.20.600 :temDono :ent_IGFSS .
+:c900.20.600 :temDono :ent_II .
+:c900.20.600 :temDono :ent_INR .
+:c900.20.600 :temDono :ent_ISS .
+:c900.20.600 :temDono :ent_OIT .
+:c900.20.600 :temDono :ent_POISE .
+:c900.20.600 :temDono :ent_SGMTSSS .
+:c900.20.600 :temDono :ent_IGAMAOT .
+:c900.20.600 :temDono :ent_DGPM .
+:c900.20.600 :temDono :ent_DGRM .
+:c900.20.600 :temDono :ent_GAMA .
+:c900.20.600 :temDono :ent_DGADR .
+:c900.20.600 :temDono :ent_DGAV .
+:c900.20.600 :temDono :ent_INIAV .
+:c900.20.600 :temDono :ent_IVV .
+:c900.20.600 :temDono :ent_IVDP .
+:c900.20.600 :temDono :ent_PDR2020 .
+:c900.20.600 :temDono :ent_GPP .
+:c900.20.600 :temDono :tip_DRAP .
+:c900.20.600 :temDono :ent_IFAP .
+:c900.20.600 :temDono :ent_CV .
+:c900.20.600 :temParticipanteAssessor :tip_CCDR .
+:c900.20.600 :temLegislacao :leg_Lei_26_2016 .
+:c900.20.600 :temLegislacao :leg_Lei_58_2019 .
+:c900.20.600 :temLegislacao :leg_Lei_35_2014 .
+:c900.20.600 :temLegislacao :leg_Lei_7_2009 .
+:c900.20.600 :temRelProc :c300.30.008 .
+:c900.20.600 :eSintetizadoPor :c300.30.008 .
+:c900.20.600 :temPCA :pca_c900.20.600.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.600
+:pca_c900.20.600 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.20.600 :pcaValor 1.
+:pca_c900.20.600 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.20.600
+:just_pca_c900.20.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.20.600 :temJustificacao :just_pca_c900.20.600 .
+:just_pca_c900.20.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 35/2014], LGTFP, art.º 178º - Prazo prescricional do procedimento disciplinar[Lei 7/2009], CT, art.º 329º - Prazo prescricional do procedimento disciplinar" .
+:just_pca_c900.20.600 :temCriterio :just_pca_c900.20.600_0. 
+:just_pca_c900.20.600_0 :critTemLegAssoc :leg_Lei_35_2014 .
+:just_pca_c900.20.600_0 :critTemLegAssoc :leg_Lei_7_2009 .
+:c900.20.600 :temDF :df_c900.20.600.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.20.600
+:df_c900.20.600 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.20.600 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.20.600
+:just_df_c900.20.600 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.20.600 :temJustificacao :just_df_c900.20.600 .
+:just_df_c900.20.600_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação relativa à interação com os contactos institucionais recuperável noPN 300.30.008 - Registo de documentos e informação" .
+:just_df_c900.20.600 :temCriterio :just_df_c900.20.600_0. 
+:just_df_c900.20.600_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.601
+:c900.20.601 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.20.601' ;
+	:titulo 'Organização de cerimónias protocolares' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20 ;
+	:descricao 'Preparação e realização de atos solenes institucionais que impliquem cerimonial de Estado. Inicia com a comunicação do órgão ou serviço competente e termina com a realização da cerimónia. Inclui, entre outras, a logística e organização dos espaços, de acordo com as regras do protocolo, e dos meios de divulgação.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_8557be6b96a4
+:nota_900.20.601_8557be6b96a4 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Cerimónias de tomada de posse".
+
+:c900.20.601 :temNotaAplicacao :nota_900.20.601_8557be6b96a4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_c9a77cbf7ffe
+:nota_900.20.601_c9a77cbf7ffe rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Cerimónias de assinatura de documentos".
+
+:c900.20.601 :temNotaAplicacao :nota_900.20.601_c9a77cbf7ffe .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_70961dc470b3
+:nota_900.20.601_70961dc470b3 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Cerimónias de apresentação de credenciais".
+
+:c900.20.601 :temNotaAplicacao :nota_900.20.601_70961dc470b3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_89923f1a001a
+:nota_900.20.601_89923f1a001a rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Cermónias fúnebres com honras de Estado".
+
+:c900.20.601 :temNotaAplicacao :nota_900.20.601_89923f1a001a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_f855c7a34e02
+:nota_900.20.601_f855c7a34e02 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Cerimónias nacionais".
+
+:c900.20.601 :temNotaAplicacao :nota_900.20.601_f855c7a34e02 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_a9113585d26c
+:nota_900.20.601_a9113585d26c rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Cerimónias de entrega de condecorações e distinções".
+
+:c900.20.601 :temNotaAplicacao :nota_900.20.601_a9113585d26c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_d745a315cb13
+:nota_900.20.601_d745a315cb13 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A aquisição de serviços deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e prestação de serviços".
+
+:c900.20.601 :temNotaExclusao :nota_900.20.601_d745a315cb13 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_696a78df646d
+:nota_900.20.601_696a78df646d rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As questões de segurança devem ser consideradas em 550.10 – Segurança pública".
+
+:c900.20.601 :temNotaExclusao :nota_900.20.601_696a78df646d .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_7ae175298462
+:nota_900.20.601_7ae175298462 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A atribuição de medalhas e distinções de mérito por serviços prestados deve ser considerada em 950.30.001 - Reconhecimento por mérito e serviços prestados".
+
+:c900.20.601 :temNotaExclusao :nota_900.20.601_7ae175298462 .
+
+:c900.20.601 :processoTipoVC :vc_processoTipo_pc .
+:c900.20.601 :processoTransversal "S" .
+:c900.20.601 :temDono :tip_AP .
+:c900.20.601 :temDono :tip_AL .
+:c900.20.601 :temDono :ent_INFARMED .
+:c900.20.601 :temDono :ent_CP .
+:c900.20.601 :temDono :tip_CCDR .
+:c900.20.601 :temDono :ent_IMT .
+:c900.20.601 :temDono :ent_ICNF .
+:c900.20.601 :temDono :ent_ACT .
+:c900.20.601 :temDono :ent_CASES .
+:c900.20.601 :temDono :ent_CGA .
+:c900.20.601 :temDono :tip_IES .
+:c900.20.601 :temDono :ent_CITE .
+:c900.20.601 :temDono :ent_CNPDPCJ .
+:c900.20.601 :temDono :ent_CPL .
+:c900.20.601 :temDono :ent_CRL .
+:c900.20.601 :temDono :ent_DGERT .
+:c900.20.601 :temDono :ent_DGSS .
+:c900.20.601 :temDono :ent_GEP .
+:c900.20.601 :temDono :ent_IEFP .
+:c900.20.601 :temDono :ent_IGMTSSS .
+:c900.20.601 :temDono :ent_IGFCSS .
+:c900.20.601 :temDono :ent_IGFSS .
+:c900.20.601 :temDono :ent_II .
+:c900.20.601 :temDono :ent_INR .
+:c900.20.601 :temDono :ent_ISS .
+:c900.20.601 :temDono :ent_OIT .
+:c900.20.601 :temDono :ent_POISE .
+:c900.20.601 :temDono :ent_SGMTSSS .
+:c900.20.601 :temDono :ent_DGPM .
+:c900.20.601 :temDono :ent_DGRM .
+:c900.20.601 :temDono :ent_DGADR .
+:c900.20.601 :temDono :ent_INIAV .
+:c900.20.601 :temDono :ent_IVV .
+:c900.20.601 :temDono :ent_IVDP .
+:c900.20.601 :temParticipanteAssessor :tip_CCDR .
+:c900.20.601 :temParticipanteAssessor :ent_ICNF .
+:c900.20.601 :temParticipanteAssessor :ent_IGAMAOT .
+:c900.20.601 :temParticipanteAssessor :ent_DGPM .
+:c900.20.601 :temParticipanteAssessor :ent_DGRM .
+:c900.20.601 :temParticipanteAssessor :ent_GAMA .
+:c900.20.601 :temParticipanteAssessor :ent_DGAV .
+:c900.20.601 :temParticipanteAssessor :ent_INIAV .
+:c900.20.601 :temParticipanteAssessor :ent_IVV .
+:c900.20.601 :temParticipanteAssessor :ent_IVDP .
+:c900.20.601 :temParticipanteAssessor :ent_PDR2020 .
+:c900.20.601 :temParticipanteAssessor :ent_GPP .
+:c900.20.601 :temParticipanteAssessor :tip_DRAP .
+:c900.20.601 :temParticipanteAssessor :ent_IFAP .
+:c900.20.601 :temLegislacao :leg_Lei_40_2006 .
+:c900.20.601 :temRelProc :c150.10.500 .
+:c900.20.601 :eSucessorDe :c150.10.500 .
+:c900.20.601 :temRelProc :c150.10.501 .
+:c900.20.601 :eSucessorDe :c150.10.501 .
+:c900.20.601 :temRelProc :c200.10.800 .
+:c900.20.601 :eCruzadoCom :c200.10.800 .
+:c900.20.601 :temRelProc :c250.10.500 .
+:c900.20.601 :eSucessorDe :c250.10.500 .
+:c900.20.601 :temRelProc :c250.10.700 .
+:c900.20.601 :eSucessorDe :c250.10.700 .
+:c900.20.601 :temRelProc :c300.10.005 .
+:c900.20.601 :eAntecessorDe :c300.10.005 .
+:c900.20.601 :temRelProc :c350.30.001 .
+:c900.20.601 :eCruzadoCom :c350.30.001 .
+:c900.20.601 :temRelProc :c500.10.001 .
+:c900.20.601 :eSuplementoPara :c500.10.001 .
+:c900.20.601 :temRelProc :c550.10.001 .
+:c900.20.601 :eCruzadoCom :c550.10.001 .
+:c900.20.601 :temRelProc :c900.10.500 .
+:c900.20.601 :eCruzadoCom :c900.10.500 .
+:c900.20.601 :temRelProc :c900.20.602 .
+:c900.20.601 :eCruzadoCom :c900.20.602 .
+:c900.20.601 :temRelProc :c950.30.001 .
+:c900.20.601 :eCruzadoCom :c950.30.001 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.601.01
+:c900.20.601.01 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '900.20.601.01' ;
+	:titulo 'Organização de cerimónias protocolares: preparação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20.601 ;
+	:descricao 'Sucessão de atos preparativos das cerimónias. Inicia com a comunicação do órgão ou serviço competente e termina com o esboço da cerimonia. Inclui a escolha do espaço e dos recursos humanos e materiais a afetar, previsão de encargos, lista de intervenientes e de entidades convidadas.' .
+:c900.20.601.01 :temPCA :pca_c900.20.601.01.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.601.01
+:pca_c900.20.601.01 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.20.601.01 :pcaValor 10.
+:pca_c900.20.601.01 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.20.601.01
+:just_pca_c900.20.601.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.20.601.01 :temJustificacao :just_pca_c900.20.601.01 .
+:just_pca_c900.20.601.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.20.601.01 :temCriterio :just_pca_c900.20.601.01_0. 
+:just_pca_c900.20.601.01_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.20.601.01_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.20.601.01 :temCriterio :just_pca_c900.20.601.01_1. 
+:just_pca_c900.20.601.01_1 :critTemProcRel :c500.10.001 .
+:c900.20.601.01 :temDF :df_c900.20.601.01.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.20.601.01
+:df_c900.20.601.01 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.20.601.01 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.20.601.01
+:just_df_c900.20.601.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.20.601.01 :temJustificacao :just_df_c900.20.601.01 .
+:just_df_c900.20.601.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada em 900.20.601.02 - Organização de cerimónias de tomada de posse e assinatura de documentos: realização." .
+:just_df_c900.20.601.01 :temCriterio :just_df_c900.20.601.01_0. 
+:just_df_c900.20.601.01_0 :critTemProcRel :c900.20.601 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.601.02
+:c900.20.601.02 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '900.20.601.02' ;
+	:titulo 'Organização de cerimónias protocolares: realização' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20.601 ;
+	:descricao 'Execução da cerimónia. Inicia com a organização do espaço de acordo com as regras de protocolo e termina com a concretização da cerimónia. Inclui o registo documental (em imagem, som ou texto).' .
+:c900.20.601.02 :temPCA :pca_c900.20.601.02.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.601.02
+:pca_c900.20.601.02 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.20.601.02 :pcaValor 10.
+:pca_c900.20.601.02 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.20.601.02
+:just_pca_c900.20.601.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.20.601.02 :temJustificacao :just_pca_c900.20.601.02 .
+:just_pca_c900.20.601.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.20.601.02 :temCriterio :just_pca_c900.20.601.02_0. 
+:just_pca_c900.20.601.02_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.20.601.02_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.20.601.02 :temCriterio :just_pca_c900.20.601.02_1. 
+:just_pca_c900.20.601.02_1 :critTemProcRel :c500.10.001 .
+:c900.20.601.02 :temDF :df_c900.20.601.02.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.20.601.02
+:df_c900.20.601.02 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.20.601.02 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.20.601.02
+:just_df_c900.20.601.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.20.601.02 :temJustificacao :just_df_c900.20.601.02 .
+:just_df_c900.20.601.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Sintetiza a informação de 900.20.601.01 - Organização de cerimónias de tomada de posse e assinatura de documentos: preparação." .
+:just_df_c900.20.601.02 :temCriterio :just_df_c900.20.601.02_0. 
+:just_df_c900.20.601.02_0 :critTemProcRel :c900.20.601 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.602
+:c900.20.602 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.20.602' ;
+	:titulo 'Organização de visitas institucionais' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20 ;
+	:descricao 'Preparação e realização de visitas de comitivas nacionais ou estrangeiras. Inicia com o pedido ou proposta da visita e termina com a concretização da mesma. Inclui, entre outras, o planeamento, a logística e organização dos espaços ou materiais, a definição do programa e dos meios de divulgação.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_551e948c82e9
+:nota_900.20.602_551e948c82e9 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Receção de entidades".
+
+:c900.20.602 :temNotaAplicacao :nota_900.20.602_551e948c82e9 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_42409f257b5c
+:nota_900.20.602_42409f257b5c rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Participação em visitas a outras entidades".
+
+:c900.20.602 :temNotaAplicacao :nota_900.20.602_42409f257b5c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_cc3965c0d47f
+:nota_900.20.602_cc3965c0d47f rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Visitas oficiais".
+
+:c900.20.602 :temNotaAplicacao :nota_900.20.602_cc3965c0d47f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_cfc1166a6e26
+:nota_900.20.602_cfc1166a6e26 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Visitas não oficiais".
+
+:c900.20.602 :temNotaAplicacao :nota_900.20.602_cfc1166a6e26 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_94f5d1cf3056
+:nota_900.20.602_94f5d1cf3056 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As visitas de Estado devem ser consideradas em 200.20.500 – Organização de visitas de Estado ou equiparadas".
+
+:c900.20.602 :temNotaExclusao :nota_900.20.602_94f5d1cf3056 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_14cf50220f1a
+:nota_900.20.602_14cf50220f1a rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A aquisição de serviços deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
+
+:c900.20.602 :temNotaExclusao :nota_900.20.602_14cf50220f1a .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_9a3f14a64a9e
+:nota_900.20.602_9a3f14a64a9e rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As questões de segurança devem ser consideradas em 550.10 - Segurança pública".
+
+:c900.20.602 :temNotaExclusao :nota_900.20.602_9a3f14a64a9e .
+
+:c900.20.602 :processoTipoVC :vc_processoTipo_pc .
+:c900.20.602 :processoTransversal "S" .
+:c900.20.602 :temDono :tip_AP .
+:c900.20.602 :temDono :tip_AL .
+:c900.20.602 :temDono :ent_Grupo_IP .
+:c900.20.602 :temDono :ent_INFARMED .
+:c900.20.602 :temDono :ent_CP .
+:c900.20.602 :temDono :tip_CCDR .
+:c900.20.602 :temDono :tip_IES .
+:c900.20.602 :temDono :ent_IMT .
+:c900.20.602 :temDono :ent_ICNF .
+:c900.20.602 :temDono :ent_ACT .
+:c900.20.602 :temDono :ent_CASES .
+:c900.20.602 :temDono :ent_CGA .
+:c900.20.602 :temDono :ent_CITE .
+:c900.20.602 :temDono :ent_CNPDPCJ .
+:c900.20.602 :temDono :ent_CPL .
+:c900.20.602 :temDono :ent_CRL .
+:c900.20.602 :temDono :ent_DGERT .
+:c900.20.602 :temDono :ent_DGSS .
+:c900.20.602 :temDono :ent_GEP .
+:c900.20.602 :temDono :ent_IEFP .
+:c900.20.602 :temDono :ent_IGMTSSS .
+:c900.20.602 :temDono :ent_IGFCSS .
+:c900.20.602 :temDono :ent_IGFSS .
+:c900.20.602 :temDono :ent_II .
+:c900.20.602 :temDono :ent_INR .
+:c900.20.602 :temDono :ent_ISS .
+:c900.20.602 :temDono :ent_OIT .
+:c900.20.602 :temDono :ent_POISE .
+:c900.20.602 :temDono :ent_SGMTSSS .
+:c900.20.602 :temDono :ent_DGPM .
+:c900.20.602 :temDono :ent_DGRM .
+:c900.20.602 :temDono :ent_GAMA .
+:c900.20.602 :temDono :ent_DGADR .
+:c900.20.602 :temDono :ent_INIAV .
+:c900.20.602 :temDono :ent_IVV .
+:c900.20.602 :temDono :ent_IVDP .
+:c900.20.602 :temDono :ent_CV .
+:c900.20.602 :temDono :ent_ERSE .
+:c900.20.602 :temParticipanteAssessor :ent_INFARMED .
+:c900.20.602 :temParticipanteAssessor :ent_ICNF .
+:c900.20.602 :temParticipanteAssessor :ent_IGAMAOT .
+:c900.20.602 :temParticipanteAssessor :ent_DGPM .
+:c900.20.602 :temParticipanteAssessor :ent_DGRM .
+:c900.20.602 :temParticipanteAssessor :ent_GAMA .
+:c900.20.602 :temParticipanteAssessor :ent_DGAV .
+:c900.20.602 :temParticipanteAssessor :ent_INIAV .
+:c900.20.602 :temParticipanteAssessor :ent_IVV .
+:c900.20.602 :temParticipanteAssessor :ent_IVDP .
+:c900.20.602 :temParticipanteAssessor :ent_PDR2020 .
+:c900.20.602 :temParticipanteAssessor :ent_GPP .
+:c900.20.602 :temParticipanteAssessor :tip_DRAP .
+:c900.20.602 :temParticipanteAssessor :ent_IFAP .
+:c900.20.602 :temParticipanteAssessor :tip_CCDR .
+:c900.20.602 :temParticipanteAssessor :ent_CV .
+:c900.20.602 :temLegislacao :leg_Lei_40_2006 .
+:c900.20.602 :temRelProc :c300.10.005 .
+:c900.20.602 :eAntecessorDe :c300.10.005 .
+:c900.20.602 :temRelProc :c350.30.001 .
+:c900.20.602 :eCruzadoCom :c350.30.001 .
+:c900.20.602 :temRelProc :c500.10.001 .
+:c900.20.602 :eCruzadoCom :c500.10.001 .
+:c900.20.602 :temRelProc :c550.10.001 .
+:c900.20.602 :eSuplementoPara :c550.10.001 .
+:c900.20.602 :temRelProc :c900.10.500 .
+:c900.20.602 :eCruzadoCom :c900.10.500 .
+:c900.20.602 :temRelProc :c950.30.001 .
+:c900.20.602 :eCruzadoCom :c950.30.001 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.602.01
+:c900.20.602.01 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '900.20.602.01' ;
+	:titulo 'Organização de visitas institucionais: preparação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20.602 ;
+	:descricao 'Sucessão de atos preparativos das visitas. Inicia com o pedido ou proposta de realização da visita e termina com definição programa. Inclui a identificação das necessidades e preparação dos espaços a visitar.' .
+:c900.20.602.01 :temPCA :pca_c900.20.602.01.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.602.01
+:pca_c900.20.602.01 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.20.602.01 :pcaValor 10.
+:pca_c900.20.602.01 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.20.602.01
+:just_pca_c900.20.602.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.20.602.01 :temJustificacao :just_pca_c900.20.602.01 .
+:just_pca_c900.20.602.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.20.602.01 :temCriterio :just_pca_c900.20.602.01_0. 
+:just_pca_c900.20.602.01_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.20.602.01_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.20.602.01 :temCriterio :just_pca_c900.20.602.01_1. 
+:just_pca_c900.20.602.01_1 :critTemProcRel :c500.10.001 .
+:c900.20.602.01 :temDF :df_c900.20.602.01.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.20.602.01
+:df_c900.20.602.01 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.20.602.01 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.20.602.01
+:just_df_c900.20.602.01 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.20.602.01 :temJustificacao :just_df_c900.20.602.01 .
+:just_df_c900.20.602.01_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada em 900.20.602.02 - Organização de visitas institucionais: realização." .
+:just_df_c900.20.602.01 :temCriterio :just_df_c900.20.602.01_0. 
+:just_df_c900.20.602.01_0 :critTemProcRel :c900.20.602 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.602.02
+:c900.20.602.02 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N4 ;
+	:codigo '900.20.602.02' ;
+	:titulo 'Organização de visitas institucionais: realização' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20.602 ;
+	:descricao 'Concretização da visita. Inicia com a tomada de conhecimento do programa definitivo e termina com a sua realização ou execução. Inclui o registo documental. ' .
+:c900.20.602.02 :temPCA :pca_c900.20.602.02.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.602.02
+:pca_c900.20.602.02 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.20.602.02 :pcaValor 10.
+:pca_c900.20.602.02 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.20.602.02
+:just_pca_c900.20.602.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.20.602.02 :temJustificacao :just_pca_c900.20.602.02 .
+:just_pca_c900.20.602.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória." .
+:just_pca_c900.20.602.02 :temCriterio :just_pca_c900.20.602.02_0. 
+:just_pca_c900.20.602.02_0 :critTemLegAssoc :leg_Lei_98_97 .
+:just_pca_c900.20.602.02_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.20.602.02 :temCriterio :just_pca_c900.20.602.02_1. 
+:just_pca_c900.20.602.02_1 :critTemProcRel :c500.10.001 .
+:c900.20.602.02 :temDF :df_c900.20.602.02.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.20.602.02
+:df_c900.20.602.02 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.20.602.02 :dfValor "C" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.20.602.02
+:just_df_c900.20.602.02 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.20.602.02 :temJustificacao :just_df_c900.20.602.02 .
+:just_df_c900.20.602.02_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Sintetiza a informação de 900.20.602.01 - Organização de visitas institucionais: preparação." .
+:just_df_c900.20.602.02 :temCriterio :just_df_c900.20.602.02_0. 
+:just_df_c900.20.602.02_0 :critTemProcRel :c900.20.602 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.603
+:c900.20.603 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.20.603' ;
+	:titulo 'Processamento de pedidos de audiência' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20 ;
+	:descricao 'Tratamento de solicitação de audiência ou reunião por parte de cidadãos ou entidades. Inicia com o pedido e termina com a resposta ao interessado. Inclui agendamento e resposta ao pedido.' .
+:c900.20.603 :processoTipoVC :vc_processoTipo_pc .
+:c900.20.603 :processoTransversal "S" .
+:c900.20.603 :temDono :tip_AP .
+:c900.20.603 :temDono :tip_AL .
+:c900.20.603 :temDono :ent_CP .
+:c900.20.603 :temDono :ent_INFARMED .
+:c900.20.603 :temDono :tip_CCDR .
+:c900.20.603 :temDono :ent_IMT .
+:c900.20.603 :temDono :tip_IES .
+:c900.20.603 :temDono :ent_ACT .
+:c900.20.603 :temDono :ent_CASES .
+:c900.20.603 :temDono :ent_CGA .
+:c900.20.603 :temDono :ent_CITE .
+:c900.20.603 :temDono :ent_CNPDPCJ .
+:c900.20.603 :temDono :ent_CPL .
+:c900.20.603 :temDono :ent_CRL .
+:c900.20.603 :temDono :ent_DGERT .
+:c900.20.603 :temDono :ent_DGSS .
+:c900.20.603 :temDono :ent_GEP .
+:c900.20.603 :temDono :ent_IEFP .
+:c900.20.603 :temDono :ent_IGMTSSS .
+:c900.20.603 :temDono :ent_IGFCSS .
+:c900.20.603 :temDono :ent_IGFSS .
+:c900.20.603 :temDono :ent_II .
+:c900.20.603 :temDono :ent_INR .
+:c900.20.603 :temDono :ent_ISS .
+:c900.20.603 :temDono :ent_OIT .
+:c900.20.603 :temDono :ent_POISE .
+:c900.20.603 :temDono :ent_SGMTSSS .
+:c900.20.603 :temDono :ent_ICNF .
+:c900.20.603 :temDono :ent_IGAMAOT .
+:c900.20.603 :temDono :ent_DGPM .
+:c900.20.603 :temDono :ent_DGRM .
+:c900.20.603 :temDono :ent_GAMA .
+:c900.20.603 :temDono :ent_DGADR .
+:c900.20.603 :temDono :ent_DGAV .
+:c900.20.603 :temDono :ent_INIAV .
+:c900.20.603 :temDono :ent_IVV .
+:c900.20.603 :temDono :ent_IVDP .
+:c900.20.603 :temDono :ent_PDR2020 .
+:c900.20.603 :temDono :ent_GPP .
+:c900.20.603 :temDono :tip_DRAP .
+:c900.20.603 :temDono :ent_IFAP .
+:c900.20.603 :temDono :ent_CV .
+:c900.20.603 :temDono :ent_ERSE .
+:c900.20.603 :temParticipanteIniciador :ent_PDR2020 .
+:c900.20.603 :temParticipanteIniciador :ent_ACT .
+:c900.20.603 :temParticipanteIniciador :ent_CASES .
+:c900.20.603 :temParticipanteIniciador :ent_CITE .
+:c900.20.603 :temParticipanteIniciador :ent_CNPDPCJ .
+:c900.20.603 :temParticipanteIniciador :ent_CPL .
+:c900.20.603 :temParticipanteIniciador :ent_CRL .
+:c900.20.603 :temParticipanteIniciador :ent_DGERT .
+:c900.20.603 :temParticipanteIniciador :ent_DGSS .
+:c900.20.603 :temParticipanteIniciador :ent_GEP .
+:c900.20.603 :temParticipanteIniciador :ent_IEFP .
+:c900.20.603 :temParticipanteIniciador :ent_IGMTSSS .
+:c900.20.603 :temParticipanteIniciador :ent_IGFCSS .
+:c900.20.603 :temParticipanteIniciador :ent_IGFSS .
+:c900.20.603 :temParticipanteIniciador :ent_II .
+:c900.20.603 :temParticipanteIniciador :ent_INR .
+:c900.20.603 :temParticipanteIniciador :ent_ISS .
+:c900.20.603 :temParticipanteIniciador :ent_OIT .
+:c900.20.603 :temParticipanteIniciador :ent_POISE .
+:c900.20.603 :temParticipanteIniciador :ent_SGMTSSS .
+:c900.20.603 :temParticipanteIniciador :ent_CV .
+:c900.20.603 :temLegislacao :leg_DL_4_2015 .
+:c900.20.603 :temLegislacao :leg_DL_433_82 .
+:c900.20.603 :temRelProc :c150.20.300 .
+:c900.20.603 :eSintetizadoPor :c150.20.300 .
+:c900.20.603 :temRelProc :c300.30.008 .
+:c900.20.603 :eSintetizadoPor :c300.30.008 .
+:c900.20.603 :temPCA :pca_c900.20.603.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.603
+:pca_c900.20.603 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.20.603 :pcaValor 5.
+:pca_c900.20.603 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.20.603
+:just_pca_c900.20.603 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.20.603 :temJustificacao :just_pca_c900.20.603 .
+:just_pca_c900.20.603_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c900.20.603 :temCriterio :just_pca_c900.20.603_0. 
+:just_pca_c900.20.603_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c900.20.603_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.20.603 :temCriterio :just_pca_c900.20.603_1. 
+:just_pca_c900.20.603_1 :critTemProcRel :c500.10.001 .
+:c900.20.603 :temDF :df_c900.20.603.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.20.603
+:df_c900.20.603 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.20.603 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.20.603
+:just_df_c900.20.603 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.20.603 :temJustificacao :just_df_c900.20.603 .
+:just_df_c900.20.603_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada emPN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação." .
+:just_df_c900.20.603 :temCriterio :just_df_c900.20.603_0. 
+:just_df_c900.20.603_0 :critTemProcRel :c150.20.300 .
+:just_df_c900.20.603_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.604
+:c900.20.604 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.20.604' ;
+	:titulo 'Tratamento de informações e processamento de pedidos de informação' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20 ;
+	:descricao 'Processamento de informações recebidas e de pedidos de informações e/ou esclarecimentos dirigidos à ou pela instituição. Inicia com a receção ou envio do pedido e termina com a resposta ao mesmo. Inclui análise ou elaboração do pedido, recolha de informação pertinente e preparação da resposta.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_1bcacf87c0d4
+:nota_900.20.604_1bcacf87c0d4 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Pedidos de informação que não integrem um processo específico".
+
+:c900.20.604 :temNotaAplicacao :nota_900.20.604_1bcacf87c0d4 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_8f6ee68203a5
+:nota_900.20.604_8f6ee68203a5 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Receção e resposta a pedidos efetuados à entidade ou pela entidade".
+
+:c900.20.604 :temNotaAplicacao :nota_900.20.604_8f6ee68203a5 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_3c74b7068741
+:nota_900.20.604_3c74b7068741 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A emissão de informações vinculativas deve ser considerada em 100.20.001 – Produção de pareceres técnico-jurídicos de interpretação de diplomas jurídico-normativos".
+
+:c900.20.604 :temNotaExclusao :nota_900.20.604_3c74b7068741 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_0bbcdf521d62
+:nota_900.20.604_0bbcdf521d62 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As instruções para a aplicação de normas e diplomas legais devem ser consideradas, respetivamente, em 100.20.200 - Produção e comunicação de instruções para a aplicação de diplomas jurídico-normativos".
+
+:c900.20.604 :temNotaExclusao :nota_900.20.604_0bbcdf521d62 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_0d536dedbf44
+:nota_900.20.604_0d536dedbf44 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As orientações e pareceres para a interpretação de normas técnicas devem ser consideradas em 100.20.400 - Produção de orientações e pareceres para a interpretação da norma técnica".
+
+:c900.20.604 :temNotaExclusao :nota_900.20.604_0d536dedbf44 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_09dfe81710e2
+:nota_900.20.604_09dfe81710e2 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pedidos de informação e de consulta ao abrigo do direito de informação devem ser considerados no PN 300.50.400 - Processamento de pedidos de consulta e reprodução de documentos e informação".
+
+:c900.20.604 :temNotaExclusao :nota_900.20.604_09dfe81710e2 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_8ee5bd10427f
+:nota_900.20.604_8ee5bd10427f rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As reclamações devem ser consideradas em 950.20.001 – Processamento de petições, reclamações e sugestões".
+
+:c900.20.604 :temNotaExclusao :nota_900.20.604_8ee5bd10427f .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_a911f45f0bd6
+:nota_900.20.604_a911f45f0bd6 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A elaboração de informações ou esclarecimentos institucionais para a comunicação social deve ser considerada em 900.20.400 – Elaboração de informações ou esclarecimentos institucionais para a comunicação social".
+
+:c900.20.604 :temNotaExclusao :nota_900.20.604_a911f45f0bd6 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_7540aeea6ad3
+:nota_900.20.604_7540aeea6ad3 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os convites para eventos devem ser classificados no respetivo PN do evento, na classe 900.10".
+
+:c900.20.604 :temNotaExclusao :nota_900.20.604_7540aeea6ad3 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_e46ba01ddecb
+:nota_900.20.604_e46ba01ddecb rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "A divulgação ou pedidos de divulgação de eventos por outras entidades devem ser classificados em 900.10.504 - Publicitação de iniciativas e atividades de terceiros".
+
+:c900.20.604 :temNotaExclusao :nota_900.20.604_e46ba01ddecb .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_2a1a955d1c20
+:nota_900.20.604_2a1a955d1c20 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "As mensagens de cortesia devem ser classificadas em 900.20.605 - Processamento de mensagens de cortesia".
+
+:c900.20.604 :temNotaExclusao :nota_900.20.604_2a1a955d1c20 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_4fff7e80e4ee
+:nota_900.20.604_4fff7e80e4ee rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os pedidos de informação sobre processos específicos devem ser considerados no âmbito dos mesmos".
+
+:c900.20.604 :temNotaExclusao :nota_900.20.604_4fff7e80e4ee .
+
+:c900.20.604 :processoTipoVC :vc_processoTipo_pc .
+:c900.20.604 :processoTransversal "S" .
+:c900.20.604 :temDono :tip_AL .
+:c900.20.604 :temDono :tip_CCDR .
+:c900.20.604 :temDono :ent_Grupo_IP .
+:c900.20.604 :temDono :ent_CP .
+:c900.20.604 :temDono :ent_IMT .
+:c900.20.604 :temDono :tip_IES .
+:c900.20.604 :temDono :ent_ICNF .
+:c900.20.604 :temDono :ent_IGAMAOT .
+:c900.20.604 :temDono :ent_ACT .
+:c900.20.604 :temDono :ent_CASES .
+:c900.20.604 :temDono :ent_CGA .
+:c900.20.604 :temDono :ent_CITE .
+:c900.20.604 :temDono :ent_CNPDPCJ .
+:c900.20.604 :temDono :ent_CPL .
+:c900.20.604 :temDono :ent_CRL .
+:c900.20.604 :temDono :ent_DGERT .
+:c900.20.604 :temDono :ent_DGSS .
+:c900.20.604 :temDono :ent_GEP .
+:c900.20.604 :temDono :ent_IEFP .
+:c900.20.604 :temDono :ent_IGMTSSS .
+:c900.20.604 :temDono :ent_IGFCSS .
+:c900.20.604 :temDono :ent_IGFSS .
+:c900.20.604 :temDono :ent_II .
+:c900.20.604 :temDono :ent_INR .
+:c900.20.604 :temDono :ent_ISS .
+:c900.20.604 :temDono :ent_OIT .
+:c900.20.604 :temDono :ent_POISE .
+:c900.20.604 :temDono :ent_SGMTSSS .
+:c900.20.604 :temDono :ent_DGPM .
+:c900.20.604 :temDono :ent_DGRM .
+:c900.20.604 :temDono :ent_GAMA .
+:c900.20.604 :temDono :ent_DGADR .
+:c900.20.604 :temDono :ent_DGAV .
+:c900.20.604 :temDono :ent_INIAV .
+:c900.20.604 :temDono :ent_IVV .
+:c900.20.604 :temDono :ent_IVDP .
+:c900.20.604 :temDono :ent_PDR2020 .
+:c900.20.604 :temDono :ent_GPP .
+:c900.20.604 :temDono :tip_DRAP .
+:c900.20.604 :temDono :ent_IFAP .
+:c900.20.604 :temDono :ent_CV .
+:c900.20.604 :temDono :ent_ERSE .
+:c900.20.604 :temParticipanteApreciador :ent_ICNF .
+:c900.20.604 :temParticipanteApreciador :ent_IGAMAOT .
+:c900.20.604 :temParticipanteApreciador :ent_DGADR .
+:c900.20.604 :temParticipanteApreciador :ent_DGAV .
+:c900.20.604 :temParticipanteApreciador :ent_INIAV .
+:c900.20.604 :temParticipanteApreciador :ent_IVV .
+:c900.20.604 :temParticipanteApreciador :ent_IVDP .
+:c900.20.604 :temParticipanteApreciador :ent_PDR2020 .
+:c900.20.604 :temParticipanteApreciador :ent_ACT .
+:c900.20.604 :temParticipanteApreciador :ent_CASES .
+:c900.20.604 :temParticipanteApreciador :ent_CITE .
+:c900.20.604 :temParticipanteApreciador :ent_CNPDPCJ .
+:c900.20.604 :temParticipanteApreciador :ent_CPL .
+:c900.20.604 :temParticipanteApreciador :ent_CRL .
+:c900.20.604 :temParticipanteApreciador :ent_DGERT .
+:c900.20.604 :temParticipanteApreciador :ent_DGSS .
+:c900.20.604 :temParticipanteApreciador :ent_GEP .
+:c900.20.604 :temParticipanteApreciador :ent_IEFP .
+:c900.20.604 :temParticipanteApreciador :ent_IGMTSSS .
+:c900.20.604 :temParticipanteApreciador :ent_IGFCSS .
+:c900.20.604 :temParticipanteApreciador :ent_IGFSS .
+:c900.20.604 :temParticipanteApreciador :ent_II .
+:c900.20.604 :temParticipanteApreciador :ent_INR .
+:c900.20.604 :temParticipanteApreciador :ent_ISS .
+:c900.20.604 :temParticipanteApreciador :ent_OIT .
+:c900.20.604 :temParticipanteApreciador :ent_POISE .
+:c900.20.604 :temParticipanteApreciador :ent_SGMTSSS .
+:c900.20.604 :temParticipanteApreciador :ent_CV .
+:c900.20.604 :temLegislacao :leg_DL_4_2015 .
+:c900.20.604 :temLegislacao :leg_DL_433_82 .
+:c900.20.604 :temRelProc :c150.20.300 .
+:c900.20.604 :eSintetizadoPor :c150.20.300 .
+:c900.20.604 :temRelProc :c300.30.008 .
+:c900.20.604 :eSintetizadoPor :c300.30.008 .
+:c900.20.604 :temPCA :pca_c900.20.604.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.604
+:pca_c900.20.604 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.20.604 :pcaValor 5.
+:pca_c900.20.604 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.20.604
+:just_pca_c900.20.604 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.20.604 :temJustificacao :just_pca_c900.20.604 .
+:just_pca_c900.20.604_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoLegal ;
+	:conteudo "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional." .
+:just_pca_c900.20.604 :temCriterio :just_pca_c900.20.604_0. 
+:just_pca_c900.20.604_0 :critTemLegAssoc :leg_DL_433_82 .
+:just_pca_c900.20.604_1 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoUtilidadeAdministrativa ;
+	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
+:just_pca_c900.20.604 :temCriterio :just_pca_c900.20.604_1. 
+:just_pca_c900.20.604_1 :critTemProcRel :c500.10.001 .
+:c900.20.604 :temDF :df_c900.20.604.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.20.604
+:df_c900.20.604 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.20.604 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.20.604
+:just_df_c900.20.604 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.20.604 :temJustificacao :just_df_c900.20.604 .
+:just_df_c900.20.604_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada emPN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação." .
+:just_df_c900.20.604 :temCriterio :just_df_c900.20.604_0. 
+:just_df_c900.20.604_0 :critTemProcRel :c150.20.300 .
+:just_df_c900.20.604_0 :critTemProcRel :c300.30.008 .
+
+###  http://jcr.di.uminho.pt/m51-clav#c900.20.605
+:c900.20.605 rdf:type owl:NamedIndividual ;
+	:classeStatus 'A';
+	rdf:type :Classe_N3 ;
+	:codigo '900.20.605' ;
+	:titulo 'Processamento de mensagens de cortesia' ;
+	:pertenceLC :lc1 ;
+	:temPai :c900.20 ;
+	:descricao 'Tratamento de mensagens de cortesia dirigidas à ou pela instituição. Inicia com a receção ou envio da mensagem e termina, quando aplicável, com a resposta à mesma. Inclui análise ou elaboração da mensagem e, quando aplicável, recolha de informação pertinente e preparação da resposta.' .
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_6765717fa736
+:nota_900.20.605_6765717fa736 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apresentação de mensagens de boas vindas".
+
+:c900.20.605 :temNotaAplicacao :nota_900.20.605_6765717fa736 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_4336f2185ebd
+:nota_900.20.605_4336f2185ebd rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apresentação de mensagens de despedida".
+
+:c900.20.605 :temNotaAplicacao :nota_900.20.605_4336f2185ebd .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_1974e83045bb
+:nota_900.20.605_1974e83045bb rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apresentação de mensagens de congratulação".
+
+:c900.20.605 :temNotaAplicacao :nota_900.20.605_1974e83045bb .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_fb320818f441
+:nota_900.20.605_fb320818f441 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apresentação de cumprimentos".
+
+:c900.20.605 :temNotaAplicacao :nota_900.20.605_fb320818f441 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_16be1f61966c
+:nota_900.20.605_16be1f61966c rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Convites institucionais (quando não incluídos no processo de organização de evento)".
+
+:c900.20.605 :temNotaAplicacao :nota_900.20.605_16be1f61966c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_c59916e51b81
+:nota_900.20.605_c59916e51b81 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apresentação de mensagens de boas festas".
+
+:c900.20.605 :temNotaAplicacao :nota_900.20.605_c59916e51b81 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_a77b16087b4c
+:nota_900.20.605_a77b16087b4c rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Apresentação de mensagens de condolências".
+
+:c900.20.605 :temNotaAplicacao :nota_900.20.605_a77b16087b4c .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_16895b877268
+:nota_900.20.605_16895b877268 rdf:type owl:NamedIndividual ,
+		:NotaAplicacao ;
+	:rdfs:label "Nota de Aplicação";
+	:conteudo "Notas verbais".
+
+:c900.20.605 :temNotaAplicacao :nota_900.20.605_16895b877268 .
+
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_94d1839758e5
+:nota_900.20.605_94d1839758e5 rdf:type owl:NamedIndividual ,
+		:NotaExclusao ;
+	:rdfs:label "Nota de Exclusão";
+	:conteudo "Os convites institucionais, no âmbito da organização de um evento, deverão ser considerados no PN da respetiva organização do evento ou atividade de dinamização.O processamento de mensagens de elogio ou agradecimento a entidade pela qualidade de serviços prestados deve ser considerado em 950.20.300 – Processamento de mensagens de elogio e de agradecimento.".
+
+:c900.20.605 :temNotaExclusao :nota_900.20.605_94d1839758e5 .
+
+:c900.20.605 :processoTipoVC :vc_processoTipo_pc .
+:c900.20.605 :processoTransversal "S" .
+:c900.20.605 :temDono :tip_AP .
+:c900.20.605 :temDono :ent_SGMNE .
+:c900.20.605 :temDono :ent_ACT .
+:c900.20.605 :temDono :ent_CASES .
+:c900.20.605 :temDono :tip_IES .
+:c900.20.605 :temDono :ent_CGA .
+:c900.20.605 :temDono :ent_CITE .
+:c900.20.605 :temDono :ent_CNPDPCJ .
+:c900.20.605 :temDono :ent_CPL .
+:c900.20.605 :temDono :ent_CRL .
+:c900.20.605 :temDono :ent_DGERT .
+:c900.20.605 :temDono :ent_DGSS .
+:c900.20.605 :temDono :ent_GEP .
+:c900.20.605 :temDono :ent_IEFP .
+:c900.20.605 :temDono :ent_IGMTSSS .
+:c900.20.605 :temDono :ent_IGFCSS .
+:c900.20.605 :temDono :ent_IGFSS .
+:c900.20.605 :temDono :ent_II .
+:c900.20.605 :temDono :ent_INR .
+:c900.20.605 :temDono :ent_ISS .
+:c900.20.605 :temDono :ent_OIT .
+:c900.20.605 :temDono :ent_POISE .
+:c900.20.605 :temDono :ent_SGMTSSS .
+:c900.20.605 :temDono :ent_IGAMAOT .
+:c900.20.605 :temDono :ent_DGPM .
+:c900.20.605 :temDono :ent_DGRM .
+:c900.20.605 :temDono :ent_GAMA .
+:c900.20.605 :temDono :ent_DGADR .
+:c900.20.605 :temDono :ent_IVV .
+:c900.20.605 :temDono :ent_IVDP .
+:c900.20.605 :temDono :ent_PDR2020 .
+:c900.20.605 :temDono :ent_GPP .
+:c900.20.605 :temDono :tip_DRAP .
+:c900.20.605 :temDono :ent_IFAP .
+:c900.20.605 :temDono :tip_CCDR .
+:c900.20.605 :temDono :ent_CV .
+:c900.20.605 :temParticipanteApreciador :tip_AP .
+:c900.20.605 :temParticipanteApreciador :ent_ACT .
+:c900.20.605 :temParticipanteApreciador :ent_CASES .
+:c900.20.605 :temParticipanteApreciador :ent_CGA .
+:c900.20.605 :temParticipanteApreciador :ent_CITE .
+:c900.20.605 :temParticipanteApreciador :ent_CNPDPCJ .
+:c900.20.605 :temParticipanteApreciador :ent_CPL .
+:c900.20.605 :temParticipanteApreciador :ent_CRL .
+:c900.20.605 :temParticipanteApreciador :ent_DGERT .
+:c900.20.605 :temParticipanteApreciador :ent_DGSS .
+:c900.20.605 :temParticipanteApreciador :ent_GEP .
+:c900.20.605 :temParticipanteApreciador :ent_IEFP .
+:c900.20.605 :temParticipanteApreciador :ent_IGMTSSS .
+:c900.20.605 :temParticipanteApreciador :ent_IGFCSS .
+:c900.20.605 :temParticipanteApreciador :ent_IGFSS .
+:c900.20.605 :temParticipanteApreciador :ent_II .
+:c900.20.605 :temParticipanteApreciador :ent_INR .
+:c900.20.605 :temParticipanteApreciador :ent_ISS .
+:c900.20.605 :temParticipanteApreciador :ent_OIT .
+:c900.20.605 :temParticipanteApreciador :ent_POISE .
+:c900.20.605 :temParticipanteApreciador :ent_SGMTSSS .
+:c900.20.605 :temParticipanteApreciador :ent_INIAV .
+:c900.20.605 :temParticipanteApreciador :ent_IVV .
+:c900.20.605 :temParticipanteApreciador :tip_CCDR .
+:c900.20.605 :temRelProc :c150.20.300 .
+:c900.20.605 :eSintetizadoPor :c150.20.300 .
+:c900.20.605 :temRelProc :c300.30.008 .
+:c900.20.605 :eSintetizadoPor :c300.30.008 .
+:c900.20.605 :temPCA :pca_c900.20.605.
+###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.605
+:pca_c900.20.605 rdf:type owl:NamedIndividual ,
+	:PCA .
+:pca_c900.20.605 :pcaValor 5.
+:pca_c900.20.605 :pcaFormaContagemNormalizada :vc_pcaFormaContagem_conclusaoProcedimento .
+###  http://jcr.di.uminho.pt/m51-clav#just_pca_c900.20.605
+:just_pca_c900.20.605 rdf:type owl:NamedIndividual ,
+		:JustificacaoPCA .
+:pca_c900.20.605 :temJustificacao :just_pca_c900.20.605 .
+:just_pca_c900.20.605_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoGestionario ;
+	:conteudo "Prazo para imputação de responsabilidade pela gestão estratégica, decorrente de escrutínio público (eleições).Considerou-se para a definição do prazo o tempo do mandato de maior duração: 5 anos (Presidente da República)." .
+:just_pca_c900.20.605 :temCriterio :just_pca_c900.20.605_0. 
+:c900.20.605 :temDF :df_c900.20.605.
+###  http://jcr.di.uminho.pt/m51-clav#df_c900.20.605
+:df_c900.20.605 rdf:type owl:NamedIndividual ,
+		:DestinoFinal .
+:df_c900.20.605 :dfValor "E" .
+###  http://jcr.di.uminho.pt/m51-clav#just_df_c900.20.605
+:just_df_c900.20.605 rdf:type owl:NamedIndividual ,
+		:JustificacaoDF .
+:df_c900.20.605 :temJustificacao :just_df_c900.20.605 .
+:just_df_c900.20.605_0 rdf:type owl:NamedIndividual ,
+		:CriterioJustificacaoDensidadeInfo ;
+	:conteudo "Informação sintetizada emPN 150.20.300 - Avaliação de atividades;PN 300.30.008 - Registo de documentos e informação." .
+:just_df_c900.20.605 :temCriterio :just_df_c900.20.605_0. 
+:just_df_c900.20.605_0 :critTemProcRel :c150.20.300 .
+:just_df_c900.20.605_0 :critTemProcRel :c300.30.008 .

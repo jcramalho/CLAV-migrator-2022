@@ -1,0 +1,2197 @@
+[
+    {
+        "codigo": "950",
+        "nivel": 1,
+        "estado": "A",
+        "titulo": "ADMINISTRAÇÃO DA PARTICIPAÇÃO CÍVICA",
+        "descricao": "Relativo à realização processos eleitorais para escolha dos representantes dos cidadãos (sufrágio universal), à realização de processos referendários, ao processamento de outros atos de participação dos cidadãos na gestão de assuntos públicos e, ainda, à atribuição de distinções honoríficas.",
+        "notasEx": [
+            {
+                "idNota": "nota_950_04353037519e",
+                "nota": "A audição pública no âmbito de um determinado processo, deve ser considerada junto do processo respetivo - por exemplo, a audição pública no âmbito da elaboração de uma lei ou regulamento deve ser considerada em \\\"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\\\" (100.10)"
+            }
+        ]
+    },
+    {
+        "codigo": "950.10",
+        "nivel": 2,
+        "estado": "A",
+        "titulo": "Administração eleitoral",
+        "descricao": "Compreende as atividades de organização dos processos de sufrágio universal (nacional, regional e local) para eleições e para referendos, bem como o respetivo apuramento, transmissão e difusão de resultados.",
+        "notasAp": [
+            {
+                "idNota": "nota_950.10_add2dd9db48c",
+                "nota": "Expediente administrativo produzido no âmbito da organização dos processos eleitoral e referendário"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_950.10_705d89bae02a",
+                "nota": "A eleição para estruturas internas de serviços públicos (por exemplo, para órgãos de administração e gestão de escolas, para Conselhos, Comissões ou outros) deve ser considerada em \\\"Administração de relações de trabalho/ Estabelecimento e cessação de relações de trabalho\\\" (250.10)"
+            },
+            {
+                "idNota": "nota_950.10_64c44916f9b4",
+                "nota": "O registo de cidadãos eleitores e o registo de eleitos devem ser considerados em \\\"Prestação de serviços de identificação e registo/ Registo de dados de identificação e caracterização de entidades ou atos\\\" (400.10)"
+            },
+            {
+                "idNota": "nota_950.10_6ae7a00518c7",
+                "nota": "Os processos de atualização do recenseamento eleitoral, incluindo o processamento de pedidos de atualização de dados individuais, devem ser considerados em \\\"Prestação de serviços de identificação e registo/ Registo de dados de identificação e caracterização de entidades ou atos\\\" (400.10)"
+            }
+        ]
+    },
+    {
+        "codigo": "950.10.001",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Marcação de atos eleitorais e referendários",
+        "descricao": "Definição de data para a realização de atos eleitorais e referendários. Inicia com a apresentação da proposta de data e termina com a publicação da decisão. Inclui consulta de entidades, decisão e comunicação da data.",
+        "notasAp": [
+            {
+                "idNota": "nota_950.10.001_0070e5f87c6b",
+                "nota": "Referendos nacionais, regionais e locais"
+            },
+            {
+                "idNota": "nota_950.10.001_0a1350875550",
+                "nota": "Eleições legislativas"
+            },
+            {
+                "idNota": "nota_950.10.001_24bd3bc473f9",
+                "nota": "Eleições para a presidência da república"
+            },
+            {
+                "idNota": "nota_950.10.001_48d722473213",
+                "nota": "Eleições regionais e autárquicas"
+            },
+            {
+                "idNota": "nota_950.10.001_e9c1d59eef10",
+                "nota": "Eleições dos orgãos de soberania, das regiões autónomas, do poder local e do Conselho das Comunidades Portuguesas"
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "PR",
+            "Gov",
+            "AL",
+            "GovReg-A",
+            "GovReg-M"
+        ],
+        "participantes": [
+            {
+                "id": "CNE",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "SGMAI",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "Cns",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "DL_319_A_76",
+            "Lei_14_79",
+            "DL_267_80",
+            "Lei_Orgânica_1_2006",
+            "Lei_Orgânica_1_2001",
+            "Lei_14_87",
+            "Portaria_197_2015"
+        ],
+        "processosRelacionados": [
+            "950.10.200",
+            "950.10.201",
+            "950.10.400",
+            "950.10.402",
+            "950.10.600"
+        ],
+        "proRel": [
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eSucessorDe"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c950.10.001_0",
+                    "tipo": "gestionário",
+                    "conteudo": "Prazo para imputação de responsabilidade pela gestão estratégica, decorrente de escrutínio público (eleições) ou da não recondução no mandato.Considerou-se para a definição do prazo o tempo do mandato de maior duração: 5 anos."
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c950.10.001_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação constante do PN 950.10.600 - Controlo de operações de votação nas assembleias e mesas de voto.",
+                    "procRefs": [
+                        "950.10.600"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "950.10.200",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Apreciação e admissão de candidaturas a atos eleitorais",
+        "descricao": "Análise e aceitação de candidaturas apresentadas por partidos políticos, coligações eleitorais, candidaturas independentes e grupos de cidadãos. Inicia com a apresentação das candidaturas e termina com a publicitação das listas. Inclui verificação da legalidade e regularidade das candidaturas, notificação de aceitação ou de rejeição de candidaturas, reclamação da decisão e sorteio das listas apresentadas.",
+        "notasAp": [
+            {
+                "idNota": "nota_950.10.200_82025559bb68",
+                "nota": "Situações de substituição e desistência de candidaturas e de candidatos"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "TC",
+            "STJ"
+        ],
+        "participantes": [
+            {
+                "id": "PR",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "DL_319_A_76",
+            "Lei_14_79",
+            "DL_267_80",
+            "Lei_Orgânica_1_2006",
+            "Lei_Orgânica_1_2001",
+            "Lei_14_87",
+            "Portaria_197_2015"
+        ],
+        "processosRelacionados": [
+            "950.10.001",
+            "950.10.400"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eAntecessorDe"
+        ]
+    },
+    {
+        "codigo": "950.10.200.01",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Apreciação e admissão de candidaturas a atos eleitorais: apresentação de candidaturas",
+        "descricao": "Receção de candidaturas a atos eleitorais. Inicia com a apresentação das candidaturas e termina com a emissão de recibos ou comprovativos de receção. Inclui a conferência das assinaturas.",
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c950.10.200.01_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 319-A/76], art.º 159º, alínea c) “ Toda a documentação relativa à apresentação de candidaturas será conservada durante o prazo de cinco anos a contar da data de tomada de posse do candidato eleito.”[Lei 14/87], art.º 17º \\\"A documentação relativa à apresentação de candidaturas será conservada pelo Tribunal Constitucional durante o prazo de cinco anos a contar da data da proclamação dos resultados.\\\"Extensão desta disposição aos demais atos eleitorais e referendários.",
+                    "legRefs": [
+                        "DL_319_A_76",
+                        "Lei_14_87"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c950.10.200.01_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada emPN 950.10.200.02 - Apreciação e admissão de candidaturas a atos eleitorais: apreciação e decisão de candidaturas.",
+                    "procRefs": [
+                        "950.10.200"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "950.10.200.02",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Apreciação e admissão de candidaturas a atos eleitorais: apreciação e decisão de candidaturas",
+        "descricao": "Análise e deliberação sobre as candidaturas apresentadas. Inicia com a verificação das condições de admissibilidade e termina com a publicitação das listas. Inclui verificação da legalidade e regularidade das candidaturas, notificação de aceitação ou de rejeição de candidaturas, reclamação da decisão e sorteio das listas apresentadas. Inclui ainda o sorteio das listas apresentadas a constar nos boletins de voto.",
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c950.10.200.02_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 14/87], art.º 17º \\\"A documentação relativa à apresentação de candidaturas será conservada pelo Tribunal Constitucional durante o prazo de cinco anos a contar da data da proclamação dos resultados.\\\"Extensão desta disposição aos demais atos eleitorais e referendários.",
+                    "legRefs": [
+                        "Lei_14_87"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c950.10.200.02_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutro PN.A informação sobre as candidaturas rejeitadas apenas é recuperável neste PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "950.10.201",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Apreciação e admissão de propostas de referendo",
+        "descricao": "Análise e aceitação de propostas de referendo. Inicia com a apresentação das iniciativas de proposta e termina com o envio da resolução para convocação de referendo. Inclui análise da proposta de referendo, consulta de entidades, notificação de interessados, discussão e votação, elaboração de projeto de resolução e decisão.",
+        "notasAp": [
+            {
+                "idNota": "nota_950.10.201_4213daa18fb3",
+                "nota": "Admissão de propostas para referendos nacionais, regionais e locais"
+            },
+            {
+                "idNota": "nota_950.10.201_eb5f8a52f9e0",
+                "nota": "Propostas da iniciativa de deputados, de grupos parlamentares, do Governo ou de grupos de cidadãos eleitores"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_950.10.201_130531a8c77f",
+                "nota": "A fiscalização preventiva das iniciativas de referendo, ou da verificação da sua constitucionalidade e legalidade, deve ser considerada em “Administração da justiça” (600.30)"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "TC"
+        ],
+        "participantes": [
+            {
+                "id": "PR",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "AL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "AR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ALRAA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ALRAM",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "AM",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "AF",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CM",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Lei_15_A_98",
+            "Lei_4_2000",
+            "Lei_2_2015",
+            "DL_319_A_76",
+            "Lei_14_79",
+            "Lei_14_87",
+            "Lei_1_2001",
+            "DL_267_80",
+            "Lei_1_2006",
+            "Lei_15_A_98",
+            "Lei_4_2000"
+        ],
+        "processosRelacionados": [
+            "150.10.100",
+            "150.10.700",
+            "150.10.701",
+            "600.30.712",
+            "950.10.001",
+            "950.10.400"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eSucessorDe"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c950.10.201_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 14/87], art.º 17º \\\"A documentação relativa à apresentação de candidaturas será conservada pelo Tribunal Constitucional durante o prazo de cinco anos a contar da data da proclamação dos resultados.\\\"Extensão desta disposição aos demais atos eleitorais e referendários.",
+                    "legRefs": [
+                        "Lei_14_87"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c950.10.201_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutro PN.A informação sobre as candidaturas rejeitadas apenas é recuperável neste PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "950.10.400",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Apoio técnico e logístico ao processo eleitoral e referendário",
+        "descricao": "Organização, conceção e disponibilização de impressos, equipamentos e outros materiais necessários à realização dos atos eleitorais e referendários. Inicia com a definição do calendário eleitoral e referendário e termina com a entrega dos materiais a utilizar. Inclui definição do formato e da cor dos boletins de voto, organização dos cadernos de recenseamento eleitoral atendendo às mesas de voto, verificação do estado do material disponibilizado e comunicação dos procedimentos a observar.",
+        "notasAp": [
+            {
+                "idNota": "nota_950.10.400_a676eabf094f",
+                "nota": "Preparação e entrega de boletins de voto"
+            },
+            {
+                "idNota": "nota_950.10.400_355afeb60a3d",
+                "nota": "Preparação e entrega de cadernos de eleitorais"
+            },
+            {
+                "idNota": "nota_950.10.400_79ddbc681963",
+                "nota": "Preparação e entrega de manuais de procedimentos"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_950.10.400_4b7d2b5b843f",
+                "nota": "A elaboração gráfica dos manuais de procedimentos deverá ser considerada em 900.20.201 – Edição e publicação de conteúdos"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "SGMAI"
+        ],
+        "participantes": [
+            {
+                "id": "AL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "Cns",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "DL_319_A_76",
+            "Lei_14_79",
+            "Lei_14_87",
+            "Lei_Orgânica_1_2001",
+            "DL_267_80",
+            "Lei_Orgânica_1_2006",
+            "Lei_15_A_98",
+            "Lei_Orgânica_4_2000",
+            "Lei_Orgânica_2_2015",
+            "Lei_66_A_2007",
+            "Portaria_197_2015",
+            "Lei_98_97"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "300.10.005",
+            "350.30.001",
+            "500.10.001",
+            "900.20.201",
+            "950.10.001",
+            "950.10.200",
+            "950.10.201",
+            "950.10.401",
+            "950.10.600",
+            "950.10.602"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSintetizadoPor"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c950.10.400_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c950.10.400_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c950.10.400_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente em:PN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 950.10.602 - Apuramento geral de resultados eleitorais (nas atas do ato eleitoral).",
+                    "procRefs": [
+                        "150.20.300",
+                        "950.10.602"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "950.10.401",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Constituição de assembleias de voto",
+        "descricao": "Composição das assembleias e mesas de voto. Inicia com a determinação do local de funcionamento da assembleia de voto e termina com a afixação do mapa definitivo das assembleias e secções de voto através de edital. Inclui determinação do número de secções de voto, escolha dos membros das mesas, designação e credenciação dos delegados das candidaturas concorrentes, afixação dos desdobramentos e anexações de secções de voto.",
+        "notasAp": [
+            {
+                "idNota": "nota_950.10.401_3df8da502ffb",
+                "nota": "Constituição das assembleias de voto"
+            },
+            {
+                "idNota": "nota_950.10.401_91fa3acb6010",
+                "nota": "Constituição das mesas de voto"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "DGACCP"
+        ],
+        "participantes": [
+            {
+                "id": "SGMAI",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "DL_319_A_76",
+            "Lei_14_79",
+            "Lei_14_87",
+            "Lei_Orgânica_1_2001",
+            "DL_267_80",
+            "Lei_Orgânica_1_2006",
+            "Lei_15_A_98",
+            "Lei_Orgânica_4_2000",
+            "Lei_Orgânica_2_2015",
+            "Lei_1_2001"
+        ],
+        "processosRelacionados": [
+            "950.10.400",
+            "950.10.602"
+        ],
+        "proRel": [
+            "eAntecessorDe",
+            "eSintetizadoPor"
+        ],
+        "pca": {
+            "valores": 1.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c950.10.401_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 1/2001], art.º 152º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\\\"[Lei 15-A/98], art.º 161º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\\\"Extensão destas disposições aos demais atos eleitorais e referendários.",
+                    "legRefs": [
+                        "Lei_1_2001",
+                        "Lei_15_A_98"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c950.10.401_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 1/2001], art.º 152º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\\\"[Lei 15-A/98], art.º 161º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\\\"Extensão desta disposição aos demais atos eleitorais e referendários.",
+                    "legRefs": [
+                        "Lei_1_2001",
+                        "Lei_15_A_98"
+                    ]
+                },
+                {
+                    "critCodigo": "just_df_c950.10.401_1",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada noPN 950.10.602 - Apuramento geral de resultados.",
+                    "procRefs": [
+                        "950.10.602"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "950.10.402",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Definição e atribuição de meios para propaganda eleitoral",
+        "descricao": "Determinação e concessão de meios necessários ao desenvolvimento das atividades de propaganda eleitoral. Inicia com a determinação dos espaços e meios reservados para a propaganda eleitoral e termina com o estabelecimento de prazos para a remoção dos materiais utilizados. Inclui estabelecimento e distribuição dos tempos reservados para o exercício do direito de antena, comunicação à entidade competente da publicação nos média de matérias respeitantes à campanha eleitoral, requisição de espaços e comunicação da sua disponibilização para ações de campanha eleitoral, estabelecimento de locais para afixação de materiais de propaganda eleitoral.",
+        "notasAp": [
+            {
+                "idNota": "nota_950.10.402_ced60f7d18fd",
+                "nota": "Atribuição de tempos de antena e relações com os partidos políticos, no âmbito do desenrolar dos processos eleitorais e referendários"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "CNE"
+        ],
+        "participantes": [
+            {
+                "id": "AL",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "Lei_14_79",
+            "Lei_Orgânica_1_2001",
+            "Lei_19_2003",
+            "DL_433_82",
+            "Lei_1_2001",
+            "Lei_15_A_98"
+        ],
+        "processosRelacionados": [
+            "950.10.001"
+        ],
+        "proRel": [
+            "eSucessorDe"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c950.10.402_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c950.10.402_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 1/2001], artº 152, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\\\"[Lei 15-A/98], artº 161, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\\\"Extensão destas disposições aos demais atos eleitorais e referendários.",
+                    "legRefs": [
+                        "Lei_1_2001",
+                        "Lei_15_A_98"
+                    ]
+                }
+            ]
+        },
+        "Notas": "As ocorrências que revelem indícios de ilícito criminal são encaminhadas para investigação criminal, sendo suspensa a contagem do Prazo de conservação administrativa."
+    },
+    {
+        "codigo": "950.10.600",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Controlo de operações de votação e apuramento parcial de resultados",
+        "descricao": "Verificação do regular funcionamento das assembleias de voto e apuramento dos resultados nelas obtidos. Inicia com a declaração de abertura das assembleias e mesas de voto e termina com a entrega da documentação e comunicação dos resultados do escrutínio parcial à assembleia de apuramento geral. Inclui descarga nos cadernos eleitorais, contagem de votos antecipados, requisições de forças de segurança, quando necessário, receção de dúvidas, reclamações, protestos e contraprotestos relacionados com as operações eleitorais, contagem e devolução de boletins de voto não utilizados e inutilizados, contagem do número de votos introduzidos em urna, contagem e separação dos votos brancos, votos nulos e votos nas diferentes listas, envio dos votos nulos e votos sob protesto ou reclamação à assembleia de apuramento geral, elaboração das atas das operações de votação e apuramento e publicação em edital dos resultados do escrutínio parcial.",
+        "notasAp": [
+            {
+                "idNota": "nota_950.10.600_12187542dffb",
+                "nota": "Atividade desenvolvida pela Assembleia de apuramento distrital de resultados"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "Trb"
+        ],
+        "participantes": [
+            {
+                "id": "AV",
+                "interv": "Executar"
+            },
+            {
+                "id": "AADR",
+                "interv": "Executar"
+            },
+            {
+                "id": "AL",
+                "interv": "Executar"
+            }
+        ],
+        "legislacao": [
+            "Lei_Orgânica_1_2001",
+            "Lei_14_79"
+        ],
+        "processosRelacionados": [
+            "950.10.001",
+            "950.10.400",
+            "950.10.602"
+        ],
+        "proRel": [
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe"
+        ]
+    },
+    {
+        "codigo": "950.10.600.01",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Controlo de operações de votação e apuramento parcial de resultados: controlo nas assembleias e mesas de voto",
+        "descricao": "Acompanhamento do funcionamento das assembleias de voto. Inicia com a declaração de abertura das assembleias e mesas de voto e termina com o envio dos votos nulos e votos sob protesto ou reclamação à assembleia de apuramento geral. Inclui descarga nos cadernos eleitorais, contagem de votos antecipados, requisições de forças de segurança, quando necessário, receção de dúvidas, reclamações, protestos e contraprotestos relacionados com as operações eleitorais, contagem e devolução de boletins de voto não utilizados e inutilizados, contagem do número de votos introduzidos em urna, contagem e separação dos votos brancos, votos nulos e votos nas diferentes listas.",
+        "pca": {
+            "valores": 1.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c950.10.600.01_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 1/2001], art.º 152º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\\\"[Lei 15-A/98], art.º 161º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\\\"Extensão destas disposições aos demais atos eleitorais e referendários.",
+                    "legRefs": [
+                        "Lei_1_2001",
+                        "Lei_15_A_98"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c950.10.600.01_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 1/2001], artº 152, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais\\\"[Lei 15-A/98], artº 161, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.Extensão destas disposições aos demais atos eleitorais e referendários.",
+                    "legRefs": [
+                        "Lei_1_2001",
+                        "Lei_15_A_98"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "950.10.600.02",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Controlo de operações de votação e apuramento parcial de resultados: apuramento e comunicação",
+        "descricao": "Apuramento parcial de resultados. Inicia com a elaboração das atas das operações de votação e apuramento termina com a comunicação dos resultados do escrutínio parcial à assembleia de apuramento geral. Inclui a elaboração do edital com os resultados do escrutínio parcial.",
+        "pca": {
+            "valores": 1.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c950.10.600.02_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 1/2001], art.º 152º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\\\"[Lei 15-A/98], art.º 161º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\\\"Extensão destas disposições aos demais atos eleitorais e referendários.",
+                    "legRefs": [
+                        "Lei_1_2001",
+                        "Lei_15_A_98"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c950.10.600.02_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 1/2001], artº 152, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\\\"[Lei 15-A/98], artº 161, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento\\\".Extensão destas disposições aos demais atos eleitorais e referendários.",
+                    "legRefs": [
+                        "Lei_1_2001",
+                        "Lei_15_A_98"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "950.10.601",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Constituição de assembleias de apuramento geral",
+        "descricao": "Composição de assembleias responsáveis pela validação de todas as operações de votação. Inicia com a designação dos elementos que constituem a assembleia de apuramento geral e termina com a divulgação da sua constituição através de edital. Inclui notificação dos designados para a assembleia de apuramento geral e indicação de representantes das diferentes candidaturas.",
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "SGMAI",
+            "DGACCP"
+        ],
+        "participantes": [
+            {
+                "id": "CSM",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "AL",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "DL_319_A_76",
+            "Lei_14_79",
+            "Lei_14_87",
+            "Lei_Orgânica_1_2001",
+            "DL_267_80",
+            "Lei_Orgânica_1_2006",
+            "Lei_15_A_98",
+            "Lei_Orgânica_4_2000",
+            "Lei_Orgânica_2_2015",
+            "Lei_1_2001"
+        ],
+        "processosRelacionados": [
+            "500.10.001",
+            "500.10.301",
+            "900.20.201",
+            "950.10.602"
+        ],
+        "proRel": [
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eSucessorDe",
+            "eSintetizadoPor"
+        ],
+        "pca": {
+            "valores": 1.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c950.10.601_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 1/2001], art.º 152º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais\\\"[Lei 15-A/98], artº 161, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\\\"Extensão destas disposições aos demais atos eleitorais e referendários.",
+                    "legRefs": [
+                        "Lei_1_2001",
+                        "Lei_15_A_98"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c950.10.601_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede dePN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c950.10.601_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 1/2001], art.º 152º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\\\"[Lei 15-A/98], art.º 161º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento\\\".Extensão destas disposições aos demais atos eleitorais e referendários.",
+                    "legRefs": [
+                        "Lei_1_2001",
+                        "Lei_15_A_98"
+                    ]
+                },
+                {
+                    "critCodigo": "just_df_c950.10.601_1",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada noPN 950.10.602 - Apuramento geral de resultados.",
+                    "procRefs": [
+                        "950.10.602"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "950.10.602",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Apuramento geral de resultados",
+        "descricao": "Verificação da contagem de votos e proclamação dos resultados obtidos em atos eleitorais e referendários. Inicia com a receção da documentação enviada pelas assembleias de apuramento parcial e termina com a proclamação e publicitação dos resultados finais. Inclui verificação do número total de eleitores inscritos e de votantes, verificação do número total de votos em branco e votos nulos, verificação dos números totais de votos obtidos por cada lista, distribuição dos mandatos pelas diversas listas, determinação dos candidatos eleitos por cada lista, decisão sobre as reclamações e protestos, elaboração da ata do apuramento geral, envio de exemplares da ata à entidade competente, elaboração do mapa dos resultados oficiais das eleições e o seu envio para publicação em Diário da República.",
+        "notasAp": [
+            {
+                "idNota": "nota_950.10.602_611dcf9ca9fa",
+                "nota": "Abertura e lançamento em urna dos votos dos emigrantes"
+            },
+            {
+                "idNota": "nota_950.10.602_4003cfebfa0f",
+                "nota": "Assembleias de apuramento geral da votação dos emigrantes (círculo da Europa e fora da Europa)"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "TC",
+            "Trb"
+        ],
+        "participantes": [
+            {
+                "id": "CNE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGMAI",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "AL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "AAGR",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "DL_319_A_76",
+            "Lei_14_79",
+            "Lei_14_87",
+            "Lei_Orgânica_1_2001",
+            "DL_267_80",
+            "Lei_Orgânica_1_2006",
+            "Lei_15_A_98",
+            "Lei_Orgânica_4_2000",
+            "Lei_Orgânica_2_2015"
+        ],
+        "processosRelacionados": [
+            "400.10.032",
+            "950.10.400",
+            "950.10.401",
+            "950.10.600"
+        ],
+        "proRel": [
+            "eSinteseDe",
+            "eSinteseDe",
+            "eSinteseDe",
+            "eSucessorDe"
+        ]
+    },
+    {
+        "codigo": "950.10.602.01",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Apuramento geral de resultados: tratamento dos resultados",
+        "descricao": "Verificação, contagem de votos e distribuição de mandatos. Inicia com a receção da documentação enviada pelas assembleias de voto e termina com a indicação dos candidatos eleitos por cada lista. Inclui verificação do número total de eleitores inscritos e de votantes, verificação do número total de votos em branco e votos nulos, verificação dos números totais de votos obtidos por cada lista, distribuição dos mandatos pelas diversas listas, decisão sobre as reclamações e protestos.",
+        "pca": {
+            "valores": 1.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c950.10.602.01_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 1/2001], art.º 152º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\\\"[Lei 15-A/98], art.º 161º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\\\"Extensão destas disposições aos demais atos eleitorais e referendários.",
+                    "legRefs": [
+                        "Lei_1_2001",
+                        "Lei_15_A_98"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c950.10.602.01_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 1/2001], art.º 152º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\\\"[Lei 15-A/98], art.º 161º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\\\"Extensão destas disposições aos demais atos eleitorais e referendários.",
+                    "legRefs": [
+                        "Lei_1_2001",
+                        "Lei_15_A_98"
+                    ]
+                },
+                {
+                    "critCodigo": "just_df_c950.10.602.01_1",
+                    "tipo": "densidade",
+                    "conteudo": "Sintetiza a informação dosPN 400.10.031 - Recenseamento eleitoral;PN 400.10.032 - Registo dos eleitos locais.",
+                    "procRefs": [
+                        "400.10.031",
+                        "400.10.032"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "950.10.602.02",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Apuramento geral de resultados: publicitação",
+        "descricao": "Proclamação dos resultados obtidos em atos eleitorais e referendários. Inicia com a elaboração da ata do apuramento geral e termina com o envio dos resultados oficiais para publicação em Diário da República. Inclui o envio de exemplares da ata à entidade competente, elaboração do mapa dos resultados oficiais das eleições.",
+        "pca": {
+            "valores": 1.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c950.10.602.02_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 1/2001], art.º 152º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\\\"[Lei 15-A/98], art.º 161º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\\\"Extensão destas disposições aos demais atos eleitorais e referendários.",
+                    "legRefs": [
+                        "Lei_1_2001",
+                        "Lei_15_A_98"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c950.10.602.02_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 1/2001], art.º 152º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região autónoma procede à destruição de todos os documentos, com exceção das atas das assembleias de voto, da ata da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.\\\"[Lei 15-A/98], art.º 161º, nº 2 \\\"Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal procede à destruição de todos os documentos, com excepção das actas das assembleias de voto e das actas das assembleias de apuramento.\\\"Extensão destas disposições aos demais atos eleitorais e referendários.",
+                    "legRefs": [
+                        "Lei_1_2001",
+                        "Lei_15_A_98"
+                    ]
+                },
+                {
+                    "critCodigo": "just_df_c950.10.602.02_1",
+                    "tipo": "densidade",
+                    "conteudo": "Sintetiza a informação dosPN 400.10.031 - Recenseamento eleitoral;PN 400.10.032 - Registo dos eleitos locais.",
+                    "procRefs": [
+                        "400.10.031",
+                        "400.10.032"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "950.20",
+        "nivel": 2,
+        "estado": "A",
+        "titulo": "Processamento de ações peticionárias, reclamações e manifestações de congratulação",
+        "descricao": "Compreende as atividades de processamento dos atos em que a sociedade toma a iniciativa de se manifestar espontaneamente relativamente a serviços, atos ou políticas públicas.",
+        "notasAp": [
+            {
+                "idNota": "nota_950.20_6f00a52ba065",
+                "nota": "Reclamações e queixas expressas no \\\"livro amarelo\\\" ou equivalente;"
+            },
+            {
+                "idNota": "nota_950.20_e2c0cd30d3ed",
+                "nota": "Opiniões expressas em \\\"livro de agradecimentos\\\";"
+            },
+            {
+                "idNota": "nota_950.20_07ff914cca3a",
+                "nota": "Participações, petições, abaixo-assinados, sugestões ou interpelações de cidadãos individuais ou constituídos em entidades jurídicas."
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_950.20_a3ccdcb39299",
+                "nota": "As denúncias, notícias ou queixas de crime apresentadas aos órgãos de polícia criminal ou comunicadas ao Ministério Público devem ser consideradas em \\\"Administração da justiça/ Prevenção e investigação criminal\\\" (600.10)"
+            },
+            {
+                "idNota": "nota_950.20_079a59900896",
+                "nota": "As reclamações que ocorram no quadro de um determinado procedimento administrativo devem ser consideradas no processo em causa (por exemplo, reclamação da avaliação do desempenho individual deve ser considerada em \\\"Administração de relações de trabalho/ Gestão de relações individuais de trabalho\\\" (250.20)"
+            },
+            {
+                "idNota": "nota_950.20_e2b5e0d5f064",
+                "nota": "As iniciativas legislativas de grupos de cidadãos devem ser consideradas em \\\"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\\\" (100.10)"
+            }
+        ]
+    },
+    {
+        "codigo": "950.20.001",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Processamento de petições, reclamações e sugestões",
+        "descricao": "Apreciação de exposições com vista à proteção de direitos ou interesses legítimos, resultantes de reivindicações, protestos ou sugestões, relativas ao funcionamento dos serviços, ou sobre as áreas de atuação de uma organização. Inicia com a receção da exposição e termina com resposta ao interessado, ou a sua publicitação. Inclui a análise da situação e a articulação com os serviços, para tentativa de resolução, ou proposta de resposta ao interessado. Pode incluir, quando aplicável, a apreciação em sede de mediação sem formalidade judicial, com intervenção de um provedor.",
+        "notasAp": [
+            {
+                "idNota": "nota_950.20.001_a80f3fd51b57",
+                "nota": "Reclamações"
+            },
+            {
+                "idNota": "nota_950.20.001_58734ff624a0",
+                "nota": "Recomendações emanadas do Provedor"
+            },
+            {
+                "idNota": "nota_950.20.001_326c0e630113",
+                "nota": "Reinvindicações"
+            },
+            {
+                "idNota": "nota_950.20.001_5fdc2f7a811a",
+                "nota": "Sugestões"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_950.20.001_0a58f8372462",
+                "exemplo": "Reclamações em Livro Amarelo"
+            },
+            {
+                "idExemplo": "exemplo_950.20.001_981693dcfe75",
+                "exemplo": "Reclamações em Livro Vermelho"
+            },
+            {
+                "idExemplo": "exemplo_950.20.001_95d45a6f6f4b",
+                "exemplo": "Mediação por provedor do cliente"
+            },
+            {
+                "idExemplo": "exemplo_950.20.001_fb69f20c2ac3",
+                "exemplo": "Mediação por provedor do estudante"
+            },
+            {
+                "idExemplo": "exemplo_950.20.001_ff76f3aab15a",
+                "exemplo": "Conciliação não judicial em área específica de prestação de serviços"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_950.20.001_eeeb57807ac0",
+                "nota": "Os processos de conciliação e de mediação extra-judicial deverão ser considerados em 600.20 – Resolução alternativa de litígios"
+            },
+            {
+                "idNota": "nota_950.20.001_9f6d17b6980c",
+                "nota": "As reclamações, protestos e contraprotestos relacionadas com os atos eleitorais devem ser consideradas em 950.10.602 – Apuramento geral dos resultados"
+            },
+            {
+                "idNota": "nota_950.20.001_4e37b62df3d2",
+                "nota": "As reclamações efetuadas no âmbito de procedimentos concursais e em fase de audiência de interessados devem ser considerados no respetivo processo"
+            },
+            {
+                "idNota": "nota_950.20.001_a78ffc369d17",
+                "nota": "As reclamações efetuadas no âmbito de candidaturas devem ser considerados no respetivo processo"
+            },
+            {
+                "idNota": "nota_950.20.001_e781dff98580",
+                "nota": "O processamento de elogios deve ser considerado em 950.20.300 -  Processamento de mensagens de elogio e de agradecimento"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "CP",
+            "Grupo_IP",
+            "IES",
+            "ER",
+            "INFARMED",
+            "CCDR",
+            "IMT",
+            "ICNF",
+            "IGAMAOT",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGRM",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "CV",
+            "IGAC",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "ER",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "Grupo_IP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "AP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IMT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "II",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "INR",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "CV",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IGAC",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "DL_4_2015",
+            "DL_97_2002",
+            "DL_156_2005",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "150.40.500",
+            "300.10.002",
+            "300.30.008",
+            "500.10.300",
+            "500.10.301"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eSintetizadoPor",
+            "eAntecessorDe",
+            "eSuplementoPara"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c950.20.001_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.[DL 156/2005], art.º 3º, alínea d) \\\"Manter, por um período mínimo de três anos, um arquivo organizado dos livros de reclamações que tenha encerrado.\\\"",
+                    "legRefs": [
+                        "DL_433_82",
+                        "DL_156_2005"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c950.20.001_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização.",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c950.20.001_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente em:PN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão;PN 300.30.008 - Registo de documentos (casos tratados).",
+                    "procRefs": [
+                        "150.20.300",
+                        "150.40.500",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        },
+        "Notas": "Relação suplementar com os PN 500.20 - Ação disciplinar."
+    },
+    {
+        "codigo": "950.20.300",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Processamento de mensagens de elogio e de agradecimento",
+        "descricao": "Receção e tratamento de mensagens de elogios e de agradecimentos relativos ao funcionamento de serviços. Inicia com a receção do elogio ou agradecimento e termina, quando aplicável, com a resposta a esses mesmos elogios ou agradecimentos. Inclui a análise da situação exposta e respetiva comunicação interna.",
+        "notasAp": [
+            {
+                "idNota": "nota_950.20.300_f3869ac96f69",
+                "nota": "Mensagens de elogio ou de agradecimento por serviços prestados"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_950.20.300_d91d644972ad",
+                "exemplo": "Mensagens de elogio ou de agradecimento registadas em livro próprio"
+            },
+            {
+                "idExemplo": "exemplo_950.20.300_f62185d1f8cd",
+                "exemplo": "Mensagens de elogio ou de agradecimento registadas em formulário próprio"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_950.20.300_ccc951167bda",
+                "nota": "Os louvores decorrentes do desempenho profissional devem ser considerados em 250.20.803 – Atribuição de prémios de desempenho, louvores ou medalhas"
+            },
+            {
+                "idNota": "nota_950.20.300_87fe6fd9daf9",
+                "nota": "A entrega de condecorações e distinções deve ser consideradada em 900.20.601 - Organização de cerimónias protocolares"
+            },
+            {
+                "idNota": "nota_950.20.300_612b9d85c67b",
+                "nota": "O tratamento de mensagens de cortesia deve ser considerado em 900.20.605 - Processamento de mensagens de cortesia"
+            },
+            {
+                "idNota": "nota_950.20.300_ed4596c14435",
+                "nota": "A seleção para atribuição de prémios de reconhecimento da prestação de atos cívicos ou para distinções honoríficas deve ser considerada em 950.30.001 – Reconhecimento por mérito e serviços prestados"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "CP",
+            "Grupo_IP",
+            "INFARMED",
+            "CCDR",
+            "IMT",
+            "ICNF",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "IGAMAOT",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "CV"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IMT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "II",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "INR",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Apreciar"
+            }
+        ],
+        "legislacao": [
+            "DL_4_2015"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "150.20.301",
+            "150.40.500",
+            "250.20.800",
+            "300.30.008"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eSintetizadoPor"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c950.20.300_0",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para processamento dePN 150.20.301 Avaliação do desempenho das organizaçõesPN 250.20.800 - Avaliação individual do desempenhoConsiderou-se o prazo de um mandato.",
+                    "procRefs": [
+                        "150.20.301",
+                        "250.20.800"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c950.20.300_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente emPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão;PN 300.30.008 - Registo de documentos (casos tratados).",
+                    "procRefs": [
+                        "150.20.300",
+                        "150.40.500",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "950.20.600",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Processamento de avisos de exercício do direito de reunião em locais públicos",
+        "descricao": "Receção e tratamento de avisos apresentados por pessoas ou entidades que pretendem a realização de reuniões, comícios, manifestações ou desfiles em lugares públicos ou abertos ao público. Inicia com a comunicação da data, hora e local das reuniões, manifestações e desfiles, e termina com a comunicação de concordância ou dos eventuais constrangimentos relativos à realização dessas ações. Inclui análise do pedido.",
+        "notasEx": [
+            {
+                "idNota": "nota_950.20.600_52b42e01dc2c",
+                "nota": "Os avisos relacionados com o exercício do direito de greve, reuniões e manifestações de trabalhadores deverão ser considerados em 250.30.300 – Ações coletivas de defesa e promoção de interesses sócio-profissionais"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "FSS",
+            "AL"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "II",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "PDR2020",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CV",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "DL_406_74",
+            "DL_433_82"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "150.40.500",
+            "300.30.008",
+            "500.10.301",
+            "550.10.001",
+            "550.10.002",
+            "550.10.004",
+            "550.20.004"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSuplementoPara",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c950.20.600_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.",
+                    "legRefs": [
+                        "DL_433_82"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c950.20.600_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização.",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c950.20.600_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação sintetizada complementarmente emPN 150.20.300 - Avaliação de atividades (atuação da entidade);PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão;PN 300.30.008 - Registo de documentos (casos tratados).",
+                    "procRefs": [
+                        "150.20.300",
+                        "150.40.500",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "950.30",
+        "nivel": 2,
+        "estado": "A",
+        "titulo": "Atribuição de distinções honoríficas",
+        "descricao": "Compreende as atividades relativas à seleção de pessoas ou outras entidades a distinguir e atribuição de condecorações, ordens honoríficas ou qualquer outra distinção ou recompensa atribuída a título honorífico.",
+        "notasAp": [
+            {
+                "idNota": "nota_950.30_84bc202dfe73",
+                "nota": "Distinções honoríficas atribuídas a qualquer cidadão, a militares, a atletas, entre outros"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_950.30_135766d29220",
+                "nota": "As distinções atribuídas no âmbito do processo de avaliação do desempenho individual de trabalhador devem ser consideradas em \\\"Administração de relações de trabalho/ Gestão de relações individuais de trabalho\\\" (250.20)"
+            },
+            {
+                "idNota": "nota_950.30_e746dfe28287",
+                "nota": "As distinções atribuídas a representantes de outros Estados ou entidades externas, enquanto atos de política externa, devem ser consideradas em \\\"Execução da política externa/ Projetos de execução da política externa\\\" (200.30)"
+            },
+            {
+                "idNota": "nota_950.30_60a5e139aa92",
+                "nota": " O mesmo se aplica a distinções atribuídas por outros países ou organismos internacionais a entidades públicas nacionais ou representantes do Estado português"
+            },
+            {
+                "idNota": "nota_950.30_c0f86e399926",
+                "nota": "A organização de cerimónias deve ser considerada em \\\"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\\\" (900.10)"
+            }
+        ]
+    },
+    {
+        "codigo": "950.30.001",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Reconhecimento por mérito e serviços prestados",
+        "descricao": "Agraciamento a pessoas ou entidades que, por atividades, serviços ou atos inovadores, relevantes, notórios, perenes ou excecionais, de qualquer natureza, tenham contribuído para o bem da comunidade para o desenvolvimento ou divulgação de uma determinada área científica, do conhecimento, geográfica ou de atuação. Inicia com a identificação ou apresentação da proposta e termina com a atribuição do elemento distintivo. Inclui, quando necessário, a elaboração da nota biográfica, avaliação do mérito, aprovação da distinção e a informação ao agraciado, pode ainda incluir a publicitação.",
+        "notasAp": [
+            {
+                "idNota": "nota_950.30.001_860b90260688",
+                "nota": "Atribuição de medalhas de serviços distintos e de mérito de segurança pública"
+            },
+            {
+                "idNota": "nota_950.30.001_462f1c327f1d",
+                "nota": "Atribuição de medalha comemorativa"
+            },
+            {
+                "idNota": "nota_950.30.001_5bd73e62e39e",
+                "nota": "Atribuição de medalha"
+            },
+            {
+                "idNota": "nota_950.30.001_6ee2be8cf1b4",
+                "nota": "Atribuição de placa de mérito"
+            },
+            {
+                "idNota": "nota_950.30.001_5af2f99ca824",
+                "nota": "Atribuição de público louvor"
+            },
+            {
+                "idNota": "nota_950.30.001_53a597d341bb",
+                "nota": "Atribuição de medalhas de assiduidade"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_950.30.001_e8ca1b7551e4",
+                "exemplo": "Atribuição de medalha da cidade"
+            },
+            {
+                "idExemplo": "exemplo_950.30.001_1faae94456b7",
+                "exemplo": "Atribuição de medalhas militares"
+            },
+            {
+                "idExemplo": "exemplo_950.30.001_815b2320ca31",
+                "exemplo": "Atribuição de título de honorífico"
+            },
+            {
+                "idExemplo": "exemplo_950.30.001_0e086386bc0a",
+                "exemplo": "Oferta da chave da cidade"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_950.30.001_c2603f3c5b9c",
+                "nota": "Os pagamentos devidos aos agraciados das ordens devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
+            },
+            {
+                "idNota": "nota_950.30.001_3946555820e8",
+                "nota": "As cerimónias de entrega das distinções devem ser consideradas em 900.20.601 – Organização de cerimónias protocolares"
+            },
+            {
+                "idNota": "nota_950.30.001_3402fed98f1b",
+                "nota": ".A aquisição de insígnias, colares,  cunhagem de medalhas ou placas e de diplomas deve ser considerada em 350.30."
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "PR",
+            "AL",
+            "FA",
+            "FSS",
+            "IPDJ",
+            "GEPAC",
+            "INFARMED",
+            "CP"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "II",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GAMA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GPP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Lei_5_2011",
+            "DL_316_2002"
+        ],
+        "processosRelacionados": [
+            "150.10.700",
+            "150.10.701",
+            "150.20.301",
+            "250.20.800",
+            "900.10.500",
+            "900.20.601",
+            "900.20.602"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c950.30.001_0",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para processamento dePN 150.20.301 - Avaliação do desempenho das organizações e doPN 250.20.800 - Avaliação individual do desempenho.Considerou-se o prazo de um mandato.",
+                    "procRefs": [
+                        "150.20.301",
+                        "250.20.800"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c950.30.001_0",
+                    "tipo": "densidade",
+                    "conteudo": "Inexistência de relação pertinente entre PN de modo a permitir a recuperação de informação necessária às condições para reconhecimento de mérito."
+                }
+            ]
+        }
+    }
+]

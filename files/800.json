@@ -1,0 +1,4319 @@
+[
+    {
+        "codigo": "800",
+        "nivel": 1,
+        "estado": "A",
+        "titulo": "PRESTAÇÃO DE SERVIÇOS TÉCNICOS E CIENTÍFICOS, INVESTIGAÇÃO E DESENVOLVIMENTO",
+        "descricao": "Relativo a atividades de investigação científica em qualquer domínio do conhecimento, a atividades de desenvolvimento técnico e tecnológico, de transferência de tecnologia e inovação, bem como a outras atividades que utilizam métodos científicos para a produção de conhecimento ou resolução de problemas.",
+        "notasAp": [
+            {
+                "idNota": "nota_800_1b6c9d73070a",
+                "nota": "Aplicável tanto às entidades que prestam os serviços referidos como aos que solicitam a prestação dos mesmos"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800_8cdd048211a2",
+                "nota": "A prestação de serviços de ensino/formação deve ser considerada em \\\"Prestação de serviços de ensino e formação\\\" (750).A prestação de cuidados de saúde deve ser considerada em \\\"Prestação de cuidados de saúde\\\" (700)"
+            },
+            {
+                "idNota": "nota_800_acffc63de90b",
+                "nota": "Os processos de investigação criminal devem ser considerados em \\\"Administração da justiça/ Prevenção e investigação criminal\\\" (600.10)"
+            }
+        ]
+    },
+    {
+        "codigo": "800.10",
+        "nivel": 2,
+        "estado": "A",
+        "titulo": "Execução de serviços científicos e técnicos",
+        "descricao": "Compreende os serviços de assistência técnica por emissão de relatórios ou pareceres técnicos especializados com base em instrumentos de referência e/ou no conhecimento científico, e/ou serviços de assistência técnica no campo (ex. exploração de recursos naturais) ou laboratorial (ex. desenvolvimento de novos métodos analíticos ou aplicação de metodologias conhecidas a pedido de clientes). Compreende também o levantamento de dados e constituição de repositórios ou bancos de dados de reconhecimento ou monitorização de parâmetros em qualquer domínio científico e para qualquer finalidade, a produção de cartografia digital ou analógica, a realização de trabalhos laboratoriais, de exames periciais, de estudos de impacto ou outros trabalhos de apoio e consultoria técnico-científica.",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10_f724acd33a21",
+                "nota": "Exemplos de aplicação:- Processos de recolha e processamento de informação geodésica e georreferenciada para caracterização topográfica e topo-hidrográfica, administrativa, geológica, biológica, ou outra;- Processos de monitorização e vigilância sísmica, climática, sanitária, epidemiológica;- Produção de cartografia de base ou temática;- Realização de análises laboratoriais;- Realização de peritagens;- Elaboração de estudos de impacto ambiental."
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10_e70e875ba4a4",
+                "nota": "De notar que os resultados (relatórios finais) das atividades técnico-científicas constituem-se, por vezes, em inputs de outros processos (por exemplo, o resultado de um estudo de impacto ambiental pode vir a integrar um processo de planeamento, o resultado do processamento de análises laboratoriais pode vir a integrar um processo de investigação criminal, etc.)"
+            },
+            {
+                "idNota": "nota_800.10_0ec9f4f0b837",
+                "nota": "Os relatórios de estudos de impacto ambiental, ou outros, entregues para fundamentação ou apreciação associada a um processo de decisão (de planeamento, de licenciamento ou outro) devem ser considerados no âmbito do processo em causa.A produção estatística deve ser considerada em \\\"Planeamento e gestão estratégica/ Produção de informação estatística\\\" (150.40)"
+            },
+            {
+                "idNota": "nota_800.10_a8f0febc6a2a",
+                "nota": "A contratualização e a gestão de contratos de qualquer serviço prestado pelos organismos da Administração devem ser consideradas em \\\"Administração de direitos, bens e serviços/ Aquisição, venda, abate ou permuta\\\" (300.10)"
+            }
+        ]
+    },
+    {
+        "codigo": "800.10.001",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Produção de informação georreferenciada",
+        "descricao": "Aquisição e processamento de informação geográfica e alfanumérica. Inicia com recolha de informação geodésica, topográfica e fotogramétrica e de informação temática, organizada ou não sob a forma de bases de dados digitais, e termina com a obtenção de cartografia de base, de cartografia temática e de conjuntos de dados geográficos, de acordo com as solicitações dos utilizadores Inclui execução de levantamentos diretos com base em GNSS e Topografia, levantamentos fotogramétricos com base em imagens aéreas ou orbitais, recolha de dados cartográficos já existentes, fotointerpretação de imagens, generalização cartográfica, criação de Modelos Digitais do Terreno e de Superfície. ",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.001_608fcc250db4",
+                "nota": "Produção de cartografia de base (topográfica e topográfica de imagem, vulgarmente conhecida por ortofotomapas)"
+            },
+            {
+                "idNota": "nota_800.10.001_750db08f44bb",
+                "nota": "Produção de cartografia hidrográfica"
+            },
+            {
+                "idNota": "nota_800.10.001_542bf6c0425c",
+                "nota": "Produção de cartografia temática"
+            },
+            {
+                "idNota": "nota_800.10.001_206efcb0094e",
+                "nota": "Produção de cartografia derivada"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_800.10.001_9e7c224bd1c9",
+                "exemplo": "Sistema de identificação do parcelário agricola"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.001_bb06a46f6db1",
+                "nota": "A contratualização de serviços no âmbito da recolha ou produção de informação geográfica deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis e prestação de serviços"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "DGT",
+            "Grupo_IP",
+            "CCDR",
+            "ICNF",
+            "DGRM",
+            "DGADR",
+            "IVV",
+            "IVDP",
+            "DRAP",
+            "IFAP"
+        ],
+        "participantes": [
+            {
+                "id": "ICNF",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Decreto_Regulamentar_10_2009",
+            "DL_180_2009",
+            "DL_202_2007",
+            "DL_193_95"
+        ],
+        "processosRelacionados": [
+            "150.10.600",
+            "710.10.003",
+            "710.10.004",
+            "710.10.005",
+            "800.10.002",
+            "800.10.302"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eSinteseDe",
+            "eSinteseDe",
+            "eSinteseDe",
+            "eComplementarDe",
+            "eSucessorDe"
+        ],
+        "pca": {
+            "valores": 3.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.001_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 180/2009], art.º 24º, nº 3, \\\"O IGP compila e envia à Comissão Europeia um relatório, de três em três anos.\\\"",
+                    "legRefs": [
+                        "DL_180_2009"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.001_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo para processamento do PN 150.10.600 - Avaliação de políticas e instrumentos de operacionalização.",
+                    "procRefs": [
+                        "150.10.600"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.001_0",
+                    "tipo": "complementaridade",
+                    "conteudo": "É complementar do PN 800.10.002 - Produção de informação geodésica.",
+                    "procRefs": [
+                        "800.10.002"
+                    ]
+                },
+                {
+                    "critCodigo": "just_df_c800.10.001_1",
+                    "tipo": "densidade",
+                    "conteudo": "A informação não é recuperável noutro PN”."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.002",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Produção de informação geodésica",
+        "descricao": "Levantamento e processamento de dados geodésicos para constituição de repositórios de dados, com vista à determinação de sistemas geográficos de referência, data altimétricos e planimétricos e parâmetros de transformação. Processo essencial de suporte a toda a produção de cartografia de base. Inicia com a aquisição de dados e termina com a produção da informação. Inclui levantamentos geodésicos no local, monitorização/aferição de equipamentos, validação, cálculo e processamento dos dados.",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.002_0f6609d54345",
+                "nota": "Constituição de sistemas geodésicos de referência"
+            },
+            {
+                "idNota": "nota_800.10.002_cfe1be36110b",
+                "nota": "Determinação de coordenadas e altitudes de vértices geodésicos para controlo posicional e levantamentos topográficos"
+            },
+            {
+                "idNota": "nota_800.10.002_6e0ff536d17f",
+                "nota": "Determinação de altitudes de alta precisão, para cartografia e projetos de apoio à construção de obras de arte"
+            },
+            {
+                "idNota": "nota_800.10.002_1259566f9ea2",
+                "nota": "Determinação de valores de aceleração da gravidade para a exploração mineira, entre outras"
+            },
+            {
+                "idNota": "nota_800.10.002_c2e23433dc26",
+                "nota": "Disponibilização de registos maregráficos para elaboração de tabelas de maré, apoio a levantamentos hidrográficos e controlo de zonas costeiras"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_800.10.002_5ff2f5c58630",
+                "exemplo": "Difusão de dados das Estações Permanentes GNSS (Global Navigation Satellite System)"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "N",
+        "donos": [
+            "DGT"
+        ],
+        "legislacao": [
+            "DL_153_2015",
+            "Portaria_265_2015",
+            "DL_180_2009"
+        ],
+        "processosRelacionados": [
+            "150.10.600",
+            "800.10.001"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eComplementarDe"
+        ],
+        "pca": {
+            "valores": 3.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.002_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 180/2009], art.º 24º, nº 3, \\\"O IGP compila e envia à Comissão Europeia um relatório, de três em três anos.\\\"",
+                    "legRefs": [
+                        "DL_180_2009"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.002_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo para processamento do PN 150.10.600 - Avaliação de políticas e instrumentos de operacionalização.",
+                    "procRefs": [
+                        "150.10.600"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.002_0",
+                    "tipo": "complementaridade",
+                    "conteudo": "É complementar do PN 800.10.001 - Produção de informação georreferenciada.",
+                    "procRefs": [
+                        "800.10.001"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.300",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Controlo ambiental de infraestruturas e equipamentos",
+        "descricao": "Recolha contínua ou pontual de informação ou dados, quantitativos ou qualitativos, de modo a garantir o controlo ambiental tendo por base valores de referência. Inicia com a observação ou medição de informação e termina com a identificação de fatores críticos ou a validação de agentes padrão. Inclui registo de valores. ",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.300_966ef3d1898c",
+                "nota": "Identificação de microorganismos em equipamentos"
+            },
+            {
+                "idNota": "nota_800.10.300_717a2c511a89",
+                "nota": "Controlo ambiental em contexto de higiene e saúde no trabalho"
+            },
+            {
+                "idNota": "nota_800.10.300_22ed097624b3",
+                "nota": "Monitorização e controlo ambiental de instalações"
+            },
+            {
+                "idNota": "nota_800.10.300_95acf35f25a5",
+                "nota": "Verificação e controlo microbiológico de instrumentos e mecanismos"
+            },
+            {
+                "idNota": "nota_800.10.300_af1df62061e7",
+                "nota": "Controlo da temperatura e da humidade em equipamentos, instrumentos e mecanismos"
+            },
+            {
+                "idNota": "nota_800.10.300_4935f28d506c",
+                "nota": "Controlo ambiental de infraestruturas"
+            },
+            {
+                "idNota": "nota_800.10.300_1dbd7a905caf",
+                "nota": "Controlo ambiental de laboratórios"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.300_1ea3f8315086",
+                "nota": "O combate a fatores de risco ambientais deve ser considerado em 300.40.506 – Implementação de ações para cumprimento de parâmetros ambientais"
+            },
+            {
+                "idNota": "nota_800.10.300_574048b9df23",
+                "nota": "Combate às pragas deverá ser considerado no 710.10.600 – Profilaxia e controlo de infestantes, pragas e doenças das plantas"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "ICNF",
+            "IGAMAOT",
+            "IES",
+            "ACT",
+            "CP",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "DRAP",
+            "IFAP"
+        ],
+        "participantes": [
+            {
+                "id": "IGAMAOT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Portaria_353_A_2013",
+            "DL_118_2013",
+            "Lei_102_2009",
+            "Regulamento_CE_1221_2009",
+            "DL_35_2008",
+            "Portaria_461_2007",
+            "DL_79_2006",
+            "DL_80_2006",
+            "DL_152_2005",
+            "DL_50_2005",
+            "Lei_7_2009",
+            "DL_441_91",
+            "DL_243_86",
+            "DL_433_82",
+            "Lei_50_2006"
+        ],
+        "processosRelacionados": [
+            "150.10.200",
+            "250.30.600",
+            "300.10.005",
+            "300.30.008",
+            "300.40.503",
+            "300.40.505",
+            "300.40.506",
+            "300.40.507",
+            "300.40.509",
+            "500.10.001",
+            "500.10.301",
+            "500.30.500",
+            "550.20.001",
+            "700.20.100",
+            "710.10.600",
+            "800.10.601"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.300_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.[Lei 50/2006], LQCA, art.º 40º - Prazo prescricional das contraordenações ambientais.",
+                    "legRefs": [
+                        "DL_433_82",
+                        "Lei_50_2006"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.300_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização.",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.300_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação recuperável no PN 150.40.500 -Recolha e tratamento de dados estatísticos de apoio à gestão:E caso tenha existido um incidente a informação é recuperável nosPN 300.40.506 - Implementação de ações para cumprimento de parâmetros ambientais;PN 300.40.507 - Implementação de planos de contingência.",
+                    "procRefs": [
+                        "150.40.500",
+                        "300.40.506",
+                        "300.40.507"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.301",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Monitorização de índices da qualidade ambiental",
+        "descricao": "Recolha contínua ou pontual de informação sobre níveis de ruído, da qualidade da água, do ar e de toxicidade do solo. Inicia com a verificação de acordo com um plano de monitorização previamente estabelecido e termina com o relatório de apuramento de valores e sua comparação com os indicadores de referência. Inclui a identificação das fontes de emissão, do tipo poluentes e a evolução das concentrações médias anuais. ",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.301_5073290d162f",
+                "nota": "Monitorização de índices de qualidade das massas de água"
+            },
+            {
+                "idNota": "nota_800.10.301_622595ba249e",
+                "nota": "Monitorização das águas balneares costeiras e fluviais"
+            },
+            {
+                "idNota": "nota_800.10.301_c28ff1611571",
+                "nota": "Monitorização microbiológica das areias"
+            },
+            {
+                "idNota": "nota_800.10.301_3fad6c41dd7a",
+                "nota": "Monitorização de índices de qualidade do ar"
+            },
+            {
+                "idNota": "nota_800.10.301_ccbec6157705",
+                "nota": "Monitorização de índices de poluição do solo"
+            },
+            {
+                "idNota": "nota_800.10.301_6e83cf3cb0d8",
+                "nota": "Monitorização de índices de ruído"
+            },
+            {
+                "idNota": "nota_800.10.301_cb186afac4e1",
+                "nota": "Monitorização de índices radiológicos"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.301_22e3848c36e8",
+                "nota": "Os índices de poluição em ambiente de trabalho devem ser considerados em 800.10.300 – Controlo ambiental de infraestruturas e equipamentos"
+            },
+            {
+                "idNota": "nota_800.10.301_f100cdeac94f",
+                "nota": "Os avisos e alertas de segurança devem ser considerados em 550.20.001 – Emissão de avisos e declaração de alertas"
+            },
+            {
+                "idNota": "nota_800.10.301_2e287c663431",
+                "nota": "A vigilância no âmbito da segurança deve ser considerada em 550.20.002 – Ação de vigilância"
+            },
+            {
+                "idNota": "nota_800.10.301_811b6a195d1f",
+                "nota": "A qualidade da água da rede de distribuição pública deve ser considerada em 800.10.303 – Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "APA",
+            "CCDR",
+            "DRAP",
+            "IPMA",
+            "AL",
+            "ACES",
+            "IST",
+            "DGRM",
+            "ARS",
+            "INSA",
+            "DGS"
+        ],
+        "participantes": [
+            {
+                "id": "ICNF",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Lei_31_2014",
+            "DL_127_2013",
+            "DL_38_2013",
+            "DL_102_2010",
+            "Portaria_677_2009",
+            "Portaria_676_2009",
+            "DL_173_2008",
+            "DL_278_2007",
+            "DL_226_A_2007",
+            "DL_9_2007",
+            "DL_221_2006",
+            "DL_146_2006",
+            "DL_181_2006",
+            "Portaria_263_2005",
+            "Lei_58_2005",
+            "Portaria_303_A_2004",
+            "DL_78_2004",
+            "Portaria_1387_2003",
+            "DL_293_2003",
+            "DL_193_2003",
+            "DL_178_2003",
+            "DL_129_2002",
+            "DL_242_2001",
+            "DL_276_99",
+            "Portaria_286_93",
+            "DL_433_82",
+            "Lei_50_2006"
+        ],
+        "processosRelacionados": [
+            "150.10.100",
+            "150.10.200",
+            "150.10.600",
+            "200.10.001",
+            "200.10.800",
+            "300.40.502",
+            "300.40.506",
+            "300.50.601",
+            "450.10.066",
+            "450.10.068",
+            "450.10.070",
+            "450.10.072",
+            "450.10.207",
+            "450.10.208",
+            "450.10.215",
+            "450.10.223",
+            "450.10.232",
+            "450.10.234",
+            "450.10.640",
+            "500.10.301",
+            "550.20.001",
+            "550.20.002",
+            "800.10.601",
+            "800.10.602"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.301_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.[Lei 50/2006], LQCA, art.º 40º - Prazo prescricional das contraordenações ambientais.",
+                    "legRefs": [
+                        "DL_433_82",
+                        "Lei_50_2006"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.301_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.301_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutro PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.302",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Monitorização de recursos ambientais e naturais",
+        "descricao": "Recolha sistemática ou pontual de dados sobre elementos geológicos, zoológicos, botânicos, hídricos, marinhos ou aéreos, ou vigilância de habitats ou paisagens, por forma a controlar os respetivos níveis de perenidade e sustentabilidade. Inicia com a verificação ou medição de dados e termina com a emissão de relatórios. Inclui registo de dados recolhidos.",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.302_65cc9fc60184",
+                "nota": "Monitorização de áreas protegidas"
+            },
+            {
+                "idNota": "nota_800.10.302_ea2925eaee54",
+                "nota": "Monitorização de elementos geológicos, geomorfológicos"
+            },
+            {
+                "idNota": "nota_800.10.302_fe99b06a6723",
+                "nota": "Monitorização de fauna e flora em vias de extinção"
+            },
+            {
+                "idNota": "nota_800.10.302_771970d44131",
+                "nota": "Monitorização de habitats naturais"
+            },
+            {
+                "idNota": "nota_800.10.302_afa87cfa72a5",
+                "nota": "Monitorização de geomonumentos"
+            },
+            {
+                "idNota": "nota_800.10.302_2c8247eae5c2",
+                "nota": " Monitorização de parques naturais"
+            },
+            {
+                "idNota": "nota_800.10.302_0e740eda4c4b",
+                "nota": "Monitorização de reservas ecológicas"
+            },
+            {
+                "idNota": "nota_800.10.302_f61d2e1bc19c",
+                "nota": "Monitorização hidromorfológica"
+            },
+            {
+                "idNota": "nota_800.10.302_7110231fd446",
+                "nota": "Monitorização da orla costeira"
+            },
+            {
+                "idNota": "nota_800.10.302_9e258707c6c8",
+                "nota": "Monitorização de meio marinho"
+            },
+            {
+                "idNota": "nota_800.10.302_8466869af466",
+                "nota": "Monitorização de recursos minerais"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.302_570113f8c265",
+                "nota": "A conservação e proteção de recursos naturais, espécies e paisagens deve ser considerada em 300.40.502 – Conservação e proteção de recursos naturais, espécies e paisagens"
+            },
+            {
+                "idNota": "nota_800.10.302_0cf88c63fdbc",
+                "nota": "A classificação de áreas protegidas deve ser considerada em 450.20.505 – Classificação de bens sítios e áreas"
+            },
+            {
+                "idNota": "nota_800.10.302_8298bb1795d5",
+                "nota": "Os avisos e alertas de segurança devem ser considerados em 550.20.001 – Emissão de avisos e declaração de alertas"
+            },
+            {
+                "idNota": "nota_800.10.302_8ff831f18d5e",
+                "nota": "A vigilância no âmbito da segurança deve ser considerada em 550.20.002 – Ação de vigilância"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "APA",
+            "DGRM",
+            "ICNF",
+            "DGAV",
+            "DRAP"
+        ],
+        "participantes": [
+            {
+                "id": "ICNF",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "DL_242_2015",
+            "DL_38_2015",
+            "Lei_19_2014",
+            "Resolução_do_Conselho_de_Ministros_12_2014",
+            "DL_201_2012",
+            "DL_142_2008",
+            "DL_340_2007",
+            "DL_180_2006",
+            "DL_59_99",
+            "Lei_33_96",
+            "DL_433_82",
+            "Lei_50_2006"
+        ],
+        "processosRelacionados": [
+            "150.10.100",
+            "150.10.200",
+            "150.10.300",
+            "150.10.500",
+            "150.20.101",
+            "200.10.800",
+            "300.40.004",
+            "300.40.502",
+            "300.40.506",
+            "300.50.601",
+            "500.10.301",
+            "550.20.001",
+            "550.20.002",
+            "800.10.001",
+            "800.10.601",
+            "800.10.602",
+            "800.10.608",
+            "800.20.001",
+            "800.20.002",
+            "800.20.500",
+            "850.10.003"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.302_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.[Lei 50/2006], LQCA, art.º 40º - Prazo prescricional das contraordenações ambientais.",
+                    "legRefs": [
+                        "DL_433_82",
+                        "Lei_50_2006"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.302_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.302_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutro PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.303",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais",
+        "descricao": "Recolha contínua, pontual ou aleatória de informação ou dados, quantitativos ou qualitativos, de modo a identificar ocorrências anómalas através da constante comparação entre os valores de referência e as medidas apuradas. Inicia com a verificação ou medição de dados e termina com a validação de dados indicadores ou obrigatórios. Inclui medição de pressão de água, medição de caudais de água, medição de cloro, nível de água em reservatório e volume de água consumida, reconhecimento de valores críticos.",
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.303_c0c429b4ca26",
+                "nota": "Os avisos e alertas de segurança devem ser considerados em 550.20.001 – Emissão de avisos e declaração de alertas"
+            },
+            {
+                "idNota": "nota_800.10.303_8fe12b670bce",
+                "nota": "A vigilância no âmbito da segurança deve ser considerada em 550.20.002 – Ação de vigilância"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PE",
+        "procTrans": "N",
+        "donos": [
+            "AL",
+            "CPL"
+        ],
+        "legislacao": [
+            "Lei_10_2014",
+            "DL_77_2006",
+            "Lei_58_2005",
+            "Lei_98_97"
+        ],
+        "processosRelacionados": [
+            "150.40.500",
+            "300.30.008",
+            "300.40.504",
+            "300.40.505",
+            "300.40.506",
+            "300.50.601",
+            "450.10.069",
+            "500.10.001",
+            "550.20.001",
+            "800.10.601"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eSucessorDe",
+            "eSuplementoPara",
+            "eAntecessorDe",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.303_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.303_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.303_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação síntese recuperável no PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos);PN 300.30.008 - Registo de documentos e informação (casos tratados).",
+                    "procRefs": [
+                        "150.40.500",
+                        "300.30.008"
+                    ]
+                }
+            ]
+        },
+        "Notas": "Os planos de gestão de bacia hidrográfica são revistos de seis em seis anos."
+    },
+    {
+        "codigo": "800.10.304",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Monitorização de segurança de medicamentos após autorização de introdução no mercado (AIM)",
+        "descricao": "Deteção, registo e avaliação das reações adversas, com o objectivo de determinar a incidência, gravidade e nexo de causalidade com os medicamentos, baseadas no estudo sistemático e multidisciplinar dos efeitos dos medicamentos. Inicia com a comunicação de reações adversas ou com a recolha sistemática de informações sobre os riscos de medicamentos para os doentes ou para a saúde pública e termina com a comunicação da proposta de medida de segurança ou regulamentar. Inclui avaliação científica, ponderação das medidas de segurança adequadas à prevenção ou minimização dos riscos, proposta de adoção das medidas regulamentares necessárias feitas com base nos relatórios periódicos remetidos. ",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.304_f518a35388a0",
+                "nota": "Gestão de sinal de segurança"
+            },
+            {
+                "idNota": "nota_800.10.304_35e0263b8f37",
+                "nota": "Processamento e Avaliação de notificações de Reações Adversas a Medicamentos (RAM)"
+            },
+            {
+                "idNota": "nota_800.10.304_5a2c3c848715",
+                "nota": "Processamento e Avaliação de Relatórios Periódicos de Segurança (RPS)"
+            },
+            {
+                "idNota": "nota_800.10.304_982deba5a2af",
+                "nota": "Processamento e Avaliação de Planos de Gestão do Risco (PGR)"
+            },
+            {
+                "idNota": "nota_800.10.304_8d044fca279f",
+                "nota": "Processamento e Avaliação dos Estudos de Segurança (PASS) ou de Eficácia (PAES) Pós-Autorização"
+            },
+            {
+                "idNota": "nota_800.10.304_c338291ee8f2",
+                "nota": "Troca de informação de segurança de medicamentos entre as Autoridades congéneres nos Estados-membros, a Agência Europeia do Medicamento (EMA) e a Comissão Europeia (NUI - Non Urgent Information e RA - Rapid Alerts)"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.304_6da0764cbac9",
+                "nota": "A divulgação de alertas de segurança deve ser classificada em 550.20.001 – Emissão de avisos e declaração de alertas"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "N",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "INFARMED",
+            "DGAV"
+        ],
+        "participantes": [
+            {
+                "id": "DGS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "SICAD",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "HH",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "Regulamento_de_Execução_UE_520_2012"
+        ],
+        "processosRelacionados": [
+            "300.30.008",
+            "450.10.640",
+            "500.10.001",
+            "550.10.307",
+            "550.20.001",
+            "800.10.606"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSucessorDe",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eSintetizadoPor",
+            "eSuplementoDe"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "disposicaoLegal",
+            "subFormaContagem": "F01.05",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.304_0",
+                    "tipo": "legal",
+                    "conteudo": "[Regulamento de Execução UE 520/2012] da Comissão, art.º 12º, nº 2 \\\"Os dados e documentos de farmacovigilância relativos a cada medicamento autorizado devem ser conservados enquanto o medicamento for autorizado e durante pelo menos 10 anos depois de a autorização de introdução no mercado ter deixado de existir.(...)\\\".",
+                    "legRefs": []
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.304_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.304_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação recuperável nos PN300.30.008 - Registo de documentos e informação;550.20.001 - Emissão de avisos e declaração de alertas.",
+                    "procRefs": [
+                        "300.30.008",
+                        "550.20.001"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.305",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Monitorização de segurança de ensaios clínicos",
+        "descricao": "Verificação da segurança na utilização experimental de medicamentos, de forma a permitir a avaliação permanente da relação benefício-risco em que se baseou a autorização dos ensaios clínicos em curso. Inicia com o processamento das notificações de realização do ensaio clínico e termina com a informação de conclusão do ensaio ou com a comunicação da suspensão. Inclui análise e avaliação de toda a informação com potencial impacto na realização do ensaio (segurança dos participantes e credibilidade dos dados/resultados) e, quando aplicável, suspensão ou revogação da autorização do ensaio. ",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.305_0811ecffcd92",
+                "nota": "Avaliação das notificações de suspeitas de reações Adversas graves e inesperadas (SUSAR)"
+            },
+            {
+                "idNota": "nota_800.10.305_3d72f7a26077",
+                "nota": "Avaliação de relatórios anuais de segurança de medicamentos experimentais (DSUR)"
+            },
+            {
+                "idNota": "nota_800.10.305_a42eea60c1e2",
+                "nota": "Avaliação de outra informação de segurança notificada durante a realização do ensaio clínico"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.305_b48402bb2159",
+                "nota": "A autorização para a realização dos ensaios clínicos deve ser classificada em 450.10.073 – Licenciamento ou autorização de atividades de investigação científica e de desenvolvimento"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PE",
+        "procTrans": "N",
+        "donos": [
+            "INFARMED",
+            "DGAV",
+            "IES"
+        ],
+        "legislacao": [
+            "Lei_21_2014",
+            "Lei_73_2015"
+        ],
+        "processosRelacionados": [
+            "300.30.008",
+            "450.10.073",
+            "550.20.001",
+            "800.10.600"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eSucessorDe"
+        ],
+        "pca": {
+            "valores": 30.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.305_0",
+                    "tipo": "legal",
+                    "conteudo": "Suplemento à Diretiva 2005/28/CE, datado de 03/12/2009 - Detailed guidelines on good clinical practice specific to advanced therapy medicinal products, 7.3 e Annex - Traceability records.",
+                    "legRefs": []
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.305_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação recuperável no PN 800.10.600 - Realização de ensaios clínicos.",
+                    "procRefs": [
+                        "800.10.600"
+                    ]
+                }
+            ]
+        },
+        "Notas": "Suplemento à Diretiva 2005/28/CE, datado de  03/12/2009   Detailed guidelines on good clinical practice specific to advanced therapy medicinal products,  Annex - Traceability records e Emenda à  Diretiva 75/319/EEC de 20 maio de 1975,  versão de julho de 1996, - 8. Essential documents for the conduct of a clinical trial."
+    },
+    {
+        "codigo": "800.10.306",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Monitorização da segurança de produtos de saúde",
+        "descricao": "Deteção, registo, avaliação e prevenção de incidentes com dispositivos médicos e dos efeitos indesejáveis em produtos cosméticos ou quaisquer outros problemas associados a produtos de saúde tendo em vista a salvaguarda da saúde pública. Inicia com a comunicação e recolha de informação sobre ocorrências adversas ou incidentes ocorridos e termina com a comunicação da decisão (implementação de ações corretivas quando aplicável). Inclui análise e avaliação de toda a informação recolhida, nomeadamente a avaliação de relatórios de outras autoridades competentes relativos a questões de vigilância com dispositivos médicos, a ponderação das medidas de segurança adequadas à prevenção ou minimização do risco e proposta de adoção das medidas corretivas e de segurança a implementar. ",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.306_52d5529c3453",
+                "nota": "Avaliação de relatórios de outras Autoridades Competentes relativos a questões de vigilância com dispositivos médicos"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "N",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "INFARMED"
+        ],
+        "participantes": [
+            {
+                "id": "DGS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IGAS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ERS",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "HH",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "DL_145_2009"
+        ],
+        "processosRelacionados": [
+            "300.30.008",
+            "450.10.073",
+            "450.10.640",
+            "500.10.001",
+            "500.10.301",
+            "550.10.307",
+            "550.20.001"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eSucessorDe"
+        ],
+        "pca": {
+            "valores": 80.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.306_0",
+                    "tipo": "legal",
+                    "conteudo": "[Regulamento de Execução UE 520/2012] da Comissão, art.º 12º, nº 2 \\\"Os dados e documentos de farmacovigilância relativos a cadamedicamento autorizado devem ser conservados enquanto o medicamento for autorizado e durante pelo menos 10 anos depois de a autorização de introdução no mercado ter deixado de existir.(...)\\\"",
+                    "legRefs": []
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.306_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Período durante o qual a administração pode exercer a sua atividade de controlo ao que acresce um perído cautelar dadas as implicações na saúde pública considerando a esperança média de vida à nascença (80 anos, fonte INE)."
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.306_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação recuperável no PN 550.20.001 - Emissão de avisos e declaração de alertas.",
+                    "procRefs": [
+                        "550.20.001"
+                    ]
+                }
+            ]
+        },
+        "Notas": "Fabricante tem o dever de manter a documentação técnica 15 anos após o último fabrico (os Dispositivos Médicos mantêm-se no paciente) - rastreabilidade de dispositivos médicos e dispositivos médicos para diagnóstico in vitro ao longo do circuito comercial"
+    },
+    {
+        "codigo": "800.10.307",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Monitorização de competência técnica ou científica na realização de ensaios",
+        "descricao": "Procedimento de controlo sistemático para monitorização da qualidade analítica dos ensaios realizados. Inicia com o registo dos dados dos ensaios referentes ao controlo de qualidade interno e externo e termina com os relatórios de análise dos resultados com vista à validação dos métodos adotados e à demonstração da competência técnica ou científica. Inclui, no âmbito do controlo de qualidade interno, a estimativa de incertezas, a análise de amostras de controlo e de amostras cegas, a construção e acompanhamento de cartas de controlo, os ensaios de adição/recuperação, o controlo de meios e cultura e o controlo ambiental e, no âmbito do controlo de qualidade externo, a participação em ensaios interlaboratoriais e a análise de materiais de referência. ",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.307_db130515bedf",
+                "nota": "Monitorização da fiabilidade dos relatórios de ensaio"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.307_f58cd31aba92",
+                "nota": "A realização de análises laboratoriais deve ser considerada em 810.10.601 - Realização de ensaios laboratoriais"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "INIAV",
+            "IES",
+            "UL"
+        ],
+        "participantes": [
+            {
+                "id": "INIAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "DL_194_2012",
+            "Portaria_35_2013",
+            "Despacho_11057_2015",
+            "ISO_IEC_17025_2017",
+            "Despacho_399_2009"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "150.40.500",
+            "300.30.008",
+            "800.10.601",
+            "500.10.301"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eSuplementoPara"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.307_0",
+                    "tipo": "legal",
+                    "conteudo": "[Despacho 399/2009] - Prazo estabelecido em “2.8.1 - Os laboratórios devem conservar, por qualquer processo, pelo menos durante cinco anos, sem prejuízo de outros prazos que venham a ser estabelecidos (...)\\\"",
+                    "legRefs": [
+                        "Despacho_399_2009"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.307_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Rastreabilidade, consulta e análise o PN 500.10.301 - Realização de fiscalização",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.307_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação recuperável no PN de 450.10.445 - Acreditação de entidade para prestação de serviços de avaliação de conformidade.",
+                    "procRefs": [
+                        "450.10.445"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.600",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Realização de ensaios clínicos",
+        "descricao": "Exames realizados no ser vivo, destinados a descobrir ou a verificar os efeitos clínicos, farmacológicos ou outros efeitos farmacodinâmicos de medicamentos experimentais, ou a identificar os seus efeitos indesejáveis ou ainda a analisar a absorção, a distribuição, o metabolismo e a eliminação de um ou mais medicamentos experimentais, a fim de apurar a respetiva segurança ou eficácia. Inicia com a preparação do estudo para realizar o ensaio clínico e termina com a finalização do estudo. Incluí todos os atos necessários à conclusão do estudo. ",
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.600_07c18a3d45a1",
+                "nota": "A autorização de ensaios clínicos e respetivas alterações ao pedido devem ser consideradas em 450.10.073 – Licenciamento ou autorização de atividades de investigação científica e de desenvolvimento"
+            },
+            {
+                "idNota": "nota_800.10.600_0455b847d870",
+                "nota": "A monitorização da segurança da realização de ensaios clínicos deve ser classificado em 800.10.305 – Monitorização da segurança de ensaios clínicos"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "N",
+        "donos": [
+            "INFARMED",
+            "DGAV",
+            "IES"
+        ],
+        "legislacao": [
+            "Lei_21_2014",
+            "Regulamento_Delegado_UE_536_2014"
+        ],
+        "processosRelacionados": [
+            "450.10.073",
+            "450.10.444",
+            "450.10.445",
+            "500.10.301",
+            "700.20.100",
+            "800.10.305"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": 25.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.600_0",
+                    "tipo": "legal",
+                    "conteudo": "[Regulamento UE 536/2014], art.º 58º O arquivo do processo permanente do ensaio clínico, \\\"salvo se outra legislação da União exigir o arquivamento durante um período mais longo, o promotor e o investigador devem arquivar o conteúdo do processo permanente do ensaio clínico durante, pelo menos, 25 anos após a conclusão do ensaio clínico. No entanto, os processos clínicos dos sujeitos do ensaio devem ser arquivados em conformidade com o direito nacional.\\\"",
+                    "legRefs": [
+                        "Regulamento_UE_536_2014"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.600_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização.",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.600_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação qualitativa e quantitativa não recuperável noutro PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.601",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Realização de ensaios laboratoriais",
+        "descricao": "Exames que avaliam, diagnosticam ou confirmam a qualidade e/ou a composição de determinados constituintes, instrumentos ou amostras em matrizes diferentes. Inicia por solicitação externa ou da entidade responsável pela análise e termina com a divulgação do boletim analítico. Inclui a recolha da amostra, amostra-controle, identificação, acondicionamento, conservação, transporte, registo, procedimento ensaístico e relatório de ensaio.",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.601_f0392ed1324e",
+                "nota": "Realização de análises laboratoriais"
+            },
+            {
+                "idNota": "nota_800.10.601_a4d6435b514f",
+                "nota": "Comprovação da qualidade dos ensaios laboratoriais"
+            },
+            {
+                "idNota": "nota_800.10.601_b9ab6d34fbd9",
+                "nota": "Comprovação da qualidade de medicamentos"
+            },
+            {
+                "idNota": "nota_800.10.601_652148c5b50e",
+                "nota": "Comprovação da qualidade de produtos de saúde e cosméticos"
+            },
+            {
+                "idNota": "nota_800.10.601_2d4ed9b1003c",
+                "nota": "Metrologia científica"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.601_0edfa4744e3b",
+                "nota": "Os testes realizados no âmbito de perícias devem ser considerados em 800.10.603 – Realização de perícias"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AL",
+            "IES",
+            "INFARMED",
+            "INIAV",
+            "IVDP",
+            "DRAP",
+            "CP"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "AL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INFARMED",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "II",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Portaria_63_2015",
+            "DL_135_2009",
+            "DL_306_2007",
+            "DL_236_98",
+            "Decreto_Regulamentar_5_97",
+            "ISO_IEC_17025_2017",
+            "Despacho_399_2009"
+        ],
+        "processosRelacionados": [
+            "150.40.500",
+            "300.10.002",
+            "300.30.008",
+            "300.40.502",
+            "300.40.503",
+            "300.40.506",
+            "300.40.507",
+            "450.10.229",
+            "450.10.232",
+            "450.10.445",
+            "450.10.640",
+            "500.10.301",
+            "450.10.640",
+            "500.10.301",
+            "700.20.100",
+            "800.10.300",
+            "800.10.301",
+            "800.10.302",
+            "800.10.303",
+            "800.10.610"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSucessorDe",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.601_0",
+                    "tipo": "legal",
+                    "conteudo": "[Despacho 399/2009] - Prazo estabelecido em “2.8.1 - Os laboratórios devem conservar, por qualquer processo, pelo menos durante cinco anos, sem prejuízo de outros prazos que venham a ser estabelecidos (...)\\\".",
+                    "legRefs": [
+                        "Despacho_399_2009"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.601_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Rastreabilidade, consulta e análise o PN 500.10.301 - Realização de fiscalização.",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.601_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação recuperável no PN de 700.20, bem como em:PN 450.10.640 - Autorização de introdução de produtos e substâncias no mercado;PN 500.10.301 - Realização de fiscalização.",
+                    "procRefs": [
+                        "450.10.640",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.602",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Realização de estudos científicos e técnicos de apoio a políticas públicas e/ou comerciais",
+        "descricao": "Procedimento científico e técnico de análise e cálculo com o objetivo de promover uma avaliação do impacto e de gerar medidas ou recomendações técnicas sobre um determinado universo. Inicia com um pedido e termina com a emissão de um relatório. Inclui a recolha de dados, aferição e análise de características da população ou de amostras, criação de indicadores quantitativos e qualitativos, produção de relatórios técnicos, avaliação de impacto, apuramento de resultados ou recomendações e/ou medições.",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.602_1b7bcb93e153",
+                "nota": "Análise de causalidade (verificar se a causa de um determinado acontecimento público se deveu a uma determinada política em concreto)"
+            },
+            {
+                "idNota": "nota_800.10.602_92d5652b6682",
+                "nota": "Criação e desenvolvimeno de indicadores (quantitativos e qualitativos) de apoio às políticas públicas"
+            },
+            {
+                "idNota": "nota_800.10.602_7444d1c31c7c",
+                "nota": "Estudos de cenarização"
+            },
+            {
+                "idNota": "nota_800.10.602_5728975f47cb",
+                "nota": "Estudos de consultadoria"
+            },
+            {
+                "idNota": "nota_800.10.602_591f29bcd9cb",
+                "nota": "Estudos de impacto"
+            },
+            {
+                "idNota": "nota_800.10.602_64b262da7f83",
+                "nota": "Estudos de mercado (mercado de trabalho, saúde, educação, meio empresarial)"
+            },
+            {
+                "idNota": "nota_800.10.602_cab3a6b66310",
+                "nota": "Estudos de viabilidade"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_800.10.602_f72ed47d184f",
+                "exemplo": "Estudos sobre emprego"
+            },
+            {
+                "idExemplo": "exemplo_800.10.602_d114a7f82d6e",
+                "exemplo": "Estudos sobre formação profissional"
+            },
+            {
+                "idExemplo": "exemplo_800.10.602_e90cf13b1dd6",
+                "exemplo": "Estudos sobre a certificação de entidades formadoras"
+            },
+            {
+                "idExemplo": "exemplo_800.10.602_4850a7353796",
+                "exemplo": "Estudos sobre relações e condições de trabalho, e relações profissionais"
+            },
+            {
+                "idExemplo": "exemplo_800.10.602_d23f503df2ad",
+                "exemplo": "Estudos sobre despedimentos coletivos"
+            },
+            {
+                "idExemplo": "exemplo_800.10.602_ee8b9764fe92",
+                "exemplo": "Estudos sobre prevenção de conflitos"
+            },
+            {
+                "idExemplo": "exemplo_800.10.602_0306b33d15ad",
+                "exemplo": "Estudos sobre conciliação, mediação, greves e serviços mínimos"
+            },
+            {
+                "idExemplo": "exemplo_800.10.602_e050ae04efa7",
+                "exemplo": "Estudos sobre regulamentação coletiva"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.602_9aa1d409c5b4",
+                "nota": "A aquisição de serviços no âmbito de estudos técnicos e científicos deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e prestação de serviços"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "Grupo_IP",
+            "INFARMED",
+            "CP",
+            "IES",
+            "CCDR",
+            "IMT",
+            "ICNF",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGPM",
+            "DGRM",
+            "GAMA",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "GPP",
+            "DRAP",
+            "IFAP",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "INFARMED",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            }
+        ],
+        "processosRelacionados": [
+            "150.10.001",
+            "150.10.100",
+            "150.20.101",
+            "150.40.500",
+            "300.40.004",
+            "300.40.500",
+            "300.40.502",
+            "300.50.601",
+            "450.10.229",
+            "500.10.001",
+            "500.10.301",
+            "550.30.200",
+            "550.30.400",
+            "550.30.600",
+            "800.10.301",
+            "800.10.302"
+        ],
+        "proRel": [
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.602_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.602_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditoria (no que diz respeito à atuação da Administração) e do PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.602_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação qualitativa e quantitativa não recuperável noutro PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.603",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Realização de perícias",
+        "descricao": "Atividade realizada por profissional especialista dotado de especiais conhecimentos técnicos ou científicos com vista à descrição, interpretação e obtenção de conclusões com eventual valor probatório. Inicia com um pedido e termina com a produção do relatório final. Inclui a pesquisa, a recolha, o tratamento, o acondicionamento, a selagem, a receção e o registo de amostras, vestígios ou dados, a aplicação de teste psicológico a pessoa e a avaliação do mesmo, se aplicável, a observação de características ou lesões a cadáveres ou a restos cadavéricos e exames complementares ao diagnóstico, se aplicável, e fundamentação de trabalho pericial. ",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.603_1ae4c78a3284",
+                "nota": "Execução de autópsias"
+            },
+            {
+                "idNota": "nota_800.10.603_5cd3bdb44852",
+                "nota": "Execução de perícias a obras de arte"
+            },
+            {
+                "idNota": "nota_800.10.603_624c0aa7e2ad",
+                "nota": "Execução de necrópsias"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.603_89a7a823eb2a",
+                "nota": "A aquisição de serviços periciais deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis e prestação de serviços"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "ECP",
+            "CP",
+            "ICNF",
+            "IGAMAOT",
+            "INIAV",
+            "IES"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "AL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INFARMED",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGAMAOT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "II",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Lei_4_2015",
+            "Lei_41_2013",
+            "Portaria_19_2013",
+            "Portaria_175_2011",
+            "Lei_7_2009",
+            "Lei_37_2008",
+            "Lei_5_2008",
+            "Lei_18_2007",
+            "Lei_45_2004",
+            "Lei_36_2003",
+            "DL_54_2013",
+            "DL_42_2009",
+            "DL_352_2007",
+            "DL_352_99",
+            "Lei_166_99",
+            "Lei_147_99",
+            "DL_48_95",
+            "DL_114_94",
+            "DL_15_93",
+            "DL_78_87",
+            "DL_47344_66",
+            "ISO_IEC_17025_2017",
+            "NP_EN_ISO_IEC_17020_2013",
+            "ILAC_G19:08_2014"
+        ],
+        "processosRelacionados": [
+            "400.10.410",
+            "450.30.504",
+            "500.10.001",
+            "600.10.004",
+            "600.10.006",
+            "600.10.007",
+            "600.10.500",
+            "600.10.501",
+            "600.10.502",
+            "600.10.503",
+            "600.30.001",
+            "600.30.002",
+            "600.30.050",
+            "600.30.051",
+            "600.30.052",
+            "600.30.101",
+            "710.20.300",
+            "800.10.609",
+            "800.10.610"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 15.0,
+            "notas": "Nos crimes contra a liberdade e autodeterminação sexual de menores, bem como no crime de  mutilação genital feminina sendo a vítima menor, o procedimento criminal não se extingue, por efeito da prescrição, antes de o ofendido perfazer 23 anos” - artigo 118 do Código penal",
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.603_0",
+                    "tipo": "legal",
+                    "conteudo": "[DL 48/95], CP, art.º 118º - Prazo prescricional do procedimento criminal determinante para o enquadramento da prescrição do crime.",
+                    "legRefs": [
+                        "DL_48_95"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.603_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "CP",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.603_0",
+                    "tipo": "densidade",
+                    "conteudo": "Enumeração e tipificação dos casos recuperável através das estatísticas.Esta síntese não permite recuperar o particular e individual, mas apenas o geral.A aplicação de um critério de amostragem aleatória sobre este PN permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo de todas as características da população-alvo.Toma ainda como base o facto da imprevisibilidade dos estudos nesta área e a impossibilidade atual de conservar toda a produção.A constituição de uma amostra significativa do universo de onde é retirada, mediante a aplicação de métodos estatísticos com uma margem de erro controlada, será suficiente para representar o universo.Extra amostra poderão ser conservadas os fat files ou os processos referentes a casos com maior impacto social."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.604",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Realização de traduções",
+        "descricao": "Transposição de conteúdos de uma língua para outra. Interpretação do significado de um texto em determinada língua (fonte original) para produção de um novo texto, fiel ao original, noutra língua. Inicia com um pedido ou por iniciativa de uma entidade e termina com a entrega do trabalho. Inclui os estudos de contextualização histórica, técnica e estilística do autor e do texto, a redação na língua de destino e a elaboração de notas de tradução.",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.604_7fba2cf8131f",
+                "nota": "Realização de retroversões"
+            },
+            {
+                "idNota": "nota_800.10.604_412eda1d8b21",
+                "nota": "Realização de revisões de traduções"
+            },
+            {
+                "idNota": "nota_800.10.604_2c6bc31541e3",
+                "nota": "Realização de traduções literárias"
+            },
+            {
+                "idNota": "nota_800.10.604_bd4113780de1",
+                "nota": "Realização de traduções oficiais"
+            },
+            {
+                "idNota": "nota_800.10.604_d686f1fe9e59",
+                "nota": "Realização de traduções técnicas e científicas"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.604_c35b62b19600",
+                "nota": "A aquisição de serviços de tradução deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis e prestação de serviços"
+            },
+            {
+                "idNota": "nota_800.10.604_9da8c69f921c",
+                "nota": "A tradução que resulte em obra nova deve ser considerada em 400.10.610 – Registo de obras científicas, literárias e artísticas ou 400.10.611 – Registo de publicações no sistema de Depósito Legal"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "CCDR",
+            "IES",
+            "ICNF",
+            "ACT",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGPM",
+            "DGRM",
+            "DGADR",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "II",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGPM",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Lei_49_2015",
+            "DL_237_2001",
+            "DL_15_99",
+            "DL_207_95",
+            "Lei_62_98",
+            "Lei_114_91",
+            "DL_63_85",
+            "Decreto_73_78",
+            "Lei_98_97"
+        ],
+        "processosRelacionados": [
+            "300.40.501",
+            "300.50.400",
+            "350.30.001",
+            "450.20.503",
+            "450.30.503",
+            "500.10.001",
+            "500.10.301",
+            "750.20.600",
+            "800.20.001",
+            "900.10.001",
+            "900.20.201"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.604_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.604_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e do PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.604_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação recuperável no processo que lhe deu origem, no caso de resultar num serviço de apoio, ou na publicação, em caso de edição."
+                }
+            ]
+        },
+        "Notas": "Código de Redação Interinstitucional da UE#\nGuia do tradutor da UE da Direção-Geral da Tradução da Comissão Europeia junho de 2015#"
+    },
+    {
+        "codigo": "800.10.605",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Realização de transcrições",
+        "descricao": "Representação ou reprodução gráfica de conteúdos preexistentes (sons, textos, informação genética, etc.) em novo contexto, com vista a torná-los acessíveis e utilizáveis. Inicia com um pedido e termina com a entrega do trabalho. Inclui a interpretação dos dados e a sua reprodução.",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.605_c74806e0d6eb",
+                "nota": "Arranjo musical de uma obra, para um instrumento para o qual não foi originalmente escrita"
+            },
+            {
+                "idNota": "nota_800.10.605_12e40a99bf2f",
+                "nota": "Transcrição de documentos, independentemente do suporte e antiguidade"
+            },
+            {
+                "idNota": "nota_800.10.605_393df1d5176a",
+                "nota": "Transcrição fonética"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.605_895123471e4f",
+                "nota": "A emissão de comprovativos de factos ou atos deve ser considerada em \\\"Reconhecimentos e permissões/ Emissão de comprovativos de factos ou atos\\\" (450.30)"
+            },
+            {
+                "idNota": "nota_800.10.605_08793ab55568",
+                "nota": "A transcrição que resulte em obra nova deve ser considerada em 400.10.610 – Registo de obras científicas, literárias e artísticas"
+            },
+            {
+                "idNota": "nota_800.10.605_5f256e7760c6",
+                "nota": "As transcrições para fins judiciais ou oficiais devem ser consideradas nos respetivos PN"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "AL",
+            "CCDR",
+            "ACT",
+            "IES",
+            "CASES",
+            "CGA",
+            "CITE",
+            "CNPDPCJ",
+            "CPL",
+            "CRL",
+            "DGERT",
+            "DGSS",
+            "GEP",
+            "IEFP",
+            "IGMTSSS",
+            "IGFCSS",
+            "IGFSS",
+            "II",
+            "INR",
+            "ISS",
+            "OIT",
+            "POISE",
+            "SGMTSSS",
+            "DGADR",
+            "DGAV",
+            "IVDP"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "II",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Despacho_12966_2009",
+            "DL_78_87",
+            "DL_403_86",
+            "DL_63_85",
+            "Lei_98_97"
+        ],
+        "processosRelacionados": [
+            "300.40.501",
+            "300.50.400",
+            "350.30.001",
+            "450.20.503",
+            "450.30.503",
+            "500.10.001",
+            "500.10.301",
+            "750.20.600",
+            "800.20.001",
+            "900.10.001",
+            "900.20.201"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.605_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.605_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e do PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização) e do PN 450.30.503 - Confirmação, conferência ou emissão de cópias não certificadas.",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301",
+                        "450.30.503"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.605_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação recuperável no processo que lhe deu origem, no caso de resultar num serviço de apoio, ou na publicação, em caso de edição."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.606",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Avaliação da rutura de stocks de medicamentos",
+        "descricao": "Acompanhamento de rutura de stocks de medicamentos, ainda que meramente transitórias, de fabrico e ou fornecimento de um medicamento, bem como qualquer perturbação ao normal abastecimento do mercado, nos casos, termos, forma e prazo fixados pela autoridade competente. Inicia com a notificação da rutura, em plataforma, pelo titular da autorização e termina com a proposta de minimização do impacto. Inclui validação da identificação do titular, pedidos de informação pelos profissionais de saúde e utentes sobre rotura de stocks, avaliação da situação e a consulta de peritos ou a agências congéneres. ",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.606_53d74182cad1",
+                "nota": "Processo de acompanhamento da rotura de stocks com impacto para o utente, nomeadamente"
+            },
+            {
+                "idNota": "nota_800.10.606_94cfeebb75eb",
+                "nota": "Averiguação do mercado"
+            },
+            {
+                "idNota": "nota_800.10.606_4658ab233381",
+                "nota": "Análise das alternativas no mercado"
+            },
+            {
+                "idNota": "nota_800.10.606_b913bb5b6836",
+                "nota": "Parecer clínico"
+            },
+            {
+                "idNota": "nota_800.10.606_9d2029ac0c0a",
+                "nota": "Medidas de minimização do impacto, Autorização de Utilização Excecional (AUE), alteração regulamentar (libertação de lote; alteração de fabricante)"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.606_17b9a1225385",
+                "nota": "Os pedidos de informação que não se relacionam com nenhum processo concreto devem ser classificados em 900.20.604 – Tratamento de informações e processamento de pedidos de informação"
+            },
+            {
+                "idNota": "nota_800.10.606_13c7fad2ab75",
+                "nota": "A entrega da password para acesso à base de dados para registo 300.50.802 – Registo e identificação de utilizadores de serviços e de sistemas de informação"
+            },
+            {
+                "idNota": "nota_800.10.606_265c820362ad",
+                "nota": "A avaliação de alternativas terapêuticas e relatórios dos peritos deve ser classificada em 800.10.602 – Realização de estudos científicos e técnicos de apoio a políticas públicas e/ou comerciais"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "INFARMED",
+            "DGAV"
+        ],
+        "participantes": [
+            {
+                "id": "DGS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SPMS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "DL_176_2006",
+            "DL_48_A_2010",
+            "Lei_98_97"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "150.40.500",
+            "300.30.008",
+            "450.10.070",
+            "450.10.640",
+            "450.10.644",
+            "450.10.808",
+            "500.10.001",
+            "500.10.300",
+            "500.10.301",
+            "550.10.307",
+            "550.20.001",
+            "800.10.304"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eSintetizadoPor",
+            "eSuplementoPara"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.606_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.[DL 176/2006], art.º 181º, nº 2 , alínea i) \\\"O incumprimento das obrigações que antecedem constitui outras tantas contraordenações previstas e puníveis com coima...( ).\\\"",
+                    "legRefs": [
+                        "Lei_98_97",
+                        "DL_176_2006"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.606_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração), do PN 500.10.300 - Realização de inspeção, do PN 500.10.301 - Realização de fiscalização, do PN 550.10.307 - Implementação de medidas de segurança de medicamentos, produtos de saúde e alimentares e do PN 800.10.304 - Monitorização de segurança de medicamentos após autorização de introdução no mercado (AIM).",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.300",
+                        "500.10.301",
+                        "550.10.307",
+                        "800.10.304"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.606_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação recuperável nos:PN 150.20.300 - Avaliação de atividades;PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão;PN 300.30.008 - Registo de documentos e informação;PN 550.20.001 - Emissão de avisos e declaração de alertas.",
+                    "procRefs": [
+                        "150.20.300",
+                        "150.40.500",
+                        "300.30.008",
+                        "550.20.001"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.607",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Realização de ações de observação em saúde e vigilância epidemiológica",
+        "descricao": "Ações que visam contribuir para o conhecimento e monitorização da saúde e doenças, os fatores que as influenciam, assim como a avaliação do seu impacto. Inicia com a identificação de necessidade para realizar a ação ou estudo e termina com a elaboração do relatório ou estudo final. Inclui, sempre que aplicável, diagnóstico de necessidade de investigação, estudos, monitorização e avaliação. ",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.607_ac94f8a9481b",
+                "nota": "Produção de coleções de estirpes"
+            },
+            {
+                "idNota": "nota_800.10.607_db47a8b53c0e",
+                "nota": "Estudos de vigilância epidemiológica"
+            },
+            {
+                "idNota": "nota_800.10.607_40a7389be4df",
+                "nota": "Recolha e análise de dados de observação para apoio à decisão relativos a doenças e seus determinantes"
+            },
+            {
+                "idNota": "nota_800.10.607_c9bb1450558c",
+                "nota": "Desenvolvimento e gestão de redes de vigilância e de instrumentos de observação em saúde"
+            },
+            {
+                "idNota": "nota_800.10.607_4d94cb2e1910",
+                "nota": "Ações de vigilância de vetores"
+            },
+            {
+                "idNota": "nota_800.10.607_af9cb5c5f7e6",
+                "nota": "Vigilância epidemiológica animal"
+            },
+            {
+                "idNota": "nota_800.10.607_c0c78877325b",
+                "nota": "Vigilância fitossanitária"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.607_fa8f17133e96",
+                "nota": "A divulgação de alertas ou avisos deve ser classificada em 550.20.001 – Emissão de avisos e declaração de alertas"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "N",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "INSA",
+            "AS",
+            "DGAV"
+        ],
+        "participantes": [
+            {
+                "id": "ARS",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ACES",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "INMLCF",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Comunicar"
+            }
+        ],
+        "legislacao": [
+            "Despacho_5855_2014",
+            "DL_286_99",
+            "Lei_81_2009",
+            "Portaria_248_2013"
+        ],
+        "processosRelacionados": [
+            "500.10.001",
+            "700.20.001",
+            "700.20.100",
+            "800.10.608",
+            "800.20.002"
+        ],
+        "proRel": [
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.607_0",
+                    "tipo": "legal",
+                    "conteudo": "[Portaria 248/2013], art.º 5º, nº 2 \\\"Relativamente aos dados pessoais constantes dos formulários a notificar às autoridades de saúde de âmbito regional e à Direção-Geral da Saúde, podem ser conservados até 10 anos desde que estejam em causa situações de morbilidade.\\\"",
+                    "legRefs": [
+                        "Portaria_248_2013"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.607_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).",
+                    "procRefs": [
+                        "500.10.001"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.607_0",
+                    "tipo": "legal",
+                    "conteudo": "[Portaria 248/2013], art.º 5º, nº 2 \\\"Relativamente aos dados pessoais constantes dos formulários a notificar às autoridades de saúde de âmbito regional e à Direção-Geral da Saúde, podem ser conservados até 10 anos desde que estejam em causa situações de morbilidade.\\\"",
+                    "legRefs": [
+                        "Portaria_248_2013"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.608",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Produção de repositórios de amostras biológicas e seus derivados",
+        "descricao": "Constituição de bancos de produtos biológicos, recursos genéticos ou qualquer repositório de amostras biológicas ou seus derivados, com ou sem tempo delimitado de armazenamento e que inclua amostras que sejam identificadas, identificáveis, anonimizadas ou anónimas. Inicia com a colheita prospetiva ou material previamente colhido e termina com a sua inclusão no banco de produtos. Incluí a investigação desenvolvida. ",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.608_e25966790c0e",
+                "nota": "Inventariação de estirpes"
+            },
+            {
+                "idNota": "nota_800.10.608_160e7ea67a21",
+                "nota": "Banco de amostras biológicas"
+            },
+            {
+                "idNota": "nota_800.10.608_22fb80f1f9c5",
+                "nota": "Banco de DNA"
+            },
+            {
+                "idNota": "nota_800.10.608_f953c092776e",
+                "nota": "Bases de dados genéticos"
+            },
+            {
+                "idNota": "nota_800.10.608_4314719aab38",
+                "nota": "Biobancos"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "INSA",
+            "DGAV",
+            "INIAV",
+            "IVV",
+            "IVDP"
+        ],
+        "participantes": [
+            {
+                "id": "ICNF",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Lei_12_2005",
+            "Lei_5_2008",
+            "Portaria_248_2013"
+        ],
+        "processosRelacionados": [
+            "500.10.001",
+            "500.10.301",
+            "800.10.302",
+            "800.10.607",
+            "800.20.001",
+            "800.20.002"
+        ],
+        "proRel": [
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "extincaoEntidade",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.608_0",
+                    "tipo": "legal",
+                    "conteudo": "[Portaria 248/2013], art.º 5º, nº 2 \\\"Relativamente aos dados pessoais constantes dos formulários a notificar às autoridades de saúde de âmbito regional e à Direção-Geral da Saúde, podem ser conservados até 10 anos desde que estejam em causa situações de morbilidade.\\\"",
+                    "legRefs": [
+                        "Portaria_248_2013"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.608_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e do PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.608_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutro PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.609",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Realização de técnicas de conservação artificial",
+        "descricao": "Utilização de técnicas específicas de conservação de células, órgãos ou cadáveres de seres humanos, animais ou vegetais para fins de ensino, investigação ou tratamento. Inicia com a solicitação ou a determinação do ato de preservação e termina com o atestado de criopreservação, embalsamamento ou com a preparação da peça anatómica para fins científicos, pedagógicos ou museológicos. ",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.609_ca394a314ea4",
+                "nota": "Embalsamamento para transladação"
+            },
+            {
+                "idNota": "nota_800.10.609_bb2cbc6544e8",
+                "nota": "Formolização (formol) de órgão para estudo"
+            },
+            {
+                "idNota": "nota_800.10.609_61cf635454aa",
+                "nota": "Criopreservação"
+            },
+            {
+                "idNota": "nota_800.10.609_f15eb92e5784",
+                "nota": "Criopreservação ou crioconservação de células estaminais do cordão umbilical"
+            },
+            {
+                "idNota": "nota_800.10.609_c68f11fa78f1",
+                "nota": "Impregnação de órgãos ou tecidos biológicos com produtos conservantes, no âmbito científico, museulógico ou pedagógico"
+            },
+            {
+                "idNota": "nota_800.10.609_066f901dcc9e",
+                "nota": "Preservação de células"
+            },
+            {
+                "idNota": "nota_800.10.609_c01b0601d8a4",
+                "nota": "Taxidermia"
+            },
+            {
+                "idNota": "nota_800.10.609_6173ee9cda2f",
+                "nota": "Tanatopraxia reconstrução, conservação e preparação de cadáveres"
+            },
+            {
+                "idNota": "nota_800.10.609_2f1e3800b743",
+                "nota": "Tanatoconservação"
+            },
+            {
+                "idNota": "nota_800.10.609_e022bff850f4",
+                "nota": "Tanatologia forense"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "INMLCF",
+            "IES",
+            "DGAV",
+            "INIAV"
+        ],
+        "participantes": [
+            {
+                "id": "Cns",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Iniciar"
+            }
+        ],
+        "legislacao": [
+            "Portaria_19_2013",
+            "DL_49_2005",
+            "DL_211_2009",
+            "Portaria_162_A_2015",
+            "Portaria_248_2013"
+        ],
+        "processosRelacionados": [
+            "400.10.609",
+            "500.10.001",
+            "500.10.300",
+            "500.10.301",
+            "710.20.003",
+            "710.20.300",
+            "710.20.601",
+            "800.10.603",
+            "800.20.002",
+            "800.20.500"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.609_0",
+                    "tipo": "legal",
+                    "conteudo": "[Portaria 248/2013], art.º 5º, nº 2 \\\"Relativamente aos dados pessoais constantes dos formulários a notificar às autoridades de saúde de âmbito regional e à Direção-Geral da Saúde, podem ser conservados até 10 anos desde que estejam em causa situações de morbilidade.\\\"",
+                    "legRefs": [
+                        "Portaria_248_2013"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.609_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e dos PN 500.10.300 - Realização de inspeção e 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.300",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.609_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutro PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.610",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Materialização, manutenção e disseminação de unidades de medida",
+        "descricao": "Definição das grandezas físicas fundamentais (ou de base), das unidades derivadas e das unidades suplementares, de modo a assegurar a comparabilidade, a rastreabilidade e a manutenção dos padrões de medida. Inicia com a identificação da necessidade, ou na sequência de planeamento e termina com a divulgação das unidades padrão. Inclui identificação das constantes físicas fundamentais, realização, manutenção e desenvolvimento de padrões de unidades de medida, identificação da incerteza de medição, rastreabilidade de padrões, cálculo da grandeza e identificação de padrão. ",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.610_b57abc693a7c",
+                "nota": "Sistema Internacional de Unidades"
+            },
+            {
+                "idNota": "nota_800.10.610_ac4fc758abe3",
+                "nota": "Grandezas fundamentais do Sistema Internacional de Unidades (comprimento, massa, tempo, corrente elétrica, temperatura termodinâmica, quantidade de matéria, intensidade luminosa)"
+            },
+            {
+                "idNota": "nota_800.10.610_e126074e41b1",
+                "nota": "Grandezas derivadas do Sistema Internacional de Unidades (área, volume, velocidade, aceleração, força, pressão, energia, potência)"
+            },
+            {
+                "idNota": "nota_800.10.610_52e5f76ea887",
+                "nota": "Metrologia fundamental (científica ou primária)"
+            },
+            {
+                "idNota": "nota_800.10.610_af85a3811477",
+                "nota": "Identificação de padrão primário, padrão secundário, padrão de referência, padrão de transferência e padrão de trabalho"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.610_809427278180",
+                "nota": "A aprovação dos instrumentos de medição deve ser considerada em 450.10.648 – Reconhecimento das características e origem de animais, bens, produtos e serviços"
+            },
+            {
+                "idNota": "nota_800.10.610_da7788c4c976",
+                "nota": "A aferição de instrumentos de medida deve ser considerada em 500.10.303 – Controlo metrológico de instrumentos de medição"
+            }
+        ],
+        "dimensao": "Elevada",
+        "uniformizacao": "S",
+        "tipoProc": "PE",
+        "procTrans": "N",
+        "donos": [
+            "IPQ"
+        ],
+        "legislacao": [
+            "DL_192_2006",
+            "DL_383_93",
+            "DL_291_90"
+        ],
+        "processosRelacionados": [
+            "400.10.610",
+            "450.10.648",
+            "500.10.001",
+            "500.10.301",
+            "500.10.303",
+            "800.10.601",
+            "800.10.603",
+            "800.20.001",
+            "800.20.002"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.610_0",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e dos PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.610_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutros PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.611",
+        "nivel": 3,
+        "estado": "H",
+        "titulo": "Comparação de melhores práticas: benchmarking",
+        "descricao": "Apreciação, verificação, medição, comparação e identificação das melhores práticas utilizadas por entidades do setor, congéneres e/ou parceiras em áreas de negócio semelhantes, as quais constituirão referências no aperfeiçoamento do desempenho. Inicia com a manifestação de necessidade de conhecer e/ou melhorar um processo técnico ou de gestão e termina com a apresentação dos resultados obtidos. Inclui a identificação, recolha e análise de indicadores-chave de desempenho; a resposta e/ou a criação de inquéritos, estudos de caso, solicitações técnicas pontuais, entre outros; a disponibilização aos órgãos de decisão de informação comparativa do desempenho.",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.611_4e295065ec31",
+                "nota": "Comparação de metodologias técnicas e de gestão"
+            },
+            {
+                "idNota": "nota_800.10.611_021eb400b570",
+                "nota": "Análise do posicionamento da organização face às congéneres e identificação das melhores práticas em cada área de negócio"
+            },
+            {
+                "idNota": "nota_800.10.611_a9b17ce6e01c",
+                "nota": "Análise da evolução da performance da organização em cada ano"
+            },
+            {
+                "idNota": "nota_800.10.611_28266cc9642d",
+                "nota": "Apoio aos órgãos de decisão na formulação de estratégias conducentes à implementação das boas práticas"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.611_fa0fdf99bb7f",
+                "nota": "A avaliação de atividades de uma entidade deve ser considerada em 150.20.300 – Avaliação de atividades"
+            },
+            {
+                "idNota": "nota_800.10.611_8fb12402d44e",
+                "nota": "A recolha e tratamento de dados estatísticos de apoio à gestão deve ser considerada em 150.40.500 – Recolha e tratamento de dados estatísticos de apoio à decisão"
+            },
+            {
+                "idNota": "nota_800.10.611_51e6625520ff",
+                "nota": "A recolha e tratamento de dados estatísticos de apoio à regulação deve ser considerada em 150.40.501 – Recolha e tratamento de dados estatísticos de apoio à regulação"
+            }
+        ],
+        "dimensao": "Normal",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "AP",
+            "ER",
+            "SPE",
+            "ML",
+            "ERSE"
+        ],
+        "participantes": [
+            {
+                "id": "AP",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ML",
+                "interv": "Apreciar"
+            },
+            {
+                "id": "ERSE",
+                "interv": "Apreciar"
+            }
+        ],
+        "legislacao": [
+            "Regulamento_UE_1011_2016"
+        ],
+        "processosRelacionados": [
+            "150.20.300"
+        ],
+        "proRel": [
+            "eSintetizadoPor"
+        ]
+    },
+    {
+        "codigo": "800.10.611.01",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Comparação de melhores práticas - benchmarking: recolha de informação",
+        "descricao": "Inicia com a manifestação de necessidade de conhecer e/ou melhorar um processo técnico ou de gestão e termina com a recolha de informação. Inclui a identificação, recolha e análise de indicadores-chave de desempenho; a resposta e/ou a criação de inquéritos, estudos de caso, solicitações técnicas pontuais, entre outros.",
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.611.01_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.611.01_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede doPN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração); doPN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.611.01_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação é recuperável em 800.10.611.02 - Comparação de melhores práticas - benchmarking: apresentação de resultados",
+                    "procRefs": [
+                        "800.10.611"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.10.611.02",
+        "nivel": 4,
+        "estado": "A",
+        "titulo": "Comparação de melhores práticas - benchmarking: apresentação de resultados",
+        "descricao": "Inicia com a preparação dos dados e da informação e termina com a apresentação dos resultados obtidos. Inclui a elaboração do relatório final e disponibilização aos orgãos de decisão",
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.611.02_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.10.611.02_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede doPN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração); doPN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.611.02_0",
+                    "tipo": "densidade",
+                    "conteudo": "Sintetiza a informação de 800.10.611.01 - Comparação de melhores práticas - benchmarking: recolha de informação.",
+                    "procRefs": [
+                        "800.10.611"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.20",
+        "nivel": 2,
+        "estado": "A",
+        "titulo": "Execução de projetos de investigação e desenvolvimento",
+        "descricao": "Compreende os processos de conceção e de realização de projetos de investigação científica fundamental e aplicada e de desenvolvimento técnico e tecnológico, no que se inclui a conceção e o desenvolvimento de sistemas de informação. Inclui a pesquisa e o desenvolvimento experimental, a demonstração tecnológica e a transferência de conhecimento para inovação do setor produtivo, desenvolvidos no quadro das instituições académicas, dos centros de investigação, dos observatórios, dos laboratórios ou mesmo no quadro da Administração.",
+        "notasAp": [
+            {
+                "idNota": "nota_800.20_34b0a7cee299",
+                "nota": "Projetos de investigação científica ou de investigação e desenvolvimento de produtos e processos com base experimental"
+            },
+            {
+                "idNota": "nota_800.20_a4f5faa39e74",
+                "nota": "Desenvolvimento de protótipos e outras formas de mostrar uma ideia, o desempenho de um método, ou as características de um produto"
+            },
+            {
+                "idNota": "nota_800.20_ca95438a3350",
+                "nota": "Desenvolvimento de produtos, processos, serviços, tecnologias ou ideias que estão prontamente disponíveis para os mercados, governos e sociedade, incluindo o desenvolvimento de sistemas de informação para a Administração Pública."
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.20_a025c58205d2",
+                "nota": "As candidaturas a programas de apoio financeiro à investigação devem ser consideradas em \\\"Execução de programas e de ações de incentivo/ Atribuição e controlo de financiamentos e de ajudas diretas\\\" (850.10)"
+            },
+            {
+                "idNota": "nota_800.20_2a8c2bdd7b12",
+                "nota": "A publicação de trabalhos de investigação científica deve ser considerada em \\\"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\\\" (900.10)"
+            },
+            {
+                "idNota": "nota_800.20_f8c4b6f5d92d",
+                "nota": "A reengenharia de processos de trabalho da Administração deve ser considerada em “Planeamento e gestão estratégica/ Planeamento, avaliação e melhoria de serviços” (150.20)"
+            }
+        ]
+    },
+    {
+        "codigo": "800.20.001",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Realização de estudos de investigação básica",
+        "descricao": "Criação de um processo de pesquisa orientado para a obtenção de conhecimentos fundamentais para um produto ou objetivo prático específico. Inicia com a apresentação de uma candidatura ou de um projeto de investigação e termina com a divulgação do resultado. Inclui apresentação de relatórios de progresso e final.",
+        "notasAp": [
+            {
+                "idNota": "nota_800.20.001_eb3a2ddef146",
+                "nota": "A investigação básica, destina-se à progressão do conhecimento, não visa a obtenção de vantagens económicas ou sociais (produção de novas leis científicas e novos modelos)"
+            },
+            {
+                "idNota": "nota_800.20.001_ae186a6795d9",
+                "nota": "Estudos de fenómenos biológicos"
+            },
+            {
+                "idNota": "nota_800.20.001_e2891983b6ed",
+                "nota": "Estudos de fenómenos naturais"
+            },
+            {
+                "idNota": "nota_800.20.001_9c68542b4749",
+                "nota": "Estudos de fenómenos sociais"
+            },
+            {
+                "idNota": "nota_800.20.001_4584095894e4",
+                "nota": "Produção de novas leis científicas"
+            },
+            {
+                "idNota": "nota_800.20.001_fca687b82cf2",
+                "nota": "Produção de novos modelos"
+            },
+            {
+                "idNota": "nota_800.20.001_08c7b3b9e1aa",
+                "nota": "Progressão de conhecimentos"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PE",
+        "procTrans": "S",
+        "donos": [
+            "IES",
+            "UI",
+            "UL",
+            "INMLCF",
+            "CASES",
+            "CITE",
+            "CRL",
+            "GEP",
+            "INR",
+            "ISS",
+            "DGRM",
+            "INIAV"
+        ],
+        "participantes": [
+            {
+                "id": "IES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "UI",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "UL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INMLCF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "DL_115_2013",
+            "Lei_8_2010",
+            "Lei_7_2010",
+            "DL_207_2009",
+            "DL_205_2009",
+            "Lei_85_2009",
+            "DL_74_2006",
+            "Lei_157_99",
+            "DL_124_99",
+            "Lei_6_87",
+            "Lei_46_86",
+            "DL_185_81",
+            "DL_448_79",
+            "Lei_98_97"
+        ],
+        "processosRelacionados": [
+            "150.10.500",
+            "150.10.600",
+            "350.30.001",
+            "400.10.609",
+            "400.10.610",
+            "400.10.614",
+            "450.10.230",
+            "450.30.002",
+            "500.10.001",
+            "500.10.301",
+            "750.10.002",
+            "750.10.601",
+            "750.20.001",
+            "750.20.300",
+            "750.30.001",
+            "800.10.302",
+            "800.10.608",
+            "850.10.002",
+            "850.10.003",
+            "850.10.004",
+            "850.10.005",
+            "850.10.500",
+            "850.10.600",
+            "850.10.601",
+            "900.10.501",
+            "900.20.201",
+            "800.10.610"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSucessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.20.001_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.20.001_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001- Realização de auditorias (no que diz respeito à atuação da Administração) e dos PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.20.001_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutro PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.20.002",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Execução de projetos de investigação aplicada",
+        "descricao": "Otimização de um produto ou de um objetivo prático específico, assente nos pressupostos teóricos da investigação básica de forma a obter vantagens económicas ou sociais. Inicia com a seleção de um objeto de investigação e termina com a divulgação do resultado. Inclui apresentação de relatórios de progresso e final.",
+        "notasAp": [
+            {
+                "idNota": "nota_800.20.002_29c535cd84d8",
+                "nota": "Estudo de fenómenos biológicos"
+            },
+            {
+                "idNota": "nota_800.20.002_e35aeb1c9094",
+                "nota": "Estudo de fenómenos naturais"
+            },
+            {
+                "idNota": "nota_800.20.002_1ee37e2c1a73",
+                "nota": "Estudo de fenómenos sociais"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.20.002_f7092c698e82",
+                "nota": "O registo de patentes e modelos de utilidade devem ser considerados em 400.10.609 – Registo de patentes e modelos de utilidade"
+            },
+            {
+                "idNota": "nota_800.20.002_63ed9c96a621",
+                "nota": "A investigação criminal deve ser considerada em \\\"Administração da justiça\\\" (600)"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "IES",
+            "UI",
+            "UL",
+            "CP",
+            "INIAV",
+            "IVV",
+            "IVDP"
+        ],
+        "participantes": [
+            {
+                "id": "IES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "UI",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "UL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "AP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "AL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IMT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "II",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "DL_202_2012",
+            "DL_207_2009",
+            "DL_125_99",
+            "Lei_98_97"
+        ],
+        "processosRelacionados": [
+            "150.10.500",
+            "150.10.600",
+            "350.30.001",
+            "400.10.609",
+            "400.10.610",
+            "400.10.614",
+            "450.30.002",
+            "500.10.001",
+            "500.10.301",
+            "750.10.002",
+            "750.10.601",
+            "750.20.001",
+            "750.20.300",
+            "750.30.001",
+            "800.10.302",
+            "800.10.607",
+            "800.10.608",
+            "800.10.609",
+            "850.10.002",
+            "850.10.003",
+            "850.10.004",
+            "850.10.005",
+            "850.10.500",
+            "850.10.600",
+            "850.10.601",
+            "900.10.501",
+            "800.10.610"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.20.002_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.20.002_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e dos PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.20.002_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutro PN."
+                }
+            ]
+        }
+    },
+    {
+        "codigo": "800.20.500",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Desenvolvimento experimental e aplicacional",
+        "descricao": "Replicação do conhecimento obtido na investigação realizada e na experiência prática (prova de conceito), visando melhorar substancialmente ou desenvolver produtos, modelos, programas, métodos, procedimentos e serviços, novos ou existentes. Inicia com a apresentação de um projeto de desenvolvimento e termina com a apresentação do resultado. Inclui a definição de uma metodologia, requisitos, parâmetros ou processos e a sua validação, prototipagem. ",
+        "notasAp": [
+            {
+                "idNota": "nota_800.20.500_007230191ebb",
+                "nota": "Desenvolvimento de aplicações"
+            },
+            {
+                "idNota": "nota_800.20.500_241dee6077bf",
+                "nota": "Desenvolvimento de instrumentação nuclear"
+            },
+            {
+                "idNota": "nota_800.20.500_535cd4faa355",
+                "nota": "Desenvolvimento de novos materiais"
+            },
+            {
+                "idNota": "nota_800.20.500_ba52a4cbf4d4",
+                "nota": "Desenvolvimento de novos padrões de medida e de controlo"
+            },
+            {
+                "idNota": "nota_800.20.500_e3d689832379",
+                "nota": "Desenvolvimento de novos produtos"
+            },
+            {
+                "idNota": "nota_800.20.500_81a43bb83563",
+                "nota": "Desenvolvimento de novos serviços"
+            },
+            {
+                "idNota": "nota_800.20.500_d8dd3b32d5f1",
+                "nota": "Desenvolvimento de sistemas de informação"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.20.500_9a9976339111",
+                "nota": "O registo de patentes e modelos de utilidade devem ser considerados em 400.10.609 – Registo de patentes e modelos de utilidade"
+            }
+        ],
+        "dimensao": "Média",
+        "uniformizacao": "N",
+        "tipoProc": "PC",
+        "procTrans": "S",
+        "donos": [
+            "IES",
+            "UI",
+            "UL",
+            "CP",
+            "CCDR",
+            "IGAMAOT",
+            "INIAV",
+            "IVV",
+            "IVDP",
+            "PDR2020",
+            "IFAP"
+        ],
+        "participantes": [
+            {
+                "id": "IES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "UI",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "UL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "AP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "AL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CCDR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ICNF",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ACT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CASES",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CGA",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CITE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CNPDPCJ",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CPL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "CRL",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGERT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "GEP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IMT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IEFP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFCSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IGFSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "II",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "ISS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "OIT",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "POISE",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "SGMTSSS",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGRM",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGADR",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DGAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "INIAV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVV",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IVDP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "DRAP",
+                "interv": "Assessorar"
+            },
+            {
+                "id": "IFAP",
+                "interv": "Assessorar"
+            }
+        ],
+        "legislacao": [
+            "DL_202_2012",
+            "DL_207_2009",
+            "DL_125_99",
+            "Lei_98_97"
+        ],
+        "processosRelacionados": [
+            "150.10.500",
+            "150.10.600",
+            "150.20.102",
+            "300.40.508",
+            "300.40.510",
+            "350.30.001",
+            "400.10.609",
+            "400.10.610",
+            "400.10.614",
+            "450.30.002",
+            "500.10.001",
+            "500.10.301",
+            "750.10.002",
+            "750.10.601",
+            "750.20.001",
+            "750.20.300",
+            "750.30.001",
+            "800.10.302",
+            "800.10.609",
+            "850.10.002",
+            "850.10.003",
+            "850.10.005",
+            "850.10.500",
+            "850.10.600",
+            "850.10.601",
+            "900.10.501"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eSuplementoPara",
+            "eSuplementoPara",
+            "eSucessorDe",
+            "eSucessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eAntecessorDe",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 10.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.20.500_0",
+                    "tipo": "legal",
+                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.",
+                    "legRefs": [
+                        "Lei_98_97"
+                    ]
+                },
+                {
+                    "critCodigo": "just_pca_c800.20.500_1",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e dos PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).",
+                    "procRefs": [
+                        "500.10.001",
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.20.500_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutro PN."
+                }
+            ]
+        }
+    }
+]
