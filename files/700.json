@@ -7,25 +7,25 @@
         "descricao": "Relativo à prestação de cuidados preventivos, curativos ou continuados, assegurada em unidades do Serviço Nacional de Saúde, em contexto laboral (saúde ocupacional), em clínicas, nas escolas, em prisões ou em qualquer outro contexto onde sejam praticados atos clínicos para humanos ou animais.",
         "notasAp": [
             {
-                "idNota": "nota_700_3c21d88f1fe8",
+                "idNota": "nota_700_d1a68375f6fb",
                 "nota": "Atos clínicos incluindo os realizados no quadro da promoção da saúde (rastreio, vacinação, consulta do viajante, etc.)"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700_3d96c093f39f",
+                "idNota": "nota_700_05c12bb13df1",
                 "nota": "A constituição de redes de referenciação dos serviços e unidades de prestação de serviços de saúde (primária e secundária) deve ser considerada em \\\"Planeamento e gestão estratégica/ Planeamento, avaliação e melhoria de serviços\\\" (150.20);"
             },
             {
-                "idNota": "nota_700_1395d32262c8",
+                "idNota": "nota_700_7871190a0fa4",
                 "nota": "As campanhas de divulgação e informação em saúde, como as publicitárias, devem ser consideradas em \\\"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\\\" (900.10);"
             },
             {
-                "idNota": "nota_700_3525de3e25b8",
+                "idNota": "nota_700_2ac1e61bd387",
                 "nota": "Os estudos científicos e técnico-científicos no domínio da saúde devem ser considerados em \\\"Prestação de serviços técnicos e científicos, investigação e desenvolvimento\\\" (800);"
             },
             {
-                "idNota": "nota_700_656d52f0901e",
+                "idNota": "nota_700_98e3069901a5",
                 "nota": "Os serviços de assistência religiosa e/ou de assistência social ou psicossocial orientados à (re)integração social do utente dos serviços de saúde devem ser considerados em \\\"Prestação de serviços de proteção e inclusão social/ Serviços e equipamentos sociais\\\" (650.20)."
             }
         ]
@@ -38,21 +38,21 @@
         "descricao": "Compreende as atividades de gestão do atendimento, admissão e encaminhamento de utentes dos serviços de saúde, no que se inclui os serviços de emergência médica.",
         "notasAp": [
             {
-                "idNota": "nota_700.10_e0a5bc5707ae",
+                "idNota": "nota_700.10_47e736b48b72",
                 "nota": "Referenciação de doentes"
             },
             {
-                "idNota": "nota_700.10_d78e3d593f1e",
+                "idNota": "nota_700.10_e3df23c94008",
                 "nota": "Organização do transporte de doentes"
             },
             {
-                "idNota": "nota_700.10_45d47276d970",
+                "idNota": "nota_700.10_d9926e56cd43",
                 "nota": "Gestão de inscritos para consultas, para cirurgia e para outros atos clínicos"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700.10_434a48dc109d",
+                "idNota": "nota_700.10_6b3a97ba696d",
                 "nota": "O registo nacional de \\\"utente de saúde\\\" deve ser considerado em \\\"Prestação de serviços de identificação e registo/ Registo de dados de identificação e caracterização de entidades ou atos\\\" (400.10)"
             }
         ]
@@ -65,19 +65,19 @@
         "descricao": "Inscrição e monitorização das inscrições de utentes que aguardam a realização de consulta numa unidade de saúde. Inicia com a inscrição na consulta e termina com a confirmação da realização da consulta ou cancelamento do registo. Inclui identificação do utente, avaliação clínica da necessidade da consulta, verificação de disponibilidade e marcação de consulta, notificação ao utente do agendamento da consulta.",
         "notasAp": [
             {
-                "idNota": "nota_700.10.001_7f43e7ac4ba2",
+                "idNota": "nota_700.10.001_80e73bde6b18",
                 "nota": "Encaminhamento de utentes para referenciação em consultas de especialidade"
             },
             {
-                "idNota": "nota_700.10.001_0284525db218",
+                "idNota": "nota_700.10.001_b1c6a092d1dd",
                 "nota": "Marcação, alteração e cancelamento de atos clínicos médicos e de enfermagem no âmbito da Medicina do Trabalho"
             },
             {
-                "idNota": "nota_700.10.001_453567b7af30",
+                "idNota": "nota_700.10.001_9d87a65a7e4d",
                 "nota": "Marcação de atos clínicos médicos e de enfermagem nas unidades de saúde dos Serviços Sociais"
             },
             {
-                "idNota": "nota_700.10.001_05074adfc9b1",
+                "idNota": "nota_700.10.001_07efe6ca879b",
                 "nota": "Referenciação de utentes para consultas em unidades de saúde públicas ou privadas"
             }
         ],
@@ -89,7 +89,8 @@
             "UPCS",
             "AL",
             "Grupo_IP",
-            "HH"
+            "HH",
+            "IES"
         ],
         "participantes": [
             {
@@ -191,7 +192,7 @@
         "descricao": "Informação decorrente de um conjunto de intervenções sequenciais integradas de saúde e apoio social em sequência de uma avaliação conjunta que visa promover a autonomia melhorando a funcionalidade do utente em situação de dependência, através da sua reabilitação, readaptação e reinserção familiar e social. Inicia com a avaliação da necessidade de cuidados continuados e preparação da alta hospitalar em articulação com outros serviços e termina com a confirmação do ingresso ou a anulação do registo. Inclui as atividades necessárias à execução do processo de referenciação de acordo com os interesses dos utentes e os recursos disponíveis na comunidade, nomeadamente, a nota de alta, os pareceres das equipas de gestão de altas, o envio dos processos de ingresso e de admissão para as unidades prestadoras. Inclui ainda, o consentimento informado e o termo de aceitação de internamento. ",
         "notasEx": [
             {
-                "idNota": "nota_700.10.002_d816ce594fef",
+                "idNota": "nota_700.10.002_1299cd4ad38b",
                 "nota": "Os internamentos hospitalares devem ser considerados em 700.20.400 – Internamento de doentes agudos e crónicos"
             }
         ],
@@ -411,13 +412,13 @@
         "descricao": "Inscrição de utilizadores de unidades de saúde privadas ou de caráter social. Inicia com a manifestação do interesse ou necessidade de utilização de uma unidade de saúde e termina com o fim do interesse ou necessidade. Inclui identificação de utilizador, verificação do sistema de apoio à doença utilizado e registo de dados.",
         "notasAp": [
             {
-                "idNota": "nota_700.10.004_ca4654ec7919",
+                "idNota": "nota_700.10.004_f0f80d0239b7",
                 "nota": "Atualização de dados para registo"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700.10.004_f0acf1b07a65",
+                "idNota": "nota_700.10.004_90243ced7942",
                 "nota": "O registo nacional de utente de saúde deve ser considerado em “Prestação de serviços de identificação e registo / Registo de dados de identificação e caracterização de entidades ou atos” (400.10)"
             }
         ],
@@ -431,7 +432,8 @@
             "INSA",
             "SMT",
             "HH",
-            "IEFP"
+            "IEFP",
+            "IES"
         ],
         "participantes": [
             {
@@ -518,17 +520,17 @@
         "descricao": "A identificação dos trabalhadores expostos a agentes biológicos perigosos, com a indicação da natureza e, se possível, do agente e do grau de exposição. Inicia com a inscrição do trabalhador e termina com o registo exposição a agentes biológicos. Inclui os resultados da vigilância da saúde de cada trabalhador com referência ao respetivo posto de trabalho ou função e o registo de acidentes ou incidentes. ",
         "notasAp": [
             {
-                "idNota": "nota_700.10.005_d09afd9bc898",
+                "idNota": "nota_700.10.005_0aa4d7531ee4",
                 "nota": "Registos efetuados por entidades empregadoras que tenham trabalhadores que possam estar expostos a agentes suscetíveis de implicar riscos para o património genético"
             },
             {
-                "idNota": "nota_700.10.005_6ac9a6a21a0f",
+                "idNota": "nota_700.10.005_e564df1e5a3f",
                 "nota": "Referenciação de trabalhadores que lidam com materiais insalubres e com agentes biológicos nocivos"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700.10.005_1ed6a9fa6a3f",
+                "idNota": "nota_700.10.005_48d2c5106cbe",
                 "nota": "O registo nacional de utente de saúde deve ser considerado em “Prestação de serviços de identificação e registo / Registo de dados de identificação e caracterização de entidades ou atos” (400.10)"
             }
         ],
@@ -541,116 +543,91 @@
         ],
         "participantes": [
             {
-                "id": "AP",
-                "interv": "Iniciar"
+                "id": "AP"
             },
             {
-                "id": "AL",
-                "interv": "Iniciar"
+                "id": "AL"
             },
             {
-                "id": "UPCS",
-                "interv": "Assessorar"
+                "id": "UPCS"
             },
             {
-                "id": "ICNF",
-                "interv": "Iniciar"
+                "id": "ICNF"
             },
             {
-                "id": "DGRM",
-                "interv": "Iniciar"
+                "id": "DGRM"
             },
             {
-                "id": "DGAV",
-                "interv": "Iniciar"
+                "id": "DGAV"
             },
             {
-                "id": "IVV",
-                "interv": "Iniciar"
+                "id": "IVV"
             },
             {
-                "id": "IVDP",
-                "interv": "Iniciar"
+                "id": "IVDP"
             },
             {
-                "id": "DRAP",
-                "interv": "Iniciar"
+                "id": "DRAP"
             },
             {
-                "id": "ACT",
-                "interv": "Iniciar"
+                "id": "ACT"
             },
             {
-                "id": "CASES",
-                "interv": "Iniciar"
+                "id": "CASES"
             },
             {
-                "id": "CITE",
-                "interv": "Iniciar"
+                "id": "CITE"
             },
             {
-                "id": "CNPDPCJ",
-                "interv": "Iniciar"
+                "id": "CNPDPCJ"
             },
             {
-                "id": "CPL",
-                "interv": "Iniciar"
+                "id": "CPL"
             },
             {
-                "id": "CRL",
-                "interv": "Iniciar"
+                "id": "CRL"
             },
             {
-                "id": "DGERT",
-                "interv": "Iniciar"
+                "id": "DGERT"
             },
             {
-                "id": "DGSS",
-                "interv": "Iniciar"
+                "id": "DGSS"
             },
             {
-                "id": "GEP",
-                "interv": "Iniciar"
+                "id": "GEP"
             },
             {
-                "id": "IEFP",
-                "interv": "Iniciar"
+                "id": "IEFP"
             },
             {
-                "id": "IGMTSSS",
-                "interv": "Iniciar"
+                "id": "IGMTSSS"
             },
             {
-                "id": "IGFCSS",
-                "interv": "Iniciar"
+                "id": "IGFCSS"
             },
             {
-                "id": "IGFSS",
-                "interv": "Iniciar"
+                "id": "IGFSS"
             },
             {
-                "id": "II",
-                "interv": "Iniciar"
+                "id": "II"
             },
             {
-                "id": "INR",
-                "interv": "Iniciar"
+                "id": "INR"
             },
             {
-                "id": "ISS",
-                "interv": "Iniciar"
+                "id": "ISS"
             },
             {
-                "id": "OIT",
-                "interv": "Iniciar"
+                "id": "OIT"
             },
             {
-                "id": "POISE",
-                "interv": "Iniciar"
+                "id": "POISE"
             },
             {
-                "id": "SGMTSSS",
-                "interv": "Iniciar"
+                "id": "SGMTSSS"
+            },
+            {
+                "id": "IES"
             }
         ],
         "legislacao": [
@@ -706,23 +683,23 @@
         "descricao": "Inscrição de dados relativos à prestação de cuidados de saúde a utentes, relevantes para o conhecimento do seu quadro clínico. Inicia com o registo da inscrição do utente e termina com a informação relativa ao seu óbito. Inclui integração de informação clínica, resumo médico com os dados clínicos mais importantes relativos aos medicamentos prescritos, às diferentes intervenções clínicas e cirúrgicas, bem como aos meios complementares de diagnóstico e terapêutica. ",
         "notasAp": [
             {
-                "idNota": "nota_700.10.006_5df0bd34781a",
+                "idNota": "nota_700.10.006_84dfb62724cb",
                 "nota": "Registo da prestação de cuidados de saúde por parte de entidades públicas e privadas"
             }
         ],
         "exemplosNotasAp": [
             {
-                "idExemplo": "exemplo_700.10.006_2942b6d2a6af",
+                "idExemplo": "exemplo_700.10.006_67c991db6017",
                 "exemplo": "EpSOS european patient smart onpen service"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700.10.006_be94914eb56d",
+                "idNota": "nota_700.10.006_9ddb9c54ce1b",
                 "nota": "O registo de utentes no serviço nacional de saúde deve ser considerado em 400.10.040 – Registo nacional de utentes"
             },
             {
-                "idNota": "nota_700.10.006_a5fcdc783b69",
+                "idNota": "nota_700.10.006_93384c3b96e0",
                 "nota": "O registo de utentes em unidades de saúde deve ser considerado em 700.10.004 – Registo de utilizadores de unidades de saúde"
             }
         ],
@@ -733,7 +710,8 @@
         "donos": [
             "UPCS",
             "HH",
-            "AL"
+            "AL",
+            "IES"
         ],
         "participantes": [
             {
@@ -818,13 +796,13 @@
         "descricao": "Inscrição de animais em hospitais e clínicas veterinárias. Inicia com a manifestação do interesse ou necessidade de utilização de uma unidade de saúde veterinária e termina com o fim do interesse ou necessidade. Inclui identificação do animal e registo de dados.",
         "notasAp": [
             {
-                "idNota": "nota_700.10.500_36beb434efb3",
+                "idNota": "nota_700.10.500_6445d47147a4",
                 "nota": "Atualização dos dados de registo"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700.10.500_ca200e352b62",
+                "idNota": "nota_700.10.500_5899317e2617",
                 "nota": "O registo de animais deve ser considerado em 400.10.400 – Registo animal e material vegetal"
             }
         ],
@@ -835,7 +813,8 @@
         "donos": [
             "AL",
             "GNR",
-            "PSP"
+            "PSP",
+            "IES"
         ],
         "processosRelacionados": [
             "150.20.300",
@@ -884,11 +863,11 @@
         "descricao": "Inscrição de animais para consultas e e outros cuidados de saúde. Inicia com a inscrição e temina com a notificação do agendamento do cuidado de saúde pretendido. Inclui identificação do animal, avaliação clínica da necessidade da consulta, verificação de disponibilidade e marcação de consulta. ",
         "notasEx": [
             {
-                "idNota": "nota_700.10.501_40da550e03ee",
+                "idNota": "nota_700.10.501_ec2e3faa3a77",
                 "nota": "A prestação de cuidados veterinários deve ser considerada em 700.20.800 – Prestação de cuidados curativos veterinários"
             },
             {
-                "idNota": "nota_700.10.501_115b93d236ba",
+                "idNota": "nota_700.10.501_f8391fa1604f",
                 "nota": "A vacinação de animais deve ser considerada em 700.20.700 – Vacinação de animais"
             }
         ],
@@ -899,7 +878,8 @@
         "donos": [
             "AL",
             "GNR",
-            "PSP"
+            "PSP",
+            "IES"
         ],
         "legislacao": [
             "DL_433_82"
@@ -955,21 +935,21 @@
         "descricao": "Compreende as atividades relacionadas com o diagnóstico, o tratamento, a reabilitação e o acompanhamento clínico do doente, no quadro da prestação de cuidados de saúde primários, secundários ou terciários. Compreende, igualmente, os atos clínicos de caráter preventivo (consultas, rastreio, vacinação), bem como as dádivas de sangue e as colheitas de órgãos, tecidos e células.",
         "notasAp": [
             {
-                "idNota": "nota_700.20_4cc61634fb6a",
+                "idNota": "nota_700.20_aa885d7f5a65",
                 "nota": "Inclui os atos clínicos realizados em contexto de emergência médica pré-hospitalar ou de urgência hospitalar, em regime de internamento ou de ambulatório"
             },
             {
-                "idNota": "nota_700.20_418da1809b60",
+                "idNota": "nota_700.20_77f380afff79",
                 "nota": "Eventuais atos clínicos praticados fora das instituições de saúde (locais de trabalho, escolas, prisões, entre outros)"
             },
             {
-                "idNota": "nota_700.20_a0a7a94933a7",
+                "idNota": "nota_700.20_6a504cdfd6d5",
                 "nota": "Aplica-se não apenas aos atos médicos e de enfermagem, mas também aos realizados por outros profissionais de saúde quando intervenham no diagnóstico, tratamento e reabilitação de doentes"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700.20_f6188c73e1fb",
+                "idNota": "nota_700.20_0784e2fddf37",
                 "nota": "A intervenção médica em processos de avaliação e certificação de saúde ou incapacidade (por exemplo, juntas médicas para declaração de incapacidade, certificados médicos para pilotos e controladores de tráfego aéreo, entre outros) deve ser considerada em \\\"Reconhecimentos e permissões/ Emissão de comprovativos de factos ou atos\\\" (450.30)"
             }
         ]
@@ -979,28 +959,28 @@
         "nivel": 3,
         "estado": "A",
         "titulo": "Imunização",
-        "descricao": "Prestação de cuidados de prevenção de saúde primária através de ações pelas quais se confere imunidade recorrendo a meios artificiais para prevenir doenças. Inicia com o pedido ou com a verificação da necessidade de vacina e termina com a administração da mesma. Inclui consulta do Plano Nacional de Vacinação, verificação das vacinas em falta ou necessárias e registo da imunização administrada.",
+        "descricao": "Prestação de cuidados de prevenção de saúde primária através de ações pelas quais se confere imunidade recorrendo a meios artificiais para prevenir doenças. Inicia com o pedido ou com a verificação da necessidade de vacina e termina com a administração da mesma. Inclui declaração de consentimento quando aplicável, consulta do Plano Nacional de Vacinação, verificação das vacinas em falta ou necessárias e registo da imunização administrada.",
         "notasAp": [
             {
-                "idNota": "nota_700.20.001_590cd912750b",
+                "idNota": "nota_700.20.001_6720345f9d44",
                 "nota": "Administração de vacinas contempladas no Plano Nacional de Vacinação"
             },
             {
-                "idNota": "nota_700.20.001_52471a5cadcc",
+                "idNota": "nota_700.20.001_7aa50a4b3afb",
                 "nota": "Administração de vacinas a imunodeprimidos"
             },
             {
-                "idNota": "nota_700.20.001_d7882619e1d8",
+                "idNota": "nota_700.20.001_7e3d4932bf5c",
                 "nota": "Administração de vacinas a profissionais de risco"
             },
             {
-                "idNota": "nota_700.20.001_4c5e85197d1b",
+                "idNota": "nota_700.20.001_1d6d4ae97bf6",
                 "nota": "Administração de vacinas a viajantes para áreas endémicas ou outras"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700.20.001_46e69702994b",
+                "idNota": "nota_700.20.001_6a358d17e443",
                 "nota": "A elaboração do Plano Nacional de Vacinação deve ser considerada em 150.10.100 – Definição de políticas setoriais"
             }
         ],
@@ -1012,7 +992,8 @@
             "AL",
             "HH",
             "UPCS",
-            "SMT"
+            "SMT",
+            "IES"
         ],
         "participantes": [
             {
@@ -1116,23 +1097,23 @@
         "descricao": "Prestação de cuidados de prevenção de saúde secundária praticados através de um conjunto de ações ou atividades de base comunitária e populacional programado em articulação com diversas autoridades de saúde e destinadas a detetar ou identificar precocemente doenças específicas junto de determinados grupos de população alvo. Inicia com a informação da realização do rastreio e termina com a avaliação do mesmo. Inclui declaração de consentimento, realização de testes de saúde, análise dos resultados e eventual encaminhamento para consulta.",
         "notasAp": [
             {
-                "idNota": "nota_700.20.100_c3e24bfab133",
+                "idNota": "nota_700.20.100_61237b3d310e",
                 "nota": "Todo o tipo de rastreios"
             },
             {
-                "idNota": "nota_700.20.100_dd01fc5cfd59",
+                "idNota": "nota_700.20.100_7fe26a4111a2",
                 "nota": "Programas de saúde de base comunitária e populacional"
             }
         ],
         "exemplosNotasAp": [
             {
-                "idExemplo": "exemplo_700.20.100_9b249a6a7b79",
+                "idExemplo": "exemplo_700.20.100_d36ee74a9470",
                 "exemplo": "Rastreio Covid-19"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700.20.100_99fa771fb333",
+                "idNota": "nota_700.20.100_cd94d85a6c1c",
                 "nota": "Os estudos epidemiológicos ou programas de controlo de qualidade/ganhos em saúde e os os Registos Oncológicos Regionais (ROR) devem ser considerados em 800.10.607 – Realização de ações de Observação em saúde e Vigilância Epidemiológica"
             }
         ],
@@ -1142,7 +1123,8 @@
         "procTrans": "S",
         "donos": [
             "UPCS",
-            "HH"
+            "HH",
+            "IES"
         ],
         "participantes": [
             {
@@ -1243,45 +1225,45 @@
         "descricao": "Cuidados de prevenção secundária de saúde através da realização de atos clínicos envolvendo os cidadãos no sentido de os consciencializar e responsabilizar pelas suas próprias escolhas em matéria de saúde e bem-estar. Inicia com o diagnóstico de necessidades de formação/informação em matéria de saúde e termina com a realização da ação de promoção. Inclui desenvolvimento de atos clínicos e orientação dos utentes em relação a matérias de saúde e bem-estar. ",
         "notasAp": [
             {
-                "idNota": "nota_700.20.101_901c58f591ec",
+                "idNota": "nota_700.20.101_6ddb3570031a",
                 "nota": "Projetos ou ações de promoção da saúde não integrados em Programas Nacionais"
             },
             {
-                "idNota": "nota_700.20.101_04079f9f20f7",
+                "idNota": "nota_700.20.101_5dc45dc2c406",
                 "nota": "Ações de sensibilização e educação para a saúde tais como nutrição de grávidas e idosos ou Dia da alimentação Férias em saúde"
             },
             {
-                "idNota": "nota_700.20.101_cfaa34bf027b",
+                "idNota": "nota_700.20.101_37d16afc258e",
                 "nota": "Ações de sensibilização para a parentalidade"
             },
             {
-                "idNota": "nota_700.20.101_5e343739ab64",
+                "idNota": "nota_700.20.101_c272305dd003",
                 "nota": "Ações de intervenção comunitária (tais como"
             },
             {
-                "idNota": "nota_700.20.101_5bfe2a931140",
+                "idNota": "nota_700.20.101_42ed9e294bba",
                 "nota": " centro de recuperação de jovens)"
             },
             {
-                "idNota": "nota_700.20.101_04d6b492fb42",
+                "idNota": "nota_700.20.101_c875d4be8bfd",
                 "nota": "Todas as campanhas de promoção da saúde que envolvam atos clínicos (exames médicos, vigilância de níveis, entre outros)"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700.20.101_62d8a1550162",
+                "idNota": "nota_700.20.101_6be26327d650",
                 "nota": "As ações integradas nos Programas nacionais do Plano nacional de Saúde devem ser consideradas em 150.10.200 – Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional"
             },
             {
-                "idNota": "nota_700.20.101_b27c76d6db97",
+                "idNota": "nota_700.20.101_07bb7241c341",
                 "nota": "Os Rastreios devem ser considerados em 700.20.100 – Rastreios"
             },
             {
-                "idNota": "nota_700.20.101_7129107b0d79",
+                "idNota": "nota_700.20.101_da5afc38bd1e",
                 "nota": "As campanhas baseadas em instrumentos de comunicação devem ser consideradas em 900.10.502 – Organização e participação em iniciativas de prevenção e sensibilização"
             },
             {
-                "idNota": "nota_700.20.101_e9146639d10b",
+                "idNota": "nota_700.20.101_138c30cb0e65",
                 "nota": "Os instrumentos promocionais das campanhas devem ser considerados em 900.20.002 – Criação de produtos e artigos promocionais"
             }
         ],
@@ -1392,23 +1374,23 @@
         "descricao": "Cuidados de prevenção secundária de saúde através da realização de atos de assistência médica no âmbito das competências profissionais do médico de saúde pública. Inicia com a intervenção das autoridades de saúde, sempre que instadas e/ou alertadas para situações potencialmente criticas de saúde pública e termina com relatório onde se elabora o diagnóstico e propõe medidas. Inclui ativação de meios de prevenção e relato de resultados.",
         "notasAp": [
             {
-                "idNota": "nota_700.20.102_70e373621238",
+                "idNota": "nota_700.20.102_8574ecb61e4b",
                 "nota": "Atividades das autoridades de saúde e coordenação do funcionamento global em rede dessas autoridades"
             },
             {
-                "idNota": "nota_700.20.102_6aa84e111f60",
+                "idNota": "nota_700.20.102_76a9d2ad3a46",
                 "nota": "Intervenção em situações de grave risco para a saúde pública"
             },
             {
-                "idNota": "nota_700.20.102_05c2d0e128dc",
+                "idNota": "nota_700.20.102_a6ddc8adb905",
                 "nota": "Limitação da realização de viagens, em especial para zonas com identificação de casos de doença, suspeitos ou confirmados, após a avaliação do risco potencial associado à sua realização"
             },
             {
-                "idNota": "nota_700.20.102_d36c4aae01d0",
+                "idNota": "nota_700.20.102_ec6da6ef7d8e",
                 "nota": "Encerramento de escolas, locais de trabalho, centros de dia ou outras instituições, após avaliação do risco potencial associado à sua manutenção em atividade"
             },
             {
-                "idNota": "nota_700.20.102_a5c8eb9463f7",
+                "idNota": "nota_700.20.102_8c3fff787eda",
                 "nota": "Adoção de ações de proteção aos agentes funerários e outros intervenientes nas atividades de remoção, transporte e inumação de cadáveres, em que a morte foi provocada pela crise pandémica, designadamente nas situações de excesso"
             }
         ],
@@ -1506,37 +1488,37 @@
         "descricao": "Prestação continuada de assistência médica e de cuidados de saúde por médico de medicina geral e familiar. Inicia com a realização de consulta e termina com a avaliação de resultados. Inclui elaboração de diagnóstico, aplicação de fármacos, registo dos atos médicos praticados e acompanhamento do utente.",
         "notasAp": [
             {
-                "idNota": "nota_700.20.200_f4568ae57745",
+                "idNota": "nota_700.20.200_ef36e8c52841",
                 "nota": "Acompanhamento clínico em ambiente prisional"
             },
             {
-                "idNota": "nota_700.20.200_ef4f6a2840e7",
+                "idNota": "nota_700.20.200_db31e0500e0c",
                 "nota": "Acompanhamento dos utentes da instituição nas entidades com serviços clínicos"
             },
             {
-                "idNota": "nota_700.20.200_9cd47f4344e1",
+                "idNota": "nota_700.20.200_340cd36c1b95",
                 "nota": "Acompanhamento de toxicodependentes"
             },
             {
-                "idNota": "nota_700.20.200_1cfcbca954e9",
+                "idNota": "nota_700.20.200_b258735608c4",
                 "nota": "Apoio domiciliário de saúde"
             },
             {
-                "idNota": "nota_700.20.200_68f250b38e9b",
+                "idNota": "nota_700.20.200_9178a4be3bda",
                 "nota": "Intervenção personalizada com envolvente familiar"
             },
             {
-                "idNota": "nota_700.20.200_dc3127d21088",
+                "idNota": "nota_700.20.200_ebabcd736240",
                 "nota": "Planeamento familiar"
             },
             {
-                "idNota": "nota_700.20.200_6c5edbda9ceb",
+                "idNota": "nota_700.20.200_e2ff077bcfda",
                 "nota": "Vigilância da saúde infantil"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700.20.200_561e52a44dd5",
+                "idNota": "nota_700.20.200_f6564c581e10",
                 "nota": "A certificação de incapacidade permanente, de doença profissional ou de acidente de trabalho deve ser considerada em 450.30.500 – Certificação de doença, aptidão ou incapacidade"
             }
         ],
@@ -1547,7 +1529,8 @@
         "donos": [
             "UPCS",
             "AL",
-            "IEFP"
+            "IEFP",
+            "IES"
         ],
         "participantes": [
             {
@@ -1663,25 +1646,25 @@
         "descricao": "Prestação de assistência médica a vítimas de acidente ou de doença súbita. Inicia com o pedido de assistência e termina com a estabilização do utente pela equipa de emergência médica ou com o encaminhamento do sinistrado para unidade de saúde adequada. Inclui registo sonoro do pedido e respetivo atendimento, eventual reencaminhamento da chamada, encaminhamento de meios de assistência médica e aplicação de cuidados médicos e de enfermagem adequados à situação.",
         "notasAp": [
             {
-                "idNota": "nota_700.20.300_54942fbf11bf",
+                "idNota": "nota_700.20.300_d77ff30c41b5",
                 "nota": "Centros de Orientação de Doentes Urgentes (CODU)"
             },
             {
-                "idNota": "nota_700.20.300_04530223c1ce",
+                "idNota": "nota_700.20.300_f892434e5ada",
                 "nota": "Apoio a traumáticos em situação de crise"
             },
             {
-                "idNota": "nota_700.20.300_50e694ccf1f7",
+                "idNota": "nota_700.20.300_8d03dc1b36e0",
                 "nota": "Atos praticados por pessoal médico e de enfermagem em atendimento telefónico"
             },
             {
-                "idNota": "nota_700.20.300_86956026efdb",
+                "idNota": "nota_700.20.300_99ea599afbcf",
                 "nota": "Informação e encaminhamento do Centro de Informação Antivenenos (CIAV)"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700.20.300_39e638d5ae7e",
+                "idNota": "nota_700.20.300_a5948e5537d8",
                 "nota": "O transporte de doentes e sinistrados que não envolva assistência médica deve ser considerado em 550.20.500 – Ação de proteção e socorro"
             }
         ],
@@ -1758,7 +1741,7 @@
             "eSucessorDe"
         ],
         "pca": {
-            "valores": 15,
+            "valores": "15",
             "formaContagem": "extincaoEntidade",
             "justificacao": [
                 {
@@ -1804,17 +1787,17 @@
         "descricao": "Acolhimento em unidade hospitalar para tratamento de episódio agudo ou acompanhamento de doença crónica. Inicia com o internamento numa unidade de especialidade Hospitalar e termina com a estabilização dos sintomas revelados, emitindo-se uma nota de alta hospitalar. Inclui o diagnóstico, prescrição e monitorização da evolução da doença. Inclui ainda, actos das várias especialidades clínicas e administração de fármacos hospitalares para doenças específicas. ",
         "notasAp": [
             {
-                "idNota": "nota_700.20.400_23ed8696e41c",
+                "idNota": "nota_700.20.400_a1fa1f0e165a",
                 "nota": "Internamento forense (doentes inimputáveis)"
             },
             {
-                "idNota": "nota_700.20.400_837f8be3f88e",
+                "idNota": "nota_700.20.400_f17d628834d7",
                 "nota": "Internamento compulsivo"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700.20.400_88736ff5a45e",
+                "idNota": "nota_700.20.400_5a8ed75a946f",
                 "nota": "Consultas pré-operatória e pós-operatória devem ser consideradas em 700.20.402 – Realização de consultas de especialidade"
             }
         ],
@@ -1938,25 +1921,25 @@
         "descricao": "Acolhimento em unidade hospitalar para realização de cirurgia ambulatória. Inicia após a consulta pré-operatória e termina com a emissão da alta hospitalar. Incluí todos os actos praticados no âmbito da atividade no hospital e o registo dos actos praticados no sistema de informação. ",
         "notasAp": [
             {
-                "idNota": "nota_700.20.401_d9a5671dd51b",
+                "idNota": "nota_700.20.401_4fc7437026d5",
                 "nota": "Cirurgias em que a admissão, intervenção cirúrgica e alta hospitalar para o domicílio ou para unidade não abrangida pelos serviços de saúde, não requerem que o doente pernoite no hospital"
             },
             {
-                "idNota": "nota_700.20.401_8852ef6e4f1a",
+                "idNota": "nota_700.20.401_9cc9dab792e3",
                 "nota": "Cedência de medicação a utentes em ambulatório"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700.20.401_0c7ba9d97763",
+                "idNota": "nota_700.20.401_1509f10305b0",
                 "nota": "Cirurgias realizadas em internamento devem ser consideradas em 700.20.400 - Internamento de doentes agudos e crónicos"
             },
             {
-                "idNota": "nota_700.20.401_6772fca8f2ae",
+                "idNota": "nota_700.20.401_633d6d56323b",
                 "nota": "Consultas pré-operatória e pós-operatória devem ser consideradas em 700.20.402 - Realização de consultas de especialidade"
             },
             {
-                "idNota": "nota_700.20.401_f08a53c09e4f",
+                "idNota": "nota_700.20.401_684ea30e8fc1",
                 "nota": "Os procedimentos relacionados com a gestão do Sistema Integrado de Gestão de Inscritos para Cirurgia (SIGIC) devem ser considerados em 700.10.003 – Referenciação de utentes para cirurgia"
             }
         ],
@@ -1965,7 +1948,8 @@
         "tipoProc": "PE",
         "procTrans": "S",
         "donos": [
-            "HH"
+            "HH",
+            "IES"
         ],
         "participantes": [
             {
@@ -2060,15 +2044,15 @@
         "descricao": "Cuidados de saúde que envolvem diagnóstico, prescrição e monitorização da evolução da doença realizada por especialidade médica. Inicia-se com a referenciação do médico dos cuidados de saúde primários (no médico de família ou no médico assistente, fora do Serviço Nacional de Saúde -SNS) ou por solicitação de médico de uma outra especialidade hospitalar para uma unidade de referência e termina com a alta da consulta de especialidade . Inclui o registo dos atos praticados no sistema de informação. ",
         "notasAp": [
             {
-                "idNota": "nota_700.20.402_f8cdbd317393",
+                "idNota": "nota_700.20.402_522726fed7f1",
                 "nota": "Consultas subsequentes, teleconsultas e consultas domiciliárias"
             },
             {
-                "idNota": "nota_700.20.402_7103302771ef",
+                "idNota": "nota_700.20.402_3b3bb33727c9",
                 "nota": "Consultas de medicina do trabalho"
             },
             {
-                "idNota": "nota_700.20.402_8473dc9b3458",
+                "idNota": "nota_700.20.402_eb51826d30bd",
                 "nota": "Consultas externas"
             }
         ],
@@ -2079,7 +2063,8 @@
         "donos": [
             "AL",
             "HH",
-            "SMT"
+            "SMT",
+            "IES"
         ],
         "participantes": [
             {
@@ -2183,7 +2168,8 @@
         "tipoProc": "PE",
         "procTrans": "S",
         "donos": [
-            "HH"
+            "HH",
+            "IES"
         ],
         "participantes": [
             {
@@ -2286,44 +2272,48 @@
         "descricao": "Intervenção terapêutica em ambiente hospitalar. Inicia com o encaminhamento do utente para as sessões e termina com a alta, ou seja, com o fim do episódio de tratamento em hospital de dia, tendo sido realizadas todas as sessões de hospital de dia prescritas. ",
         "notasAp": [
             {
-                "idNota": "nota_700.20.404_b4766365ef56",
+                "idNota": "nota_700.20.404_4becbf8c7613",
                 "nota": "Sessões de Quimioterapia"
             },
             {
-                "idNota": "nota_700.20.404_1a946adbb0ef",
+                "idNota": "nota_700.20.404_c897af346250",
                 "nota": "Sessões de Nefrologia (Hemodiálise)"
             },
             {
-                "idNota": "nota_700.20.404_1023d07de2d5",
+                "idNota": "nota_700.20.404_7ac67dc0d705",
                 "nota": "Sessões de Dermatologia"
             },
             {
-                "idNota": "nota_700.20.404_279f49ecd808",
+                "idNota": "nota_700.20.404_b80322d296ed",
                 "nota": "Sessões de Doenças Infeciosas"
             },
             {
-                "idNota": "nota_700.20.404_cf1cb26c6c65",
+                "idNota": "nota_700.20.404_b345984c8f4e",
                 "nota": "Sessões de Medicina da Dor"
             },
             {
-                "idNota": "nota_700.20.404_e38f7ee5376d",
+                "idNota": "nota_700.20.404_18154c5b006e",
                 "nota": "Sessões de Gastrenterologia"
             },
             {
-                "idNota": "nota_700.20.404_80cd82cf818b",
+                "idNota": "nota_700.20.404_09a4f9fb9288",
                 "nota": "Sessões de Imunoalergologia"
             },
             {
-                "idNota": "nota_700.20.404_d4cd9b0c13f3",
+                "idNota": "nota_700.20.404_6348ebcd1f97",
                 "nota": "Sessões de radioterapia"
             },
             {
-                "idNota": "nota_700.20.404_51245ed191b5",
+                "idNota": "nota_700.20.404_a808f588e8f5",
                 "nota": "Sessões de psiquiatria"
             },
             {
-                "idNota": "nota_700.20.404_3e30f50c9a03",
+                "idNota": "nota_700.20.404_5df2efa1d554",
                 "nota": "Sessões de Hematologia/ Imunohemoterapia"
+            },
+            {
+                "idNota": "nota_700.20.404_6a172cb574f9",
+                "nota": "Cuidados de saúde administrados em hospital de dia"
             }
         ],
         "dimensao": "Elevada",
@@ -2424,7 +2414,7 @@
         "descricao": "Cuidados de saúde hospitalares especializados prestados no estrangeiro que, por falta de meios técnicos ou humanos, não possam ser prestados em Portugal. Inicia com a assunção de que o país não dispõe de condições para tratar o doente e que o mesmo pode ser referenciado para outro país e termina com o regresso do utente ao país. Inclui os procedimentos específicos definidos na lei, nomeadamente, o relatório clínico, o parecer da Comissão de Assessoria Técnica e a decisão final da autoridade de saúde competente. ",
         "notasAp": [
             {
-                "idNota": "nota_700.20.405_47915917eb12",
+                "idNota": "nota_700.20.405_773975ed0a5f",
                 "nota": "Atos realizados no âmbito da assistência médica no estrangeiro, tendo por base convenções internacionais"
             }
         ],
@@ -2511,35 +2501,35 @@
         "descricao": "Exames laboratoriais e exames de imagiologia no âmbito de admissão direta. Atividades que concorrem para o apoio à realização do diagnóstico, tratamento e acompanhamento de doenças. Inicia com a requisição do exame e termina com a cessação da prestação de cuidados que lhe deu origem. Inclui todos os atos necessários ao tratamento.",
         "notasAp": [
             {
-                "idNota": "nota_700.20.406_e67c2e2f2227",
+                "idNota": "nota_700.20.406_259106c97737",
                 "nota": "Meios Complementares de Diagnóstico e Terapêutica realizados no âmbito de admissões diretas"
             }
         ],
         "exemplosNotasAp": [
             {
-                "idExemplo": "exemplo_700.20.406_c28ec3de1d3d",
+                "idExemplo": "exemplo_700.20.406_cbefedfeda59",
                 "exemplo": "Programas hospitalares de Hemodiálise"
             },
             {
-                "idExemplo": "exemplo_700.20.406_427001837443",
+                "idExemplo": "exemplo_700.20.406_690b6b364f25",
                 "exemplo": "Programas hospitalares de Saúde Sexual e Reprodutiva"
             },
             {
-                "idExemplo": "exemplo_700.20.406_32e19a931090",
+                "idExemplo": "exemplo_700.20.406_28484c9c3a6f",
                 "exemplo": ",Programas hospitalares de Próteses"
             },
             {
-                "idExemplo": "exemplo_700.20.406_7121f9ebcd2f",
+                "idExemplo": "exemplo_700.20.406_524d95183518",
                 "exemplo": "Programas hospitalares de VIH"
             },
             {
-                "idExemplo": "exemplo_700.20.406_722ef1cc649c",
+                "idExemplo": "exemplo_700.20.406_d79c9e36d064",
                 "exemplo": "Programas hospitalares de Esclerose Multipla"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700.20.406_4e3e3143d1d7",
+                "idNota": "nota_700.20.406_5bb7ac8f834a",
                 "nota": "Os exames realizados no âmbito de perícias devem ser considerados em 800.10.603 - Realização de perícias."
             }
         ],
@@ -2629,14 +2619,14 @@
         "nivel": 3,
         "estado": "A",
         "titulo": "Prestação de cuidados de reabilitação",
-        "descricao": "Internamento para utentes com necessidade de cuidados clínicos de reabilitação, em unidades específica e por um período de tempo inferior a trinta (30) dias articulado com Hospital. Inicia com o tratamento e supervisão clínica, continuada e intensiva na sequência de internamento hospitalar e termina preferencialmente com a recuperação global do utente e nota de alta. Inclui o diagnóstico e todos os atos necessários ao tratamento. ",
+        "descricao": "Internamento para utentes com necessidade de cuidados clínicos de reabilitação, em unidades específica articulado com a unidade de saúde. Inicia com o tratamento e supervisão clínica, continuada e intensiva na sequência de internamento hospitalar e termina preferencialmente com a recuperação global do utente e nota de alta. Inclui o diagnóstico e todos os atos necessários ao tratamento. ",
         "notasEx": [
             {
-                "idNota": "nota_700.20.407_0f60b23cc374",
+                "idNota": "nota_700.20.407_716a3059ff5e",
                 "nota": "Os cuidados continuados integrados devem ser considerados em 700.20.500 – Prestação de cuidados continuados integrados"
             },
             {
-                "idNota": "nota_700.20.407_c9c4e2d1ee92",
+                "idNota": "nota_700.20.407_238e54954ac9",
                 "nota": "Os cuidados paliativos deve ser considerados em 700.20.600 – Prestação de cuidados paliativos"
             }
         ],
@@ -2787,7 +2777,7 @@
         "descricao": "Cuidados de saúde prestados a doentes em unidades de internamento de carácter temporário para prestar apoio social e cuidados de saúde de manutenção a pessoas que previnam ou retardem o agravamento da situação de dependência, favorecendo o conforto e a qualidade. Inicia com o internamento e termina com a alta e a recuperação global do utente. Inclui, o diagnóstico e definição das diferentes patologias, a identificação de deficiências e incapacidades existentes, a definição do prognóstico e avaliação do potencial de reabilitação, o planeamento e prescrição do tratamento. ",
         "notasEx": [
             {
-                "idNota": "nota_700.20.500_fcf7583b8725",
+                "idNota": "nota_700.20.500_86177d207dc8",
                 "nota": "Os cuidados de reabilitação devem ser considerados em 700.20.407 – Prestação de cuidados de reabilitação."
             }
         ],
@@ -2897,11 +2887,11 @@
         "descricao": "Prestação de cuidados de saúde especializados dirigidos a pessoas com doenças incuráveis em fase avançada e/ou terminal, com intenção de melhorar a qualidade de vida dos doentes e suas famílias através do alívio do sofrimento decorrente dos sintomas físicos, mas também de problemas psicológicos, sociais e espirituais. Inicia com a referenciação à unidade e termina quando a equipa finaliza o acompanhamento. Inclui o diagnóstico e todos os atos necessários ao tratamento. ",
         "notasAp": [
             {
-                "idNota": "nota_700.20.600_e5a27d686554",
+                "idNota": "nota_700.20.600_f48ced7f6260",
                 "nota": "Situações de internamento nas unidades hospitalares específicas"
             },
             {
-                "idNota": "nota_700.20.600_32058d0827bc",
+                "idNota": "nota_700.20.600_c7eaeb6dbad7",
                 "nota": "Situações de internamento nas unidades da rede de cuidados continuados integrados e abrange, sempre que for entendido necessário, o apoio domiciliário e o apoio à família"
             }
         ],
@@ -3009,19 +2999,19 @@
         "descricao": "Cuidados de prevenção primária de saúde praticados em espécies animais ao longo da sua vida com o objetivo de imunização. Inicia com o pedido ou com a verificação da necessidade de vacina e termina com a administração da mesma. Inclui verificação das vacinas em falta ou necessárias e registo da vacina administrada.",
         "notasAp": [
             {
-                "idNota": "nota_700.20.700_dd38eafff98e",
+                "idNota": "nota_700.20.700_49b0458476ad",
                 "nota": "Vacinação de animais em Centros de Recuperação de Animais Selvagens não abertos ao público"
             },
             {
-                "idNota": "nota_700.20.700_998c48d727b0",
+                "idNota": "nota_700.20.700_eea294ff9215",
                 "nota": "Vacinação de animais domésticos ou de companhia"
             },
             {
-                "idNota": "nota_700.20.700_670b3df032fd",
+                "idNota": "nota_700.20.700_1f66e043bef8",
                 "nota": "Vacinação de animais de exploração pecuária"
             },
             {
-                "idNota": "nota_700.20.700_f19768937d07",
+                "idNota": "nota_700.20.700_ebbd70bb9b34",
                 "nota": "Vacinação de animais selvagens em cativeiro"
             }
         ],
@@ -3033,7 +3023,8 @@
             "AL",
             "GNR",
             "PSP",
-            "DGAV"
+            "DGAV",
+            "IES"
         ],
         "participantes": [
             {
@@ -3122,21 +3113,21 @@
         "descricao": "Aplicação compulsiva de medidas de caráter sanitário a animais suspeitos de serem portadores de zoonoses. Inicia com o pedido de sequestro e termina com a morte natural do animal ou com o envio para adoção, restituição ou eutanásia. Inclui notificação às entidades competentes e ao proprietário, recolha do animal ou, em alternativa, sequestro sanitário domiciliário, quarentena sob vigilância veterinária, elaboração de informação sobre o estado de saúde do animal, comprovativo do pagamento de taxas, quando devido, e articulação com o laboratório competente para isolamento do agente patogénico, em caso de morte do animal.",
         "notasAp": [
             {
-                "idNota": "nota_700.20.701_c820f0050480",
+                "idNota": "nota_700.20.701_27cd7c4b8e6b",
                 "nota": "Recolha de animais vadios com suspeita de raiva ou com doença terminal"
             },
             {
-                "idNota": "nota_700.20.701_329afa8fcb9a",
+                "idNota": "nota_700.20.701_aa22380cdb87",
                 "nota": "Recolha de animais com dono com suspeita de raiva ou com doença terminal"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700.20.701_dd482f7fb032",
+                "idNota": "nota_700.20.701_d2d0bb0c4390",
                 "nota": "O abate ou occisão de animais devem ser considerados em 700.20.901 – Occisão ou eutanásia de animais"
             },
             {
-                "idNota": "nota_700.20.701_ef0a9d2a8df9",
+                "idNota": "nota_700.20.701_ff30b645f66d",
                 "nota": "A incineração ou outra forma adequada de destruição de cadáveres de animais devem ser consideradas em 710.10.002 – Recolha de resíduos"
             }
         ],
@@ -3231,13 +3222,13 @@
         "descricao": "Cuidados de saúde animal praticados por veterinário. Inicia com a identificação da necessidade de intervenção e termina com a eliminação ou atenuação do problema. Inclui elaboração de diagnóstico, aplicação de fármacos, intervenção cirúrgica, registo de ato médico veterinário praticado e acompanhamento do animal.",
         "notasAp": [
             {
-                "idNota": "nota_700.20.800_6395d595c895",
+                "idNota": "nota_700.20.800_f1beab8595c5",
                 "nota": "Prestação de cuidados curativos a todas as espécies animais"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_700.20.800_06e27faeb081",
+                "idNota": "nota_700.20.800_4cef7be251bc",
                 "nota": "A implantação de micro-chips para identificação do animal deve ser considerada em 400.10.400 - Registo animal e material vegetal."
             }
         ],
@@ -3248,7 +3239,8 @@
         "donos": [
             "AL",
             "GNR",
-            "PSP"
+            "PSP",
+            "IES"
         ],
         "participantes": [
             {
@@ -3334,11 +3326,11 @@
         "descricao": "Abreviamento da vida de um animal enfermo incurável em sofrimento, de maneira controlada e assistida, por um especialista. Inicia com a solicitação ou decisão de eutanásia e termina com a morte do animal. Inclui diagnóstico, recolha domiciliária de animais com doença terminal.",
         "notasAp": [
             {
-                "idNota": "nota_700.20.901_b8715aca9650",
+                "idNota": "nota_700.20.901_7ed679fb0f45",
                 "nota": "Eutanásia a animais alojados em canis e gatis"
             },
             {
-                "idNota": "nota_700.20.901_a8f949973994",
+                "idNota": "nota_700.20.901_6d79a5da6dcd",
                 "nota": "Eutanásia a animais externos enfermos, incuráveis e em sofrimento, que solicitem a intervenção de veterinário"
             }
         ],
@@ -3351,7 +3343,8 @@
             "GNR",
             "PSP",
             "DGAV",
-            "INIAV"
+            "INIAV",
+            "IES"
         ],
         "participantes": [
             {

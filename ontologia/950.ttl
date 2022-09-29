@@ -8,13 +8,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :lc1 ;
 	:descricao 'Relativo à realização processos eleitorais para escolha dos representantes dos cidadãos (sufrágio universal), à realização de processos referendários, ao processamento de outros atos de participação dos cidadãos na gestão de assuntos públicos e, ainda, à atribuição de distinções honoríficas.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_950_04353037519e
-:nota_950_04353037519e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950_be6467f11152
+:nota_950_be6467f11152 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A audição pública no âmbito de um determinado processo, deve ser considerada junto do processo respetivo - por exemplo, a audição pública no âmbito da elaboração de uma lei ou regulamento deve ser considerada em \"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\" (100.10)".
 
-:c950 :temNotaExclusao :nota_950_04353037519e .
+:c950 :temNotaExclusao :nota_950_be6467f11152 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c950.10
@@ -26,37 +26,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c950 ;
 	:descricao 'Compreende as atividades de organização dos processos de sufrágio universal (nacional, regional e local) para eleições e para referendos, bem como o respetivo apuramento, transmissão e difusão de resultados.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10_add2dd9db48c
-:nota_950.10_add2dd9db48c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10_a2623fb7da71
+:nota_950.10_a2623fb7da71 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Expediente administrativo produzido no âmbito da organização dos processos eleitoral e referendário".
 
-:c950.10 :temNotaAplicacao :nota_950.10_add2dd9db48c .
+:c950.10 :temNotaAplicacao :nota_950.10_a2623fb7da71 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10_705d89bae02a
-:nota_950.10_705d89bae02a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10_f32a8f2462ef
+:nota_950.10_f32a8f2462ef rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A eleição para estruturas internas de serviços públicos (por exemplo, para órgãos de administração e gestão de escolas, para Conselhos, Comissões ou outros) deve ser considerada em \"Administração de relações de trabalho/ Estabelecimento e cessação de relações de trabalho\" (250.10)".
 
-:c950.10 :temNotaExclusao :nota_950.10_705d89bae02a .
+:c950.10 :temNotaExclusao :nota_950.10_f32a8f2462ef .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10_64c44916f9b4
-:nota_950.10_64c44916f9b4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10_20601eb29dd5
+:nota_950.10_20601eb29dd5 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O registo de cidadãos eleitores e o registo de eleitos devem ser considerados em \"Prestação de serviços de identificação e registo/ Registo de dados de identificação e caracterização de entidades ou atos\" (400.10)".
 
-:c950.10 :temNotaExclusao :nota_950.10_64c44916f9b4 .
+:c950.10 :temNotaExclusao :nota_950.10_20601eb29dd5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10_6ae7a00518c7
-:nota_950.10_6ae7a00518c7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10_0fdf51a27052
+:nota_950.10_0fdf51a27052 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os processos de atualização do recenseamento eleitoral, incluindo o processamento de pedidos de atualização de dados individuais, devem ser considerados em \"Prestação de serviços de identificação e registo/ Registo de dados de identificação e caracterização de entidades ou atos\" (400.10)".
 
-:c950.10 :temNotaExclusao :nota_950.10_6ae7a00518c7 .
+:c950.10 :temNotaExclusao :nota_950.10_0fdf51a27052 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c950.10.001
@@ -68,45 +68,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c950.10 ;
 	:descricao 'Definição de data para a realização de atos eleitorais e referendários. Inicia com a apresentação da proposta de data e termina com a publicação da decisão. Inclui consulta de entidades, decisão e comunicação da data.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.001_0070e5f87c6b
-:nota_950.10.001_0070e5f87c6b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.001_e0070acb9d0d
+:nota_950.10.001_e0070acb9d0d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Referendos nacionais, regionais e locais".
 
-:c950.10.001 :temNotaAplicacao :nota_950.10.001_0070e5f87c6b .
+:c950.10.001 :temNotaAplicacao :nota_950.10.001_e0070acb9d0d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.001_0a1350875550
-:nota_950.10.001_0a1350875550 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.001_01532fec1a28
+:nota_950.10.001_01532fec1a28 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Eleições legislativas".
 
-:c950.10.001 :temNotaAplicacao :nota_950.10.001_0a1350875550 .
+:c950.10.001 :temNotaAplicacao :nota_950.10.001_01532fec1a28 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.001_24bd3bc473f9
-:nota_950.10.001_24bd3bc473f9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.001_6c04a96bf521
+:nota_950.10.001_6c04a96bf521 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Eleições para a presidência da república".
 
-:c950.10.001 :temNotaAplicacao :nota_950.10.001_24bd3bc473f9 .
+:c950.10.001 :temNotaAplicacao :nota_950.10.001_6c04a96bf521 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.001_48d722473213
-:nota_950.10.001_48d722473213 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.001_b733a75cfb75
+:nota_950.10.001_b733a75cfb75 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Eleições regionais e autárquicas".
 
-:c950.10.001 :temNotaAplicacao :nota_950.10.001_48d722473213 .
+:c950.10.001 :temNotaAplicacao :nota_950.10.001_b733a75cfb75 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.001_e9c1d59eef10
-:nota_950.10.001_e9c1d59eef10 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.001_58846f9feb94
+:nota_950.10.001_58846f9feb94 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Eleições dos orgãos de soberania, das regiões autónomas, do poder local e do Conselho das Comunidades Portuguesas".
 
-:c950.10.001 :temNotaAplicacao :nota_950.10.001_e9c1d59eef10 .
+:c950.10.001 :temNotaAplicacao :nota_950.10.001_58846f9feb94 .
 
 :c950.10.001 :processoTipoVC :vc_processoTipo_pe .
 :c950.10.001 :processoTransversal "S" .
@@ -173,13 +173,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c950.10 ;
 	:descricao 'Análise e aceitação de candidaturas apresentadas por partidos políticos, coligações eleitorais, candidaturas independentes e grupos de cidadãos. Inicia com a apresentação das candidaturas e termina com a publicitação das listas. Inclui verificação da legalidade e regularidade das candidaturas, notificação de aceitação ou de rejeição de candidaturas, reclamação da decisão e sorteio das listas apresentadas.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.200_82025559bb68
-:nota_950.10.200_82025559bb68 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.200_824180347cd6
+:nota_950.10.200_824180347cd6 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Situações de substituição e desistência de candidaturas e de candidatos".
 
-:c950.10.200 :temNotaAplicacao :nota_950.10.200_82025559bb68 .
+:c950.10.200 :temNotaAplicacao :nota_950.10.200_824180347cd6 .
 
 :c950.10.200 :processoTipoVC :vc_processoTipo_pe .
 :c950.10.200 :processoTransversal "S" .
@@ -285,29 +285,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c950.10 ;
 	:descricao 'Análise e aceitação de propostas de referendo. Inicia com a apresentação das iniciativas de proposta e termina com o envio da resolução para convocação de referendo. Inclui análise da proposta de referendo, consulta de entidades, notificação de interessados, discussão e votação, elaboração de projeto de resolução e decisão.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.201_4213daa18fb3
-:nota_950.10.201_4213daa18fb3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.201_0ded4c7b3018
+:nota_950.10.201_0ded4c7b3018 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Admissão de propostas para referendos nacionais, regionais e locais".
 
-:c950.10.201 :temNotaAplicacao :nota_950.10.201_4213daa18fb3 .
+:c950.10.201 :temNotaAplicacao :nota_950.10.201_0ded4c7b3018 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.201_eb5f8a52f9e0
-:nota_950.10.201_eb5f8a52f9e0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.201_c7a86f19e4e7
+:nota_950.10.201_c7a86f19e4e7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Propostas da iniciativa de deputados, de grupos parlamentares, do Governo ou de grupos de cidadãos eleitores".
 
-:c950.10.201 :temNotaAplicacao :nota_950.10.201_eb5f8a52f9e0 .
+:c950.10.201 :temNotaAplicacao :nota_950.10.201_c7a86f19e4e7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.201_130531a8c77f
-:nota_950.10.201_130531a8c77f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.201_8ada84210269
+:nota_950.10.201_8ada84210269 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A fiscalização preventiva das iniciativas de referendo, ou da verificação da sua constitucionalidade e legalidade, deve ser considerada em “Administração da justiça” (600.30)".
 
-:c950.10.201 :temNotaExclusao :nota_950.10.201_130531a8c77f .
+:c950.10.201 :temNotaExclusao :nota_950.10.201_8ada84210269 .
 
 :c950.10.201 :processoTipoVC :vc_processoTipo_pe .
 :c950.10.201 :processoTransversal "S" .
@@ -381,37 +381,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c950.10 ;
 	:descricao 'Organização, conceção e disponibilização de impressos, equipamentos e outros materiais necessários à realização dos atos eleitorais e referendários. Inicia com a definição do calendário eleitoral e referendário e termina com a entrega dos materiais a utilizar. Inclui definição do formato e da cor dos boletins de voto, organização dos cadernos de recenseamento eleitoral atendendo às mesas de voto, verificação do estado do material disponibilizado e comunicação dos procedimentos a observar.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.400_a676eabf094f
-:nota_950.10.400_a676eabf094f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.400_943df2b7b08e
+:nota_950.10.400_943df2b7b08e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Preparação e entrega de boletins de voto".
 
-:c950.10.400 :temNotaAplicacao :nota_950.10.400_a676eabf094f .
+:c950.10.400 :temNotaAplicacao :nota_950.10.400_943df2b7b08e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.400_355afeb60a3d
-:nota_950.10.400_355afeb60a3d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.400_83dae8fd87a8
+:nota_950.10.400_83dae8fd87a8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Preparação e entrega de cadernos de eleitorais".
 
-:c950.10.400 :temNotaAplicacao :nota_950.10.400_355afeb60a3d .
+:c950.10.400 :temNotaAplicacao :nota_950.10.400_83dae8fd87a8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.400_79ddbc681963
-:nota_950.10.400_79ddbc681963 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.400_8bdb374116a2
+:nota_950.10.400_8bdb374116a2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Preparação e entrega de manuais de procedimentos".
 
-:c950.10.400 :temNotaAplicacao :nota_950.10.400_79ddbc681963 .
+:c950.10.400 :temNotaAplicacao :nota_950.10.400_8bdb374116a2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.400_4b7d2b5b843f
-:nota_950.10.400_4b7d2b5b843f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.400_8d1bd508dc51
+:nota_950.10.400_8d1bd508dc51 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A elaboração gráfica dos manuais de procedimentos deverá ser considerada em 900.20.201 – Edição e publicação de conteúdos".
 
-:c950.10.400 :temNotaExclusao :nota_950.10.400_4b7d2b5b843f .
+:c950.10.400 :temNotaExclusao :nota_950.10.400_8d1bd508dc51 .
 
 :c950.10.400 :processoTipoVC :vc_processoTipo_pe .
 :c950.10.400 :processoTransversal "S" .
@@ -497,21 +497,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c950.10 ;
 	:descricao 'Composição das assembleias e mesas de voto. Inicia com a determinação do local de funcionamento da assembleia de voto e termina com a afixação do mapa definitivo das assembleias e secções de voto através de edital. Inclui determinação do número de secções de voto, escolha dos membros das mesas, designação e credenciação dos delegados das candidaturas concorrentes, afixação dos desdobramentos e anexações de secções de voto.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.401_3df8da502ffb
-:nota_950.10.401_3df8da502ffb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.401_6edd290cc954
+:nota_950.10.401_6edd290cc954 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Constituição das assembleias de voto".
 
-:c950.10.401 :temNotaAplicacao :nota_950.10.401_3df8da502ffb .
+:c950.10.401 :temNotaAplicacao :nota_950.10.401_6edd290cc954 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.401_91fa3acb6010
-:nota_950.10.401_91fa3acb6010 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.401_c857bf5f2e34
+:nota_950.10.401_c857bf5f2e34 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Constituição das mesas de voto".
 
-:c950.10.401 :temNotaAplicacao :nota_950.10.401_91fa3acb6010 .
+:c950.10.401 :temNotaAplicacao :nota_950.10.401_c857bf5f2e34 .
 
 :c950.10.401 :processoTipoVC :vc_processoTipo_pe .
 :c950.10.401 :processoTransversal "S" .
@@ -578,13 +578,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c950.10 ;
 	:descricao 'Determinação e concessão de meios necessários ao desenvolvimento das atividades de propaganda eleitoral. Inicia com a determinação dos espaços e meios reservados para a propaganda eleitoral e termina com o estabelecimento de prazos para a remoção dos materiais utilizados. Inclui estabelecimento e distribuição dos tempos reservados para o exercício do direito de antena, comunicação à entidade competente da publicação nos média de matérias respeitantes à campanha eleitoral, requisição de espaços e comunicação da sua disponibilização para ações de campanha eleitoral, estabelecimento de locais para afixação de materiais de propaganda eleitoral.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.402_ced60f7d18fd
-:nota_950.10.402_ced60f7d18fd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.402_5722a7effe82
+:nota_950.10.402_5722a7effe82 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de tempos de antena e relações com os partidos políticos, no âmbito do desenrolar dos processos eleitorais e referendários".
 
-:c950.10.402 :temNotaAplicacao :nota_950.10.402_ced60f7d18fd .
+:c950.10.402 :temNotaAplicacao :nota_950.10.402_5722a7effe82 .
 
 :c950.10.402 :processoTipoVC :vc_processoTipo_pe .
 :c950.10.402 :processoTransversal "S" .
@@ -638,13 +638,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c950.10 ;
 	:descricao 'Verificação do regular funcionamento das assembleias de voto e apuramento dos resultados nelas obtidos. Inicia com a declaração de abertura das assembleias e mesas de voto e termina com a entrega da documentação e comunicação dos resultados do escrutínio parcial à assembleia de apuramento geral. Inclui descarga nos cadernos eleitorais, contagem de votos antecipados, requisições de forças de segurança, quando necessário, receção de dúvidas, reclamações, protestos e contraprotestos relacionados com as operações eleitorais, contagem e devolução de boletins de voto não utilizados e inutilizados, contagem do número de votos introduzidos em urna, contagem e separação dos votos brancos, votos nulos e votos nas diferentes listas, envio dos votos nulos e votos sob protesto ou reclamação à assembleia de apuramento geral, elaboração das atas das operações de votação e apuramento e publicação em edital dos resultados do escrutínio parcial.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.600_12187542dffb
-:nota_950.10.600_12187542dffb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.600_949c0201d616
+:nota_950.10.600_949c0201d616 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atividade desenvolvida pela Assembleia de apuramento distrital de resultados".
 
-:c950.10.600 :temNotaAplicacao :nota_950.10.600_12187542dffb .
+:c950.10.600 :temNotaAplicacao :nota_950.10.600_949c0201d616 .
 
 :c950.10.600 :processoTipoVC :vc_processoTipo_pe .
 :c950.10.600 :processoTransversal "S" .
@@ -828,21 +828,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c950.10 ;
 	:descricao 'Verificação da contagem de votos e proclamação dos resultados obtidos em atos eleitorais e referendários. Inicia com a receção da documentação enviada pelas assembleias de apuramento parcial e termina com a proclamação e publicitação dos resultados finais. Inclui verificação do número total de eleitores inscritos e de votantes, verificação do número total de votos em branco e votos nulos, verificação dos números totais de votos obtidos por cada lista, distribuição dos mandatos pelas diversas listas, determinação dos candidatos eleitos por cada lista, decisão sobre as reclamações e protestos, elaboração da ata do apuramento geral, envio de exemplares da ata à entidade competente, elaboração do mapa dos resultados oficiais das eleições e o seu envio para publicação em Diário da República.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.602_611dcf9ca9fa
-:nota_950.10.602_611dcf9ca9fa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.602_373601e293fa
+:nota_950.10.602_373601e293fa rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Abertura e lançamento em urna dos votos dos emigrantes".
 
-:c950.10.602 :temNotaAplicacao :nota_950.10.602_611dcf9ca9fa .
+:c950.10.602 :temNotaAplicacao :nota_950.10.602_373601e293fa .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.602_4003cfebfa0f
-:nota_950.10.602_4003cfebfa0f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.10.602_68e7c4fc26f9
+:nota_950.10.602_68e7c4fc26f9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Assembleias de apuramento geral da votação dos emigrantes (círculo da Europa e fora da Europa)".
 
-:c950.10.602 :temNotaAplicacao :nota_950.10.602_4003cfebfa0f .
+:c950.10.602 :temNotaAplicacao :nota_950.10.602_68e7c4fc26f9 .
 
 :c950.10.602 :processoTipoVC :vc_processoTipo_pe .
 :c950.10.602 :processoTransversal "S" .
@@ -973,53 +973,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c950 ;
 	:descricao 'Compreende as atividades de processamento dos atos em que a sociedade toma a iniciativa de se manifestar espontaneamente relativamente a serviços, atos ou políticas públicas.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_6f00a52ba065
-:nota_950.20_6f00a52ba065 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_4ed924d42c57
+:nota_950.20_4ed924d42c57 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reclamações e queixas expressas no \"livro amarelo\" ou equivalente;".
 
-:c950.20 :temNotaAplicacao :nota_950.20_6f00a52ba065 .
+:c950.20 :temNotaAplicacao :nota_950.20_4ed924d42c57 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_e2c0cd30d3ed
-:nota_950.20_e2c0cd30d3ed rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_333364d64549
+:nota_950.20_333364d64549 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Opiniões expressas em \"livro de agradecimentos\";".
 
-:c950.20 :temNotaAplicacao :nota_950.20_e2c0cd30d3ed .
+:c950.20 :temNotaAplicacao :nota_950.20_333364d64549 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_07ff914cca3a
-:nota_950.20_07ff914cca3a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_c902f8482b58
+:nota_950.20_c902f8482b58 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Participações, petições, abaixo-assinados, sugestões ou interpelações de cidadãos individuais ou constituídos em entidades jurídicas.".
 
-:c950.20 :temNotaAplicacao :nota_950.20_07ff914cca3a .
+:c950.20 :temNotaAplicacao :nota_950.20_c902f8482b58 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_a3ccdcb39299
-:nota_950.20_a3ccdcb39299 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_89de0259b192
+:nota_950.20_89de0259b192 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As denúncias, notícias ou queixas de crime apresentadas aos órgãos de polícia criminal ou comunicadas ao Ministério Público devem ser consideradas em \"Administração da justiça/ Prevenção e investigação criminal\" (600.10)".
 
-:c950.20 :temNotaExclusao :nota_950.20_a3ccdcb39299 .
+:c950.20 :temNotaExclusao :nota_950.20_89de0259b192 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_079a59900896
-:nota_950.20_079a59900896 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_a607c7a93dbd
+:nota_950.20_a607c7a93dbd rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As reclamações que ocorram no quadro de um determinado procedimento administrativo devem ser consideradas no processo em causa (por exemplo, reclamação da avaliação do desempenho individual deve ser considerada em \"Administração de relações de trabalho/ Gestão de relações individuais de trabalho\" (250.20)".
 
-:c950.20 :temNotaExclusao :nota_950.20_079a59900896 .
+:c950.20 :temNotaExclusao :nota_950.20_a607c7a93dbd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_e2b5e0d5f064
-:nota_950.20_e2b5e0d5f064 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20_f0679d5bef24
+:nota_950.20_f0679d5bef24 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As iniciativas legislativas de grupos de cidadãos devem ser consideradas em \"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\" (100.10)".
 
-:c950.20 :temNotaExclusao :nota_950.20_e2b5e0d5f064 .
+:c950.20 :temNotaExclusao :nota_950.20_f0679d5bef24 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c950.20.001
@@ -1031,117 +1031,117 @@
 	:pertenceLC :lc1 ;
 	:temPai :c950.20 ;
 	:descricao 'Apreciação de exposições com vista à proteção de direitos ou interesses legítimos, resultantes de reivindicações, protestos ou sugestões, relativas ao funcionamento dos serviços, ou sobre as áreas de atuação de uma organização. Inicia com a receção da exposição e termina com resposta ao interessado, ou a sua publicitação. Inclui a análise da situação e a articulação com os serviços, para tentativa de resolução, ou proposta de resposta ao interessado. Pode incluir, quando aplicável, a apreciação em sede de mediação sem formalidade judicial, com intervenção de um provedor.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_a80f3fd51b57
-:nota_950.20.001_a80f3fd51b57 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_c07cdf22750c
+:nota_950.20.001_c07cdf22750c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reclamações".
 
-:c950.20.001 :temNotaAplicacao :nota_950.20.001_a80f3fd51b57 .
+:c950.20.001 :temNotaAplicacao :nota_950.20.001_c07cdf22750c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_58734ff624a0
-:nota_950.20.001_58734ff624a0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_cf001dbddc8d
+:nota_950.20.001_cf001dbddc8d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Recomendações emanadas do Provedor".
 
-:c950.20.001 :temNotaAplicacao :nota_950.20.001_58734ff624a0 .
+:c950.20.001 :temNotaAplicacao :nota_950.20.001_cf001dbddc8d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_326c0e630113
-:nota_950.20.001_326c0e630113 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_ea040f5dfe44
+:nota_950.20.001_ea040f5dfe44 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reinvindicações".
 
-:c950.20.001 :temNotaAplicacao :nota_950.20.001_326c0e630113 .
+:c950.20.001 :temNotaAplicacao :nota_950.20.001_ea040f5dfe44 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_5fdc2f7a811a
-:nota_950.20.001_5fdc2f7a811a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_e7886e7b031b
+:nota_950.20.001_e7886e7b031b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Sugestões".
 
-:c950.20.001 :temNotaAplicacao :nota_950.20.001_5fdc2f7a811a .
+:c950.20.001 :temNotaAplicacao :nota_950.20.001_e7886e7b031b .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.001_0a58f8372462
-:exemplo_950.20.001_0a58f8372462 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.001_0a203bb2bca4
+:exemplo_950.20.001_0a203bb2bca4 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Reclamações em Livro Amarelo".
 
-:c950.20.001 :temExemploNA :exemplo_950.20.001_0a58f8372462 .
+:c950.20.001 :temExemploNA :exemplo_950.20.001_0a203bb2bca4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.001_981693dcfe75
-:exemplo_950.20.001_981693dcfe75 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.001_18e9fc263926
+:exemplo_950.20.001_18e9fc263926 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Reclamações em Livro Vermelho".
 
-:c950.20.001 :temExemploNA :exemplo_950.20.001_981693dcfe75 .
+:c950.20.001 :temExemploNA :exemplo_950.20.001_18e9fc263926 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.001_95d45a6f6f4b
-:exemplo_950.20.001_95d45a6f6f4b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.001_c4fad673d795
+:exemplo_950.20.001_c4fad673d795 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Mediação por provedor do cliente".
 
-:c950.20.001 :temExemploNA :exemplo_950.20.001_95d45a6f6f4b .
+:c950.20.001 :temExemploNA :exemplo_950.20.001_c4fad673d795 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.001_fb69f20c2ac3
-:exemplo_950.20.001_fb69f20c2ac3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.001_a603d0364172
+:exemplo_950.20.001_a603d0364172 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Mediação por provedor do estudante".
 
-:c950.20.001 :temExemploNA :exemplo_950.20.001_fb69f20c2ac3 .
+:c950.20.001 :temExemploNA :exemplo_950.20.001_a603d0364172 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.001_ff76f3aab15a
-:exemplo_950.20.001_ff76f3aab15a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.001_1da6e3d28dc1
+:exemplo_950.20.001_1da6e3d28dc1 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Conciliação não judicial em área específica de prestação de serviços".
 
-:c950.20.001 :temExemploNA :exemplo_950.20.001_ff76f3aab15a .
+:c950.20.001 :temExemploNA :exemplo_950.20.001_1da6e3d28dc1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_eeeb57807ac0
-:nota_950.20.001_eeeb57807ac0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_7a062bb62180
+:nota_950.20.001_7a062bb62180 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os processos de conciliação e de mediação extra-judicial deverão ser considerados em 600.20 – Resolução alternativa de litígios".
 
-:c950.20.001 :temNotaExclusao :nota_950.20.001_eeeb57807ac0 .
+:c950.20.001 :temNotaExclusao :nota_950.20.001_7a062bb62180 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_9f6d17b6980c
-:nota_950.20.001_9f6d17b6980c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_dbffd5cc465d
+:nota_950.20.001_dbffd5cc465d rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As reclamações, protestos e contraprotestos relacionadas com os atos eleitorais devem ser consideradas em 950.10.602 – Apuramento geral dos resultados".
 
-:c950.20.001 :temNotaExclusao :nota_950.20.001_9f6d17b6980c .
+:c950.20.001 :temNotaExclusao :nota_950.20.001_dbffd5cc465d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_4e37b62df3d2
-:nota_950.20.001_4e37b62df3d2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_0d888cb1dced
+:nota_950.20.001_0d888cb1dced rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As reclamações efetuadas no âmbito de procedimentos concursais e em fase de audiência de interessados devem ser considerados no respetivo processo".
 
-:c950.20.001 :temNotaExclusao :nota_950.20.001_4e37b62df3d2 .
+:c950.20.001 :temNotaExclusao :nota_950.20.001_0d888cb1dced .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_a78ffc369d17
-:nota_950.20.001_a78ffc369d17 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_6d788bd3b209
+:nota_950.20.001_6d788bd3b209 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As reclamações efetuadas no âmbito de candidaturas devem ser considerados no respetivo processo".
 
-:c950.20.001 :temNotaExclusao :nota_950.20.001_a78ffc369d17 .
+:c950.20.001 :temNotaExclusao :nota_950.20.001_6d788bd3b209 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_e781dff98580
-:nota_950.20.001_e781dff98580 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.001_fdce35e7cd54
+:nota_950.20.001_fdce35e7cd54 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processamento de elogios deve ser considerado em 950.20.300 -  Processamento de mensagens de elogio e de agradecimento".
 
-:c950.20.001 :temNotaExclusao :nota_950.20.001_e781dff98580 .
+:c950.20.001 :temNotaExclusao :nota_950.20.001_fdce35e7cd54 .
 
 :c950.20.001 :processoTipoVC :vc_processoTipo_pc .
 :c950.20.001 :processoTransversal "S" .
@@ -1293,61 +1293,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c950.20 ;
 	:descricao 'Receção e tratamento de mensagens de elogios e de agradecimentos relativos ao funcionamento de serviços. Inicia com a receção do elogio ou agradecimento e termina, quando aplicável, com a resposta a esses mesmos elogios ou agradecimentos. Inclui a análise da situação exposta e respetiva comunicação interna.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.300_f3869ac96f69
-:nota_950.20.300_f3869ac96f69 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.300_3554c0baa0bf
+:nota_950.20.300_3554c0baa0bf rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Mensagens de elogio ou de agradecimento por serviços prestados".
 
-:c950.20.300 :temNotaAplicacao :nota_950.20.300_f3869ac96f69 .
+:c950.20.300 :temNotaAplicacao :nota_950.20.300_3554c0baa0bf .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.300_d91d644972ad
-:exemplo_950.20.300_d91d644972ad rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.300_c005f202897b
+:exemplo_950.20.300_c005f202897b rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Mensagens de elogio ou de agradecimento registadas em livro próprio".
 
-:c950.20.300 :temExemploNA :exemplo_950.20.300_d91d644972ad .
+:c950.20.300 :temExemploNA :exemplo_950.20.300_c005f202897b .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.300_f62185d1f8cd
-:exemplo_950.20.300_f62185d1f8cd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.20.300_472dd8fcd3e7
+:exemplo_950.20.300_472dd8fcd3e7 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Mensagens de elogio ou de agradecimento registadas em formulário próprio".
 
-:c950.20.300 :temExemploNA :exemplo_950.20.300_f62185d1f8cd .
+:c950.20.300 :temExemploNA :exemplo_950.20.300_472dd8fcd3e7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.300_ccc951167bda
-:nota_950.20.300_ccc951167bda rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.300_3bc54425b928
+:nota_950.20.300_3bc54425b928 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os louvores decorrentes do desempenho profissional devem ser considerados em 250.20.803 – Atribuição de prémios de desempenho, louvores ou medalhas".
 
-:c950.20.300 :temNotaExclusao :nota_950.20.300_ccc951167bda .
+:c950.20.300 :temNotaExclusao :nota_950.20.300_3bc54425b928 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.300_87fe6fd9daf9
-:nota_950.20.300_87fe6fd9daf9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.300_167c49dd77b1
+:nota_950.20.300_167c49dd77b1 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A entrega de condecorações e distinções deve ser consideradada em 900.20.601 - Organização de cerimónias protocolares".
 
-:c950.20.300 :temNotaExclusao :nota_950.20.300_87fe6fd9daf9 .
+:c950.20.300 :temNotaExclusao :nota_950.20.300_167c49dd77b1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.300_612b9d85c67b
-:nota_950.20.300_612b9d85c67b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.300_ff9ebf93ba36
+:nota_950.20.300_ff9ebf93ba36 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O tratamento de mensagens de cortesia deve ser considerado em 900.20.605 - Processamento de mensagens de cortesia".
 
-:c950.20.300 :temNotaExclusao :nota_950.20.300_612b9d85c67b .
+:c950.20.300 :temNotaExclusao :nota_950.20.300_ff9ebf93ba36 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.300_ed4596c14435
-:nota_950.20.300_ed4596c14435 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.300_79cf353eb79a
+:nota_950.20.300_79cf353eb79a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A seleção para atribuição de prémios de reconhecimento da prestação de atos cívicos ou para distinções honoríficas deve ser considerada em 950.30.001 – Reconhecimento por mérito e serviços prestados".
 
-:c950.20.300 :temNotaExclusao :nota_950.20.300_ed4596c14435 .
+:c950.20.300 :temNotaExclusao :nota_950.20.300_79cf353eb79a .
 
 :c950.20.300 :processoTipoVC :vc_processoTipo_pc .
 :c950.20.300 :processoTransversal "S" .
@@ -1480,13 +1480,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c950.20 ;
 	:descricao 'Receção e tratamento de avisos apresentados por pessoas ou entidades que pretendem a realização de reuniões, comícios, manifestações ou desfiles em lugares públicos ou abertos ao público. Inicia com a comunicação da data, hora e local das reuniões, manifestações e desfiles, e termina com a comunicação de concordância ou dos eventuais constrangimentos relativos à realização dessas ações. Inclui análise do pedido.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.600_52b42e01dc2c
-:nota_950.20.600_52b42e01dc2c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.20.600_502c3edcb0ce
+:nota_950.20.600_502c3edcb0ce rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os avisos relacionados com o exercício do direito de greve, reuniões e manifestações de trabalhadores deverão ser considerados em 250.30.300 – Ações coletivas de defesa e promoção de interesses sócio-profissionais".
 
-:c950.20.600 :temNotaExclusao :nota_950.20.600_52b42e01dc2c .
+:c950.20.600 :temNotaExclusao :nota_950.20.600_502c3edcb0ce .
 
 :c950.20.600 :processoTipoVC :vc_processoTipo_pc .
 :c950.20.600 :processoTransversal "S" .
@@ -1590,45 +1590,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c950 ;
 	:descricao 'Compreende as atividades relativas à seleção de pessoas ou outras entidades a distinguir e atribuição de condecorações, ordens honoríficas ou qualquer outra distinção ou recompensa atribuída a título honorífico.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.30_84bc202dfe73
-:nota_950.30_84bc202dfe73 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30_a0ea4ba1e87c
+:nota_950.30_a0ea4ba1e87c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Distinções honoríficas atribuídas a qualquer cidadão, a militares, a atletas, entre outros".
 
-:c950.30 :temNotaAplicacao :nota_950.30_84bc202dfe73 .
+:c950.30 :temNotaAplicacao :nota_950.30_a0ea4ba1e87c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.30_135766d29220
-:nota_950.30_135766d29220 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30_d0e7ed7e822c
+:nota_950.30_d0e7ed7e822c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As distinções atribuídas no âmbito do processo de avaliação do desempenho individual de trabalhador devem ser consideradas em \"Administração de relações de trabalho/ Gestão de relações individuais de trabalho\" (250.20)".
 
-:c950.30 :temNotaExclusao :nota_950.30_135766d29220 .
+:c950.30 :temNotaExclusao :nota_950.30_d0e7ed7e822c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.30_e746dfe28287
-:nota_950.30_e746dfe28287 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30_57fed62fea60
+:nota_950.30_57fed62fea60 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As distinções atribuídas a representantes de outros Estados ou entidades externas, enquanto atos de política externa, devem ser consideradas em \"Execução da política externa/ Projetos de execução da política externa\" (200.30)".
 
-:c950.30 :temNotaExclusao :nota_950.30_e746dfe28287 .
+:c950.30 :temNotaExclusao :nota_950.30_57fed62fea60 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.30_60a5e139aa92
-:nota_950.30_60a5e139aa92 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30_f58ab102b4ad
+:nota_950.30_f58ab102b4ad rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo " O mesmo se aplica a distinções atribuídas por outros países ou organismos internacionais a entidades públicas nacionais ou representantes do Estado português".
 
-:c950.30 :temNotaExclusao :nota_950.30_60a5e139aa92 .
+:c950.30 :temNotaExclusao :nota_950.30_f58ab102b4ad .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.30_c0f86e399926
-:nota_950.30_c0f86e399926 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30_ee2e28edf54e
+:nota_950.30_ee2e28edf54e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A organização de cerimónias deve ser considerada em \"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\" (900.10)".
 
-:c950.30 :temNotaExclusao :nota_950.30_c0f86e399926 .
+:c950.30 :temNotaExclusao :nota_950.30_ee2e28edf54e .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c950.30.001
@@ -1640,109 +1640,109 @@
 	:pertenceLC :lc1 ;
 	:temPai :c950.30 ;
 	:descricao 'Agraciamento a pessoas ou entidades que, por atividades, serviços ou atos inovadores, relevantes, notórios, perenes ou excecionais, de qualquer natureza, tenham contribuído para o bem da comunidade para o desenvolvimento ou divulgação de uma determinada área científica, do conhecimento, geográfica ou de atuação. Inicia com a identificação ou apresentação da proposta e termina com a atribuição do elemento distintivo. Inclui, quando necessário, a elaboração da nota biográfica, avaliação do mérito, aprovação da distinção e a informação ao agraciado, pode ainda incluir a publicitação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_860b90260688
-:nota_950.30.001_860b90260688 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_755940c16fc9
+:nota_950.30.001_755940c16fc9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de medalhas de serviços distintos e de mérito de segurança pública".
 
-:c950.30.001 :temNotaAplicacao :nota_950.30.001_860b90260688 .
+:c950.30.001 :temNotaAplicacao :nota_950.30.001_755940c16fc9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_462f1c327f1d
-:nota_950.30.001_462f1c327f1d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_6c4feab1b0fb
+:nota_950.30.001_6c4feab1b0fb rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de medalha comemorativa".
 
-:c950.30.001 :temNotaAplicacao :nota_950.30.001_462f1c327f1d .
+:c950.30.001 :temNotaAplicacao :nota_950.30.001_6c4feab1b0fb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_5bd73e62e39e
-:nota_950.30.001_5bd73e62e39e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_a79bd6f4e893
+:nota_950.30.001_a79bd6f4e893 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de medalha".
 
-:c950.30.001 :temNotaAplicacao :nota_950.30.001_5bd73e62e39e .
+:c950.30.001 :temNotaAplicacao :nota_950.30.001_a79bd6f4e893 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_6ee2be8cf1b4
-:nota_950.30.001_6ee2be8cf1b4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_ff8965de1c7f
+:nota_950.30.001_ff8965de1c7f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de placa de mérito".
 
-:c950.30.001 :temNotaAplicacao :nota_950.30.001_6ee2be8cf1b4 .
+:c950.30.001 :temNotaAplicacao :nota_950.30.001_ff8965de1c7f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_5af2f99ca824
-:nota_950.30.001_5af2f99ca824 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_d288f007f255
+:nota_950.30.001_d288f007f255 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de público louvor".
 
-:c950.30.001 :temNotaAplicacao :nota_950.30.001_5af2f99ca824 .
+:c950.30.001 :temNotaAplicacao :nota_950.30.001_d288f007f255 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_53a597d341bb
-:nota_950.30.001_53a597d341bb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_ba6db88e6275
+:nota_950.30.001_ba6db88e6275 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de medalhas de assiduidade".
 
-:c950.30.001 :temNotaAplicacao :nota_950.30.001_53a597d341bb .
+:c950.30.001 :temNotaAplicacao :nota_950.30.001_ba6db88e6275 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.30.001_e8ca1b7551e4
-:exemplo_950.30.001_e8ca1b7551e4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.30.001_4fd3b9f7224f
+:exemplo_950.30.001_4fd3b9f7224f rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Atribuição de medalha da cidade".
 
-:c950.30.001 :temExemploNA :exemplo_950.30.001_e8ca1b7551e4 .
+:c950.30.001 :temExemploNA :exemplo_950.30.001_4fd3b9f7224f .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.30.001_1faae94456b7
-:exemplo_950.30.001_1faae94456b7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.30.001_b076c9fc5b39
+:exemplo_950.30.001_b076c9fc5b39 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Atribuição de medalhas militares".
 
-:c950.30.001 :temExemploNA :exemplo_950.30.001_1faae94456b7 .
+:c950.30.001 :temExemploNA :exemplo_950.30.001_b076c9fc5b39 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.30.001_815b2320ca31
-:exemplo_950.30.001_815b2320ca31 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.30.001_59d7116adb5d
+:exemplo_950.30.001_59d7116adb5d rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Atribuição de título de honorífico".
 
-:c950.30.001 :temExemploNA :exemplo_950.30.001_815b2320ca31 .
+:c950.30.001 :temExemploNA :exemplo_950.30.001_59d7116adb5d .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.30.001_0e086386bc0a
-:exemplo_950.30.001_0e086386bc0a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_950.30.001_d720bb905725
+:exemplo_950.30.001_d720bb905725 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Oferta da chave da cidade".
 
-:c950.30.001 :temExemploNA :exemplo_950.30.001_0e086386bc0a .
+:c950.30.001 :temExemploNA :exemplo_950.30.001_d720bb905725 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_c2603f3c5b9c
-:nota_950.30.001_c2603f3c5b9c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_19ab511acb70
+:nota_950.30.001_19ab511acb70 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos devidos aos agraciados das ordens devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c950.30.001 :temNotaExclusao :nota_950.30.001_c2603f3c5b9c .
+:c950.30.001 :temNotaExclusao :nota_950.30.001_19ab511acb70 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_3946555820e8
-:nota_950.30.001_3946555820e8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_b7fe92b50855
+:nota_950.30.001_b7fe92b50855 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As cerimónias de entrega das distinções devem ser consideradas em 900.20.601 – Organização de cerimónias protocolares".
 
-:c950.30.001 :temNotaExclusao :nota_950.30.001_3946555820e8 .
+:c950.30.001 :temNotaExclusao :nota_950.30.001_b7fe92b50855 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_3402fed98f1b
-:nota_950.30.001_3402fed98f1b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_950.30.001_b23698371838
+:nota_950.30.001_b23698371838 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo ".A aquisição de insígnias, colares,  cunhagem de medalhas ou placas e de diplomas deve ser considerada em 350.30.".
 
-:c950.30.001 :temNotaExclusao :nota_950.30.001_3402fed98f1b .
+:c950.30.001 :temNotaExclusao :nota_950.30.001_b23698371838 .
 
 :c950.30.001 :processoTipoVC :vc_processoTipo_pc .
 :c950.30.001 :processoTransversal "S" .

@@ -23,6 +23,8 @@ def procContexto(classe, myReg, ListaErros, entCatalog, tipCatalog, legCatalog):
         myReg['procTrans'] = brancos.sub('', classe["Processo transversal (S/N)"])
         if myReg["estado"]!='H' and myReg['procTrans'] not in ['S','N']:
             ListaErros.append('Erro::' + myReg['codigo'] + '::transversalidade desconhecida::' + myReg['procTrans'])
+    elif myReg["nivel"] == 3:
+        ListaErros.append('Erro::' + myReg['codigo'] + '::não tem transversalidade preenchida')
     # Donos -----
     if classe["Dono do processo"]:
         donos = brancos.sub('', classe["Dono do processo"])
@@ -55,7 +57,7 @@ def procContexto(classe, myReg, ListaErros, entCatalog, tipCatalog, legCatalog):
             if (part['id'] not in entCatalog) and (part['id'] not in tipCatalog):
                 ListaErros.append('Erro::' + myReg['codigo'] + '::Entidade participante não está no catálogo de entidades ou tipologias::' + part['id'])
     # ERRO: Um processo transversal tem que ter participantes
-    if myReg['estado'] != 'H' and myReg['procTrans'] == 'S' and len(myReg['participantes']) == 0:
+    if classe["Processo transversal (S/N)"] and myReg['estado'] != 'H' and myReg['procTrans'] == 'S' and len(myReg['participantes']) == 0:
         ListaErros.append('Erro::' + myReg['codigo'] + '::Este processo é transversal mas não tem participantes identificados.')   
     # Tipo de intervenção -----
     linterv = []
@@ -69,14 +71,14 @@ def procContexto(classe, myReg, ListaErros, entCatalog, tipCatalog, legCatalog):
             if i not in intervCatalog:
                 ListaErros.append('Erro::' + myReg['codigo'] + '::Tipo de intervenção não está no catálogo de intervenções::' + i)
             # ERRO: Participantes e intervenções têm de ter a mesma cardinalidade
-            if classe["Participante no processo"] and classe["Tipo de intervenção do participante"]:
-                if myReg["estado"]!='H' and len(myReg['participantes']) != len(linterv):
-                    ListaErros.append('Erro::' + myReg['codigo'] + '::Participantes e intervenções não têm a mesma cardinalidade')
-                elif len(myReg['participantes']) == len(linterv):
-                    for index, i in enumerate(linterv):
-                        myReg['participantes'][index]['interv'] = i
-                else:
-                    ListaErros.append('Erro::' + myReg['codigo'] + '::Processo em harmonização e participantes e intervenções não têm a mesma cardinalidade, estas não foram migradas')
+        if classe["Participante no processo"] and classe["Tipo de intervenção do participante"]:
+            if myReg["estado"]!='H' and len(myReg['participantes']) != len(linterv):
+                ListaErros.append('Erro::' + myReg['codigo'] + '::Participantes e intervenções não têm a mesma cardinalidade')
+            elif len(myReg['participantes']) == len(linterv):
+                for index, i in enumerate(linterv):
+                    myReg['participantes'][index]['interv'] = i
+            else:
+                ListaErros.append('Erro::' + myReg['codigo'] + '::Processo em harmonização e participantes e intervenções não têm a mesma cardinalidade, estas não foram migradas')
     # Legislação -----
     if classe["Diplomas jurídico-administrativos REF"]:
         leg = brancos.sub('', classe["Diplomas jurídico-administrativos REF"])

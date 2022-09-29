@@ -757,11 +757,19 @@
     },
     {
         "codigo": "150.10.300",
-        "termo": "Plano regional de ordenamento florestal (elaboração de instrumento)"
+        "termo": "PROF - Plano regional de ordenamento florestal (elaboração de instrumento)"
     },
     {
         "codigo": "150.10.300",
         "termo": "Ordenamento florestal, plano regional de (elaboração de instrumento)"
+    },
+    {
+        "codigo": "150.10.300",
+        "termo": "PGF - Plano de gestão florestal (elaboração de instrumento)"
+    },
+    {
+        "codigo": "150.10.300",
+        "termo": "Gestão florestal, plano de (elaboração de instrumento)"
     },
     {
         "codigo": "150.10.300",
@@ -1794,6 +1802,14 @@
     {
         "codigo": "150.20.001",
         "termo": "Plano de segurança e saúde no trabalho (elaboração)"
+    },
+    {
+        "codigo": "150.20.001",
+        "termo": "Elaboração de plano operacional de comunicação"
+    },
+    {
+        "codigo": "150.20.001",
+        "termo": "Plano operacional de comunicação (elaboração)"
     },
     {
         "codigo": "150.20.001",
@@ -3945,7 +3961,7 @@
     },
     {
         "codigo": "250.10.200",
-        "termo": "Senado Académivco, processo eleitoral"
+        "termo": "Senado Académico, processo eleitoral"
     },
     {
         "codigo": "250.10.200",
@@ -3954,6 +3970,10 @@
     {
         "codigo": "250.10.200",
         "termo": "Conselho Pedagógico, processo eleitoral"
+    },
+    {
+        "codigo": "250.10.200",
+        "termo": "Eleição de diretor escolar"
     },
     {
         "codigo": "250.10.200",
@@ -4892,6 +4912,22 @@
         "termo": "Revogação do estatuto de bolseiro"
     },
     {
+        "codigo": "250.20.405",
+        "termo": "Boletim de itinerário (deslocação em serviço)"
+    },
+    {
+        "codigo": "250.20.405",
+        "termo": "Guia de marcha (deslocação em serviço)"
+    },
+    {
+        "codigo": "250.20.405",
+        "termo": "Salvo conduto (deslocação em serviço)"
+    },
+    {
+        "codigo": "250.20.405",
+        "termo": "Ordem de marcha militar (deslocação em serviço)"
+    },
+    {
         "codigo": "250.20.600",
         "termo": "Cedência de interesse público"
     },
@@ -5038,6 +5074,10 @@
     {
         "codigo": "250.20.604",
         "termo": "Mudança de nível (reclassificação profissional)"
+    },
+    {
+        "codigo": "250.20.604",
+        "termo": "Mudança de posto em carreira militar (reclassificação profissional)"
     },
     {
         "codigo": "250.20.605",
@@ -11844,6 +11884,14 @@
         "termo": "Obra audiovisual, reserva de título"
     },
     {
+        "codigo": "400.10.623",
+        "termo": "DOI, registo"
+    },
+    {
+        "codigo": "400.10.623",
+        "termo": "ORCID, registo"
+    },
+    {
         "codigo": "400.30.001",
         "termo": "Associação na hora, celebração de contratos de"
     },
@@ -17218,6 +17266,10 @@
     {
         "codigo": "500.10.600",
         "termo": "Monitorização dos espetáculos de natureza artística"
+    },
+    {
+        "codigo": "500.10.600",
+        "termo": "Monitorização sistemática de anomalias (inspeções militares)"
     },
     {
         "codigo": "500.10.600",
@@ -24052,6 +24104,10 @@
         "termo": "Referenciação de aluno com necessidades educativas especiais permanentes"
     },
     {
+        "codigo": "750.10.603",
+        "termo": "Orientação vocacional, manifestação de necessidade"
+    },
+    {
         "codigo": "750.20.001",
         "termo": "Ciclo de estudos, conceção de"
     },
@@ -24350,6 +24406,10 @@
     {
         "codigo": "750.30.600",
         "termo": "Realização de teste"
+    },
+    {
+        "codigo": "750.30.600",
+        "termo": "Registo de procedimentos em logbook"
     },
     {
         "codigo": "750.30.600",
@@ -25082,6 +25142,14 @@
     {
         "codigo": "800.10.307",
         "termo": "Competência técnica na realização de ensaios, monitorização"
+    },
+    {
+        "codigo": "800.10.308",
+        "termo": "Registo de competências clínicas em logbook"
+    },
+    {
+        "codigo": "800.10.308",
+        "termo": "Logbook, registo de ocorrências"
     },
     {
         "codigo": "800.10.600",

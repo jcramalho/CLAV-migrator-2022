@@ -4821,6 +4821,7 @@
     },
     {
         "sigla": "GPP",
+        "estado": "Inativo",
         "sioe": "600082458",
         "designacao": "Gabinete de Planeamento e Políticas",
         "tipologias": [
@@ -4828,6 +4829,17 @@
             "ACE"
         ],
         "internacional": "Não"
+    },
+    {
+        "sigla": "GPP",
+        "sioe": "30260000",
+        "designacao": "Gabinete de Planeamento, Políticas e Administração Geral",
+        "tipologias": [
+            "AP",
+            "ACE"
+        ],
+        "internacional": "Não",
+        "dataCriacao": "2014-02-04"
     },
     {
         "sigla": "GPEARI",
@@ -5493,7 +5505,6 @@
         "sioe": "102100600",
         "designacao": "Instituto Superior Técnico",
         "tipologias": [
-            "EFD",
             "IES"
         ],
         "internacional": "Não"

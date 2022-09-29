@@ -7,17 +7,17 @@
         "descricao": "Relativo a atividades de investigação científica em qualquer domínio do conhecimento, a atividades de desenvolvimento técnico e tecnológico, de transferência de tecnologia e inovação, bem como a outras atividades que utilizam métodos científicos para a produção de conhecimento ou resolução de problemas.",
         "notasAp": [
             {
-                "idNota": "nota_800_1b6c9d73070a",
+                "idNota": "nota_800_a7ffdb006a77",
                 "nota": "Aplicável tanto às entidades que prestam os serviços referidos como aos que solicitam a prestação dos mesmos"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800_8cdd048211a2",
+                "idNota": "nota_800_955552bc5a99",
                 "nota": "A prestação de serviços de ensino/formação deve ser considerada em \\\"Prestação de serviços de ensino e formação\\\" (750).A prestação de cuidados de saúde deve ser considerada em \\\"Prestação de cuidados de saúde\\\" (700)"
             },
             {
-                "idNota": "nota_800_acffc63de90b",
+                "idNota": "nota_800_51c82ee96719",
                 "nota": "Os processos de investigação criminal devem ser considerados em \\\"Administração da justiça/ Prevenção e investigação criminal\\\" (600.10)"
             }
         ]
@@ -30,21 +30,21 @@
         "descricao": "Compreende os serviços de assistência técnica por emissão de relatórios ou pareceres técnicos especializados com base em instrumentos de referência e/ou no conhecimento científico, e/ou serviços de assistência técnica no campo (ex. exploração de recursos naturais) ou laboratorial (ex. desenvolvimento de novos métodos analíticos ou aplicação de metodologias conhecidas a pedido de clientes). Compreende também o levantamento de dados e constituição de repositórios ou bancos de dados de reconhecimento ou monitorização de parâmetros em qualquer domínio científico e para qualquer finalidade, a produção de cartografia digital ou analógica, a realização de trabalhos laboratoriais, de exames periciais, de estudos de impacto ou outros trabalhos de apoio e consultoria técnico-científica.",
         "notasAp": [
             {
-                "idNota": "nota_800.10_f724acd33a21",
+                "idNota": "nota_800.10_b76d895053c6",
                 "nota": "Exemplos de aplicação:- Processos de recolha e processamento de informação geodésica e georreferenciada para caracterização topográfica e topo-hidrográfica, administrativa, geológica, biológica, ou outra;- Processos de monitorização e vigilância sísmica, climática, sanitária, epidemiológica;- Produção de cartografia de base ou temática;- Realização de análises laboratoriais;- Realização de peritagens;- Elaboração de estudos de impacto ambiental."
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10_e70e875ba4a4",
+                "idNota": "nota_800.10_05a606407bae",
                 "nota": "De notar que os resultados (relatórios finais) das atividades técnico-científicas constituem-se, por vezes, em inputs de outros processos (por exemplo, o resultado de um estudo de impacto ambiental pode vir a integrar um processo de planeamento, o resultado do processamento de análises laboratoriais pode vir a integrar um processo de investigação criminal, etc.)"
             },
             {
-                "idNota": "nota_800.10_0ec9f4f0b837",
+                "idNota": "nota_800.10_53402565e7fd",
                 "nota": "Os relatórios de estudos de impacto ambiental, ou outros, entregues para fundamentação ou apreciação associada a um processo de decisão (de planeamento, de licenciamento ou outro) devem ser considerados no âmbito do processo em causa.A produção estatística deve ser considerada em \\\"Planeamento e gestão estratégica/ Produção de informação estatística\\\" (150.40)"
             },
             {
-                "idNota": "nota_800.10_a8f0febc6a2a",
+                "idNota": "nota_800.10_1a638c248fb8",
                 "nota": "A contratualização e a gestão de contratos de qualquer serviço prestado pelos organismos da Administração devem ser consideradas em \\\"Administração de direitos, bens e serviços/ Aquisição, venda, abate ou permuta\\\" (300.10)"
             }
         ]
@@ -57,31 +57,31 @@
         "descricao": "Aquisição e processamento de informação geográfica e alfanumérica. Inicia com recolha de informação geodésica, topográfica e fotogramétrica e de informação temática, organizada ou não sob a forma de bases de dados digitais, e termina com a obtenção de cartografia de base, de cartografia temática e de conjuntos de dados geográficos, de acordo com as solicitações dos utilizadores Inclui execução de levantamentos diretos com base em GNSS e Topografia, levantamentos fotogramétricos com base em imagens aéreas ou orbitais, recolha de dados cartográficos já existentes, fotointerpretação de imagens, generalização cartográfica, criação de Modelos Digitais do Terreno e de Superfície. ",
         "notasAp": [
             {
-                "idNota": "nota_800.10.001_608fcc250db4",
+                "idNota": "nota_800.10.001_b6e2cd3c14f0",
                 "nota": "Produção de cartografia de base (topográfica e topográfica de imagem, vulgarmente conhecida por ortofotomapas)"
             },
             {
-                "idNota": "nota_800.10.001_750db08f44bb",
+                "idNota": "nota_800.10.001_db3e4a7541c7",
                 "nota": "Produção de cartografia hidrográfica"
             },
             {
-                "idNota": "nota_800.10.001_542bf6c0425c",
+                "idNota": "nota_800.10.001_b0bb83b1f6e8",
                 "nota": "Produção de cartografia temática"
             },
             {
-                "idNota": "nota_800.10.001_206efcb0094e",
+                "idNota": "nota_800.10.001_458c0674d15f",
                 "nota": "Produção de cartografia derivada"
             }
         ],
         "exemplosNotasAp": [
             {
-                "idExemplo": "exemplo_800.10.001_9e7c224bd1c9",
+                "idExemplo": "exemplo_800.10.001_1111a15387fa",
                 "exemplo": "Sistema de identificação do parcelário agricola"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10.001_bb06a46f6db1",
+                "idNota": "nota_800.10.001_0f6001f0e4b1",
                 "nota": "A contratualização de serviços no âmbito da recolha ou produção de informação geográfica deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis e prestação de serviços"
             }
         ],
@@ -203,29 +203,29 @@
         "descricao": "Levantamento e processamento de dados geodésicos para constituição de repositórios de dados, com vista à determinação de sistemas geográficos de referência, data altimétricos e planimétricos e parâmetros de transformação. Processo essencial de suporte a toda a produção de cartografia de base. Inicia com a aquisição de dados e termina com a produção da informação. Inclui levantamentos geodésicos no local, monitorização/aferição de equipamentos, validação, cálculo e processamento dos dados.",
         "notasAp": [
             {
-                "idNota": "nota_800.10.002_0f6609d54345",
+                "idNota": "nota_800.10.002_e352f3ca7d1c",
                 "nota": "Constituição de sistemas geodésicos de referência"
             },
             {
-                "idNota": "nota_800.10.002_cfe1be36110b",
+                "idNota": "nota_800.10.002_54367c5d25f4",
                 "nota": "Determinação de coordenadas e altitudes de vértices geodésicos para controlo posicional e levantamentos topográficos"
             },
             {
-                "idNota": "nota_800.10.002_6e0ff536d17f",
+                "idNota": "nota_800.10.002_d69eb1b6012f",
                 "nota": "Determinação de altitudes de alta precisão, para cartografia e projetos de apoio à construção de obras de arte"
             },
             {
-                "idNota": "nota_800.10.002_1259566f9ea2",
+                "idNota": "nota_800.10.002_2b59fadc1af4",
                 "nota": "Determinação de valores de aceleração da gravidade para a exploração mineira, entre outras"
             },
             {
-                "idNota": "nota_800.10.002_c2e23433dc26",
+                "idNota": "nota_800.10.002_586c374572a5",
                 "nota": "Disponibilização de registos maregráficos para elaboração de tabelas de maré, apoio a levantamentos hidrográficos e controlo de zonas costeiras"
             }
         ],
         "exemplosNotasAp": [
             {
-                "idExemplo": "exemplo_800.10.002_5ff2f5c58630",
+                "idExemplo": "exemplo_800.10.002_511b2ef60d29",
                 "exemplo": "Difusão de dados das Estações Permanentes GNSS (Global Navigation Satellite System)"
             }
         ],
@@ -293,41 +293,41 @@
         "descricao": "Recolha contínua ou pontual de informação ou dados, quantitativos ou qualitativos, de modo a garantir o controlo ambiental tendo por base valores de referência. Inicia com a observação ou medição de informação e termina com a identificação de fatores críticos ou a validação de agentes padrão. Inclui registo de valores. ",
         "notasAp": [
             {
-                "idNota": "nota_800.10.300_966ef3d1898c",
+                "idNota": "nota_800.10.300_bd5087059b78",
                 "nota": "Identificação de microorganismos em equipamentos"
             },
             {
-                "idNota": "nota_800.10.300_717a2c511a89",
+                "idNota": "nota_800.10.300_b07732fd95bc",
                 "nota": "Controlo ambiental em contexto de higiene e saúde no trabalho"
             },
             {
-                "idNota": "nota_800.10.300_22ed097624b3",
+                "idNota": "nota_800.10.300_d8e3016e50d7",
                 "nota": "Monitorização e controlo ambiental de instalações"
             },
             {
-                "idNota": "nota_800.10.300_95acf35f25a5",
+                "idNota": "nota_800.10.300_020716a7bf8d",
                 "nota": "Verificação e controlo microbiológico de instrumentos e mecanismos"
             },
             {
-                "idNota": "nota_800.10.300_af1df62061e7",
+                "idNota": "nota_800.10.300_f6b3103b5d18",
                 "nota": "Controlo da temperatura e da humidade em equipamentos, instrumentos e mecanismos"
             },
             {
-                "idNota": "nota_800.10.300_4935f28d506c",
+                "idNota": "nota_800.10.300_c275ea12ad92",
                 "nota": "Controlo ambiental de infraestruturas"
             },
             {
-                "idNota": "nota_800.10.300_1dbd7a905caf",
+                "idNota": "nota_800.10.300_e5e42b9a985d",
                 "nota": "Controlo ambiental de laboratórios"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10.300_1ea3f8315086",
+                "idNota": "nota_800.10.300_5e5a19d8d3e0",
                 "nota": "O combate a fatores de risco ambientais deve ser considerado em 300.40.506 – Implementação de ações para cumprimento de parâmetros ambientais"
             },
             {
-                "idNota": "nota_800.10.300_574048b9df23",
+                "idNota": "nota_800.10.300_28d455f4e431",
                 "nota": "Combate às pragas deverá ser considerado no 710.10.600 – Profilaxia e controlo de infestantes, pragas e doenças das plantas"
             }
         ],
@@ -403,6 +403,7 @@
         ],
         "processosRelacionados": [
             "150.10.200",
+            "150.40.500",
             "250.30.600",
             "300.10.005",
             "300.30.008",
@@ -421,6 +422,7 @@
         ],
         "proRel": [
             "eCruzadoCom",
+            "eSintetizadoPor",
             "eCruzadoCom",
             "eCruzadoCom",
             "eSintetizadoPor",
@@ -484,49 +486,49 @@
         "descricao": "Recolha contínua ou pontual de informação sobre níveis de ruído, da qualidade da água, do ar e de toxicidade do solo. Inicia com a verificação de acordo com um plano de monitorização previamente estabelecido e termina com o relatório de apuramento de valores e sua comparação com os indicadores de referência. Inclui a identificação das fontes de emissão, do tipo poluentes e a evolução das concentrações médias anuais. ",
         "notasAp": [
             {
-                "idNota": "nota_800.10.301_5073290d162f",
+                "idNota": "nota_800.10.301_c374b33e26a5",
                 "nota": "Monitorização de índices de qualidade das massas de água"
             },
             {
-                "idNota": "nota_800.10.301_622595ba249e",
+                "idNota": "nota_800.10.301_e2b5c60c1f0b",
                 "nota": "Monitorização das águas balneares costeiras e fluviais"
             },
             {
-                "idNota": "nota_800.10.301_c28ff1611571",
+                "idNota": "nota_800.10.301_6cca29d12ccf",
                 "nota": "Monitorização microbiológica das areias"
             },
             {
-                "idNota": "nota_800.10.301_3fad6c41dd7a",
+                "idNota": "nota_800.10.301_8527369dd496",
                 "nota": "Monitorização de índices de qualidade do ar"
             },
             {
-                "idNota": "nota_800.10.301_ccbec6157705",
+                "idNota": "nota_800.10.301_5e527d42cc76",
                 "nota": "Monitorização de índices de poluição do solo"
             },
             {
-                "idNota": "nota_800.10.301_6e83cf3cb0d8",
+                "idNota": "nota_800.10.301_0141725d6fcd",
                 "nota": "Monitorização de índices de ruído"
             },
             {
-                "idNota": "nota_800.10.301_cb186afac4e1",
+                "idNota": "nota_800.10.301_87c15c971e46",
                 "nota": "Monitorização de índices radiológicos"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10.301_22e3848c36e8",
+                "idNota": "nota_800.10.301_75d4174cad4f",
                 "nota": "Os índices de poluição em ambiente de trabalho devem ser considerados em 800.10.300 – Controlo ambiental de infraestruturas e equipamentos"
             },
             {
-                "idNota": "nota_800.10.301_f100cdeac94f",
+                "idNota": "nota_800.10.301_49bbd7106efa",
                 "nota": "Os avisos e alertas de segurança devem ser considerados em 550.20.001 – Emissão de avisos e declaração de alertas"
             },
             {
-                "idNota": "nota_800.10.301_2e287c663431",
+                "idNota": "nota_800.10.301_5aa0c98de682",
                 "nota": "A vigilância no âmbito da segurança deve ser considerada em 550.20.002 – Ação de vigilância"
             },
             {
-                "idNota": "nota_800.10.301_811b6a195d1f",
+                "idNota": "nota_800.10.301_d2c15ccec19f",
                 "nota": "A qualidade da água da rede de distribuição pública deve ser considerada em 800.10.303 – Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais"
             }
         ],
@@ -696,65 +698,65 @@
         "descricao": "Recolha sistemática ou pontual de dados sobre elementos geológicos, zoológicos, botânicos, hídricos, marinhos ou aéreos, ou vigilância de habitats ou paisagens, por forma a controlar os respetivos níveis de perenidade e sustentabilidade. Inicia com a verificação ou medição de dados e termina com a emissão de relatórios. Inclui registo de dados recolhidos.",
         "notasAp": [
             {
-                "idNota": "nota_800.10.302_65cc9fc60184",
+                "idNota": "nota_800.10.302_e31a55729fe4",
                 "nota": "Monitorização de áreas protegidas"
             },
             {
-                "idNota": "nota_800.10.302_ea2925eaee54",
+                "idNota": "nota_800.10.302_5fd87826ff77",
                 "nota": "Monitorização de elementos geológicos, geomorfológicos"
             },
             {
-                "idNota": "nota_800.10.302_fe99b06a6723",
+                "idNota": "nota_800.10.302_bfe301d3ae1d",
                 "nota": "Monitorização de fauna e flora em vias de extinção"
             },
             {
-                "idNota": "nota_800.10.302_771970d44131",
+                "idNota": "nota_800.10.302_aa48231d824d",
                 "nota": "Monitorização de habitats naturais"
             },
             {
-                "idNota": "nota_800.10.302_afa87cfa72a5",
+                "idNota": "nota_800.10.302_23428dc0e99c",
                 "nota": "Monitorização de geomonumentos"
             },
             {
-                "idNota": "nota_800.10.302_2c8247eae5c2",
+                "idNota": "nota_800.10.302_dea00aca7229",
                 "nota": " Monitorização de parques naturais"
             },
             {
-                "idNota": "nota_800.10.302_0e740eda4c4b",
+                "idNota": "nota_800.10.302_7caaf98033d0",
                 "nota": "Monitorização de reservas ecológicas"
             },
             {
-                "idNota": "nota_800.10.302_f61d2e1bc19c",
+                "idNota": "nota_800.10.302_cd20fb1579f8",
                 "nota": "Monitorização hidromorfológica"
             },
             {
-                "idNota": "nota_800.10.302_7110231fd446",
+                "idNota": "nota_800.10.302_c995de60594f",
                 "nota": "Monitorização da orla costeira"
             },
             {
-                "idNota": "nota_800.10.302_9e258707c6c8",
+                "idNota": "nota_800.10.302_bdbfd5d419da",
                 "nota": "Monitorização de meio marinho"
             },
             {
-                "idNota": "nota_800.10.302_8466869af466",
+                "idNota": "nota_800.10.302_a616f2bbc3ea",
                 "nota": "Monitorização de recursos minerais"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10.302_570113f8c265",
+                "idNota": "nota_800.10.302_54b4f5712abd",
                 "nota": "A conservação e proteção de recursos naturais, espécies e paisagens deve ser considerada em 300.40.502 – Conservação e proteção de recursos naturais, espécies e paisagens"
             },
             {
-                "idNota": "nota_800.10.302_0cf88c63fdbc",
+                "idNota": "nota_800.10.302_d9f1a459dd52",
                 "nota": "A classificação de áreas protegidas deve ser considerada em 450.20.505 – Classificação de bens sítios e áreas"
             },
             {
-                "idNota": "nota_800.10.302_8298bb1795d5",
+                "idNota": "nota_800.10.302_e3bdef367409",
                 "nota": "Os avisos e alertas de segurança devem ser considerados em 550.20.001 – Emissão de avisos e declaração de alertas"
             },
             {
-                "idNota": "nota_800.10.302_8ff831f18d5e",
+                "idNota": "nota_800.10.302_f40c4d9f487f",
                 "nota": "A vigilância no âmbito da segurança deve ser considerada em 550.20.002 – Ação de vigilância"
             }
         ],
@@ -897,11 +899,11 @@
         "descricao": "Recolha contínua, pontual ou aleatória de informação ou dados, quantitativos ou qualitativos, de modo a identificar ocorrências anómalas através da constante comparação entre os valores de referência e as medidas apuradas. Inicia com a verificação ou medição de dados e termina com a validação de dados indicadores ou obrigatórios. Inclui medição de pressão de água, medição de caudais de água, medição de cloro, nível de água em reservatório e volume de água consumida, reconhecimento de valores críticos.",
         "notasEx": [
             {
-                "idNota": "nota_800.10.303_c0c429b4ca26",
+                "idNota": "nota_800.10.303_29b965ef65c1",
                 "nota": "Os avisos e alertas de segurança devem ser considerados em 550.20.001 – Emissão de avisos e declaração de alertas"
             },
             {
-                "idNota": "nota_800.10.303_8fe12b670bce",
+                "idNota": "nota_800.10.303_f79645b035e9",
                 "nota": "A vigilância no âmbito da segurança deve ser considerada em 550.20.002 – Ação de vigilância"
             }
         ],
@@ -989,33 +991,33 @@
         "descricao": "Deteção, registo e avaliação das reações adversas, com o objectivo de determinar a incidência, gravidade e nexo de causalidade com os medicamentos, baseadas no estudo sistemático e multidisciplinar dos efeitos dos medicamentos. Inicia com a comunicação de reações adversas ou com a recolha sistemática de informações sobre os riscos de medicamentos para os doentes ou para a saúde pública e termina com a comunicação da proposta de medida de segurança ou regulamentar. Inclui avaliação científica, ponderação das medidas de segurança adequadas à prevenção ou minimização dos riscos, proposta de adoção das medidas regulamentares necessárias feitas com base nos relatórios periódicos remetidos. ",
         "notasAp": [
             {
-                "idNota": "nota_800.10.304_f518a35388a0",
+                "idNota": "nota_800.10.304_52784b1ac2cc",
                 "nota": "Gestão de sinal de segurança"
             },
             {
-                "idNota": "nota_800.10.304_35e0263b8f37",
+                "idNota": "nota_800.10.304_73062c4e2071",
                 "nota": "Processamento e Avaliação de notificações de Reações Adversas a Medicamentos (RAM)"
             },
             {
-                "idNota": "nota_800.10.304_5a2c3c848715",
+                "idNota": "nota_800.10.304_0909b9065eff",
                 "nota": "Processamento e Avaliação de Relatórios Periódicos de Segurança (RPS)"
             },
             {
-                "idNota": "nota_800.10.304_982deba5a2af",
+                "idNota": "nota_800.10.304_db657430c021",
                 "nota": "Processamento e Avaliação de Planos de Gestão do Risco (PGR)"
             },
             {
-                "idNota": "nota_800.10.304_8d044fca279f",
+                "idNota": "nota_800.10.304_a4c79d4009d4",
                 "nota": "Processamento e Avaliação dos Estudos de Segurança (PASS) ou de Eficácia (PAES) Pós-Autorização"
             },
             {
-                "idNota": "nota_800.10.304_c338291ee8f2",
+                "idNota": "nota_800.10.304_f14d35317352",
                 "nota": "Troca de informação de segurança de medicamentos entre as Autoridades congéneres nos Estados-membros, a Agência Europeia do Medicamento (EMA) e a Comissão Europeia (NUI - Non Urgent Information e RA - Rapid Alerts)"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10.304_6da0764cbac9",
+                "idNota": "nota_800.10.304_3d1805fa8d62",
                 "nota": "A divulgação de alertas de segurança deve ser classificada em 550.20.001 – Emissão de avisos e declaração de alertas"
             }
         ],
@@ -1108,21 +1110,21 @@
         "descricao": "Verificação da segurança na utilização experimental de medicamentos, de forma a permitir a avaliação permanente da relação benefício-risco em que se baseou a autorização dos ensaios clínicos em curso. Inicia com o processamento das notificações de realização do ensaio clínico e termina com a informação de conclusão do ensaio ou com a comunicação da suspensão. Inclui análise e avaliação de toda a informação com potencial impacto na realização do ensaio (segurança dos participantes e credibilidade dos dados/resultados) e, quando aplicável, suspensão ou revogação da autorização do ensaio. ",
         "notasAp": [
             {
-                "idNota": "nota_800.10.305_0811ecffcd92",
+                "idNota": "nota_800.10.305_ed2c52ffc412",
                 "nota": "Avaliação das notificações de suspeitas de reações Adversas graves e inesperadas (SUSAR)"
             },
             {
-                "idNota": "nota_800.10.305_3d72f7a26077",
+                "idNota": "nota_800.10.305_d97c0b4ebb55",
                 "nota": "Avaliação de relatórios anuais de segurança de medicamentos experimentais (DSUR)"
             },
             {
-                "idNota": "nota_800.10.305_a42eea60c1e2",
+                "idNota": "nota_800.10.305_0cc6b8cece7f",
                 "nota": "Avaliação de outra informação de segurança notificada durante a realização do ensaio clínico"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10.305_b48402bb2159",
+                "idNota": "nota_800.10.305_9f0bd0712043",
                 "nota": "A autorização para a realização dos ensaios clínicos deve ser classificada em 450.10.073 – Licenciamento ou autorização de atividades de investigação científica e de desenvolvimento"
             }
         ],
@@ -1186,7 +1188,7 @@
         "descricao": "Deteção, registo, avaliação e prevenção de incidentes com dispositivos médicos e dos efeitos indesejáveis em produtos cosméticos ou quaisquer outros problemas associados a produtos de saúde tendo em vista a salvaguarda da saúde pública. Inicia com a comunicação e recolha de informação sobre ocorrências adversas ou incidentes ocorridos e termina com a comunicação da decisão (implementação de ações corretivas quando aplicável). Inclui análise e avaliação de toda a informação recolhida, nomeadamente a avaliação de relatórios de outras autoridades competentes relativos a questões de vigilância com dispositivos médicos, a ponderação das medidas de segurança adequadas à prevenção ou minimização do risco e proposta de adoção das medidas corretivas e de segurança a implementar. ",
         "notasAp": [
             {
-                "idNota": "nota_800.10.306_52d5529c3453",
+                "idNota": "nota_800.10.306_15ca764116dc",
                 "nota": "Avaliação de relatórios de outras Autoridades Competentes relativos a questões de vigilância com dispositivos médicos"
             }
         ],
@@ -1276,13 +1278,13 @@
         "descricao": "Procedimento de controlo sistemático para monitorização da qualidade analítica dos ensaios realizados. Inicia com o registo dos dados dos ensaios referentes ao controlo de qualidade interno e externo e termina com os relatórios de análise dos resultados com vista à validação dos métodos adotados e à demonstração da competência técnica ou científica. Inclui, no âmbito do controlo de qualidade interno, a estimativa de incertezas, a análise de amostras de controlo e de amostras cegas, a construção e acompanhamento de cartas de controlo, os ensaios de adição/recuperação, o controlo de meios e cultura e o controlo ambiental e, no âmbito do controlo de qualidade externo, a participação em ensaios interlaboratoriais e a análise de materiais de referência. ",
         "notasAp": [
             {
-                "idNota": "nota_800.10.307_db130515bedf",
+                "idNota": "nota_800.10.307_dcc7f23ab84d",
                 "nota": "Monitorização da fiabilidade dos relatórios de ensaio"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10.307_f58cd31aba92",
+                "idNota": "nota_800.10.307_478b48647a4c",
                 "nota": "A realização de análises laboratoriais deve ser considerada em 810.10.601 - Realização de ensaios laboratoriais"
             }
         ],
@@ -1317,14 +1319,16 @@
             "150.40.500",
             "300.30.008",
             "800.10.601",
-            "500.10.301"
+            "500.10.301",
+            "450.10.445"
         ],
         "proRel": [
             "eSintetizadoPor",
             "eSintetizadoPor",
             "eSintetizadoPor",
             "eCruzadoCom",
-            "eSuplementoPara"
+            "eSuplementoPara",
+            "eSintetizadoPor"
         ],
         "pca": {
             "valores": 5.0,
@@ -1341,7 +1345,7 @@
                 {
                     "critCodigo": "just_pca_c800.10.307_1",
                     "tipo": "utilidade",
-                    "conteudo": "Rastreabilidade, consulta e análise o PN 500.10.301 - Realização de fiscalização",
+                    "conteudo": "Rastreabilidade, consulta e análise o PN 500.10.301 - Realização de fiscalização.",
                     "procRefs": [
                         "500.10.301"
                     ]
@@ -1363,6 +1367,84 @@
         }
     },
     {
+        "codigo": "800.10.308",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Monitorização sistemática de procedimentos e aplicação de competências técnicas ou científicas",
+        "descricao": "Registo, controlo e avaliação para a monitorização de aquisição de competências, procedimentos ou características. Inicia com a atribuição do instrumento de registo e termina com a sua devolução. Inclui o preenchimento dos dados relativos a cada procedimento, competência ou característica identificada e a devida autenticação. Se aplicável, pode incluir a recolha de termos de responsabilidade.",
+        "notasAp": [
+            {
+                "idNota": "nota_800.10.308_fbde2f5b4bc4",
+                "nota": "Livro de competências clínicas"
+            },
+            {
+                "idNota": "nota_800.10.308_a0603f6a58d5",
+                "nota": "Diário de bordo"
+            },
+            {
+                "idNota": "nota_800.10.308_3f9639d0c74c",
+                "nota": "Logbook"
+            },
+            {
+                "idNota": "nota_800.10.308_fbe51c015622",
+                "nota": "Livro de ocorrências em laboratório"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_800.10.308_b8c1d19c3eee",
+                "nota": "A avaliação em contexto da prestação de provas deve ser considerada em 750.10.601 -- Prestação de provas de avaliação"
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "N",
+        "tipoProc": "PE",
+        "procTrans": "N",
+        "donos": [
+            "IES"
+        ],
+        "legislacao": [
+            "Despacho_7368_2019"
+        ],
+        "processosRelacionados": [
+            "750.10.601300.30.008750.10.300500.10.301"
+        ],
+        "proRel": [
+            "eCruzadoCom",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSuplementoPara"
+        ],
+        "pca": {
+            "valores": 5.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c800.10.308_0",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para análise e apuramento da responsabilidade PN 500.10.301 - Realização de fiscalização.",
+                    "procRefs": [
+                        "500.10.301"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c800.10.308_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação recuperável no PN de 300.30.008 - Registo de documentos e informção; 750.10.300 Processamento dos dados cadastrais de alunos ou formandos.",
+                    "procRefs": [
+                        "300.30.008",
+                        "750.10.300"
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "codigo": "800.10.600",
         "nivel": 3,
         "estado": "A",
@@ -1370,11 +1452,11 @@
         "descricao": "Exames realizados no ser vivo, destinados a descobrir ou a verificar os efeitos clínicos, farmacológicos ou outros efeitos farmacodinâmicos de medicamentos experimentais, ou a identificar os seus efeitos indesejáveis ou ainda a analisar a absorção, a distribuição, o metabolismo e a eliminação de um ou mais medicamentos experimentais, a fim de apurar a respetiva segurança ou eficácia. Inicia com a preparação do estudo para realizar o ensaio clínico e termina com a finalização do estudo. Incluí todos os atos necessários à conclusão do estudo. ",
         "notasEx": [
             {
-                "idNota": "nota_800.10.600_07c18a3d45a1",
+                "idNota": "nota_800.10.600_586c2163dd47",
                 "nota": "A autorização de ensaios clínicos e respetivas alterações ao pedido devem ser consideradas em 450.10.073 – Licenciamento ou autorização de atividades de investigação científica e de desenvolvimento"
             },
             {
-                "idNota": "nota_800.10.600_0455b847d870",
+                "idNota": "nota_800.10.600_7cd5d343a488",
                 "nota": "A monitorização da segurança da realização de ensaios clínicos deve ser classificado em 800.10.305 – Monitorização da segurança de ensaios clínicos"
             }
         ],
@@ -1448,29 +1530,29 @@
         "descricao": "Exames que avaliam, diagnosticam ou confirmam a qualidade e/ou a composição de determinados constituintes, instrumentos ou amostras em matrizes diferentes. Inicia por solicitação externa ou da entidade responsável pela análise e termina com a divulgação do boletim analítico. Inclui a recolha da amostra, amostra-controle, identificação, acondicionamento, conservação, transporte, registo, procedimento ensaístico e relatório de ensaio.",
         "notasAp": [
             {
-                "idNota": "nota_800.10.601_f0392ed1324e",
+                "idNota": "nota_800.10.601_d9f64b99fb41",
                 "nota": "Realização de análises laboratoriais"
             },
             {
-                "idNota": "nota_800.10.601_a4d6435b514f",
+                "idNota": "nota_800.10.601_c51012909c21",
                 "nota": "Comprovação da qualidade dos ensaios laboratoriais"
             },
             {
-                "idNota": "nota_800.10.601_b9ab6d34fbd9",
+                "idNota": "nota_800.10.601_e57968162d81",
                 "nota": "Comprovação da qualidade de medicamentos"
             },
             {
-                "idNota": "nota_800.10.601_652148c5b50e",
+                "idNota": "nota_800.10.601_e3a191458576",
                 "nota": "Comprovação da qualidade de produtos de saúde e cosméticos"
             },
             {
-                "idNota": "nota_800.10.601_2d4ed9b1003c",
+                "idNota": "nota_800.10.601_8dbec025271f",
                 "nota": "Metrologia científica"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10.601_0edfa4744e3b",
+                "idNota": "nota_800.10.601_57d79f08f87d",
                 "nota": "Os testes realizados no âmbito de perícias devem ser considerados em 800.10.603 – Realização de perícias"
             }
         ],
@@ -1707,75 +1789,87 @@
         "codigo": "800.10.602",
         "nivel": 3,
         "estado": "A",
-        "titulo": "Realização de estudos científicos e técnicos de apoio a políticas públicas e/ou comerciais",
-        "descricao": "Procedimento científico e técnico de análise e cálculo com o objetivo de promover uma avaliação do impacto e de gerar medidas ou recomendações técnicas sobre um determinado universo. Inicia com um pedido e termina com a emissão de um relatório. Inclui a recolha de dados, aferição e análise de características da população ou de amostras, criação de indicadores quantitativos e qualitativos, produção de relatórios técnicos, avaliação de impacto, apuramento de resultados ou recomendações e/ou medições.",
+        "titulo": "Realização de estudos científicos e técnicos de apoio a políticas",
+        "descricao": "Procedimento científico e técnico de análise e cálculo com o objetivo de promover uma avaliação do impacto e de gerar medidas ou recomendações técnicas sobre um determinado universo. Inicia com um pedido e termina com a emissão de um relatório. Inclui a recolha de dados, a aferição e análise de características da população ou de amostras, criação de indicadores quantitativos e qualitativos, produção de relatórios técnicos, avaliação de impacto, apuramento de resultados ou recomendações e/ou medições.",
         "notasAp": [
             {
-                "idNota": "nota_800.10.602_1b7bcb93e153",
-                "nota": "Análise de causalidade (verificar se a causa de um determinado acontecimento público se deveu a uma determinada política em concreto)"
+                "idNota": "nota_800.10.602_b081751b3139",
+                "nota": "Análise de causalidade"
             },
             {
-                "idNota": "nota_800.10.602_92d5652b6682",
-                "nota": "Criação e desenvolvimeno de indicadores (quantitativos e qualitativos) de apoio às políticas públicas"
+                "idNota": "nota_800.10.602_8b70863a316a",
+                "nota": "Criação e desenvolvimento de indicadores (quantitativos e qualitativos) de apoio às políticas públicas"
             },
             {
-                "idNota": "nota_800.10.602_7444d1c31c7c",
+                "idNota": "nota_800.10.602_a29e4c2531c0",
+                "nota": "Criação e desenvolvimento de indicadores (quantitativos e qualitativos) de apoio a políticas empresariais e comerciais"
+            },
+            {
+                "idNota": "nota_800.10.602_2e0a41502da9",
                 "nota": "Estudos de cenarização"
             },
             {
-                "idNota": "nota_800.10.602_5728975f47cb",
+                "idNota": "nota_800.10.602_900b18c330ed",
                 "nota": "Estudos de consultadoria"
             },
             {
-                "idNota": "nota_800.10.602_591f29bcd9cb",
+                "idNota": "nota_800.10.602_e9d500d94ef1",
                 "nota": "Estudos de impacto"
             },
             {
-                "idNota": "nota_800.10.602_64b262da7f83",
-                "nota": "Estudos de mercado (mercado de trabalho, saúde, educação, meio empresarial)"
+                "idNota": "nota_800.10.602_b64519e81911",
+                "nota": "Estudos de mercado"
             },
             {
-                "idNota": "nota_800.10.602_cab3a6b66310",
+                "idNota": "nota_800.10.602_cb0c8d94c5a5",
                 "nota": "Estudos de viabilidade"
+            },
+            {
+                "idNota": "nota_800.10.602_772d1b5631ca",
+                "nota": "Realização de estudos científicos e técnicos de apoio a políticas públicas"
+            },
+            {
+                "idNota": "nota_800.10.602_3d52079649e3",
+                "nota": "Realização de estudos científicos e técnicos de apoio a políticas comerciais"
             }
         ],
         "exemplosNotasAp": [
             {
-                "idExemplo": "exemplo_800.10.602_f72ed47d184f",
+                "idExemplo": "exemplo_800.10.602_4393b1a2f5fa",
                 "exemplo": "Estudos sobre emprego"
             },
             {
-                "idExemplo": "exemplo_800.10.602_d114a7f82d6e",
+                "idExemplo": "exemplo_800.10.602_7f489ee90ad7",
                 "exemplo": "Estudos sobre formação profissional"
             },
             {
-                "idExemplo": "exemplo_800.10.602_e90cf13b1dd6",
+                "idExemplo": "exemplo_800.10.602_91a0005802ca",
                 "exemplo": "Estudos sobre a certificação de entidades formadoras"
             },
             {
-                "idExemplo": "exemplo_800.10.602_4850a7353796",
+                "idExemplo": "exemplo_800.10.602_6c3dfb0b1b03",
                 "exemplo": "Estudos sobre relações e condições de trabalho, e relações profissionais"
             },
             {
-                "idExemplo": "exemplo_800.10.602_d23f503df2ad",
+                "idExemplo": "exemplo_800.10.602_f54f3a88f410",
                 "exemplo": "Estudos sobre despedimentos coletivos"
             },
             {
-                "idExemplo": "exemplo_800.10.602_ee8b9764fe92",
+                "idExemplo": "exemplo_800.10.602_88a5ed053070",
                 "exemplo": "Estudos sobre prevenção de conflitos"
             },
             {
-                "idExemplo": "exemplo_800.10.602_0306b33d15ad",
+                "idExemplo": "exemplo_800.10.602_85cdd2b87925",
                 "exemplo": "Estudos sobre conciliação, mediação, greves e serviços mínimos"
             },
             {
-                "idExemplo": "exemplo_800.10.602_e050ae04efa7",
+                "idExemplo": "exemplo_800.10.602_f7634413cf81",
                 "exemplo": "Estudos sobre regulamentação coletiva"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10.602_9aa1d409c5b4",
+                "idNota": "nota_800.10.602_bd452cf67ad7",
                 "nota": "A aquisição de serviços no âmbito de estudos técnicos e científicos deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e prestação de serviços"
             }
         ],
@@ -1926,21 +2020,21 @@
         "descricao": "Atividade realizada por profissional especialista dotado de especiais conhecimentos técnicos ou científicos com vista à descrição, interpretação e obtenção de conclusões com eventual valor probatório. Inicia com um pedido e termina com a produção do relatório final. Inclui a pesquisa, a recolha, o tratamento, o acondicionamento, a selagem, a receção e o registo de amostras, vestígios ou dados, a aplicação de teste psicológico a pessoa e a avaliação do mesmo, se aplicável, a observação de características ou lesões a cadáveres ou a restos cadavéricos e exames complementares ao diagnóstico, se aplicável, e fundamentação de trabalho pericial. ",
         "notasAp": [
             {
-                "idNota": "nota_800.10.603_1ae4c78a3284",
+                "idNota": "nota_800.10.603_6e6f29b99fdc",
                 "nota": "Execução de autópsias"
             },
             {
-                "idNota": "nota_800.10.603_5cd3bdb44852",
+                "idNota": "nota_800.10.603_fc8a9c108693",
                 "nota": "Execução de perícias a obras de arte"
             },
             {
-                "idNota": "nota_800.10.603_624c0aa7e2ad",
+                "idNota": "nota_800.10.603_bd85eecc1ea6",
                 "nota": "Execução de necrópsias"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10.603_89a7a823eb2a",
+                "idNota": "nota_800.10.603_81d20e62aac0",
                 "nota": "A aquisição de serviços periciais deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis e prestação de serviços"
             }
         ],
@@ -2192,33 +2286,33 @@
         "descricao": "Transposição de conteúdos de uma língua para outra. Interpretação do significado de um texto em determinada língua (fonte original) para produção de um novo texto, fiel ao original, noutra língua. Inicia com um pedido ou por iniciativa de uma entidade e termina com a entrega do trabalho. Inclui os estudos de contextualização histórica, técnica e estilística do autor e do texto, a redação na língua de destino e a elaboração de notas de tradução.",
         "notasAp": [
             {
-                "idNota": "nota_800.10.604_7fba2cf8131f",
+                "idNota": "nota_800.10.604_41bfefcf4bec",
                 "nota": "Realização de retroversões"
             },
             {
-                "idNota": "nota_800.10.604_412eda1d8b21",
+                "idNota": "nota_800.10.604_119e39e05dfa",
                 "nota": "Realização de revisões de traduções"
             },
             {
-                "idNota": "nota_800.10.604_2c6bc31541e3",
+                "idNota": "nota_800.10.604_edda5c6dfb3e",
                 "nota": "Realização de traduções literárias"
             },
             {
-                "idNota": "nota_800.10.604_bd4113780de1",
+                "idNota": "nota_800.10.604_112ec3fbce4f",
                 "nota": "Realização de traduções oficiais"
             },
             {
-                "idNota": "nota_800.10.604_d686f1fe9e59",
+                "idNota": "nota_800.10.604_c39d55923029",
                 "nota": "Realização de traduções técnicas e científicas"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10.604_c35b62b19600",
+                "idNota": "nota_800.10.604_26389762f5f7",
                 "nota": "A aquisição de serviços de tradução deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis e prestação de serviços"
             },
             {
-                "idNota": "nota_800.10.604_9da8c69f921c",
+                "idNota": "nota_800.10.604_9eec39f2fb2d",
                 "nota": "A tradução que resulte em obra nova deve ser considerada em 400.10.610 – Registo de obras científicas, literárias e artísticas ou 400.10.611 – Registo de publicações no sistema de Depósito Legal"
             }
         ],
@@ -2458,29 +2552,29 @@
         "descricao": "Representação ou reprodução gráfica de conteúdos preexistentes (sons, textos, informação genética, etc.) em novo contexto, com vista a torná-los acessíveis e utilizáveis. Inicia com um pedido e termina com a entrega do trabalho. Inclui a interpretação dos dados e a sua reprodução.",
         "notasAp": [
             {
-                "idNota": "nota_800.10.605_c74806e0d6eb",
+                "idNota": "nota_800.10.605_cc40d8455b3b",
                 "nota": "Arranjo musical de uma obra, para um instrumento para o qual não foi originalmente escrita"
             },
             {
-                "idNota": "nota_800.10.605_12e40a99bf2f",
+                "idNota": "nota_800.10.605_0fa5c62fd182",
                 "nota": "Transcrição de documentos, independentemente do suporte e antiguidade"
             },
             {
-                "idNota": "nota_800.10.605_393df1d5176a",
+                "idNota": "nota_800.10.605_c951b3efd4f5",
                 "nota": "Transcrição fonética"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10.605_895123471e4f",
+                "idNota": "nota_800.10.605_c81f39838b4c",
                 "nota": "A emissão de comprovativos de factos ou atos deve ser considerada em \\\"Reconhecimentos e permissões/ Emissão de comprovativos de factos ou atos\\\" (450.30)"
             },
             {
-                "idNota": "nota_800.10.605_08793ab55568",
+                "idNota": "nota_800.10.605_96e98a2fc0fa",
                 "nota": "A transcrição que resulte em obra nova deve ser considerada em 400.10.610 – Registo de obras científicas, literárias e artísticas"
             },
             {
-                "idNota": "nota_800.10.605_5f256e7760c6",
+                "idNota": "nota_800.10.605_aaed392bc767",
                 "nota": "As transcrições para fins judiciais ou oficiais devem ser consideradas nos respetivos PN"
             }
         ],
@@ -2703,37 +2797,29 @@
         "descricao": "Acompanhamento de rutura de stocks de medicamentos, ainda que meramente transitórias, de fabrico e ou fornecimento de um medicamento, bem como qualquer perturbação ao normal abastecimento do mercado, nos casos, termos, forma e prazo fixados pela autoridade competente. Inicia com a notificação da rutura, em plataforma, pelo titular da autorização e termina com a proposta de minimização do impacto. Inclui validação da identificação do titular, pedidos de informação pelos profissionais de saúde e utentes sobre rotura de stocks, avaliação da situação e a consulta de peritos ou a agências congéneres. ",
         "notasAp": [
             {
-                "idNota": "nota_800.10.606_53d74182cad1",
-                "nota": "Processo de acompanhamento da rotura de stocks com impacto para o utente, nomeadamente"
+                "idNota": "nota_800.10.606_5b129a2b1f8a",
+                "nota": "Processo de acompanhamento da rotura de stocks com impacto para o utente, nomeadamente: averiguação do mercado, análise das alternativas no mercado, parecer clínico"
             },
             {
-                "idNota": "nota_800.10.606_94cfeebb75eb",
-                "nota": "Averiguação do mercado"
+                "idNota": "nota_800.10.606_3f64735e9e64",
+                "nota": "Medidas de minimização do impacto"
             },
             {
-                "idNota": "nota_800.10.606_4658ab233381",
-                "nota": "Análise das alternativas no mercado"
-            },
-            {
-                "idNota": "nota_800.10.606_b913bb5b6836",
-                "nota": "Parecer clínico"
-            },
-            {
-                "idNota": "nota_800.10.606_9d2029ac0c0a",
-                "nota": "Medidas de minimização do impacto, Autorização de Utilização Excecional (AUE), alteração regulamentar (libertação de lote; alteração de fabricante)"
+                "idNota": "nota_800.10.606_142f4c4405e3",
+                "nota": "Autorização de utilização excecional (AUE), alteração regulamentar (libertação de lote; alteração de fabricante)"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10.606_17b9a1225385",
+                "idNota": "nota_800.10.606_1fa6f7d4ef24",
                 "nota": "Os pedidos de informação que não se relacionam com nenhum processo concreto devem ser classificados em 900.20.604 – Tratamento de informações e processamento de pedidos de informação"
             },
             {
-                "idNota": "nota_800.10.606_13c7fad2ab75",
+                "idNota": "nota_800.10.606_ae2d64d64385",
                 "nota": "A entrega da password para acesso à base de dados para registo 300.50.802 – Registo e identificação de utilizadores de serviços e de sistemas de informação"
             },
             {
-                "idNota": "nota_800.10.606_265c820362ad",
+                "idNota": "nota_800.10.606_81d58f5766e7",
                 "nota": "A avaliação de alternativas terapêuticas e relatórios dos peritos deve ser classificada em 800.10.602 – Realização de estudos científicos e técnicos de apoio a políticas públicas e/ou comerciais"
             }
         ],
@@ -2846,37 +2932,37 @@
         "descricao": "Ações que visam contribuir para o conhecimento e monitorização da saúde e doenças, os fatores que as influenciam, assim como a avaliação do seu impacto. Inicia com a identificação de necessidade para realizar a ação ou estudo e termina com a elaboração do relatório ou estudo final. Inclui, sempre que aplicável, diagnóstico de necessidade de investigação, estudos, monitorização e avaliação. ",
         "notasAp": [
             {
-                "idNota": "nota_800.10.607_ac94f8a9481b",
+                "idNota": "nota_800.10.607_cf6d8a231b39",
                 "nota": "Produção de coleções de estirpes"
             },
             {
-                "idNota": "nota_800.10.607_db47a8b53c0e",
+                "idNota": "nota_800.10.607_978f0230b8f9",
                 "nota": "Estudos de vigilância epidemiológica"
             },
             {
-                "idNota": "nota_800.10.607_40a7389be4df",
+                "idNota": "nota_800.10.607_8481ef8e6a9f",
                 "nota": "Recolha e análise de dados de observação para apoio à decisão relativos a doenças e seus determinantes"
             },
             {
-                "idNota": "nota_800.10.607_c9bb1450558c",
+                "idNota": "nota_800.10.607_3eea0bec2703",
                 "nota": "Desenvolvimento e gestão de redes de vigilância e de instrumentos de observação em saúde"
             },
             {
-                "idNota": "nota_800.10.607_4d94cb2e1910",
+                "idNota": "nota_800.10.607_63cb397451e7",
                 "nota": "Ações de vigilância de vetores"
             },
             {
-                "idNota": "nota_800.10.607_af9cb5c5f7e6",
+                "idNota": "nota_800.10.607_608d353a5390",
                 "nota": "Vigilância epidemiológica animal"
             },
             {
-                "idNota": "nota_800.10.607_c0c78877325b",
+                "idNota": "nota_800.10.607_5522155a812d",
                 "nota": "Vigilância fitossanitária"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10.607_fa8f17133e96",
+                "idNota": "nota_800.10.607_44945531553c",
                 "nota": "A divulgação de alertas ou avisos deve ser classificada em 550.20.001 – Emissão de avisos e declaração de alertas"
             }
         ],
@@ -2908,6 +2994,10 @@
             },
             {
                 "id": "DRAP",
+                "interv": "Comunicar"
+            },
+            {
+                "id": "IES",
                 "interv": "Comunicar"
             }
         ],
@@ -2975,23 +3065,23 @@
         "descricao": "Constituição de bancos de produtos biológicos, recursos genéticos ou qualquer repositório de amostras biológicas ou seus derivados, com ou sem tempo delimitado de armazenamento e que inclua amostras que sejam identificadas, identificáveis, anonimizadas ou anónimas. Inicia com a colheita prospetiva ou material previamente colhido e termina com a sua inclusão no banco de produtos. Incluí a investigação desenvolvida. ",
         "notasAp": [
             {
-                "idNota": "nota_800.10.608_e25966790c0e",
+                "idNota": "nota_800.10.608_a435b8d85ce4",
                 "nota": "Inventariação de estirpes"
             },
             {
-                "idNota": "nota_800.10.608_160e7ea67a21",
+                "idNota": "nota_800.10.608_bfb11118d99f",
                 "nota": "Banco de amostras biológicas"
             },
             {
-                "idNota": "nota_800.10.608_22fb80f1f9c5",
+                "idNota": "nota_800.10.608_9a2de96abd10",
                 "nota": "Banco de DNA"
             },
             {
-                "idNota": "nota_800.10.608_f953c092776e",
+                "idNota": "nota_800.10.608_7a74688be0e1",
                 "nota": "Bases de dados genéticos"
             },
             {
-                "idNota": "nota_800.10.608_4314719aab38",
+                "idNota": "nota_800.10.608_8611b13fe9ba",
                 "nota": "Biobancos"
             }
         ],
@@ -3091,43 +3181,43 @@
         "descricao": "Utilização de técnicas específicas de conservação de células, órgãos ou cadáveres de seres humanos, animais ou vegetais para fins de ensino, investigação ou tratamento. Inicia com a solicitação ou a determinação do ato de preservação e termina com o atestado de criopreservação, embalsamamento ou com a preparação da peça anatómica para fins científicos, pedagógicos ou museológicos. ",
         "notasAp": [
             {
-                "idNota": "nota_800.10.609_ca394a314ea4",
+                "idNota": "nota_800.10.609_9db68f26a9fe",
                 "nota": "Embalsamamento para transladação"
             },
             {
-                "idNota": "nota_800.10.609_bb2cbc6544e8",
+                "idNota": "nota_800.10.609_40ad0164a4e7",
                 "nota": "Formolização (formol) de órgão para estudo"
             },
             {
-                "idNota": "nota_800.10.609_61cf635454aa",
+                "idNota": "nota_800.10.609_2038db6790d7",
                 "nota": "Criopreservação"
             },
             {
-                "idNota": "nota_800.10.609_f15eb92e5784",
+                "idNota": "nota_800.10.609_bf5e203bfc55",
                 "nota": "Criopreservação ou crioconservação de células estaminais do cordão umbilical"
             },
             {
-                "idNota": "nota_800.10.609_c68f11fa78f1",
+                "idNota": "nota_800.10.609_bad4ba105076",
                 "nota": "Impregnação de órgãos ou tecidos biológicos com produtos conservantes, no âmbito científico, museulógico ou pedagógico"
             },
             {
-                "idNota": "nota_800.10.609_066f901dcc9e",
+                "idNota": "nota_800.10.609_2a00bf198196",
                 "nota": "Preservação de células"
             },
             {
-                "idNota": "nota_800.10.609_c01b0601d8a4",
+                "idNota": "nota_800.10.609_b65c3233031c",
                 "nota": "Taxidermia"
             },
             {
-                "idNota": "nota_800.10.609_6173ee9cda2f",
+                "idNota": "nota_800.10.609_278b3128bd77",
                 "nota": "Tanatopraxia reconstrução, conservação e preparação de cadáveres"
             },
             {
-                "idNota": "nota_800.10.609_2f1e3800b743",
+                "idNota": "nota_800.10.609_1f14caa88ae4",
                 "nota": "Tanatoconservação"
             },
             {
-                "idNota": "nota_800.10.609_e022bff850f4",
+                "idNota": "nota_800.10.609_b9c70e1f2902",
                 "nota": "Tanatologia forense"
             }
         ],
@@ -3233,33 +3323,33 @@
         "descricao": "Definição das grandezas físicas fundamentais (ou de base), das unidades derivadas e das unidades suplementares, de modo a assegurar a comparabilidade, a rastreabilidade e a manutenção dos padrões de medida. Inicia com a identificação da necessidade, ou na sequência de planeamento e termina com a divulgação das unidades padrão. Inclui identificação das constantes físicas fundamentais, realização, manutenção e desenvolvimento de padrões de unidades de medida, identificação da incerteza de medição, rastreabilidade de padrões, cálculo da grandeza e identificação de padrão. ",
         "notasAp": [
             {
-                "idNota": "nota_800.10.610_b57abc693a7c",
+                "idNota": "nota_800.10.610_f8443e6735f5",
                 "nota": "Sistema Internacional de Unidades"
             },
             {
-                "idNota": "nota_800.10.610_ac4fc758abe3",
+                "idNota": "nota_800.10.610_7f6bb3650650",
                 "nota": "Grandezas fundamentais do Sistema Internacional de Unidades (comprimento, massa, tempo, corrente elétrica, temperatura termodinâmica, quantidade de matéria, intensidade luminosa)"
             },
             {
-                "idNota": "nota_800.10.610_e126074e41b1",
+                "idNota": "nota_800.10.610_5743d7a099c1",
                 "nota": "Grandezas derivadas do Sistema Internacional de Unidades (área, volume, velocidade, aceleração, força, pressão, energia, potência)"
             },
             {
-                "idNota": "nota_800.10.610_52e5f76ea887",
+                "idNota": "nota_800.10.610_1879f2eb3ff6",
                 "nota": "Metrologia fundamental (científica ou primária)"
             },
             {
-                "idNota": "nota_800.10.610_af85a3811477",
+                "idNota": "nota_800.10.610_08a2c56fb2a0",
                 "nota": "Identificação de padrão primário, padrão secundário, padrão de referência, padrão de transferência e padrão de trabalho"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10.610_809427278180",
+                "idNota": "nota_800.10.610_d8f0baa77b5c",
                 "nota": "A aprovação dos instrumentos de medição deve ser considerada em 450.10.648 – Reconhecimento das características e origem de animais, bens, produtos e serviços"
             },
             {
-                "idNota": "nota_800.10.610_da7788c4c976",
+                "idNota": "nota_800.10.610_1ba3946ee530",
                 "nota": "A aferição de instrumentos de medida deve ser considerada em 500.10.303 – Controlo metrológico de instrumentos de medição"
             }
         ],
@@ -3268,7 +3358,8 @@
         "tipoProc": "PE",
         "procTrans": "N",
         "donos": [
-            "IPQ"
+            "IPQ",
+            "IES"
         ],
         "legislacao": [
             "DL_192_2006",
@@ -3326,42 +3417,43 @@
     {
         "codigo": "800.10.611",
         "nivel": 3,
-        "estado": "H",
+        "estado": "A",
         "titulo": "Comparação de melhores práticas: benchmarking",
         "descricao": "Apreciação, verificação, medição, comparação e identificação das melhores práticas utilizadas por entidades do setor, congéneres e/ou parceiras em áreas de negócio semelhantes, as quais constituirão referências no aperfeiçoamento do desempenho. Inicia com a manifestação de necessidade de conhecer e/ou melhorar um processo técnico ou de gestão e termina com a apresentação dos resultados obtidos. Inclui a identificação, recolha e análise de indicadores-chave de desempenho; a resposta e/ou a criação de inquéritos, estudos de caso, solicitações técnicas pontuais, entre outros; a disponibilização aos órgãos de decisão de informação comparativa do desempenho.",
         "notasAp": [
             {
-                "idNota": "nota_800.10.611_4e295065ec31",
+                "idNota": "nota_800.10.611_705bdd6c96e1",
                 "nota": "Comparação de metodologias técnicas e de gestão"
             },
             {
-                "idNota": "nota_800.10.611_021eb400b570",
+                "idNota": "nota_800.10.611_d1ebd9bfeea9",
                 "nota": "Análise do posicionamento da organização face às congéneres e identificação das melhores práticas em cada área de negócio"
             },
             {
-                "idNota": "nota_800.10.611_a9b17ce6e01c",
+                "idNota": "nota_800.10.611_80f03932718b",
                 "nota": "Análise da evolução da performance da organização em cada ano"
             },
             {
-                "idNota": "nota_800.10.611_28266cc9642d",
+                "idNota": "nota_800.10.611_383b91c33f31",
                 "nota": "Apoio aos órgãos de decisão na formulação de estratégias conducentes à implementação das boas práticas"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.10.611_fa0fdf99bb7f",
+                "idNota": "nota_800.10.611_40ffb25eaf99",
                 "nota": "A avaliação de atividades de uma entidade deve ser considerada em 150.20.300 – Avaliação de atividades"
             },
             {
-                "idNota": "nota_800.10.611_8fb12402d44e",
+                "idNota": "nota_800.10.611_5ac4aab1dfd1",
                 "nota": "A recolha e tratamento de dados estatísticos de apoio à gestão deve ser considerada em 150.40.500 – Recolha e tratamento de dados estatísticos de apoio à decisão"
             },
             {
-                "idNota": "nota_800.10.611_51e6625520ff",
+                "idNota": "nota_800.10.611_e6ba2cd28e42",
                 "nota": "A recolha e tratamento de dados estatísticos de apoio à regulação deve ser considerada em 150.40.501 – Recolha e tratamento de dados estatísticos de apoio à regulação"
             }
         ],
         "dimensao": "Normal",
+        "uniformizacao": "N",
         "tipoProc": "PC",
         "procTrans": "S",
         "donos": [
@@ -3389,10 +3481,14 @@
             "Regulamento_UE_1011_2016"
         ],
         "processosRelacionados": [
-            "150.20.300"
+            "150.20.300",
+            "500.10.001",
+            "500.10.301"
         ],
         "proRel": [
-            "eSintetizadoPor"
+            "eSintetizadoPor",
+            "eSuplementoPara",
+            "eSuplementoPara"
         ]
     },
     {
@@ -3416,7 +3512,7 @@
                 {
                     "critCodigo": "just_pca_c800.10.611.01_1",
                     "tipo": "utilidade",
-                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede doPN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração); doPN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede doPN 500.10.001 - Realização de auditorias;PN 500.10.301 - Realização de fiscalização.",
                     "procRefs": [
                         "500.10.001",
                         "500.10.301"
@@ -3459,7 +3555,7 @@
                 {
                     "critCodigo": "just_pca_c800.10.611.02_1",
                     "tipo": "utilidade",
-                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede doPN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração); doPN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).",
+                    "conteudo": "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede doPN 500.10.001 - Realização de auditorias;PN 500.10.301 - Realização de fiscalização.",
                     "procRefs": [
                         "500.10.001",
                         "500.10.301"
@@ -3489,29 +3585,29 @@
         "descricao": "Compreende os processos de conceção e de realização de projetos de investigação científica fundamental e aplicada e de desenvolvimento técnico e tecnológico, no que se inclui a conceção e o desenvolvimento de sistemas de informação. Inclui a pesquisa e o desenvolvimento experimental, a demonstração tecnológica e a transferência de conhecimento para inovação do setor produtivo, desenvolvidos no quadro das instituições académicas, dos centros de investigação, dos observatórios, dos laboratórios ou mesmo no quadro da Administração.",
         "notasAp": [
             {
-                "idNota": "nota_800.20_34b0a7cee299",
+                "idNota": "nota_800.20_8db0f0ad0a10",
                 "nota": "Projetos de investigação científica ou de investigação e desenvolvimento de produtos e processos com base experimental"
             },
             {
-                "idNota": "nota_800.20_a4f5faa39e74",
+                "idNota": "nota_800.20_0e1b43d8845e",
                 "nota": "Desenvolvimento de protótipos e outras formas de mostrar uma ideia, o desempenho de um método, ou as características de um produto"
             },
             {
-                "idNota": "nota_800.20_ca95438a3350",
+                "idNota": "nota_800.20_34a953516fa2",
                 "nota": "Desenvolvimento de produtos, processos, serviços, tecnologias ou ideias que estão prontamente disponíveis para os mercados, governos e sociedade, incluindo o desenvolvimento de sistemas de informação para a Administração Pública."
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.20_a025c58205d2",
+                "idNota": "nota_800.20_1d1e4b83f2dc",
                 "nota": "As candidaturas a programas de apoio financeiro à investigação devem ser consideradas em \\\"Execução de programas e de ações de incentivo/ Atribuição e controlo de financiamentos e de ajudas diretas\\\" (850.10)"
             },
             {
-                "idNota": "nota_800.20_2a8c2bdd7b12",
+                "idNota": "nota_800.20_0be912c45ac0",
                 "nota": "A publicação de trabalhos de investigação científica deve ser considerada em \\\"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\\\" (900.10)"
             },
             {
-                "idNota": "nota_800.20_f8c4b6f5d92d",
+                "idNota": "nota_800.20_5357ab90fcd1",
                 "nota": "A reengenharia de processos de trabalho da Administração deve ser considerada em “Planeamento e gestão estratégica/ Planeamento, avaliação e melhoria de serviços” (150.20)"
             }
         ]
@@ -3524,31 +3620,31 @@
         "descricao": "Criação de um processo de pesquisa orientado para a obtenção de conhecimentos fundamentais para um produto ou objetivo prático específico. Inicia com a apresentação de uma candidatura ou de um projeto de investigação e termina com a divulgação do resultado. Inclui apresentação de relatórios de progresso e final.",
         "notasAp": [
             {
-                "idNota": "nota_800.20.001_eb3a2ddef146",
+                "idNota": "nota_800.20.001_ac217fd04d55",
                 "nota": "A investigação básica, destina-se à progressão do conhecimento, não visa a obtenção de vantagens económicas ou sociais (produção de novas leis científicas e novos modelos)"
             },
             {
-                "idNota": "nota_800.20.001_ae186a6795d9",
+                "idNota": "nota_800.20.001_450ae4bd26be",
                 "nota": "Estudos de fenómenos biológicos"
             },
             {
-                "idNota": "nota_800.20.001_e2891983b6ed",
+                "idNota": "nota_800.20.001_28ff4b2c6b51",
                 "nota": "Estudos de fenómenos naturais"
             },
             {
-                "idNota": "nota_800.20.001_9c68542b4749",
+                "idNota": "nota_800.20.001_ad3ec76071d0",
                 "nota": "Estudos de fenómenos sociais"
             },
             {
-                "idNota": "nota_800.20.001_4584095894e4",
+                "idNota": "nota_800.20.001_ee3bcfdbb16a",
                 "nota": "Produção de novas leis científicas"
             },
             {
-                "idNota": "nota_800.20.001_fca687b82cf2",
+                "idNota": "nota_800.20.001_e6a35f24eff3",
                 "nota": "Produção de novos modelos"
             },
             {
-                "idNota": "nota_800.20.001_08c7b3b9e1aa",
+                "idNota": "nota_800.20.001_6ff2329ab037",
                 "nota": "Progressão de conhecimentos"
             }
         ],
@@ -3732,25 +3828,25 @@
         "descricao": "Otimização de um produto ou de um objetivo prático específico, assente nos pressupostos teóricos da investigação básica de forma a obter vantagens económicas ou sociais. Inicia com a seleção de um objeto de investigação e termina com a divulgação do resultado. Inclui apresentação de relatórios de progresso e final.",
         "notasAp": [
             {
-                "idNota": "nota_800.20.002_29c535cd84d8",
+                "idNota": "nota_800.20.002_18b55bf06567",
                 "nota": "Estudo de fenómenos biológicos"
             },
             {
-                "idNota": "nota_800.20.002_e35aeb1c9094",
+                "idNota": "nota_800.20.002_0ed8a4f7620d",
                 "nota": "Estudo de fenómenos naturais"
             },
             {
-                "idNota": "nota_800.20.002_1ee37e2c1a73",
+                "idNota": "nota_800.20.002_0df3c5f94b02",
                 "nota": "Estudo de fenómenos sociais"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.20.002_f7092c698e82",
+                "idNota": "nota_800.20.002_2ccf725688b1",
                 "nota": "O registo de patentes e modelos de utilidade devem ser considerados em 400.10.609 – Registo de patentes e modelos de utilidade"
             },
             {
-                "idNota": "nota_800.20.002_63ed9c96a621",
+                "idNota": "nota_800.20.002_31cb56fe3a3c",
                 "nota": "A investigação criminal deve ser considerada em \\\"Administração da justiça\\\" (600)"
             }
         ],
@@ -4019,37 +4115,37 @@
         "descricao": "Replicação do conhecimento obtido na investigação realizada e na experiência prática (prova de conceito), visando melhorar substancialmente ou desenvolver produtos, modelos, programas, métodos, procedimentos e serviços, novos ou existentes. Inicia com a apresentação de um projeto de desenvolvimento e termina com a apresentação do resultado. Inclui a definição de uma metodologia, requisitos, parâmetros ou processos e a sua validação, prototipagem. ",
         "notasAp": [
             {
-                "idNota": "nota_800.20.500_007230191ebb",
+                "idNota": "nota_800.20.500_594e3977a036",
                 "nota": "Desenvolvimento de aplicações"
             },
             {
-                "idNota": "nota_800.20.500_241dee6077bf",
+                "idNota": "nota_800.20.500_6766e9324343",
                 "nota": "Desenvolvimento de instrumentação nuclear"
             },
             {
-                "idNota": "nota_800.20.500_535cd4faa355",
+                "idNota": "nota_800.20.500_ba17724e14c0",
                 "nota": "Desenvolvimento de novos materiais"
             },
             {
-                "idNota": "nota_800.20.500_ba52a4cbf4d4",
+                "idNota": "nota_800.20.500_2a5aa4ff8f41",
                 "nota": "Desenvolvimento de novos padrões de medida e de controlo"
             },
             {
-                "idNota": "nota_800.20.500_e3d689832379",
+                "idNota": "nota_800.20.500_314576194b5e",
                 "nota": "Desenvolvimento de novos produtos"
             },
             {
-                "idNota": "nota_800.20.500_81a43bb83563",
+                "idNota": "nota_800.20.500_e70b6ab0b208",
                 "nota": "Desenvolvimento de novos serviços"
             },
             {
-                "idNota": "nota_800.20.500_d8dd3b32d5f1",
+                "idNota": "nota_800.20.500_f1355f2b2ef8",
                 "nota": "Desenvolvimento de sistemas de informação"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_800.20.500_9a9976339111",
+                "idNota": "nota_800.20.500_10a6710f213e",
                 "nota": "O registo de patentes e modelos de utilidade devem ser considerados em 400.10.609 – Registo de patentes e modelos de utilidade"
             }
         ],

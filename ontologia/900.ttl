@@ -18,77 +18,77 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900 ;
 	:descricao 'Compreende as atividades de conceção, de produção, de organização ou participação na organização de eventos, como sejam conferências, encontros, seminários, debates, exposições, festivais, espetáculos, ou outras atividades de caráter informativo, educativo, científico, cultural, desportivo, recreativo ou outro que estimulem a iniciativa e a participação das comunidades.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_7632961ff36c
-:nota_900.10_7632961ff36c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_e7c19aa2a3e5
+:nota_900.10_e7c19aa2a3e5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Todo o processo técnico e protocolar de organização (planeamento operacional, ações comuns de divulgação, processamento de inscrições, etc.), bem como eventuais registos dos eventos (comunicações e discursos, registos sonoros, audiovisuais).".
 
-:c900.10 :temNotaAplicacao :nota_900.10_7632961ff36c .
+:c900.10 :temNotaAplicacao :nota_900.10_e7c19aa2a3e5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_b3a73b540566
-:nota_900.10_b3a73b540566 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_bd7878270eef
+:nota_900.10_bd7878270eef rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Eventos e cerimónias desportivas".
 
-:c900.10 :temNotaAplicacao :nota_900.10_b3a73b540566 .
+:c900.10 :temNotaAplicacao :nota_900.10_bd7878270eef .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_209b0ae7e588
-:nota_900.10_209b0ae7e588 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_e68536269f92
+:nota_900.10_e68536269f92 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cerimónias de entrega de prémios ou distinções honoríficas".
 
-:c900.10 :temNotaAplicacao :nota_900.10_209b0ae7e588 .
+:c900.10 :temNotaAplicacao :nota_900.10_e68536269f92 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_3a988a7fab6d
-:nota_900.10_3a988a7fab6d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_c400f7a16d5b
+:nota_900.10_c400f7a16d5b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cerimónias e eventos comemorativos".
 
-:c900.10 :temNotaAplicacao :nota_900.10_3a988a7fab6d .
+:c900.10 :temNotaAplicacao :nota_900.10_c400f7a16d5b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_988c584958c5
-:nota_900.10_988c584958c5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_fb4e1d399322
+:nota_900.10_fb4e1d399322 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Ações de sensibilização".
 
-:c900.10 :temNotaAplicacao :nota_900.10_988c584958c5 .
+:c900.10 :temNotaAplicacao :nota_900.10_fb4e1d399322 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_c988715ee480
-:nota_900.10_c988715ee480 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_4dee0a47310c
+:nota_900.10_4dee0a47310c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Qualquer evento de divulgação e sensibilização pública ou dirigida a comunidades de interesse.".
 
-:c900.10 :temNotaAplicacao :nota_900.10_c988715ee480 .
+:c900.10 :temNotaAplicacao :nota_900.10_4dee0a47310c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_f76683ddb58d
-:nota_900.10_f76683ddb58d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_d59dcae3a899
+:nota_900.10_d59dcae3a899 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A organização da representação nacional em eventos internacionais, a organização de eventos de promoção do país no estrangeiro e a colaboração na organização de eventos de promoção de países estrangeiros em Portugal, devem ser consideradas em \"Execução da política externa/ Projetos de execução da política externa\" (200.30).".
 
-:c900.10 :temNotaExclusao :nota_900.10_f76683ddb58d .
+:c900.10 :temNotaExclusao :nota_900.10_d59dcae3a899 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_069816ccb3eb
-:nota_900.10_069816ccb3eb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_aaa2ae2ea7aa
+:nota_900.10_aaa2ae2ea7aa rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Conferências de imprensa devem ser consideradas em \"Dinamização e comunicação institucional/ Execução de atividades de protocolo e comunicação institucional\" (900.20)".
 
-:c900.10 :temNotaExclusao :nota_900.10_069816ccb3eb .
+:c900.10 :temNotaExclusao :nota_900.10_aaa2ae2ea7aa .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_b25c8f70971d
-:nota_900.10_b25c8f70971d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10_b7c471c3e27f
+:nota_900.10_b7c471c3e27f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processo de publicação de atas ou outros registos de eventos deve ser considerado em \"Dinamização e comunicação institucional/ Execução de atividades de protocolo e comunicação institucional\" (900.20)".
 
-:c900.10 :temNotaExclusao :nota_900.10_b25c8f70971d .
+:c900.10 :temNotaExclusao :nota_900.10_b7c471c3e27f .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c900.10.001
@@ -100,45 +100,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.10 ;
 	:descricao 'Criação e produção de iniciativas ou atividades artísticas de qualquer tipo. Inicia com a conceção da atividade ou obra e termina com a concretização da mesma. Inclui o desenvolvimento do conceito ou ideia, planeamento, estimativa dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável, definição dos meios de divulgação e produção.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001_8abcacb780e2
-:nota_900.10.001_8abcacb780e2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001_623a6746666b
+:nota_900.10.001_623a6746666b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Representação e exposição artística, teatral, cinematográfica, musical, televisiva".
 
-:c900.10.001 :temNotaAplicacao :nota_900.10.001_8abcacb780e2 .
+:c900.10.001 :temNotaAplicacao :nota_900.10.001_623a6746666b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001_45cb84c3baaa
-:nota_900.10.001_45cb84c3baaa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001_e3bd06205e7d
+:nota_900.10.001_e3bd06205e7d rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c900.10.001 :temNotaExclusao :nota_900.10.001_45cb84c3baaa .
+:c900.10.001 :temNotaExclusao :nota_900.10.001_e3bd06205e7d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001_30c661819fbc
-:nota_900.10.001_30c661819fbc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001_5e6f0a8a0f79
+:nota_900.10.001_5e6f0a8a0f79 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processamento de despesas e receitas deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c900.10.001 :temNotaExclusao :nota_900.10.001_30c661819fbc .
+:c900.10.001 :temNotaExclusao :nota_900.10.001_5e6f0a8a0f79 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001_35cdb2f3c094
-:nota_900.10.001_35cdb2f3c094 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001_923a70c8d276
+:nota_900.10.001_923a70c8d276 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As questões de segurança devem ser consideradas em 550.20.004 – Realização de piquetes de prevenção".
 
-:c900.10.001 :temNotaExclusao :nota_900.10.001_35cdb2f3c094 .
+:c900.10.001 :temNotaExclusao :nota_900.10.001_923a70c8d276 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001_bc74746134ed
-:nota_900.10.001_bc74746134ed rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001_c40ba6e0f5cb
+:nota_900.10.001_c40ba6e0f5cb rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A divulgação deve ser considerada em 900.20.201 - Edição e publicação de conteúdos".
 
-:c900.10.001 :temNotaExclusao :nota_900.10.001_bc74746134ed .
+:c900.10.001 :temNotaExclusao :nota_900.10.001_c40ba6e0f5cb .
 
 :c900.10.001 :processoTipoVC :vc_processoTipo_pc .
 :c900.10.001 :processoTransversal "S" .
@@ -252,37 +252,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.10.001 ;
 	:descricao 'Criação e registo de obras ou atividades artísticas. Inicia com a proposta ou iniciativa de criação da obra ou atividade e inclui a conceção ou planeamento, a autorização de realização e o registo documental do ato criativo (em imagem, som ou texto).' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.01_4f7a0986aff1
-:nota_900.10.001.01_4f7a0986aff1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.01_5d996563fc4d
+:nota_900.10.001.01_5d996563fc4d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Maquetes de cenografia".
 
-:c900.10.001.01 :temNotaAplicacao :nota_900.10.001.01_4f7a0986aff1 .
+:c900.10.001.01 :temNotaAplicacao :nota_900.10.001.01_5d996563fc4d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.01_da9a11abfae3
-:nota_900.10.001.01_da9a11abfae3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.01_903a1424d188
+:nota_900.10.001.01_903a1424d188 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Esboços e / ou desenhos de figurinos".
 
-:c900.10.001.01 :temNotaAplicacao :nota_900.10.001.01_da9a11abfae3 .
+:c900.10.001.01 :temNotaAplicacao :nota_900.10.001.01_903a1424d188 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.01_beeb9fd7f3c8
-:nota_900.10.001.01_beeb9fd7f3c8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.01_4979106141ec
+:nota_900.10.001.01_4979106141ec rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Memórias descritivas".
 
-:c900.10.001.01 :temNotaAplicacao :nota_900.10.001.01_beeb9fd7f3c8 .
+:c900.10.001.01 :temNotaAplicacao :nota_900.10.001.01_4979106141ec .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.01_6f65c4a985ea
-:nota_900.10.001.01_6f65c4a985ea rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.01_489e0b9efc82
+:nota_900.10.001.01_489e0b9efc82 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Registo fotográfico/vídeo da obra ou atividade".
 
-:c900.10.001.01 :temNotaAplicacao :nota_900.10.001.01_6f65c4a985ea .
+:c900.10.001.01 :temNotaAplicacao :nota_900.10.001.01_489e0b9efc82 .
 
 :c900.10.001.01 :temPCA :pca_c900.10.001.01.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.001.01
@@ -328,21 +328,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.10.001 ;
 	:descricao 'Concretização das ações necessárias à produção e apresentação de obras ou atividades artísticas. Inclui o planeamento operacional, a definição de meios, a logística e organização do espaço ou materiais, estudo de viabilidade (quando aplicável), a definição dos meios de divulgação, a produção e a apresentação de obra ou atividade.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.02_d2dbf2f9158b
-:nota_900.10.001.02_d2dbf2f9158b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.02_4ab60827e6c2
+:nota_900.10.001.02_4ab60827e6c2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Marcação de provas de guarda roupa".
 
-:c900.10.001.02 :temNotaAplicacao :nota_900.10.001.02_d2dbf2f9158b .
+:c900.10.001.02 :temNotaAplicacao :nota_900.10.001.02_4ab60827e6c2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.02_af9d2ef14ab4
-:nota_900.10.001.02_af9d2ef14ab4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.001.02_a2292c9f50bc
+:nota_900.10.001.02_a2292c9f50bc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Visionamento e revisão de filmes".
 
-:c900.10.001.02 :temNotaAplicacao :nota_900.10.001.02_af9d2ef14ab4 .
+:c900.10.001.02 :temNotaAplicacao :nota_900.10.001.02_a2292c9f50bc .
 
 :c900.10.001.02 :temPCA :pca_c900.10.001.02.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.001.02
@@ -390,45 +390,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.10 ;
 	:descricao 'Criação e produção de iniciativas e atividades de caráter desportivo, amador ou profissional, de recreação, entretenimento ou ocupação do tempo. Inicia com a conceção da atividade e termina com a concretização da mesma. Inclui o desenvolvimento do conceito ou ideia, planeamento, estimativa dos recursos a alocar, seleção e organização de espaços e do esquema protocolar, se aplicável, a definição dos meios de divulgação e a produção, a distribuição de eventuais convites, a gestão dos ingressos do público, a seleção dos executantes ou intervenientes nas atividades.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002_b55d7bd0be54
-:nota_900.10.002_b55d7bd0be54 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002_4038c516d6c1
+:nota_900.10.002_4038c516d6c1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Provas desportivas".
 
-:c900.10.002 :temNotaAplicacao :nota_900.10.002_b55d7bd0be54 .
+:c900.10.002 :temNotaAplicacao :nota_900.10.002_4038c516d6c1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002_250cd1bca0fe
-:nota_900.10.002_250cd1bca0fe rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002_386971bda3f1
+:nota_900.10.002_386971bda3f1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Sessões recreativas".
 
-:c900.10.002 :temNotaAplicacao :nota_900.10.002_250cd1bca0fe .
+:c900.10.002 :temNotaAplicacao :nota_900.10.002_386971bda3f1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002_e9b12a8bdf85
-:nota_900.10.002_e9b12a8bdf85 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002_84a0065d4a2b
+:nota_900.10.002_84a0065d4a2b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c900.10.002 :temNotaExclusao :nota_900.10.002_e9b12a8bdf85 .
+:c900.10.002 :temNotaExclusao :nota_900.10.002_84a0065d4a2b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002_cc883d9dfbf7
-:nota_900.10.002_cc883d9dfbf7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002_a3372478fbe5
+:nota_900.10.002_a3372478fbe5 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processamento de despesas e receitas deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c900.10.002 :temNotaExclusao :nota_900.10.002_cc883d9dfbf7 .
+:c900.10.002 :temNotaExclusao :nota_900.10.002_a3372478fbe5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002_769e2d8b359f
-:nota_900.10.002_769e2d8b359f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002_39e9a0ec3879
+:nota_900.10.002_39e9a0ec3879 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As questões de segurança devem ser consideradas em 550.20.004 – Realização de piquetes de prevenção".
 
-:c900.10.002 :temNotaExclusao :nota_900.10.002_769e2d8b359f .
+:c900.10.002 :temNotaExclusao :nota_900.10.002_39e9a0ec3879 .
 
 :c900.10.002 :processoTipoVC :vc_processoTipo_pc .
 :c900.10.002 :processoTransversal "S" .
@@ -535,21 +535,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.10.002 ;
 	:descricao 'Criação e registo de atividades desportivas ou recreativas. Inicia com a proposta ou iniciativa para atividade e inclui a conceção ou planeamento, a autorização de realização e o registo documental da iniciativa (em imagem, som ou texto).' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002.01_22a7bbed4226
-:nota_900.10.002.01_22a7bbed4226 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002.01_58a78649ef47
+:nota_900.10.002.01_58a78649ef47 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Registo fotográfico/vídeo da atividade desportiva".
 
-:c900.10.002.01 :temNotaAplicacao :nota_900.10.002.01_22a7bbed4226 .
+:c900.10.002.01 :temNotaAplicacao :nota_900.10.002.01_58a78649ef47 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002.01_1be14476860f
-:nota_900.10.002.01_1be14476860f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002.01_965f96e42c62
+:nota_900.10.002.01_965f96e42c62 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Registo fotográfico/vídeo da atividade recreativa".
 
-:c900.10.002.01 :temNotaAplicacao :nota_900.10.002.01_1be14476860f .
+:c900.10.002.01 :temNotaAplicacao :nota_900.10.002.01_965f96e42c62 .
 
 :c900.10.002.01 :temPCA :pca_c900.10.002.01.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.002.01
@@ -595,21 +595,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.10.002 ;
 	:descricao 'Concretização das ações necessárias à produção ou participação em atividades desportivas ou recreativas. Inclui o planeamento operacional, a definição de meios, a logística e organização do espaço ou materiais, estudo de viabilidade (quando aplicável), a definição dos meios de divulgação e a produção ou execução da atividade.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002.02_0e7ac96bdec5
-:nota_900.10.002.02_0e7ac96bdec5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002.02_ae4ed4797bf1
+:nota_900.10.002.02_ae4ed4797bf1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Marcação de percurso da atividade".
 
-:c900.10.002.02 :temNotaAplicacao :nota_900.10.002.02_0e7ac96bdec5 .
+:c900.10.002.02 :temNotaAplicacao :nota_900.10.002.02_ae4ed4797bf1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002.02_d3663c341919
-:nota_900.10.002.02_d3663c341919 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.002.02_ef69fce5241f
+:nota_900.10.002.02_ef69fce5241f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio logístico a provas desportivas".
 
-:c900.10.002.02 :temNotaAplicacao :nota_900.10.002.02_d3663c341919 .
+:c900.10.002.02 :temNotaAplicacao :nota_900.10.002.02_ef69fce5241f .
 
 :c900.10.002.02 :temPCA :pca_c900.10.002.02.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.002.02
@@ -657,69 +657,69 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.10 ;
 	:descricao 'Preparação e execução ou intervenção em atos de celebração de datas, pessoas ou acontecimentos relevantes e de entrega de prémios, distinções ou condecorações. Inicia com a proposta ou pedido de participação e termina com a realização do ato. Inclui, entre outras, o planeamento, a logística, estimativa dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável, a definição dos meios de divulgação e a produção.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_44b234a47dfc
-:nota_900.10.500_44b234a47dfc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_4b68020f16a1
+:nota_900.10.500_4b68020f16a1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Entrega de prémios".
 
-:c900.10.500 :temNotaAplicacao :nota_900.10.500_44b234a47dfc .
+:c900.10.500 :temNotaAplicacao :nota_900.10.500_4b68020f16a1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_0308ff137219
-:nota_900.10.500_0308ff137219 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_cb782dfc806f
+:nota_900.10.500_cb782dfc806f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Celebração de datas comemorativas".
 
-:c900.10.500 :temNotaAplicacao :nota_900.10.500_0308ff137219 .
+:c900.10.500 :temNotaAplicacao :nota_900.10.500_cb782dfc806f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_aaca0e294f4d
-:nota_900.10.500_aaca0e294f4d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_9aa601bbbf92
+:nota_900.10.500_9aa601bbbf92 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c900.10.500 :temNotaExclusao :nota_900.10.500_aaca0e294f4d .
+:c900.10.500 :temNotaExclusao :nota_900.10.500_9aa601bbbf92 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_0a4841e7424d
-:nota_900.10.500_0a4841e7424d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_487a831bf0e1
+:nota_900.10.500_487a831bf0e1 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A seleção dos premiados deve ser considerada em 850.10.500 – Atribuição de prémios".
 
-:c900.10.500 :temNotaExclusao :nota_900.10.500_0a4841e7424d .
+:c900.10.500 :temNotaExclusao :nota_900.10.500_487a831bf0e1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_d42a91458b19
-:nota_900.10.500_d42a91458b19 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_d4aa30d0a8b7
+:nota_900.10.500_d4aa30d0a8b7 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A seleção para atribuição de prémios de reconhecimento da prestação de atos cívicos ou para distinções honoríficas deve ser considerada em 950.30.001 – Reconhecimento por mérito e serviços prestados".
 
-:c900.10.500 :temNotaExclusao :nota_900.10.500_d42a91458b19 .
+:c900.10.500 :temNotaExclusao :nota_900.10.500_d4aa30d0a8b7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_cb85c1119275
-:nota_900.10.500_cb85c1119275 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_d3e315d5b174
+:nota_900.10.500_d3e315d5b174 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A divulgação da cerimónia deve ser considerada em 900.20.201 - Edição e publicação de conteúdos".
 
-:c900.10.500 :temNotaExclusao :nota_900.10.500_cb85c1119275 .
+:c900.10.500 :temNotaExclusao :nota_900.10.500_d3e315d5b174 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_9a28cd8b0d72
-:nota_900.10.500_9a28cd8b0d72 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_db79801a051f
+:nota_900.10.500_db79801a051f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As questões de segurança devem ser consideradas em 550.10 - Segurança pública".
 
-:c900.10.500 :temNotaExclusao :nota_900.10.500_9a28cd8b0d72 .
+:c900.10.500 :temNotaExclusao :nota_900.10.500_db79801a051f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_82560b92458b
-:nota_900.10.500_82560b92458b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500_acd3bb91e996
+:nota_900.10.500_acd3bb91e996 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A entrega de condecorações e distinções deve ser consideradada em 900.20.601 - Organização de cerimónias protocolares.".
 
-:c900.10.500 :temNotaExclusao :nota_900.10.500_82560b92458b .
+:c900.10.500 :temNotaExclusao :nota_900.10.500_acd3bb91e996 .
 
 :c900.10.500 :processoTipoVC :vc_processoTipo_pc .
 :c900.10.500 :processoTransversal "S" .
@@ -836,21 +836,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.10.500 ;
 	:descricao 'Planeamento, programação e registo de iniciativas comemorativas ou de homenagem. Inicia com a proposta e inclui a definição do cronograma, a identificação dos intervenientes, a decisão de execução da atividade e o seu registo (em imagem, som ou texto).' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500.01_7ae861d934a3
-:nota_900.10.500.01_7ae861d934a3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500.01_48915deb6d88
+:nota_900.10.500.01_48915deb6d88 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Programa da cerimónia".
 
-:c900.10.500.01 :temNotaAplicacao :nota_900.10.500.01_7ae861d934a3 .
+:c900.10.500.01 :temNotaAplicacao :nota_900.10.500.01_48915deb6d88 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500.01_477b803be966
-:nota_900.10.500.01_477b803be966 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500.01_2844ee9afafb
+:nota_900.10.500.01_2844ee9afafb rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Registo fotográfico/vídeo da cerimónia".
 
-:c900.10.500.01 :temNotaAplicacao :nota_900.10.500.01_477b803be966 .
+:c900.10.500.01 :temNotaAplicacao :nota_900.10.500.01_2844ee9afafb .
 
 :c900.10.500.01 :temPCA :pca_c900.10.500.01.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.500.01
@@ -896,13 +896,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.10.500 ;
 	:descricao 'Concretização das ações necessárias à execução de atividades comemorativas. Inclui o planeamento operacional, a definição dos recursos a utilizar, a logística e organização do espaço ou materiais e a realização da atividade.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500.02_e5f7c491f437
-:nota_900.10.500.02_e5f7c491f437 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.500.02_c542ed3cf3a7
+:nota_900.10.500.02_c542ed3cf3a7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio logístico à cerimónia".
 
-:c900.10.500.02 :temNotaAplicacao :nota_900.10.500.02_e5f7c491f437 .
+:c900.10.500.02 :temNotaAplicacao :nota_900.10.500.02_c542ed3cf3a7 .
 
 :c900.10.500.02 :temPCA :pca_c900.10.500.02.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.500.02
@@ -950,53 +950,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.10 ;
 	:descricao 'Preparação e execução ou intervenção em atividades de divulgação e troca de ideias técnicas, científicas, culturais, políticas, sociais, ambientais ou outras. Inicia com a proposta ou o pedido de participação e termina com a conclusão da atividade. Inclui, entre outras, o planeamento, a logística, estimativa dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável, a definição dos meios de divulgação e a produção.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_fa88755decb1
-:nota_900.10.501_fa88755decb1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_b65f6df3cd6a
+:nota_900.10.501_b65f6df3cd6a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apresentações em público e outras atividades especializadas ou de natureza técnica ou académica sobre algum tema concreto".
 
-:c900.10.501 :temNotaAplicacao :nota_900.10.501_fa88755decb1 .
+:c900.10.501 :temNotaAplicacao :nota_900.10.501_b65f6df3cd6a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_6a66f74f83db
-:nota_900.10.501_6a66f74f83db rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_41ddbdd0a6cf
+:nota_900.10.501_41ddbdd0a6cf rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c900.10.501 :temNotaExclusao :nota_900.10.501_6a66f74f83db .
+:c900.10.501 :temNotaExclusao :nota_900.10.501_41ddbdd0a6cf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_8d7c1db527ee
-:nota_900.10.501_8d7c1db527ee rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_36d92402aa4c
+:nota_900.10.501_36d92402aa4c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As questões de segurança devem ser consideradas em 550".
 
-:c900.10.501 :temNotaExclusao :nota_900.10.501_8d7c1db527ee .
+:c900.10.501 :temNotaExclusao :nota_900.10.501_36d92402aa4c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_276a38f27065
-:nota_900.10.501_276a38f27065 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_87b6fd343cc4
+:nota_900.10.501_87b6fd343cc4 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "10 - Segurança pública".
 
-:c900.10.501 :temNotaExclusao :nota_900.10.501_276a38f27065 .
+:c900.10.501 :temNotaExclusao :nota_900.10.501_87b6fd343cc4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_011b13877c8d
-:nota_900.10.501_011b13877c8d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_dfed74f0b619
+:nota_900.10.501_dfed74f0b619 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As campanhas de saúde com intervenção clínica devem ser consideradas em 700.20.101 – Realização de ações de promoção da saúde".
 
-:c900.10.501 :temNotaExclusao :nota_900.10.501_011b13877c8d .
+:c900.10.501 :temNotaExclusao :nota_900.10.501_dfed74f0b619 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_b5534273bd42
-:nota_900.10.501_b5534273bd42 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501_7844ceb1f3c7
+:nota_900.10.501_7844ceb1f3c7 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A divulgação, bem como a eventual publicação de atas deve ser considerada em 900.20.201 – Edição e publicação de conteúdos".
 
-:c900.10.501 :temNotaExclusao :nota_900.10.501_b5534273bd42 .
+:c900.10.501 :temNotaExclusao :nota_900.10.501_7844ceb1f3c7 .
 
 :c900.10.501 :processoTipoVC :vc_processoTipo_pc .
 :c900.10.501 :processoTransversal "S" .
@@ -1108,21 +1108,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.10.501 ;
 	:descricao 'Planeamento, programação e registo de iniciativas de partilha e debate crítico. Inicia com a proposta e inclui a definição do cronograma, a identificação dos intervenientes, a decisão de execução da atividade e o seu registo (em imagem, som ou texto).' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501.01_99d3925b5a12
-:nota_900.10.501.01_99d3925b5a12 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501.01_c135c17f3dd8
+:nota_900.10.501.01_c135c17f3dd8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Programa da iniciativa".
 
-:c900.10.501.01 :temNotaAplicacao :nota_900.10.501.01_99d3925b5a12 .
+:c900.10.501.01 :temNotaAplicacao :nota_900.10.501.01_c135c17f3dd8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501.01_01554bf3f62e
-:nota_900.10.501.01_01554bf3f62e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501.01_8beb5a543bc5
+:nota_900.10.501.01_8beb5a543bc5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Registo fotográfico/vídeo da iniciativa".
 
-:c900.10.501.01 :temNotaAplicacao :nota_900.10.501.01_01554bf3f62e .
+:c900.10.501.01 :temNotaAplicacao :nota_900.10.501.01_8beb5a543bc5 .
 
 :c900.10.501.01 :temPCA :pca_c900.10.501.01.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.501.01
@@ -1168,13 +1168,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.10.501 ;
 	:descricao 'Concretização das ações necessárias à execução de iniciativas de partilha e debate crítico. Inclui o planeamento operacional, a definição dos recursos a utilizar, a logística e organização do espaço ou materiais e a realização da atividade.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501.02_90e85894f988
-:nota_900.10.501.02_90e85894f988 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.501.02_c6f7bbfb9fb2
+:nota_900.10.501.02_c6f7bbfb9fb2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio logístico à iniciativa".
 
-:c900.10.501.02 :temNotaAplicacao :nota_900.10.501.02_90e85894f988 .
+:c900.10.501.02 :temNotaAplicacao :nota_900.10.501.02_c6f7bbfb9fb2 .
 
 :c900.10.501.02 :temPCA :pca_c900.10.501.02.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c900.10.501.02
@@ -1221,21 +1221,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.10 ;
 	:descricao 'Preparação e execução ou intervenção em ações que pretendem esclarecer, alertar ou prevenir riscos com o objetivo de alterar determinados comportamentos de natureza social, cultural ou cívica. Inicia com a proposta ou o pedido de participação e termina com a apreciação do relatório de execução da atividade. Inclui definição dos materiais informativos, distribuição e afetação de recursos, logística da ação, seleção e organização do espaço e do esquema protocolar, se aplicável.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.502_5a42aaa185c0
-:nota_900.10.502_5a42aaa185c0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.502_19bbbff4c806
+:nota_900.10.502_19bbbff4c806 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Sessões de abordagem direta à população ou a públicos-alvo".
 
-:c900.10.502 :temNotaAplicacao :nota_900.10.502_5a42aaa185c0 .
+:c900.10.502 :temNotaAplicacao :nota_900.10.502_19bbbff4c806 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.502_36592044f72f
-:nota_900.10.502_36592044f72f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.502_e8aa6b7e2c20
+:nota_900.10.502_e8aa6b7e2c20 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A conceção dos materiais e conteúdos informativos deve ser considerada em 900.20.200 – Conceção de conteúdos institucionais para divulgação".
 
-:c900.10.502 :temNotaExclusao :nota_900.10.502_36592044f72f .
+:c900.10.502 :temNotaExclusao :nota_900.10.502_e8aa6b7e2c20 .
 
 :c900.10.502 :processoTipoVC :vc_processoTipo_pc .
 :c900.10.502 :processoTransversal "S" .
@@ -1386,45 +1386,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.10 ;
 	:descricao 'Preparação e execução ou intervenção em atividades que estimulam o interesse ou dão a conhecer modos de vida, produtos ou serviços. Inicia com a proposta de realização ou o pedido de participação e termina com a apreciação do relatório de execução da atividade. Inclui, entre outras, o planeamento, a seleção dos participantes, articulação entre entidades, a logística, estimativa dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável, a definição dos meios de divulgação e a produção.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.503_92f68bc037bc
-:nota_900.10.503_92f68bc037bc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.503_7a0ac16ebfe3
+:nota_900.10.503_7a0ac16ebfe3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Organização de atividades do serviço educativo".
 
-:c900.10.503 :temNotaAplicacao :nota_900.10.503_92f68bc037bc .
+:c900.10.503 :temNotaAplicacao :nota_900.10.503_7a0ac16ebfe3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.503_6e0ac76cf12c
-:nota_900.10.503_6e0ac76cf12c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.503_d0c20cff4518
+:nota_900.10.503_d0c20cff4518 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A realização de ações de promoção da imagem de Portugal no estrangeiro, e de países estrangeiros em Portugal, deve ser considerada em 200.30.600 – Apoio à internacionalização e à promoção do país".
 
-:c900.10.503 :temNotaExclusao :nota_900.10.503_6e0ac76cf12c .
+:c900.10.503 :temNotaExclusao :nota_900.10.503_d0c20cff4518 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.503_a7e62c8a6695
-:nota_900.10.503_a7e62c8a6695 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.503_b43e74c1fc9d
+:nota_900.10.503_b43e74c1fc9d rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c900.10.503 :temNotaExclusao :nota_900.10.503_a7e62c8a6695 .
+:c900.10.503 :temNotaExclusao :nota_900.10.503_b43e74c1fc9d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.503_5e807552f773
-:nota_900.10.503_5e807552f773 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.503_192f137a1aa2
+:nota_900.10.503_192f137a1aa2 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processamento de despesas e receitas deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c900.10.503 :temNotaExclusao :nota_900.10.503_5e807552f773 .
+:c900.10.503 :temNotaExclusao :nota_900.10.503_192f137a1aa2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.503_771a9e30e42a
-:nota_900.10.503_771a9e30e42a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.503_84b02d9de6dc
+:nota_900.10.503_84b02d9de6dc rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A mera publicitação de iniciativas de terceiros deve ser considerada em 900.10.504 - Publicitação de iniciativas e atividades de terceiros".
 
-:c900.10.503 :temNotaExclusao :nota_900.10.503_771a9e30e42a .
+:c900.10.503 :temNotaExclusao :nota_900.10.503_84b02d9de6dc .
 
 :c900.10.503 :processoTipoVC :vc_processoTipo_pc .
 :c900.10.503 :processoTransversal "S" .
@@ -1576,29 +1576,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.10 ;
 	:descricao 'Divulgação de iniciativas e atividades de outras entidades. Inicia com o pedido de publicitação e termina com a decisão sobre a publicitação. Inclui a análise do pedido.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.504_4c3fd5bfda77
-:nota_900.10.504_4c3fd5bfda77 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.504_383af2521f95
+:nota_900.10.504_383af2521f95 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Quando não há qualquer intervenção no processo para além da publicitação da atividade ou iniciativa".
 
-:c900.10.504 :temNotaAplicacao :nota_900.10.504_4c3fd5bfda77 .
+:c900.10.504 :temNotaAplicacao :nota_900.10.504_383af2521f95 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.504_e79cbf4130ad
-:nota_900.10.504_e79cbf4130ad rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.504_e4b6f9d9a36c
+:nota_900.10.504_e4b6f9d9a36c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c900.10.504 :temNotaExclusao :nota_900.10.504_e79cbf4130ad .
+:c900.10.504 :temNotaExclusao :nota_900.10.504_e4b6f9d9a36c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.504_b55aa36d5c7a
-:nota_900.10.504_b55aa36d5c7a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.504_eea35092e26b
+:nota_900.10.504_eea35092e26b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A divulgação de atividades ou serviços de terceiros que envolva participação ativa da administração deve ser considerada em 900.10.503 – Organização e participação em iniciativas de promoção ou divulgação de produtos e serviços".
 
-:c900.10.504 :temNotaExclusao :nota_900.10.504_b55aa36d5c7a .
+:c900.10.504 :temNotaExclusao :nota_900.10.504_eea35092e26b .
 
 :c900.10.504 :processoTipoVC :vc_processoTipo_pc .
 :c900.10.504 :processoTransversal "S" .
@@ -1732,53 +1732,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.10 ;
 	:descricao 'Preparação e execução ou intervenção em iniciativas de cariz religioso. Inicia com o pedido de organização ou de participação em ato espiritual ou religioso e termina com a realização ou participação no ato. Inclui identificação do ato, programação, definição dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_d37ab22bb483
-:nota_900.10.505_d37ab22bb483 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_3d76a90a349d
+:nota_900.10.505_3d76a90a349d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Organização das celebrações espirituais e religiosas em estabelecimento prisional".
 
-:c900.10.505 :temNotaAplicacao :nota_900.10.505_d37ab22bb483 .
+:c900.10.505 :temNotaAplicacao :nota_900.10.505_3d76a90a349d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_cc6b0f3a7539
-:nota_900.10.505_cc6b0f3a7539 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_edb02e7b2cd8
+:nota_900.10.505_edb02e7b2cd8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cerimónias religiosas em centros educativos".
 
-:c900.10.505 :temNotaAplicacao :nota_900.10.505_cc6b0f3a7539 .
+:c900.10.505 :temNotaAplicacao :nota_900.10.505_edb02e7b2cd8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_a0b3eb5d2780
-:nota_900.10.505_a0b3eb5d2780 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_44445713b1e6
+:nota_900.10.505_44445713b1e6 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cerimónias religiosas em hospitais e outros estabelecimentos do Serviço Nacional de Saúde".
 
-:c900.10.505 :temNotaAplicacao :nota_900.10.505_a0b3eb5d2780 .
+:c900.10.505 :temNotaAplicacao :nota_900.10.505_44445713b1e6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_0651c7b50a65
-:nota_900.10.505_0651c7b50a65 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_1be4646b75f2
+:nota_900.10.505_1be4646b75f2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo " Cerimónias religiosas em estabelecimentos das Forças Armadas e Forças de Segurança".
 
-:c900.10.505 :temNotaAplicacao :nota_900.10.505_0651c7b50a65 .
+:c900.10.505 :temNotaAplicacao :nota_900.10.505_1be4646b75f2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_d7eca3b49b2b
-:nota_900.10.505_d7eca3b49b2b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_87c9aaa921a0
+:nota_900.10.505_87c9aaa921a0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Procissões religiosas comemorativas dos padroeiros".
 
-:c900.10.505 :temNotaAplicacao :nota_900.10.505_d7eca3b49b2b .
+:c900.10.505 :temNotaAplicacao :nota_900.10.505_87c9aaa921a0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_6b65f76e6d72
-:nota_900.10.505_6b65f76e6d72 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.10.505_b2ea6a327de4
+:nota_900.10.505_b2ea6a327de4 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As questões de segurança devem ser consideradas em 550.10 - Segurança pública".
 
-:c900.10.505 :temNotaExclusao :nota_900.10.505_6b65f76e6d72 .
+:c900.10.505 :temNotaExclusao :nota_900.10.505_b2ea6a327de4 .
 
 :c900.10.505 :processoTipoVC :vc_processoTipo_pe .
 :c900.10.505 :processoTransversal "N" .
@@ -1849,125 +1849,125 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900 ;
 	:descricao 'Compreende o conjunto de ações que visam a criação e promoção da imagem da instituição, bem como a administração estratégica dos contactos e do relacionamento entre a organização e os diferentes públicos que com ela se relacionam e interagem. Considerar a criação de identidade/imagem gráfica, a atividade editorial que suporta a publicação de conteúdos institucionais, o tratamento de informação publicada nos meios de comunicação social e na internet, a preparação de informação destinada à comunicação social, à internet e à intranet e, ainda, a conceção e produção de campanhas publicitárias e artigos promocionais. Compreende, ainda, o processamento de pedidos de informação/esclarecimento dirigidos por qualquer entidade, nacional ou estrangeira, aos serviços públicos (incluindo os pedidos apresentados por grupos parlamentares ou deputados).' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_c860abd83ef2
-:nota_900.20_c860abd83ef2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_2bd1eff3937a
+:nota_900.20_2bd1eff3937a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Mensagens de cortesia".
 
-:c900.20 :temNotaAplicacao :nota_900.20_c860abd83ef2 .
+:c900.20 :temNotaAplicacao :nota_900.20_2bd1eff3937a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_71f343ab87e0
-:nota_900.20_71f343ab87e0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_5bf2e88ff597
+:nota_900.20_5bf2e88ff597 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Convites institucionais (quando não incluídos no processo de organização de evento)".
 
-:c900.20 :temNotaAplicacao :nota_900.20_71f343ab87e0 .
+:c900.20 :temNotaAplicacao :nota_900.20_5bf2e88ff597 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_706a4b3c813c
-:nota_900.20_706a4b3c813c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_2e5438c1b74f
+:nota_900.20_2e5438c1b74f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Criação de logótipo e de linha gráfica (do organismo, da região, do produto, do programa, do serviço, do evento ou outros)".
 
-:c900.20 :temNotaAplicacao :nota_900.20_706a4b3c813c .
+:c900.20 :temNotaAplicacao :nota_900.20_2e5438c1b74f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_41c35b160906
-:nota_900.20_41c35b160906 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_f33083fedcf5
+:nota_900.20_f33083fedcf5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Gestão de conteúdos para a internet e intranet".
 
-:c900.20 :temNotaAplicacao :nota_900.20_41c35b160906 .
+:c900.20 :temNotaAplicacao :nota_900.20_f33083fedcf5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_aefad35e75d8
-:nota_900.20_aefad35e75d8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_30a8bdda39cd
+:nota_900.20_30a8bdda39cd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Publicações, em papel ou suporte eletrónico, de estudos, relatórios, boletins ou folhetos informativos".
 
-:c900.20 :temNotaAplicacao :nota_900.20_aefad35e75d8 .
+:c900.20 :temNotaAplicacao :nota_900.20_30a8bdda39cd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_2f11726c998a
-:nota_900.20_2f11726c998a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_d493d79b6ad5
+:nota_900.20_d493d79b6ad5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Comunicados e notas de imprensa, entrevistas aos meios de comunicação social".
 
-:c900.20 :temNotaAplicacao :nota_900.20_2f11726c998a .
+:c900.20 :temNotaAplicacao :nota_900.20_d493d79b6ad5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_da8a40a769ab
-:nota_900.20_da8a40a769ab rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_b2ac4b19a9b1
+:nota_900.20_b2ac4b19a9b1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Criação de spots publicitários para divulgação nos meios de comunicação social".
 
-:c900.20 :temNotaAplicacao :nota_900.20_da8a40a769ab .
+:c900.20 :temNotaAplicacao :nota_900.20_b2ac4b19a9b1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_7a224a06160d
-:nota_900.20_7a224a06160d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_b61112b245cf
+:nota_900.20_b61112b245cf rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cartazes".
 
-:c900.20 :temNotaAplicacao :nota_900.20_7a224a06160d .
+:c900.20 :temNotaAplicacao :nota_900.20_b61112b245cf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_eeb4abf1247d
-:nota_900.20_eeb4abf1247d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_0c997f057750
+:nota_900.20_0c997f057750 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Edição de reproduções de peças do património cultural".
 
-:c900.20 :temNotaAplicacao :nota_900.20_eeb4abf1247d .
+:c900.20 :temNotaAplicacao :nota_900.20_0c997f057750 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_f4bfa0da153b
-:nota_900.20_f4bfa0da153b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_3eea958ac037
+:nota_900.20_3eea958ac037 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Qualquer tipo de objeto promocional (canetas, camisolas, etc.)".
 
-:c900.20 :temNotaAplicacao :nota_900.20_f4bfa0da153b .
+:c900.20 :temNotaAplicacao :nota_900.20_3eea958ac037 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_eab3f0c89d30
-:nota_900.20_eab3f0c89d30 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_1a069218f902
+:nota_900.20_1a069218f902 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Resposta a pedidos de informação".
 
-:c900.20 :temNotaAplicacao :nota_900.20_eab3f0c89d30 .
+:c900.20 :temNotaAplicacao :nota_900.20_1a069218f902 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_dc2f7ed4d17a
-:nota_900.20_dc2f7ed4d17a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_66a357a0b83a
+:nota_900.20_66a357a0b83a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Bases de dados de contactos institucionais".
 
-:c900.20 :temNotaAplicacao :nota_900.20_dc2f7ed4d17a .
+:c900.20 :temNotaAplicacao :nota_900.20_66a357a0b83a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_452e2199dab2
-:nota_900.20_452e2199dab2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_7ef20e4de122
+:nota_900.20_7ef20e4de122 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processamento dos pedidos/requisições de acesso a documentos devem ser considerados em \"Administração de direitos, bens e serviços/ Utilização, exploração e rentabilidade\" (300.50)".
 
-:c900.20 :temNotaExclusao :nota_900.20_452e2199dab2 .
+:c900.20 :temNotaExclusao :nota_900.20_7ef20e4de122 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_07c2affb4457
-:nota_900.20_07c2affb4457 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_e3fed0ca749e
+:nota_900.20_e3fed0ca749e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Não confundir com pedidos de parecer no âmbito dos processos de negócio em que o organismo participa, os quais devem ser considerados na área respetiva".
 
-:c900.20 :temNotaExclusao :nota_900.20_07c2affb4457 .
+:c900.20 :temNotaExclusao :nota_900.20_e3fed0ca749e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_ca76e42d09f3
-:nota_900.20_ca76e42d09f3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20_c92c60971f32
+:nota_900.20_c92c60971f32 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Atividades como, por exemplo, edições para a divulgação de autores portugueses, devem ser consideradas em \"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\" (900.10)".
 
-:c900.20 :temNotaExclusao :nota_900.20_ca76e42d09f3 .
+:c900.20 :temNotaExclusao :nota_900.20_c92c60971f32 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c900.20.001
@@ -1979,13 +1979,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.20 ;
 	:descricao 'Conceção e consolidação da imagem gráfica uniformizada a utilizar por uma instituição, de modo a permitir o seu reconhecimento. Inicia com a decisão de criar ou de mudar a imagem e termina com a divulgação oficial dos objetos gráficos concebidos. Inclui criação e apresentação de propostas de imagem gráfica e a seleção do objeto gráfico.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.001_5c7593bf6e06
-:nota_900.20.001_5c7593bf6e06 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.001_43bc98dd934e
+:nota_900.20.001_43bc98dd934e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de serviços e produtos deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c900.20.001 :temNotaExclusao :nota_900.20.001_5c7593bf6e06 .
+:c900.20.001 :temNotaExclusao :nota_900.20.001_43bc98dd934e .
 
 :c900.20.001 :processoTipoVC :vc_processoTipo_pc .
 :c900.20.001 :processoTransversal "S" .
@@ -2094,13 +2094,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.20 ;
 	:descricao 'Conceção de produtos que consolidem e projetem a imagem da instituição na comunidade ou reforcem o simbolismo de um determinado acontecimento ou data. Inicia com a proposta de criação do produto ou artigo e termina com a apresentação do produto. Inclui definição e a aprovação do layout final.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.002_02f6fe84b015
-:nota_900.20.002_02f6fe84b015 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.002_3296d1fd103d
+:nota_900.20.002_3296d1fd103d rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de serviços deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c900.20.002 :temNotaExclusao :nota_900.20.002_02f6fe84b015 .
+:c900.20.002 :temNotaExclusao :nota_900.20.002_3296d1fd103d .
 
 :c900.20.002 :processoTipoVC :vc_processoTipo_pc .
 :c900.20.002 :processoTransversal "S" .
@@ -2208,61 +2208,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.20 ;
 	:descricao 'Elaboração de conteúdos inerentes às atividades da organização e à definição de modalidades de difusão. Inicia com a definição dos conteúdos e termina com o envio para processo editorial ou a publicação. Inclui a criação, a redação de textos e a gestão de conteúdos.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_1ba029504c70
-:nota_900.20.200_1ba029504c70 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_799819f4168a
+:nota_900.20.200_799819f4168a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Criação de conteúdos para divulgação na internet, intranet e nas redes sociais".
 
-:c900.20.200 :temNotaAplicacao :nota_900.20.200_1ba029504c70 .
+:c900.20.200 :temNotaAplicacao :nota_900.20.200_799819f4168a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_8bbb86c5cac3
-:nota_900.20.200_8bbb86c5cac3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_c77fda291af4
+:nota_900.20.200_c77fda291af4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Criação de conteúdos para folhetos institucionais e newsletter".
 
-:c900.20.200 :temNotaAplicacao :nota_900.20.200_8bbb86c5cac3 .
+:c900.20.200 :temNotaAplicacao :nota_900.20.200_c77fda291af4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_021d9e80a635
-:nota_900.20.200_021d9e80a635 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_ac8f41ace592
+:nota_900.20.200_ac8f41ace592 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Realização de campanhas e spots publicitários".
 
-:c900.20.200 :temNotaAplicacao :nota_900.20.200_021d9e80a635 .
+:c900.20.200 :temNotaAplicacao :nota_900.20.200_ac8f41ace592 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_013b4c9efb85
-:nota_900.20.200_013b4c9efb85 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_65d8e25751ae
+:nota_900.20.200_65d8e25751ae rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de serviços de ou para publicidade deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c900.20.200 :temNotaExclusao :nota_900.20.200_013b4c9efb85 .
+:c900.20.200 :temNotaExclusao :nota_900.20.200_65d8e25751ae .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_9d9793a000fe
-:nota_900.20.200_9d9793a000fe rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_5428b4d94b0f
+:nota_900.20.200_5428b4d94b0f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O arranjo gráfico de conteúdos informacionais no âmbito da atividade de edição deve ser considerado em 900.20.201 – Edição e publicação de conteúdos".
 
-:c900.20.200 :temNotaExclusao :nota_900.20.200_9d9793a000fe .
+:c900.20.200 :temNotaExclusao :nota_900.20.200_5428b4d94b0f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_4fc13bd28cb7
-:nota_900.20.200_4fc13bd28cb7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_932d689a479f
+:nota_900.20.200_932d689a479f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A comunicação de atos legislativos deve ser considerada em \"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\" (100.10)".
 
-:c900.20.200 :temNotaExclusao :nota_900.20.200_4fc13bd28cb7 .
+:c900.20.200 :temNotaExclusao :nota_900.20.200_932d689a479f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_b765167ec1c1
-:nota_900.20.200_b765167ec1c1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.200_9df49cb27950
+:nota_900.20.200_9df49cb27950 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A elaboração de conteúdos decorrentes de um PN específico deve ser considerada no respetivo PN".
 
-:c900.20.200 :temNotaExclusao :nota_900.20.200_b765167ec1c1 .
+:c900.20.200 :temNotaExclusao :nota_900.20.200_9df49cb27950 .
 
 :c900.20.200 :processoTipoVC :vc_processoTipo_pc .
 :c900.20.200 :processoTransversal "S" .
@@ -2389,37 +2389,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.20 ;
 	:descricao 'Edição de publicações e comunicação de conteúdos institucionais, por iniciativa própria, imposição legal ou proposta de outras entidades. Inicia com a proposta de elaboração, cumprimento legal ou convite para participação na obra ou produto e termina com a divulgação. Inclui a definição e aprovação de layout, execução gráfica, e a apresentação da versão final. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.201_45cbf9e65fb1
-:nota_900.20.201_45cbf9e65fb1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.201_b9d0e92bcc41
+:nota_900.20.201_b9d0e92bcc41 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Edição, reedição e reimpressão".
 
-:c900.20.201 :temNotaAplicacao :nota_900.20.201_45cbf9e65fb1 .
+:c900.20.201 :temNotaAplicacao :nota_900.20.201_b9d0e92bcc41 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.201_bfd87a63f81e
-:nota_900.20.201_bfd87a63f81e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.201_e87818349e80
+:nota_900.20.201_e87818349e80 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Publicitação da informação institucional de forma tradicional (por exemplo sob a forma de edital ou anúncio) ou eletrónica (como os portais, plataformas)".
 
-:c900.20.201 :temNotaAplicacao :nota_900.20.201_bfd87a63f81e .
+:c900.20.201 :temNotaAplicacao :nota_900.20.201_e87818349e80 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.201_77a887a98024
-:nota_900.20.201_77a887a98024 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.201_560c7c54125f
+:nota_900.20.201_560c7c54125f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Publicação de diretórios de entidades".
 
-:c900.20.201 :temNotaAplicacao :nota_900.20.201_77a887a98024 .
+:c900.20.201 :temNotaAplicacao :nota_900.20.201_560c7c54125f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.201_613b3c80fa9d
-:nota_900.20.201_613b3c80fa9d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.201_0e25734ae2fe
+:nota_900.20.201_0e25734ae2fe rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A conceção de conteúdos informacionais institucionais para posterior edição deve ser considerada em 900.20.200 – Conceção de conteúdos institucionais para divulgação".
 
-:c900.20.201 :temNotaExclusao :nota_900.20.201_613b3c80fa9d .
+:c900.20.201 :temNotaExclusao :nota_900.20.201_0e25734ae2fe .
 
 :c900.20.201 :processoTipoVC :vc_processoTipo_pc .
 :c900.20.201 :processoTransversal "S" .
@@ -2602,13 +2602,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.20 ;
 	:descricao 'Preparação e divulgação de informações e esclarecimentos sobre assuntos de interesse para a organização ou para a comunidade, através de órgãos de comunicação social. Inicia com a proposta ou decisão de transmitir a informação ou esclarecimento e termina com a comunicação da mesma. Inclui decisão e redação dos termos em que a comunicação vai ser feita.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.400_d9def1eeff2d
-:nota_900.20.400_d9def1eeff2d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.400_79f101990986
+:nota_900.20.400_79f101990986 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Exercício de direito de resposta".
 
-:c900.20.400 :temNotaAplicacao :nota_900.20.400_d9def1eeff2d .
+:c900.20.400 :temNotaAplicacao :nota_900.20.400_79f101990986 .
 
 :c900.20.400 :processoTipoVC :vc_processoTipo_pc .
 :c900.20.400 :processoTransversal "S" .
@@ -2807,13 +2807,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.20 ;
 	:descricao 'Processamento de informação veiculada pela comunicação social, independentemente do suporte, sobre matérias ou temas de interesse para a instituição ou relacionados com esta. Inicia com a seleção dos meios onde se faz a recolha e termina com a disponibilização dos resultados da análise ao serviço/entidade competente. Inclui consulta e seleção de notícias ou artigos de opinião e análise dos seus conteúdos.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.402_d61981cd5d02
-:nota_900.20.402_d61981cd5d02 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.402_7eaa046100e5
+:nota_900.20.402_7eaa046100e5 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A contratação de agência para esta recolha deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c900.20.402 :temNotaExclusao :nota_900.20.402_d61981cd5d02 .
+:c900.20.402 :temNotaExclusao :nota_900.20.402_7eaa046100e5 .
 
 :c900.20.402 :processoTipoVC :vc_processoTipo_pc .
 :c900.20.402 :processoTransversal "S" .
@@ -2912,45 +2912,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.20 ;
 	:descricao 'Criação e atualização de listagens, bases de dados ou outra agregação de contactos singulares ou coletivos que interagem ou são destinatários de produtos ou serviços institucionais. Inicia com a identificação dos potenciais interlocutores ou destinatários de interesse para o desenvolvimento das atividades organizacionais e termina com a manifestação de ausência de interesse na manutenção do contacto. Inclui sistematização da informação dos contactos e respetivo registo.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.600_cae76ea242ab
-:nota_900.20.600_cae76ea242ab rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.600_c455f7e87232
+:nota_900.20.600_c455f7e87232 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Criação de mailing list da Entidade".
 
-:c900.20.600 :temNotaAplicacao :nota_900.20.600_cae76ea242ab .
+:c900.20.600 :temNotaAplicacao :nota_900.20.600_c455f7e87232 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.600_e648c06b3cc2
-:nota_900.20.600_e648c06b3cc2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.600_1114c5314449
+:nota_900.20.600_1114c5314449 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Gestão de mailing list da Entidade".
 
-:c900.20.600 :temNotaAplicacao :nota_900.20.600_e648c06b3cc2 .
+:c900.20.600 :temNotaAplicacao :nota_900.20.600_1114c5314449 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.600_14434c1b1268
-:nota_900.20.600_14434c1b1268 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.600_a400b94b21bf
+:nota_900.20.600_a400b94b21bf rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de base de dados a outras entidades deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c900.20.600 :temNotaExclusao :nota_900.20.600_14434c1b1268 .
+:c900.20.600 :temNotaExclusao :nota_900.20.600_a400b94b21bf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.600_c959d7b21cf7
-:nota_900.20.600_c959d7b21cf7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.600_d0d8257d211a
+:nota_900.20.600_d0d8257d211a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A criação e gestão de utilizadores de Sistemas de Informação da entidade devem ser considerados no PN 300.50.802 – Registo e identificação de utilizadores de serviços e de sistemas de informação".
 
-:c900.20.600 :temNotaExclusao :nota_900.20.600_c959d7b21cf7 .
+:c900.20.600 :temNotaExclusao :nota_900.20.600_d0d8257d211a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.600_5b40df03bdec
-:nota_900.20.600_5b40df03bdec rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.600_02148036a26f
+:nota_900.20.600_02148036a26f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O registo e controlo de entidades prestadoras de serviços devem ser considerados no PN 300.50.803 – Identificação e caracterização de prestadores e fornecedores de bens e serviços".
 
-:c900.20.600 :temNotaExclusao :nota_900.20.600_5b40df03bdec .
+:c900.20.600 :temNotaExclusao :nota_900.20.600_02148036a26f .
 
 :c900.20.600 :processoTipoVC :vc_processoTipo_pc .
 :c900.20.600 :processoTransversal "S" .
@@ -3044,77 +3044,77 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.20 ;
 	:descricao 'Preparação e realização de atos solenes institucionais que impliquem cerimonial de Estado. Inicia com a comunicação do órgão ou serviço competente e termina com a realização da cerimónia. Inclui, entre outras, a logística e organização dos espaços, de acordo com as regras do protocolo, e dos meios de divulgação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_8557be6b96a4
-:nota_900.20.601_8557be6b96a4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_584ed2105215
+:nota_900.20.601_584ed2105215 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cerimónias de tomada de posse".
 
-:c900.20.601 :temNotaAplicacao :nota_900.20.601_8557be6b96a4 .
+:c900.20.601 :temNotaAplicacao :nota_900.20.601_584ed2105215 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_c9a77cbf7ffe
-:nota_900.20.601_c9a77cbf7ffe rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_cee3d8136ee1
+:nota_900.20.601_cee3d8136ee1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cerimónias de assinatura de documentos".
 
-:c900.20.601 :temNotaAplicacao :nota_900.20.601_c9a77cbf7ffe .
+:c900.20.601 :temNotaAplicacao :nota_900.20.601_cee3d8136ee1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_70961dc470b3
-:nota_900.20.601_70961dc470b3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_3fdf14a74c81
+:nota_900.20.601_3fdf14a74c81 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cerimónias de apresentação de credenciais".
 
-:c900.20.601 :temNotaAplicacao :nota_900.20.601_70961dc470b3 .
+:c900.20.601 :temNotaAplicacao :nota_900.20.601_3fdf14a74c81 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_89923f1a001a
-:nota_900.20.601_89923f1a001a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_602dd72c75f7
+:nota_900.20.601_602dd72c75f7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cermónias fúnebres com honras de Estado".
 
-:c900.20.601 :temNotaAplicacao :nota_900.20.601_89923f1a001a .
+:c900.20.601 :temNotaAplicacao :nota_900.20.601_602dd72c75f7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_f855c7a34e02
-:nota_900.20.601_f855c7a34e02 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_1712ec8f259d
+:nota_900.20.601_1712ec8f259d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cerimónias nacionais".
 
-:c900.20.601 :temNotaAplicacao :nota_900.20.601_f855c7a34e02 .
+:c900.20.601 :temNotaAplicacao :nota_900.20.601_1712ec8f259d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_a9113585d26c
-:nota_900.20.601_a9113585d26c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_de285f261371
+:nota_900.20.601_de285f261371 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cerimónias de entrega de condecorações e distinções".
 
-:c900.20.601 :temNotaAplicacao :nota_900.20.601_a9113585d26c .
+:c900.20.601 :temNotaAplicacao :nota_900.20.601_de285f261371 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_d745a315cb13
-:nota_900.20.601_d745a315cb13 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_2de22bb368d5
+:nota_900.20.601_2de22bb368d5 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de serviços deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e prestação de serviços".
 
-:c900.20.601 :temNotaExclusao :nota_900.20.601_d745a315cb13 .
+:c900.20.601 :temNotaExclusao :nota_900.20.601_2de22bb368d5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_696a78df646d
-:nota_900.20.601_696a78df646d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_67beffccd6ae
+:nota_900.20.601_67beffccd6ae rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As questões de segurança devem ser consideradas em 550.10 – Segurança pública".
 
-:c900.20.601 :temNotaExclusao :nota_900.20.601_696a78df646d .
+:c900.20.601 :temNotaExclusao :nota_900.20.601_67beffccd6ae .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_7ae175298462
-:nota_900.20.601_7ae175298462 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.601_24065f688249
+:nota_900.20.601_24065f688249 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A atribuição de medalhas e distinções de mérito por serviços prestados deve ser considerada em 950.30.001 - Reconhecimento por mérito e serviços prestados".
 
-:c900.20.601 :temNotaExclusao :nota_900.20.601_7ae175298462 .
+:c900.20.601 :temNotaExclusao :nota_900.20.601_24065f688249 .
 
 :c900.20.601 :processoTipoVC :vc_processoTipo_pc .
 :c900.20.601 :processoTransversal "S" .
@@ -3289,61 +3289,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.20 ;
 	:descricao 'Preparação e realização de visitas de comitivas nacionais ou estrangeiras. Inicia com o pedido ou proposta da visita e termina com a concretização da mesma. Inclui, entre outras, o planeamento, a logística e organização dos espaços ou materiais, a definição do programa e dos meios de divulgação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_551e948c82e9
-:nota_900.20.602_551e948c82e9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_93f657ad5974
+:nota_900.20.602_93f657ad5974 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Receção de entidades".
 
-:c900.20.602 :temNotaAplicacao :nota_900.20.602_551e948c82e9 .
+:c900.20.602 :temNotaAplicacao :nota_900.20.602_93f657ad5974 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_42409f257b5c
-:nota_900.20.602_42409f257b5c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_e5a5ab35dcd9
+:nota_900.20.602_e5a5ab35dcd9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Participação em visitas a outras entidades".
 
-:c900.20.602 :temNotaAplicacao :nota_900.20.602_42409f257b5c .
+:c900.20.602 :temNotaAplicacao :nota_900.20.602_e5a5ab35dcd9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_cc3965c0d47f
-:nota_900.20.602_cc3965c0d47f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_998b4e360daf
+:nota_900.20.602_998b4e360daf rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Visitas oficiais".
 
-:c900.20.602 :temNotaAplicacao :nota_900.20.602_cc3965c0d47f .
+:c900.20.602 :temNotaAplicacao :nota_900.20.602_998b4e360daf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_cfc1166a6e26
-:nota_900.20.602_cfc1166a6e26 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_02bfafd043bf
+:nota_900.20.602_02bfafd043bf rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Visitas não oficiais".
 
-:c900.20.602 :temNotaAplicacao :nota_900.20.602_cfc1166a6e26 .
+:c900.20.602 :temNotaAplicacao :nota_900.20.602_02bfafd043bf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_94f5d1cf3056
-:nota_900.20.602_94f5d1cf3056 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_ee126281dc05
+:nota_900.20.602_ee126281dc05 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As visitas de Estado devem ser consideradas em 200.20.500 – Organização de visitas de Estado ou equiparadas".
 
-:c900.20.602 :temNotaExclusao :nota_900.20.602_94f5d1cf3056 .
+:c900.20.602 :temNotaExclusao :nota_900.20.602_ee126281dc05 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_14cf50220f1a
-:nota_900.20.602_14cf50220f1a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_e8c489ec544c
+:nota_900.20.602_e8c489ec544c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de serviços deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c900.20.602 :temNotaExclusao :nota_900.20.602_14cf50220f1a .
+:c900.20.602 :temNotaExclusao :nota_900.20.602_e8c489ec544c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_9a3f14a64a9e
-:nota_900.20.602_9a3f14a64a9e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.602_2f8f23694211
+:nota_900.20.602_2f8f23694211 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As questões de segurança devem ser consideradas em 550.10 - Segurança pública".
 
-:c900.20.602 :temNotaExclusao :nota_900.20.602_9a3f14a64a9e .
+:c900.20.602 :temNotaExclusao :nota_900.20.602_2f8f23694211 .
 
 :c900.20.602 :processoTipoVC :vc_processoTipo_pc .
 :c900.20.602 :processoTransversal "S" .
@@ -3584,6 +3584,8 @@
 :c900.20.603 :eSintetizadoPor :c150.20.300 .
 :c900.20.603 :temRelProc :c300.30.008 .
 :c900.20.603 :eSintetizadoPor :c300.30.008 .
+:c900.20.603 :temRelProc :c500.10.001 .
+:c900.20.603 :eSuplementoPara :c500.10.001 .
 :c900.20.603 :temPCA :pca_c900.20.603.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.603
 :pca_c900.20.603 rdf:type owl:NamedIndividual ,
@@ -3629,101 +3631,101 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.20 ;
 	:descricao 'Processamento de informações recebidas e de pedidos de informações e/ou esclarecimentos dirigidos à ou pela instituição. Inicia com a receção ou envio do pedido e termina com a resposta ao mesmo. Inclui análise ou elaboração do pedido, recolha de informação pertinente e preparação da resposta.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_1bcacf87c0d4
-:nota_900.20.604_1bcacf87c0d4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_87f48a7f0f75
+:nota_900.20.604_87f48a7f0f75 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pedidos de informação que não integrem um processo específico".
 
-:c900.20.604 :temNotaAplicacao :nota_900.20.604_1bcacf87c0d4 .
+:c900.20.604 :temNotaAplicacao :nota_900.20.604_87f48a7f0f75 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_8f6ee68203a5
-:nota_900.20.604_8f6ee68203a5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_cde0692bc284
+:nota_900.20.604_cde0692bc284 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Receção e resposta a pedidos efetuados à entidade ou pela entidade".
 
-:c900.20.604 :temNotaAplicacao :nota_900.20.604_8f6ee68203a5 .
+:c900.20.604 :temNotaAplicacao :nota_900.20.604_cde0692bc284 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_3c74b7068741
-:nota_900.20.604_3c74b7068741 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_5ac9b8a1f732
+:nota_900.20.604_5ac9b8a1f732 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A emissão de informações vinculativas deve ser considerada em 100.20.001 – Produção de pareceres técnico-jurídicos de interpretação de diplomas jurídico-normativos".
 
-:c900.20.604 :temNotaExclusao :nota_900.20.604_3c74b7068741 .
+:c900.20.604 :temNotaExclusao :nota_900.20.604_5ac9b8a1f732 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_0bbcdf521d62
-:nota_900.20.604_0bbcdf521d62 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_07c4fa83c900
+:nota_900.20.604_07c4fa83c900 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As instruções para a aplicação de normas e diplomas legais devem ser consideradas, respetivamente, em 100.20.200 - Produção e comunicação de instruções para a aplicação de diplomas jurídico-normativos".
 
-:c900.20.604 :temNotaExclusao :nota_900.20.604_0bbcdf521d62 .
+:c900.20.604 :temNotaExclusao :nota_900.20.604_07c4fa83c900 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_0d536dedbf44
-:nota_900.20.604_0d536dedbf44 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_2db527fdae8c
+:nota_900.20.604_2db527fdae8c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As orientações e pareceres para a interpretação de normas técnicas devem ser consideradas em 100.20.400 - Produção de orientações e pareceres para a interpretação da norma técnica".
 
-:c900.20.604 :temNotaExclusao :nota_900.20.604_0d536dedbf44 .
+:c900.20.604 :temNotaExclusao :nota_900.20.604_2db527fdae8c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_09dfe81710e2
-:nota_900.20.604_09dfe81710e2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_78bec6022fec
+:nota_900.20.604_78bec6022fec rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pedidos de informação e de consulta ao abrigo do direito de informação devem ser considerados no PN 300.50.400 - Processamento de pedidos de consulta e reprodução de documentos e informação".
 
-:c900.20.604 :temNotaExclusao :nota_900.20.604_09dfe81710e2 .
+:c900.20.604 :temNotaExclusao :nota_900.20.604_78bec6022fec .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_8ee5bd10427f
-:nota_900.20.604_8ee5bd10427f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_c6a1aa5b60aa
+:nota_900.20.604_c6a1aa5b60aa rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As reclamações devem ser consideradas em 950.20.001 – Processamento de petições, reclamações e sugestões".
 
-:c900.20.604 :temNotaExclusao :nota_900.20.604_8ee5bd10427f .
+:c900.20.604 :temNotaExclusao :nota_900.20.604_c6a1aa5b60aa .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_a911f45f0bd6
-:nota_900.20.604_a911f45f0bd6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_4c206b091c0d
+:nota_900.20.604_4c206b091c0d rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A elaboração de informações ou esclarecimentos institucionais para a comunicação social deve ser considerada em 900.20.400 – Elaboração de informações ou esclarecimentos institucionais para a comunicação social".
 
-:c900.20.604 :temNotaExclusao :nota_900.20.604_a911f45f0bd6 .
+:c900.20.604 :temNotaExclusao :nota_900.20.604_4c206b091c0d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_7540aeea6ad3
-:nota_900.20.604_7540aeea6ad3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_bcabb0dec2c9
+:nota_900.20.604_bcabb0dec2c9 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os convites para eventos devem ser classificados no respetivo PN do evento, na classe 900.10".
 
-:c900.20.604 :temNotaExclusao :nota_900.20.604_7540aeea6ad3 .
+:c900.20.604 :temNotaExclusao :nota_900.20.604_bcabb0dec2c9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_e46ba01ddecb
-:nota_900.20.604_e46ba01ddecb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_16bfc5e7156f
+:nota_900.20.604_16bfc5e7156f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A divulgação ou pedidos de divulgação de eventos por outras entidades devem ser classificados em 900.10.504 - Publicitação de iniciativas e atividades de terceiros".
 
-:c900.20.604 :temNotaExclusao :nota_900.20.604_e46ba01ddecb .
+:c900.20.604 :temNotaExclusao :nota_900.20.604_16bfc5e7156f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_2a1a955d1c20
-:nota_900.20.604_2a1a955d1c20 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_1a59859fbc43
+:nota_900.20.604_1a59859fbc43 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As mensagens de cortesia devem ser classificadas em 900.20.605 - Processamento de mensagens de cortesia".
 
-:c900.20.604 :temNotaExclusao :nota_900.20.604_2a1a955d1c20 .
+:c900.20.604 :temNotaExclusao :nota_900.20.604_1a59859fbc43 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_4fff7e80e4ee
-:nota_900.20.604_4fff7e80e4ee rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.604_fd152bc57f27
+:nota_900.20.604_fd152bc57f27 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pedidos de informação sobre processos específicos devem ser considerados no âmbito dos mesmos".
 
-:c900.20.604 :temNotaExclusao :nota_900.20.604_4fff7e80e4ee .
+:c900.20.604 :temNotaExclusao :nota_900.20.604_fd152bc57f27 .
 
 :c900.20.604 :processoTipoVC :vc_processoTipo_pc .
 :c900.20.604 :processoTransversal "S" .
@@ -3803,6 +3805,8 @@
 :c900.20.604 :eSintetizadoPor :c150.20.300 .
 :c900.20.604 :temRelProc :c300.30.008 .
 :c900.20.604 :eSintetizadoPor :c300.30.008 .
+:c900.20.604 :temRelProc :c500.10.001 .
+:c900.20.604 :eSuplementoPara :c500.10.001 .
 :c900.20.604 :temPCA :pca_c900.20.604.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c900.20.604
 :pca_c900.20.604 rdf:type owl:NamedIndividual ,
@@ -3848,77 +3852,77 @@
 	:pertenceLC :lc1 ;
 	:temPai :c900.20 ;
 	:descricao 'Tratamento de mensagens de cortesia dirigidas à ou pela instituição. Inicia com a receção ou envio da mensagem e termina, quando aplicável, com a resposta à mesma. Inclui análise ou elaboração da mensagem e, quando aplicável, recolha de informação pertinente e preparação da resposta.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_6765717fa736
-:nota_900.20.605_6765717fa736 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_5ded10402a60
+:nota_900.20.605_5ded10402a60 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apresentação de mensagens de boas vindas".
 
-:c900.20.605 :temNotaAplicacao :nota_900.20.605_6765717fa736 .
+:c900.20.605 :temNotaAplicacao :nota_900.20.605_5ded10402a60 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_4336f2185ebd
-:nota_900.20.605_4336f2185ebd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_ffc431fea42b
+:nota_900.20.605_ffc431fea42b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apresentação de mensagens de despedida".
 
-:c900.20.605 :temNotaAplicacao :nota_900.20.605_4336f2185ebd .
+:c900.20.605 :temNotaAplicacao :nota_900.20.605_ffc431fea42b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_1974e83045bb
-:nota_900.20.605_1974e83045bb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_d222652e6e89
+:nota_900.20.605_d222652e6e89 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apresentação de mensagens de congratulação".
 
-:c900.20.605 :temNotaAplicacao :nota_900.20.605_1974e83045bb .
+:c900.20.605 :temNotaAplicacao :nota_900.20.605_d222652e6e89 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_fb320818f441
-:nota_900.20.605_fb320818f441 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_16c8566e189c
+:nota_900.20.605_16c8566e189c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apresentação de cumprimentos".
 
-:c900.20.605 :temNotaAplicacao :nota_900.20.605_fb320818f441 .
+:c900.20.605 :temNotaAplicacao :nota_900.20.605_16c8566e189c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_16be1f61966c
-:nota_900.20.605_16be1f61966c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_c1ec1982d86a
+:nota_900.20.605_c1ec1982d86a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Convites institucionais (quando não incluídos no processo de organização de evento)".
 
-:c900.20.605 :temNotaAplicacao :nota_900.20.605_16be1f61966c .
+:c900.20.605 :temNotaAplicacao :nota_900.20.605_c1ec1982d86a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_c59916e51b81
-:nota_900.20.605_c59916e51b81 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_ac910e6331af
+:nota_900.20.605_ac910e6331af rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apresentação de mensagens de boas festas".
 
-:c900.20.605 :temNotaAplicacao :nota_900.20.605_c59916e51b81 .
+:c900.20.605 :temNotaAplicacao :nota_900.20.605_ac910e6331af .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_a77b16087b4c
-:nota_900.20.605_a77b16087b4c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_b5a0e1ff41c8
+:nota_900.20.605_b5a0e1ff41c8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apresentação de mensagens de condolências".
 
-:c900.20.605 :temNotaAplicacao :nota_900.20.605_a77b16087b4c .
+:c900.20.605 :temNotaAplicacao :nota_900.20.605_b5a0e1ff41c8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_16895b877268
-:nota_900.20.605_16895b877268 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_de9b097bd46c
+:nota_900.20.605_de9b097bd46c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Notas verbais".
 
-:c900.20.605 :temNotaAplicacao :nota_900.20.605_16895b877268 .
+:c900.20.605 :temNotaAplicacao :nota_900.20.605_de9b097bd46c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_94d1839758e5
-:nota_900.20.605_94d1839758e5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_900.20.605_dcf0c775e64a
+:nota_900.20.605_dcf0c775e64a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os convites institucionais, no âmbito da organização de um evento, deverão ser considerados no PN da respetiva organização do evento ou atividade de dinamização.O processamento de mensagens de elogio ou agradecimento a entidade pela qualidade de serviços prestados deve ser considerado em 950.20.300 – Processamento de mensagens de elogio e de agradecimento.".
 
-:c900.20.605 :temNotaExclusao :nota_900.20.605_94d1839758e5 .
+:c900.20.605 :temNotaExclusao :nota_900.20.605_dcf0c775e64a .
 
 :c900.20.605 :processoTipoVC :vc_processoTipo_pc .
 :c900.20.605 :processoTransversal "S" .

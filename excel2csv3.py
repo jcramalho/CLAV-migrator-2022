@@ -6,7 +6,7 @@ import entidade as e
 import tipologia as tip
 import leg 
 
-data_file = '../dados/excel/Frecolha-20220608.xlsx'
+data_file = '../dados/excel/Frecolha-20220923.xlsx'
 sheets = ['100_csv','150_csv','200_csv','250_csv','300_csv','350_csv','400_csv','450_csv','500_csv','550_csv','600_csv',
             '650_csv','700_csv','710_csv','750_csv','800_csv','850_csv','900_csv','950_csv']
 

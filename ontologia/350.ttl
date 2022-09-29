@@ -8,21 +8,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :lc1 ;
 	:descricao 'Relativo à execução orçamental (no que se incluem os processamentos de despesas e de arrecadação de receitas), à gestão do Tesouro, da dívida e das aplicações financeiras.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350_4c2a86aea28a
-:nota_350_4c2a86aea28a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350_3041c69eb075
+:nota_350_3041c69eb075 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Abrange a execução do conjunto dos orçamentos de receita e de despesa (correntes e de capital) dos serviços públicos e fundos autónomos".
 
-:c350 :temNotaAplicacao :nota_350_4c2a86aea28a .
+:c350 :temNotaAplicacao :nota_350_3041c69eb075 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350_8036b3bd7cfa
-:nota_350_8036b3bd7cfa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350_78189d6ef169
+:nota_350_78189d6ef169 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os procedimentos de preparação do orçamento e das alterações orçamentais, cativação/descativação de verbas, e a prestação de contas, devem ser considerados em \"Planeamento e gestão estratégica/Planeamento, avaliação e melhoria dos serviços\" (150.20);O exercício de direitos de acionista deve ser considerado na área a que diz respeito o exercício de cada processo em concreto – \"Planeamento e gestão estratégia\" (150), \"Ordenamento jurídico e normativo\" (100), entre outras;O controlo da emissão e circulação de moeda deve ser considerado no âmbito da \"Supervisão, controlo e responsabilização\" (500) ou do \"Ordenamento jurídico e normativo\" (100), de acordo com o processo em causa".
 
-:c350 :temNotaExclusao :nota_350_8036b3bd7cfa .
+:c350 :temNotaExclusao :nota_350_78189d6ef169 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c350.10
@@ -34,101 +34,101 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350 ;
 	:descricao 'Compreende a contabilização da despesa e a liquidação de receita, no que se inclui a gestão dos impostos e das contribuições. Considerar aqui a operação orçamental de reconhecimento dos direitos dos credores e das obrigações assumidas, nomeadamente nas fases de registo contabilístico de cabimento, compromisso e liquidação. Inclui a certificação de despesas, tendo por base os títulos e documentos do respetivo crédito ou habilitação ao benefício e a informação para entrega de recursos equivalentes à dívida liquidada ao credor. Considerar igualmente aqui no âmbito da gestão de imposto, as atividades relacionadas com o ato declarativo, o controlo de faltosos, o controlo de divergências e a liquidação. Compreende ainda o calculo e/ou lançamento de receitas provenientes da prestação de serviços (taxas) e da venda de produtos. Inclui o processamento de isenção, redução ou fracionamento.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_bfb30a28a970
-:nota_350.10_bfb30a28a970 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_1c7f80134d69
+:nota_350.10_1c7f80134d69 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processamento de remunerações".
 
-:c350.10 :temNotaAplicacao :nota_350.10_bfb30a28a970 .
+:c350.10 :temNotaAplicacao :nota_350.10_1c7f80134d69 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_6c569df0e26c
-:nota_350.10_6c569df0e26c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_1d0af1e8665a
+:nota_350.10_1d0af1e8665a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processamento de indemnizações".
 
-:c350.10 :temNotaAplicacao :nota_350.10_6c569df0e26c .
+:c350.10 :temNotaAplicacao :nota_350.10_1d0af1e8665a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_07c48b0ffa81
-:nota_350.10_07c48b0ffa81 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_a3e56aa959d7
+:nota_350.10_a3e56aa959d7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processamento das despesas de aquisição".
 
-:c350.10 :temNotaAplicacao :nota_350.10_07c48b0ffa81 .
+:c350.10 :temNotaAplicacao :nota_350.10_a3e56aa959d7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_14159e47355d
-:nota_350.10_14159e47355d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_5f3fbd917c87
+:nota_350.10_5f3fbd917c87 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processamento de transferência de verbas".
 
-:c350.10 :temNotaAplicacao :nota_350.10_14159e47355d .
+:c350.10 :temNotaAplicacao :nota_350.10_5f3fbd917c87 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_456712c71904
-:nota_350.10_456712c71904 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_85af1e52ab9c
+:nota_350.10_85af1e52ab9c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processamento de liquidação de imposto".
 
-:c350.10 :temNotaAplicacao :nota_350.10_456712c71904 .
+:c350.10 :temNotaAplicacao :nota_350.10_85af1e52ab9c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_1ea7fd4e3c25
-:nota_350.10_1ea7fd4e3c25 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_6ac1faa9298d
+:nota_350.10_6ac1faa9298d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pretende-se que esta classe seja utilizada genericamente pela Administração, mas também pela Autoridade Tributária e demais entidades que processem receitas públicas derivadas de impostos e contribuições".
 
-:c350.10 :temNotaAplicacao :nota_350.10_1ea7fd4e3c25 .
+:c350.10 :temNotaAplicacao :nota_350.10_6ac1faa9298d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_5e4e76b6b855
-:nota_350.10_5e4e76b6b855 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_2eecf3b38335
+:nota_350.10_2eecf3b38335 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A elaboração do orçamento e a prestação de contas devem ser considerados em \"Planeamento e gestão estratégica/ Planeamento, avaliação e melhoria de serviços\" (150.20)".
 
-:c350.10 :temNotaExclusao :nota_350.10_5e4e76b6b855 .
+:c350.10 :temNotaExclusao :nota_350.10_2eecf3b38335 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_5c706be7095b
-:nota_350.10_5c706be7095b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_355150ebca2a
+:nota_350.10_355150ebca2a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento e o recebimento/cobrança, enquanto fluxos financeiro, deve ser considerado em \"Administração financeira/ Gestão de tesouraria\" (350.30)".
 
-:c350.10 :temNotaExclusao :nota_350.10_5c706be7095b .
+:c350.10 :temNotaExclusao :nota_350.10_355150ebca2a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_10312f66b87e
-:nota_350.10_10312f66b87e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_1eb01b007794
+:nota_350.10_1eb01b007794 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O controlo dos montantes em dívida deve ser considerado em \"Administração financeira/ Gestão da dívida e dos créditos públicos\" (350.40)".
 
-:c350.10 :temNotaExclusao :nota_350.10_10312f66b87e .
+:c350.10 :temNotaExclusao :nota_350.10_1eb01b007794 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_18ca5cdd9f44
-:nota_350.10_18ca5cdd9f44 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_87a71c790cc8
+:nota_350.10_87a71c790cc8 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processamento de contraordenações e reclamações graciosas deve ser considerado em \"Supervisão, controlo e responsabilização/ Ação sancionatória e cautelar\" (500.30)".
 
-:c350.10 :temNotaExclusao :nota_350.10_18ca5cdd9f44 .
+:c350.10 :temNotaExclusao :nota_350.10_87a71c790cc8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_85ebe3994b9c
-:nota_350.10_85ebe3994b9c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_3732d7ee158d
+:nota_350.10_3732d7ee158d rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As penhoras judiciais e consequentes execuções devem ser consideradas em \"Administração da Justiça/ Execução de penas, medidas e títulos executivos\" (600.40)".
 
-:c350.10 :temNotaExclusao :nota_350.10_85ebe3994b9c .
+:c350.10 :temNotaExclusao :nota_350.10_3732d7ee158d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_29f004a59d57
-:nota_350.10_29f004a59d57 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10_6510460ecfc8
+:nota_350.10_6510460ecfc8 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O registo de contribuintes deve ser considerado em \"Identificação e registo/Registo de dados de identificação e caracterização de entidades ou atos\" (400.10)".
 
-:c350.10 :temNotaExclusao :nota_350.10_29f004a59d57 .
+:c350.10 :temNotaExclusao :nota_350.10_6510460ecfc8 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c350.10.001
@@ -140,13 +140,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Reforço de dotações de despesas resultantes da diminuição ou anulação de outras dotações, materializando-se em transferências inter-rubricas da despesa, sem haver lugar a aumento global da despesa prevista, assim como reforços ou inscrições de dotações de despesas, fruto da contração de empréstimos ou de outras receitas legalmente consignadas. Inicia com a necessidade da alteração orçamental e termina com a comunicação da decisão. Inclui as propostas de alteração e a respetiva alteração.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.001_73d33d72f424
-:nota_350.10.001_73d33d72f424 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.001_0d7241b2b068
+:nota_350.10.001_0d7241b2b068 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A revisão orçamental deve ser considerada em 150.20.202 – Preparação do orçamento".
 
-:c350.10.001 :temNotaExclusao :nota_350.10.001_73d33d72f424 .
+:c350.10.001 :temNotaExclusao :nota_350.10.001_0d7241b2b068 .
 
 :c350.10.001 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.001 :processoTransversal "S" .
@@ -394,37 +394,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Apuramento do Imposto Sobre o Rendimento de Pessoas Singulares (IRS) dos sujeitos passivos. Inicia com a apresentação da declaração anual de IRS pelos sujeitos passivos ou mediante iniciativa da Administração Tributária, e termina com a notificação do resultado da liquidação. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação da declaração e o cálculo do imposto. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.100_15e1278fa0e2
-:nota_350.10.100_15e1278fa0e2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.100_9a6513104ae8
+:nota_350.10.100_9a6513104ae8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apuramento do rendimento tributável do regime simplificado".
 
-:c350.10.100 :temNotaAplicacao :nota_350.10.100_15e1278fa0e2 .
+:c350.10.100 :temNotaAplicacao :nota_350.10.100_9a6513104ae8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.100_4e854271b9ea
-:nota_350.10.100_4e854271b9ea rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.100_949e0d563be3
+:nota_350.10.100_949e0d563be3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apuramento do IRS consignado".
 
-:c350.10.100 :temNotaAplicacao :nota_350.10.100_4e854271b9ea .
+:c350.10.100 :temNotaAplicacao :nota_350.10.100_949e0d563be3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.100_5d6f23f87f38
-:nota_350.10.100_5d6f23f87f38 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.100_c72c69efcc04
+:nota_350.10.100_c72c69efcc04 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.10.100 :temNotaExclusao :nota_350.10.100_5d6f23f87f38 .
+:c350.10.100 :temNotaExclusao :nota_350.10.100_c72c69efcc04 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.100_ba619d3213dd
-:nota_350.10.100_ba619d3213dd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.100_a2839b441c41
+:nota_350.10.100_a2839b441c41 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários".
 
-:c350.10.100 :temNotaExclusao :nota_350.10.100_ba619d3213dd .
+:c350.10.100 :temNotaExclusao :nota_350.10.100_a2839b441c41 .
 
 :c350.10.100 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.100 :processoTransversal "S" .
@@ -539,37 +539,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Apuramento do Imposto Sobre o Rendimento de Pessoas Coletivas (IRC) dos sujeitos passivos. Inicia com a apresentação da declaração anual de IRC pelos sujeitos passivos ou mediante iniciativa da Administração Tributária, e termina com a notificação do resultado da liquidação. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação da declaração e o cálculo do imposto.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.101_ea00cc4ef440
-:nota_350.10.101_ea00cc4ef440 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.101_c97cf6ab5c78
+:nota_350.10.101_c97cf6ab5c78 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apuramento do rendimento tributável por métodos indiretos".
 
-:c350.10.101 :temNotaAplicacao :nota_350.10.101_ea00cc4ef440 .
+:c350.10.101 :temNotaAplicacao :nota_350.10.101_c97cf6ab5c78 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.101_20fb4d7b3a5f
-:nota_350.10.101_20fb4d7b3a5f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.101_467c82df285a
+:nota_350.10.101_467c82df285a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apuramento do rendimento tributável do regime simplificado".
 
-:c350.10.101 :temNotaAplicacao :nota_350.10.101_20fb4d7b3a5f .
+:c350.10.101 :temNotaAplicacao :nota_350.10.101_467c82df285a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.101_59554fbdc1fd
-:nota_350.10.101_59554fbdc1fd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.101_a270cdc4fd4c
+:nota_350.10.101_a270cdc4fd4c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.10.101 :temNotaExclusao :nota_350.10.101_59554fbdc1fd .
+:c350.10.101 :temNotaExclusao :nota_350.10.101_a270cdc4fd4c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.101_a6a39386a598
-:nota_350.10.101_a6a39386a598 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.101_44d6b35b7477
+:nota_350.10.101_44d6b35b7477 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários".
 
-:c350.10.101 :temNotaExclusao :nota_350.10.101_a6a39386a598 .
+:c350.10.101 :temNotaExclusao :nota_350.10.101_44d6b35b7477 .
 
 :c350.10.101 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.101 :processoTransversal "S" .
@@ -680,45 +680,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Procedimento de revisão do lucro tributável fixado por métodos indiretos visando o estabelecimento de um acordo quanto ao valor da matéria coletável a considerar para efeitos de liquidação. Inicia com o pedido de revisão, devidamente fundamentado, a apresentar pelo sujeito passivo, com a indicação do perito que o representa, e termina com a notificação do acordo entre os peritos ou, na sua falta, com a notificação da decisão do órgão competente para a fixação da matéria coletável. Inclui a nomeação de perito independente, e a realização de uma reunião entre os peritos para estabelecimento de um acordo. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.102_7055ab5a4358
-:nota_350.10.102_7055ab5a4358 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.102_6dd6de020c92
+:nota_350.10.102_6dd6de020c92 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Revisão normal e excecional do lucro tributável fixado por métodos indiretos tendo em vista a discussão dos pressupostos ou a quantificação da matéria coletável".
 
-:c350.10.102 :temNotaAplicacao :nota_350.10.102_7055ab5a4358 .
+:c350.10.102 :temNotaAplicacao :nota_350.10.102_6dd6de020c92 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.102_606708dc33e9
-:nota_350.10.102_606708dc33e9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.102_261f06ebeea8
+:nota_350.10.102_261f06ebeea8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Casos em que ainda não se efetuou a liquidação, exceto no caso da revisão excecional do lucro tributável que pode ser efetuada nos três anos posteriores à liquidação".
 
-:c350.10.102 :temNotaAplicacao :nota_350.10.102_606708dc33e9 .
+:c350.10.102 :temNotaAplicacao :nota_350.10.102_261f06ebeea8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.102_828a2aa45933
-:nota_350.10.102_828a2aa45933 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.102_5318716aff07
+:nota_350.10.102_5318716aff07 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As correções técnicas e as questões de direito são consideradas em 350.10.100 – Liquidação de Imposto Sobre o Rendimento de Pessoas Singulares (IRS)".
 
-:c350.10.102 :temNotaExclusao :nota_350.10.102_828a2aa45933 .
+:c350.10.102 :temNotaExclusao :nota_350.10.102_5318716aff07 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.102_8493ac4e26be
-:nota_350.10.102_8493ac4e26be rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.102_8472779176fe
+:nota_350.10.102_8472779176fe rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo " ou em 350.10.101 – Liquidação de Imposto sobre o Rendimento de Pessoas Coletivas (IRC)".
 
-:c350.10.102 :temNotaExclusao :nota_350.10.102_8493ac4e26be .
+:c350.10.102 :temNotaExclusao :nota_350.10.102_8472779176fe .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.102_4055f8730784
-:nota_350.10.102_4055f8730784 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.102_a4fd96d8257a
+:nota_350.10.102_a4fd96d8257a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A revisão dos atos tributários deve ser considerada em 350.10.515 – Revisão de atos tributários".
 
-:c350.10.102 :temNotaExclusao :nota_350.10.102_4055f8730784 .
+:c350.10.102 :temNotaExclusao :nota_350.10.102_a4fd96d8257a .
 
 :c350.10.102 :processoTipoVC :vc_processoTipo_pe .
 :c350.10.102 :processoTransversal "S" .
@@ -784,21 +784,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Apuramento do Imposto Municipal sobre Imóveis (IMI) a pagar pelos sujeitos passivos, tendo por base o valor patrimonial inscrito nas matrizes prediais (rústicas e urbanas) em 31 de dezembro de cada ano, excetuando os valores dos prédios isentos. Inicia com o cálculo do imposto a pagar (mediante a aplicação da taxa ao valor patrimonial) e termina com a notificação da nota de liquidação ao sujeito passivo. Inclui a validação dos dados.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.200_5720e193215a
-:nota_350.10.200_5720e193215a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.200_9fb0d61c080a
+:nota_350.10.200_9fb0d61c080a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.10.200 :temNotaExclusao :nota_350.10.200_5720e193215a .
+:c350.10.200 :temNotaExclusao :nota_350.10.200_9fb0d61c080a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.200_95aadbc80c12
-:nota_350.10.200_95aadbc80c12 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.200_c5cdceb1f3e6
+:nota_350.10.200_c5cdceb1f3e6 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários".
 
-:c350.10.200 :temNotaExclusao :nota_350.10.200_95aadbc80c12 .
+:c350.10.200 :temNotaExclusao :nota_350.10.200_c5cdceb1f3e6 .
 
 :c350.10.200 :processoTipoVC :vc_processoTipo_pe .
 :c350.10.200 :processoTransversal "S" .
@@ -874,21 +874,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Apuramento do Imposto Municipal Sobre Transmissões Onerosas de Imóveis (IMT). Inicia com a apresentação da declaração para liquidação de IMT pelos sujeitos passivos ou mediante iniciativa da Administração Tributária, e termina com a notificação do resultado da liquidação aos sujeitos passivos. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação da declaração e o cálculo do imposto.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.201_53e297adfba8
-:nota_350.10.201_53e297adfba8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.201_314eb67a7ca9
+:nota_350.10.201_314eb67a7ca9 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.10.201 :temNotaExclusao :nota_350.10.201_53e297adfba8 .
+:c350.10.201 :temNotaExclusao :nota_350.10.201_314eb67a7ca9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.201_971b87836bbe
-:nota_350.10.201_971b87836bbe rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.201_32d30da504d0
+:nota_350.10.201_32d30da504d0 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários".
 
-:c350.10.201 :temNotaExclusao :nota_350.10.201_971b87836bbe .
+:c350.10.201 :temNotaExclusao :nota_350.10.201_32d30da504d0 .
 
 :c350.10.201 :processoTipoVC :vc_processoTipo_pe .
 :c350.10.201 :processoTransversal "S" .
@@ -962,29 +962,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Apuramento da Contribuição Especial devida pela valorização extraordinária de imóveis (prédios rústicos e terrenos para construção), decorrente da realização de determinados investimentos (ex: construção de vias rodoviárias e ferroviárias, portos e aeroportos). Inicia com a apresentação da declaração de Contribuição Especial, pelos sujeitos passivos ou mediante iniciativa da Administração Tributária, e termina com a notificação da nota de liquidação. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação da declaração e o cálculo do imposto. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.202_44fd344c724a
-:nota_350.10.202_44fd344c724a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.202_7fe184587721
+:nota_350.10.202_7fe184587721 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.10.202 :temNotaExclusao :nota_350.10.202_44fd344c724a .
+:c350.10.202 :temNotaExclusao :nota_350.10.202_7fe184587721 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.202_590c4bf42299
-:nota_350.10.202_590c4bf42299 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.202_5e46ad4d1d60
+:nota_350.10.202_5e46ad4d1d60 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários".
 
-:c350.10.202 :temNotaExclusao :nota_350.10.202_590c4bf42299 .
+:c350.10.202 :temNotaExclusao :nota_350.10.202_5e46ad4d1d60 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.202_71689d247506
-:nota_350.10.202_71689d247506 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.202_5f8d2be23326
+:nota_350.10.202_5f8d2be23326 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo ".".
 
-:c350.10.202 :temNotaExclusao :nota_350.10.202_71689d247506 .
+:c350.10.202 :temNotaExclusao :nota_350.10.202_5f8d2be23326 .
 
 :c350.10.202 :processoTipoVC :vc_processoTipo_pe .
 :c350.10.202 :processoTransversal "S" .
@@ -1058,37 +1058,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Apuramento do Imposto Único de Circulação (IUC), que incide sobre os veículos das diversas categorias previstas no Código do Imposto Único de Circulação (CIUC). Inicia com o preenchimento da declaração eletrónica no portal da AT pelos sujeitos passivos ou mediante iniciativa da Administração Tributária e termina com a emissão do Documento Único de Cobrança (DUC) para efeitos de pagamento. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação dos dados e o cálculo do imposto.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.203_701abd4b4da4
-:nota_350.10.203_701abd4b4da4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.203_89dc6f37a708
+:nota_350.10.203_89dc6f37a708 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Tributação de veículos matriculados ou registados em território nacional".
 
-:c350.10.203 :temNotaAplicacao :nota_350.10.203_701abd4b4da4 .
+:c350.10.203 :temNotaAplicacao :nota_350.10.203_89dc6f37a708 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.203_52ccd36d6100
-:nota_350.10.203_52ccd36d6100 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.203_07a5c7d11f8b
+:nota_350.10.203_07a5c7d11f8b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Veículos não sujeitos a matrícula em Portugal e que não sejam veículos de mercadorias com certas características, desde que permaneçam em território nacional por determinado período de tempo".
 
-:c350.10.203 :temNotaAplicacao :nota_350.10.203_52ccd36d6100 .
+:c350.10.203 :temNotaAplicacao :nota_350.10.203_07a5c7d11f8b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.203_3c13c35058b0
-:nota_350.10.203_3c13c35058b0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.203_3c5a05db1311
+:nota_350.10.203_3c5a05db1311 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.10.203 :temNotaExclusao :nota_350.10.203_3c13c35058b0 .
+:c350.10.203 :temNotaExclusao :nota_350.10.203_3c5a05db1311 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.203_c9350e4fde57
-:nota_350.10.203_c9350e4fde57 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.203_6f4834ac39ed
+:nota_350.10.203_6f4834ac39ed rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários".
 
-:c350.10.203 :temNotaExclusao :nota_350.10.203_c9350e4fde57 .
+:c350.10.203 :temNotaExclusao :nota_350.10.203_6f4834ac39ed .
 
 :c350.10.203 :processoTipoVC :vc_processoTipo_pe .
 :c350.10.203 :processoTransversal "S" .
@@ -1164,29 +1164,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Apuramento do Imposto Sobre Veículos (ISV). Inicia com a apresentação da declaração aduaneira de veículos (DAV), por transmissão eletrónica de dados, pelos operadores registados, pelos operadores reconhecidos e pelos particulares que procedam à introdução no consumo dos veículos tributáveis, bem como pelos sujeitos passivos do imposto que, de modo irregular, introduzam no consumo os referidos veículos, pelos sujeitos passivos ou mediante iniciativa da Administração Tributária e termina com a emissão do documento único de cobrança (DUC) para efeitos de pagamento. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação dos dados e o cálculo do imposto. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.204_e17748db086d
-:nota_350.10.204_e17748db086d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.204_91031e239eb3
+:nota_350.10.204_91031e239eb3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Procedimento para atribuição de matrículas da época".
 
-:c350.10.204 :temNotaAplicacao :nota_350.10.204_e17748db086d .
+:c350.10.204 :temNotaAplicacao :nota_350.10.204_91031e239eb3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.204_6ddfda9c3a9d
-:nota_350.10.204_6ddfda9c3a9d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.204_2d754cfa2a91
+:nota_350.10.204_2d754cfa2a91 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.10.204 :temNotaExclusao :nota_350.10.204_6ddfda9c3a9d .
+:c350.10.204 :temNotaExclusao :nota_350.10.204_2d754cfa2a91 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.204_769ed93becef
-:nota_350.10.204_769ed93becef rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.204_b4a142cca63b
+:nota_350.10.204_b4a142cca63b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários".
 
-:c350.10.204 :temNotaExclusao :nota_350.10.204_769ed93becef .
+:c350.10.204 :temNotaExclusao :nota_350.10.204_b4a142cca63b .
 
 :c350.10.204 :processoTipoVC :vc_processoTipo_pe .
 :c350.10.204 :processoTransversal "S" .
@@ -1260,109 +1260,109 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Apuramento do Imposto de Selo devido nos termos da Tabela anexa ao Regulamento Geral de Imposto de Selo, anexa ao respetivo código, que incide sobre atos, contratos, documentos, títulos, papéis e outros factos ou situações jurídicas previstas na referida tabela. Inicia com o cálculo de imposto na guia entregue pelos sujeitos passivos ou mediante iniciativa da Administração Tributária, e termina, nos casos aplicáveis, com a notificação da liquidação. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação dos dados. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_6813f8798103
-:nota_350.10.205_6813f8798103 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_3cb784d1529c
+:nota_350.10.205_3cb784d1529c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Escrituras de compra e venda de imóveis".
 
-:c350.10.205 :temNotaAplicacao :nota_350.10.205_6813f8798103 .
+:c350.10.205 :temNotaAplicacao :nota_350.10.205_3cb784d1529c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_3daf44315d31
-:nota_350.10.205_3daf44315d31 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_d9f226ac75a1
+:nota_350.10.205_d9f226ac75a1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Contratos de arrendamento e subarrendamento".
 
-:c350.10.205 :temNotaAplicacao :nota_350.10.205_3daf44315d31 .
+:c350.10.205 :temNotaAplicacao :nota_350.10.205_d9f226ac75a1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_da428ce41fe0
-:nota_350.10.205_da428ce41fe0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_833fd7070efd
+:nota_350.10.205_833fd7070efd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Contratos de empréstimos".
 
-:c350.10.205 :temNotaAplicacao :nota_350.10.205_da428ce41fe0 .
+:c350.10.205 :temNotaAplicacao :nota_350.10.205_833fd7070efd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_f92e04201268
-:nota_350.10.205_f92e04201268 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_1873ca3f04ac
+:nota_350.10.205_1873ca3f04ac rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Anúncios".
 
-:c350.10.205 :temNotaAplicacao :nota_350.10.205_f92e04201268 .
+:c350.10.205 :temNotaAplicacao :nota_350.10.205_1873ca3f04ac .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_e8551f1f7927
-:nota_350.10.205_e8551f1f7927 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_a6732366bff0
+:nota_350.10.205_a6732366bff0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prémios de bingo, de rifas e de quaisquer sorteios ou concursos".
 
-:c350.10.205 :temNotaAplicacao :nota_350.10.205_e8551f1f7927 .
+:c350.10.205 :temNotaAplicacao :nota_350.10.205_a6732366bff0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_8a2dadf92a94
-:nota_350.10.205_8a2dadf92a94 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_8751a6fc6d73
+:nota_350.10.205_8751a6fc6d73 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prémios de jogos sociais do Estado".
 
-:c350.10.205 :temNotaAplicacao :nota_350.10.205_8a2dadf92a94 .
+:c350.10.205 :temNotaAplicacao :nota_350.10.205_8751a6fc6d73 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_a76561b6edcb
-:nota_350.10.205_a76561b6edcb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_a384b37536aa
+:nota_350.10.205_a384b37536aa rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Concessão de garantias".
 
-:c350.10.205 :temNotaAplicacao :nota_350.10.205_a76561b6edcb .
+:c350.10.205 :temNotaAplicacao :nota_350.10.205_a384b37536aa .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_40e582814173
-:nota_350.10.205_40e582814173 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_d2cd524b071c
+:nota_350.10.205_d2cd524b071c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Operações financeiras".
 
-:c350.10.205 :temNotaAplicacao :nota_350.10.205_40e582814173 .
+:c350.10.205 :temNotaAplicacao :nota_350.10.205_d2cd524b071c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_53b74ef763f6
-:nota_350.10.205_53b74ef763f6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_8abab7ca3f9e
+:nota_350.10.205_8abab7ca3f9e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apólices de seguros".
 
-:c350.10.205 :temNotaAplicacao :nota_350.10.205_53b74ef763f6 .
+:c350.10.205 :temNotaAplicacao :nota_350.10.205_8abab7ca3f9e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_e3c5ac2e5278
-:nota_350.10.205_e3c5ac2e5278 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_87c14fa80d13
+:nota_350.10.205_87c14fa80d13 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Títulos de crédito".
 
-:c350.10.205 :temNotaAplicacao :nota_350.10.205_e3c5ac2e5278 .
+:c350.10.205 :temNotaAplicacao :nota_350.10.205_87c14fa80d13 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_d58ea9858360
-:nota_350.10.205_d58ea9858360 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_0d923101ca74
+:nota_350.10.205_0d923101ca74 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A liquidação do imposto de selo que incide sobre o valor das transmissões gratuitas de bens deve ser considerado em 350.10.206 – Liquidação de Imposto de Selo sobre Transmissões Gratuitas de Bens".
 
-:c350.10.205 :temNotaExclusao :nota_350.10.205_d58ea9858360 .
+:c350.10.205 :temNotaExclusao :nota_350.10.205_0d923101ca74 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_5ae9b8434e70
-:nota_350.10.205_5ae9b8434e70 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_ee7cae8a3c91
+:nota_350.10.205_ee7cae8a3c91 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.10.205 :temNotaExclusao :nota_350.10.205_5ae9b8434e70 .
+:c350.10.205 :temNotaExclusao :nota_350.10.205_ee7cae8a3c91 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_d64c5664ce8d
-:nota_350.10.205_d64c5664ce8d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.205_5e3db2a229e8
+:nota_350.10.205_5e3db2a229e8 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários".
 
-:c350.10.205 :temNotaExclusao :nota_350.10.205_d64c5664ce8d .
+:c350.10.205 :temNotaExclusao :nota_350.10.205_5e3db2a229e8 .
 
 :c350.10.205 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.205 :processoTransversal "S" .
@@ -1476,21 +1476,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Apuramento do Imposto de Selo sobre Transmissões Gratuitas de Bens. Inicia com a apresentação da participação de transmissões gratuitas de bens sujeitas a imposto de selo pelos sujeitos passivos ou mediante iniciativa da Administração Tributária, e termina com a notificação do resultado da liquidação. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação da declaração, a verificação dos atos ou factos sujeitos a imposto e o cálculo do imposto.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.206_dcd1a321475c
-:nota_350.10.206_dcd1a321475c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.206_dae096ed6b82
+:nota_350.10.206_dae096ed6b82 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.10.206 :temNotaExclusao :nota_350.10.206_dcd1a321475c .
+:c350.10.206 :temNotaExclusao :nota_350.10.206_dae096ed6b82 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.206_79c7e4a57656
-:nota_350.10.206_79c7e4a57656 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.206_bcd779ca25b0
+:nota_350.10.206_bcd779ca25b0 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários".
 
-:c350.10.206 :temNotaExclusao :nota_350.10.206_79c7e4a57656 .
+:c350.10.206 :temNotaExclusao :nota_350.10.206_bcd779ca25b0 .
 
 :c350.10.206 :processoTipoVC :vc_processoTipo_pe .
 :c350.10.206 :processoTransversal "N" .
@@ -1558,29 +1558,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Apuramento do Imposto Sobre o Valor Acrescentado (IVA). Inicia com a apresentação de uma declaração periódica (DP) por transmissão eletrónica de dados, efetuada pelos sujeitos passivos ou mediante iniciativa da Administração Tributária, e termina com a notificação aos sujeitos passivos para efeitos de pagamento ou com a submissão da declaração periódica do imposto. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação da declaração e o cálculo do imposto.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.300_7229af7e7d6a
-:nota_350.10.300_7229af7e7d6a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.300_f2e33aab26a6
+:nota_350.10.300_f2e33aab26a6 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apreciação de pedidos de renúncia à isenção do imposto".
 
-:c350.10.300 :temNotaAplicacao :nota_350.10.300_7229af7e7d6a .
+:c350.10.300 :temNotaAplicacao :nota_350.10.300_f2e33aab26a6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.300_69d111de1b00
-:nota_350.10.300_69d111de1b00 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.300_48882eb8d326
+:nota_350.10.300_48882eb8d326 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.10.300 :temNotaExclusao :nota_350.10.300_69d111de1b00 .
+:c350.10.300 :temNotaExclusao :nota_350.10.300_48882eb8d326 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.300_675959920b1c
-:nota_350.10.300_675959920b1c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.300_a1a24e7d63d2
+:nota_350.10.300_a1a24e7d63d2 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários".
 
-:c350.10.300 :temNotaExclusao :nota_350.10.300_675959920b1c .
+:c350.10.300 :temNotaExclusao :nota_350.10.300_a1a24e7d63d2 .
 
 :c350.10.300 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.300 :processoTransversal "S" .
@@ -1695,61 +1695,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Apuramento dos impostos especiais sobre o consumo, tendo por base os elementos declarados pelos sujeitos passivos. Inicia com o preenchimento de uma declaração de introdução no consumo (DIC), ou, no caso de importação, de uma declaração aduaneira (DA), pelos sujeitos passivos ou mediante iniciativa da Administração Tributária e termina com a notificação do resultado da liquidação e do prazo para efetuar o pagamento. Inclui todos os procedimentos para liquidação de imposto, nomeadamente a validação da declaração e o cálculo do imposto. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.301_b40f88372cd4
-:nota_350.10.301_b40f88372cd4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.301_fcdede215707
+:nota_350.10.301_fcdede215707 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação do Imposto sobre o Álcool e as Bebidas Alcoólicas (IABA)".
 
-:c350.10.301 :temNotaAplicacao :nota_350.10.301_b40f88372cd4 .
+:c350.10.301 :temNotaAplicacao :nota_350.10.301_fcdede215707 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.301_9bddde6db2ca
-:nota_350.10.301_9bddde6db2ca rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.301_82cf808e344d
+:nota_350.10.301_82cf808e344d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação do Imposto sobre os Produtos Petrolíferos e Energéticos (ISPPE)".
 
-:c350.10.301 :temNotaAplicacao :nota_350.10.301_9bddde6db2ca .
+:c350.10.301 :temNotaAplicacao :nota_350.10.301_82cf808e344d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.301_8555691fb741
-:nota_350.10.301_8555691fb741 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.301_8da5d5923684
+:nota_350.10.301_8da5d5923684 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação do Imposto Sobre o Tabaco (IT)".
 
-:c350.10.301 :temNotaAplicacao :nota_350.10.301_8555691fb741 .
+:c350.10.301 :temNotaAplicacao :nota_350.10.301_8da5d5923684 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.301_a9bfc9b79448
-:nota_350.10.301_a9bfc9b79448 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.301_43cfb38369ba
+:nota_350.10.301_43cfb38369ba rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação do Imposto Sobre Sacos de Plástico Leves".
 
-:c350.10.301 :temNotaAplicacao :nota_350.10.301_a9bfc9b79448 .
+:c350.10.301 :temNotaAplicacao :nota_350.10.301_43cfb38369ba .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.301_79bc955dfecf
-:nota_350.10.301_79bc955dfecf rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.301_14622f07b4d0
+:nota_350.10.301_14622f07b4d0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação do Imposto Especial Sobre Bebidas Açucaradas".
 
-:c350.10.301 :temNotaAplicacao :nota_350.10.301_79bc955dfecf .
+:c350.10.301 :temNotaAplicacao :nota_350.10.301_14622f07b4d0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.301_2a3df41635c4
-:nota_350.10.301_2a3df41635c4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.301_fdff62a0bddb
+:nota_350.10.301_fdff62a0bddb rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.10.301 :temNotaExclusao :nota_350.10.301_2a3df41635c4 .
+:c350.10.301 :temNotaExclusao :nota_350.10.301_fdff62a0bddb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.301_a2f381461722
-:nota_350.10.301_a2f381461722 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.301_64d01f1cd5e3
+:nota_350.10.301_64d01f1cd5e3 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários".
 
-:c350.10.301 :temNotaExclusao :nota_350.10.301_a2f381461722 .
+:c350.10.301 :temNotaExclusao :nota_350.10.301_64d01f1cd5e3 .
 
 :c350.10.301 :processoTipoVC :vc_processoTipo_pe .
 :c350.10.301 :processoTransversal "S" .
@@ -1896,29 +1896,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Cálculo e lançamento das verbas entre administrações ou entre a Administração Pública e entidades privadas (associações, empresas e particulares). Inicia com a verificação do orçamento da verba a transferir e da entidade de destino ou com o pedido da entidade para transferência da verba e termina com o lançamento da verba. Inclui o cálculo da verba a transferir, o registo da entrada (receita) ou a deliberação da verba a transferir (despesa).' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.500_8d711f28fd24
-:nota_350.10.500_8d711f28fd24 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.500_a56d256fd5da
+:nota_350.10.500_a56d256fd5da rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Transferências de verbas para sistemas sociais e de saúde, associações e empresas e particulares".
 
-:c350.10.500 :temNotaAplicacao :nota_350.10.500_8d711f28fd24 .
+:c350.10.500 :temNotaAplicacao :nota_350.10.500_a56d256fd5da .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.500_0ae85ea69104
-:nota_350.10.500_0ae85ea69104 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.500_f369da378a14
+:nota_350.10.500_f369da378a14 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Transferência para as Regiões Autónomas do Imposto sobre o Álcool e as Bebidas Alcoólicas (IABA) pago no Continente".
 
-:c350.10.500 :temNotaAplicacao :nota_350.10.500_0ae85ea69104 .
+:c350.10.500 :temNotaAplicacao :nota_350.10.500_f369da378a14 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.500_ce4a4783054e
-:nota_350.10.500_ce4a4783054e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.500_70552af396ad
+:nota_350.10.500_70552af396ad rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Transferências para as entidades utilizadoras e beneficiárias de fundos do Orçamento da Segurança Social".
 
-:c350.10.500 :temNotaAplicacao :nota_350.10.500_ce4a4783054e .
+:c350.10.500 :temNotaAplicacao :nota_350.10.500_70552af396ad .
 
 :c350.10.500 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.500 :processoTransversal "S" .
@@ -2061,21 +2061,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Apuramento dos montantes devidos pelos trabalhadores e pelas entidades para a proteção da saúde. Inicia com o cálculo e termina com a comunicação do montante às entidades competentes. Inclui registo.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.501_616272621067
-:nota_350.10.501_616272621067 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.501_f35d3e6d74e9
+:nota_350.10.501_f35d3e6d74e9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação de contribuições para os subsistemas de proteção social no âmbito dos cuidados de saúde, concretamente da Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas (ADSE), da Assistência na Doença aos Militares (ADM) e da Divisão de Assistência na Doença (SAD)".
 
-:c350.10.501 :temNotaAplicacao :nota_350.10.501_616272621067 .
+:c350.10.501 :temNotaAplicacao :nota_350.10.501_f35d3e6d74e9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.501_7e37bc99a0b5
-:nota_350.10.501_7e37bc99a0b5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.501_181b48c352a6
+:nota_350.10.501_181b48c352a6 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "No âmbito da Administração Local, receção pelos municípios da comunicação dos montantes dos serviços municipalizados e das empresas locais para o Sistema Nacional de Saúde".
 
-:c350.10.501 :temNotaAplicacao :nota_350.10.501_7e37bc99a0b5 .
+:c350.10.501 :temNotaAplicacao :nota_350.10.501_181b48c352a6 .
 
 :c350.10.501 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.501 :processoTransversal "S" .
@@ -2181,37 +2181,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Apuramento dos montantes devidos pelos trabalhadores e pelas entidades empregadoras para o Sistema de Segurança Social. Inicia com o cálculo da retenção e termina com a comunicação do montante às entidades competentes. Inclui o registo.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.502_772fe4ac2fa1
-:nota_350.10.502_772fe4ac2fa1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.502_3a75b1cc4798
+:nota_350.10.502_3a75b1cc4798 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apuramento de montantes para a Segurança Social".
 
-:c350.10.502 :temNotaAplicacao :nota_350.10.502_772fe4ac2fa1 .
+:c350.10.502 :temNotaAplicacao :nota_350.10.502_3a75b1cc4798 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.502_63cdcbee727a
-:nota_350.10.502_63cdcbee727a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.502_72ff6d03a994
+:nota_350.10.502_72ff6d03a994 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apuramento dos montantes para a Caixa Geral de Aposentações".
 
-:c350.10.502 :temNotaAplicacao :nota_350.10.502_63cdcbee727a .
+:c350.10.502 :temNotaAplicacao :nota_350.10.502_72ff6d03a994 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.502_032bfaedc1d9
-:nota_350.10.502_032bfaedc1d9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.502_365860def1fa
+:nota_350.10.502_365860def1fa rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apuramento de contribuições prescritas com efeitos retroativos".
 
-:c350.10.502 :temNotaAplicacao :nota_350.10.502_032bfaedc1d9 .
+:c350.10.502 :temNotaAplicacao :nota_350.10.502_365860def1fa .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.502_66b556b7444b
-:nota_350.10.502_66b556b7444b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.502_623b34777a86
+:nota_350.10.502_623b34777a86 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento de constribuições deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.10.502 :temNotaExclusao :nota_350.10.502_66b556b7444b .
+:c350.10.502 :temNotaExclusao :nota_350.10.502_623b34777a86 .
 
 :c350.10.502 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.502 :processoTransversal "S" .
@@ -2351,21 +2351,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Processamento da despesa relativa a acidentes de trabalho e doenças profissionais. Inicia com a receção do pedido de pagamento das despesas e termina com a decisão sobre o mesmo. Inclui a a análise e qualificação do acidente de trabalho ou da doença profissional, verificação dos documentos comprovativos, nomeadamente do boletim de acompanhamento médico, da declaração de formalidades, da relação de despesas e respetivos documentos de despesa.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.503_ca3150cf3a9e
-:nota_350.10.503_ca3150cf3a9e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.503_e04edd82f0ae
+:nota_350.10.503_e04edd82f0ae rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação de despesas por assistência a terceira pessoa, decorrentes de acidentes de trabalho e doenças profissionais".
 
-:c350.10.503 :temNotaAplicacao :nota_350.10.503_ca3150cf3a9e .
+:c350.10.503 :temNotaAplicacao :nota_350.10.503_e04edd82f0ae .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.503_699db5f6be47
-:nota_350.10.503_699db5f6be47 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.503_22a8f7d8d7d1
+:nota_350.10.503_22a8f7d8d7d1 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A participação do acidente de trabalho ou de doença profissional deve ser considerada em 250.20.401 – Participação de acidentes de trabalho ou de doenças profissionais".
 
-:c350.10.503 :temNotaExclusao :nota_350.10.503_699db5f6be47 .
+:c350.10.503 :temNotaExclusao :nota_350.10.503_22a8f7d8d7d1 .
 
 :c350.10.503 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.503 :processoTransversal "S" .
@@ -2483,45 +2483,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Concessão de benefícios e incentivos fiscais e aduaneiros não contratuais, dependentes de reconhecimento. Inicia com o pedido de benefício ou incentivo fiscal e aduaneiro e termina com a notificação da decisão final. Inclui todos os procedimentos para a análise e cálculo dos benefícios e incentivos. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.504_88979f44ba2b
-:nota_350.10.504_88979f44ba2b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.504_ca86e4d8a9eb
+:nota_350.10.504_ca86e4d8a9eb rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processos de isenção, de redução de taxa e de suspensão do benefício ou incentivo fiscal".
 
-:c350.10.504 :temNotaAplicacao :nota_350.10.504_88979f44ba2b .
+:c350.10.504 :temNotaAplicacao :nota_350.10.504_ca86e4d8a9eb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.504_8facae3f4af7
-:nota_350.10.504_8facae3f4af7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.504_778b957e3fe5
+:nota_350.10.504_778b957e3fe5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Benefícios fiscais associados à Lei de Liberdade Religiosa".
 
-:c350.10.504 :temNotaAplicacao :nota_350.10.504_8facae3f4af7 .
+:c350.10.504 :temNotaAplicacao :nota_350.10.504_778b957e3fe5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.504_de1f3ef07ca8
-:nota_350.10.504_de1f3ef07ca8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.504_d588eb91fd80
+:nota_350.10.504_d588eb91fd80 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Benefícios fiscais previstos na fiscalidade verde".
 
-:c350.10.504 :temNotaAplicacao :nota_350.10.504_de1f3ef07ca8 .
+:c350.10.504 :temNotaAplicacao :nota_350.10.504_d588eb91fd80 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.504_1f03dfe1e9b0
-:nota_350.10.504_1f03dfe1e9b0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.504_ecc350248557
+:nota_350.10.504_ecc350248557 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Benefícios à gasolina para frota de pesca".
 
-:c350.10.504 :temNotaAplicacao :nota_350.10.504_1f03dfe1e9b0 .
+:c350.10.504 :temNotaAplicacao :nota_350.10.504_ecc350248557 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.504_c4da1e71befd
-:nota_350.10.504_c4da1e71befd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.504_e29360ed231f
+:nota_350.10.504_e29360ed231f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processamento de benefícios e incentivos fiscais e aduaneiros contratuais deve ser considerado em 850.30.002 – Processamento de benefícios e incentivos contratuais ao investimento".
 
-:c350.10.504 :temNotaExclusao :nota_350.10.504_c4da1e71befd .
+:c350.10.504 :temNotaExclusao :nota_350.10.504_e29360ed231f .
 
 :c350.10.504 :processoTipoVC :vc_processoTipo_pe .
 :c350.10.504 :processoTransversal "S" .
@@ -2606,29 +2606,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Prestação ou recebimento de garantia, entre administrações públicas ou entre a administração pública e privados. Inicia com a apresentação do direito ou dever garantido e termina com a sua liberação. Inclui o registo do direito ou dever garantido, pode incluir o acionamento da caução.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.505_341d6ec2e080
-:nota_350.10.505_341d6ec2e080 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.505_217cd0501911
+:nota_350.10.505_217cd0501911 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Precaução de eventual falta de cumprimento de alguma obrigação".
 
-:c350.10.505 :temNotaAplicacao :nota_350.10.505_341d6ec2e080 .
+:c350.10.505 :temNotaAplicacao :nota_350.10.505_217cd0501911 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.505_562b1852fbac
-:nota_350.10.505_562b1852fbac rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.505_8a38e3822f31
+:nota_350.10.505_8a38e3822f31 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pedido de liberação de caução".
 
-:c350.10.505 :temNotaAplicacao :nota_350.10.505_562b1852fbac .
+:c350.10.505 :temNotaAplicacao :nota_350.10.505_8a38e3822f31 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.505_334ae356beb7
-:nota_350.10.505_334ae356beb7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.505_9b62db8ec326
+:nota_350.10.505_9b62db8ec326 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Garantias prestadas pelos operadores económicos quando as suas mercadorias são suscetíveis de dívida aduaneira".
 
-:c350.10.505 :temNotaAplicacao :nota_350.10.505_334ae356beb7 .
+:c350.10.505 :temNotaAplicacao :nota_350.10.505_9b62db8ec326 .
 
 :c350.10.505 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.505 :processoTransversal "S" .
@@ -2737,13 +2737,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Apuramento de montantes de reembolso a beneficiários de um sistema de saúde despendidos com encargos relativos a cuidados de saúde comparticipado em regime livre. Inicia com a apresentação de documentos de despesa por parte do trabalhador e termina com o crédito em conta calculado nos termos da respetiva tabela. Inclui a codificação e a validação das despesas.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.506_49ecf44bca86
-:nota_350.10.506_49ecf44bca86 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.506_1bf1233e61e4
+:nota_350.10.506_1bf1233e61e4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Beneficiários de subsistemas de saúde, como a Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas (ADSE) e a Assistência na Doença aos Militares (ADM)".
 
-:c350.10.506 :temNotaAplicacao :nota_350.10.506_49ecf44bca86 .
+:c350.10.506 :temNotaAplicacao :nota_350.10.506_1bf1233e61e4 .
 
 :c350.10.506 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.506 :processoTransversal "S" .
@@ -2851,29 +2851,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Processamento de despesas de saúde com entidades prestadoras de cuidados de saúde e farmácias por força de acordos estabelecidos entre estas e os diversos subsistemas de saúde ou entidades públicas comparticipantes. Inicia com a receção da comunicação da despesa (faturação) e termina com a comunicação dos montantes a pagar. Inclui conferência e validação das despesas realizadas em prestadores convencionados e farmácias, e o apuramento dos montantes a reembolsar, assim como o apuramento dos montantes a pagar pelo subsistema de saúde às entidades prestadoras de cuidados de saúde e farmácias.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.507_3674326fe642
-:nota_350.10.507_3674326fe642 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.507_7f02e489d349
+:nota_350.10.507_7f02e489d349 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Despesas com entidades prestadoras de cuidados de saúde como hospitais, clínicas, médicos e outros prestadores particulares que tenham acordo/convenção com a Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas (ADSE)".
 
-:c350.10.507 :temNotaAplicacao :nota_350.10.507_3674326fe642 .
+:c350.10.507 :temNotaAplicacao :nota_350.10.507_7f02e489d349 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.507_a0cfc4d660e9
-:nota_350.10.507_a0cfc4d660e9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.507_642b607f2a6c
+:nota_350.10.507_642b607f2a6c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Despesas na comparticipação em medicamentos em farmácias".
 
-:c350.10.507 :temNotaAplicacao :nota_350.10.507_a0cfc4d660e9 .
+:c350.10.507 :temNotaAplicacao :nota_350.10.507_642b607f2a6c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.507_0530674ec3ad
-:nota_350.10.507_0530674ec3ad rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.507_ca01b8e8916b
+:nota_350.10.507_ca01b8e8916b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A comparticipação em despesas de saúde aos beneficiários de subsistemas de saúde deve ser considerada em 350.10.506 – Comparticipação em despesas de saúde ao beneficiário".
 
-:c350.10.507 :temNotaExclusao :nota_350.10.507_0530674ec3ad .
+:c350.10.507 :temNotaExclusao :nota_350.10.507_ca01b8e8916b .
 
 :c350.10.507 :processoTipoVC :vc_processoTipo_pe .
 :c350.10.507 :processoTransversal "S" .
@@ -2947,29 +2947,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Processamento de indemnizações e injunções por prejuízos causados no património público ou de particulares, resultantes de circunstâncias acidentais ou fortuitas, pelas quais o Estado é responsável ou ressarcido pelo dano sofrido, bem como de compensações devidas ao abrigo do regime jurídico de requalificação de trabalhadores em funções públicas. Inicia com o pedido de pagamento feito pela entidade da Administração Pública ou pelo particular e termina com o apuramento do valor a indemnizar para reparação dos danos ou a pagar em compensação. Inclui a análise do processo administrativo remetido pela entidade proponente, descrição do enquadramento factual, apuramento dos encargos e justificação orçamental. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.508_418707d98351
-:nota_350.10.508_418707d98351 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.508_87535273c94a
+:nota_350.10.508_87535273c94a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Compensação de danos causados a terceiros e assumidos voluntariamente pelas entidades públicas".
 
-:c350.10.508 :temNotaAplicacao :nota_350.10.508_418707d98351 .
+:c350.10.508 :temNotaAplicacao :nota_350.10.508_87535273c94a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.508_ce3917173e37
-:nota_350.10.508_ce3917173e37 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.508_50ea25e60419
+:nota_350.10.508_50ea25e60419 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Compensações devidas por aplicação do regime de gestão do pessoal em requalificação".
 
-:c350.10.508 :temNotaAplicacao :nota_350.10.508_ce3917173e37 .
+:c350.10.508 :temNotaAplicacao :nota_350.10.508_50ea25e60419 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.508_2c9b2d0a0c04
-:nota_350.10.508_2c9b2d0a0c04 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.508_49c5ecfde94b
+:nota_350.10.508_49c5ecfde94b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Compensação por prejuízos causados no património do Estado, provenientes de circunstâncias acidentais ou fortuitas".
 
-:c350.10.508 :temNotaAplicacao :nota_350.10.508_2c9b2d0a0c04 .
+:c350.10.508 :temNotaAplicacao :nota_350.10.508_49c5ecfde94b .
 
 :c350.10.508 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.508 :processoTransversal "S" .
@@ -3082,29 +3082,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Processamento de remunerações por trabalhador, integrando a apresentação da informação relativa a abonos e descontos. Inicia com a verificação da assiduidade e termina com a liquidação do montante a pagar. Inclui o apuramento de horas extraordinárias, de subsídio de residência, de subsídio de refeição, de alterações na remuneração, de penhoras de vencimento, de abono de família a crianças e jovens, de abonos para falhas e descontos (para a Segurança Social (SS), Caixa Geral de Aposentações (CGA), Instituto de Proteção e Assistência na Doença, I.P. (ADSE, I.P.), entidades seguradoras, Fundo de Estabilização Tributária (FET), entre outros.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.509_73d3580321f6
-:nota_350.10.509_73d3580321f6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.509_263d0ac6cadf
+:nota_350.10.509_263d0ac6cadf rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Senhas de presença".
 
-:c350.10.509 :temNotaAplicacao :nota_350.10.509_73d3580321f6 .
+:c350.10.509 :temNotaAplicacao :nota_350.10.509_263d0ac6cadf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.509_12ea45e72112
-:nota_350.10.509_12ea45e72112 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.509_512d3b2f9b41
+:nota_350.10.509_512d3b2f9b41 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Bolsa dos auditores de justiça (aos auditores de justiça com algum tipo de vínculo com o Estado, encontram-se em comissão de serviço e é-lhes pago o correspondente ao vencimento de origem, sendo que aos restantes, é-lhes paga a dita bolsa de formação sendo obrigados a um regime de exclusividade)".
 
-:c350.10.509 :temNotaAplicacao :nota_350.10.509_12ea45e72112 .
+:c350.10.509 :temNotaAplicacao :nota_350.10.509_512d3b2f9b41 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.509_f78a21a48c96
-:nota_350.10.509_f78a21a48c96 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.509_f30faae9f81b
+:nota_350.10.509_f30faae9f81b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.10.509 :temNotaExclusao :nota_350.10.509_f78a21a48c96 .
+:c350.10.509 :temNotaExclusao :nota_350.10.509_f30faae9f81b .
 
 :c350.10.509 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.509 :processoTransversal "S" .
@@ -3243,21 +3243,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Processamento dos abonos de transportes, ajudas de custo, deslocações e estadas. Inicia com o pedido de autorização e termina com a liquidação do montante a pagar. Inclui o cálculo e o processamento das ajudas de custo e despesas de deslocação e elementos comprovativos. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.510_67562a69967d
-:nota_350.10.510_67562a69967d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.510_e54783e01fdc
+:nota_350.10.510_e54783e01fdc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Despesas efetuadas por serviço externo e formação".
 
-:c350.10.510 :temNotaAplicacao :nota_350.10.510_67562a69967d .
+:c350.10.510 :temNotaAplicacao :nota_350.10.510_e54783e01fdc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.510_d1505db4d1c9
-:nota_350.10.510_d1505db4d1c9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.510_cf4cc483262c
+:nota_350.10.510_cf4cc483262c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.10.510 :temNotaExclusao :nota_350.10.510_d1505db4d1c9 .
+:c350.10.510 :temNotaExclusao :nota_350.10.510_cf4cc483262c .
 
 :c350.10.510 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.510 :processoTransversal "S" .
@@ -3316,6 +3316,8 @@
 :c350.10.510 :eSintetizadoPor :c150.20.404 .
 :c350.10.510 :temRelProc :c350.10.600 .
 :c350.10.510 :eCruzadoCom :c350.10.600 .
+:c350.10.510 :temRelProc :c500.10.001 .
+:c350.10.510 :eSuplementoPara :c500.10.001 .
 :c350.10.510 :temPCA :pca_c350.10.510.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c350.10.510
 :pca_c350.10.510 rdf:type owl:NamedIndividual ,
@@ -3360,69 +3362,69 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Apuramento de montantes a devolver, recebidos indevidamente ou a mais, efetivada por compensação, dedução em folha ou pagamento através da apresentação de guia, bem como o ressarcimento de valores por despesa com direito a restituição. Inicia com o pedido de reposição ou reembolso ou com a iniciativa da entidade pública (traduzida na ordem de transferência ou na emissão do cheque) e termina com o averbamento do montante a restituir. Inclui definição do modo de reposição, apresentação das guias de reposição abatidas (liquidadas no ano económico a que respeitam) e não abatidas (relativas a anos económicos anteriores), que se referem a reposições nos pagamentos relativos a fornecedores, trabalhadores e ex-trabalhadores, a apresentação de documentos da faturação referente à venda de bens ou serviços e o apuramento de valores, a comunicação ao serviço processador da restituição ou reembolso, a reativação de cheques.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.511_c55f932b12e7
-:nota_350.10.511_c55f932b12e7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.511_aa03a48c1e95
+:nota_350.10.511_aa03a48c1e95 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Devolução de valores de despesa de deslocações em serviço ou telefone, no caso de dirigentes".
 
-:c350.10.511 :temNotaAplicacao :nota_350.10.511_c55f932b12e7 .
+:c350.10.511 :temNotaAplicacao :nota_350.10.511_aa03a48c1e95 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.511_c5c67d990a9e
-:nota_350.10.511_c5c67d990a9e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.511_bd1ab1546bab
+:nota_350.10.511_bd1ab1546bab rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Restituições e reembolsos de impostos, taxas, direitos aduaneiros e demais tributos".
 
-:c350.10.511 :temNotaAplicacao :nota_350.10.511_c5c67d990a9e .
+:c350.10.511 :temNotaAplicacao :nota_350.10.511_bd1ab1546bab .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.511_c68b06bc27b1
-:nota_350.10.511_c68b06bc27b1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.511_decd02477e88
+:nota_350.10.511_decd02477e88 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Restituição e entrega de fundos de operações de tesouraria a estâncias aduaneiras".
 
-:c350.10.511 :temNotaAplicacao :nota_350.10.511_c68b06bc27b1 .
+:c350.10.511 :temNotaAplicacao :nota_350.10.511_decd02477e88 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.511_d91b2ab2d19c
-:nota_350.10.511_d91b2ab2d19c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.511_adb73b7f03e4
+:nota_350.10.511_adb73b7f03e4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Procedimento de reativação de cheques emitidos para restituição ou reembolso de montantes indevidos".
 
-:c350.10.511 :temNotaAplicacao :nota_350.10.511_d91b2ab2d19c .
+:c350.10.511 :temNotaAplicacao :nota_350.10.511_adb73b7f03e4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.511_0c8a50356f16
-:nota_350.10.511_0c8a50356f16 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.511_f6904d8e408e
+:nota_350.10.511_f6904d8e408e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Restituição e reembolso de recursos próprios comunitários".
 
-:c350.10.511 :temNotaAplicacao :nota_350.10.511_0c8a50356f16 .
+:c350.10.511 :temNotaAplicacao :nota_350.10.511_f6904d8e408e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.511_6d774d87d57b
-:nota_350.10.511_6d774d87d57b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.511_61149d901cfc
+:nota_350.10.511_61149d901cfc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Restituição de contribuições à Segurança Social".
 
-:c350.10.511 :temNotaAplicacao :nota_350.10.511_6d774d87d57b .
+:c350.10.511 :temNotaAplicacao :nota_350.10.511_61149d901cfc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.511_e9387a0472a3
-:nota_350.10.511_e9387a0472a3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.511_8738eeceae50
+:nota_350.10.511_8738eeceae50 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A comparticipação nos encargos com cuidados de saúde por adiantamento do beneficiário deve ser considerada em 350.10.506 – Comparticipação em despesas de saúde ao beneficiário".
 
-:c350.10.511 :temNotaExclusao :nota_350.10.511_e9387a0472a3 .
+:c350.10.511 :temNotaExclusao :nota_350.10.511_8738eeceae50 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.511_5b6a416513ab
-:nota_350.10.511_5b6a416513ab rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.511_7cf79501551e
+:nota_350.10.511_7cf79501551e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os reembolsos de valores que são calculados no processo de liquidação de impostos (ex: IRS, IRC, IVA,...), devem ser considerados nos respetivos processos de liquidação (350.10.100 – Liquidação de Imposto Sobre o Rendimento de Pessoas Singulares (IRS), 350.10.101 – Liquidação de Imposto Sobre o Rendimento de Pessoas Coletivas (IRC) e 350.10.300 – Liquidação de Imposto Sobre o Valor Acrescentado (IVA))".
 
-:c350.10.511 :temNotaExclusao :nota_350.10.511_5b6a416513ab .
+:c350.10.511 :temNotaExclusao :nota_350.10.511_7cf79501551e .
 
 :c350.10.511 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.511 :processoTransversal "S" .
@@ -3529,21 +3531,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Processamento de anulações de valores, nomeadamente de impostos, taxas, direitos aduaneiros e demais tributos. Inicia com o pedido de anulação apresentado pelo interessado ou com a iniciativa do serviço da administração pública e termina com a efetiva anulação do montante total ou parcial objeto de liquidação. Inclui todo o procedimento para a análise e cálculo das anulações.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.513_6ccb12e509be
-:nota_350.10.513_6ccb12e509be rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.513_6b3e9537d832
+:nota_350.10.513_6b3e9537d832 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Anulação de valores".
 
-:c350.10.513 :temNotaAplicacao :nota_350.10.513_6ccb12e509be .
+:c350.10.513 :temNotaAplicacao :nota_350.10.513_6b3e9537d832 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.513_2e85b5a5a89a
-:nota_350.10.513_2e85b5a5a89a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.513_7a968903e8b1
+:nota_350.10.513_7a968903e8b1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Anulação de contribuições à Segurança Social".
 
-:c350.10.513 :temNotaAplicacao :nota_350.10.513_2e85b5a5a89a .
+:c350.10.513 :temNotaAplicacao :nota_350.10.513_7a968903e8b1 .
 
 :c350.10.513 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.513 :processoTransversal "S" .
@@ -3592,6 +3594,8 @@
 :c350.10.513 :eSintetizadoPor :c150.20.404 .
 :c350.10.513 :temRelProc :c350.10.511 .
 :c350.10.513 :eSucessorDe :c350.10.511 .
+:c350.10.513 :temRelProc :c500.10.001 .
+:c350.10.513 :eSuplementoPara :c500.10.001 .
 :c350.10.513 :temPCA :pca_c350.10.513.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c350.10.513
 :pca_c350.10.513 rdf:type owl:NamedIndividual ,
@@ -3650,6 +3654,8 @@
 :c350.10.514 :eAntecessorDe :c300.10.005 .
 :c350.10.514 :temRelProc :c350.30.001 .
 :c350.10.514 :eAntecessorDe :c350.30.001 .
+:c350.10.514 :temRelProc :c500.10.001 .
+:c350.10.514 :eSuplementoPara :c500.10.001 .
 :c350.10.514 :temRelProc :c700.20.300 .
 :c350.10.514 :eSucessorDe :c700.20.300 .
 :c350.10.514 :temPCA :pca_c350.10.514.
@@ -3696,29 +3702,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Processamento da revisão de atos tributários pela entidade que os praticou. Inicia com pedido do sujeito passivo, com fundamento em qualquer ilegalidade, ou com a iniciativa da administração tributária, com fundamento em erro imputável aos serviços, e termina com a notificação do resultado da revisão efetuada. Inclui o exercício do direito de audição quando o pedido é objeto de indeferimento total ou parcial.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.515_63e8476c1b44
-:nota_350.10.515_63e8476c1b44 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.515_c3ef22b56d7d
+:nota_350.10.515_c3ef22b56d7d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Revisão da liquidação dos diversos tributos".
 
-:c350.10.515 :temNotaAplicacao :nota_350.10.515_63e8476c1b44 .
+:c350.10.515 :temNotaAplicacao :nota_350.10.515_c3ef22b56d7d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.515_4f8335cd08e6
-:nota_350.10.515_4f8335cd08e6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.515_2496e7f6bad2
+:nota_350.10.515_2496e7f6bad2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Revisão por erro na autoliquidação".
 
-:c350.10.515 :temNotaAplicacao :nota_350.10.515_4f8335cd08e6 .
+:c350.10.515 :temNotaAplicacao :nota_350.10.515_2496e7f6bad2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.515_b7a7f94f1d74
-:nota_350.10.515_b7a7f94f1d74 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.515_1656b3c12861
+:nota_350.10.515_1656b3c12861 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A revisão do lucro tributável determinado por métodos indiretos deve ser considerada em 350.10.102 – Revisão do lucro tributável determinado por métodos indiretos".
 
-:c350.10.515 :temNotaExclusao :nota_350.10.515_b7a7f94f1d74 .
+:c350.10.515 :temNotaExclusao :nota_350.10.515_1656b3c12861 .
 
 :c350.10.515 :processoTipoVC :vc_processoTipo_pe .
 :c350.10.515 :processoTransversal "S" .
@@ -3855,13 +3861,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Processamento de informação com a determinação dos montantes de recursos próprios tradicionais que não foi possível cobrar e pedido de dispensa da sua colocação à União Europeia, acompanhada da respetiva justificação. Inicia com a comunicação da Alfândega, tendo por base a contabilidade aduaneira, do montante considerado ou declarado incobrável e termina com a comunicação da decisão da Comissão Europeia. Inclui instrução, análise e acompanhamento de processos relativos a pedidos de dispensa de colocação à disposição de recursos próprios tradicionais apresentados por Portugal. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.517_9abd154f6f0a
-:nota_350.10.517_9abd154f6f0a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.517_d9526a2dcc36
+:nota_350.10.517_d9526a2dcc36 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A eventual recusa do pedido pela Comissão Europeia deve ser considerado em 600.30.650 – Ação em matéria de direito da União Europeia".
 
-:c350.10.517 :temNotaExclusao :nota_350.10.517_9abd154f6f0a .
+:c350.10.517 :temNotaExclusao :nota_350.10.517_d9526a2dcc36 .
 
 :c350.10.517 :processoTipoVC :vc_processoTipo_pe .
 :c350.10.517 :processoTransversal "N" .
@@ -3917,37 +3923,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Processamento da despesa relativa a tributo pago em troca da prestação de um serviço. Inicia com a solicitação do serviço e termina com o apuramento do montante. Inclui o cálculo da verba a pagar e emissão dos documentos comprovativos.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.518_e40a8082d83e
-:nota_350.10.518_e40a8082d83e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.518_a3c6d1db5dc4
+:nota_350.10.518_a3c6d1db5dc4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cálculo da taxa de recursos hídricos".
 
-:c350.10.518 :temNotaAplicacao :nota_350.10.518_e40a8082d83e .
+:c350.10.518 :temNotaAplicacao :nota_350.10.518_a3c6d1db5dc4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.518_ecc0aa3a16f8
-:nota_350.10.518_ecc0aa3a16f8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.518_0ad6c2196636
+:nota_350.10.518_0ad6c2196636 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cálculo da taxa aeroportuária".
 
-:c350.10.518 :temNotaAplicacao :nota_350.10.518_ecc0aa3a16f8 .
+:c350.10.518 :temNotaAplicacao :nota_350.10.518_0ad6c2196636 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.518_de3774916730
-:nota_350.10.518_de3774916730 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.518_a1a679d9e40f
+:nota_350.10.518_a1a679d9e40f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cálculo da taxa portuária".
 
-:c350.10.518 :temNotaAplicacao :nota_350.10.518_de3774916730 .
+:c350.10.518 :temNotaAplicacao :nota_350.10.518_a1a679d9e40f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.518_f3443682a1d0
-:nota_350.10.518_f3443682a1d0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.518_b107b09a43a4
+:nota_350.10.518_b107b09a43a4 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O cálculo de taxas no âmbito de processos de licenciamento ou registo deve ser considerado no respetivo processo.".
 
-:c350.10.518 :temNotaExclusao :nota_350.10.518_f3443682a1d0 .
+:c350.10.518 :temNotaExclusao :nota_350.10.518_b107b09a43a4 .
 
 :c350.10.518 :processoTipoVC :vc_processoTipo_pe .
 :c350.10.518 :processoTransversal "S" .
@@ -4023,37 +4029,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Demonstração de efetividade de serviço prestado por trabalhadores para reconhecimento de tempo de serviço com efeitos no Sistema de Segurança Social. Inicia com solicitação do reconhecimento e termina com a comunicação da decisão. Incluí entrega de comprovativos, análise, confirmação das condições com o determinado em convenções ou acordos bilaterais, decisão.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.519_8b123b6acb3a
-:nota_350.10.519_8b123b6acb3a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.519_534a636004d9
+:nota_350.10.519_534a636004d9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Trabalhadores por conta de outrem que descontaram para Instituições de Previdência nas ex-províncias ultramarinas".
 
-:c350.10.519 :temNotaAplicacao :nota_350.10.519_8b123b6acb3a .
+:c350.10.519 :temNotaAplicacao :nota_350.10.519_534a636004d9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.519_9e2e49fc93e1
-:nota_350.10.519_9e2e49fc93e1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.519_6a64a00f7feb
+:nota_350.10.519_6a64a00f7feb rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Trabalhadores por conta de outrem que descontaram para Instituições de Previdência no estrangeiro".
 
-:c350.10.519 :temNotaAplicacao :nota_350.10.519_9e2e49fc93e1 .
+:c350.10.519 :temNotaAplicacao :nota_350.10.519_6a64a00f7feb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.519_8b89de0ca26a
-:nota_350.10.519_8b89de0ca26a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.519_27ffb39476a5
+:nota_350.10.519_27ffb39476a5 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento de contribuições deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.10.519 :temNotaExclusao :nota_350.10.519_8b89de0ca26a .
+:c350.10.519 :temNotaExclusao :nota_350.10.519_27ffb39476a5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.519_91ad59b74088
-:nota_350.10.519_91ad59b74088 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.519_b1feb8a27d4a
+:nota_350.10.519_b1feb8a27d4a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O apuramento de contribuições deve ser considerado em 350.10.502 - Liquidação de contribuições para a segurança social e aposentação".
 
-:c350.10.519 :temNotaExclusao :nota_350.10.519_91ad59b74088 .
+:c350.10.519 :temNotaExclusao :nota_350.10.519_b1feb8a27d4a .
 
 :c350.10.519 :processoTipoVC :vc_processoTipo_pe .
 :c350.10.519 :processoTransversal "S" .
@@ -4118,37 +4124,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Concessão de benefícios contributivos dependentes de reconhecimento. Inicia com o pedido de benefício e termina com a notificação da decisão final. Inclui entrega de comprovativos para a análise e cálculo.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.520_b91bb9724178
-:nota_350.10.520_b91bb9724178 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.520_1485ad778458
+:nota_350.10.520_1485ad778458 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Trabalhadores com um grau de incapacidade inferior a 80%".
 
-:c350.10.520 :temNotaAplicacao :nota_350.10.520_b91bb9724178 .
+:c350.10.520 :temNotaAplicacao :nota_350.10.520_1485ad778458 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.520_a2e43c077de5
-:nota_350.10.520_a2e43c077de5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.520_ac6442fe18ae
+:nota_350.10.520_ac6442fe18ae rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Desempregados de longa duração".
 
-:c350.10.520 :temNotaAplicacao :nota_350.10.520_a2e43c077de5 .
+:c350.10.520 :temNotaAplicacao :nota_350.10.520_ac6442fe18ae .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.520_369caa5f6390
-:nota_350.10.520_369caa5f6390 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.520_286b3cf2f451
+:nota_350.10.520_286b3cf2f451 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Desempregados de muito longa duração".
 
-:c350.10.520 :temNotaAplicacao :nota_350.10.520_369caa5f6390 .
+:c350.10.520 :temNotaAplicacao :nota_350.10.520_286b3cf2f451 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.520_8791fddf60e5
-:nota_350.10.520_8791fddf60e5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.520_779af770ac45
+:nota_350.10.520_779af770ac45 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reclusos em regime aberto".
 
-:c350.10.520 :temNotaAplicacao :nota_350.10.520_8791fddf60e5 .
+:c350.10.520 :temNotaAplicacao :nota_350.10.520_779af770ac45 .
 
 :c350.10.520 :processoTipoVC :vc_processoTipo_pe .
 :c350.10.520 :processoTransversal "S" .
@@ -4212,13 +4218,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Apuramento e validação de prémios dos jogos sociais do Estado. Inicia com a verificação do comprovativo da aposta premiada e termina com a comunicação da autorização de pagamento.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.521_e29316bd76eb
-:nota_350.10.521_e29316bd76eb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.521_fee6e1052e27
+:nota_350.10.521_fee6e1052e27 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os comprovativos dos pagamentos de prémios efetuados que devem ser considerados no PN 350.30.001 - Cobrança de receitas e pagamento de despesas".
 
-:c350.10.521 :temNotaExclusao :nota_350.10.521_e29316bd76eb .
+:c350.10.521 :temNotaExclusao :nota_350.10.521_fee6e1052e27 .
 
 :c350.10.521 :processoTipoVC :vc_processoTipo_pe .
 :c350.10.521 :processoTransversal "N" .
@@ -4246,7 +4252,6 @@
 :c350.10.521 :temLegislacao :leg_DL_200_2009 .
 :c350.10.521 :temLegislacao :leg_Portaria_112_2013 .
 :c350.10.521 :temLegislacao :leg_Portaria_148_2013 .
-:c350.10.521 :temLegislacao :leg_Lei_98_97 .
 :c350.10.521 :temRelProc :c150.20.404 .
 :c350.10.521 :eSintetizadoPor :c150.20.404 .
 :c350.10.521 :temRelProc :c500.10.001 .
@@ -4269,9 +4274,8 @@
 :pca_c350.10.521 :temJustificacao :just_pca_c350.10.521 .
 :just_pca_c350.10.521_0 rdf:type owl:NamedIndividual ,
 		:CriterioJustificacaoLegal ;
-	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória)." .
+	:conteudo "(Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória)." .
 :just_pca_c350.10.521 :temCriterio :just_pca_c350.10.521_0. 
-:just_pca_c350.10.521_0 :critTemLegAssoc :leg_Lei_98_97 .
 :just_pca_c350.10.521_1 rdf:type owl:NamedIndividual ,
 		:CriterioJustificacaoUtilidadeAdministrativa ;
 	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
@@ -4301,157 +4305,157 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Registo da receita proveniente da prestação de serviços e da venda de produtos e de bens de investimento, incluindo a sua isenção, redução e fracionamento, bem como da receita proveniente de indemnizações. Compreende também o registo da despesa proveniente da aquisição de bens e serviços, remunerações, bem como da despesa de investimento. Inicia com a informação ou o apuramento do montante a receber (receita) ou com cabimentação (despesa) e termina com o lançamento da receita ou da despesa. Inclui classificação da receita ou da despesa, autorização de despesa e de alteração ao seu limite (se aplicável), compromisso (para a despesa), inclusão em suporte normalizados dos encargos legalmente constituídos e informação do recebimento ou da receção do bem ou serviço por parte da entidade requisitante. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.600_fb7be0abefc6
-:nota_350.10.600_fb7be0abefc6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.600_a9504deab1a9
+:nota_350.10.600_a9504deab1a9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Registo de verbas".
 
-:c350.10.600 :temNotaAplicacao :nota_350.10.600_fb7be0abefc6 .
+:c350.10.600 :temNotaAplicacao :nota_350.10.600_a9504deab1a9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_1d2e00d3414f
-:exemplo_350.10.600_1d2e00d3414f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_3fbe48aa300f
+:exemplo_350.10.600_3fbe48aa300f rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Registo de antecipação de duodécimos".
 
-:c350.10.600 :temExemploNA :exemplo_350.10.600_1d2e00d3414f .
+:c350.10.600 :temExemploNA :exemplo_350.10.600_3fbe48aa300f .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_93d19c3c2402
-:exemplo_350.10.600_93d19c3c2402 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_3fce2585a437
+:exemplo_350.10.600_3fce2585a437 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Despesas referentes à constituição, reconstituição e reposição do fundo de maneio".
 
-:c350.10.600 :temExemploNA :exemplo_350.10.600_93d19c3c2402 .
+:c350.10.600 :temExemploNA :exemplo_350.10.600_3fce2585a437 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_4d5f9ae6495f
-:exemplo_350.10.600_4d5f9ae6495f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_dcbe4273a68c
+:exemplo_350.10.600_dcbe4273a68c rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Despesas de aquisição (despesa corrente, proveniente da aquisição de bens e serviços, bem como a despesa de investimento)".
 
-:c350.10.600 :temExemploNA :exemplo_350.10.600_4d5f9ae6495f .
+:c350.10.600 :temExemploNA :exemplo_350.10.600_dcbe4273a68c .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_d08a3f663cfa
-:exemplo_350.10.600_d08a3f663cfa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_adb429706f65
+:exemplo_350.10.600_adb429706f65 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Despesas com ajudas de custos".
 
-:c350.10.600 :temExemploNA :exemplo_350.10.600_d08a3f663cfa .
+:c350.10.600 :temExemploNA :exemplo_350.10.600_adb429706f65 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_960522340db7
-:exemplo_350.10.600_960522340db7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_cdea2fcf0cdd
+:exemplo_350.10.600_cdea2fcf0cdd rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Despesas com apoios financeiros, subsídios, donativos, comparticipações e outros instrumentos de incentivo financeiro ou de proteção/inclusão social, remunerações, indemnizações".
 
-:c350.10.600 :temExemploNA :exemplo_350.10.600_960522340db7 .
+:c350.10.600 :temExemploNA :exemplo_350.10.600_cdea2fcf0cdd .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_d78405d9311d
-:exemplo_350.10.600_d78405d9311d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_a24eb1c4677a
+:exemplo_350.10.600_a24eb1c4677a rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Despesas com remunerações, assim como descontos devidos a cada trabalhador ou eleito".
 
-:c350.10.600 :temExemploNA :exemplo_350.10.600_d78405d9311d .
+:c350.10.600 :temExemploNA :exemplo_350.10.600_a24eb1c4677a .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_aa6752e32c63
-:exemplo_350.10.600_aa6752e32c63 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_c81cd29e1f75
+:exemplo_350.10.600_c81cd29e1f75 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Lançamento de receitas tributárias (impostos, contribuições, taxas, coimas) ou outras (por exemplo juros)".
 
-:c350.10.600 :temExemploNA :exemplo_350.10.600_aa6752e32c63 .
+:c350.10.600 :temExemploNA :exemplo_350.10.600_c81cd29e1f75 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_027e92048196
-:exemplo_350.10.600_027e92048196 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_917355ca282b
+:exemplo_350.10.600_917355ca282b rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Receita corrente proveniente da prestação de serviços e da venda".
 
-:c350.10.600 :temExemploNA :exemplo_350.10.600_027e92048196 .
+:c350.10.600 :temExemploNA :exemplo_350.10.600_917355ca282b .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_161c811b2772
-:exemplo_350.10.600_161c811b2772 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_d84e80562903
+:exemplo_350.10.600_d84e80562903 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Reposições (as abatidas e as não abatidas no pagamento)".
 
-:c350.10.600 :temExemploNA :exemplo_350.10.600_161c811b2772 .
+:c350.10.600 :temExemploNA :exemplo_350.10.600_d84e80562903 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_2cfb6b24be68
-:exemplo_350.10.600_2cfb6b24be68 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_9d96addd4095
+:exemplo_350.10.600_9d96addd4095 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Restituições, reembolsos, anulações e encontro de contas".
 
-:c350.10.600 :temExemploNA :exemplo_350.10.600_2cfb6b24be68 .
+:c350.10.600 :temExemploNA :exemplo_350.10.600_9d96addd4095 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_008cf75823f8
-:exemplo_350.10.600_008cf75823f8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.10.600_4208cc13e6d7
+:exemplo_350.10.600_4208cc13e6d7 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Transferência de verbas".
 
-:c350.10.600 :temExemploNA :exemplo_350.10.600_008cf75823f8 .
+:c350.10.600 :temExemploNA :exemplo_350.10.600_4208cc13e6d7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.600_494e630db231
-:nota_350.10.600_494e630db231 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.600_0b297b2b46ce
+:nota_350.10.600_0b297b2b46ce rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A cobrança da receita e o pagamento de despesa, enquanto fluxos financeiros, devem ser consideradas em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.10.600 :temNotaExclusao :nota_350.10.600_494e630db231 .
+:c350.10.600 :temNotaExclusao :nota_350.10.600_0b297b2b46ce .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.600_81df275e16e0
-:nota_350.10.600_81df275e16e0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.600_7fdd256e03f9
+:nota_350.10.600_7fdd256e03f9 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os cálculos podem ser considerados em dois tipos de processos".
 
-:c350.10.600 :temNotaExclusao :nota_350.10.600_81df275e16e0 .
+:c350.10.600 :temNotaExclusao :nota_350.10.600_7fdd256e03f9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.600_57ba7c63b800
-:nota_350.10.600_57ba7c63b800 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.600_702102b06bdc
+:nota_350.10.600_702102b06bdc rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Apuramentos que ocorram como parte de um processo de negócio de outra classe (ex.: no âmbito de uma contraordenação, ou de um licenciamento)".
 
-:c350.10.600 :temNotaExclusao :nota_350.10.600_57ba7c63b800 .
+:c350.10.600 :temNotaExclusao :nota_350.10.600_702102b06bdc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.600_7ea2e9562078
-:nota_350.10.600_7ea2e9562078 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.600_5651c0b73033
+:nota_350.10.600_5651c0b73033 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Processo específico de liquidação considerado em 350.10 (ex.: apuramento de impostos, processamento de remunerações)".
 
-:c350.10.600 :temNotaExclusao :nota_350.10.600_7ea2e9562078 .
+:c350.10.600 :temNotaExclusao :nota_350.10.600_5651c0b73033 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.600_c296c111809e
-:nota_350.10.600_c296c111809e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.600_7cf44a77e0e9
+:nota_350.10.600_7cf44a77e0e9 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O cálculo da indemnização terá lugar no âmbito do respetivo processo".
 
-:c350.10.600 :temNotaExclusao :nota_350.10.600_c296c111809e .
+:c350.10.600 :temNotaExclusao :nota_350.10.600_7cf44a77e0e9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.600_ec832928dd8b
-:nota_350.10.600_ec832928dd8b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.600_1fcaf5fb2126
+:nota_350.10.600_1fcaf5fb2126 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O cálculo, redução ou isenção de taxa devem ser considerados no âmbito do respetivo processo".
 
-:c350.10.600 :temNotaExclusao :nota_350.10.600_ec832928dd8b .
+:c350.10.600 :temNotaExclusao :nota_350.10.600_1fcaf5fb2126 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.600_6153a65075c9
-:nota_350.10.600_6153a65075c9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.600_0c6c4b0d50e7
+:nota_350.10.600_0c6c4b0d50e7 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O auto de receção do bem ou serviço deve ser considerado em 300.10, no respetivo processo de aquisição".
 
-:c350.10.600 :temNotaExclusao :nota_350.10.600_6153a65075c9 .
+:c350.10.600 :temNotaExclusao :nota_350.10.600_0c6c4b0d50e7 .
 
 :c350.10.600 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.600 :processoTransversal "S" .
@@ -4586,13 +4590,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.10 ;
 	:descricao 'Requisição mensal à entidade competente da transferência duodecimal de verbas do orçamento anual atribuído através do Orçamento do Estado para fazer face aos encargos assumidos mensalmente. Inicia com o pedido e termina com a comunicação da decisão e libertação da verba pedida, em caso de aceitação do pedido. Inclui o envio e análise dos documentos justificativos, com indicação rigorosa das formalidades realizadas e sua fundamentação legal, o processamento e autorização ou recusa de libertação de crédito. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.700_97b09d35ab6a
-:nota_350.10.700_97b09d35ab6a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.10.700_ac317689cea4
+:nota_350.10.700_ac317689cea4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Solicitações de crédito para fazer face aos encargos assumidos com pessoal".
 
-:c350.10.700 :temNotaAplicacao :nota_350.10.700_97b09d35ab6a .
+:c350.10.700 :temNotaAplicacao :nota_350.10.700_ac317689cea4 .
 
 :c350.10.700 :processoTipoVC :vc_processoTipo_pc .
 :c350.10.700 :processoTransversal "S" .
@@ -4722,77 +4726,77 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350 ;
 	:descricao 'Compreende o processamento dos fluxos financeiros movimentados (entradas e saídas de tesouraria), no que se inclui pagamentos, cobranças, transferências, depósitos e fundos entrados. Compreende ainda a rentabilização dos excedentes de tesouraria.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_0938232297d0
-:nota_350.30_0938232297d0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_7748f589c2e8
+:nota_350.30_7748f589c2e8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pagamento de apoios financeiros, subsídios, donativos, comparticipações e outros instrumentos de incentivo financeiro ou de proteção/inclusão social, remunerações, indemnizações".
 
-:c350.30 :temNotaAplicacao :nota_350.30_0938232297d0 .
+:c350.30 :temNotaAplicacao :nota_350.30_7748f589c2e8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_bfa81c0a4ea8
-:nota_350.30_bfa81c0a4ea8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_e680d77956e7
+:nota_350.30_e680d77956e7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cobrança/recebimento de receitas tributárias (impostos, contribuições, taxas, coimas) ou outras (por exemplo juros)".
 
-:c350.30 :temNotaAplicacao :nota_350.30_bfa81c0a4ea8 .
+:c350.30 :temNotaAplicacao :nota_350.30_e680d77956e7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_677c38d742a9
-:nota_350.30_677c38d742a9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_d35531904b10
+:nota_350.30_d35531904b10 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fluxos financeiros relativos à transferência de verbas".
 
-:c350.30 :temNotaAplicacao :nota_350.30_677c38d742a9 .
+:c350.30 :temNotaAplicacao :nota_350.30_d35531904b10 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_227c1fb2277b
-:nota_350.30_227c1fb2277b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_b8a05158e11a
+:nota_350.30_b8a05158e11a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reposições (as abatidas e as não abatidas no pagamento), as restituições, os reembolsos, as anulações, o encontro de contas".
 
-:c350.30 :temNotaAplicacao :nota_350.30_227c1fb2277b .
+:c350.30 :temNotaAplicacao :nota_350.30_b8a05158e11a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_10ed6b104916
-:nota_350.30_10ed6b104916 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_9122cf24e110
+:nota_350.30_9122cf24e110 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Antecipação de duodécimos, os pedidos de alteração dos limites trimestrais de despesa, bem como balancetes e outros instrumentos de controlo".
 
-:c350.30 :temNotaAplicacao :nota_350.30_10ed6b104916 .
+:c350.30 :temNotaAplicacao :nota_350.30_9122cf24e110 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_6b582269d424
-:nota_350.30_6b582269d424 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_a1e2744cedac
+:nota_350.30_a1e2744cedac rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reconciliação bancária (conferência entre os movimentos das contas e os lançamentos efetuados pela Entidade, tendo por base os extratos bancários)".
 
-:c350.30 :temNotaAplicacao :nota_350.30_6b582269d424 .
+:c350.30 :temNotaAplicacao :nota_350.30_a1e2744cedac .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_031be264c3e3
-:nota_350.30_031be264c3e3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_2477d584bb03
+:nota_350.30_2477d584bb03 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Movimento de verbas dentro de cada entidade, nomeadamente levantamentos, depósitos e transferências entre contas".
 
-:c350.30 :temNotaAplicacao :nota_350.30_031be264c3e3 .
+:c350.30 :temNotaAplicacao :nota_350.30_2477d584bb03 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_f225826191a6
-:nota_350.30_f225826191a6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_d901d0169f01
+:nota_350.30_d901d0169f01 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Gestão do fundo de maneio (incluindo a respetiva constituição)".
 
-:c350.30 :temNotaAplicacao :nota_350.30_f225826191a6 .
+:c350.30 :temNotaAplicacao :nota_350.30_d901d0169f01 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_0d99d122f485
-:nota_350.30_0d99d122f485 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30_f4135d048d39
+:nota_350.30_f4135d048d39 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A gestão da dívida pública e da liquidez deve ser considerada em \"Administração financeira/Gestão da dívida e dos créditos públicos\" (350.40);Os documentos de despesa devem ser considerados no âmbito do processo que originou a despesa".
 
-:c350.30 :temNotaExclusao :nota_350.30_0d99d122f485 .
+:c350.30 :temNotaExclusao :nota_350.30_f4135d048d39 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c350.30.001
@@ -4804,101 +4808,101 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.30 ;
 	:descricao 'Recebimento e pagamento de quaisquer montantes financeiros. Inicia com a emissão de documento de receita ou receção de documento de despesa e termina com a arrecadação ou pagamento da verba. Inclui autorização de pagamento, emissão de meios de pagamento, transferência de verbas entre entidades e confirmação da receção de verba.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.001_87444de4c2a1
-:nota_350.30.001_87444de4c2a1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.001_2e5dbb941691
+:nota_350.30.001_2e5dbb941691 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fluxos financeiros de tesouraria".
 
-:c350.30.001 :temNotaAplicacao :nota_350.30.001_87444de4c2a1 .
+:c350.30.001 :temNotaAplicacao :nota_350.30.001_2e5dbb941691 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.30.001_a65ee3137a5b
-:exemplo_350.30.001_a65ee3137a5b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.30.001_6b6777864971
+:exemplo_350.30.001_6b6777864971 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Contas a receber e contas a pagar".
 
-:c350.30.001 :temExemploNA :exemplo_350.30.001_a65ee3137a5b .
+:c350.30.001 :temExemploNA :exemplo_350.30.001_6b6777864971 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.30.001_3e986662d22e
-:exemplo_350.30.001_3e986662d22e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.30.001_051973cad545
+:exemplo_350.30.001_051973cad545 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Entradas e saídas de caixa".
 
-:c350.30.001 :temExemploNA :exemplo_350.30.001_3e986662d22e .
+:c350.30.001 :temExemploNA :exemplo_350.30.001_051973cad545 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.30.001_ae59224a197b
-:exemplo_350.30.001_ae59224a197b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.30.001_f3fb47adfc79
+:exemplo_350.30.001_f3fb47adfc79 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Movimentos relativos ao fundo de maneio".
 
-:c350.30.001 :temExemploNA :exemplo_350.30.001_ae59224a197b .
+:c350.30.001 :temExemploNA :exemplo_350.30.001_f3fb47adfc79 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.30.001_912035f492e8
-:exemplo_350.30.001_912035f492e8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.30.001_e212d6a86640
+:exemplo_350.30.001_e212d6a86640 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Pagamentos e recebimentos".
 
-:c350.30.001 :temExemploNA :exemplo_350.30.001_912035f492e8 .
+:c350.30.001 :temExemploNA :exemplo_350.30.001_e212d6a86640 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.30.001_b94b3fae9a97
-:exemplo_350.30.001_b94b3fae9a97 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.30.001_c4077b118ba2
+:exemplo_350.30.001_c4077b118ba2 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Reembolsos e restituições".
 
-:c350.30.001 :temExemploNA :exemplo_350.30.001_b94b3fae9a97 .
+:c350.30.001 :temExemploNA :exemplo_350.30.001_c4077b118ba2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.30.001_6665043e28ef
-:exemplo_350.30.001_6665043e28ef rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.30.001_c6520bccf395
+:exemplo_350.30.001_c6520bccf395 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Transferência de verbas".
 
-:c350.30.001 :temExemploNA :exemplo_350.30.001_6665043e28ef .
+:c350.30.001 :temExemploNA :exemplo_350.30.001_c6520bccf395 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.30.001_0ef062c40ea7
-:exemplo_350.30.001_0ef062c40ea7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_350.30.001_ec24f1360b5a
+:exemplo_350.30.001_ec24f1360b5a rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Pagamentos de contribuições para a Segurança Social".
 
-:c350.30.001 :temExemploNA :exemplo_350.30.001_0ef062c40ea7 .
+:c350.30.001 :temExemploNA :exemplo_350.30.001_ec24f1360b5a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.001_4a7974f64823
-:nota_350.30.001_4a7974f64823 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.001_7f386fc0f0fa
+:nota_350.30.001_7f386fc0f0fa rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os cálculos podem ser considerados em dois tipos de processos".
 
-:c350.30.001 :temNotaExclusao :nota_350.30.001_4a7974f64823 .
+:c350.30.001 :temNotaExclusao :nota_350.30.001_7f386fc0f0fa .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.001_5b731e0b0e85
-:nota_350.30.001_5b731e0b0e85 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.001_5cb65f2fcd13
+:nota_350.30.001_5cb65f2fcd13 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Apuramentos que ocorram como parte de um processo de negócio de outra classe (ex.: no âmbito de uma contraordenação, ou de um licenciamento)".
 
-:c350.30.001 :temNotaExclusao :nota_350.30.001_5b731e0b0e85 .
+:c350.30.001 :temNotaExclusao :nota_350.30.001_5cb65f2fcd13 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.001_243b55efba21
-:nota_350.30.001_243b55efba21 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.001_353ad43861db
+:nota_350.30.001_353ad43861db rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Processo específico de liquidação considerado em 350.10 (ex.: liquidação de impostos, liquidação de contribuições, apuramento de transferência de verbas, processamento de remunerações)".
 
-:c350.30.001 :temNotaExclusao :nota_350.30.001_243b55efba21 .
+:c350.30.001 :temNotaExclusao :nota_350.30.001_353ad43861db .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.001_9e7071cb9a5f
-:nota_350.30.001_9e7071cb9a5f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.001_c756f346b4a1
+:nota_350.30.001_c756f346b4a1 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O registo de receitas e despesas deve ser considerado em 350.10.600 – Lançamento de receitas e de despesas".
 
-:c350.30.001 :temNotaExclusao :nota_350.30.001_9e7071cb9a5f .
+:c350.30.001 :temNotaExclusao :nota_350.30.001_c756f346b4a1 .
 
 :c350.30.001 :processoTipoVC :vc_processoTipo_pc .
 :c350.30.001 :processoTransversal "S" .
@@ -5109,6 +5113,8 @@
 :c350.30.001 :eCruzadoCom :c900.20.601 .
 :c350.30.001 :temRelProc :c900.20.602 .
 :c350.30.001 :eCruzadoCom :c900.20.602 .
+:c350.30.001 :temRelProc :c500.10.001 .
+:c350.30.001 :eSuplementoPara :c500.10.001 .
 :c350.30.001 :temPCA :pca_c350.30.001.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c350.30.001
 :pca_c350.30.001 rdf:type owl:NamedIndividual ,
@@ -5153,21 +5159,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.30 ;
 	:descricao 'Entrega do montante destinado a satisfazer pequenas despesas de caráter corrente e inadiáveis dos serviços e organismos necessárias e urgentes à manutenção dos serviços, por conta das rubricas orçamentais aprovadas. Inicia com a constituição do fundo e termina com a entrega no final do ano. Inclui a designação do seu responsável. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.002_d7407e03cdb4
-:nota_350.30.002_d7407e03cdb4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.002_1565168f85a0
+:nota_350.30.002_1565168f85a0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pagamento de pequenas aquisições no quadro da satisfação de necessidades urgentes dos serviços".
 
-:c350.30.002 :temNotaAplicacao :nota_350.30.002_d7407e03cdb4 .
+:c350.30.002 :temNotaAplicacao :nota_350.30.002_1565168f85a0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.002_cbd9cac68c47
-:nota_350.30.002_cbd9cac68c47 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.002_9bd5e9b86527
+:nota_350.30.002_9bd5e9b86527 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reconstituição do fundo de maneio".
 
-:c350.30.002 :temNotaAplicacao :nota_350.30.002_cbd9cac68c47 .
+:c350.30.002 :temNotaAplicacao :nota_350.30.002_9bd5e9b86527 .
 
 :c350.30.002 :processoTipoVC :vc_processoTipo_pc .
 :c350.30.002 :processoTransversal "S" .
@@ -5277,29 +5283,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.30 ;
 	:descricao 'Verificação e demonstração dos montantes e documentos existentes em tesouraria. Inicia com a conferência e termina com o registo. Inclui o controlo de movimentos, apuramento de valores, quando aplicável, a produção de instrumentos de controlo diário, semanal, anual, de transição, ou outros e de termos de responsabilidade. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.003_872b0f4299db
-:nota_350.30.003_872b0f4299db rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.003_12c1c814c4bb
+:nota_350.30.003_12c1c814c4bb rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apuramento de contas por transição".
 
-:c350.30.003 :temNotaAplicacao :nota_350.30.003_872b0f4299db .
+:c350.30.003 :temNotaAplicacao :nota_350.30.003_12c1c814c4bb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.003_5ebfe632b753
-:nota_350.30.003_5ebfe632b753 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.003_cc4748fa6ccb
+:nota_350.30.003_cc4748fa6ccb rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O controlo e monitorização da execução orçamental devem ser considerados em 150.20.400 – Acompanhamento da execução orçamental".
 
-:c350.30.003 :temNotaExclusao :nota_350.30.003_5ebfe632b753 .
+:c350.30.003 :temNotaExclusao :nota_350.30.003_cc4748fa6ccb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.003_4f34edcd3559
-:nota_350.30.003_4f34edcd3559 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.003_b2896ee6c3c2
+:nota_350.30.003_b2896ee6c3c2 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A demonstração da execução orçamental e patrimonial deve ser considerada em 150.20.404 – Prestação de contas".
 
-:c350.30.003 :temNotaExclusao :nota_350.30.003_4f34edcd3559 .
+:c350.30.003 :temNotaExclusao :nota_350.30.003_b2896ee6c3c2 .
 
 :c350.30.003 :processoTipoVC :vc_processoTipo_pc .
 :c350.30.003 :processoTransversal "S" .
@@ -5410,13 +5416,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.30 ;
 	:descricao 'Fluxo de montantes financeiros em contas bancárias. Inicia com uma ordem de levantamento, depósito ou transferência e termina com o recebimento, a entrega ou a transferência do valor. Inclui o registo da operação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.004_b1185d629014
-:nota_350.30.004_b1185d629014 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.004_9dd6edfb97c5
+:nota_350.30.004_9dd6edfb97c5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Levantamentos, depósitos e transferências entre contas".
 
-:c350.30.004 :temNotaAplicacao :nota_350.30.004_b1185d629014 .
+:c350.30.004 :temNotaAplicacao :nota_350.30.004_9dd6edfb97c5 .
 
 :c350.30.004 :processoTipoVC :vc_processoTipo_pc .
 :c350.30.004 :processoTransversal "S" .
@@ -5636,21 +5642,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.30 ;
 	:descricao 'Processamento de entradas e saídas de dinheiro da conta do recluso no estabelecimento prisional, do jovem internado em centro educativo e de pessoa institucionalizada. Inicia com a emissão de documento de receita ou pedido de realização de despesa e termina com a emissão de uma guia de receita ou de uma ordem de pagamento. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.006_a81d906e52d1
-:nota_350.30.006_a81d906e52d1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.006_bc19ab0f23dc
+:nota_350.30.006_bc19ab0f23dc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Conta corrente do recluso no que diz respeito aos procedimentos relacionados com as remunerações de trabalho, as entregas de valores pelas visitas ou pelo correio, bem como os procedimentos relacionados com as aquisições de bens e produtos efetuados pelos reclusos na cantina do estabelecimento prisional ou outras aquisições por ele solicitadas".
 
-:c350.30.006 :temNotaAplicacao :nota_350.30.006_a81d906e52d1 .
+:c350.30.006 :temNotaAplicacao :nota_350.30.006_bc19ab0f23dc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.006_adfdd735b0fb
-:nota_350.30.006_adfdd735b0fb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.006_4cae1b2e1b0b
+:nota_350.30.006_4cae1b2e1b0b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pecúlio do jovem em centro educativo no que diz respeito aos procedimentos relacionados com o dinheiro de bolso, prémios, bolsas de formação, remunerações por trabalho, prestações sociais, donativos de famíliares ou de outras pessoas idóneas".
 
-:c350.30.006 :temNotaAplicacao :nota_350.30.006_adfdd735b0fb .
+:c350.30.006 :temNotaAplicacao :nota_350.30.006_4cae1b2e1b0b .
 
 :c350.30.006 :processoTipoVC :vc_processoTipo_pe .
 :c350.30.006 :processoTransversal "N" .
@@ -5663,6 +5669,8 @@
 :c350.30.006 :eCruzadoCom :c350.30.003 .
 :c350.30.006 :temRelProc :c350.30.005 .
 :c350.30.006 :eCruzadoCom :c350.30.005 .
+:c350.30.006 :temRelProc :c500.10.001 .
+:c350.30.006 :eSuplementoPara :c500.10.001 .
 :c350.30.006 :temRelProc :c600.40.002 .
 :c350.30.006 :eCruzadoCom :c600.40.002 .
 :c350.30.006 :temPCA :pca_c350.30.006.
@@ -5712,13 +5720,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.30 ;
 	:descricao 'Aplicação a montantes financeiros em excedente na tesouraria, a prazo, em fundos, aplicações bancárias ou outras. Inicia com a decisão de aplicação financeira e termina com o reembolso do valor da aplicação e respetivo rendimento. Inclui a análise das propostas de aplicação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.500_6295d9f8b361
-:nota_350.30.500_6295d9f8b361 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.30.500_bdb7992b9f77
+:nota_350.30.500_bdb7992b9f77 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A transferência dos valores deve ser considerada em 350.30.004 – Movimentação de contas bancárias".
 
-:c350.30.500 :temNotaExclusao :nota_350.30.500_6295d9f8b361 .
+:c350.30.500 :temNotaExclusao :nota_350.30.500_bdb7992b9f77 .
 
 :c350.30.500 :processoTipoVC :vc_processoTipo_pc .
 :c350.30.500 :processoTransversal "S" .
@@ -5812,77 +5820,77 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350 ;
 	:descricao 'Compreende a emissão de instrumentos de dívida para a obtenção de financiamento, bem como a amortização dessa dívida ou de outras operações, como a amortização antecipada, recompras, operações de reporte e operações com derivados financeiros. Compreende também o controlo e a recuperação de dívida ao Estado e a regularização de responsabilidades financeiras do Estado.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_d37b43dab6ff
-:nota_350.40_d37b43dab6ff rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_a44afc40176e
+:nota_350.40_a44afc40176e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pedidos de empréstimo de entidades públicas".
 
-:c350.40 :temNotaAplicacao :nota_350.40_d37b43dab6ff .
+:c350.40 :temNotaAplicacao :nota_350.40_a44afc40176e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_75cb71fc0847
-:nota_350.40_75cb71fc0847 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_c7dd9413c368
+:nota_350.40_c7dd9413c368 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de dívida".
 
-:c350.40 :temNotaAplicacao :nota_350.40_75cb71fc0847 .
+:c350.40 :temNotaAplicacao :nota_350.40_c7dd9413c368 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_2452d575d3c6
-:nota_350.40_2452d575d3c6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_f4e3cf34b9e1
+:nota_350.40_f4e3cf34b9e1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Determinação dos rendimentos dos títulos da dívida pública portuguesa (juros, prémios de amortização ou de reembolso e outras formas de remuneração)".
 
-:c350.40 :temNotaAplicacao :nota_350.40_2452d575d3c6 .
+:c350.40 :temNotaAplicacao :nota_350.40_f4e3cf34b9e1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_531494e2a7fc
-:nota_350.40_531494e2a7fc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_d642b2601d2e
+:nota_350.40_d642b2601d2e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Assunção de passivos e responsabilidades financeiras de organismos públicos e de empresas públicas e participadas".
 
-:c350.40 :temNotaAplicacao :nota_350.40_531494e2a7fc .
+:c350.40 :temNotaAplicacao :nota_350.40_d642b2601d2e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_61640ae968fa
-:nota_350.40_61640ae968fa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_98c1242161d7
+:nota_350.40_98c1242161d7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Assunção de passivos e ativos resultantes de processos de dissolução, liquidação e extinção de entidades".
 
-:c350.40 :temNotaAplicacao :nota_350.40_61640ae968fa .
+:c350.40 :temNotaAplicacao :nota_350.40_98c1242161d7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_177744eecfac
-:nota_350.40_177744eecfac rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_b9f9b3f3a2ca
+:nota_350.40_b9f9b3f3a2ca rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Gestão e recuperação de créditos do Tesouro".
 
-:c350.40 :temNotaAplicacao :nota_350.40_177744eecfac .
+:c350.40 :temNotaAplicacao :nota_350.40_b9f9b3f3a2ca .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_b1fb5a796866
-:nota_350.40_b1fb5a796866 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_593baef7154f
+:nota_350.40_593baef7154f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Recuperação da dívida ao Estado".
 
-:c350.40 :temNotaAplicacao :nota_350.40_b1fb5a796866 .
+:c350.40 :temNotaAplicacao :nota_350.40_593baef7154f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_8d61d5a2985b
-:nota_350.40_8d61d5a2985b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_e9a2ad2870f4
+:nota_350.40_e9a2ad2870f4 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os registos contabilísticos devem ser considerados em “Administração financeira/Execução orçamental” (350.10)".
 
-:c350.40 :temNotaExclusao :nota_350.40_8d61d5a2985b .
+:c350.40 :temNotaExclusao :nota_350.40_e9a2ad2870f4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_16125738d69e
-:nota_350.40_16125738d69e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40_e84c990ae084
+:nota_350.40_e84c990ae084 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os fluxos financeiros devem ser considerados em “Administração financeira/ Gestão da tesouraria” (350.30)".
 
-:c350.40 :temNotaExclusao :nota_350.40_16125738d69e .
+:c350.40 :temNotaExclusao :nota_350.40_e84c990ae084 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c350.40.001
@@ -5894,29 +5902,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.40 ;
 	:descricao 'Emissão e amortização de dívida pública com vista a assegurar as necessidades de financiamento da República, tendente ao equilíbrio das contas públicas. Inicia com a proposta dos objetivos estratégicos para a gestão da Dívida Pública e da Liquidez e as iniciativas conducentes e termina com a liquidação das operações de financiamento. Inclui os instrumentos de gestão da liquidez, da execução do Programa de Financiamento através da realização de leilões de colocação de Obrigações do Tesouro (OT) e Bilhetes do Tesouro (BT) e de operações de troca de dívida, aplicação dos excedentes de tesouraria, criação e gestão de instrumentos de Dívida Pública (excluindo Retalho), emissão de empréstimos sob a forma de colocação pública. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.001_80d82957b165
-:nota_350.40.001_80d82957b165 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.001_3bfe04d47a5f
+:nota_350.40.001_3bfe04d47a5f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de Obrigações do Tesouro".
 
-:c350.40.001 :temNotaAplicacao :nota_350.40.001_80d82957b165 .
+:c350.40.001 :temNotaAplicacao :nota_350.40.001_3bfe04d47a5f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.001_651f9fbe7540
-:nota_350.40.001_651f9fbe7540 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.001_a75032655078
+:nota_350.40.001_a75032655078 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de Bilhetes do Tesouro".
 
-:c350.40.001 :temNotaAplicacao :nota_350.40.001_651f9fbe7540 .
+:c350.40.001 :temNotaAplicacao :nota_350.40.001_a75032655078 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.001_e55326a42f6f
-:nota_350.40.001_e55326a42f6f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.001_857367426d3c
+:nota_350.40.001_857367426d3c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de Certificados Especiais de Dívida Pública".
 
-:c350.40.001 :temNotaAplicacao :nota_350.40.001_e55326a42f6f .
+:c350.40.001 :temNotaAplicacao :nota_350.40.001_857367426d3c .
 
 :c350.40.001 :processoTipoVC :vc_processoTipo_pe .
 :c350.40.001 :processoTransversal "N" .
@@ -5977,21 +5985,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.40 ;
 	:descricao 'Emissão e resgates de dívida pública de retalho. Inicia com a emissão de títulos de dívida de retalho e termina com a liquidação solicitada por um resgate. Inclui a gestão e controlo dos processamentos no Aforro, as informações e esclarecimentos solicitados por clientes, análise e instrução de processos de habilitação de herdeiros.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.002_2a2c68c0dcc4
-:nota_350.40.002_2a2c68c0dcc4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.002_499ca64cd3fb
+:nota_350.40.002_499ca64cd3fb rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de Certificados de Aforro".
 
-:c350.40.002 :temNotaAplicacao :nota_350.40.002_2a2c68c0dcc4 .
+:c350.40.002 :temNotaAplicacao :nota_350.40.002_499ca64cd3fb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.002_50b5e59d006c
-:nota_350.40.002_50b5e59d006c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.002_b4b7382e3dfd
+:nota_350.40.002_b4b7382e3dfd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de Certificados do Tesouro".
 
-:c350.40.002 :temNotaAplicacao :nota_350.40.002_50b5e59d006c .
+:c350.40.002 :temNotaAplicacao :nota_350.40.002_b4b7382e3dfd .
 
 :c350.40.002 :processoTipoVC :vc_processoTipo_pe .
 :c350.40.002 :processoTransversal "N" .
@@ -6065,13 +6073,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.40 ;
 	:descricao 'Estabilização de oferta e procura de títulos de dívida pública no mercado secundário, através do Fundo de Regularização da Dívida Pública (FRDP), resultante de alienação de partes sociais que o Estado detém em quaisquer sociedades anónimas resultantes da transformação de empresas públicas em sociedades anónimas de maioria ou exclusivamente de capitais públicos. Inicia com a aquisição de dívida e entrada de capitais oriundos das nacionalizações e termina com o abatimento da dívida. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.003_4ae21ef42cd1
-:nota_350.40.003_4ae21ef42cd1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.003_57d885145efa
+:nota_350.40.003_57d885145efa rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Regularização da procura e da oferta dos títulos da dívida pública no mercado secundário através do Fundo de Regularização da Dívida Pública (FRDP), bem como do Fundo da Renda Vitalícia".
 
-:c350.40.003 :temNotaAplicacao :nota_350.40.003_4ae21ef42cd1 .
+:c350.40.003 :temNotaAplicacao :nota_350.40.003_57d885145efa .
 
 :c350.40.003 :processoTipoVC :vc_processoTipo_pe .
 :c350.40.003 :processoTransversal "N" .
@@ -6135,13 +6143,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.40 ;
 	:descricao 'Recuperação de créditos que resultam de empréstimos diretos do Estado e outras operações ativas. Inicia com a comunicação do incumprimento contratual e termina com a regularização do crédito através do pagamento ou a confirmação da sua irrecuperabilidade. Inclui contratos de reescalonamento de dívidas, planos de amortização, juros de mora, entre outros. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.200_567f065454be
-:nota_350.40.200_567f065454be rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.200_4ce30c7f35d1
+:nota_350.40.200_4ce30c7f35d1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Empréstimos concedidos a empresas e a países terceiros".
 
-:c350.40.200 :temNotaAplicacao :nota_350.40.200_567f065454be .
+:c350.40.200 :temNotaAplicacao :nota_350.40.200_4ce30c7f35d1 .
 
 :c350.40.200 :processoTipoVC :vc_processoTipo_pe .
 :c350.40.200 :processoTransversal "S" .
@@ -6213,13 +6221,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.40 ;
 	:descricao 'Recuperação de créditos resultantes da execução de garantias prestadas pelo Estado, diretamente ou através de outras entidades de coordenação económica. Inicia com o pagamento pelo Estado em execução de aval ou fiança e termina com a regularização do crédito através do pagamento ou a confirmação da sua irrecuperabilidade. Inclui planos de pagamento, pedidos de alteração de planos de pagamentos, participações de incumprimento, verificação técnica dos motivos dos incumprimentos, estudo das possibilidades de regularização do crédito e de viabilidade das empresas devedoras, pedidos de execução das garantias prestadas pelo Estado, despachos de autorização de pagamento pelo Estado às entidades bancárias.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.201_6476a59f1078
-:nota_350.40.201_6476a59f1078 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.201_1f9ac6ec055b
+:nota_350.40.201_1f9ac6ec055b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Todos os casos resultantes de incumprimento de fianças ou aval do Estado".
 
-:c350.40.201 :temNotaAplicacao :nota_350.40.201_6476a59f1078 .
+:c350.40.201 :temNotaAplicacao :nota_350.40.201_1f9ac6ec055b .
 
 :c350.40.201 :processoTipoVC :vc_processoTipo_pe .
 :c350.40.201 :processoTransversal "S" .
@@ -6292,29 +6300,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.40 ;
 	:descricao 'Recuperação de créditos transferidos para a titularidade do Estado por aquisição ou dação em pagamento. Inicia com o contrato de aquisição/cessão de créditos e termina com a regularização do crédito através do pagamento ou a confirmação da sua irrecuperabilidade. Inclui contratos, relações das dívidas, pedidos de regularização da dívida, decisões proferidas sobre a regularização da dívida, planos prestacionais da dívida, expediente com os devedores, serviços de finanças, tribunais, Segurança Social, administradores de insolvência, assim como informações dos serviços relacionadas com os créditos adquiridos. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.202_730f3002cada
-:nota_350.40.202_730f3002cada rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.202_2923234c12ce
+:nota_350.40.202_2923234c12ce rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Créditos adquiridos à Segurança Social".
 
-:c350.40.202 :temNotaAplicacao :nota_350.40.202_730f3002cada .
+:c350.40.202 :temNotaAplicacao :nota_350.40.202_2923234c12ce .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.202_ddd76f7118ab
-:nota_350.40.202_ddd76f7118ab rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.202_ca2035702bc6
+:nota_350.40.202_ca2035702bc6 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acordo extrajudicial de regularização de dívidas à Segurança Social".
 
-:c350.40.202 :temNotaAplicacao :nota_350.40.202_ddd76f7118ab .
+:c350.40.202 :temNotaAplicacao :nota_350.40.202_ca2035702bc6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.202_71119a77502f
-:nota_350.40.202_71119a77502f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.202_eee98086abb0
+:nota_350.40.202_eee98086abb0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Constituição, redução, substituição e cancelamento/distrate de garantias".
 
-:c350.40.202 :temNotaAplicacao :nota_350.40.202_71119a77502f .
+:c350.40.202 :temNotaAplicacao :nota_350.40.202_eee98086abb0 .
 
 :c350.40.202 :processoTipoVC :vc_processoTipo_pe .
 :c350.40.202 :processoTransversal "S" .
@@ -6384,37 +6392,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.40 ;
 	:descricao 'Regularização voluntária de créditos relativos a apoios financeiros recebidos ao abrigo da execução de programas de incentivo, já considerados incobráveis. Inicia com a proposta para recuperação do crédito e termina com a regularização do crédito através do pagamento ou a confirmação da sua irrecuperabilidade pela via voluntária. Inclui instrução do processo para decisão de recuperação de crédito com apresentação do comprovativo da dívida, decisão para recuperação, articulação com o devedor para definição do plano de pagamento de reposição voluntária e eventual reestruturação de plano de reembolso, controlo do pagamento. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.203_d0720dce0b4b
-:nota_350.40.203_d0720dce0b4b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.203_2b637d816bca
+:nota_350.40.203_2b637d816bca rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Restituição de apoios financeiros concedidos no âmbito do emprego e da formação, por incumprimento das entidades beneficiárias".
 
-:c350.40.203 :temNotaAplicacao :nota_350.40.203_d0720dce0b4b .
+:c350.40.203 :temNotaAplicacao :nota_350.40.203_2b637d816bca .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.203_1455ca5ae1dd
-:nota_350.40.203_1455ca5ae1dd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.203_7973773b27a2
+:nota_350.40.203_7973773b27a2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Restituição de apoios financeiros concedidos a empresas beneficiárias do Programa SIII".
 
-:c350.40.203 :temNotaAplicacao :nota_350.40.203_1455ca5ae1dd .
+:c350.40.203 :temNotaAplicacao :nota_350.40.203_7973773b27a2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.203_a0658b00cfa3
-:nota_350.40.203_a0658b00cfa3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.203_463aaec6d289
+:nota_350.40.203_463aaec6d289 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.40.203 :temNotaExclusao :nota_350.40.203_a0658b00cfa3 .
+:c350.40.203 :temNotaExclusao :nota_350.40.203_463aaec6d289 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.203_3fbfafcadb54
-:nota_350.40.203_3fbfafcadb54 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.203_22611fb9ab2e
+:nota_350.40.203_22611fb9ab2e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A recuperação coerciva de créditos deve ser considerada em 600 – Administração da Justiça".
 
-:c350.40.203 :temNotaExclusao :nota_350.40.203_3fbfafcadb54 .
+:c350.40.203 :temNotaExclusao :nota_350.40.203_22611fb9ab2e .
 
 :c350.40.203 :processoTipoVC :vc_processoTipo_pe .
 :c350.40.203 :processoTransversal "S" .
@@ -6477,37 +6485,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.40 ;
 	:descricao 'Regularização voluntária de créditos transmitidos de organismos extintos. Inicia com a proposta para recuperação do crédito e termina com a regularização do crédito através do pagamento ou a confirmação da sua irrecuperabilidade pela via voluntária. Inclui instrução do processo para decisão de recuperação de crédito, com análise do auto de entrega referente ao organismo extinto e dos comprovativos de dívida, constituição de hipotecas, decisão para recuperação, articulação com os devedores e outras entidades envolvidas, controlo do pagamento. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.204_9cd614f54bf6
-:nota_350.40.204_9cd614f54bf6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.204_1de1e014818b
+:nota_350.40.204_1de1e014818b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Recuperação de créditos transferidos para o IEFP, I.P. por extinção dos Centros de Gestão Participada".
 
-:c350.40.204 :temNotaAplicacao :nota_350.40.204_9cd614f54bf6 .
+:c350.40.204 :temNotaAplicacao :nota_350.40.204_1de1e014818b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.204_e9a1639ea6d4
-:nota_350.40.204_e9a1639ea6d4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.204_44dc614559e6
+:nota_350.40.204_44dc614559e6 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processos transmitidos do FFH, IPE, CIFRE, EPAC, Programa do Crédito Agrícola de Emergência (CAE), entre outros".
 
-:c350.40.204 :temNotaAplicacao :nota_350.40.204_e9a1639ea6d4 .
+:c350.40.204 :temNotaAplicacao :nota_350.40.204_44dc614559e6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.204_15cfb2d3c607
-:nota_350.40.204_15cfb2d3c607 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.204_cc40ec868c94
+:nota_350.40.204_cc40ec868c94 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.40.204 :temNotaExclusao :nota_350.40.204_15cfb2d3c607 .
+:c350.40.204 :temNotaExclusao :nota_350.40.204_cc40ec868c94 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.204_274c364947cb
-:nota_350.40.204_274c364947cb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.204_33364a8ce235
+:nota_350.40.204_33364a8ce235 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A recuperação coerciva de créditos deve ser considerada em 600 – Administração da Justiça".
 
-:c350.40.204 :temNotaExclusao :nota_350.40.204_274c364947cb .
+:c350.40.204 :temNotaExclusao :nota_350.40.204_33364a8ce235 .
 
 :c350.40.204 :processoTipoVC :vc_processoTipo_pe .
 :c350.40.204 :processoTransversal "S" .
@@ -6640,21 +6648,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.40 ;
 	:descricao 'Empréstimo de montantes financeiros quer entre a administração e um banco, quer entre administrações, quer ainda entre o Estado e empresas ou particulares. Inicia com a autorização de contração de empréstimo e termina com o pagamento do empréstimo. Inclui a solicitação de propostas e seleção.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.401_1db4d9432b6b
-:nota_350.40.401_1db4d9432b6b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.401_3b5fe3c2d59b
+:nota_350.40.401_3b5fe3c2d59b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A arrecadação do valor do empréstimo, a transferência de verbas, bem como o pagamento para amortização parcial ou total do seu valor, devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.40.401 :temNotaExclusao :nota_350.40.401_1db4d9432b6b .
+:c350.40.401 :temNotaExclusao :nota_350.40.401_3b5fe3c2d59b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.401_cdfa777654db
-:nota_350.40.401_cdfa777654db rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.401_2c854fa9dd4f
+:nota_350.40.401_2c854fa9dd4f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A verificação do contrato pelo Tribunal de Contas deve ser considerada em 500.10.002 – Fiscalização prévia do Tribunal de Contas".
 
-:c350.40.401 :temNotaExclusao :nota_350.40.401_cdfa777654db .
+:c350.40.401 :temNotaExclusao :nota_350.40.401_2c854fa9dd4f .
 
 :c350.40.401 :processoTipoVC :vc_processoTipo_pe .
 :c350.40.401 :processoTransversal "S" .
@@ -6720,13 +6728,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.40 ;
 	:descricao 'Assunção de responsabilidades pelo Estado para com organismos públicos e empresas públicas e participadas. Inicia com o diploma que determina a assunção de responsabilidades pelo Estado e termina com o pagamento a entidade terceira. Inclui a situação financeira das entidades objeto da regularização de passivos e propostas dos serviços propondo a regularização de dívidas. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.600_a804f76db873
-:nota_350.40.600_a804f76db873 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.600_6e26c9ed26b4
+:nota_350.40.600_6e26c9ed26b4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processos de saneamento económico-financeiro de sociedades anónimas de capitais públicos, de empresas em liquidação".
 
-:c350.40.600 :temNotaAplicacao :nota_350.40.600_a804f76db873 .
+:c350.40.600 :temNotaAplicacao :nota_350.40.600_6e26c9ed26b4 .
 
 :c350.40.600 :processoTipoVC :vc_processoTipo_pe .
 :c350.40.600 :processoTransversal "S" .
@@ -6796,13 +6804,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.40 ;
 	:descricao 'Distribuição de remunerações provenientes das participações acionistas detidas diretamente pelo Estado. Inicia com o apuramento de montantes e termina com a aprovação dos montantes a distribuir. Inclui recolha de estimativas para efeitos da preparação do Orçamento do Estado, posterior elaboração de informação de análise do Relatório e Contas das EP e das SA das participações diretas, para efeito da apresentação de projeto de despacho relativo aos montantes de dividendos a distribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.601_4b85bfdec2c3
-:nota_350.40.601_4b85bfdec2c3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.601_611c0abeafa5
+:nota_350.40.601_611c0abeafa5 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A arrecadação das receitas proveniente de dividendos ou de remuneração do capital estatutário deve ser considerada em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.40.601 :temNotaExclusao :nota_350.40.601_4b85bfdec2c3 .
+:c350.40.601 :temNotaExclusao :nota_350.40.601_611c0abeafa5 .
 
 :c350.40.601 :processoTipoVC :vc_processoTipo_pe .
 :c350.40.601 :processoTransversal "S" .
@@ -6864,53 +6872,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.40 ;
 	:descricao 'Cálculo dos ativos e passivos na sequência da dissolução ou extinção de uma sociedade comercial ou de entidade sem fins lucrativos, e repartição de lucros e prejuízos pelos seus sócios ou acionistas. Inicia com o requerimento dos interessados ou no âmbito de outro procedimento administrativo e termina com o registo do encerramento da liquidação. Inclui indicação dos liquidatários, informação sobre o pagamento das dívidas da sociedade, informação sobre a partilha do ativo após pagamento aos credores, comunicação do facto às entidades competentes.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.602_0ceb83276845
-:nota_350.40.602_0ceb83276845 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.602_6e849fdf0ad8
+:nota_350.40.602_6e849fdf0ad8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação de associações".
 
-:c350.40.602 :temNotaAplicacao :nota_350.40.602_0ceb83276845 .
+:c350.40.602 :temNotaAplicacao :nota_350.40.602_6e849fdf0ad8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.602_9c75a24e7a3e
-:nota_350.40.602_9c75a24e7a3e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.602_914d63ec1024
+:nota_350.40.602_914d63ec1024 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação de fundações".
 
-:c350.40.602 :temNotaAplicacao :nota_350.40.602_9c75a24e7a3e .
+:c350.40.602 :temNotaAplicacao :nota_350.40.602_914d63ec1024 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.602_46ac2ee194cc
-:nota_350.40.602_46ac2ee194cc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.602_a721a8b969aa
+:nota_350.40.602_a721a8b969aa rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação de outras entidades sem fins lucrativos".
 
-:c350.40.602 :temNotaAplicacao :nota_350.40.602_46ac2ee194cc .
+:c350.40.602 :temNotaAplicacao :nota_350.40.602_a721a8b969aa .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.602_2aa13afccd9c
-:nota_350.40.602_2aa13afccd9c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.602_add3db481632
+:nota_350.40.602_add3db481632 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação de sociedades comerciais, na sequência da sua extinção".
 
-:c350.40.602 :temNotaAplicacao :nota_350.40.602_2aa13afccd9c .
+:c350.40.602 :temNotaAplicacao :nota_350.40.602_add3db481632 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.602_670d3c9e890c
-:nota_350.40.602_670d3c9e890c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.602_464f036fce42
+:nota_350.40.602_464f036fce42 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento de dívidas deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c350.40.602 :temNotaExclusao :nota_350.40.602_670d3c9e890c .
+:c350.40.602 :temNotaExclusao :nota_350.40.602_464f036fce42 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.602_5068b31c669c
-:nota_350.40.602_5068b31c669c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.602_d9732d1ee68f
+:nota_350.40.602_d9732d1ee68f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O acompanhamento, no âmbito da função acionista do Estado e do exercício da tutela financeira, de liquidação de sociedades e outras entidades públicas deve ser considerado em 150.20.401 – Acompanhamento de liquidação de entidades".
 
-:c350.40.602 :temNotaExclusao :nota_350.40.602_5068b31c669c .
+:c350.40.602 :temNotaExclusao :nota_350.40.602_d9732d1ee68f .
 
 :c350.40.602 :processoTipoVC :vc_processoTipo_pe .
 :c350.40.602 :processoTransversal "S" .
@@ -6982,13 +6990,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.40 ;
 	:descricao 'Regularização de situações do passivo do Estado, tal como o pagamento à Segurança Social de encargos com os pensionistas e reformados das ex-províncias ultramarinas, previstas em norma específica na Lei Orçamental ou em diploma especial, bem como de outras responsabilidades que lhe foram legalmente transmitidas. Inicia com a assunção de responsabilidades e termina com a regularização da responsabilidade do Estado. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.603_409b6d533443
-:nota_350.40.603_409b6d533443 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.40.603_24ab4ae084d2
+:nota_350.40.603_24ab4ae084d2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pgamentos em execução de garantia do Estado concedida no âmbito do código das expropriações".
 
-:c350.40.603 :temNotaAplicacao :nota_350.40.603_409b6d533443 .
+:c350.40.603 :temNotaAplicacao :nota_350.40.603_24ab4ae084d2 .
 
 :c350.40.603 :processoTipoVC :vc_processoTipo_pe .
 :c350.40.603 :processoTransversal "S" .
@@ -7060,45 +7068,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350 ;
 	:descricao 'Compreende a atividade de gestão de patrimónios autónomos com horizonte de investimento de médio e longo prazo, bem como a administração de regimes complementares de segurança social.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50_851013960e2f
-:nota_350.50_851013960e2f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50_71b47e88c76f
+:nota_350.50_71b47e88c76f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Estabilização Financeira da Segurança Social (FEFSS), gestão de ativos financeiros".
 
-:c350.50 :temNotaAplicacao :nota_350.50_851013960e2f .
+:c350.50 :temNotaAplicacao :nota_350.50_71b47e88c76f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50_132d127de987
-:nota_350.50_132d127de987 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50_aca459dbf6c7
+:nota_350.50_aca459dbf6c7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo dos Certificados de Reforma (FCR), gestão de ativos financeiros".
 
-:c350.50 :temNotaAplicacao :nota_350.50_132d127de987 .
+:c350.50 :temNotaAplicacao :nota_350.50_aca459dbf6c7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50_7c3c0e55b355
-:nota_350.50_7c3c0e55b355 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50_dac9ba6b28b5
+:nota_350.50_dac9ba6b28b5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Compensação de Trabalho (FCT), gestão de ativos financeiros".
 
-:c350.50 :temNotaAplicacao :nota_350.50_7c3c0e55b355 .
+:c350.50 :temNotaAplicacao :nota_350.50_dac9ba6b28b5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50_984507209611
-:nota_350.50_984507209611 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50_de2720c644c7
+:nota_350.50_de2720c644c7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Regime Público de Capitalização (RPC), gestão das unidades de participação".
 
-:c350.50 :temNotaAplicacao :nota_350.50_984507209611 .
+:c350.50 :temNotaAplicacao :nota_350.50_de2720c644c7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50_623a21e4d335
-:nota_350.50_623a21e4d335 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50_f373ba1b0d3e
+:nota_350.50_f373ba1b0d3e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Compensação de Trabalho (FCT), gestão das unidades de participação".
 
-:c350.50 :temNotaAplicacao :nota_350.50_623a21e4d335 .
+:c350.50 :temNotaAplicacao :nota_350.50_f373ba1b0d3e .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c350.50.001
@@ -7110,77 +7118,77 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.50 ;
 	:descricao 'Estabelecimento de orientações de longo prazo sobre a aplicação de investimentos. Inicia com a preparação dos elementos de suporte à definição das orientações e termina com a revisão das mesmas. Inclui definição de benchmarks e dos seus parâmetros, bem como de modelos de valorização de ativos financeiros e dos respetivos critérios de valorimetria, elaboração de mapas mensais de acompanhamento, decisões de ajustamento à política de gestão estratégica.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_32fbccc98562
-:nota_350.50.001_32fbccc98562 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_3fc663760843
+:nota_350.50.001_3fc663760843 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Estabilização Financeira da Segurança Social (FEFSS), estratégias de investimento".
 
-:c350.50.001 :temNotaAplicacao :nota_350.50.001_32fbccc98562 .
+:c350.50.001 :temNotaAplicacao :nota_350.50.001_3fc663760843 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_600af3068fdc
-:nota_350.50.001_600af3068fdc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_9bc80af84253
+:nota_350.50.001_9bc80af84253 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo dos Certificados de Reforma (FCR), estratégias de investimento".
 
-:c350.50.001 :temNotaAplicacao :nota_350.50.001_600af3068fdc .
+:c350.50.001 :temNotaAplicacao :nota_350.50.001_9bc80af84253 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_2fa8ad7861e7
-:nota_350.50.001_2fa8ad7861e7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_9e23a642d2e2
+:nota_350.50.001_9e23a642d2e2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Compensação de Trabalho (FCT), estratégias de investimento".
 
-:c350.50.001 :temNotaAplicacao :nota_350.50.001_2fa8ad7861e7 .
+:c350.50.001 :temNotaAplicacao :nota_350.50.001_9e23a642d2e2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_0a4aa09f8aed
-:nota_350.50.001_0a4aa09f8aed rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_fab99f7e356c
+:nota_350.50.001_fab99f7e356c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Estabilização Financeira da Segurança Social (FEFSS), definição de benchmarks".
 
-:c350.50.001 :temNotaAplicacao :nota_350.50.001_0a4aa09f8aed .
+:c350.50.001 :temNotaAplicacao :nota_350.50.001_fab99f7e356c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_4e3e533fa94b
-:nota_350.50.001_4e3e533fa94b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_61d46dc04c8a
+:nota_350.50.001_61d46dc04c8a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo dos Certificados de Reforma (FCR), definição de benchmarks".
 
-:c350.50.001 :temNotaAplicacao :nota_350.50.001_4e3e533fa94b .
+:c350.50.001 :temNotaAplicacao :nota_350.50.001_61d46dc04c8a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_8e225ba03f8a
-:nota_350.50.001_8e225ba03f8a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_e3d1df85e4bd
+:nota_350.50.001_e3d1df85e4bd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Compensação de Trabalho (FCT), definição de benchmarks".
 
-:c350.50.001 :temNotaAplicacao :nota_350.50.001_8e225ba03f8a .
+:c350.50.001 :temNotaAplicacao :nota_350.50.001_e3d1df85e4bd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_6b5b95c3fb42
-:nota_350.50.001_6b5b95c3fb42 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_3e16d93ecc62
+:nota_350.50.001_3e16d93ecc62 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Estabilização Financeira da Segurança Social (FEFSS), modelos de valorização".
 
-:c350.50.001 :temNotaAplicacao :nota_350.50.001_6b5b95c3fb42 .
+:c350.50.001 :temNotaAplicacao :nota_350.50.001_3e16d93ecc62 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_6d32d84bacdb
-:nota_350.50.001_6d32d84bacdb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_b29a7d13e9d1
+:nota_350.50.001_b29a7d13e9d1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo dos Certificados de Reforma (FCR), modelos de valorização".
 
-:c350.50.001 :temNotaAplicacao :nota_350.50.001_6d32d84bacdb .
+:c350.50.001 :temNotaAplicacao :nota_350.50.001_b29a7d13e9d1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_b53cbc11361a
-:nota_350.50.001_b53cbc11361a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.001_6dbf18276870
+:nota_350.50.001_6dbf18276870 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Compensação de Trabalho (FCT), modelos de valorização".
 
-:c350.50.001 :temNotaAplicacao :nota_350.50.001_b53cbc11361a .
+:c350.50.001 :temNotaAplicacao :nota_350.50.001_6dbf18276870 .
 
 :c350.50.001 :processoTipoVC :vc_processoTipo_pe .
 :c350.50.001 :processoTransversal "N" .
@@ -7191,6 +7199,8 @@
 :c350.50.001 :temLegislacao :leg_Lei_98_97 .
 :c350.50.001 :temRelProc :c350.50.002 .
 :c350.50.001 :eAntecessorDe :c350.50.002 .
+:c350.50.001 :temRelProc :c500.10.001 .
+:c350.50.001 :eSuplementoPara :c500.10.001 .
 :c350.50.001 :temPCA :pca_c350.50.001.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c350.50.001
 :pca_c350.50.001 rdf:type owl:NamedIndividual ,
@@ -7234,29 +7244,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.50 ;
 	:descricao 'Decisão de investimento nos mercados financeiros de ativos das carteiras de fundos. Inicia com a análise dos mercados financeiros internacionais e termina com a deliberação sobre as decisões de investimento. Inclui a elaboração do relatório mensal da evolução dos mercados, para formação de opinião interna, apresentação de visão estratégica e formulação de propostas de alocação das carteiras dos fundos e o mapa semanal de acompanhamento dessas propostas.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.002_773cea6b8ba6
-:nota_350.50.002_773cea6b8ba6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.002_d5d2719d5196
+:nota_350.50.002_d5d2719d5196 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Estabilização Financeira da Segurança Social (FEFSS), alocação das carteiras dos fundos".
 
-:c350.50.002 :temNotaAplicacao :nota_350.50.002_773cea6b8ba6 .
+:c350.50.002 :temNotaAplicacao :nota_350.50.002_d5d2719d5196 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.002_4204df08d914
-:nota_350.50.002_4204df08d914 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.002_ccb972be81b8
+:nota_350.50.002_ccb972be81b8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo dos Certificados de Reforma (FCR, alocação das carteiras dos fundos)".
 
-:c350.50.002 :temNotaAplicacao :nota_350.50.002_4204df08d914 .
+:c350.50.002 :temNotaAplicacao :nota_350.50.002_ccb972be81b8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.002_adb2886ef4be
-:nota_350.50.002_adb2886ef4be rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.002_21d0b72085ba
+:nota_350.50.002_21d0b72085ba rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Compensação de Trabalho (FCT), alocação das carteiras dos fundos".
 
-:c350.50.002 :temNotaAplicacao :nota_350.50.002_adb2886ef4be .
+:c350.50.002 :temNotaAplicacao :nota_350.50.002_21d0b72085ba .
 
 :c350.50.002 :processoTipoVC :vc_processoTipo_pe .
 :c350.50.002 :processoTransversal "N" .
@@ -7271,6 +7281,8 @@
 :c350.50.002 :eSinteseDe :c350.50.003 .
 :c350.50.002 :temRelProc :c350.50.004 .
 :c350.50.002 :eSinteseDe :c350.50.004 .
+:c350.50.002 :temRelProc :c500.10.001 .
+:c350.50.002 :eSuplementoPara :c500.10.001 .
 :c350.50.002 :temPCA :pca_c350.50.002.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c350.50.002
 :pca_c350.50.002 rdf:type owl:NamedIndividual ,
@@ -7314,29 +7326,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.50 ;
 	:descricao 'Ação de investimento de ativos das carteiras de fundos. Inicia com a interação com intermediários financeiros e plataformas de negociação para seleção dos destinos de investimento e termina com a liquidação da operação. Inclui a contratação e validação das operações, com a comunicação de ordens aos intermediários financeiros e o reporte de custodiantes.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.003_3d01d665a5fe
-:nota_350.50.003_3d01d665a5fe rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.003_12743210965a
+:nota_350.50.003_12743210965a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Estabilização Financeira da Segurança Social (FEFSS), execução das operações de investimento".
 
-:c350.50.003 :temNotaAplicacao :nota_350.50.003_3d01d665a5fe .
+:c350.50.003 :temNotaAplicacao :nota_350.50.003_12743210965a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.003_d867109eb4b7
-:nota_350.50.003_d867109eb4b7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.003_931113d82d71
+:nota_350.50.003_931113d82d71 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo dos Certificados de Reforma (FCR), execução das operações de investimento".
 
-:c350.50.003 :temNotaAplicacao :nota_350.50.003_d867109eb4b7 .
+:c350.50.003 :temNotaAplicacao :nota_350.50.003_931113d82d71 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.003_424ce3df7709
-:nota_350.50.003_424ce3df7709 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.003_7c6cd1d4ae15
+:nota_350.50.003_7c6cd1d4ae15 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Compensação de Trabalho (FCT), execução das operações de investimento".
 
-:c350.50.003 :temNotaAplicacao :nota_350.50.003_424ce3df7709 .
+:c350.50.003 :temNotaAplicacao :nota_350.50.003_7c6cd1d4ae15 .
 
 :c350.50.003 :processoTipoVC :vc_processoTipo_pe .
 :c350.50.003 :processoTransversal "N" .
@@ -7410,29 +7422,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.50 ;
 	:descricao 'Produção de informação relativa à evolução da carteira de fundos, nomeadamente a sua valorização, rentabilidade e conformidade. Inicia com a recolha de elementos junto do sistema de gestão de ativos e termina com a elaboração de mapa periódico de análise da carteira. Inclui o apuramento do valor das unidades de participação do fundo, quando aplicável.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.004_f629c35290fb
-:nota_350.50.004_f629c35290fb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.004_07c0f546f28c
+:nota_350.50.004_07c0f546f28c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Estabilização Financeira da Segurança Social (FEFSS), medição do desempenho".
 
-:c350.50.004 :temNotaAplicacao :nota_350.50.004_f629c35290fb .
+:c350.50.004 :temNotaAplicacao :nota_350.50.004_07c0f546f28c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.004_8968de0be7bf
-:nota_350.50.004_8968de0be7bf rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.004_951c2713a805
+:nota_350.50.004_951c2713a805 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo dos Certificados de Reforma (FCR), medição do desempenho".
 
-:c350.50.004 :temNotaAplicacao :nota_350.50.004_8968de0be7bf .
+:c350.50.004 :temNotaAplicacao :nota_350.50.004_951c2713a805 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.004_c22eadaa4f99
-:nota_350.50.004_c22eadaa4f99 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.004_b12475241f6d
+:nota_350.50.004_b12475241f6d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Compensação de Trabalho (FCT), medição do desempenho".
 
-:c350.50.004 :temNotaAplicacao :nota_350.50.004_c22eadaa4f99 .
+:c350.50.004 :temNotaAplicacao :nota_350.50.004_b12475241f6d .
 
 :c350.50.004 :processoTipoVC :vc_processoTipo_pe .
 :c350.50.004 :processoTransversal "N" .
@@ -7441,10 +7453,14 @@
 :c350.50.004 :temLegislacao :leg_Portaria_1273_2004 .
 :c350.50.004 :temLegislacao :leg_Lei_70_2013 .
 :c350.50.004 :temLegislacao :leg_Lei_98_97 .
+:c350.50.004 :temRelProc :c150.20.404 .
+:c350.50.004 :eSintetizadoPor :c150.20.404 .
 :c350.50.004 :temRelProc :c350.50.003 .
 :c350.50.004 :eSucessorDe :c350.50.003 .
 :c350.50.004 :temRelProc :c350.50.002 .
 :c350.50.004 :eSintetizadoPor :c350.50.002 .
+:c350.50.004 :temRelProc :c500.10.001 .
+:c350.50.004 :eSuplementoPara :c500.10.001 .
 :c350.50.004 :temPCA :pca_c350.50.004.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c350.50.004
 :pca_c350.50.004 rdf:type owl:NamedIndividual ,
@@ -7490,53 +7506,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c350.50 ;
 	:descricao 'Ação de subscrição de contribuição ou entrega capitalizável em conta individual, nominativa, convertida em unidades de participação, sob a forma de certificado de reforma ou de poupança específica para o pagamento das compensações. Inicia com a adesão ao regime público de capitalização ou ao fundo de compensação do trabalho e termina com a cessação da adesão ou do pagamento da compensação. Inclui o controlo dos pagamentos relativos às subscrições e dos reembolsos relativos ao resgate das unidades de participação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.100_c0a66b440804
-:nota_350.50.100_c0a66b440804 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.100_f5aa7bd1a462
+:nota_350.50.100_f5aa7bd1a462 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Regime Público de Capitalização (RPC), subscrição de unidades de participação".
 
-:c350.50.100 :temNotaAplicacao :nota_350.50.100_c0a66b440804 .
+:c350.50.100 :temNotaAplicacao :nota_350.50.100_f5aa7bd1a462 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.100_e99e38f6a729
-:nota_350.50.100_e99e38f6a729 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.100_d29b53edd34f
+:nota_350.50.100_d29b53edd34f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Compensação de Trabalho (FCT), subscrição de unidades de participação".
 
-:c350.50.100 :temNotaAplicacao :nota_350.50.100_e99e38f6a729 .
+:c350.50.100 :temNotaAplicacao :nota_350.50.100_d29b53edd34f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.100_4139bb2764fe
-:nota_350.50.100_4139bb2764fe rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.100_7c366586a855
+:nota_350.50.100_7c366586a855 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo dos Certificados de Reforma (FCR), subscrição de unidades de participação".
 
-:c350.50.100 :temNotaAplicacao :nota_350.50.100_4139bb2764fe .
+:c350.50.100 :temNotaAplicacao :nota_350.50.100_7c366586a855 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.100_cd1f19d385ff
-:nota_350.50.100_cd1f19d385ff rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.100_00447798a223
+:nota_350.50.100_00447798a223 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Regime Público de Capitalização (RPC), resgate de unidades de participação".
 
-:c350.50.100 :temNotaAplicacao :nota_350.50.100_cd1f19d385ff .
+:c350.50.100 :temNotaAplicacao :nota_350.50.100_00447798a223 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.100_27fed351e3df
-:nota_350.50.100_27fed351e3df rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.100_2df32f4bb8ea
+:nota_350.50.100_2df32f4bb8ea rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Compensação de Trabalho (FCT), resgate de unidades de participação".
 
-:c350.50.100 :temNotaAplicacao :nota_350.50.100_27fed351e3df .
+:c350.50.100 :temNotaAplicacao :nota_350.50.100_2df32f4bb8ea .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.100_9e06542de28f
-:nota_350.50.100_9e06542de28f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_350.50.100_3a5a827c1d73
+:nota_350.50.100_3a5a827c1d73 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo dos Certificados de Reforma (FCR), resgate de unidades de participação".
 
-:c350.50.100 :temNotaAplicacao :nota_350.50.100_9e06542de28f .
+:c350.50.100 :temNotaAplicacao :nota_350.50.100_3a5a827c1d73 .
 
 :c350.50.100 :processoTipoVC :vc_processoTipo_pe .
 :c350.50.100 :processoTransversal "S" .
@@ -7550,8 +7566,16 @@
 :c350.50.100 :temLegislacao :leg_Lei_98_97 .
 :c350.50.100 :temRelProc :c150.20.404 .
 :c350.50.100 :eSintetizadoPor :c150.20.404 .
+:c350.50.100 :temRelProc :c150.40.001 .
+:c350.50.100 :eSintetizadoPor :c150.40.001 .
+:c350.50.100 :temRelProc :c150.40.500 .
+:c350.50.100 :eSintetizadoPor :c150.40.500 .
+:c350.50.100 :temRelProc :c300.30.008 .
+:c350.50.100 :eSintetizadoPor :c300.30.008 .
 :c350.50.100 :temRelProc :c350.30.001 .
 :c350.50.100 :eCruzadoCom :c350.30.001 .
+:c350.50.100 :temRelProc :c500.10.001 .
+:c350.50.100 :eSuplementoPara :c500.10.001 .
 :c350.50.100 :temRelProc :c650.10.017 .
 :c350.50.100 :eCruzadoCom :c650.10.017 .
 :c350.50.100 :temPCA :pca_c350.50.100.

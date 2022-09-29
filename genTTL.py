@@ -16,18 +16,19 @@ def tiGenTTL():
     termos = json.load(fin)
 
     ttl = ""
+    ttl += "\n# -------------- Data de atualização da ontologia ----------\n"
+    ttl += "<http://jcr.di.uminho.pt/m51-clav> dc:date \"" + dataAtualizacao + "\" .\n"
+    ttl += "\n# -------------- TERMOS DE ÍNDICE --------------------------\n"
+
     for ti in termos:
         ticod = "ti_" + ti['codigo'] + '_' + generate('abcdef', 6)
         ttl += "###  http://jcr.di.uminho.pt/m51-clav#" + ticod + '\n'
         ttl += ":" + ticod + " rdf:type owl:NamedIndividual ,\n"
         ttl += "\t:TermoIndice ;\n"
         ttl += "\trdfs:label \"TI: " + ti['termo'] + "\";\n"
-        ttl += "\t:estaAssocClasse :" + ti['codigo'] + ";\n"
+        ttl += "\t:estaAssocClasse :c" + ti['codigo'] + ";\n"
         ttl += "\t:estado \"Ativo\";\n"
         ttl += "\t:termo " + "\"" + ti['termo'] + "\"" + ".\n"
-
-        ttl += "\n# -------------- Data de atualização da ontologia ----------\n"
-        ttl += "<http://jcr.di.uminho.pt/m51-clav> dc:date \"" + dataAtualizacao + "\" .\n"
 
     fout.write(ttl)
     fin.close()
@@ -45,6 +46,7 @@ def legGenTTL():
         ttl += "###  http://jcr.di.uminho.pt/m51-clav#" + l['codigo'] + '\n'
         ttl += ":leg_" + l['codigo'] + " rdf:type owl:NamedIndividual ,\n"
         ttl += "\t:Legislacao ;\n"
+        ttl += "\t:codigo \"" + l['codigo'] + "\";\n"
         ttl += "\t:rdfs:label \"Leg.: " + l['codigo'] + "\";\n"
         ttl += "\t:diplomaTipo " + "\"" + l['tipo'] + "\";\n"
         ttl += "\t:diplomaNumero " + "\"" + l['numero'] + "\";\n"

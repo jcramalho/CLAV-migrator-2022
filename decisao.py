@@ -35,7 +35,7 @@ def procDecisoes(classe, myReg, ListaErros, entCatalog, tipCatalog, legCatalog):
         if classe["Prazo de conservação administrativa"] and (myReg['pca']['valores'] == "NE") and 'notas' not in myReg['pca'].keys():
             ListaErros.append('Erro::' + myReg['codigo'] + '::PCA e Nota ao PCA não podem ser simultaneamente inválidos')
     # Forma de Contagem do PCA -----
-    if 'pca' in myReg.keys():
+    if 'pca' in myReg.keys() and myReg['pca']['valores'] != "NE":
         formaContagem = brancos.sub('', str(classe["Forma de contagem do PCA"]))
         if re.search(r'conclusão.*procedimento', formaContagem, re.I):
             myReg['pca']['formaContagem'] = 'conclusaoProcedimento'

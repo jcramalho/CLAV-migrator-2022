@@ -7,13 +7,13 @@
         "descricao": "Relativo à execução orçamental (no que se incluem os processamentos de despesas e de arrecadação de receitas), à gestão do Tesouro, da dívida e das aplicações financeiras.",
         "notasAp": [
             {
-                "idNota": "nota_350_4c2a86aea28a",
+                "idNota": "nota_350_2bd7d5da6fe5",
                 "nota": "Abrange a execução do conjunto dos orçamentos de receita e de despesa (correntes e de capital) dos serviços públicos e fundos autónomos"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350_8036b3bd7cfa",
+                "idNota": "nota_350_e871b1db08d2",
                 "nota": "Os procedimentos de preparação do orçamento e das alterações orçamentais, cativação/descativação de verbas, e a prestação de contas, devem ser considerados em \\\"Planeamento e gestão estratégica/Planeamento, avaliação e melhoria dos serviços\\\" (150.20);O exercício de direitos de acionista deve ser considerado na área a que diz respeito o exercício de cada processo em concreto – \\\"Planeamento e gestão estratégia\\\" (150), \\\"Ordenamento jurídico e normativo\\\" (100), entre outras;O controlo da emissão e circulação de moeda deve ser considerado no âmbito da \\\"Supervisão, controlo e responsabilização\\\" (500) ou do \\\"Ordenamento jurídico e normativo\\\" (100), de acordo com o processo em causa"
             }
         ]
@@ -26,53 +26,53 @@
         "descricao": "Compreende a contabilização da despesa e a liquidação de receita, no que se inclui a gestão dos impostos e das contribuições. Considerar aqui a operação orçamental de reconhecimento dos direitos dos credores e das obrigações assumidas, nomeadamente nas fases de registo contabilístico de cabimento, compromisso e liquidação. Inclui a certificação de despesas, tendo por base os títulos e documentos do respetivo crédito ou habilitação ao benefício e a informação para entrega de recursos equivalentes à dívida liquidada ao credor. Considerar igualmente aqui no âmbito da gestão de imposto, as atividades relacionadas com o ato declarativo, o controlo de faltosos, o controlo de divergências e a liquidação. Compreende ainda o calculo e/ou lançamento de receitas provenientes da prestação de serviços (taxas) e da venda de produtos. Inclui o processamento de isenção, redução ou fracionamento.",
         "notasAp": [
             {
-                "idNota": "nota_350.10_bfb30a28a970",
+                "idNota": "nota_350.10_17053656f6c0",
                 "nota": "Processamento de remunerações"
             },
             {
-                "idNota": "nota_350.10_6c569df0e26c",
+                "idNota": "nota_350.10_1211c02b4d33",
                 "nota": "Processamento de indemnizações"
             },
             {
-                "idNota": "nota_350.10_07c48b0ffa81",
+                "idNota": "nota_350.10_8bbfbc9b7c4c",
                 "nota": "Processamento das despesas de aquisição"
             },
             {
-                "idNota": "nota_350.10_14159e47355d",
+                "idNota": "nota_350.10_8396e32430d3",
                 "nota": "Processamento de transferência de verbas"
             },
             {
-                "idNota": "nota_350.10_456712c71904",
+                "idNota": "nota_350.10_a747fd11a00a",
                 "nota": "Processamento de liquidação de imposto"
             },
             {
-                "idNota": "nota_350.10_1ea7fd4e3c25",
+                "idNota": "nota_350.10_3cb4549ab612",
                 "nota": "Pretende-se que esta classe seja utilizada genericamente pela Administração, mas também pela Autoridade Tributária e demais entidades que processem receitas públicas derivadas de impostos e contribuições"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10_5e4e76b6b855",
+                "idNota": "nota_350.10_c0aa994d86b0",
                 "nota": "A elaboração do orçamento e a prestação de contas devem ser considerados em \\\"Planeamento e gestão estratégica/ Planeamento, avaliação e melhoria de serviços\\\" (150.20)"
             },
             {
-                "idNota": "nota_350.10_5c706be7095b",
+                "idNota": "nota_350.10_80c28e765d7f",
                 "nota": "O pagamento e o recebimento/cobrança, enquanto fluxos financeiro, deve ser considerado em \\\"Administração financeira/ Gestão de tesouraria\\\" (350.30)"
             },
             {
-                "idNota": "nota_350.10_10312f66b87e",
+                "idNota": "nota_350.10_3143f3d48bef",
                 "nota": "O controlo dos montantes em dívida deve ser considerado em \\\"Administração financeira/ Gestão da dívida e dos créditos públicos\\\" (350.40)"
             },
             {
-                "idNota": "nota_350.10_18ca5cdd9f44",
+                "idNota": "nota_350.10_325348cb0c74",
                 "nota": "O processamento de contraordenações e reclamações graciosas deve ser considerado em \\\"Supervisão, controlo e responsabilização/ Ação sancionatória e cautelar\\\" (500.30)"
             },
             {
-                "idNota": "nota_350.10_85ebe3994b9c",
+                "idNota": "nota_350.10_28c626196faf",
                 "nota": "As penhoras judiciais e consequentes execuções devem ser consideradas em \\\"Administração da Justiça/ Execução de penas, medidas e títulos executivos\\\" (600.40)"
             },
             {
-                "idNota": "nota_350.10_29f004a59d57",
+                "idNota": "nota_350.10_b88c524cbe8a",
                 "nota": "O registo de contribuintes deve ser considerado em \\\"Identificação e registo/Registo de dados de identificação e caracterização de entidades ou atos\\\" (400.10)"
             }
         ]
@@ -85,7 +85,7 @@
         "descricao": "Reforço de dotações de despesas resultantes da diminuição ou anulação de outras dotações, materializando-se em transferências inter-rubricas da despesa, sem haver lugar a aumento global da despesa prevista, assim como reforços ou inscrições de dotações de despesas, fruto da contração de empréstimos ou de outras receitas legalmente consignadas. Inicia com a necessidade da alteração orçamental e termina com a comunicação da decisão. Inclui as propostas de alteração e a respetiva alteração.",
         "notasEx": [
             {
-                "idNota": "nota_350.10.001_73d33d72f424",
+                "idNota": "nota_350.10.001_88f41724f0bb",
                 "nota": "A revisão orçamental deve ser considerada em 150.20.202 – Preparação do orçamento"
             }
         ],
@@ -502,21 +502,21 @@
         "descricao": "Apuramento do Imposto Sobre o Rendimento de Pessoas Singulares (IRS) dos sujeitos passivos. Inicia com a apresentação da declaração anual de IRS pelos sujeitos passivos ou mediante iniciativa da Administração Tributária, e termina com a notificação do resultado da liquidação. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação da declaração e o cálculo do imposto. ",
         "notasAp": [
             {
-                "idNota": "nota_350.10.100_15e1278fa0e2",
+                "idNota": "nota_350.10.100_1ec3ae8a0cf0",
                 "nota": "Apuramento do rendimento tributável do regime simplificado"
             },
             {
-                "idNota": "nota_350.10.100_4e854271b9ea",
+                "idNota": "nota_350.10.100_7ef9c42abdd3",
                 "nota": "Apuramento do IRS consignado"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.100_5d6f23f87f38",
+                "idNota": "nota_350.10.100_377b212700e3",
                 "nota": "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.10.100_ba619d3213dd",
+                "idNota": "nota_350.10.100_682bc7a4d1bf",
                 "nota": "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários"
             }
         ],
@@ -783,21 +783,21 @@
         "descricao": "Apuramento do Imposto Sobre o Rendimento de Pessoas Coletivas (IRC) dos sujeitos passivos. Inicia com a apresentação da declaração anual de IRC pelos sujeitos passivos ou mediante iniciativa da Administração Tributária, e termina com a notificação do resultado da liquidação. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação da declaração e o cálculo do imposto.",
         "notasAp": [
             {
-                "idNota": "nota_350.10.101_ea00cc4ef440",
+                "idNota": "nota_350.10.101_bd8ae2069815",
                 "nota": "Apuramento do rendimento tributável por métodos indiretos"
             },
             {
-                "idNota": "nota_350.10.101_20fb4d7b3a5f",
+                "idNota": "nota_350.10.101_e257aade20f3",
                 "nota": "Apuramento do rendimento tributável do regime simplificado"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.101_59554fbdc1fd",
+                "idNota": "nota_350.10.101_2a89935b38c3",
                 "nota": "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.10.101_a6a39386a598",
+                "idNota": "nota_350.10.101_e6fe3b25881d",
                 "nota": "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários"
             }
         ],
@@ -1043,25 +1043,25 @@
         "descricao": "Procedimento de revisão do lucro tributável fixado por métodos indiretos visando o estabelecimento de um acordo quanto ao valor da matéria coletável a considerar para efeitos de liquidação. Inicia com o pedido de revisão, devidamente fundamentado, a apresentar pelo sujeito passivo, com a indicação do perito que o representa, e termina com a notificação do acordo entre os peritos ou, na sua falta, com a notificação da decisão do órgão competente para a fixação da matéria coletável. Inclui a nomeação de perito independente, e a realização de uma reunião entre os peritos para estabelecimento de um acordo. ",
         "notasAp": [
             {
-                "idNota": "nota_350.10.102_7055ab5a4358",
+                "idNota": "nota_350.10.102_c1ab81b96304",
                 "nota": "Revisão normal e excecional do lucro tributável fixado por métodos indiretos tendo em vista a discussão dos pressupostos ou a quantificação da matéria coletável"
             },
             {
-                "idNota": "nota_350.10.102_606708dc33e9",
+                "idNota": "nota_350.10.102_b2d1593a08f5",
                 "nota": "Casos em que ainda não se efetuou a liquidação, exceto no caso da revisão excecional do lucro tributável que pode ser efetuada nos três anos posteriores à liquidação"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.102_828a2aa45933",
+                "idNota": "nota_350.10.102_cf54fb69b304",
                 "nota": "As correções técnicas e as questões de direito são consideradas em 350.10.100 – Liquidação de Imposto Sobre o Rendimento de Pessoas Singulares (IRS)"
             },
             {
-                "idNota": "nota_350.10.102_8493ac4e26be",
+                "idNota": "nota_350.10.102_c2feedeef8bf",
                 "nota": " ou em 350.10.101 – Liquidação de Imposto sobre o Rendimento de Pessoas Coletivas (IRC)"
             },
             {
-                "idNota": "nota_350.10.102_4055f8730784",
+                "idNota": "nota_350.10.102_e7ecac9d47cb",
                 "nota": "A revisão dos atos tributários deve ser considerada em 350.10.515 – Revisão de atos tributários"
             }
         ],
@@ -1150,11 +1150,11 @@
         "descricao": "Apuramento do Imposto Municipal sobre Imóveis (IMI) a pagar pelos sujeitos passivos, tendo por base o valor patrimonial inscrito nas matrizes prediais (rústicas e urbanas) em 31 de dezembro de cada ano, excetuando os valores dos prédios isentos. Inicia com o cálculo do imposto a pagar (mediante a aplicação da taxa ao valor patrimonial) e termina com a notificação da nota de liquidação ao sujeito passivo. Inclui a validação dos dados.",
         "notasEx": [
             {
-                "idNota": "nota_350.10.200_5720e193215a",
+                "idNota": "nota_350.10.200_f96ce47ac3ff",
                 "nota": "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.10.200_95aadbc80c12",
+                "idNota": "nota_350.10.200_2260306207a1",
                 "nota": "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários"
             }
         ],
@@ -1256,11 +1256,11 @@
         "descricao": "Apuramento do Imposto Municipal Sobre Transmissões Onerosas de Imóveis (IMT). Inicia com a apresentação da declaração para liquidação de IMT pelos sujeitos passivos ou mediante iniciativa da Administração Tributária, e termina com a notificação do resultado da liquidação aos sujeitos passivos. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação da declaração e o cálculo do imposto.",
         "notasEx": [
             {
-                "idNota": "nota_350.10.201_53e297adfba8",
+                "idNota": "nota_350.10.201_bac1f925ec5e",
                 "nota": "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.10.201_971b87836bbe",
+                "idNota": "nota_350.10.201_84cf8c2f5bbd",
                 "nota": "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários"
             }
         ],
@@ -1354,15 +1354,15 @@
         "descricao": "Apuramento da Contribuição Especial devida pela valorização extraordinária de imóveis (prédios rústicos e terrenos para construção), decorrente da realização de determinados investimentos (ex: construção de vias rodoviárias e ferroviárias, portos e aeroportos). Inicia com a apresentação da declaração de Contribuição Especial, pelos sujeitos passivos ou mediante iniciativa da Administração Tributária, e termina com a notificação da nota de liquidação. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação da declaração e o cálculo do imposto. ",
         "notasEx": [
             {
-                "idNota": "nota_350.10.202_44fd344c724a",
+                "idNota": "nota_350.10.202_8b0d4635a309",
                 "nota": "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.10.202_590c4bf42299",
+                "idNota": "nota_350.10.202_2c92df9093cd",
                 "nota": "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários"
             },
             {
-                "idNota": "nota_350.10.202_71689d247506",
+                "idNota": "nota_350.10.202_5e0c48ed1831",
                 "nota": "."
             }
         ],
@@ -1456,21 +1456,21 @@
         "descricao": "Apuramento do Imposto Único de Circulação (IUC), que incide sobre os veículos das diversas categorias previstas no Código do Imposto Único de Circulação (CIUC). Inicia com o preenchimento da declaração eletrónica no portal da AT pelos sujeitos passivos ou mediante iniciativa da Administração Tributária e termina com a emissão do Documento Único de Cobrança (DUC) para efeitos de pagamento. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação dos dados e o cálculo do imposto.",
         "notasAp": [
             {
-                "idNota": "nota_350.10.203_701abd4b4da4",
+                "idNota": "nota_350.10.203_c61b5819b35a",
                 "nota": "Tributação de veículos matriculados ou registados em território nacional"
             },
             {
-                "idNota": "nota_350.10.203_52ccd36d6100",
+                "idNota": "nota_350.10.203_46168f99648c",
                 "nota": "Veículos não sujeitos a matrícula em Portugal e que não sejam veículos de mercadorias com certas características, desde que permaneçam em território nacional por determinado período de tempo"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.203_3c13c35058b0",
+                "idNota": "nota_350.10.203_dccbce36c312",
                 "nota": "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.10.203_c9350e4fde57",
+                "idNota": "nota_350.10.203_23b3833370e6",
                 "nota": "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários"
             }
         ],
@@ -1587,17 +1587,17 @@
         "descricao": "Apuramento do Imposto Sobre Veículos (ISV). Inicia com a apresentação da declaração aduaneira de veículos (DAV), por transmissão eletrónica de dados, pelos operadores registados, pelos operadores reconhecidos e pelos particulares que procedam à introdução no consumo dos veículos tributáveis, bem como pelos sujeitos passivos do imposto que, de modo irregular, introduzam no consumo os referidos veículos, pelos sujeitos passivos ou mediante iniciativa da Administração Tributária e termina com a emissão do documento único de cobrança (DUC) para efeitos de pagamento. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação dos dados e o cálculo do imposto. ",
         "notasAp": [
             {
-                "idNota": "nota_350.10.204_e17748db086d",
+                "idNota": "nota_350.10.204_58426a6dce8e",
                 "nota": "Procedimento para atribuição de matrículas da época"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.204_6ddfda9c3a9d",
+                "idNota": "nota_350.10.204_2b38ec615d01",
                 "nota": "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.10.204_769ed93becef",
+                "idNota": "nota_350.10.204_49f0b71666be",
                 "nota": "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários"
             }
         ],
@@ -1706,57 +1706,57 @@
         "descricao": "Apuramento do Imposto de Selo devido nos termos da Tabela anexa ao Regulamento Geral de Imposto de Selo, anexa ao respetivo código, que incide sobre atos, contratos, documentos, títulos, papéis e outros factos ou situações jurídicas previstas na referida tabela. Inicia com o cálculo de imposto na guia entregue pelos sujeitos passivos ou mediante iniciativa da Administração Tributária, e termina, nos casos aplicáveis, com a notificação da liquidação. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação dos dados. ",
         "notasAp": [
             {
-                "idNota": "nota_350.10.205_6813f8798103",
+                "idNota": "nota_350.10.205_ad7bddfea34e",
                 "nota": "Escrituras de compra e venda de imóveis"
             },
             {
-                "idNota": "nota_350.10.205_3daf44315d31",
+                "idNota": "nota_350.10.205_c9b4fadd9139",
                 "nota": "Contratos de arrendamento e subarrendamento"
             },
             {
-                "idNota": "nota_350.10.205_da428ce41fe0",
+                "idNota": "nota_350.10.205_2fb69938124a",
                 "nota": "Contratos de empréstimos"
             },
             {
-                "idNota": "nota_350.10.205_f92e04201268",
+                "idNota": "nota_350.10.205_2826e7f7b125",
                 "nota": "Anúncios"
             },
             {
-                "idNota": "nota_350.10.205_e8551f1f7927",
+                "idNota": "nota_350.10.205_3657b4954631",
                 "nota": "Prémios de bingo, de rifas e de quaisquer sorteios ou concursos"
             },
             {
-                "idNota": "nota_350.10.205_8a2dadf92a94",
+                "idNota": "nota_350.10.205_204d145e37ac",
                 "nota": "Prémios de jogos sociais do Estado"
             },
             {
-                "idNota": "nota_350.10.205_a76561b6edcb",
+                "idNota": "nota_350.10.205_d69b00e50cb7",
                 "nota": "Concessão de garantias"
             },
             {
-                "idNota": "nota_350.10.205_40e582814173",
+                "idNota": "nota_350.10.205_590016c2c626",
                 "nota": "Operações financeiras"
             },
             {
-                "idNota": "nota_350.10.205_53b74ef763f6",
+                "idNota": "nota_350.10.205_fa9b9398b04f",
                 "nota": "Apólices de seguros"
             },
             {
-                "idNota": "nota_350.10.205_e3c5ac2e5278",
+                "idNota": "nota_350.10.205_9e2a82dc0ab3",
                 "nota": "Títulos de crédito"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.205_d58ea9858360",
+                "idNota": "nota_350.10.205_075f5f92db99",
                 "nota": "A liquidação do imposto de selo que incide sobre o valor das transmissões gratuitas de bens deve ser considerado em 350.10.206 – Liquidação de Imposto de Selo sobre Transmissões Gratuitas de Bens"
             },
             {
-                "idNota": "nota_350.10.205_5ae9b8434e70",
+                "idNota": "nota_350.10.205_1abb0da45f6f",
                 "nota": "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.10.205_d64c5664ce8d",
+                "idNota": "nota_350.10.205_09c43793d31a",
                 "nota": "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários"
             }
         ],
@@ -2019,11 +2019,11 @@
         "descricao": "Apuramento do Imposto de Selo sobre Transmissões Gratuitas de Bens. Inicia com a apresentação da participação de transmissões gratuitas de bens sujeitas a imposto de selo pelos sujeitos passivos ou mediante iniciativa da Administração Tributária, e termina com a notificação do resultado da liquidação. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação da declaração, a verificação dos atos ou factos sujeitos a imposto e o cálculo do imposto.",
         "notasEx": [
             {
-                "idNota": "nota_350.10.206_dcd1a321475c",
+                "idNota": "nota_350.10.206_451bba62f4dd",
                 "nota": "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.10.206_79c7e4a57656",
+                "idNota": "nota_350.10.206_950da4ac6007",
                 "nota": "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários"
             }
         ],
@@ -2103,17 +2103,17 @@
         "descricao": "Apuramento do Imposto Sobre o Valor Acrescentado (IVA). Inicia com a apresentação de uma declaração periódica (DP) por transmissão eletrónica de dados, efetuada pelos sujeitos passivos ou mediante iniciativa da Administração Tributária, e termina com a notificação aos sujeitos passivos para efeitos de pagamento ou com a submissão da declaração periódica do imposto. Inclui todos os procedimentos para liquidação do imposto, nomeadamente a validação da declaração e o cálculo do imposto.",
         "notasAp": [
             {
-                "idNota": "nota_350.10.300_7229af7e7d6a",
+                "idNota": "nota_350.10.300_d6fd1342dede",
                 "nota": "Apreciação de pedidos de renúncia à isenção do imposto"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.300_69d111de1b00",
+                "idNota": "nota_350.10.300_7befb7ab3ef6",
                 "nota": "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.10.300_675959920b1c",
+                "idNota": "nota_350.10.300_10d9bf90792c",
                 "nota": "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários"
             }
         ],
@@ -2386,33 +2386,33 @@
         "descricao": "Apuramento dos impostos especiais sobre o consumo, tendo por base os elementos declarados pelos sujeitos passivos. Inicia com o preenchimento de uma declaração de introdução no consumo (DIC), ou, no caso de importação, de uma declaração aduaneira (DA), pelos sujeitos passivos ou mediante iniciativa da Administração Tributária e termina com a notificação do resultado da liquidação e do prazo para efetuar o pagamento. Inclui todos os procedimentos para liquidação de imposto, nomeadamente a validação da declaração e o cálculo do imposto. ",
         "notasAp": [
             {
-                "idNota": "nota_350.10.301_b40f88372cd4",
+                "idNota": "nota_350.10.301_a2f9f29180ad",
                 "nota": "Liquidação do Imposto sobre o Álcool e as Bebidas Alcoólicas (IABA)"
             },
             {
-                "idNota": "nota_350.10.301_9bddde6db2ca",
+                "idNota": "nota_350.10.301_2addb7d3a826",
                 "nota": "Liquidação do Imposto sobre os Produtos Petrolíferos e Energéticos (ISPPE)"
             },
             {
-                "idNota": "nota_350.10.301_8555691fb741",
+                "idNota": "nota_350.10.301_2935b40f989f",
                 "nota": "Liquidação do Imposto Sobre o Tabaco (IT)"
             },
             {
-                "idNota": "nota_350.10.301_a9bfc9b79448",
+                "idNota": "nota_350.10.301_362b1512eec3",
                 "nota": "Liquidação do Imposto Sobre Sacos de Plástico Leves"
             },
             {
-                "idNota": "nota_350.10.301_79bc955dfecf",
+                "idNota": "nota_350.10.301_6314da1e1593",
                 "nota": "Liquidação do Imposto Especial Sobre Bebidas Açucaradas"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.301_2a3df41635c4",
+                "idNota": "nota_350.10.301_211973e57802",
                 "nota": "O pagamento do imposto deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.10.301_a2f381461722",
+                "idNota": "nota_350.10.301_5a5c1f35df44",
                 "nota": "A revisão oficiosa da liquidação deve ser considerada em 350.10.515 – Revisão de atos tributários"
             }
         ],
@@ -2601,15 +2601,15 @@
         "descricao": "Cálculo e lançamento das verbas entre administrações ou entre a Administração Pública e entidades privadas (associações, empresas e particulares). Inicia com a verificação do orçamento da verba a transferir e da entidade de destino ou com o pedido da entidade para transferência da verba e termina com o lançamento da verba. Inclui o cálculo da verba a transferir, o registo da entrada (receita) ou a deliberação da verba a transferir (despesa).",
         "notasAp": [
             {
-                "idNota": "nota_350.10.500_8d711f28fd24",
+                "idNota": "nota_350.10.500_50ce3cf467b3",
                 "nota": "Transferências de verbas para sistemas sociais e de saúde, associações e empresas e particulares"
             },
             {
-                "idNota": "nota_350.10.500_0ae85ea69104",
+                "idNota": "nota_350.10.500_5b34e04f1000",
                 "nota": "Transferência para as Regiões Autónomas do Imposto sobre o Álcool e as Bebidas Alcoólicas (IABA) pago no Continente"
             },
             {
-                "idNota": "nota_350.10.500_ce4a4783054e",
+                "idNota": "nota_350.10.500_9ecaffe47fff",
                 "nota": "Transferências para as entidades utilizadoras e beneficiárias de fundos do Orçamento da Segurança Social"
             }
         ],
@@ -2871,15 +2871,15 @@
         "codigo": "350.10.501",
         "nivel": 3,
         "estado": "A",
-        "titulo": "Liquidação de contribuições para o sistema de proteção da saúde",
-        "descricao": "Apuramento dos montantes devidos pelos trabalhadores e pelas entidades para a proteção da saúde. Inicia com o cálculo e termina com a comunicação do montante às entidades competentes. Inclui registo.",
+        "titulo": "Liquidação de contribuições para a proteção da saúde",
+        "descricao": "Apuramento dos montantes devidos pelos trabalhadores e pelas entidades empregadoras para a proteção da saúde. Inicia com o cálculo e termina com a comunicação do montante às entidades competentes. Inclui registo.",
         "notasAp": [
             {
-                "idNota": "nota_350.10.501_616272621067",
+                "idNota": "nota_350.10.501_719a27764879",
                 "nota": "Liquidação de contribuições para os subsistemas de proteção social no âmbito dos cuidados de saúde, concretamente da Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas (ADSE), da Assistência na Doença aos Militares (ADM) e da Divisão de Assistência na Doença (SAD)"
             },
             {
-                "idNota": "nota_350.10.501_7e37bc99a0b5",
+                "idNota": "nota_350.10.501_19c67be010f9",
                 "nota": "No âmbito da Administração Local, receção pelos municípios da comunicação dos montantes dos serviços municipalizados e das empresas locais para o Sistema Nacional de Saúde"
             }
         ],
@@ -3130,25 +3130,25 @@
         "codigo": "350.10.502",
         "nivel": 3,
         "estado": "A",
-        "titulo": "Liquidação de contribuições para a segurança social e aposentação",
-        "descricao": "Apuramento dos montantes devidos pelos trabalhadores e pelas entidades empregadoras para o Sistema de Segurança Social. Inicia com o cálculo da retenção e termina com a comunicação do montante às entidades competentes. Inclui o registo.",
+        "titulo": "Liquidação de contribuições para a proteção social",
+        "descricao": "Apuramento dos montantes devidos pelos trabalhadores e pelas entidades empregadoras para a proteção social. Inicia com o cálculo da retenção e termina com a comunicação do montante às entidades competentes. Inclui o registo.",
         "notasAp": [
             {
-                "idNota": "nota_350.10.502_772fe4ac2fa1",
+                "idNota": "nota_350.10.502_d5b09586da60",
                 "nota": "Apuramento de montantes para a Segurança Social"
             },
             {
-                "idNota": "nota_350.10.502_63cdcbee727a",
+                "idNota": "nota_350.10.502_9259973196c7",
                 "nota": "Apuramento dos montantes para a Caixa Geral de Aposentações"
             },
             {
-                "idNota": "nota_350.10.502_032bfaedc1d9",
+                "idNota": "nota_350.10.502_0a46f3949bfc",
                 "nota": "Apuramento de contribuições prescritas com efeitos retroativos"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.502_66b556b7444b",
+                "idNota": "nota_350.10.502_805ab93e6bd0",
                 "nota": "O pagamento de constribuições deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -3452,13 +3452,13 @@
         "descricao": "Processamento da despesa relativa a acidentes de trabalho e doenças profissionais. Inicia com a receção do pedido de pagamento das despesas e termina com a decisão sobre o mesmo. Inclui a a análise e qualificação do acidente de trabalho ou da doença profissional, verificação dos documentos comprovativos, nomeadamente do boletim de acompanhamento médico, da declaração de formalidades, da relação de despesas e respetivos documentos de despesa.",
         "notasAp": [
             {
-                "idNota": "nota_350.10.503_ca3150cf3a9e",
+                "idNota": "nota_350.10.503_6b6feefbc643",
                 "nota": "Liquidação de despesas por assistência a terceira pessoa, decorrentes de acidentes de trabalho e doenças profissionais"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.503_699db5f6be47",
+                "idNota": "nota_350.10.503_aedbd6e911a8",
                 "nota": "A participação do acidente de trabalho ou de doença profissional deve ser considerada em 250.20.401 – Participação de acidentes de trabalho ou de doenças profissionais"
             }
         ],
@@ -3720,25 +3720,25 @@
         "descricao": "Concessão de benefícios e incentivos fiscais e aduaneiros não contratuais, dependentes de reconhecimento. Inicia com o pedido de benefício ou incentivo fiscal e aduaneiro e termina com a notificação da decisão final. Inclui todos os procedimentos para a análise e cálculo dos benefícios e incentivos. ",
         "notasAp": [
             {
-                "idNota": "nota_350.10.504_88979f44ba2b",
+                "idNota": "nota_350.10.504_a19d48eb46dd",
                 "nota": "Processos de isenção, de redução de taxa e de suspensão do benefício ou incentivo fiscal"
             },
             {
-                "idNota": "nota_350.10.504_8facae3f4af7",
+                "idNota": "nota_350.10.504_2aad21aadb7e",
                 "nota": "Benefícios fiscais associados à Lei de Liberdade Religiosa"
             },
             {
-                "idNota": "nota_350.10.504_de1f3ef07ca8",
+                "idNota": "nota_350.10.504_05595efefd34",
                 "nota": "Benefícios fiscais previstos na fiscalidade verde"
             },
             {
-                "idNota": "nota_350.10.504_1f03dfe1e9b0",
+                "idNota": "nota_350.10.504_9211ad5d4325",
                 "nota": "Benefícios à gasolina para frota de pesca"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.504_c4da1e71befd",
+                "idNota": "nota_350.10.504_c9533060f205",
                 "nota": "O processamento de benefícios e incentivos fiscais e aduaneiros contratuais deve ser considerado em 850.30.002 – Processamento de benefícios e incentivos contratuais ao investimento"
             }
         ],
@@ -3849,15 +3849,15 @@
         "descricao": "Prestação ou recebimento de garantia, entre administrações públicas ou entre a administração pública e privados. Inicia com a apresentação do direito ou dever garantido e termina com a sua liberação. Inclui o registo do direito ou dever garantido, pode incluir o acionamento da caução.",
         "notasAp": [
             {
-                "idNota": "nota_350.10.505_341d6ec2e080",
+                "idNota": "nota_350.10.505_66ea0a2d0194",
                 "nota": "Precaução de eventual falta de cumprimento de alguma obrigação"
             },
             {
-                "idNota": "nota_350.10.505_562b1852fbac",
+                "idNota": "nota_350.10.505_2024a404cfb5",
                 "nota": "Pedido de liberação de caução"
             },
             {
-                "idNota": "nota_350.10.505_334ae356beb7",
+                "idNota": "nota_350.10.505_29ffb3ae0feb",
                 "nota": "Garantias prestadas pelos operadores económicos quando as suas mercadorias são suscetíveis de dívida aduaneira"
             }
         ],
@@ -3992,7 +3992,7 @@
         "descricao": "Apuramento de montantes de reembolso a beneficiários de um sistema de saúde despendidos com encargos relativos a cuidados de saúde comparticipado em regime livre. Inicia com a apresentação de documentos de despesa por parte do trabalhador e termina com o crédito em conta calculado nos termos da respetiva tabela. Inclui a codificação e a validação das despesas.",
         "notasAp": [
             {
-                "idNota": "nota_350.10.506_49ecf44bca86",
+                "idNota": "nota_350.10.506_cb5128e34198",
                 "nota": "Beneficiários de subsistemas de saúde, como a Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas (ADSE) e a Assistência na Doença aos Militares (ADM)"
             }
         ],
@@ -4243,17 +4243,17 @@
         "descricao": "Processamento de despesas de saúde com entidades prestadoras de cuidados de saúde e farmácias por força de acordos estabelecidos entre estas e os diversos subsistemas de saúde ou entidades públicas comparticipantes. Inicia com a receção da comunicação da despesa (faturação) e termina com a comunicação dos montantes a pagar. Inclui conferência e validação das despesas realizadas em prestadores convencionados e farmácias, e o apuramento dos montantes a reembolsar, assim como o apuramento dos montantes a pagar pelo subsistema de saúde às entidades prestadoras de cuidados de saúde e farmácias.",
         "notasAp": [
             {
-                "idNota": "nota_350.10.507_3674326fe642",
+                "idNota": "nota_350.10.507_0ac503c52a20",
                 "nota": "Despesas com entidades prestadoras de cuidados de saúde como hospitais, clínicas, médicos e outros prestadores particulares que tenham acordo/convenção com a Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas (ADSE)"
             },
             {
-                "idNota": "nota_350.10.507_a0cfc4d660e9",
+                "idNota": "nota_350.10.507_8b9a8cb3cfce",
                 "nota": "Despesas na comparticipação em medicamentos em farmácias"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.507_0530674ec3ad",
+                "idNota": "nota_350.10.507_af24623c1d45",
                 "nota": "A comparticipação em despesas de saúde aos beneficiários de subsistemas de saúde deve ser considerada em 350.10.506 – Comparticipação em despesas de saúde ao beneficiário"
             }
         ],
@@ -4356,15 +4356,15 @@
         "descricao": "Processamento de indemnizações e injunções por prejuízos causados no património público ou de particulares, resultantes de circunstâncias acidentais ou fortuitas, pelas quais o Estado é responsável ou ressarcido pelo dano sofrido, bem como de compensações devidas ao abrigo do regime jurídico de requalificação de trabalhadores em funções públicas. Inicia com o pedido de pagamento feito pela entidade da Administração Pública ou pelo particular e termina com o apuramento do valor a indemnizar para reparação dos danos ou a pagar em compensação. Inclui a análise do processo administrativo remetido pela entidade proponente, descrição do enquadramento factual, apuramento dos encargos e justificação orçamental. ",
         "notasAp": [
             {
-                "idNota": "nota_350.10.508_418707d98351",
+                "idNota": "nota_350.10.508_415df909b199",
                 "nota": "Compensação de danos causados a terceiros e assumidos voluntariamente pelas entidades públicas"
             },
             {
-                "idNota": "nota_350.10.508_ce3917173e37",
+                "idNota": "nota_350.10.508_e24f56c336b4",
                 "nota": "Compensações devidas por aplicação do regime de gestão do pessoal em requalificação"
             },
             {
-                "idNota": "nota_350.10.508_2c9b2d0a0c04",
+                "idNota": "nota_350.10.508_b77b3a3321d4",
                 "nota": "Compensação por prejuízos causados no património do Estado, provenientes de circunstâncias acidentais ou fortuitas"
             }
         ],
@@ -4608,17 +4608,17 @@
         "descricao": "Processamento de remunerações por trabalhador, integrando a apresentação da informação relativa a abonos e descontos. Inicia com a verificação da assiduidade e termina com a liquidação do montante a pagar. Inclui o apuramento de horas extraordinárias, de subsídio de residência, de subsídio de refeição, de alterações na remuneração, de penhoras de vencimento, de abono de família a crianças e jovens, de abonos para falhas e descontos (para a Segurança Social (SS), Caixa Geral de Aposentações (CGA), Instituto de Proteção e Assistência na Doença, I.P. (ADSE, I.P.), entidades seguradoras, Fundo de Estabilização Tributária (FET), entre outros.",
         "notasAp": [
             {
-                "idNota": "nota_350.10.509_73d3580321f6",
+                "idNota": "nota_350.10.509_94961737800f",
                 "nota": "Senhas de presença"
             },
             {
-                "idNota": "nota_350.10.509_12ea45e72112",
+                "idNota": "nota_350.10.509_209f13caee76",
                 "nota": "Bolsa dos auditores de justiça (aos auditores de justiça com algum tipo de vínculo com o Estado, encontram-se em comissão de serviço e é-lhes pago o correspondente ao vencimento de origem, sendo que aos restantes, é-lhes paga a dita bolsa de formação sendo obrigados a um regime de exclusividade)"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.509_f78a21a48c96",
+                "idNota": "nota_350.10.509_5097df7879e5",
                 "nota": "O pagamento deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -4790,13 +4790,13 @@
         "descricao": "Processamento dos abonos de transportes, ajudas de custo, deslocações e estadas. Inicia com o pedido de autorização e termina com a liquidação do montante a pagar. Inclui o cálculo e o processamento das ajudas de custo e despesas de deslocação e elementos comprovativos. ",
         "notasAp": [
             {
-                "idNota": "nota_350.10.510_67562a69967d",
+                "idNota": "nota_350.10.510_9a76d52eb20f",
                 "nota": "Despesas efetuadas por serviço externo e formação"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.510_d1505db4d1c9",
+                "idNota": "nota_350.10.510_aa219f9ccc24",
                 "nota": "O pagamento deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -4845,7 +4845,8 @@
             "CP",
             "SGME",
             "CV",
-            "ERSE"
+            "ERSE",
+            "IES"
         ],
         "participantes": [
             {
@@ -4884,11 +4885,15 @@
         ],
         "processosRelacionados": [
             "150.20.404",
-            "350.10.600"
+            "250.20.405",
+            "350.10.600",
+            "500.10.001"
         ],
         "proRel": [
             "eSintetizadoPor",
-            "eCruzadoCom"
+            "eCruzadoCom",
+            "eCruzadoCom",
+            "eSuplementoPara"
         ],
         "pca": {
             "valores": 10,
@@ -4934,37 +4939,37 @@
         "descricao": "Apuramento de montantes a devolver, recebidos indevidamente ou a mais, efetivada por compensação, dedução em folha ou pagamento através da apresentação de guia, bem como o ressarcimento de valores por despesa com direito a restituição. Inicia com o pedido de reposição ou reembolso ou com a iniciativa da entidade pública (traduzida na ordem de transferência ou na emissão do cheque) e termina com o averbamento do montante a restituir. Inclui definição do modo de reposição, apresentação das guias de reposição abatidas (liquidadas no ano económico a que respeitam) e não abatidas (relativas a anos económicos anteriores), que se referem a reposições nos pagamentos relativos a fornecedores, trabalhadores e ex-trabalhadores, a apresentação de documentos da faturação referente à venda de bens ou serviços e o apuramento de valores, a comunicação ao serviço processador da restituição ou reembolso, a reativação de cheques.",
         "notasAp": [
             {
-                "idNota": "nota_350.10.511_c55f932b12e7",
-                "nota": "Devolução de valores de despesa de deslocações em serviço ou telefone, no caso de dirigentes"
+                "idNota": "nota_350.10.511_a52a0f2ac4d1",
+                "nota": "Apuramento para devolução de valores de despesa de deslocações em serviço ou telefone, no caso de dirigentes"
             },
             {
-                "idNota": "nota_350.10.511_c5c67d990a9e",
-                "nota": "Restituições e reembolsos de impostos, taxas, direitos aduaneiros e demais tributos"
+                "idNota": "nota_350.10.511_ea23a05dba25",
+                "nota": "Apuramento para restituições e reembolsos de impostos, taxas, direitos aduaneiros e demais tributos"
             },
             {
-                "idNota": "nota_350.10.511_c68b06bc27b1",
-                "nota": "Restituição e entrega de fundos de operações de tesouraria a estâncias aduaneiras"
+                "idNota": "nota_350.10.511_435c7458cd2a",
+                "nota": "Apuramento para restituição e entrega de fundos de operações de tesouraria a estâncias aduaneiras"
             },
             {
-                "idNota": "nota_350.10.511_d91b2ab2d19c",
+                "idNota": "nota_350.10.511_e1619c63426a",
                 "nota": "Procedimento de reativação de cheques emitidos para restituição ou reembolso de montantes indevidos"
             },
             {
-                "idNota": "nota_350.10.511_0c8a50356f16",
-                "nota": "Restituição e reembolso de recursos próprios comunitários"
+                "idNota": "nota_350.10.511_b919837969f7",
+                "nota": "Apuramento para restituição e reembolso de recursos próprios comunitários"
             },
             {
-                "idNota": "nota_350.10.511_6d774d87d57b",
-                "nota": "Restituição de contribuições à Segurança Social"
+                "idNota": "nota_350.10.511_a2ce16e69198",
+                "nota": "Apuramento para restituição de contribuições à Segurança Social"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.511_e9387a0472a3",
+                "idNota": "nota_350.10.511_485d5c3d6e9f",
                 "nota": "A comparticipação nos encargos com cuidados de saúde por adiantamento do beneficiário deve ser considerada em 350.10.506 – Comparticipação em despesas de saúde ao beneficiário"
             },
             {
-                "idNota": "nota_350.10.511_5b6a416513ab",
+                "idNota": "nota_350.10.511_b23a6a70bdb1",
                 "nota": "Os reembolsos de valores que são calculados no processo de liquidação de impostos (ex: IRS, IRC, IVA,...), devem ser considerados nos respetivos processos de liquidação (350.10.100 – Liquidação de Imposto Sobre o Rendimento de Pessoas Singulares (IRS), 350.10.101 – Liquidação de Imposto Sobre o Rendimento de Pessoas Coletivas (IRC) e 350.10.300 – Liquidação de Imposto Sobre o Valor Acrescentado (IVA))"
             }
         ],
@@ -5014,7 +5019,8 @@
             "CP",
             "SGME",
             "CV",
-            "ERSE"
+            "ERSE",
+            "IES"
         ],
         "participantes": [
             {
@@ -5100,11 +5106,11 @@
         "descricao": "Processamento de anulações de valores, nomeadamente de impostos, taxas, direitos aduaneiros e demais tributos. Inicia com o pedido de anulação apresentado pelo interessado ou com a iniciativa do serviço da administração pública e termina com a efetiva anulação do montante total ou parcial objeto de liquidação. Inclui todo o procedimento para a análise e cálculo das anulações.",
         "notasAp": [
             {
-                "idNota": "nota_350.10.513_6ccb12e509be",
+                "idNota": "nota_350.10.513_d22eadb4cc0c",
                 "nota": "Anulação de valores"
             },
             {
-                "idNota": "nota_350.10.513_2e85b5a5a89a",
+                "idNota": "nota_350.10.513_529dd77d6da2",
                 "nota": "Anulação de contribuições à Segurança Social"
             }
         ],
@@ -5258,11 +5264,13 @@
         ],
         "processosRelacionados": [
             "150.20.404",
-            "350.10.511"
+            "350.10.511",
+            "500.10.001"
         ],
         "proRel": [
             "eSintetizadoPor",
-            "eSucessorDe"
+            "eSucessorDe",
+            "eSuplementoPara"
         ],
         "pca": {
             "valores": 10,
@@ -5329,12 +5337,14 @@
             "150.20.404",
             "300.10.005",
             "350.30.001",
+            "500.10.001",
             "700.20.300"
         ],
         "proRel": [
             "eSintetizadoPor",
             "eAntecessorDe",
             "eAntecessorDe",
+            "eSuplementoPara",
             "eSucessorDe"
         ],
         "pca": {
@@ -5381,17 +5391,17 @@
         "descricao": "Processamento da revisão de atos tributários pela entidade que os praticou. Inicia com pedido do sujeito passivo, com fundamento em qualquer ilegalidade, ou com a iniciativa da administração tributária, com fundamento em erro imputável aos serviços, e termina com a notificação do resultado da revisão efetuada. Inclui o exercício do direito de audição quando o pedido é objeto de indeferimento total ou parcial.",
         "notasAp": [
             {
-                "idNota": "nota_350.10.515_63e8476c1b44",
+                "idNota": "nota_350.10.515_59174d5d65de",
                 "nota": "Revisão da liquidação dos diversos tributos"
             },
             {
-                "idNota": "nota_350.10.515_4f8335cd08e6",
+                "idNota": "nota_350.10.515_454104fec9c0",
                 "nota": "Revisão por erro na autoliquidação"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.515_b7a7f94f1d74",
+                "idNota": "nota_350.10.515_e5eda5c09054",
                 "nota": "A revisão do lucro tributável determinado por métodos indiretos deve ser considerada em 350.10.102 – Revisão do lucro tributável determinado por métodos indiretos"
             }
         ],
@@ -5414,6 +5424,10 @@
             },
             {
                 "id": "CP",
+                "interv": "Iniciar"
+            },
+            {
+                "id": "IES",
                 "interv": "Iniciar"
             }
         ],
@@ -5564,7 +5578,7 @@
         "descricao": "Processamento de informação com a determinação dos montantes de recursos próprios tradicionais que não foi possível cobrar e pedido de dispensa da sua colocação à União Europeia, acompanhada da respetiva justificação. Inicia com a comunicação da Alfândega, tendo por base a contabilidade aduaneira, do montante considerado ou declarado incobrável e termina com a comunicação da decisão da Comissão Europeia. Inclui instrução, análise e acompanhamento de processos relativos a pedidos de dispensa de colocação à disposição de recursos próprios tradicionais apresentados por Portugal. ",
         "notasEx": [
             {
-                "idNota": "nota_350.10.517_9abd154f6f0a",
+                "idNota": "nota_350.10.517_0ce74e477ad5",
                 "nota": "A eventual recusa do pedido pela Comissão Europeia deve ser considerado em 600.30.650 – Ação em matéria de direito da União Europeia"
             }
         ],
@@ -5629,21 +5643,21 @@
         "descricao": "Processamento da despesa relativa a tributo pago em troca da prestação de um serviço. Inicia com a solicitação do serviço e termina com o apuramento do montante. Inclui o cálculo da verba a pagar e emissão dos documentos comprovativos.",
         "notasAp": [
             {
-                "idNota": "nota_350.10.518_e40a8082d83e",
+                "idNota": "nota_350.10.518_97df8860bcd3",
                 "nota": "Cálculo da taxa de recursos hídricos"
             },
             {
-                "idNota": "nota_350.10.518_ecc0aa3a16f8",
+                "idNota": "nota_350.10.518_fc514610a893",
                 "nota": "Cálculo da taxa aeroportuária"
             },
             {
-                "idNota": "nota_350.10.518_de3774916730",
+                "idNota": "nota_350.10.518_705582b2e15a",
                 "nota": "Cálculo da taxa portuária"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.518_f3443682a1d0",
+                "idNota": "nota_350.10.518_c0c74ea2c557",
                 "nota": "O cálculo de taxas no âmbito de processos de licenciamento ou registo deve ser considerado no respetivo processo."
             }
         ],
@@ -5748,21 +5762,21 @@
         "descricao": "Demonstração de efetividade de serviço prestado por trabalhadores para reconhecimento de tempo de serviço com efeitos no Sistema de Segurança Social. Inicia com solicitação do reconhecimento e termina com a comunicação da decisão. Incluí entrega de comprovativos, análise, confirmação das condições com o determinado em convenções ou acordos bilaterais, decisão.",
         "notasAp": [
             {
-                "idNota": "nota_350.10.519_8b123b6acb3a",
+                "idNota": "nota_350.10.519_d34b5b302ba7",
                 "nota": "Trabalhadores por conta de outrem que descontaram para Instituições de Previdência nas ex-províncias ultramarinas"
             },
             {
-                "idNota": "nota_350.10.519_9e2e49fc93e1",
+                "idNota": "nota_350.10.519_acbd77d88b34",
                 "nota": "Trabalhadores por conta de outrem que descontaram para Instituições de Previdência no estrangeiro"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.519_8b89de0ca26a",
+                "idNota": "nota_350.10.519_86d6c9e9bf1a",
                 "nota": "O pagamento de contribuições deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.10.519_91ad59b74088",
+                "idNota": "nota_350.10.519_51ffc375b683",
                 "nota": "O apuramento de contribuições deve ser considerado em 350.10.502 - Liquidação de contribuições para a segurança social e aposentação"
             }
         ],
@@ -5862,19 +5876,19 @@
         "descricao": "Concessão de benefícios contributivos dependentes de reconhecimento. Inicia com o pedido de benefício e termina com a notificação da decisão final. Inclui entrega de comprovativos para a análise e cálculo.",
         "notasAp": [
             {
-                "idNota": "nota_350.10.520_b91bb9724178",
+                "idNota": "nota_350.10.520_089813dbb176",
                 "nota": "Trabalhadores com um grau de incapacidade inferior a 80%"
             },
             {
-                "idNota": "nota_350.10.520_a2e43c077de5",
+                "idNota": "nota_350.10.520_4267c469a5fe",
                 "nota": "Desempregados de longa duração"
             },
             {
-                "idNota": "nota_350.10.520_369caa5f6390",
+                "idNota": "nota_350.10.520_369106f39db7",
                 "nota": "Desempregados de muito longa duração"
             },
             {
-                "idNota": "nota_350.10.520_8791fddf60e5",
+                "idNota": "nota_350.10.520_4228ca13b4e6",
                 "nota": "Reclusos em regime aberto"
             }
         ],
@@ -5962,7 +5976,7 @@
         "descricao": "Apuramento e validação de prémios dos jogos sociais do Estado. Inicia com a verificação do comprovativo da aposta premiada e termina com a comunicação da autorização de pagamento.",
         "notasEx": [
             {
-                "idNota": "nota_350.10.521_e29316bd76eb",
+                "idNota": "nota_350.10.521_198c277ff4a5",
                 "nota": "Os comprovativos dos pagamentos de prémios efetuados que devem ser considerados no PN 350.30.001 - Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -6055,83 +6069,83 @@
         "descricao": "Registo da receita proveniente da prestação de serviços e da venda de produtos e de bens de investimento, incluindo a sua isenção, redução e fracionamento, bem como da receita proveniente de indemnizações. Compreende também o registo da despesa proveniente da aquisição de bens e serviços, remunerações, bem como da despesa de investimento. Inicia com a informação ou o apuramento do montante a receber (receita) ou com cabimentação (despesa) e termina com o lançamento da receita ou da despesa. Inclui classificação da receita ou da despesa, autorização de despesa e de alteração ao seu limite (se aplicável), compromisso (para a despesa), inclusão em suporte normalizados dos encargos legalmente constituídos e informação do recebimento ou da receção do bem ou serviço por parte da entidade requisitante. ",
         "notasAp": [
             {
-                "idNota": "nota_350.10.600_fb7be0abefc6",
+                "idNota": "nota_350.10.600_747f6cff5ac9",
                 "nota": "Registo de verbas"
             }
         ],
         "exemplosNotasAp": [
             {
-                "idExemplo": "exemplo_350.10.600_1d2e00d3414f",
+                "idExemplo": "exemplo_350.10.600_a92edf53cb78",
                 "exemplo": "Registo de antecipação de duodécimos"
             },
             {
-                "idExemplo": "exemplo_350.10.600_93d19c3c2402",
+                "idExemplo": "exemplo_350.10.600_7ef2c6227848",
                 "exemplo": "Despesas referentes à constituição, reconstituição e reposição do fundo de maneio"
             },
             {
-                "idExemplo": "exemplo_350.10.600_4d5f9ae6495f",
+                "idExemplo": "exemplo_350.10.600_5b35a148d615",
                 "exemplo": "Despesas de aquisição (despesa corrente, proveniente da aquisição de bens e serviços, bem como a despesa de investimento)"
             },
             {
-                "idExemplo": "exemplo_350.10.600_d08a3f663cfa",
+                "idExemplo": "exemplo_350.10.600_0c0d79ccaff1",
                 "exemplo": "Despesas com ajudas de custos"
             },
             {
-                "idExemplo": "exemplo_350.10.600_960522340db7",
+                "idExemplo": "exemplo_350.10.600_0249bc79bb4a",
                 "exemplo": "Despesas com apoios financeiros, subsídios, donativos, comparticipações e outros instrumentos de incentivo financeiro ou de proteção/inclusão social, remunerações, indemnizações"
             },
             {
-                "idExemplo": "exemplo_350.10.600_d78405d9311d",
+                "idExemplo": "exemplo_350.10.600_b3fe2a72b6b1",
                 "exemplo": "Despesas com remunerações, assim como descontos devidos a cada trabalhador ou eleito"
             },
             {
-                "idExemplo": "exemplo_350.10.600_aa6752e32c63",
+                "idExemplo": "exemplo_350.10.600_91c726902ea3",
                 "exemplo": "Lançamento de receitas tributárias (impostos, contribuições, taxas, coimas) ou outras (por exemplo juros)"
             },
             {
-                "idExemplo": "exemplo_350.10.600_027e92048196",
+                "idExemplo": "exemplo_350.10.600_2e0bd2243196",
                 "exemplo": "Receita corrente proveniente da prestação de serviços e da venda"
             },
             {
-                "idExemplo": "exemplo_350.10.600_161c811b2772",
+                "idExemplo": "exemplo_350.10.600_91337744bb78",
                 "exemplo": "Reposições (as abatidas e as não abatidas no pagamento)"
             },
             {
-                "idExemplo": "exemplo_350.10.600_2cfb6b24be68",
+                "idExemplo": "exemplo_350.10.600_1f7a4cf1c2b0",
                 "exemplo": "Restituições, reembolsos, anulações e encontro de contas"
             },
             {
-                "idExemplo": "exemplo_350.10.600_008cf75823f8",
+                "idExemplo": "exemplo_350.10.600_6afc9425c29c",
                 "exemplo": "Transferência de verbas"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.10.600_494e630db231",
+                "idNota": "nota_350.10.600_3b91c8bbe14a",
                 "nota": "A cobrança da receita e o pagamento de despesa, enquanto fluxos financeiros, devem ser consideradas em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.10.600_81df275e16e0",
+                "idNota": "nota_350.10.600_7342fdabfa44",
                 "nota": "Os cálculos podem ser considerados em dois tipos de processos"
             },
             {
-                "idNota": "nota_350.10.600_57ba7c63b800",
+                "idNota": "nota_350.10.600_940492d4ed00",
                 "nota": "Apuramentos que ocorram como parte de um processo de negócio de outra classe (ex.: no âmbito de uma contraordenação, ou de um licenciamento)"
             },
             {
-                "idNota": "nota_350.10.600_7ea2e9562078",
+                "idNota": "nota_350.10.600_ed3c11288188",
                 "nota": "Processo específico de liquidação considerado em 350.10 (ex.: apuramento de impostos, processamento de remunerações)"
             },
             {
-                "idNota": "nota_350.10.600_c296c111809e",
+                "idNota": "nota_350.10.600_c53ee770c021",
                 "nota": "O cálculo da indemnização terá lugar no âmbito do respetivo processo"
             },
             {
-                "idNota": "nota_350.10.600_ec832928dd8b",
+                "idNota": "nota_350.10.600_f683a8ef524d",
                 "nota": "O cálculo, redução ou isenção de taxa devem ser considerados no âmbito do respetivo processo"
             },
             {
-                "idNota": "nota_350.10.600_6153a65075c9",
+                "idNota": "nota_350.10.600_c82ff597f75c",
                 "nota": "O auto de receção do bem ou serviço deve ser considerado em 300.10, no respetivo processo de aquisição"
             }
         ],
@@ -6295,7 +6309,7 @@
         "descricao": "Requisição mensal à entidade competente da transferência duodecimal de verbas do orçamento anual atribuído através do Orçamento do Estado para fazer face aos encargos assumidos mensalmente. Inicia com o pedido e termina com a comunicação da decisão e libertação da verba pedida, em caso de aceitação do pedido. Inclui o envio e análise dos documentos justificativos, com indicação rigorosa das formalidades realizadas e sua fundamentação legal, o processamento e autorização ou recusa de libertação de crédito. ",
         "notasAp": [
             {
-                "idNota": "nota_350.10.700_97b09d35ab6a",
+                "idNota": "nota_350.10.700_5829cffb0ef2",
                 "nota": "Solicitações de crédito para fazer face aos encargos assumidos com pessoal"
             }
         ],
@@ -6551,41 +6565,41 @@
         "descricao": "Compreende o processamento dos fluxos financeiros movimentados (entradas e saídas de tesouraria), no que se inclui pagamentos, cobranças, transferências, depósitos e fundos entrados. Compreende ainda a rentabilização dos excedentes de tesouraria.",
         "notasAp": [
             {
-                "idNota": "nota_350.30_0938232297d0",
+                "idNota": "nota_350.30_ada67d234073",
                 "nota": "Pagamento de apoios financeiros, subsídios, donativos, comparticipações e outros instrumentos de incentivo financeiro ou de proteção/inclusão social, remunerações, indemnizações"
             },
             {
-                "idNota": "nota_350.30_bfa81c0a4ea8",
+                "idNota": "nota_350.30_6844915d6068",
                 "nota": "Cobrança/recebimento de receitas tributárias (impostos, contribuições, taxas, coimas) ou outras (por exemplo juros)"
             },
             {
-                "idNota": "nota_350.30_677c38d742a9",
+                "idNota": "nota_350.30_03f5bd65b383",
                 "nota": "Fluxos financeiros relativos à transferência de verbas"
             },
             {
-                "idNota": "nota_350.30_227c1fb2277b",
+                "idNota": "nota_350.30_9f5541667885",
                 "nota": "Reposições (as abatidas e as não abatidas no pagamento), as restituições, os reembolsos, as anulações, o encontro de contas"
             },
             {
-                "idNota": "nota_350.30_10ed6b104916",
+                "idNota": "nota_350.30_aee9cce79168",
                 "nota": "Antecipação de duodécimos, os pedidos de alteração dos limites trimestrais de despesa, bem como balancetes e outros instrumentos de controlo"
             },
             {
-                "idNota": "nota_350.30_6b582269d424",
+                "idNota": "nota_350.30_8e25a338ba13",
                 "nota": "Reconciliação bancária (conferência entre os movimentos das contas e os lançamentos efetuados pela Entidade, tendo por base os extratos bancários)"
             },
             {
-                "idNota": "nota_350.30_031be264c3e3",
+                "idNota": "nota_350.30_cd512bbd4f91",
                 "nota": "Movimento de verbas dentro de cada entidade, nomeadamente levantamentos, depósitos e transferências entre contas"
             },
             {
-                "idNota": "nota_350.30_f225826191a6",
+                "idNota": "nota_350.30_a07d5b86d0d5",
                 "nota": "Gestão do fundo de maneio (incluindo a respetiva constituição)"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.30_0d99d122f485",
+                "idNota": "nota_350.30_18a8c5aa19c2",
                 "nota": "A gestão da dívida pública e da liquidez deve ser considerada em \\\"Administração financeira/Gestão da dívida e dos créditos públicos\\\" (350.40);Os documentos de despesa devem ser considerados no âmbito do processo que originou a despesa"
             }
         ]
@@ -6598,55 +6612,55 @@
         "descricao": "Recebimento e pagamento de quaisquer montantes financeiros. Inicia com a emissão de documento de receita ou receção de documento de despesa e termina com a arrecadação ou pagamento da verba. Inclui autorização de pagamento, emissão de meios de pagamento, transferência de verbas entre entidades e confirmação da receção de verba.",
         "notasAp": [
             {
-                "idNota": "nota_350.30.001_87444de4c2a1",
+                "idNota": "nota_350.30.001_1311343e85c7",
                 "nota": "Fluxos financeiros de tesouraria"
             }
         ],
         "exemplosNotasAp": [
             {
-                "idExemplo": "exemplo_350.30.001_a65ee3137a5b",
+                "idExemplo": "exemplo_350.30.001_83f626db3c11",
                 "exemplo": "Contas a receber e contas a pagar"
             },
             {
-                "idExemplo": "exemplo_350.30.001_3e986662d22e",
+                "idExemplo": "exemplo_350.30.001_bb3122c64abd",
                 "exemplo": "Entradas e saídas de caixa"
             },
             {
-                "idExemplo": "exemplo_350.30.001_ae59224a197b",
+                "idExemplo": "exemplo_350.30.001_f2214801e8ed",
                 "exemplo": "Movimentos relativos ao fundo de maneio"
             },
             {
-                "idExemplo": "exemplo_350.30.001_912035f492e8",
+                "idExemplo": "exemplo_350.30.001_ab0324d4d135",
                 "exemplo": "Pagamentos e recebimentos"
             },
             {
-                "idExemplo": "exemplo_350.30.001_b94b3fae9a97",
-                "exemplo": "Reembolsos e restituições"
+                "idExemplo": "exemplo_350.30.001_2fcf7a9d4b47",
+                "exemplo": "Pagamentos e recebimentos relativos a reembolsos e restituições"
             },
             {
-                "idExemplo": "exemplo_350.30.001_6665043e28ef",
+                "idExemplo": "exemplo_350.30.001_ee9e8e594b26",
                 "exemplo": "Transferência de verbas"
             },
             {
-                "idExemplo": "exemplo_350.30.001_0ef062c40ea7",
+                "idExemplo": "exemplo_350.30.001_9ea736b63556",
                 "exemplo": "Pagamentos de contribuições para a Segurança Social"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.30.001_4a7974f64823",
+                "idNota": "nota_350.30.001_0650a1e1d755",
                 "nota": "Os cálculos podem ser considerados em dois tipos de processos"
             },
             {
-                "idNota": "nota_350.30.001_5b731e0b0e85",
+                "idNota": "nota_350.30.001_e41e90dc4962",
                 "nota": "Apuramentos que ocorram como parte de um processo de negócio de outra classe (ex.: no âmbito de uma contraordenação, ou de um licenciamento)"
             },
             {
-                "idNota": "nota_350.30.001_243b55efba21",
+                "idNota": "nota_350.30.001_ab46718c711b",
                 "nota": "Processo específico de liquidação considerado em 350.10 (ex.: liquidação de impostos, liquidação de contribuições, apuramento de transferência de verbas, processamento de remunerações)"
             },
             {
-                "idNota": "nota_350.30.001_9e7071cb9a5f",
+                "idNota": "nota_350.30.001_96d22f77deba",
                 "nota": "O registo de receitas e despesas deve ser considerado em 350.10.600 – Lançamento de receitas e de despesas"
             }
         ],
@@ -6927,7 +6941,8 @@
             "850.40.500",
             "950.10.500",
             "900.20.601",
-            "900.20.602"
+            "900.20.602",
+            "500.10.001"
         ],
         "proRel": [
             "eSintetizadoPor",
@@ -6989,7 +7004,8 @@
             "eCruzadoCom",
             "eCruzadoCom",
             "eCruzadoCom",
-            "eCruzadoCom"
+            "eCruzadoCom",
+            "eSuplementoPara"
         ],
         "pca": {
             "valores": 10,
@@ -7036,11 +7052,11 @@
         "descricao": "Entrega do montante destinado a satisfazer pequenas despesas de caráter corrente e inadiáveis dos serviços e organismos necessárias e urgentes à manutenção dos serviços, por conta das rubricas orçamentais aprovadas. Inicia com a constituição do fundo e termina com a entrega no final do ano. Inclui a designação do seu responsável. ",
         "notasAp": [
             {
-                "idNota": "nota_350.30.002_d7407e03cdb4",
+                "idNota": "nota_350.30.002_b95c7f3e4738",
                 "nota": "Pagamento de pequenas aquisições no quadro da satisfação de necessidades urgentes dos serviços"
             },
             {
-                "idNota": "nota_350.30.002_cbd9cac68c47",
+                "idNota": "nota_350.30.002_df0380f0011b",
                 "nota": "Reconstituição do fundo de maneio"
             }
         ],
@@ -7182,17 +7198,17 @@
         "descricao": "Verificação e demonstração dos montantes e documentos existentes em tesouraria. Inicia com a conferência e termina com o registo. Inclui o controlo de movimentos, apuramento de valores, quando aplicável, a produção de instrumentos de controlo diário, semanal, anual, de transição, ou outros e de termos de responsabilidade. ",
         "notasAp": [
             {
-                "idNota": "nota_350.30.003_872b0f4299db",
+                "idNota": "nota_350.30.003_572feadc3c98",
                 "nota": "Apuramento de contas por transição"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.30.003_5ebfe632b753",
+                "idNota": "nota_350.30.003_b03e2ff92278",
                 "nota": "O controlo e monitorização da execução orçamental devem ser considerados em 150.20.400 – Acompanhamento da execução orçamental"
             },
             {
-                "idNota": "nota_350.30.003_4f34edcd3559",
+                "idNota": "nota_350.30.003_7a82e5525580",
                 "nota": "A demonstração da execução orçamental e patrimonial deve ser considerada em 150.20.404 – Prestação de contas"
             }
         ],
@@ -7338,7 +7354,7 @@
         "descricao": "Fluxo de montantes financeiros em contas bancárias. Inicia com uma ordem de levantamento, depósito ou transferência e termina com o recebimento, a entrega ou a transferência do valor. Inclui o registo da operação.",
         "notasAp": [
             {
-                "idNota": "nota_350.30.004_b1185d629014",
+                "idNota": "nota_350.30.004_da051b2222af",
                 "nota": "Levantamentos, depósitos e transferências entre contas"
             }
         ],
@@ -7600,11 +7616,11 @@
         "descricao": "Processamento de entradas e saídas de dinheiro da conta do recluso no estabelecimento prisional, do jovem internado em centro educativo e de pessoa institucionalizada. Inicia com a emissão de documento de receita ou pedido de realização de despesa e termina com a emissão de uma guia de receita ou de uma ordem de pagamento. ",
         "notasAp": [
             {
-                "idNota": "nota_350.30.006_a81d906e52d1",
+                "idNota": "nota_350.30.006_bf60658973e0",
                 "nota": "Conta corrente do recluso no que diz respeito aos procedimentos relacionados com as remunerações de trabalho, as entregas de valores pelas visitas ou pelo correio, bem como os procedimentos relacionados com as aquisições de bens e produtos efetuados pelos reclusos na cantina do estabelecimento prisional ou outras aquisições por ele solicitadas"
             },
             {
-                "idNota": "nota_350.30.006_adfdd735b0fb",
+                "idNota": "nota_350.30.006_801b0495d0e3",
                 "nota": "Pecúlio do jovem em centro educativo no que diz respeito aos procedimentos relacionados com o dinheiro de bolso, prémios, bolsas de formação, remunerações por trabalho, prestações sociais, donativos de famíliares ou de outras pessoas idóneas"
             }
         ],
@@ -7624,11 +7640,13 @@
         "processosRelacionados": [
             "350.30.003",
             "350.30.005",
+            "500.10.001",
             "600.40.002"
         ],
         "proRel": [
             "eCruzadoCom",
             "eCruzadoCom",
+            "eSuplementoPara",
             "eCruzadoCom"
         ],
         "pca": {
@@ -7678,7 +7696,7 @@
         "descricao": "Aplicação a montantes financeiros em excedente na tesouraria, a prazo, em fundos, aplicações bancárias ou outras. Inicia com a decisão de aplicação financeira e termina com o reembolso do valor da aplicação e respetivo rendimento. Inclui a análise das propostas de aplicação.",
         "notasEx": [
             {
-                "idNota": "nota_350.30.500_6295d9f8b361",
+                "idNota": "nota_350.30.500_f458fb70effc",
                 "nota": "A transferência dos valores deve ser considerada em 350.30.004 – Movimentação de contas bancárias"
             }
         ],
@@ -7789,41 +7807,41 @@
         "descricao": "Compreende a emissão de instrumentos de dívida para a obtenção de financiamento, bem como a amortização dessa dívida ou de outras operações, como a amortização antecipada, recompras, operações de reporte e operações com derivados financeiros. Compreende também o controlo e a recuperação de dívida ao Estado e a regularização de responsabilidades financeiras do Estado.",
         "notasAp": [
             {
-                "idNota": "nota_350.40_d37b43dab6ff",
+                "idNota": "nota_350.40_3d58ee02a7c4",
                 "nota": "Pedidos de empréstimo de entidades públicas"
             },
             {
-                "idNota": "nota_350.40_75cb71fc0847",
+                "idNota": "nota_350.40_a4d355fd4725",
                 "nota": "Emissão de dívida"
             },
             {
-                "idNota": "nota_350.40_2452d575d3c6",
+                "idNota": "nota_350.40_e713541fda46",
                 "nota": "Determinação dos rendimentos dos títulos da dívida pública portuguesa (juros, prémios de amortização ou de reembolso e outras formas de remuneração)"
             },
             {
-                "idNota": "nota_350.40_531494e2a7fc",
+                "idNota": "nota_350.40_4a0e1beb4559",
                 "nota": "Assunção de passivos e responsabilidades financeiras de organismos públicos e de empresas públicas e participadas"
             },
             {
-                "idNota": "nota_350.40_61640ae968fa",
+                "idNota": "nota_350.40_dcc43337e210",
                 "nota": "Assunção de passivos e ativos resultantes de processos de dissolução, liquidação e extinção de entidades"
             },
             {
-                "idNota": "nota_350.40_177744eecfac",
+                "idNota": "nota_350.40_75a57427fd22",
                 "nota": "Gestão e recuperação de créditos do Tesouro"
             },
             {
-                "idNota": "nota_350.40_b1fb5a796866",
+                "idNota": "nota_350.40_58a08c54ee93",
                 "nota": "Recuperação da dívida ao Estado"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.40_8d61d5a2985b",
+                "idNota": "nota_350.40_d69303bbd9d7",
                 "nota": "Os registos contabilísticos devem ser considerados em “Administração financeira/Execução orçamental” (350.10)"
             },
             {
-                "idNota": "nota_350.40_16125738d69e",
+                "idNota": "nota_350.40_60d643241e8b",
                 "nota": "Os fluxos financeiros devem ser considerados em “Administração financeira/ Gestão da tesouraria” (350.30)"
             }
         ]
@@ -7836,15 +7854,15 @@
         "descricao": "Emissão e amortização de dívida pública com vista a assegurar as necessidades de financiamento da República, tendente ao equilíbrio das contas públicas. Inicia com a proposta dos objetivos estratégicos para a gestão da Dívida Pública e da Liquidez e as iniciativas conducentes e termina com a liquidação das operações de financiamento. Inclui os instrumentos de gestão da liquidez, da execução do Programa de Financiamento através da realização de leilões de colocação de Obrigações do Tesouro (OT) e Bilhetes do Tesouro (BT) e de operações de troca de dívida, aplicação dos excedentes de tesouraria, criação e gestão de instrumentos de Dívida Pública (excluindo Retalho), emissão de empréstimos sob a forma de colocação pública. ",
         "notasAp": [
             {
-                "idNota": "nota_350.40.001_80d82957b165",
+                "idNota": "nota_350.40.001_15c7fd5382ee",
                 "nota": "Emissão de Obrigações do Tesouro"
             },
             {
-                "idNota": "nota_350.40.001_651f9fbe7540",
+                "idNota": "nota_350.40.001_e5677a855186",
                 "nota": "Emissão de Bilhetes do Tesouro"
             },
             {
-                "idNota": "nota_350.40.001_e55326a42f6f",
+                "idNota": "nota_350.40.001_22b435155342",
                 "nota": "Emissão de Certificados Especiais de Dívida Pública"
             }
         ],
@@ -7915,11 +7933,11 @@
         "descricao": "Emissão e resgates de dívida pública de retalho. Inicia com a emissão de títulos de dívida de retalho e termina com a liquidação solicitada por um resgate. Inclui a gestão e controlo dos processamentos no Aforro, as informações e esclarecimentos solicitados por clientes, análise e instrução de processos de habilitação de herdeiros.",
         "notasAp": [
             {
-                "idNota": "nota_350.40.002_2a2c68c0dcc4",
+                "idNota": "nota_350.40.002_4153177a757d",
                 "nota": "Emissão de Certificados de Aforro"
             },
             {
-                "idNota": "nota_350.40.002_50b5e59d006c",
+                "idNota": "nota_350.40.002_1fa5ffe85682",
                 "nota": "Emissão de Certificados do Tesouro"
             }
         ],
@@ -8005,7 +8023,7 @@
         "descricao": "Estabilização de oferta e procura de títulos de dívida pública no mercado secundário, através do Fundo de Regularização da Dívida Pública (FRDP), resultante de alienação de partes sociais que o Estado detém em quaisquer sociedades anónimas resultantes da transformação de empresas públicas em sociedades anónimas de maioria ou exclusivamente de capitais públicos. Inicia com a aquisição de dívida e entrada de capitais oriundos das nacionalizações e termina com o abatimento da dívida. ",
         "notasAp": [
             {
-                "idNota": "nota_350.40.003_4ae21ef42cd1",
+                "idNota": "nota_350.40.003_3e25442e7adb",
                 "nota": "Regularização da procura e da oferta dos títulos da dívida pública no mercado secundário através do Fundo de Regularização da Dívida Pública (FRDP), bem como do Fundo da Renda Vitalícia"
             }
         ],
@@ -8079,7 +8097,7 @@
         "descricao": "Recuperação de créditos que resultam de empréstimos diretos do Estado e outras operações ativas. Inicia com a comunicação do incumprimento contratual e termina com a regularização do crédito através do pagamento ou a confirmação da sua irrecuperabilidade. Inclui contratos de reescalonamento de dívidas, planos de amortização, juros de mora, entre outros. ",
         "notasAp": [
             {
-                "idNota": "nota_350.40.200_567f065454be",
+                "idNota": "nota_350.40.200_998b6a548168",
                 "nota": "Empréstimos concedidos a empresas e a países terceiros"
             }
         ],
@@ -8174,7 +8192,7 @@
         "descricao": "Recuperação de créditos resultantes da execução de garantias prestadas pelo Estado, diretamente ou através de outras entidades de coordenação económica. Inicia com o pagamento pelo Estado em execução de aval ou fiança e termina com a regularização do crédito através do pagamento ou a confirmação da sua irrecuperabilidade. Inclui planos de pagamento, pedidos de alteração de planos de pagamentos, participações de incumprimento, verificação técnica dos motivos dos incumprimentos, estudo das possibilidades de regularização do crédito e de viabilidade das empresas devedoras, pedidos de execução das garantias prestadas pelo Estado, despachos de autorização de pagamento pelo Estado às entidades bancárias.",
         "notasAp": [
             {
-                "idNota": "nota_350.40.201_6476a59f1078",
+                "idNota": "nota_350.40.201_108171757529",
                 "nota": "Todos os casos resultantes de incumprimento de fianças ou aval do Estado"
             }
         ],
@@ -8273,15 +8291,15 @@
         "descricao": "Recuperação de créditos transferidos para a titularidade do Estado por aquisição ou dação em pagamento. Inicia com o contrato de aquisição/cessão de créditos e termina com a regularização do crédito através do pagamento ou a confirmação da sua irrecuperabilidade. Inclui contratos, relações das dívidas, pedidos de regularização da dívida, decisões proferidas sobre a regularização da dívida, planos prestacionais da dívida, expediente com os devedores, serviços de finanças, tribunais, Segurança Social, administradores de insolvência, assim como informações dos serviços relacionadas com os créditos adquiridos. ",
         "notasAp": [
             {
-                "idNota": "nota_350.40.202_730f3002cada",
+                "idNota": "nota_350.40.202_d5c8ea821564",
                 "nota": "Créditos adquiridos à Segurança Social"
             },
             {
-                "idNota": "nota_350.40.202_ddd76f7118ab",
+                "idNota": "nota_350.40.202_2c6a49840e7a",
                 "nota": "Acordo extrajudicial de regularização de dívidas à Segurança Social"
             },
             {
-                "idNota": "nota_350.40.202_71119a77502f",
+                "idNota": "nota_350.40.202_10043b772ec4",
                 "nota": "Constituição, redução, substituição e cancelamento/distrate de garantias"
             }
         ],
@@ -8371,21 +8389,21 @@
         "descricao": "Regularização voluntária de créditos relativos a apoios financeiros recebidos ao abrigo da execução de programas de incentivo, já considerados incobráveis. Inicia com a proposta para recuperação do crédito e termina com a regularização do crédito através do pagamento ou a confirmação da sua irrecuperabilidade pela via voluntária. Inclui instrução do processo para decisão de recuperação de crédito com apresentação do comprovativo da dívida, decisão para recuperação, articulação com o devedor para definição do plano de pagamento de reposição voluntária e eventual reestruturação de plano de reembolso, controlo do pagamento. ",
         "notasAp": [
             {
-                "idNota": "nota_350.40.203_d0720dce0b4b",
+                "idNota": "nota_350.40.203_798beae50985",
                 "nota": "Restituição de apoios financeiros concedidos no âmbito do emprego e da formação, por incumprimento das entidades beneficiárias"
             },
             {
-                "idNota": "nota_350.40.203_1455ca5ae1dd",
+                "idNota": "nota_350.40.203_95bb8437969d",
                 "nota": "Restituição de apoios financeiros concedidos a empresas beneficiárias do Programa SIII"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.40.203_a0658b00cfa3",
+                "idNota": "nota_350.40.203_060cb2fedeeb",
                 "nota": "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.40.203_3fbfafcadb54",
+                "idNota": "nota_350.40.203_b3f8bfedfd87",
                 "nota": "A recuperação coerciva de créditos deve ser considerada em 600 – Administração da Justiça"
             }
         ],
@@ -8475,21 +8493,21 @@
         "descricao": "Regularização voluntária de créditos transmitidos de organismos extintos. Inicia com a proposta para recuperação do crédito e termina com a regularização do crédito através do pagamento ou a confirmação da sua irrecuperabilidade pela via voluntária. Inclui instrução do processo para decisão de recuperação de crédito, com análise do auto de entrega referente ao organismo extinto e dos comprovativos de dívida, constituição de hipotecas, decisão para recuperação, articulação com os devedores e outras entidades envolvidas, controlo do pagamento. ",
         "notasAp": [
             {
-                "idNota": "nota_350.40.204_9cd614f54bf6",
+                "idNota": "nota_350.40.204_ffa263e4ee65",
                 "nota": "Recuperação de créditos transferidos para o IEFP, I.P. por extinção dos Centros de Gestão Participada"
             },
             {
-                "idNota": "nota_350.40.204_e9a1639ea6d4",
+                "idNota": "nota_350.40.204_9063e8006d11",
                 "nota": "Processos transmitidos do FFH, IPE, CIFRE, EPAC, Programa do Crédito Agrícola de Emergência (CAE), entre outros"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.40.204_15cfb2d3c607",
+                "idNota": "nota_350.40.204_2f35d1421deb",
                 "nota": "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.40.204_274c364947cb",
+                "idNota": "nota_350.40.204_28f86b4ee115",
                 "nota": "A recuperação coerciva de créditos deve ser considerada em 600 – Administração da Justiça"
             }
         ],
@@ -8683,11 +8701,11 @@
         "descricao": "Empréstimo de montantes financeiros quer entre a administração e um banco, quer entre administrações, quer ainda entre o Estado e empresas ou particulares. Inicia com a autorização de contração de empréstimo e termina com o pagamento do empréstimo. Inclui a solicitação de propostas e seleção.",
         "notasEx": [
             {
-                "idNota": "nota_350.40.401_1db4d9432b6b",
+                "idNota": "nota_350.40.401_94331d5e4106",
                 "nota": "A arrecadação do valor do empréstimo, a transferência de verbas, bem como o pagamento para amortização parcial ou total do seu valor, devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.40.401_cdfa777654db",
+                "idNota": "nota_350.40.401_9a6b34e06277",
                 "nota": "A verificação do contrato pelo Tribunal de Contas deve ser considerada em 500.10.002 – Fiscalização prévia do Tribunal de Contas"
             }
         ],
@@ -8777,7 +8795,7 @@
         "descricao": "Assunção de responsabilidades pelo Estado para com organismos públicos e empresas públicas e participadas. Inicia com o diploma que determina a assunção de responsabilidades pelo Estado e termina com o pagamento a entidade terceira. Inclui a situação financeira das entidades objeto da regularização de passivos e propostas dos serviços propondo a regularização de dívidas. ",
         "notasAp": [
             {
-                "idNota": "nota_350.40.600_a804f76db873",
+                "idNota": "nota_350.40.600_4ac504662a18",
                 "nota": "Processos de saneamento económico-financeiro de sociedades anónimas de capitais públicos, de empresas em liquidação"
             }
         ],
@@ -8885,7 +8903,7 @@
         "descricao": "Distribuição de remunerações provenientes das participações acionistas detidas diretamente pelo Estado. Inicia com o apuramento de montantes e termina com a aprovação dos montantes a distribuir. Inclui recolha de estimativas para efeitos da preparação do Orçamento do Estado, posterior elaboração de informação de análise do Relatório e Contas das EP e das SA das participações diretas, para efeito da apresentação de projeto de despacho relativo aos montantes de dividendos a distribuir.",
         "notasEx": [
             {
-                "idNota": "nota_350.40.601_4b85bfdec2c3",
+                "idNota": "nota_350.40.601_da576274f975",
                 "nota": "A arrecadação das receitas proveniente de dividendos ou de remuneração do capital estatutário deve ser considerada em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -8967,29 +8985,29 @@
         "descricao": "Cálculo dos ativos e passivos na sequência da dissolução ou extinção de uma sociedade comercial ou de entidade sem fins lucrativos, e repartição de lucros e prejuízos pelos seus sócios ou acionistas. Inicia com o requerimento dos interessados ou no âmbito de outro procedimento administrativo e termina com o registo do encerramento da liquidação. Inclui indicação dos liquidatários, informação sobre o pagamento das dívidas da sociedade, informação sobre a partilha do ativo após pagamento aos credores, comunicação do facto às entidades competentes.",
         "notasAp": [
             {
-                "idNota": "nota_350.40.602_0ceb83276845",
+                "idNota": "nota_350.40.602_2b6fbff7036c",
                 "nota": "Liquidação de associações"
             },
             {
-                "idNota": "nota_350.40.602_9c75a24e7a3e",
+                "idNota": "nota_350.40.602_214ea92158e4",
                 "nota": "Liquidação de fundações"
             },
             {
-                "idNota": "nota_350.40.602_46ac2ee194cc",
+                "idNota": "nota_350.40.602_fc8e799a9470",
                 "nota": "Liquidação de outras entidades sem fins lucrativos"
             },
             {
-                "idNota": "nota_350.40.602_2aa13afccd9c",
+                "idNota": "nota_350.40.602_5502a7afa017",
                 "nota": "Liquidação de sociedades comerciais, na sequência da sua extinção"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_350.40.602_670d3c9e890c",
+                "idNota": "nota_350.40.602_c680c2dd61a4",
                 "nota": "O pagamento de dívidas deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_350.40.602_5068b31c669c",
+                "idNota": "nota_350.40.602_accb2ab10f97",
                 "nota": "O acompanhamento, no âmbito da função acionista do Estado e do exercício da tutela financeira, de liquidação de sociedades e outras entidades públicas deve ser considerado em 150.20.401 – Acompanhamento de liquidação de entidades"
             }
         ],
@@ -9090,7 +9108,7 @@
         "descricao": "Regularização de situações do passivo do Estado, tal como o pagamento à Segurança Social de encargos com os pensionistas e reformados das ex-províncias ultramarinas, previstas em norma específica na Lei Orçamental ou em diploma especial, bem como de outras responsabilidades que lhe foram legalmente transmitidas. Inicia com a assunção de responsabilidades e termina com a regularização da responsabilidade do Estado. ",
         "notasAp": [
             {
-                "idNota": "nota_350.40.603_409b6d533443",
+                "idNota": "nota_350.40.603_10e3759602ff",
                 "nota": "Pgamentos em execução de garantia do Estado concedida no âmbito do código das expropriações"
             }
         ],
@@ -9215,23 +9233,23 @@
         "descricao": "Compreende a atividade de gestão de patrimónios autónomos com horizonte de investimento de médio e longo prazo, bem como a administração de regimes complementares de segurança social.",
         "notasAp": [
             {
-                "idNota": "nota_350.50_851013960e2f",
+                "idNota": "nota_350.50_049ebad74096",
                 "nota": "Fundo de Estabilização Financeira da Segurança Social (FEFSS), gestão de ativos financeiros"
             },
             {
-                "idNota": "nota_350.50_132d127de987",
+                "idNota": "nota_350.50_aa0655c7b3c3",
                 "nota": "Fundo dos Certificados de Reforma (FCR), gestão de ativos financeiros"
             },
             {
-                "idNota": "nota_350.50_7c3c0e55b355",
+                "idNota": "nota_350.50_869d3dc387ca",
                 "nota": "Fundo de Compensação de Trabalho (FCT), gestão de ativos financeiros"
             },
             {
-                "idNota": "nota_350.50_984507209611",
+                "idNota": "nota_350.50_fdd13b0ffde0",
                 "nota": "Regime Público de Capitalização (RPC), gestão das unidades de participação"
             },
             {
-                "idNota": "nota_350.50_623a21e4d335",
+                "idNota": "nota_350.50_0b33e7297f6f",
                 "nota": "Fundo de Compensação de Trabalho (FCT), gestão das unidades de participação"
             }
         ]
@@ -9244,39 +9262,39 @@
         "descricao": "Estabelecimento de orientações de longo prazo sobre a aplicação de investimentos. Inicia com a preparação dos elementos de suporte à definição das orientações e termina com a revisão das mesmas. Inclui definição de benchmarks e dos seus parâmetros, bem como de modelos de valorização de ativos financeiros e dos respetivos critérios de valorimetria, elaboração de mapas mensais de acompanhamento, decisões de ajustamento à política de gestão estratégica.",
         "notasAp": [
             {
-                "idNota": "nota_350.50.001_32fbccc98562",
+                "idNota": "nota_350.50.001_17ac4f42930f",
                 "nota": "Fundo de Estabilização Financeira da Segurança Social (FEFSS), estratégias de investimento"
             },
             {
-                "idNota": "nota_350.50.001_600af3068fdc",
+                "idNota": "nota_350.50.001_cf99a93cf328",
                 "nota": "Fundo dos Certificados de Reforma (FCR), estratégias de investimento"
             },
             {
-                "idNota": "nota_350.50.001_2fa8ad7861e7",
+                "idNota": "nota_350.50.001_856a6a2a8a7f",
                 "nota": "Fundo de Compensação de Trabalho (FCT), estratégias de investimento"
             },
             {
-                "idNota": "nota_350.50.001_0a4aa09f8aed",
+                "idNota": "nota_350.50.001_24901ba5723c",
                 "nota": "Fundo de Estabilização Financeira da Segurança Social (FEFSS), definição de benchmarks"
             },
             {
-                "idNota": "nota_350.50.001_4e3e533fa94b",
+                "idNota": "nota_350.50.001_f1449e9f45c6",
                 "nota": "Fundo dos Certificados de Reforma (FCR), definição de benchmarks"
             },
             {
-                "idNota": "nota_350.50.001_8e225ba03f8a",
+                "idNota": "nota_350.50.001_040c4293d568",
                 "nota": "Fundo de Compensação de Trabalho (FCT), definição de benchmarks"
             },
             {
-                "idNota": "nota_350.50.001_6b5b95c3fb42",
+                "idNota": "nota_350.50.001_b60052b17e7a",
                 "nota": "Fundo de Estabilização Financeira da Segurança Social (FEFSS), modelos de valorização"
             },
             {
-                "idNota": "nota_350.50.001_6d32d84bacdb",
+                "idNota": "nota_350.50.001_d8b067c84518",
                 "nota": "Fundo dos Certificados de Reforma (FCR), modelos de valorização"
             },
             {
-                "idNota": "nota_350.50.001_b53cbc11361a",
+                "idNota": "nota_350.50.001_13d119648268",
                 "nota": "Fundo de Compensação de Trabalho (FCT), modelos de valorização"
             }
         ],
@@ -9294,10 +9312,12 @@
             "Lei_98_97"
         ],
         "processosRelacionados": [
-            "350.50.002"
+            "350.50.002",
+            "500.10.001"
         ],
         "proRel": [
-            "eAntecessorDe"
+            "eAntecessorDe",
+            "eSuplementoPara"
         ],
         "pca": {
             "valores": 10,
@@ -9340,15 +9360,15 @@
         "descricao": "Decisão de investimento nos mercados financeiros de ativos das carteiras de fundos. Inicia com a análise dos mercados financeiros internacionais e termina com a deliberação sobre as decisões de investimento. Inclui a elaboração do relatório mensal da evolução dos mercados, para formação de opinião interna, apresentação de visão estratégica e formulação de propostas de alocação das carteiras dos fundos e o mapa semanal de acompanhamento dessas propostas.",
         "notasAp": [
             {
-                "idNota": "nota_350.50.002_773cea6b8ba6",
+                "idNota": "nota_350.50.002_4595964349a8",
                 "nota": "Fundo de Estabilização Financeira da Segurança Social (FEFSS), alocação das carteiras dos fundos"
             },
             {
-                "idNota": "nota_350.50.002_4204df08d914",
+                "idNota": "nota_350.50.002_8efc1b39b3c4",
                 "nota": "Fundo dos Certificados de Reforma (FCR, alocação das carteiras dos fundos)"
             },
             {
-                "idNota": "nota_350.50.002_adb2886ef4be",
+                "idNota": "nota_350.50.002_1660834d8c66",
                 "nota": "Fundo de Compensação de Trabalho (FCT), alocação das carteiras dos fundos"
             }
         ],
@@ -9368,12 +9388,14 @@
         "processosRelacionados": [
             "350.50.001",
             "350.50.003",
-            "350.50.004"
+            "350.50.004",
+            "500.10.001"
         ],
         "proRel": [
             "eSucessorDe",
             "eSinteseDe",
-            "eSinteseDe"
+            "eSinteseDe",
+            "eSuplementoPara"
         ],
         "pca": {
             "valores": 10,
@@ -9416,15 +9438,15 @@
         "descricao": "Ação de investimento de ativos das carteiras de fundos. Inicia com a interação com intermediários financeiros e plataformas de negociação para seleção dos destinos de investimento e termina com a liquidação da operação. Inclui a contratação e validação das operações, com a comunicação de ordens aos intermediários financeiros e o reporte de custodiantes.",
         "notasAp": [
             {
-                "idNota": "nota_350.50.003_3d01d665a5fe",
+                "idNota": "nota_350.50.003_f9bf386734f4",
                 "nota": "Fundo de Estabilização Financeira da Segurança Social (FEFSS), execução das operações de investimento"
             },
             {
-                "idNota": "nota_350.50.003_d867109eb4b7",
+                "idNota": "nota_350.50.003_2756a4818988",
                 "nota": "Fundo dos Certificados de Reforma (FCR), execução das operações de investimento"
             },
             {
-                "idNota": "nota_350.50.003_424ce3df7709",
+                "idNota": "nota_350.50.003_c34be2b69f68",
                 "nota": "Fundo de Compensação de Trabalho (FCT), execução das operações de investimento"
             }
         ],
@@ -9510,15 +9532,15 @@
         "descricao": "Produção de informação relativa à evolução da carteira de fundos, nomeadamente a sua valorização, rentabilidade e conformidade. Inicia com a recolha de elementos junto do sistema de gestão de ativos e termina com a elaboração de mapa periódico de análise da carteira. Inclui o apuramento do valor das unidades de participação do fundo, quando aplicável.",
         "notasAp": [
             {
-                "idNota": "nota_350.50.004_f629c35290fb",
+                "idNota": "nota_350.50.004_23143f87bc86",
                 "nota": "Fundo de Estabilização Financeira da Segurança Social (FEFSS), medição do desempenho"
             },
             {
-                "idNota": "nota_350.50.004_8968de0be7bf",
+                "idNota": "nota_350.50.004_6e40252a1901",
                 "nota": "Fundo dos Certificados de Reforma (FCR), medição do desempenho"
             },
             {
-                "idNota": "nota_350.50.004_c22eadaa4f99",
+                "idNota": "nota_350.50.004_6a08fbdfda39",
                 "nota": "Fundo de Compensação de Trabalho (FCT), medição do desempenho"
             }
         ],
@@ -9536,12 +9558,16 @@
             "Lei_98_97"
         ],
         "processosRelacionados": [
+            "150.20.404",
             "350.50.003",
-            "350.50.002"
+            "350.50.002",
+            "500.10.001"
         ],
         "proRel": [
+            "eSintetizadoPor",
             "eSucessorDe",
-            "eSintetizadoPor"
+            "eSintetizadoPor",
+            "eSuplementoPara"
         ],
         "pca": {
             "valores": 10,
@@ -9588,27 +9614,27 @@
         "descricao": "Ação de subscrição de contribuição ou entrega capitalizável em conta individual, nominativa, convertida em unidades de participação, sob a forma de certificado de reforma ou de poupança específica para o pagamento das compensações. Inicia com a adesão ao regime público de capitalização ou ao fundo de compensação do trabalho e termina com a cessação da adesão ou do pagamento da compensação. Inclui o controlo dos pagamentos relativos às subscrições e dos reembolsos relativos ao resgate das unidades de participação.",
         "notasAp": [
             {
-                "idNota": "nota_350.50.100_c0a66b440804",
+                "idNota": "nota_350.50.100_4cf586c76668",
                 "nota": "Regime Público de Capitalização (RPC), subscrição de unidades de participação"
             },
             {
-                "idNota": "nota_350.50.100_e99e38f6a729",
+                "idNota": "nota_350.50.100_f6f4288d59cf",
                 "nota": "Fundo de Compensação de Trabalho (FCT), subscrição de unidades de participação"
             },
             {
-                "idNota": "nota_350.50.100_4139bb2764fe",
+                "idNota": "nota_350.50.100_3f94a1be5a60",
                 "nota": "Fundo dos Certificados de Reforma (FCR), subscrição de unidades de participação"
             },
             {
-                "idNota": "nota_350.50.100_cd1f19d385ff",
+                "idNota": "nota_350.50.100_ca5aadf6cb20",
                 "nota": "Regime Público de Capitalização (RPC), resgate de unidades de participação"
             },
             {
-                "idNota": "nota_350.50.100_27fed351e3df",
+                "idNota": "nota_350.50.100_de553ade805b",
                 "nota": "Fundo de Compensação de Trabalho (FCT), resgate de unidades de participação"
             },
             {
-                "idNota": "nota_350.50.100_9e06542de28f",
+                "idNota": "nota_350.50.100_4992a5e82dbf",
                 "nota": "Fundo dos Certificados de Reforma (FCR), resgate de unidades de participação"
             }
         ],
@@ -9635,12 +9661,20 @@
         ],
         "processosRelacionados": [
             "150.20.404",
+            "150.40.001",
+            "150.40.500",
+            "300.30.008",
             "350.30.001",
+            "500.10.001",
             "650.10.017"
         ],
         "proRel": [
             "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
             "eCruzadoCom",
+            "eSuplementoPara",
             "eCruzadoCom"
         ],
         "pca": {

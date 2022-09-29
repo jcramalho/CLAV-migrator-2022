@@ -8,29 +8,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :lc1 ;
 	:descricao 'Relativo à definição e monitorização/avaliação de políticas, planos e programas, tanto de âmbito nacional, regional ou local, como de âmbito organizacional, no que se inclui a elaboração de estudos e relatórios de apoio à decisão política e de avaliação dos instrumentos de planeamento estratégico. Inclui a produção de informações estratégicas e de segurança e a produção de informação estatística.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150_f19ae1c402db
-:nota_150_f19ae1c402db rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150_0988f62b09b7
+:nota_150_0988f62b09b7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Todos os processos de planeamento, incluindo os que incidem sobre a gestão de recursos".
 
-:c150 :temNotaAplicacao :nota_150_f19ae1c402db .
+:c150 :temNotaAplicacao :nota_150_0988f62b09b7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150_2657300e6779
-:nota_150_2657300e6779 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150_63dc6811a93e
+:nota_150_63dc6811a93e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Os planos, programas e orientações de política são frequentemente fixados, na sua versão final, em diplomas jurídico-normativos (o próprio orçamento do Estado, aprovado pelo Governo, é presente à Assembleia da República como projeto de Lei). Quando se verifique este tipo de situação, devem ser aqui considerados apenas os trabalhos técnicos preparatórios do plano, programa ou política em causa".
 
-:c150 :temNotaAplicacao :nota_150_2657300e6779 .
+:c150 :temNotaAplicacao :nota_150_63dc6811a93e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150_6fd78a415f57
-:nota_150_6fd78a415f57 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150_1b84119da532
+:nota_150_1b84119da532 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A apresentação, à entidade competente, de qualquer iniciativa jurídico-normativa, bem como os subsequentes procedimentos inerentes à produção da norma, até à respetiva publicação oficial, devem ser considerados em \"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\" (100.10)".
 
-:c150 :temNotaExclusao :nota_150_6fd78a415f57 .
+:c150 :temNotaExclusao :nota_150_1b84119da532 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c150.10
@@ -42,109 +42,109 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150 ;
 	:descricao 'Compreende a elaboração, monitorização e revisão dos planos ou programas que definem as políticas públicas globais e setoriais, da competência do Governo ou dos organismos, no que se incluem os trabalhos técnicos de Comissões ou outras estruturas envolvidas na elaboração destes instrumentos. Inclui os processos de diálogo social normalmente protagonizados pelas confederações patronais, confederações sindicais e Governo, conducentes à celebração de acordos no quadro da concertação social. Inclui, igualmente, os processos de reuniões de órgãos de Direção, de gestão, de administração e de aconselhamento. Inclui, ainda, a celebração e acompanhamento de acordos de cooperação interinstitucional não subordinados à execução da política externa. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_58b15237b5e9
-:nota_150.10_58b15237b5e9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_9a965347debb
+:nota_150.10_9a965347debb rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração de instrumentos de definição de políticas organizacionais".
 
-:c150.10 :temNotaAplicacao :nota_150.10_58b15237b5e9 .
+:c150.10 :temNotaAplicacao :nota_150.10_9a965347debb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_313fdb82c8fe
-:nota_150.10_313fdb82c8fe rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_40bc78d13dba
+:nota_150.10_40bc78d13dba rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Relatórios de execução de programas operacionais, de planos e de medidas concretas".
 
-:c150.10 :temNotaAplicacao :nota_150.10_313fdb82c8fe .
+:c150.10 :temNotaAplicacao :nota_150.10_40bc78d13dba .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_911e6fedff4f
-:nota_150.10_911e6fedff4f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_10323f883c4d
+:nota_150.10_10323f883c4d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração de instrumentos de ordenamento territorial".
 
-:c150.10 :temNotaAplicacao :nota_150.10_911e6fedff4f .
+:c150.10 :temNotaAplicacao :nota_150.10_10323f883c4d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_27bf38bbebc3
-:nota_150.10_27bf38bbebc3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_eba6b6edb67a
+:nota_150.10_eba6b6edb67a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Estudos ou relatórios de observação/monitorização de políticas públicas".
 
-:c150.10 :temNotaAplicacao :nota_150.10_27bf38bbebc3 .
+:c150.10 :temNotaAplicacao :nota_150.10_eba6b6edb67a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_916df9d1b668
-:nota_150.10_916df9d1b668 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_a25a2feee248
+:nota_150.10_a25a2feee248 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias para reformas da Administração".
 
-:c150.10 :temNotaAplicacao :nota_150.10_916df9d1b668 .
+:c150.10 :temNotaAplicacao :nota_150.10_a25a2feee248 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_a35309c4db8b
-:nota_150.10_a35309c4db8b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_1fe7aceee282
+:nota_150.10_1fe7aceee282 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processos de reuniões de conselhos diretivos".
 
-:c150.10 :temNotaAplicacao :nota_150.10_a35309c4db8b .
+:c150.10 :temNotaAplicacao :nota_150.10_1fe7aceee282 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_d2c61a22a015
-:nota_150.10_d2c61a22a015 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_29c499c6557f
+:nota_150.10_29c499c6557f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processos de reuniões de conselhos administrativos".
 
-:c150.10 :temNotaAplicacao :nota_150.10_d2c61a22a015 .
+:c150.10 :temNotaAplicacao :nota_150.10_29c499c6557f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_1276a30986a3
-:nota_150.10_1276a30986a3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_f7acd684e76c
+:nota_150.10_f7acd684e76c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processos de reuniões de órgãos autárquicos".
 
-:c150.10 :temNotaAplicacao :nota_150.10_1276a30986a3 .
+:c150.10 :temNotaAplicacao :nota_150.10_f7acd684e76c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_452cdbc5a12c
-:nota_150.10_452cdbc5a12c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_ae6175edc44f
+:nota_150.10_ae6175edc44f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processos de reuniões de órgãos de gestão e administração".
 
-:c150.10 :temNotaAplicacao :nota_150.10_452cdbc5a12c .
+:c150.10 :temNotaAplicacao :nota_150.10_ae6175edc44f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_afdca046b645
-:nota_150.10_afdca046b645 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_3be85a1f8b38
+:nota_150.10_3be85a1f8b38 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processos de reuniões de conselhos setoriais".
 
-:c150.10 :temNotaAplicacao :nota_150.10_afdca046b645 .
+:c150.10 :temNotaAplicacao :nota_150.10_3be85a1f8b38 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_244679843130
-:nota_150.10_244679843130 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_d2b3045ed215
+:nota_150.10_d2b3045ed215 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os instrumentos de política que resultam de entendimentos supranacionais (por exemplo, com incidência nos países da União Europeia, ou com incidência em Portugal e outro país) devem ser considerados em \"Execução da política externa/ Definição de políticas conjuntas e dos instrumentos de regulação\" (200.10)".
 
-:c150.10 :temNotaExclusao :nota_150.10_244679843130 .
+:c150.10 :temNotaExclusao :nota_150.10_d2b3045ed215 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_253775608cda
-:nota_150.10_253775608cda rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_19c0d69a706c
+:nota_150.10_19c0d69a706c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A negociação e celebração de acordos de cooperação interinstitucional estabelecidos no quadro das relações internacionais devem ser considerados em \"Execução da política externa/ Definição de políticas conjuntas e dos instrumentos de regulação\" (200.10), ainda que celebrados entre organizações congéneres".
 
-:c150.10 :temNotaExclusao :nota_150.10_253775608cda .
+:c150.10 :temNotaExclusao :nota_150.10_19c0d69a706c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_cb86e1465a3e
-:nota_150.10_cb86e1465a3e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10_86c3df1d1f99
+:nota_150.10_86c3df1d1f99 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A execução de projetos de cooperação interinstitucional deve ser considerada no âmbito da função que cumpre (por exemplo, projetos de investigação científica devem ser considerados em \"Prestação de Serviços técnicos e científicos, investigação e desenvolvimento\" (800), projetos de formação em \"Prestação de serviços de ensino e formação\" (750), projetos de cooperação para o desenvolvimento em \"Execução da política externa\" (200))".
 
-:c150.10 :temNotaExclusao :nota_150.10_cb86e1465a3e .
+:c150.10 :temNotaExclusao :nota_150.10_86c3df1d1f99 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c150.10.001
@@ -156,29 +156,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.10 ;
 	:descricao 'Elaboração das linhas de desenvolvimento estratégico de âmbito nacional, regional e local, com os projetos e ações a realizar a médio e longo prazo e respetiva previsão da despesa e das atividades mais relevantes da gestão. Inicia com a elaboração da proposta e termina com o envio da versão aprovada para publicitação. Inclui propostas de alteração apresentadas pelo órgão executivo, revisões, remissão de cópia às entidades competentes e submissão da versão final à entidade competente para decisão.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.001_49375de6af39
-:nota_150.10.001_49375de6af39 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.001_05643a96854a
+:nota_150.10.001_05643a96854a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição da estratégia de topo para o desenvolvimento de vários domínios, vertida num único documento".
 
-:c150.10.001 :temNotaAplicacao :nota_150.10.001_49375de6af39 .
+:c150.10.001 :temNotaAplicacao :nota_150.10.001_05643a96854a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.001_dbe1b27a7322
-:nota_150.10.001_dbe1b27a7322 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.001_9978076f6f1e
+:nota_150.10.001_9978076f6f1e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aprovação, promulgação e publicação das Grandes Opções do Plano do Estado (GOP's) devem ser consideradas em 100.10.001 – Produção e comunicação de atos legislativos".
 
-:c150.10.001 :temNotaExclusao :nota_150.10.001_dbe1b27a7322 .
+:c150.10.001 :temNotaExclusao :nota_150.10.001_9978076f6f1e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.001_5970cf0e8e4b
-:nota_150.10.001_5970cf0e8e4b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.001_5661fd6dd6a1
+:nota_150.10.001_5661fd6dd6a1 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de planos estratégicos municipais a entidades privadas deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c150.10.001 :temNotaExclusao :nota_150.10.001_5970cf0e8e4b .
+:c150.10.001 :temNotaExclusao :nota_150.10.001_5661fd6dd6a1 .
 
 :c150.10.001 :processoTipoVC :vc_processoTipo_pc .
 :c150.10.001 :processoTransversal "S" .
@@ -328,149 +328,149 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.10 ;
 	:descricao 'Definição de estratégias, princípios e programas de topo para o desenvolvimento de políticas específicas da administração nacional, regional e local, aplicados a todos os setores de atividade, independentemente da sua natureza jurídica, a realizar a médio e longo prazo. Inicia com a proposta de elaboração ou revisão e termina com o envio da versão aprovada para publicitação. Inclui diagnóstico da situação sobre o qual incide a política setorial definida, previsão das formas de operacionalização das políticas, consulta de entidades, discussão pública (quando devido) e redação da versão ou proposta final e submissão da versão final à entidade competente para a decisão. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_8ca121a8c0bb
-:nota_150.10.100_8ca121a8c0bb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_5e49f7cddc0a
+:nota_150.10.100_5e49f7cddc0a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo para o domínio da agricultura".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_8ca121a8c0bb .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_5e49f7cddc0a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_09330c5c46f2
-:nota_150.10.100_09330c5c46f2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_b7c9867106ec
+:nota_150.10.100_b7c9867106ec rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo para o domínio do comércio".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_09330c5c46f2 .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_b7c9867106ec .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_711fa3692982
-:nota_150.10.100_711fa3692982 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_fbd069116a6e
+:nota_150.10.100_fbd069116a6e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo para o domínio das comunicações".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_711fa3692982 .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_fbd069116a6e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_247cef28859b
-:nota_150.10.100_247cef28859b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_fd7599fdbd51
+:nota_150.10.100_fd7599fdbd51 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo para o domínio do desporto".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_247cef28859b .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_fd7599fdbd51 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_568247484c25
-:nota_150.10.100_568247484c25 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_b415f8286c85
+:nota_150.10.100_b415f8286c85 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo para o domínio da educação".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_568247484c25 .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_b415f8286c85 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_bd290bf7941f
-:nota_150.10.100_bd290bf7941f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_90bd1dfbf265
+:nota_150.10.100_90bd1dfbf265 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo para o domínio da energia e recursos geológicos".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_bd290bf7941f .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_90bd1dfbf265 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_b7210c50fa8d
-:nota_150.10.100_b7210c50fa8d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_3d15b5762284
+:nota_150.10.100_3d15b5762284 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo para o domínio das florestas e ambiente".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_b7210c50fa8d .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_3d15b5762284 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_7f3bbb3ca8c5
-:nota_150.10.100_7f3bbb3ca8c5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_6204f7402280
+:nota_150.10.100_6204f7402280 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo para o domínio da habitação".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_7f3bbb3ca8c5 .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_6204f7402280 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_dff5b64db0cf
-:nota_150.10.100_dff5b64db0cf rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_65c3327fa52b
+:nota_150.10.100_65c3327fa52b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo para o domínio da indústria".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_dff5b64db0cf .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_65c3327fa52b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_1c910c58e2c3
-:nota_150.10.100_1c910c58e2c3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_bbf14613849d
+:nota_150.10.100_bbf14613849d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo para o domínio da saúde".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_1c910c58e2c3 .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_bbf14613849d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_2e60d0f007d4
-:nota_150.10.100_2e60d0f007d4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_178f7e767aeb
+:nota_150.10.100_178f7e767aeb rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo para o domínio dos transportes".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_2e60d0f007d4 .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_178f7e767aeb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_5043ed901240
-:nota_150.10.100_5043ed901240 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_eb2384b4e5cc
+:nota_150.10.100_eb2384b4e5cc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo para o domínio do turismo".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_5043ed901240 .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_eb2384b4e5cc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_e324f92e443b
-:nota_150.10.100_e324f92e443b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_0ff7281e5965
+:nota_150.10.100_0ff7281e5965 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo para o ordenamento do território".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_e324f92e443b .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_0ff7281e5965 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_0a5249706d33
-:nota_150.10.100_0a5249706d33 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_8d355f3cfb04
+:nota_150.10.100_8d355f3cfb04 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo no domínio das pescas".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_0a5249706d33 .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_8d355f3cfb04 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_320afe93d574
-:nota_150.10.100_320afe93d574 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_70a01d3b74d5
+:nota_150.10.100_70a01d3b74d5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo no domínio da defesa e segurança do território".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_320afe93d574 .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_70a01d3b74d5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_9745eb1e4bab
-:nota_150.10.100_9745eb1e4bab rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_dd495db650d7
+:nota_150.10.100_dd495db650d7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo no domínio da cultura e património".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_9745eb1e4bab .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_dd495db650d7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_f5ab48377dde
-:nota_150.10.100_f5ab48377dde rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_aae90ec7cda3
+:nota_150.10.100_aae90ec7cda3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de estratégias de topo no domínio da economia e finanças".
 
-:c150.10.100 :temNotaAplicacao :nota_150.10.100_f5ab48377dde .
+:c150.10.100 :temNotaAplicacao :nota_150.10.100_aae90ec7cda3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_1b543f16d345
-:nota_150.10.100_1b543f16d345 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.100_d21e3268e72e
+:nota_150.10.100_d21e3268e72e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A elaboração de instrumentos de operacionalização deve ser considerada, respetivamente em 150.10.200 – Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional, 150.10.300 – Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito regional e 150.10.400 – Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito municipal e intermunicipal".
 
-:c150.10.100 :temNotaExclusao :nota_150.10.100_1b543f16d345 .
+:c150.10.100 :temNotaExclusao :nota_150.10.100_d21e3268e72e .
 
 :c150.10.100 :processoTipoVC :vc_processoTipo_pc .
 :c150.10.100 :processoTransversal "S" .
@@ -693,29 +693,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.10 ;
 	:descricao 'Definição de planos ou outras ferramentas operacionais que regulam a organização do território e de todos os setores de atividade nele desenvolvido de forma direta ou indireta de abrangência nacional. Inicia com a decisão da elaboração do instrumento e termina com a elaboração da versão final da proposta ou comunicação da aprovação pelo órgão competente. Inclui elaboração de versões do instrumento, concertação com entidades, discussão pública e divulgação do resultado da discussão pública. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.200_eaa06f12fa55
-:nota_150.10.200_eaa06f12fa55 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.200_e69cab15b2fe
+:nota_150.10.200_e69cab15b2fe rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração, revisão e alteração de planos especiais e setoriais de ordenamento do território de âmbito nacional".
 
-:c150.10.200 :temNotaAplicacao :nota_150.10.200_eaa06f12fa55 .
+:c150.10.200 :temNotaAplicacao :nota_150.10.200_e69cab15b2fe .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.200_e2bacbe03de1
-:nota_150.10.200_e2bacbe03de1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.200_1655d160221c
+:nota_150.10.200_1655d160221c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração, revisão e alteração de planos operacionais relativos a qualquer setor de atividade de âmbito nacional".
 
-:c150.10.200 :temNotaAplicacao :nota_150.10.200_e2bacbe03de1 .
+:c150.10.200 :temNotaAplicacao :nota_150.10.200_1655d160221c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.200_1bd0609ab26e
-:nota_150.10.200_1bd0609ab26e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.200_8c976b7b53c3
+:nota_150.10.200_8c976b7b53c3 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aprovação pelo órgão deliberativo, bem como a publicação dos instrumentos de planeamento que assumem a forma de regulamento geral, devem ser consideradas em 100.10.200 – Produção e comunicação de atos regulamentares gerais".
 
-:c150.10.200 :temNotaExclusao :nota_150.10.200_1bd0609ab26e .
+:c150.10.200 :temNotaExclusao :nota_150.10.200_8c976b7b53c3 .
 
 :c150.10.200 :processoTipoVC :vc_processoTipo_pc .
 :c150.10.200 :processoTransversal "S" .
@@ -875,21 +875,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.10 ;
 	:descricao 'Definição de planos ou outras ferramentas operacionais que regulam a organização do território e de todos os setores de atividade nele desenvolvido de forma direta ou indireta de abrangência regional. Inicia com a decisão da elaboração do instrumento e termina com a elaboração da versão final da proposta (no caso de instrumentos que originam regulamento) ou comunicação da aprovação pelo órgão competente. Inclui elaboração de versões do instrumento, concertação com entidades, discussão pública e divulgação do resultado da discussão pública. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.300_fcc9b05b92fe
-:nota_150.10.300_fcc9b05b92fe rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.300_799bf99b775f
+:nota_150.10.300_799bf99b775f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração, revisão e alteração de planos especiais e setoriais de ordenamento do território de âmbito regional".
 
-:c150.10.300 :temNotaAplicacao :nota_150.10.300_fcc9b05b92fe .
+:c150.10.300 :temNotaAplicacao :nota_150.10.300_799bf99b775f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.300_c48babc08257
-:nota_150.10.300_c48babc08257 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.300_6c285f8a0375
+:nota_150.10.300_6c285f8a0375 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aprovação pelo órgão deliberativo, bem como a publicação dos instrumentos de planeamento que assumem a forma de regulamento geral devem ser consideradas em 100.10.200 – Produção e comunicação de atos regulamentares gerais".
 
-:c150.10.300 :temNotaExclusao :nota_150.10.300_c48babc08257 .
+:c150.10.300 :temNotaExclusao :nota_150.10.300_6c285f8a0375 .
 
 :c150.10.300 :processoTipoVC :vc_processoTipo_pc .
 :c150.10.300 :processoTransversal "S" .
@@ -1025,53 +1025,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.10 ;
 	:descricao 'Definição de planos ou outras ferramentas operacionais que regulam a organização do território e de todos os setores de atividade nele desenvolvido de forma direta ou indireta de abrangência local, municipal e intermunicipal. Inicia com a decisão da elaboração do instrumento e termina com a elaboração da versão final da proposta (no caso de instrumentos que originam regulamento) ou comunicação da aprovação pelo órgão competente. Inclui elaboração de versões do instrumento, concertação com entidades, discussão pública e divulgação do resultado da discussão pública.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.400_6e19093153b9
-:nota_150.10.400_6e19093153b9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.400_b5e5e53231ea
+:nota_150.10.400_b5e5e53231ea rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração, revisão e alteração de planos especiais e setoriais de ordenamento do território de âmbito municipal".
 
-:c150.10.400 :temNotaAplicacao :nota_150.10.400_6e19093153b9 .
+:c150.10.400 :temNotaAplicacao :nota_150.10.400_b5e5e53231ea .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.400_6e393a227be8
-:nota_150.10.400_6e393a227be8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.400_69563194ffe9
+:nota_150.10.400_69563194ffe9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração, revisão e alteração de planos operacionais relativos a qualquer setor de atividade de âmbito municipal".
 
-:c150.10.400 :temNotaAplicacao :nota_150.10.400_6e393a227be8 .
+:c150.10.400 :temNotaAplicacao :nota_150.10.400_69563194ffe9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.400_92e33e34e8cf
-:nota_150.10.400_92e33e34e8cf rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.400_6b1eeeab0976
+:nota_150.10.400_6b1eeeab0976 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Mapas estratégicos de ruídos e planos de ação municipal".
 
-:c150.10.400 :temNotaAplicacao :nota_150.10.400_92e33e34e8cf .
+:c150.10.400 :temNotaAplicacao :nota_150.10.400_6b1eeeab0976 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.400_e70f4329d13e
-:nota_150.10.400_e70f4329d13e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.400_d85d7dfbc626
+:nota_150.10.400_d85d7dfbc626 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração, revisão e alteração de planos operacionais relativos a qualquer setor de atividade de âmbito intermunicipal".
 
-:c150.10.400 :temNotaAplicacao :nota_150.10.400_e70f4329d13e .
+:c150.10.400 :temNotaAplicacao :nota_150.10.400_d85d7dfbc626 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.400_8864767ee0a1
-:nota_150.10.400_8864767ee0a1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.400_0dfda5947fec
+:nota_150.10.400_0dfda5947fec rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aprovação pelo órgão deliberativo, bem como a publicação dos instrumentos de planeamento que assumem a forma de regulamento geral devem ser consideradas em 100.10.400 – Produção e comunicação de atos regulamentares locais".
 
-:c150.10.400 :temNotaExclusao :nota_150.10.400_8864767ee0a1 .
+:c150.10.400 :temNotaExclusao :nota_150.10.400_0dfda5947fec .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.400_e99654b2537f
-:nota_150.10.400_e99654b2537f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.400_89c137d86e27
+:nota_150.10.400_89c137d86e27 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A suspensão do plano diretor municipal deverá ser considerada em 100.10.400 – Produção e comunicação de atos regulamentares locais".
 
-:c150.10.400 :temNotaExclusao :nota_150.10.400_e99654b2537f .
+:c150.10.400 :temNotaExclusao :nota_150.10.400_89c137d86e27 .
 
 :c150.10.400 :processoTipoVC :vc_processoTipo_pe .
 :c150.10.400 :processoTransversal "S" .
@@ -1181,93 +1181,93 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.10 ;
 	:descricao 'Negociação e formalização de protocolos, acordos, convénios, parcerias e outros instrumentos de cooperação institucional com entidades nacionais. Inicia com a proposta de celebração e termina com a assinatura formal do acordo. Inclui proposta do texto, discussão, negociação e redação final. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.500_06c00a4fe2af
-:nota_150.10.500_06c00a4fe2af rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.500_58671489b30a
+:nota_150.10.500_58671489b30a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Protocolos de cooperação".
 
-:c150.10.500 :temNotaAplicacao :nota_150.10.500_06c00a4fe2af .
+:c150.10.500 :temNotaAplicacao :nota_150.10.500_58671489b30a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.500_14b8ce6a51d8
-:nota_150.10.500_14b8ce6a51d8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.500_4bc7e57345c1
+:nota_150.10.500_4bc7e57345c1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acordos de colaboração".
 
-:c150.10.500 :temNotaAplicacao :nota_150.10.500_14b8ce6a51d8 .
+:c150.10.500 :temNotaAplicacao :nota_150.10.500_4bc7e57345c1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.10.500_907d4ef56af8
-:exemplo_150.10.500_907d4ef56af8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.10.500_8c215ce611d2
+:exemplo_150.10.500_8c215ce611d2 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Protocolos de cooperação na área técnica e/ou científica".
 
-:c150.10.500 :temExemploNA :exemplo_150.10.500_907d4ef56af8 .
+:c150.10.500 :temExemploNA :exemplo_150.10.500_8c215ce611d2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.10.500_f4b7fdc620b7
-:exemplo_150.10.500_f4b7fdc620b7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.10.500_46fd26e7fbe4
+:exemplo_150.10.500_46fd26e7fbe4 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Protocolos de cooperação na área da Segurança Pública".
 
-:c150.10.500 :temExemploNA :exemplo_150.10.500_f4b7fdc620b7 .
+:c150.10.500 :temExemploNA :exemplo_150.10.500_46fd26e7fbe4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.10.500_bb3c5a76f097
-:exemplo_150.10.500_bb3c5a76f097 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.10.500_9bfb4246c34f
+:exemplo_150.10.500_9bfb4246c34f rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Protocolos de cooperação com Organizações Não Governamentais de Ambiente (ONGA)".
 
-:c150.10.500 :temExemploNA :exemplo_150.10.500_bb3c5a76f097 .
+:c150.10.500 :temExemploNA :exemplo_150.10.500_9bfb4246c34f .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.10.500_2f750ca1fcc6
-:exemplo_150.10.500_2f750ca1fcc6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.10.500_5916ab8488a1
+:exemplo_150.10.500_5916ab8488a1 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Protocolos de cooperação com Associações Mutualistas no âmbito de situações de emergência radiológica e nuclear".
 
-:c150.10.500 :temExemploNA :exemplo_150.10.500_2f750ca1fcc6 .
+:c150.10.500 :temExemploNA :exemplo_150.10.500_5916ab8488a1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.10.500_2d551766820f
-:exemplo_150.10.500_2d551766820f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.10.500_07bda97c6c8a
+:exemplo_150.10.500_07bda97c6c8a rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Protocolos de colaboração para a criação e divulgação de conteúdos institucionais".
 
-:c150.10.500 :temExemploNA :exemplo_150.10.500_2d551766820f .
+:c150.10.500 :temExemploNA :exemplo_150.10.500_07bda97c6c8a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.500_8775b91d6004
-:nota_150.10.500_8775b91d6004 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.500_c837ce84ae3b
+:nota_150.10.500_c837ce84ae3b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os acordos entre instituições internacionais devem ser considerados em 200.10.800 – Celebração de acordos e outros atos internacionais".
 
-:c150.10.500 :temNotaExclusao :nota_150.10.500_8775b91d6004 .
+:c150.10.500 :temNotaExclusao :nota_150.10.500_c837ce84ae3b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.500_97e419c1cc8f
-:nota_150.10.500_97e419c1cc8f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.500_856af40149b9
+:nota_150.10.500_856af40149b9 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os acordos relativos à prestação de serviços, ainda que intitulados acordo de colaboração ou protocolo de colaboração, devem ser considerados em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c150.10.500 :temNotaExclusao :nota_150.10.500_97e419c1cc8f .
+:c150.10.500 :temNotaExclusao :nota_150.10.500_856af40149b9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.500_cac35d5e6d06
-:nota_150.10.500_cac35d5e6d06 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.500_c54a1d430287
+:nota_150.10.500_c54a1d430287 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O estabelecimento de convenções com operadores privados deve ser considerados em 300.10.008 – Estabelecimento de convenções com operadores privados".
 
-:c150.10.500 :temNotaExclusao :nota_150.10.500_cac35d5e6d06 .
+:c150.10.500 :temNotaExclusao :nota_150.10.500_c54a1d430287 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.500_5ed71d5a5f5d
-:nota_150.10.500_5ed71d5a5f5d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.500_2f53ef526f95
+:nota_150.10.500_2f53ef526f95 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A cerimónia de assinatura formal do documento deve ser considerada em 900.20.601 – Organização de cerimónias de tomada de posse e assinatura de documentos".
 
-:c150.10.500 :temNotaExclusao :nota_150.10.500_5ed71d5a5f5d .
+:c150.10.500 :temNotaExclusao :nota_150.10.500_2f53ef526f95 .
 
 :c150.10.500 :processoTipoVC :vc_processoTipo_pc .
 :c150.10.500 :processoTransversal "S" .
@@ -1466,29 +1466,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.10 ;
 	:descricao 'Promoção do diálogo tripartido e concertação entre os parceiros sociais e o Governo com vista à celebração de pactos e compromissos. Inicia com a apresentação da proposta por parte do Governo e termina com a celebração do acordo ou compromisso. Inclui consulta de entidades, apresentação de contrapropostas dos parceiros sociais e negociação. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.501_17f1a30fa1b2
-:nota_150.10.501_17f1a30fa1b2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.501_582b01c111a1
+:nota_150.10.501_582b01c111a1 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As reuniões do Conselho Permanente de Concertação Social devem ser consideradas em 150.10.702 – Reunião de órgãos e estruturas operacionais e de aconselhamento".
 
-:c150.10.501 :temNotaExclusao :nota_150.10.501_17f1a30fa1b2 .
+:c150.10.501 :temNotaExclusao :nota_150.10.501_582b01c111a1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.501_dee3d4e352c6
-:nota_150.10.501_dee3d4e352c6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.501_2376c625d411
+:nota_150.10.501_2376c625d411 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os acordos de negociação coletiva de trabalho devem ser considerados em 250.30.001 – Negociação de convenções coletivas de trabalho".
 
-:c150.10.501 :temNotaExclusao :nota_150.10.501_dee3d4e352c6 .
+:c150.10.501 :temNotaExclusao :nota_150.10.501_2376c625d411 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.501_bfaaee727a86
-:nota_150.10.501_bfaaee727a86 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.501_4c7cbbfc6bd2
+:nota_150.10.501_4c7cbbfc6bd2 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pareceres do Conselho Económico e Social (CES) devem ser classificados no âmbito dos respetivos processos".
 
-:c150.10.501 :temNotaExclusao :nota_150.10.501_bfaaee727a86 .
+:c150.10.501 :temNotaExclusao :nota_150.10.501_4c7cbbfc6bd2 .
 
 :c150.10.501 :processoTipoVC :vc_processoTipo_pe .
 :c150.10.501 :processoTransversal "S" .
@@ -1642,6 +1642,8 @@
 :c150.10.600 :temLegislacao :leg_Resolução_do_Conselho_de_Ministros_43_99 .
 :c150.10.600 :temLegislacao :leg_DL_22_2013 .
 :c150.10.600 :temLegislacao :leg_Lei_98_97 .
+:c150.10.600 :temRelProc :c100.10.200 .
+:c150.10.600 :eComplementarDe :c100.10.200 .
 :c150.10.600 :temRelProc :c150.10.100 .
 :c150.10.600 :eComplementarDe :c150.10.100 .
 :c150.10.600 :temRelProc :c150.10.200 .
@@ -1764,45 +1766,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.10 ;
 	:descricao 'Identificação, qualificação e atualização periódica de entidades públicas ou privadas com vista a habilitar os órgãos de governo próprios com a informação indispensável para a definição das políticas de Estado. Inicia com o carregamento e atualização de dados pelas entidades competentes e termina com a disponibilização dos dados. Inclui a organização, tratamento e gestão dos dados.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.601_d4f24f4a5dd1
-:nota_150.10.601_d4f24f4a5dd1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.601_2b1189ead2d2
+:nota_150.10.601_2b1189ead2d2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Sistema de Informação da Organização do Estado".
 
-:c150.10.601 :temNotaAplicacao :nota_150.10.601_d4f24f4a5dd1 .
+:c150.10.601 :temNotaAplicacao :nota_150.10.601_2b1189ead2d2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.601_a092dbc7d095
-:nota_150.10.601_a092dbc7d095 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.601_1d8304805642
+:nota_150.10.601_1d8304805642 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Relatório anual referente à informação sobre a atividade social de entidades empresariais (Relatório Único)".
 
-:c150.10.601 :temNotaAplicacao :nota_150.10.601_a092dbc7d095 .
+:c150.10.601 :temNotaAplicacao :nota_150.10.601_1d8304805642 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.601_2535f47644d5
-:nota_150.10.601_2535f47644d5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.601_acb4632f6d1c
+:nota_150.10.601_acb4632f6d1c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Caracterização de entidades (Anterior PN 150.20.402)".
 
-:c150.10.601 :temNotaAplicacao :nota_150.10.601_2535f47644d5 .
+:c150.10.601 :temNotaAplicacao :nota_150.10.601_acb4632f6d1c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.601_82ffa0d08dc6
-:nota_150.10.601_82ffa0d08dc6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.601_eb820f31a6e8
+:nota_150.10.601_eb820f31a6e8 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A caracterização de entidades no âmbito da prestação de bens e serviços deve ser considerada em 300.50.803 – Identificação de fornecedores e de prestadores de serviços".
 
-:c150.10.601 :temNotaExclusao :nota_150.10.601_82ffa0d08dc6 .
+:c150.10.601 :temNotaExclusao :nota_150.10.601_eb820f31a6e8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.601_963f6f0a8629
-:nota_150.10.601_963f6f0a8629 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.601_d50f874227ce
+:nota_150.10.601_d50f874227ce rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A criação e atualização de contactos institucionais deve ser considerada em 900.20.600 – Criação e atualização de contactos institucionais".
 
-:c150.10.601 :temNotaExclusao :nota_150.10.601_963f6f0a8629 .
+:c150.10.601 :temNotaExclusao :nota_150.10.601_d50f874227ce .
 
 :c150.10.601 :processoTipoVC :vc_processoTipo_pc .
 :c150.10.601 :processoTransversal "S" .
@@ -1909,149 +1911,149 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.10 ;
 	:descricao 'Apresentação, discussão e deliberação de todas as matérias e propostas submetidas aos órgãos com funções deliberativas. Inicia com a apresentação de propostas e termina com aprovação das decisões. Inclui convocatória, convite ou autorização para participar na reunião, definição da ordem de trabalhos, apresentação de pedidos de informação adicional, preparação de propostas de deliberação, produção de recomendações, apresentação de moções, controlo de presenças, gestão das intervenções, registo da discussão, das votações e das declarações de voto e elaboração da ata em minuta.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_69ee36bcce33
-:nota_150.10.700_69ee36bcce33 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_d7bbd1fd5373
+:nota_150.10.700_d7bbd1fd5373 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões ordinárias, extraordinárias e descentralizadas".
 
-:c150.10.700 :temNotaAplicacao :nota_150.10.700_69ee36bcce33 .
+:c150.10.700 :temNotaAplicacao :nota_150.10.700_d7bbd1fd5373 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_2987b5804b80
-:nota_150.10.700_2987b5804b80 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_f93e98db54bd
+:nota_150.10.700_f93e98db54bd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho de Ministros".
 
-:c150.10.700 :temNotaAplicacao :nota_150.10.700_2987b5804b80 .
+:c150.10.700 :temNotaAplicacao :nota_150.10.700_f93e98db54bd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_7166d6fb0b68
-:nota_150.10.700_7166d6fb0b68 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_d4cb92c873b3
+:nota_150.10.700_d4cb92c873b3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões dos Secretários de Estado".
 
-:c150.10.700 :temNotaAplicacao :nota_150.10.700_7166d6fb0b68 .
+:c150.10.700 :temNotaAplicacao :nota_150.10.700_d4cb92c873b3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_8dd2fdd773f3
-:nota_150.10.700_8dd2fdd773f3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_17e225eb271b
+:nota_150.10.700_17e225eb271b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões de Assembleia Intermunicipal".
 
-:c150.10.700 :temNotaAplicacao :nota_150.10.700_8dd2fdd773f3 .
+:c150.10.700 :temNotaAplicacao :nota_150.10.700_17e225eb271b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_dc8234bd7757
-:nota_150.10.700_dc8234bd7757 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_27364b98794b
+:nota_150.10.700_27364b98794b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões de Assembleia de Freguesia".
 
-:c150.10.700 :temNotaAplicacao :nota_150.10.700_dc8234bd7757 .
+:c150.10.700 :temNotaAplicacao :nota_150.10.700_27364b98794b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_ca0ba4a19bcf
-:nota_150.10.700_ca0ba4a19bcf rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_15beb8cc95db
+:nota_150.10.700_15beb8cc95db rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões de Assembleia Municipal".
 
-:c150.10.700 :temNotaAplicacao :nota_150.10.700_ca0ba4a19bcf .
+:c150.10.700 :temNotaAplicacao :nota_150.10.700_15beb8cc95db .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_98a5cd36e669
-:nota_150.10.700_98a5cd36e669 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_d39aa8ee0bc0
+:nota_150.10.700_d39aa8ee0bc0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho Metropolitano".
 
-:c150.10.700 :temNotaAplicacao :nota_150.10.700_98a5cd36e669 .
+:c150.10.700 :temNotaAplicacao :nota_150.10.700_d39aa8ee0bc0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_13755ed4d8e9
-:nota_150.10.700_13755ed4d8e9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_f714fa6f6e51
+:nota_150.10.700_f714fa6f6e51 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho Diretivo".
 
-:c150.10.700 :temNotaAplicacao :nota_150.10.700_13755ed4d8e9 .
+:c150.10.700 :temNotaAplicacao :nota_150.10.700_f714fa6f6e51 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_3cb733d36c6a
-:nota_150.10.700_3cb733d36c6a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_366dd8db9257
+:nota_150.10.700_366dd8db9257 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho Fiscal".
 
-:c150.10.700 :temNotaAplicacao :nota_150.10.700_3cb733d36c6a .
+:c150.10.700 :temNotaAplicacao :nota_150.10.700_366dd8db9257 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_4c858aeeeb4e
-:nota_150.10.700_4c858aeeeb4e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_bb589e92c9bc
+:nota_150.10.700_bb589e92c9bc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões da Assembleia Geral".
 
-:c150.10.700 :temNotaAplicacao :nota_150.10.700_4c858aeeeb4e .
+:c150.10.700 :temNotaAplicacao :nota_150.10.700_bb589e92c9bc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_d42a0e950d41
-:nota_150.10.700_d42a0e950d41 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_95073761ad60
+:nota_150.10.700_95073761ad60 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho Geral".
 
-:c150.10.700 :temNotaAplicacao :nota_150.10.700_d42a0e950d41 .
+:c150.10.700 :temNotaAplicacao :nota_150.10.700_95073761ad60 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_78ff806ea436
-:nota_150.10.700_78ff806ea436 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_d62a75a0b685
+:nota_150.10.700_d62a75a0b685 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho Pedagógico".
 
-:c150.10.700 :temNotaAplicacao :nota_150.10.700_78ff806ea436 .
+:c150.10.700 :temNotaAplicacao :nota_150.10.700_d62a75a0b685 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_589c09fe4933
-:nota_150.10.700_589c09fe4933 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_f322c767afab
+:nota_150.10.700_f322c767afab rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho Disciplinar".
 
-:c150.10.700 :temNotaAplicacao :nota_150.10.700_589c09fe4933 .
+:c150.10.700 :temNotaAplicacao :nota_150.10.700_f322c767afab .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_6e87bdb172c5
-:nota_150.10.700_6e87bdb172c5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_173eb8a96042
+:nota_150.10.700_173eb8a96042 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho Superior".
 
-:c150.10.700 :temNotaAplicacao :nota_150.10.700_6e87bdb172c5 .
+:c150.10.700 :temNotaAplicacao :nota_150.10.700_173eb8a96042 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_a41746e72c11
-:nota_150.10.700_a41746e72c11 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_d4751c00e948
+:nota_150.10.700_d4751c00e948 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho Científico".
 
-:c150.10.700 :temNotaAplicacao :nota_150.10.700_a41746e72c11 .
+:c150.10.700 :temNotaAplicacao :nota_150.10.700_d4751c00e948 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_869b6b64b361
-:nota_150.10.700_869b6b64b361 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_0fc55bcb7c31
+:nota_150.10.700_0fc55bcb7c31 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões da Mesa da SCM".
 
-:c150.10.700 :temNotaAplicacao :nota_150.10.700_869b6b64b361 .
+:c150.10.700 :temNotaAplicacao :nota_150.10.700_0fc55bcb7c31 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_77a257602185
-:nota_150.10.700_77a257602185 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_bd3678074e5e
+:nota_150.10.700_bd3678074e5e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A comunicação das decisões deve ser considerada no âmbito dos respetivos processos".
 
-:c150.10.700 :temNotaExclusao :nota_150.10.700_77a257602185 .
+:c150.10.700 :temNotaExclusao :nota_150.10.700_bd3678074e5e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_32045139f872
-:nota_150.10.700_32045139f872 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.700_ed82904f52f9
+:nota_150.10.700_ed82904f52f9 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As reuniões de participação nos planos: Plano de Ordenamento de Estuário (POE), Plano de Ordenamento da Orla Costeira (POOC), Plano de Gestão de Região Hidrográfica (PGRH), Plano de Bacia Hidrográfica PBH), Plano de Ordenamento das Albufeiras e Águas Públicas (POAAP), Plano Diretor Municipal (PDM), entre outros, deverão ser considerados no respetivo processo dos planos".
 
-:c150.10.700 :temNotaExclusao :nota_150.10.700_32045139f872 .
+:c150.10.700 :temNotaExclusao :nota_150.10.700_ed82904f52f9 .
 
 :c150.10.700 :processoTipoVC :vc_processoTipo_pc .
 :c150.10.700 :processoTransversal "S" .
@@ -2313,53 +2315,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.10 ;
 	:descricao 'Apresentação, discussão e deliberação de todas as matérias e propostas submetidas aos órgãos com funções executivas. Inicia com a apresentação de propostas e termina com aprovação das decisões. Inclui convocatória, convite ou autorização para participar na reunião, definição da ordem de trabalhos, apresentação de pedidos de informação adicional, preparação de propostas de deliberação, produção de recomendações, apresentação de moções, controlo de presença, gestão das intervenções, registo da discussão, das votações e das declarações de voto e elaboração da ata em minuta.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.701_7e48f8c29a49
-:nota_150.10.701_7e48f8c29a49 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.701_a0e636c5b3bb
+:nota_150.10.701_a0e636c5b3bb rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões de Câmara Municipal".
 
-:c150.10.701 :temNotaAplicacao :nota_150.10.701_7e48f8c29a49 .
+:c150.10.701 :temNotaAplicacao :nota_150.10.701_a0e636c5b3bb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.701_0d8fd44636c9
-:nota_150.10.701_0d8fd44636c9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.701_3cb304f50347
+:nota_150.10.701_3cb304f50347 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões da Comissão Executiva Metropolitana".
 
-:c150.10.701 :temNotaAplicacao :nota_150.10.701_0d8fd44636c9 .
+:c150.10.701 :temNotaAplicacao :nota_150.10.701_3cb304f50347 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.701_08b3a4ea523c
-:nota_150.10.701_08b3a4ea523c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.701_bff843b2adc3
+:nota_150.10.701_bff843b2adc3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões de Conselho de Administração de Empresas Municipais".
 
-:c150.10.701 :temNotaAplicacao :nota_150.10.701_08b3a4ea523c .
+:c150.10.701 :temNotaAplicacao :nota_150.10.701_bff843b2adc3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.701_96b8c695b370
-:nota_150.10.701_96b8c695b370 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.701_52e2a6667fe0
+:nota_150.10.701_52e2a6667fe0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões de Conselho de Administração de Serviços Municipalizados".
 
-:c150.10.701 :temNotaAplicacao :nota_150.10.701_96b8c695b370 .
+:c150.10.701 :temNotaAplicacao :nota_150.10.701_52e2a6667fe0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.701_00da6500afba
-:nota_150.10.701_00da6500afba rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.701_51cb4228f08a
+:nota_150.10.701_51cb4228f08a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões de Conselho Executivo de Comunidades Intermunicipais".
 
-:c150.10.701 :temNotaAplicacao :nota_150.10.701_00da6500afba .
+:c150.10.701 :temNotaAplicacao :nota_150.10.701_51cb4228f08a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.701_46efb1d7eb01
-:nota_150.10.701_46efb1d7eb01 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.701_722ffde729ce
+:nota_150.10.701_722ffde729ce rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões de Junta de Freguesia".
 
-:c150.10.701 :temNotaAplicacao :nota_150.10.701_46efb1d7eb01 .
+:c150.10.701 :temNotaAplicacao :nota_150.10.701_722ffde729ce .
 
 :c150.10.701 :processoTipoVC :vc_processoTipo_pc .
 :c150.10.701 :processoTransversal "S" .
@@ -2446,6 +2448,8 @@
 :c150.10.701 :eCruzadoCom :c200.30.302 .
 :c150.10.701 :temRelProc :c300.10.001 .
 :c150.10.701 :eSinteseDe :c300.10.001 .
+:c150.10.701 :temRelProc :c300.10.002 .
+:c150.10.701 :eSinteseDe :c300.10.002 .
 :c150.10.701 :temRelProc :c300.10.003 .
 :c150.10.701 :eSinteseDe :c300.10.003 .
 :c150.10.701 :temRelProc :c300.10.005 .
@@ -2602,149 +2606,149 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.10 ;
 	:descricao 'Apresentação, apreciação e deliberação de matérias em órgãos e entidades com funções operacionais, de coordenação e consultivas. Inicia com a proposta de reunião ou convocatória e termina com a apresentação de proposta, relatório, recomendação ou parecer. Inclui controlo de presença, gestão de intervenções, pedidos de documento de apoio, votação de propostas, análise e aprovação de relatório, o registo da decisão ou elaboração de ata. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_4feae35b1275
-:nota_150.10.702_4feae35b1275 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_03889469b425
+:nota_150.10.702_03889469b425 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões de órgãos consultivos".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_4feae35b1275 .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_03889469b425 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_6718e3877527
-:nota_150.10.702_6718e3877527 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_e54ddfa76fcf
+:nota_150.10.702_e54ddfa76fcf rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões de grupos de trabalho".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_6718e3877527 .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_e54ddfa76fcf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_391cb37b5d35
-:nota_150.10.702_391cb37b5d35 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_94c75104a456
+:nota_150.10.702_94c75104a456 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões de órgãos consultivos de comunidades intermunicipais".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_391cb37b5d35 .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_94c75104a456 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_aaa2a03d18ee
-:nota_150.10.702_aaa2a03d18ee rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_bf59d171e977
+:nota_150.10.702_bf59d171e977 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões de órgãos consultivos de áreas Metropolitanas".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_aaa2a03d18ee .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_bf59d171e977 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_993bb68f3030
-:nota_150.10.702_993bb68f3030 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_947f759bb9f4
+:nota_150.10.702_947f759bb9f4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho de Região Hidrográfica (CRH)".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_993bb68f3030 .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_947f759bb9f4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_4ec6d4b09606
-:nota_150.10.702_4ec6d4b09606 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_dce31eaf36b0
+:nota_150.10.702_dce31eaf36b0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho consultivo parar a responsabilidade ambiental".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_4ec6d4b09606 .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_dce31eaf36b0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_a0cd9acea629
-:nota_150.10.702_a0cd9acea629 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_b7d30080476e
+:nota_150.10.702_b7d30080476e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões da Comissão Permanente de Acompanhamento".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_a0cd9acea629 .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_b7d30080476e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_c15a27afd6ab
-:nota_150.10.702_c15a27afd6ab rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_00ddb8bb57bf
+:nota_150.10.702_00ddb8bb57bf rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões da Comissão de Ética".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_c15a27afd6ab .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_00ddb8bb57bf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_f3d5916527d0
-:nota_150.10.702_f3d5916527d0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_3321d7430280
+:nota_150.10.702_3321d7430280 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho Consultivo da Justiça".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_f3d5916527d0 .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_3321d7430280 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_9733675cf769
-:nota_150.10.702_9733675cf769 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_c5145e6bcdb8
+:nota_150.10.702_c5145e6bcdb8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho de Coordenação Técnica".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_9733675cf769 .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_c5145e6bcdb8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_a0488ec6d28b
-:nota_150.10.702_a0488ec6d28b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_30e30f857284
+:nota_150.10.702_30e30f857284 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho Médico-Legal".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_a0488ec6d28b .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_30e30f857284 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_0027836c0287
-:nota_150.10.702_0027836c0287 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_48c1d93d300b
+:nota_150.10.702_48c1d93d300b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho Superior de Polícia Judiciária".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_0027836c0287 .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_48c1d93d300b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_46b566993003
-:nota_150.10.702_46b566993003 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_4fa677124bad
+:nota_150.10.702_4fa677124bad rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho Técnico".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_46b566993003 .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_4fa677124bad .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_989074614a34
-:nota_150.10.702_989074614a34 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_d816323cc5ff
+:nota_150.10.702_d816323cc5ff rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões dos Grupos de Trabalho e outras Comissões nomeadas pelo(s) membro(s) do Governo".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_989074614a34 .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_d816323cc5ff .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_3fa6b51660df
-:nota_150.10.702_3fa6b51660df rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_f143cc9fc94b
+:nota_150.10.702_f143cc9fc94b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho Institucional".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_3fa6b51660df .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_f143cc9fc94b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_ddb9bfc14179
-:nota_150.10.702_ddb9bfc14179 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_f366f88061c0
+:nota_150.10.702_f366f88061c0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões do Conselho de Curadores".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_ddb9bfc14179 .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_f366f88061c0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_642f4ee50e6e
-:nota_150.10.702_642f4ee50e6e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_ea9e011a3fbe
+:nota_150.10.702_ea9e011a3fbe rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões de aconselhamento nas áreas do emprego, da formação profissional, da certificação das entidades formadoras, das relações e condições de trabalho, e das relações profissionais".
 
-:c150.10.702 :temNotaAplicacao :nota_150.10.702_642f4ee50e6e .
+:c150.10.702 :temNotaAplicacao :nota_150.10.702_ea9e011a3fbe .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_863969d2e86a
-:nota_150.10.702_863969d2e86a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.702_3212fb9ded9f
+:nota_150.10.702_3212fb9ded9f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As reuniões de grupos de trabalho desenvolvidas no âmbito do desenvolvimento produtos e serviços específicos, deverão ser considerados no respetivo processo".
 
-:c150.10.702 :temNotaExclusao :nota_150.10.702_863969d2e86a .
+:c150.10.702 :temNotaExclusao :nota_150.10.702_3212fb9ded9f .
 
 :c150.10.702 :processoTipoVC :vc_processoTipo_pc .
 :c150.10.702 :processoTransversal "S" .
@@ -2968,53 +2972,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.10 ;
 	:descricao 'Recolha de opinião junto de cidadãos, empresas e entidades interessadas sobre planos, projetos legislativos e normas técnicas. Inicia com a decisão de publicitar e termina com o relatório com os resultados da consulta. Inclui a produção de documento justificativo e/ou de enquadramento da consulta, o registo de transparência quando necessário, a disponibilização dos documentos em consulta, a eventual audição pública, a receção e análise dos comentários, a publicitação do ato aprovado e o relatório da consulta pública.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.703_bfda3bae0927
-:nota_150.10.703_bfda3bae0927 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.703_4f6e14d748c4
+:nota_150.10.703_4f6e14d748c4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Consultas públicas ou de interessados que não integrem um processo específico".
 
-:c150.10.703 :temNotaAplicacao :nota_150.10.703_bfda3bae0927 .
+:c150.10.703 :temNotaAplicacao :nota_150.10.703_4f6e14d748c4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.10.703_0e48c5fef3af
-:exemplo_150.10.703_0e48c5fef3af rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.10.703_978e125773c9
+:exemplo_150.10.703_978e125773c9 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Consulta pública no âmbito do orçamento participativo".
 
-:c150.10.703 :temExemploNA :exemplo_150.10.703_0e48c5fef3af .
+:c150.10.703 :temExemploNA :exemplo_150.10.703_978e125773c9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.703_b1627ebbf112
-:nota_150.10.703_b1627ebbf112 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.703_3045c874dfc3
+:nota_150.10.703_3045c874dfc3 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A consulta/discussão pública no âmbito de estratégias de topo deve ser considerada em 150.10.100 - Definição de políticas setoriais".
 
-:c150.10.703 :temNotaExclusao :nota_150.10.703_b1627ebbf112 .
+:c150.10.703 :temNotaExclusao :nota_150.10.703_3045c874dfc3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.703_8213e72e4d37
-:nota_150.10.703_8213e72e4d37 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.703_210aed867c72
+:nota_150.10.703_210aed867c72 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A discussão pública no âmbito da elaboração, revisão e alteração de planos especiais e operacionais de âmbito nacional deve ser considerada em 150.10.200 - Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional".
 
-:c150.10.703 :temNotaExclusao :nota_150.10.703_8213e72e4d37 .
+:c150.10.703 :temNotaExclusao :nota_150.10.703_210aed867c72 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.703_8ea0631df72d
-:nota_150.10.703_8ea0631df72d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.703_616fe3ec0e12
+:nota_150.10.703_616fe3ec0e12 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A discussão pública no âmbito da elaboração, revisão e alteração de planos especiais e operacionais de âmbito regional deve ser considerada em 150.10.300 - Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito regional".
 
-:c150.10.703 :temNotaExclusao :nota_150.10.703_8ea0631df72d .
+:c150.10.703 :temNotaExclusao :nota_150.10.703_616fe3ec0e12 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.703_618c60ef324a
-:nota_150.10.703_618c60ef324a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.10.703_75f429d3eede
+:nota_150.10.703_75f429d3eede rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A discussão pública no âmbito da elaboração, revisão e alteração de planos especiais e operacionais de âmbito municipal e intermunicipal deve ser considerada em 150.10.300 - Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito municipal e intermunicipal".
 
-:c150.10.703 :temNotaExclusao :nota_150.10.703_618c60ef324a .
+:c150.10.703 :temNotaExclusao :nota_150.10.703_75f429d3eede .
 
 :c150.10.703 :processoTipoVC :vc_processoTipo_pc .
 :c150.10.703 :processoTransversal "S" .
@@ -3031,6 +3035,8 @@
 :c150.10.703 :eSintetizadoPor :c150.20.300 .
 :c150.10.703 :temRelProc :c150.20.400 .
 :c150.10.703 :eAntecessorDe :c150.20.400 .
+:c150.10.703 :temRelProc :c500.10.001 .
+:c150.10.703 :eSuplementoPara :c500.10.001 .
 :c150.10.703 :temPCA :pca_c150.10.703.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c150.10.703
 :pca_c150.10.703 rdf:type owl:NamedIndividual ,
@@ -3057,9 +3063,9 @@
 :df_c150.10.703 :temJustificacao :just_df_c150.10.703 .
 :just_df_c150.10.703_0 rdf:type owl:NamedIndividual ,
 		:CriterioJustificacaoDensidadeInfo ;
-	:conteudo "Informação sintetizada e recuperável nos PN 150.40.300 - Avaliação de atividades; PN 150.20.404 - Prestação de contas" .
+	:conteudo "Informação sintetizada e recuperável nos PN 150.20.300 - Avaliação de atividades; PN 150.20.404 - Prestação de contas" .
 :just_df_c150.10.703 :temCriterio :just_df_c150.10.703_0. 
-:just_df_c150.10.703_0 :critTemProcRel :c150.40.300 .
+:just_df_c150.10.703_0 :critTemProcRel :c150.20.300 .
 :just_df_c150.10.703_0 :critTemProcRel :c150.20.404 .
 
 ###  http://jcr.di.uminho.pt/m51-clav#c150.20
@@ -3071,117 +3077,117 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150 ;
 	:descricao 'Compreende o planeamento e avaliação dos serviços, no que se inclui a análise e melhoria das estruturas e das formas de organização do trabalho, a definição e avaliação do cumprimento de objetivos organizacionais, a elaboração de planos e de relatórios de atividades, gerais e setoriais - abrangendo o diagnóstico de necessidades, o planeamento da afetação e o planeamento do desenvolvimento de recursos (humanos, materiais e financeiros). Compreende, igualmente, a definição e avaliação de planos operacionais transversais a vários organismos, de planos de emergência, ou de qualquer instrumento de planeamento e coordenação operacional.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_d2d3dc7973be
-:nota_150.20_d2d3dc7973be rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_951fcc174892
+:nota_150.20_951fcc174892 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Projetos de análise e reengenharia de processos".
 
-:c150.20 :temNotaAplicacao :nota_150.20_d2d3dc7973be .
+:c150.20 :temNotaAplicacao :nota_150.20_951fcc174892 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_8d9b9e1f5452
-:nota_150.20_8d9b9e1f5452 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_0db22c282870
+:nota_150.20_0db22c282870 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Trabalhos preparatórios para a (re)definição de formas de organização dos serviços".
 
-:c150.20 :temNotaAplicacao :nota_150.20_8d9b9e1f5452 .
+:c150.20 :temNotaAplicacao :nota_150.20_0db22c282870 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_d51c1d1a0dce
-:nota_150.20_d51c1d1a0dce rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_279ccad622a4
+:nota_150.20_279ccad622a4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processos de autoavaliação".
 
-:c150.20 :temNotaAplicacao :nota_150.20_d51c1d1a0dce .
+:c150.20 :temNotaAplicacao :nota_150.20_279ccad622a4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_82a00ba8197c
-:nota_150.20_82a00ba8197c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_fa52561e11e4
+:nota_150.20_fa52561e11e4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Trabalhos preparatórios de certificação na qualidade".
 
-:c150.20 :temNotaAplicacao :nota_150.20_82a00ba8197c .
+:c150.20 :temNotaAplicacao :nota_150.20_fa52561e11e4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_3faab636054b
-:nota_150.20_3faab636054b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_b6ad17eb6352
+:nota_150.20_b6ad17eb6352 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Projetos de simplificação e modernização administrativa".
 
-:c150.20 :temNotaAplicacao :nota_150.20_3faab636054b .
+:c150.20 :temNotaAplicacao :nota_150.20_b6ad17eb6352 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_28a12e3ee4a4
-:nota_150.20_28a12e3ee4a4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_9386761884ed
+:nota_150.20_9386761884ed rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição e avaliação de objetivos organizacionais".
 
-:c150.20 :temNotaAplicacao :nota_150.20_28a12e3ee4a4 .
+:c150.20 :temNotaAplicacao :nota_150.20_9386761884ed .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_c041373b1809
-:nota_150.20_c041373b1809 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_50095a736174
+:nota_150.20_50095a736174 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Preparação de planos de atividades e respetivos relatórios de avaliação de cumprimento".
 
-:c150.20 :temNotaAplicacao :nota_150.20_c041373b1809 .
+:c150.20 :temNotaAplicacao :nota_150.20_50095a736174 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_ee8111ed69b8
-:nota_150.20_ee8111ed69b8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_463c08e45c51
+:nota_150.20_463c08e45c51 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Preparação dos orçamentos de receita e despesa pública".
 
-:c150.20 :temNotaAplicacao :nota_150.20_ee8111ed69b8 .
+:c150.20 :temNotaAplicacao :nota_150.20_463c08e45c51 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_47d89252ba84
-:nota_150.20_47d89252ba84 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_be706a7d55b0
+:nota_150.20_be706a7d55b0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Procedimentos de alterações orçamentais".
 
-:c150.20 :temNotaAplicacao :nota_150.20_47d89252ba84 .
+:c150.20 :temNotaAplicacao :nota_150.20_be706a7d55b0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_a2fc94578e98
-:nota_150.20_a2fc94578e98 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_36da79eda64e
+:nota_150.20_36da79eda64e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Procedimentos de cativação/descativação e reafectação de verbas".
 
-:c150.20 :temNotaAplicacao :nota_150.20_a2fc94578e98 .
+:c150.20 :temNotaAplicacao :nota_150.20_36da79eda64e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_68d9181c8b1f
-:nota_150.20_68d9181c8b1f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_28f6b835d8b9
+:nota_150.20_28f6b835d8b9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acompanhamento político e administrativo da realização dos planos de atividades e da execução orçamental".
 
-:c150.20 :temNotaAplicacao :nota_150.20_68d9181c8b1f .
+:c150.20 :temNotaAplicacao :nota_150.20_28f6b835d8b9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_5a220a9ede82
-:nota_150.20_5a220a9ede82 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_eedc7da74136
+:nota_150.20_eedc7da74136 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Quando haja lugar à apresentação de candidaturas de projetos a programas de incentivo financeiro, utilizar a classe \"Execução de programas e de ações de incentivo/ Atribuição e controlo de financiamentos e de ajudas diretas\" (850.10), para o processo de relacionamento entre a entidade beneficiária e a entidade financiadora".
 
-:c150.20 :temNotaExclusao :nota_150.20_5a220a9ede82 .
+:c150.20 :temNotaExclusao :nota_150.20_eedc7da74136 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_eb1be1daefb9
-:nota_150.20_eb1be1daefb9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_eb08cdb12d09
+:nota_150.20_eb08cdb12d09 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pedidos de certificação na qualidade devem ser considerados em \"Reconhecimentos e permissões/ Licenciamentos, certificações e outras autorizações\" (450.10)".
 
-:c150.20 :temNotaExclusao :nota_150.20_eb1be1daefb9 .
+:c150.20 :temNotaExclusao :nota_150.20_eb08cdb12d09 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_645bc8b95d32
-:nota_150.20_645bc8b95d32 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20_ad91ff446981
+:nota_150.20_ad91ff446981 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A realização de estatísticas deve ser considerada em \"Planeamento e gestão estratégica/ Produção de informação estatística\" (150.40)".
 
-:c150.20 :temNotaExclusao :nota_150.20_645bc8b95d32 .
+:c150.20 :temNotaExclusao :nota_150.20_ad91ff446981 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c150.20.001
@@ -3193,93 +3199,93 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Definição de formas de atuação com vista ao eficaz funcionamento dos serviços. Inicia com a determinação da necessidade de regra ou orientação e termina com a apresentação da versão final. Inclui recolha de contributos, consulta de especialistas e de entidades, redação de documento, revisão e elaboração da versão final.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_0e7743a1ba93
-:nota_150.20.001_0e7743a1ba93 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_52eb63cea0aa
+:nota_150.20.001_52eb63cea0aa rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de formulários e respetivas regras de utilização".
 
-:c150.20.001 :temNotaAplicacao :nota_150.20.001_0e7743a1ba93 .
+:c150.20.001 :temNotaAplicacao :nota_150.20.001_52eb63cea0aa .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_a6cf7df75270
-:nota_150.20.001_a6cf7df75270 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_fc07ec0bf4a9
+:nota_150.20.001_fc07ec0bf4a9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração de carta da qualidade".
 
-:c150.20.001 :temNotaAplicacao :nota_150.20.001_a6cf7df75270 .
+:c150.20.001 :temNotaAplicacao :nota_150.20.001_fc07ec0bf4a9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_9d29a0f2e17e
-:nota_150.20.001_9d29a0f2e17e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_5e6cf57f5048
+:nota_150.20.001_5e6cf57f5048 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração de manuais de procedimentos".
 
-:c150.20.001 :temNotaAplicacao :nota_150.20.001_9d29a0f2e17e .
+:c150.20.001 :temNotaAplicacao :nota_150.20.001_5e6cf57f5048 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_4df1fa3be284
-:nota_150.20.001_4df1fa3be284 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_47cfb310d9a8
+:nota_150.20.001_47cfb310d9a8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração de plano de emergência interna".
 
-:c150.20.001 :temNotaAplicacao :nota_150.20.001_4df1fa3be284 .
+:c150.20.001 :temNotaAplicacao :nota_150.20.001_47cfb310d9a8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_f2997b5c46f3
-:nota_150.20.001_f2997b5c46f3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_97f77ce9fd53
+:nota_150.20.001_97f77ce9fd53 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração de plano de preservação digital".
 
-:c150.20.001 :temNotaAplicacao :nota_150.20.001_f2997b5c46f3 .
+:c150.20.001 :temNotaAplicacao :nota_150.20.001_97f77ce9fd53 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_3e88be140d36
-:nota_150.20.001_3e88be140d36 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_da119c9bbdd5
+:nota_150.20.001_da119c9bbdd5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração de plano de prevenção de riscos de corrupção".
 
-:c150.20.001 :temNotaAplicacao :nota_150.20.001_3e88be140d36 .
+:c150.20.001 :temNotaAplicacao :nota_150.20.001_da119c9bbdd5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_852307fd5704
-:nota_150.20.001_852307fd5704 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_29110a149797
+:nota_150.20.001_29110a149797 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planos específicos de utilização de recursos".
 
-:c150.20.001 :temNotaAplicacao :nota_150.20.001_852307fd5704 .
+:c150.20.001 :temNotaAplicacao :nota_150.20.001_29110a149797 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_1f26bf4ecce4
-:nota_150.20.001_1f26bf4ecce4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_376aa35d26ad
+:nota_150.20.001_376aa35d26ad rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A formalização em regras institucionais deve ser considerada em 100.10.600 – Produção e comunicação de regras institucionais".
 
-:c150.20.001 :temNotaExclusao :nota_150.20.001_1f26bf4ecce4 .
+:c150.20.001 :temNotaExclusao :nota_150.20.001_376aa35d26ad .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_5e366a5a760b
-:nota_150.20.001_5e366a5a760b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_289f7f97521f
+:nota_150.20.001_289f7f97521f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A formalização de regras em norma técnica deve ser considerada em 100.10.800 – Produção e comunicação de normas técnicas".
 
-:c150.20.001 :temNotaExclusao :nota_150.20.001_5e366a5a760b .
+:c150.20.001 :temNotaExclusao :nota_150.20.001_289f7f97521f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_8e9a344cb019
-:nota_150.20.001_8e9a344cb019 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_1b8c079e3f5f
+:nota_150.20.001_1b8c079e3f5f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As ações de sensibilização devem ser consideradas em 900.10.502 – Organização e participação em iniciativas de prevenção e sensibilização".
 
-:c150.20.001 :temNotaExclusao :nota_150.20.001_8e9a344cb019 .
+:c150.20.001 :temNotaExclusao :nota_150.20.001_1b8c079e3f5f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_63328cf79272
-:nota_150.20.001_63328cf79272 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.001_1bad980cc35c
+:nota_150.20.001_1bad980cc35c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A divulgação de documentos deve ser considerada em 900.20.201 – Edição e publicação de conteúdos".
 
-:c150.20.001 :temNotaExclusao :nota_150.20.001_63328cf79272 .
+:c150.20.001 :temNotaExclusao :nota_150.20.001_1bad980cc35c .
 
 :c150.20.001 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.001 :processoTransversal "S" .
@@ -3445,61 +3451,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Determinação dos objetivos estratégicos globais dos serviços tendo em conta as suas competências e os objetivos estratégicos definidos pelo órgão executivo. Inicia com a solicitação de contributos e termina com a aprovação pelo órgão competente. Inclui definição e revisão de objetivos, definição de metas e indicadores de desempenho, envio para aprovação pelo órgão executivo.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.100_7f6e10c74eb1
-:nota_150.20.100_7f6e10c74eb1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.100_fa96f0c3bee7
+:nota_150.20.100_fa96f0c3bee7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição ou redefinição da missão e visão da organização".
 
-:c150.20.100 :temNotaAplicacao :nota_150.20.100_7f6e10c74eb1 .
+:c150.20.100 :temNotaAplicacao :nota_150.20.100_fa96f0c3bee7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.100_826ca1796365
-:nota_150.20.100_826ca1796365 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.100_245f8317e019
+:nota_150.20.100_245f8317e019 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de objectivos anuais e plurianuais organizacionais".
 
-:c150.20.100 :temNotaAplicacao :nota_150.20.100_826ca1796365 .
+:c150.20.100 :temNotaAplicacao :nota_150.20.100_245f8317e019 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.20.100_aee6422e21df
-:exemplo_150.20.100_aee6422e21df rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.20.100_21f859f59e6e
+:exemplo_150.20.100_21f859f59e6e rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Elaboração do Quadro de Avaliação e Responsabilização (QUAR)".
 
-:c150.20.100 :temExemploNA :exemplo_150.20.100_aee6422e21df .
+:c150.20.100 :temExemploNA :exemplo_150.20.100_21f859f59e6e .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.20.100_609affd60e06
-:exemplo_150.20.100_609affd60e06 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.20.100_0d5a8446ca32
+:exemplo_150.20.100_0d5a8446ca32 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Elaboração do plano estratégico da organização".
 
-:c150.20.100 :temExemploNA :exemplo_150.20.100_609affd60e06 .
+:c150.20.100 :temExemploNA :exemplo_150.20.100_0d5a8446ca32 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.100_473295282800
-:nota_150.20.100_473295282800 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.100_14a4bd08f648
+:nota_150.20.100_14a4bd08f648 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O Planeamento estratégico de atividades deve ser considerado em 150.20.101 – Planeamento estratégico de atividades".
 
-:c150.20.100 :temNotaExclusao :nota_150.20.100_473295282800 .
+:c150.20.100 :temNotaExclusao :nota_150.20.100_14a4bd08f648 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.100_0ff25a603a4e
-:nota_150.20.100_0ff25a603a4e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.100_810a165c289c
+:nota_150.20.100_810a165c289c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A definição de objetivos individuais dos dirigentes e dos trabalhadores deve ser considerada em 250.20.800 – Avaliação individual do desempenho".
 
-:c150.20.100 :temNotaExclusao :nota_150.20.100_0ff25a603a4e .
+:c150.20.100 :temNotaExclusao :nota_150.20.100_810a165c289c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.100_c6c8f8eb0801
-:nota_150.20.100_c6c8f8eb0801 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.100_09c5ead8162c
+:nota_150.20.100_09c5ead8162c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A divulgação de metas e objetivos organizacionais deve ser considerada em 900.20.201 – Edição e publicação de conteúdos".
 
-:c150.20.100 :temNotaExclusao :nota_150.20.100_c6c8f8eb0801 .
+:c150.20.100 :temNotaExclusao :nota_150.20.100_09c5ead8162c .
 
 :c150.20.100 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.100 :processoTransversal "S" .
@@ -3644,93 +3650,93 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Definição, organização e programação de atividades estratégicas para a entidade, tendo em conta as políticas setoriais, as competências de cada unidade orgânica e os recursos envolvidos e necessários para a sua realização. Inicia com a solicitação de propostas de atividades e termina com o envio do plano para aprovação. Inclui definição da natureza, do âmbito, da extensão e do calendário da aplicação dos procedimentos necessários ao cumprimento dos objetivos, receção de contributos setoriais, revisão e redação de versão final.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_5428e6d394df
-:nota_150.20.101_5428e6d394df rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_25e74f6970d0
+:nota_150.20.101_25e74f6970d0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planeamento estratégico de atividades".
 
-:c150.20.101 :temNotaAplicacao :nota_150.20.101_5428e6d394df .
+:c150.20.101 :temNotaAplicacao :nota_150.20.101_25e74f6970d0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_eae8a2ffda3c
-:nota_150.20.101_eae8a2ffda3c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_e01a031f5a68
+:nota_150.20.101_e01a031f5a68 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planeamento estratégico de comunicação".
 
-:c150.20.101 :temNotaAplicacao :nota_150.20.101_eae8a2ffda3c .
+:c150.20.101 :temNotaAplicacao :nota_150.20.101_e01a031f5a68 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_063f5ad0dbe7
-:nota_150.20.101_063f5ad0dbe7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_74cc1f0a95dd
+:nota_150.20.101_74cc1f0a95dd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planeamento anual de auditorias".
 
-:c150.20.101 :temNotaAplicacao :nota_150.20.101_063f5ad0dbe7 .
+:c150.20.101 :temNotaAplicacao :nota_150.20.101_74cc1f0a95dd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_ce580faf2664
-:nota_150.20.101_ce580faf2664 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_60788b1f5c6f
+:nota_150.20.101_60788b1f5c6f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planeamento anual de formação".
 
-:c150.20.101 :temNotaAplicacao :nota_150.20.101_ce580faf2664 .
+:c150.20.101 :temNotaAplicacao :nota_150.20.101_60788b1f5c6f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_bec12302a237
-:nota_150.20.101_bec12302a237 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_97513e27c9b9
+:nota_150.20.101_97513e27c9b9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planeamento anual de incorporações".
 
-:c150.20.101 :temNotaAplicacao :nota_150.20.101_bec12302a237 .
+:c150.20.101 :temNotaAplicacao :nota_150.20.101_97513e27c9b9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_508210d62be5
-:nota_150.20.101_508210d62be5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_9a03c5bb3f81
+:nota_150.20.101_9a03c5bb3f81 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planeamento anual da fiscalização".
 
-:c150.20.101 :temNotaAplicacao :nota_150.20.101_508210d62be5 .
+:c150.20.101 :temNotaAplicacao :nota_150.20.101_9a03c5bb3f81 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_01d4ba2fa602
-:nota_150.20.101_01d4ba2fa602 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_431cbf00e3b7
+:nota_150.20.101_431cbf00e3b7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planeamento anual da monitorização".
 
-:c150.20.101 :temNotaAplicacao :nota_150.20.101_01d4ba2fa602 .
+:c150.20.101 :temNotaAplicacao :nota_150.20.101_431cbf00e3b7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_44d6980c9929
-:nota_150.20.101_44d6980c9929 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_3516787fdbab
+:nota_150.20.101_3516787fdbab rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planeamento da diplomática e consular".
 
-:c150.20.101 :temNotaAplicacao :nota_150.20.101_44d6980c9929 .
+:c150.20.101 :temNotaAplicacao :nota_150.20.101_3516787fdbab .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.20.101_ad26ad50ff1b
-:exemplo_150.20.101_ad26ad50ff1b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.20.101_c54368c6e3ff
+:exemplo_150.20.101_c54368c6e3ff rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Planeamento de articulação de respostas a uma situação de crise".
 
-:c150.20.101 :temExemploNA :exemplo_150.20.101_ad26ad50ff1b .
+:c150.20.101 :temExemploNA :exemplo_150.20.101_c54368c6e3ff .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.20.101_ed3054bb2c03
-:exemplo_150.20.101_ed3054bb2c03 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.20.101_319bca14232b
+:exemplo_150.20.101_319bca14232b rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Elaboração de planos de emissões e de prémios dos jogos sociais do Estado".
 
-:c150.20.101 :temExemploNA :exemplo_150.20.101_ed3054bb2c03 .
+:c150.20.101 :temExemploNA :exemplo_150.20.101_319bca14232b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_63500fa02159
-:nota_150.20.101_63500fa02159 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.101_a2e674907917
+:nota_150.20.101_a2e674907917 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A publicitação dos planos de atividades deve ser considerada em 900.20.201 – Edição e publicação de conteúdos".
 
-:c150.20.101 :temNotaExclusao :nota_150.20.101_63500fa02159 .
+:c150.20.101 :temNotaExclusao :nota_150.20.101_a2e674907917 .
 
 :c150.20.101 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.101 :processoTransversal "S" .
@@ -3826,6 +3832,10 @@
 :c150.20.101 :eCruzadoCom :c150.40.500 .
 :c150.20.101 :temRelProc :c400.10.419 .
 :c150.20.101 :eSucessorDe :c400.10.419 .
+:c150.20.101 :temRelProc :c500.10.001 .
+:c150.20.101 :eSuplementoPara :c500.10.001 .
+:c150.20.101 :temRelProc :c500.10.304 .
+:c150.20.101 :eSintetizadoPor :c500.10.304 .
 :c150.20.101 :temRelProc :c700.10.001 .
 :c150.20.101 :eAntecessorDe :c700.10.001 .
 :c150.20.101 :temRelProc :c700.10.002 .
@@ -3902,69 +3912,69 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Definição de um conjunto ordenado de elementos que se encontram interligados e que interagem entre si no desempenho de uma função ou atividade. Inicia com a identificação da necessidade e termina com a aprovação do plano. Inclui identificação da missão do negócio, diagnóstico de situação, identificação da estratégia e dos objetivos do negócio, construção da arquitetura do sistema, identificação e planeamento de projetos e elaboração do orçamento de execução.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.102_c5084497b2b7
-:nota_150.20.102_c5084497b2b7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.102_f2d3ea231cd8
+:nota_150.20.102_f2d3ea231cd8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planeamento de sistemas de gestão de arquivos".
 
-:c150.20.102 :temNotaAplicacao :nota_150.20.102_c5084497b2b7 .
+:c150.20.102 :temNotaAplicacao :nota_150.20.102_f2d3ea231cd8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.102_3a21a5bd887f
-:nota_150.20.102_3a21a5bd887f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.102_181da0c87c0d
+:nota_150.20.102_181da0c87c0d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planeamento de sistemas de gestão da qualidade".
 
-:c150.20.102 :temNotaAplicacao :nota_150.20.102_3a21a5bd887f .
+:c150.20.102 :temNotaAplicacao :nota_150.20.102_181da0c87c0d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.102_ae0e3be08d01
-:nota_150.20.102_ae0e3be08d01 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.102_f534fb36492c
+:nota_150.20.102_f534fb36492c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planeamento de sistemas de informação e comunicação".
 
-:c150.20.102 :temNotaAplicacao :nota_150.20.102_ae0e3be08d01 .
+:c150.20.102 :temNotaAplicacao :nota_150.20.102_f534fb36492c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.102_130c31617c76
-:nota_150.20.102_130c31617c76 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.102_a076601606c2
+:nota_150.20.102_a076601606c2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planeamento de sistemas de segurança, higiene e saúde no trabalho".
 
-:c150.20.102 :temNotaAplicacao :nota_150.20.102_130c31617c76 .
+:c150.20.102 :temNotaAplicacao :nota_150.20.102_a076601606c2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.102_a7c317febe52
-:nota_150.20.102_a7c317febe52 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.102_3087c8b30cfe
+:nota_150.20.102_3087c8b30cfe rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planeamento de sistemas de gestão ambiental".
 
-:c150.20.102 :temNotaAplicacao :nota_150.20.102_a7c317febe52 .
+:c150.20.102 :temNotaAplicacao :nota_150.20.102_3087c8b30cfe .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.102_d07d1156596f
-:nota_150.20.102_d07d1156596f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.102_bf5a56ee855e
+:nota_150.20.102_bf5a56ee855e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de bens e serviços deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c150.20.102 :temNotaExclusao :nota_150.20.102_d07d1156596f .
+:c150.20.102 :temNotaExclusao :nota_150.20.102_bf5a56ee855e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.102_0cb4065d72a4
-:nota_150.20.102_0cb4065d72a4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.102_4fc7d5190737
+:nota_150.20.102_4fc7d5190737 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O desenvolvimento de aplicações tecnológicas deve ser considerado em 800.20.500 – Desenvolvimento experimental e aplicacional".
 
-:c150.20.102 :temNotaExclusao :nota_150.20.102_0cb4065d72a4 .
+:c150.20.102 :temNotaExclusao :nota_150.20.102_4fc7d5190737 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.102_d32097638dc6
-:nota_150.20.102_d32097638dc6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.102_e3ac6d42e09a
+:nota_150.20.102_e3ac6d42e09a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A divulgação de informação sobre a implementação do plano deve ser considerada em 900.20.201 – Edição e publicação de conteúdos".
 
-:c150.20.102 :temNotaExclusao :nota_150.20.102_d32097638dc6 .
+:c150.20.102 :temNotaExclusao :nota_150.20.102_e3ac6d42e09a .
 
 :c150.20.102 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.102 :processoTransversal "S" .
@@ -4126,45 +4136,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Definição de tarefas necessárias ao desenvolvimento prático de atividades e afetação dos recursos necessários. Inicia com a identificação da necessidade e termina com a comunicação do plano. Inclui caracterização da tarefa a realizar, identificação dos recursos necessários e disponíveis, afetação de recursos, calendarização das tarefas e aprovação do plano, quando necessário. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.103_51277a97e315
-:nota_150.20.103_51277a97e315 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.103_09eb9b15ceff
+:nota_150.20.103_09eb9b15ceff rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Calendarização de tarefas".
 
-:c150.20.103 :temNotaAplicacao :nota_150.20.103_51277a97e315 .
+:c150.20.103 :temNotaAplicacao :nota_150.20.103_09eb9b15ceff .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.103_5642dac3da06
-:nota_150.20.103_5642dac3da06 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.103_f05b7f684028
+:nota_150.20.103_f05b7f684028 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planos de operacionalização de atividades concretas".
 
-:c150.20.103 :temNotaAplicacao :nota_150.20.103_5642dac3da06 .
+:c150.20.103 :temNotaAplicacao :nota_150.20.103_f05b7f684028 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.20.103_0e9d8f08ee0d
-:exemplo_150.20.103_0e9d8f08ee0d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.20.103_96573503d68e
+:exemplo_150.20.103_96573503d68e rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Elaboração de escalas de serviço".
 
-:c150.20.103 :temExemploNA :exemplo_150.20.103_0e9d8f08ee0d .
+:c150.20.103 :temExemploNA :exemplo_150.20.103_96573503d68e .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.20.103_a1234ac85906
-:exemplo_150.20.103_a1234ac85906 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.20.103_12011404d7ce
+:exemplo_150.20.103_12011404d7ce rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Elaboração de calendários académicos".
 
-:c150.20.103 :temExemploNA :exemplo_150.20.103_a1234ac85906 .
+:c150.20.103 :temExemploNA :exemplo_150.20.103_12011404d7ce .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.103_7abc79455596
-:nota_150.20.103_7abc79455596 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.103_46e9bdfccfa9
+:nota_150.20.103_46e9bdfccfa9 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A monitorização de atividades deve ser considerada em 150.20.303 –  Monitorização de atividades".
 
-:c150.20.103 :temNotaExclusao :nota_150.20.103_7abc79455596 .
+:c150.20.103 :temNotaExclusao :nota_150.20.103_46e9bdfccfa9 .
 
 :c150.20.103 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.103 :processoTransversal "S" .
@@ -4277,21 +4287,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Elaboração de instrumento de gestão anual com a indicação do número de postos de trabalho de que o órgão ou serviço carece para o desenvolvimento de atividades. Inicia com o levantamento de necessidades e termina com a aprovação pelo órgão competente. Inclui análise de dados, recolha de pareceres, discussão e validação de propostas.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.200_5fd62bb56bdf
-:nota_150.20.200_5fd62bb56bdf rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.200_21211fef490c
+:nota_150.20.200_21211fef490c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração do mapa de pessoal".
 
-:c150.20.200 :temNotaAplicacao :nota_150.20.200_5fd62bb56bdf .
+:c150.20.200 :temNotaAplicacao :nota_150.20.200_21211fef490c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.200_6a142ffcf898
-:nota_150.20.200_6a142ffcf898 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.200_cd1e058869af
+:nota_150.20.200_cd1e058869af rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A publicitação dos instrumentos de planeamento de recursos humanos deve ser considerada em 900.20.201 – Edição e publicação de conteúdos".
 
-:c150.20.200 :temNotaExclusao :nota_150.20.200_6a142ffcf898 .
+:c150.20.200 :temNotaExclusao :nota_150.20.200_cd1e058869af .
 
 :c150.20.200 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.200 :processoTransversal "S" .
@@ -4432,29 +4442,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Elaboração de instrumento de gestão com a indicação previsional dos bens materiais que o órgão ou serviço carece para o desenvolvimento de atividades. Inicia com o levantamento de necessidades e termina com a aprovação do plano. Inclui a análise dos recursos em depósito e validação de propostas.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.201_77f6592bf934
-:nota_150.20.201_77f6592bf934 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.201_659e2d969c9f
+:nota_150.20.201_659e2d969c9f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planeamento dos requisitos".
 
-:c150.20.201 :temNotaAplicacao :nota_150.20.201_77f6592bf934 .
+:c150.20.201 :temNotaAplicacao :nota_150.20.201_659e2d969c9f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.201_9d11ff0d5d9e
-:nota_150.20.201_9d11ff0d5d9e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.201_4be82a66761d
+:nota_150.20.201_4be82a66761d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Planeamento de necessidades de materiais".
 
-:c150.20.201 :temNotaAplicacao :nota_150.20.201_9d11ff0d5d9e .
+:c150.20.201 :temNotaAplicacao :nota_150.20.201_4be82a66761d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.201_9f06a06ce471
-:nota_150.20.201_9f06a06ce471 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.201_fc014a161c50
+:nota_150.20.201_fc014a161c50 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A elaboração de documento com existência de stocks de bens materiais consumíveis, deve ser considerada em 300.30.007 - Registo de bens móveis não duradouros".
 
-:c150.20.201 :temNotaExclusao :nota_150.20.201_9f06a06ce471 .
+:c150.20.201 :temNotaExclusao :nota_150.20.201_fc014a161c50 .
 
 :c150.20.201 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.201 :processoTransversal "S" .
@@ -4572,61 +4582,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Elaboração de instrumento anual de gestão financeira com a previsão das receitas e despesas, por rubrica orçamental ou unidade orgânica, para a prossecução de atividades. Inicia com o levantamento de necessidades e termina com a pronúncia sobre o orçamento pela tutela ou órgão competente. Inclui definição de regras e de procedimentos, proposta de orçamento inicial e negociação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.202_39c9d4bdbe0e
-:nota_150.20.202_39c9d4bdbe0e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.202_bbe0c0db8a8e
+:nota_150.20.202_bbe0c0db8a8e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Revisão de orçamento".
 
-:c150.20.202 :temNotaAplicacao :nota_150.20.202_39c9d4bdbe0e .
+:c150.20.202 :temNotaAplicacao :nota_150.20.202_bbe0c0db8a8e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.202_963f0c51d258
-:nota_150.20.202_963f0c51d258 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.202_793f15ede6f5
+:nota_150.20.202_793f15ede6f5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Preparação do orçamento".
 
-:c150.20.202 :temNotaAplicacao :nota_150.20.202_963f0c51d258 .
+:c150.20.202 :temNotaAplicacao :nota_150.20.202_793f15ede6f5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.202_3ea31568284c
-:nota_150.20.202_3ea31568284c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.202_a0d4f4e24f39
+:nota_150.20.202_a0d4f4e24f39 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aprovação, promulgação e publicação do orçamento do Estado deverão ser consideradas em 100.10.001 – Produção e comunicação de atos legislativos".
 
-:c150.20.202 :temNotaExclusao :nota_150.20.202_3ea31568284c .
+:c150.20.202 :temNotaExclusao :nota_150.20.202_a0d4f4e24f39 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.202_f7200c406781
-:nota_150.20.202_f7200c406781 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.202_786201d083aa
+:nota_150.20.202_786201d083aa rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A execução orçamental deve ser considerada em Administração financeira/ Execução orçamental (350.10)".
 
-:c150.20.202 :temNotaExclusao :nota_150.20.202_f7200c406781 .
+:c150.20.202 :temNotaExclusao :nota_150.20.202_786201d083aa .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.202_fa76f87ebd54
-:nota_150.20.202_fa76f87ebd54 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.202_34d499bffbb5
+:nota_150.20.202_34d499bffbb5 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A alteração orçamental deve ser considerada em 350.10.001 – Alteração orçamental".
 
-:c150.20.202 :temNotaExclusao :nota_150.20.202_fa76f87ebd54 .
+:c150.20.202 :temNotaExclusao :nota_150.20.202_34d499bffbb5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.202_4f62b1adb96f
-:nota_150.20.202_4f62b1adb96f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.202_3e2477f41f29
+:nota_150.20.202_3e2477f41f29 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A publicitação do orçamento deve ser considerada em 900.20.201 – Edição e publicação de conteúdos".
 
-:c150.20.202 :temNotaExclusao :nota_150.20.202_4f62b1adb96f .
+:c150.20.202 :temNotaExclusao :nota_150.20.202_3e2477f41f29 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.202_1a5b57e42386
-:nota_150.20.202_1a5b57e42386 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.202_93190b00ff10
+:nota_150.20.202_93190b00ff10 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A consulta pública no âmbito do orçamento participativo deve ser considerada em 150.10.703 - Consulta pública ou de interessados".
 
-:c150.20.202 :temNotaExclusao :nota_150.20.202_1a5b57e42386 .
+:c150.20.202 :temNotaExclusao :nota_150.20.202_93190b00ff10 .
 
 :c150.20.202 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.202 :processoTransversal "S" .
@@ -4789,61 +4799,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Acompanhamento da constituição de instituições públicas e de empresas do setor público, bem como de outros organismos que tenham participação direta ou indireta do Estado. Inicia com a proposta de criação da entidade e termina com a preparação do ato de formalização. Inclui definição do objetivo e âmbito de atuação da entidade, elaboração dos estatutos, definição e atribuição de património, definição do capital social e tipos de participação, identificação dos órgãos sociais, definição da designação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.203_be0f55c3e8d9
-:nota_150.20.203_be0f55c3e8d9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.203_0342e04304f4
+:nota_150.20.203_0342e04304f4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Criação de empresas públicas".
 
-:c150.20.203 :temNotaAplicacao :nota_150.20.203_be0f55c3e8d9 .
+:c150.20.203 :temNotaAplicacao :nota_150.20.203_0342e04304f4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.203_75618232db69
-:nota_150.20.203_75618232db69 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.203_e522ff9359ac
+:nota_150.20.203_e522ff9359ac rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Criação de empresas de capitais públicos".
 
-:c150.20.203 :temNotaAplicacao :nota_150.20.203_75618232db69 .
+:c150.20.203 :temNotaAplicacao :nota_150.20.203_e522ff9359ac .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.203_00ec7bc81c5a
-:nota_150.20.203_00ec7bc81c5a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.203_f56fb3b035f4
+:nota_150.20.203_f56fb3b035f4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Criação de empresas de capitais maioritariamente públicos".
 
-:c150.20.203 :temNotaAplicacao :nota_150.20.203_00ec7bc81c5a .
+:c150.20.203 :temNotaAplicacao :nota_150.20.203_f56fb3b035f4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.203_e2de9d075037
-:nota_150.20.203_e2de9d075037 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.203_2efb37f59ca3
+:nota_150.20.203_2efb37f59ca3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Criação de empresas participadas por entidades públicas".
 
-:c150.20.203 :temNotaAplicacao :nota_150.20.203_e2de9d075037 .
+:c150.20.203 :temNotaAplicacao :nota_150.20.203_2efb37f59ca3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.203_8a31c437d9de
-:nota_150.20.203_8a31c437d9de rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.203_8423760ed49b
+:nota_150.20.203_8423760ed49b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Transformação, fusão ou cisão de empresas públicas".
 
-:c150.20.203 :temNotaAplicacao :nota_150.20.203_8a31c437d9de .
+:c150.20.203 :temNotaAplicacao :nota_150.20.203_8423760ed49b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.203_ad8f1ee9d6e2
-:nota_150.20.203_ad8f1ee9d6e2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.203_6f48bb8140cc
+:nota_150.20.203_6f48bb8140cc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acompanhamento da abertura de embaixadas e consulados".
 
-:c150.20.203 :temNotaAplicacao :nota_150.20.203_ad8f1ee9d6e2 .
+:c150.20.203 :temNotaAplicacao :nota_150.20.203_6f48bb8140cc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.203_4de540e7c240
-:nota_150.20.203_4de540e7c240 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.203_a7d943896083
+:nota_150.20.203_a7d943896083 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A escritura de constituição da entidade deve ser considerada em 400.30.001 – Celebração de contratos, escrituras, títulos equivalentes e testamentos".
 
-:c150.20.203 :temNotaExclusao :nota_150.20.203_4de540e7c240 .
+:c150.20.203 :temNotaExclusao :nota_150.20.203_a7d943896083 .
 
 :c150.20.203 :processoTipoVC :vc_processoTipo_pe .
 :c150.20.203 :processoTransversal "S" .
@@ -4873,6 +4883,8 @@
 :c150.20.203 :eComplementarDe :c150.20.401 .
 :c150.20.203 :temRelProc :c400.30.001 .
 :c150.20.203 :eAntecessorDe :c400.30.001 .
+:c150.20.203 :temRelProc :c500.10.001 .
+:c150.20.203 :eSuplementoPara :c500.10.001 .
 :c150.20.203 :temPCA :pca_c150.20.203.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c150.20.203
 :pca_c150.20.203 rdf:type owl:NamedIndividual ,
@@ -4917,37 +4929,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Análise e avaliação da execução global do plano de atividades. Inicia com pedido de relatório de atividades e termina com a aprovação pelo órgão competente. Inclui verificação, reporte dos níveis de concretização das atividades e produção de recomendações.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.300_9fc9540c0166
-:nota_150.20.300_9fc9540c0166 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.300_2fdacc52fd38
+:nota_150.20.300_2fdacc52fd38 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Avaliação intermédia".
 
-:c150.20.300 :temNotaAplicacao :nota_150.20.300_9fc9540c0166 .
+:c150.20.300 :temNotaAplicacao :nota_150.20.300_2fdacc52fd38 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.300_dd6fce66d8fa
-:nota_150.20.300_dd6fce66d8fa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.300_0b586a375aa8
+:nota_150.20.300_0b586a375aa8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Avaliação final".
 
-:c150.20.300 :temNotaAplicacao :nota_150.20.300_dd6fce66d8fa .
+:c150.20.300 :temNotaAplicacao :nota_150.20.300_0b586a375aa8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.300_3333d95f6550
-:nota_150.20.300_3333d95f6550 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.300_908427c61c47
+:nota_150.20.300_908427c61c47 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A publicitação do relatório de atividades deve ser considerada em 900.20.201 – Edição e publicação de conteúdos".
 
-:c150.20.300 :temNotaExclusao :nota_150.20.300_3333d95f6550 .
+:c150.20.300 :temNotaExclusao :nota_150.20.300_908427c61c47 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.300_46fd02c67bc0
-:nota_150.20.300_46fd02c67bc0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.300_a62df689a292
+:nota_150.20.300_a62df689a292 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A monitorização de atividades deve ser considerada em 150.20.303 – Monitorização de atividades".
 
-:c150.20.300 :temNotaExclusao :nota_150.20.300_46fd02c67bc0 .
+:c150.20.300 :temNotaExclusao :nota_150.20.300_a62df689a292 .
 
 :c150.20.300 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.300 :processoTransversal "S" .
@@ -5019,6 +5031,8 @@
 :c150.20.300 :eComplementarDe :c150.20.301 .
 :c150.20.300 :temRelProc :c150.40.500 .
 :c150.20.300 :eSucessorDe :c150.40.500 .
+:c150.20.300 :temRelProc :c200.20.501 .
+:c150.20.300 :eSinteseDe :c200.20.501 .
 :c150.20.300 :temRelProc :c300.10.001 .
 :c150.20.300 :eSinteseDe :c300.10.001 .
 :c150.20.300 :temRelProc :c300.10.002 .
@@ -5055,6 +5069,8 @@
 :c150.20.300 :eSinteseDe :c950.10.400 .
 :c150.20.300 :temRelProc :c950.20.001 .
 :c150.20.300 :eSinteseDe :c950.20.001 .
+:c150.20.300 :temRelProc :c500.10.001 .
+:c150.20.300 :eSuplementoPara :c500.10.001 .
 :c150.20.300 :temPCA :pca_c150.20.300.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c150.20.300
 :pca_c150.20.300 rdf:type owl:NamedIndividual ,
@@ -5093,20 +5109,19 @@
 :just_df_c150.20.300_0 :critTemProcRel :c150.20.301 .
 :just_df_c150.20.300_1 rdf:type owl:NamedIndividual ,
 		:CriterioJustificacaoDensidadeInfo ;
-	:conteudo "Sintetiza a informação de:PN 150.20.103 - Planeamento operacional de atividades;PN 150.20.201 - Planeamento de necessidades de recursos materiais;PN 150.20.301 – Avaliação do desempenho das organizações;PN 300.10.001 - Contratação de empreitadas de obras públicas;PN 300.10.002 - Contratação de fornecimento de serviços públicos essenciais;PN 300.10.003 - Transação e transmissão de bens imóveis;PN 300.10.004 - Transação e transmissão de bens móveis culturais;PN 300.10.005 - Transação e transmissão de bens móveis não culturais e contratação de serviços;PN 300.10.008 - Estabelecimento de convenções com operadores privados;PN 300.10.009 - Pronúncia sobre o exercício do direito de preferência;PN 300.10.010 - Admissão em organizações associativas;PN 300.10.011 - Transação e transmissão de produtos nos domínios da defesa e da segurança;PN 300.10.300 - Abate de bens móveis;PN 300.10.301 - Demolição de bens imóveis;PN 650.10.111 - Apoio a cidadãos portugueses no estrangeiro;PN 650.20.306 – Prestação de cuidados alimentares e de higiene a institucionalizados;PN 550.10.009 - Vigilância da fronteira;PN 550.20.004 - Realização de piquetes de prevenção;PN 900.10.002 - Conceção e realização de atividades desportivas ou recreativas;PN 900.10.505 - Organização e participação em cerimónia religiosa;PN 900.20.603 - Processamento de pedidos de audiência;PN 900.20.604 - Tratamento de informações e processamento de pedidos de informação;PN 950.10.400 - Apoio técnico e logístico ao processo eleitoral e referendário;PN 950.20.001 - Processamento de petições, reclamações e sugestões." .
+	:conteudo "Sintetiza a informação de:PN 150.20.103 - Planeamento operacional de atividades;PN 150.20.201 - Planeamento de necessidades de recursos materiais;PN 150.20.301 – Avaliação do desempenho das organizações;PN 200.20.501 - Concessão de imunidades, dispensas e privilégios;PN 300.10.001 - Contratação de empreitadas de obras públicas;PN 300.10.002 - Contratação de fornecimento de serviços públicos essenciais;PN 300.10.003 - Transação e transmissão de bens imóveis;PN 300.10.005 - Transação e transmissão de bens móveis não culturais e contratação de serviços;PN 300.10.008 - Estabelecimento de convenções com operadores privados;PN 300.10.009 - Pronúncia sobre o exercício do direito de preferência;PN 300.10.010 - Admissão em organizações associativas;PN 300.10.300 - Abate de bens móveis;PN 300.10.301 - Demolição de bens imóveis;PN 650.10.111 - Apoio a cidadãos portugueses no estrangeiro;PN 650.20.306 – Prestação de cuidados alimentares e de higiene a institucionalizados;PN 550.10.009 - Vigilância da fronteira;PN 550.20.004 - Realização de piquetes de prevenção;PN 900.10.002 - Conceção e realização de atividades desportivas ou recreativas;PN 900.10.505 - Organização e participação em cerimónia religiosa;PN 900.20.603 - Processamento de pedidos de audiência;PN 900.20.604 - Tratamento de informações e processamento de pedidos de informação;PN 950.10.400 - Apoio técnico e logístico ao processo eleitoral e referendário;PN 950.20.001 - Processamento de petições, reclamações e sugestões." .
 :just_df_c150.20.300 :temCriterio :just_df_c150.20.300_1. 
 :just_df_c150.20.300_1 :critTemProcRel :c150.20.103 .
 :just_df_c150.20.300_1 :critTemProcRel :c150.20.201 .
 :just_df_c150.20.300_1 :critTemProcRel :c150.20.301 .
+:just_df_c150.20.300_1 :critTemProcRel :c200.20.501 .
 :just_df_c150.20.300_1 :critTemProcRel :c300.10.001 .
 :just_df_c150.20.300_1 :critTemProcRel :c300.10.002 .
 :just_df_c150.20.300_1 :critTemProcRel :c300.10.003 .
-:just_df_c150.20.300_1 :critTemProcRel :c300.10.004 .
 :just_df_c150.20.300_1 :critTemProcRel :c300.10.005 .
 :just_df_c150.20.300_1 :critTemProcRel :c300.10.008 .
 :just_df_c150.20.300_1 :critTemProcRel :c300.10.009 .
 :just_df_c150.20.300_1 :critTemProcRel :c300.10.010 .
-:just_df_c150.20.300_1 :critTemProcRel :c300.10.011 .
 :just_df_c150.20.300_1 :critTemProcRel :c300.10.300 .
 :just_df_c150.20.300_1 :critTemProcRel :c300.10.301 .
 :just_df_c150.20.300_1 :critTemProcRel :c650.10.111 .
@@ -5129,29 +5144,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Apreciação, verificação e medição periódica do impacto e do grau de cumprimento de metas e dos objetivos definidos para cada serviço ou instituição. Inicia com a análise dos dados disponíveis e termina com a homologação da avaliação de desempenho. Inclui elaboração de relatórios intercalares e de relatório final de desempenho.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.301_cdf3d14b6d39
-:nota_150.20.301_cdf3d14b6d39 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.301_657e5d510887
+:nota_150.20.301_657e5d510887 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Sistemas de avaliação de desempenho de unidades orgânicas".
 
-:c150.20.301 :temNotaAplicacao :nota_150.20.301_cdf3d14b6d39 .
+:c150.20.301 :temNotaAplicacao :nota_150.20.301_657e5d510887 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.20.301_3f7e66d7f039
-:exemplo_150.20.301_3f7e66d7f039 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_150.20.301_d783a9f1a810
+:exemplo_150.20.301_d783a9f1a810 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "SIADAP 1".
 
-:c150.20.301 :temExemploNA :exemplo_150.20.301_3f7e66d7f039 .
+:c150.20.301 :temExemploNA :exemplo_150.20.301_d783a9f1a810 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.301_6c0cb7aabed3
-:nota_150.20.301_6c0cb7aabed3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.301_4e43f65ad551
+:nota_150.20.301_4e43f65ad551 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A avaliação de desempenho dos dirigentes e dos trabalhadores deve ser considerada em 250.20.800 – Avaliação individual do desempenho".
 
-:c150.20.301 :temNotaExclusao :nota_150.20.301_6c0cb7aabed3 .
+:c150.20.301 :temNotaExclusao :nota_150.20.301_4e43f65ad551 .
 
 :c150.20.301 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.301 :processoTransversal "S" .
@@ -5296,29 +5311,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Apreciação, verificação e medição periódica do impacto dos objetivos alcançados pelo sistema na prossecução das metas organizacionais. Inicia com a definição de métodos e técnicas de avaliação e termina com a produção de recomendações. Inclui a recolha, o tratamento e a análise de dados e identificação de problemas ou oportunidades ainda não detetadas.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.302_9abc590cffc3
-:nota_150.20.302_9abc590cffc3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.302_f60828d82ec0
+:nota_150.20.302_f60828d82ec0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Avaliação de sistemas no âmbito da gestão organizacional".
 
-:c150.20.302 :temNotaAplicacao :nota_150.20.302_9abc590cffc3 .
+:c150.20.302 :temNotaAplicacao :nota_150.20.302_f60828d82ec0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.302_c8cff23ccbaa
-:nota_150.20.302_c8cff23ccbaa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.302_63e1a1431028
+:nota_150.20.302_63e1a1431028 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A realização de perícias a sistemas de informação e comunicação deve ser considerada em 800.10.603 – Realização de perícias".
 
-:c150.20.302 :temNotaExclusao :nota_150.20.302_c8cff23ccbaa .
+:c150.20.302 :temNotaExclusao :nota_150.20.302_63e1a1431028 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.302_bdf59408d0fc
-:nota_150.20.302_bdf59408d0fc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.302_3e2d7cbeb53e
+:nota_150.20.302_3e2d7cbeb53e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A monitorização da conformidade, no âmbito do Sistema da Gestão da Qualidade, deve ser considerada em 500.10.600 – Monitorização sistemática da conformidade".
 
-:c150.20.302 :temNotaExclusao :nota_150.20.302_bdf59408d0fc .
+:c150.20.302 :temNotaExclusao :nota_150.20.302_3e2d7cbeb53e .
 
 :c150.20.302 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.302 :processoTransversal "S" .
@@ -5454,53 +5469,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Controlo sistemático das ações e atividades. Inicia com a sistematização dos dados e termina com o reporte. Inclui análise, conferência e processamento dos dados.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.303_1ff599411b61
-:nota_150.20.303_1ff599411b61 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.303_402f4f6fc90b
+:nota_150.20.303_402f4f6fc90b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Monitorização no âmbito do controlo e avaliação de atividades".
 
-:c150.20.303 :temNotaAplicacao :nota_150.20.303_1ff599411b61 .
+:c150.20.303 :temNotaAplicacao :nota_150.20.303_402f4f6fc90b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.303_1699f87e6fac
-:nota_150.20.303_1699f87e6fac rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.303_c257033ad6ad
+:nota_150.20.303_c257033ad6ad rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Controlo da atribuição dos incentivos financeiros por programa (Anterior PN 850.10.004)".
 
-:c150.20.303 :temNotaAplicacao :nota_150.20.303_1699f87e6fac .
+:c150.20.303 :temNotaAplicacao :nota_150.20.303_c257033ad6ad .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.303_48171962e1ca
-:nota_150.20.303_48171962e1ca rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.303_0178aec165b2
+:nota_150.20.303_0178aec165b2 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A avaliação de atividades deve ser considerada em 150.20.300 – Avaliação de atividades".
 
-:c150.20.303 :temNotaExclusao :nota_150.20.303_48171962e1ca .
+:c150.20.303 :temNotaExclusao :nota_150.20.303_0178aec165b2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.303_4595e5505a7b
-:nota_150.20.303_4595e5505a7b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.303_d8c595582b77
+:nota_150.20.303_d8c595582b77 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O controlo da execução orçamental deve ser considerado em 150.20.400 – Acompanhamento da execução orçamental".
 
-:c150.20.303 :temNotaExclusao :nota_150.20.303_4595e5505a7b .
+:c150.20.303 :temNotaExclusao :nota_150.20.303_d8c595582b77 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.303_af9868497173
-:nota_150.20.303_af9868497173 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.303_4b23d491add7
+:nota_150.20.303_4b23d491add7 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O controlo da execução de projeto ou operação financiadas deve ser considerado no PN 850.10.002 Formalização de candidaturas e acompanhamento de apoios regulares ou no PN 850.10.003 – Formalização de candidaturas e acompanhamento de apoios pontuais, consoante o caso".
 
-:c150.20.303 :temNotaExclusao :nota_150.20.303_af9868497173 .
+:c150.20.303 :temNotaExclusao :nota_150.20.303_4b23d491add7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.303_372df4780f33
-:nota_150.20.303_372df4780f33 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.303_ba5493c2d24c
+:nota_150.20.303_ba5493c2d24c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A monitorização da conformidade, no âmbito do Sistema da Gestão da Qualidade, deve ser considerada em 500.10.600 – Monitorização sistemática da conformidade".
 
-:c150.20.303 :temNotaExclusao :nota_150.20.303_372df4780f33 .
+:c150.20.303 :temNotaExclusao :nota_150.20.303_ba5493c2d24c .
 
 :c150.20.303 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.303 :processoTransversal "S" .
@@ -5601,21 +5616,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Elaboração periódica de instrumentos de controlo e monitorização da execução orçamental para salientar os principais pontos evolutivos a nível dos montantes orçados e executados dos documentos de gestão corrente da entidade. Inicia com a recolha de elementos e termina com o tratamento dos dados inseridos. Inclui elaboração de relatório, conferência e validação de dados e gestão de base de dados.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.400_575ea07bb1b3
-:nota_150.20.400_575ea07bb1b3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.400_54b730210daf
+:nota_150.20.400_54b730210daf rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A execução orçamental deve ser considerada em Administração financeira / Execução orçamental (350.10)".
 
-:c150.20.400 :temNotaExclusao :nota_150.20.400_575ea07bb1b3 .
+:c150.20.400 :temNotaExclusao :nota_150.20.400_54b730210daf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.400_1726171c2ff5
-:nota_150.20.400_1726171c2ff5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.400_3b557e0a1a1b
+:nota_150.20.400_3b557e0a1a1b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A gestão da tesouraria deve ser considerada em Administração financeira / Gestão da tesouraria (350.30)".
 
-:c150.20.400 :temNotaExclusao :nota_150.20.400_1726171c2ff5 .
+:c150.20.400 :temNotaExclusao :nota_150.20.400_3b557e0a1a1b .
 
 :c150.20.400 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.400 :processoTransversal "S" .
@@ -5760,61 +5775,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Acompanhamento, no âmbito da função acionista do Estado e do exercício da tutela financeira, da liquidação ou dissolução de sociedades em que o Estado participa direta ou indiretamente. Inicia com a comunicação da decisão da liquidação e termina com a comunicação da extinção definitiva da pessoa coletiva. Inclui troca de informação referente à definição dos liquidatários, à alienação de ativos, ao pagamento das dívidas da sociedade, à cobrança de créditos a apreciação e votação de prestação de contas anuais e de contas finais de liquidação e partilha e da celebração dos autos de entrega do património residual das entidades extintas.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.401_b5f1dc538106
-:nota_150.20.401_b5f1dc538106 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.401_749afbc1c87d
+:nota_150.20.401_749afbc1c87d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação de autarquias e associações municipais".
 
-:c150.20.401 :temNotaAplicacao :nota_150.20.401_b5f1dc538106 .
+:c150.20.401 :temNotaAplicacao :nota_150.20.401_749afbc1c87d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.401_14eee62bf085
-:nota_150.20.401_14eee62bf085 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.401_3c785c0df42e
+:nota_150.20.401_3c785c0df42e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação de empresas públicas detidas pelo Estado ou por outras entidades públicas".
 
-:c150.20.401 :temNotaAplicacao :nota_150.20.401_14eee62bf085 .
+:c150.20.401 :temNotaAplicacao :nota_150.20.401_3c785c0df42e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.401_e9f8447aa13b
-:nota_150.20.401_e9f8447aa13b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.401_522f9e32c2c3
+:nota_150.20.401_522f9e32c2c3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação de entidades sem fins lucrativos, incluindo fundações".
 
-:c150.20.401 :temNotaAplicacao :nota_150.20.401_e9f8447aa13b .
+:c150.20.401 :temNotaAplicacao :nota_150.20.401_522f9e32c2c3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.401_77856a12aa99
-:nota_150.20.401_77856a12aa99 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.401_21168ff997e2
+:nota_150.20.401_21168ff997e2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação de sociedades comerciais".
 
-:c150.20.401 :temNotaAplicacao :nota_150.20.401_77856a12aa99 .
+:c150.20.401 :temNotaAplicacao :nota_150.20.401_21168ff997e2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.401_9f4fd5375f1d
-:nota_150.20.401_9f4fd5375f1d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.401_6dba0ae4e917
+:nota_150.20.401_6dba0ae4e917 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação de sociedades comerciais em que o Estado ou outras entidades públicas detêm a participação no capital ou direito de voto".
 
-:c150.20.401 :temNotaAplicacao :nota_150.20.401_9f4fd5375f1d .
+:c150.20.401 :temNotaAplicacao :nota_150.20.401_6dba0ae4e917 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.401_3f6178ed9cc2
-:nota_150.20.401_3f6178ed9cc2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.401_fb61ee935bdb
+:nota_150.20.401_fb61ee935bdb rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Liquidação de sociedades em que o Estado detém o direito de designar ou destituir a maioria dos membros dos órgãos de gestão".
 
-:c150.20.401 :temNotaAplicacao :nota_150.20.401_3f6178ed9cc2 .
+:c150.20.401 :temNotaAplicacao :nota_150.20.401_fb61ee935bdb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.401_afbdb3062ab4
-:nota_150.20.401_afbdb3062ab4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.401_2d427f49c552
+:nota_150.20.401_2d427f49c552 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O cálculo dos ativos e passivos na sequência da dissolução ou extinção de entidades deve ser considerado em 350.40.602 – Liquidação de entidades".
 
-:c150.20.401 :temNotaExclusao :nota_150.20.401_afbdb3062ab4 .
+:c150.20.401 :temNotaExclusao :nota_150.20.401_2d427f49c552 .
 
 :c150.20.401 :processoTipoVC :vc_processoTipo_pe .
 :c150.20.401 :processoTransversal "S" .
@@ -5908,21 +5923,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Sistematização periódica de dados referentes à realidade social dos recursos humanos. Inicia com a recolha de dados e termina com a organização e tratamento de dados. Inclui compilação, carregamento, tratamento e remissão de dados aos órgãos competentes. Inclui, ainda, para a elaboração do balanço social, a recolha de pareceres de comissões de trabalhadores e de organizações sindicais.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.403_f281d06ddad2
-:nota_150.20.403_f281d06ddad2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.403_19ab4446f4f7
+:nota_150.20.403_19ab4446f4f7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração de balanço social".
 
-:c150.20.403 :temNotaAplicacao :nota_150.20.403_f281d06ddad2 .
+:c150.20.403 :temNotaAplicacao :nota_150.20.403_19ab4446f4f7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.403_7afb78d43b79
-:nota_150.20.403_7afb78d43b79 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.403_b016c301e3c9
+:nota_150.20.403_b016c301e3c9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Submissão de dados no sistema de informação da organização do Estado".
 
-:c150.20.403 :temNotaAplicacao :nota_150.20.403_7afb78d43b79 .
+:c150.20.403 :temNotaAplicacao :nota_150.20.403_b016c301e3c9 .
 
 :c150.20.403 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.403 :processoTransversal "S" .
@@ -6062,13 +6077,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Demonstração da execução orçamental e patrimonial. Inicia com a recolha de dados contabilísticos e termina com envio às entidades para conhecimento. Inclui elaboração da proposta e submissão à aprovação pelo órgão competente.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.404_88ff06fd2210
-:nota_150.20.404_88ff06fd2210 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.404_af3482241643
+:nota_150.20.404_af3482241643 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Análise da execução orçamental e patrimonial".
 
-:c150.20.404 :temNotaAplicacao :nota_150.20.404_88ff06fd2210 .
+:c150.20.404 :temNotaAplicacao :nota_150.20.404_af3482241643 .
 
 :c150.20.404 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.404 :processoTransversal "S" .
@@ -6163,8 +6178,12 @@
 :c150.20.404 :eSinteseDe :c350.30.500 .
 :c150.20.404 :temRelProc :c350.40.602 .
 :c150.20.404 :eSinteseDe :c350.40.602 .
+:c150.20.404 :temRelProc :c350.50.004 .
+:c150.20.404 :eSinteseDe :c350.50.004 .
 :c150.20.404 :temRelProc :c500.10.001 .
 :c150.20.404 :eSuplementoPara :c500.10.001 .
+:c150.20.404 :temRelProc :c650.10.010 .
+:c150.20.404 :eSinteseDe :c650.10.010 .
 :c150.20.404 :temRelProc :c650.10.111 .
 :c150.20.404 :eSinteseDe :c650.10.111 .
 :c150.20.404 :temPCA :pca_c150.20.404.
@@ -6219,29 +6238,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Definição de procedimentos e processos administrativos com vista à implementação de boas práticas e melhoria da qualidade dos serviços. Inicia com o estudo do processo e termina com implementação de circuito estruturado, independentemente do suporte de informação. Inclui identificação de etapas do processo administrativo, estudo de regulamentos e de legislação relacionada, definição de requisitos e normalização de formulários.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.500_d9609f193491
-:nota_150.20.500_d9609f193491 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.500_d2e27bf02c4c
+:nota_150.20.500_d2e27bf02c4c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reengenharia de processos no âmbito da Gestão organizacional".
 
-:c150.20.500 :temNotaAplicacao :nota_150.20.500_d9609f193491 .
+:c150.20.500 :temNotaAplicacao :nota_150.20.500_d2e27bf02c4c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.500_dbfdcea1bbc6
-:nota_150.20.500_dbfdcea1bbc6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.500_75c60b72bfb6
+:nota_150.20.500_75c60b72bfb6 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Análise e melhoria de processos no âmbito do sistema de gestão de qualidade".
 
-:c150.20.500 :temNotaAplicacao :nota_150.20.500_dbfdcea1bbc6 .
+:c150.20.500 :temNotaAplicacao :nota_150.20.500_75c60b72bfb6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.500_b1c63d06183b
-:nota_150.20.500_b1c63d06183b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.500_0dc9b5335e0b
+:nota_150.20.500_0dc9b5335e0b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A certificação da qualidade deve ser considerada em 450.10.648 – Reconhecimento das  características e origem de animais, bens, produtos e serviços".
 
-:c150.20.500 :temNotaExclusao :nota_150.20.500_b1c63d06183b .
+:c150.20.500 :temNotaExclusao :nota_150.20.500_0dc9b5335e0b .
 
 :c150.20.500 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.500 :processoTransversal "S" .
@@ -6373,13 +6392,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.20 ;
 	:descricao 'Definição e regulação da organização, estrutura e funcionamento dos serviços, princípios e níveis de direção e hierarquia que os articulam com o objetivo de assegurar o cumprimento de competências legalmente atribuídas. Inicia com a decisão ou determinação da necessidade da reestruturação orgânica e termina com a submissão da proposta ao órgão deliberativo. Inclui análise e avaliação da estrutura orgânica e funcional existente, recolha de contributos e elaboração da proposta de versão final.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.501_f3104053f543
-:nota_150.20.501_f3104053f543 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.20.501_8587ac762886
+:nota_150.20.501_8587ac762886 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A formalização da reestruturação orgânica e funcional deve ser considerada em 100.10.001 – Produção e comunicação de atos legislativos".
 
-:c150.20.501 :temNotaExclusao :nota_150.20.501_f3104053f543 .
+:c150.20.501 :temNotaExclusao :nota_150.20.501_8587ac762886 .
 
 :c150.20.501 :processoTipoVC :vc_processoTipo_pc .
 :c150.20.501 :processoTransversal "S" .
@@ -6460,16 +6479,6 @@
 :c150.20.501 :eCruzadoCom :c150.40.500 .
 :c150.20.501 :temRelProc :c500.10.001 .
 :c150.20.501 :eSuplementoPara :c500.10.001 .
-:c150.20.501 :temRelProc :c700.10.001 .
-:c150.20.501 :eSinteseDe :c700.10.001 .
-:c150.20.501 :temRelProc :c700.10.002 .
-:c150.20.501 :eSinteseDe :c700.10.002 .
-:c150.20.501 :temRelProc :c700.10.003 .
-:c150.20.501 :eSinteseDe :c700.10.003 .
-:c150.20.501 :temRelProc :c700.20.100 .
-:c150.20.501 :eSinteseDe :c700.20.100 .
-:c150.20.501 :temRelProc :c700.20.101 .
-:c150.20.501 :eSinteseDe :c700.20.101 .
 :c150.20.501 :temRelProc :c900.20.200 .
 :c150.20.501 :eAntecessorDe :c900.20.200 .
 :c150.20.501 :temPCA :pca_c150.20.501.
@@ -6507,16 +6516,6 @@
 :just_df_c150.20.501 :temCriterio :just_df_c150.20.501_0. 
 :just_df_c150.20.501_0 :critTemProcRel :c100.10.600 .
 :just_df_c150.20.501_0 :critTemProcRel :c150.20.301 .
-:just_df_c150.20.501_1 rdf:type owl:NamedIndividual ,
-		:CriterioJustificacaoDensidadeInfo ;
-	:conteudo "Sintetiza a informação dosPN 700.10.001- Referenciação de utentes para consultas;PN 700.10.002 - Referenciação para a rede de cuidados continuados integrados;PN 700.10.003 - Referenciação de utentes para cirurgias;PN 700.20.100 - Rastreio;PN 700.20.101- Realização de ações de promoção da saúde;PN 700.20.200 - Prestação de cuidados de saúde personalizados." .
-:just_df_c150.20.501 :temCriterio :just_df_c150.20.501_1. 
-:just_df_c150.20.501_1 :critTemProcRel :c700.10.001 .
-:just_df_c150.20.501_1 :critTemProcRel :c700.10.002 .
-:just_df_c150.20.501_1 :critTemProcRel :c700.10.003 .
-:just_df_c150.20.501_1 :critTemProcRel :c700.20.100 .
-:just_df_c150.20.501_1 :critTemProcRel :c700.20.101 .
-:just_df_c150.20.501_1 :critTemProcRel :c700.20.200 .
 
 ###  http://jcr.di.uminho.pt/m51-clav#c150.30
 :c150.30 rdf:type owl:NamedIndividual ;
@@ -6527,21 +6526,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150 ;
 	:descricao 'Compreende as atividades específicamente orientadas à produção de informações estratégicas para salvaguarda da independência nacional e dos interesses nacionais e garantia da segurança interna e externa do Estado português (intelligence).' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.30_55dda9daf71b
-:nota_150.30_55dda9daf71b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.30_8e0acaae226c
+:nota_150.30_8e0acaae226c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração e transmissão de relatórios de informações, no âmbito das finalidades do Sistema de Informações da República Portuguesa (SIRP)".
 
-:c150.30 :temNotaAplicacao :nota_150.30_55dda9daf71b .
+:c150.30 :temNotaAplicacao :nota_150.30_8e0acaae226c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.30_f157078f52e9
-:nota_150.30_f157078f52e9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.30_462309303312
+:nota_150.30_462309303312 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A elaboração de estudos ou relatórios de monitorização das políticas públicas deve ser considerada em \"Planeamento e gestão estratégica/ Definição e avaliação de políticas\" (150.10)".
 
-:c150.30 :temNotaExclusao :nota_150.30_f157078f52e9 .
+:c150.30 :temNotaExclusao :nota_150.30_462309303312 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c150.30.001
@@ -6553,29 +6552,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.30 ;
 	:descricao 'Elaboração, identificação, tratamento e intercâmbio de informação estratégica para combate ao terrorismo e agitações sociais e políticas. Inicia com a elaboração de estudo ou com a receção ou envio de informação das congéneres nacionais e estrangeiras e termina com análise da informação ou produção de orientações. Inclui recolha e tratamento da informação estratégica. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.30.001_ccf3d76a3ef7
-:nota_150.30.001_ccf3d76a3ef7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.30.001_d285720c63a2
+:nota_150.30.001_d285720c63a2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Tratamento e troca de informação estratégica com os serviços de informação congéneres nacionais e estrangeiros para a segurança interna".
 
-:c150.30.001 :temNotaAplicacao :nota_150.30.001_ccf3d76a3ef7 .
+:c150.30.001 :temNotaAplicacao :nota_150.30.001_d285720c63a2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.30.001_3fd952d082a1
-:nota_150.30.001_3fd952d082a1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.30.001_27bc34540162
+:nota_150.30.001_27bc34540162 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Produção e intercâmbio de informação estratégica sobre movimentos migratórios, terrorismo, sabotagem, espionagem, criminalidade grave e violenta, nacional e transnacional, económica, financeira, segurança radiológica e nuclear".
 
-:c150.30.001 :temNotaAplicacao :nota_150.30.001_3fd952d082a1 .
+:c150.30.001 :temNotaAplicacao :nota_150.30.001_27bc34540162 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.30.001_3c59b350fca5
-:nota_150.30.001_3c59b350fca5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.30.001_e30caef1e55e
+:nota_150.30.001_e30caef1e55e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processamento de informação criminal deverá ser considerada em 600.10.007 – Processamento de informação criminal".
 
-:c150.30.001 :temNotaExclusao :nota_150.30.001_3c59b350fca5 .
+:c150.30.001 :temNotaExclusao :nota_150.30.001_e30caef1e55e .
 
 :c150.30.001 :processoTipoVC :vc_processoTipo_pe .
 :c150.30.001 :processoTransversal "S" .
@@ -6665,21 +6664,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150 ;
 	:descricao 'Compreende as atividades de planeamento da operação estatística (incluindo os respetivos estudos de viabilidade e estudos metodológicos), recolha de dados (por inquérito, entrevista ou outra forma), tratamento, análise e apresentação dos dados recolhidos em tabelas, gráficos ou relatórios.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40_758c2f170329
-:nota_150.40_758c2f170329 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40_ff092291e463
+:nota_150.40_ff092291e463 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Realização ou participação na realização de qualquer operação estatística, independentemente do respetivo âmbito: nacional, internacional e institucional".
 
-:c150.40 :temNotaAplicacao :nota_150.40_758c2f170329 .
+:c150.40 :temNotaAplicacao :nota_150.40_ff092291e463 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40_0f563b0f2fc8
-:nota_150.40_0f563b0f2fc8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40_79c2effaef05
+:nota_150.40_79c2effaef05 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A divulgação de informação estatística deve ser considerada em \"Dinamização e comunicação institucional/ Execução de atividades de comunicação institucional\" (900.20)".
 
-:c150.40 :temNotaExclusao :nota_150.40_0f563b0f2fc8 .
+:c150.40 :temNotaExclusao :nota_150.40_79c2effaef05 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c150.40.001
@@ -6691,37 +6690,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.40 ;
 	:descricao 'Conceção, planeamento e execução de operações de recolha, tratamento, análise e apresentação de dados estatísticos oficiais no âmbito da atividade das autoridades estatísticas do Sistema Estatístico Nacional e das organizações internacionais. Inicia com o estudo de viabilidade e termina com a apresentação dos dados recolhidos. Inclui aprovação técnica da operação estatística, definição da metodologia, preparação da recolha, análise da amostra, gestão integrada do respondente (fornecedor da informação estatística), análise da coerência dos dados, aferição dos resultados e preparação da informação para divulgação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.001_492feb4229ab
-:nota_150.40.001_492feb4229ab rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.001_e07734e4f358
+:nota_150.40.001_e07734e4f358 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de instrumentos para a recolha de dados".
 
-:c150.40.001 :temNotaAplicacao :nota_150.40.001_492feb4229ab .
+:c150.40.001 :temNotaAplicacao :nota_150.40.001_e07734e4f358 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.001_6bf2a6470d6b
-:nota_150.40.001_6bf2a6470d6b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.001_85485106dc5f
+:nota_150.40.001_85485106dc5f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Gestão das não-respostas".
 
-:c150.40.001 :temNotaAplicacao :nota_150.40.001_6bf2a6470d6b .
+:c150.40.001 :temNotaAplicacao :nota_150.40.001_85485106dc5f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.001_95042fb8f48b
-:nota_150.40.001_95042fb8f48b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.001_39ce57bf689e
+:nota_150.40.001_39ce57bf689e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Gestão dos ficheiros e da base de amostragem e dos meios de divulgação dos resultados".
 
-:c150.40.001 :temNotaAplicacao :nota_150.40.001_95042fb8f48b .
+:c150.40.001 :temNotaAplicacao :nota_150.40.001_39ce57bf689e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.001_4da648f66929
-:nota_150.40.001_4da648f66929 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.001_9d517a879261
+:nota_150.40.001_9d517a879261 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A edição e publicação de informação estatística devem ser consideradas em 900.20.201 – Edição e publicação de conteúdos".
 
-:c150.40.001 :temNotaExclusao :nota_150.40.001_4da648f66929 .
+:c150.40.001 :temNotaExclusao :nota_150.40.001_9d517a879261 .
 
 :c150.40.001 :processoTipoVC :vc_processoTipo_pe .
 :c150.40.001 :processoTransversal "S" .
@@ -6788,8 +6787,12 @@
 :c150.40.001 :eAntecessorDe :c150.20.101 .
 :c150.40.001 :temRelProc :c150.20.300 .
 :c150.40.001 :eAntecessorDe :c150.20.300 .
+:c150.40.001 :temRelProc :c350.50.100 .
+:c150.40.001 :eSinteseDe :c350.50.100 .
 :c150.40.001 :temRelProc :c650.10.111 .
 :c150.40.001 :eSinteseDe :c650.10.111 .
+:c150.40.001 :temRelProc :c650.10.016 .
+:c150.40.001 :eSinteseDe :c650.10.016 .
 
 ###  http://jcr.di.uminho.pt/m51-clav#c150.40.001.01
 :c150.40.001.01 rdf:type owl:NamedIndividual ;
@@ -6882,85 +6885,85 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.40 ;
 	:descricao 'Conceção, planeamento e execução das operações de recolha, tratamento, análise e apresentação de dados estatísticos de suporte à tomada de decisão. Inicia com a definição da metodologia e termina com a apresentação dos dados recolhidos. Inclui preparação da recolha, contabilização de dados e preparação da informação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_e88507c5ecd3
-:nota_150.40.500_e88507c5ecd3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_3a7ae8c230f9
+:nota_150.40.500_3a7ae8c230f9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Estatísticas operacionais".
 
-:c150.40.500 :temNotaAplicacao :nota_150.40.500_e88507c5ecd3 .
+:c150.40.500 :temNotaAplicacao :nota_150.40.500_3a7ae8c230f9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_fc435994a29f
-:nota_150.40.500_fc435994a29f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_3695942832a3
+:nota_150.40.500_3695942832a3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Estatística de adoções de canídeos e gatídeos".
 
-:c150.40.500 :temNotaAplicacao :nota_150.40.500_fc435994a29f .
+:c150.40.500 :temNotaAplicacao :nota_150.40.500_3695942832a3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_511cb94b80e3
-:nota_150.40.500_511cb94b80e3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_4cd1c5bf8bae
+:nota_150.40.500_4cd1c5bf8bae rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Estatística de utilizadores de sala de leitura".
 
-:c150.40.500 :temNotaAplicacao :nota_150.40.500_511cb94b80e3 .
+:c150.40.500 :temNotaAplicacao :nota_150.40.500_4cd1c5bf8bae .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_6708e48f987b
-:nota_150.40.500_6708e48f987b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_62678375c7ff
+:nota_150.40.500_62678375c7ff rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Estatísticas organizacionais e operacionais".
 
-:c150.40.500 :temNotaAplicacao :nota_150.40.500_6708e48f987b .
+:c150.40.500 :temNotaAplicacao :nota_150.40.500_62678375c7ff .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_5b0c6eeb982c
-:nota_150.40.500_5b0c6eeb982c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_5da4468b48cb
+:nota_150.40.500_5da4468b48cb rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Estatísticas de requisições internas".
 
-:c150.40.500 :temNotaAplicacao :nota_150.40.500_5b0c6eeb982c .
+:c150.40.500 :temNotaAplicacao :nota_150.40.500_5da4468b48cb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_58e9fe9a50b7
-:nota_150.40.500_58e9fe9a50b7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_e532900e99a1
+:nota_150.40.500_e532900e99a1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Estatísticas de tráfico e consumo de droga".
 
-:c150.40.500 :temNotaAplicacao :nota_150.40.500_58e9fe9a50b7 .
+:c150.40.500 :temNotaAplicacao :nota_150.40.500_e532900e99a1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_26f963c9d11d
-:nota_150.40.500_26f963c9d11d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_c7045173b4cd
+:nota_150.40.500_c7045173b4cd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Estatísticas do Observatório de Segurança Rodoviária".
 
-:c150.40.500 :temNotaAplicacao :nota_150.40.500_26f963c9d11d .
+:c150.40.500 :temNotaAplicacao :nota_150.40.500_c7045173b4cd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_da62c35c602d
-:nota_150.40.500_da62c35c602d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_1e89416d71a5
+:nota_150.40.500_1e89416d71a5 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A gestão de entidades respondentes (atualização de dados) deve ser considerada em 900.20.600 – Criação e atualização de contactos institucionais".
 
-:c150.40.500 :temNotaExclusao :nota_150.40.500_da62c35c602d .
+:c150.40.500 :temNotaExclusao :nota_150.40.500_1e89416d71a5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_98e4e2d345e0
-:nota_150.40.500_98e4e2d345e0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_6fa1ad51cc59
+:nota_150.40.500_6fa1ad51cc59 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A definição de formulários utilizados na recolha devem ser considerados em 150.20.001 – Preparação de regras e orientações internas".
 
-:c150.40.500 :temNotaExclusao :nota_150.40.500_98e4e2d345e0 .
+:c150.40.500 :temNotaExclusao :nota_150.40.500_6fa1ad51cc59 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_bc18eb4a78da
-:nota_150.40.500_bc18eb4a78da rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.500_911153b74298
+:nota_150.40.500_911153b74298 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os estudos, projetos técnicos científicos e de projeções e de cenarizações resultantes de recolhas de dados estatísticos deverão ser considerados em 800.10.602 – Realização de estudos técnicos de apoio a políticas públicas e/ou comerciais".
 
-:c150.40.500 :temNotaExclusao :nota_150.40.500_bc18eb4a78da .
+:c150.40.500 :temNotaExclusao :nota_150.40.500_911153b74298 .
 
 :c150.40.500 :processoTipoVC :vc_processoTipo_pc .
 :c150.40.500 :processoTransversal "S" .
@@ -7075,10 +7078,18 @@
 :c150.40.500 :eSinteseDe :c300.10.700 .
 :c150.40.500 :temRelProc :c300.30.008 .
 :c150.40.500 :eAntecessorDe :c300.30.008 .
+:c150.40.500 :temRelProc :c350.50.100 .
+:c150.40.500 :eSinteseDe :c350.50.100 .
+:c150.40.500 :temRelProc :c550.10.307 .
+:c150.40.500 :eSinteseDe :c550.10.307 .
 :c150.40.500 :temRelProc :c800.10.300 .
 :c150.40.500 :eSucessorDe :c800.10.300 .
 :c150.40.500 :temRelProc :c650.10.111 .
 :c150.40.500 :eSinteseDe :c650.10.111 .
+:c150.40.500 :temRelProc :c650.10.016 .
+:c150.40.500 :eSinteseDe :c650.10.016 .
+:c150.40.500 :temRelProc :c800.10.300 .
+:c150.40.500 :eSinteseDe :c800.10.300 .
 
 ###  http://jcr.di.uminho.pt/m51-clav#c150.40.500.01
 :c150.40.500.01 rdf:type owl:NamedIndividual ;
@@ -7178,45 +7189,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c150.40 ;
 	:descricao 'Conceção, planeamento e execução das operações de recolha, tratamento, análise e apresentação de dados estatísticos com vista à caracterização dos agentes do setor regulado e à definição de ações e políticas de suporte à regulação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.501_5480220e7935
-:nota_150.40.501_5480220e7935 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.501_9729daabdbee
+:nota_150.40.501_9729daabdbee rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Medição do desempenho de agentes".
 
-:c150.40.501 :temNotaAplicacao :nota_150.40.501_5480220e7935 .
+:c150.40.501 :temNotaAplicacao :nota_150.40.501_9729daabdbee .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.501_7de1b03ea28b
-:nota_150.40.501_7de1b03ea28b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.501_4c4d78d7f4f1
+:nota_150.40.501_4c4d78d7f4f1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Operacionalização da regulação".
 
-:c150.40.501 :temNotaAplicacao :nota_150.40.501_7de1b03ea28b .
+:c150.40.501 :temNotaAplicacao :nota_150.40.501_4c4d78d7f4f1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.501_f6c4d25f469f
-:nota_150.40.501_f6c4d25f469f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.501_d6dbf342fc8f
+:nota_150.40.501_d6dbf342fc8f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Operacionalização da supervisão".
 
-:c150.40.501 :temNotaAplicacao :nota_150.40.501_f6c4d25f469f .
+:c150.40.501 :temNotaAplicacao :nota_150.40.501_d6dbf342fc8f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.501_ca183ee1b43d
-:nota_150.40.501_ca183ee1b43d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.501_855f0ab6ed7b
+:nota_150.40.501_855f0ab6ed7b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A conceção, planeamento e execução de operações de recolha, tratamento, análise e apresentação de dados estatísticos oficiais no âmbito da atividade das autoridades estatísticas do Sistema Estatístico Nacional deve ser considerada em 150.40.001 – Realização de operações estatísticas oficiais".
 
-:c150.40.501 :temNotaExclusao :nota_150.40.501_ca183ee1b43d .
+:c150.40.501 :temNotaExclusao :nota_150.40.501_855f0ab6ed7b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.501_328473fe1805
-:nota_150.40.501_328473fe1805 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_150.40.501_8091bf791385
+:nota_150.40.501_8091bf791385 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A conceção, planeamento e execução das operações de recolha, tratamento, análise e apresentação de dados estatísticos de suporte à tomada de decisão deve ser considerada em 150.40.500 – Recolha e tratamento de dados estatísticos de apoio à gestão".
 
-:c150.40.501 :temNotaExclusao :nota_150.40.501_328473fe1805 .
+:c150.40.501 :temNotaExclusao :nota_150.40.501_8091bf791385 .
 
 :c150.40.501 :processoTipoVC :vc_processoTipo_pe .
 :c150.40.501 :processoTransversal "N" .

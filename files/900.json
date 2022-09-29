@@ -14,41 +14,41 @@
         "descricao": "Compreende as atividades de conceção, de produção, de organização ou participação na organização de eventos, como sejam conferências, encontros, seminários, debates, exposições, festivais, espetáculos, ou outras atividades de caráter informativo, educativo, científico, cultural, desportivo, recreativo ou outro que estimulem a iniciativa e a participação das comunidades.",
         "notasAp": [
             {
-                "idNota": "nota_900.10_7632961ff36c",
+                "idNota": "nota_900.10_f2d801acf1df",
                 "nota": "Todo o processo técnico e protocolar de organização (planeamento operacional, ações comuns de divulgação, processamento de inscrições, etc.), bem como eventuais registos dos eventos (comunicações e discursos, registos sonoros, audiovisuais)."
             },
             {
-                "idNota": "nota_900.10_b3a73b540566",
+                "idNota": "nota_900.10_b2e977f102ad",
                 "nota": "Eventos e cerimónias desportivas"
             },
             {
-                "idNota": "nota_900.10_209b0ae7e588",
+                "idNota": "nota_900.10_f4ee85b49275",
                 "nota": "Cerimónias de entrega de prémios ou distinções honoríficas"
             },
             {
-                "idNota": "nota_900.10_3a988a7fab6d",
+                "idNota": "nota_900.10_eaca94a1527d",
                 "nota": "Cerimónias e eventos comemorativos"
             },
             {
-                "idNota": "nota_900.10_988c584958c5",
+                "idNota": "nota_900.10_78e4b7843a41",
                 "nota": "Ações de sensibilização"
             },
             {
-                "idNota": "nota_900.10_c988715ee480",
+                "idNota": "nota_900.10_be09a9f4c267",
                 "nota": "Qualquer evento de divulgação e sensibilização pública ou dirigida a comunidades de interesse."
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.10_f76683ddb58d",
+                "idNota": "nota_900.10_6608d7a7b017",
                 "nota": "A organização da representação nacional em eventos internacionais, a organização de eventos de promoção do país no estrangeiro e a colaboração na organização de eventos de promoção de países estrangeiros em Portugal, devem ser consideradas em \\\"Execução da política externa/ Projetos de execução da política externa\\\" (200.30)."
             },
             {
-                "idNota": "nota_900.10_069816ccb3eb",
+                "idNota": "nota_900.10_5c2afc9dbb3c",
                 "nota": "Conferências de imprensa devem ser consideradas em \\\"Dinamização e comunicação institucional/ Execução de atividades de protocolo e comunicação institucional\\\" (900.20)"
             },
             {
-                "idNota": "nota_900.10_b25c8f70971d",
+                "idNota": "nota_900.10_11a2326fa501",
                 "nota": "O processo de publicação de atas ou outros registos de eventos deve ser considerado em \\\"Dinamização e comunicação institucional/ Execução de atividades de protocolo e comunicação institucional\\\" (900.20)"
             }
         ]
@@ -61,25 +61,25 @@
         "descricao": "Criação e produção de iniciativas ou atividades artísticas de qualquer tipo. Inicia com a conceção da atividade ou obra e termina com a concretização da mesma. Inclui o desenvolvimento do conceito ou ideia, planeamento, estimativa dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável, definição dos meios de divulgação e produção.",
         "notasAp": [
             {
-                "idNota": "nota_900.10.001_8abcacb780e2",
+                "idNota": "nota_900.10.001_edd1c1395ed1",
                 "nota": "Representação e exposição artística, teatral, cinematográfica, musical, televisiva"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.10.001_45cb84c3baaa",
+                "idNota": "nota_900.10.001_f74d91d16056",
                 "nota": "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
             },
             {
-                "idNota": "nota_900.10.001_30c661819fbc",
+                "idNota": "nota_900.10.001_9cf1d5705c55",
                 "nota": "O processamento de despesas e receitas deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_900.10.001_35cdb2f3c094",
+                "idNota": "nota_900.10.001_7ba47678da73",
                 "nota": "As questões de segurança devem ser consideradas em 550.20.004 – Realização de piquetes de prevenção"
             },
             {
-                "idNota": "nota_900.10.001_bc74746134ed",
+                "idNota": "nota_900.10.001_ebaf424635e7",
                 "nota": "A divulgação deve ser considerada em 900.20.201 - Edição e publicação de conteúdos"
             }
         ],
@@ -278,19 +278,19 @@
         "descricao": "Criação e registo de obras ou atividades artísticas. Inicia com a proposta ou iniciativa de criação da obra ou atividade e inclui a conceção ou planeamento, a autorização de realização e o registo documental do ato criativo (em imagem, som ou texto).",
         "notasAp": [
             {
-                "idNota": "nota_900.10.001.01_4f7a0986aff1",
+                "idNota": "nota_900.10.001.01_bd5f3f283e82",
                 "nota": "Maquetes de cenografia"
             },
             {
-                "idNota": "nota_900.10.001.01_da9a11abfae3",
+                "idNota": "nota_900.10.001.01_a2d94db7f136",
                 "nota": "Esboços e / ou desenhos de figurinos"
             },
             {
-                "idNota": "nota_900.10.001.01_beeb9fd7f3c8",
+                "idNota": "nota_900.10.001.01_053f92e693de",
                 "nota": "Memórias descritivas"
             },
             {
-                "idNota": "nota_900.10.001.01_6f65c4a985ea",
+                "idNota": "nota_900.10.001.01_8471d60a8fdf",
                 "nota": "Registo fotográfico/vídeo da obra ou atividade"
             }
         ],
@@ -338,11 +338,11 @@
         "descricao": "Concretização das ações necessárias à produção e apresentação de obras ou atividades artísticas. Inclui o planeamento operacional, a definição de meios, a logística e organização do espaço ou materiais, estudo de viabilidade (quando aplicável), a definição dos meios de divulgação, a produção e a apresentação de obra ou atividade.",
         "notasAp": [
             {
-                "idNota": "nota_900.10.001.02_d2dbf2f9158b",
+                "idNota": "nota_900.10.001.02_50b1c6e55c69",
                 "nota": "Marcação de provas de guarda roupa"
             },
             {
-                "idNota": "nota_900.10.001.02_af9d2ef14ab4",
+                "idNota": "nota_900.10.001.02_052d97f88475",
                 "nota": "Visionamento e revisão de filmes"
             }
         ],
@@ -392,25 +392,25 @@
         "descricao": "Criação e produção de iniciativas e atividades de caráter desportivo, amador ou profissional, de recreação, entretenimento ou ocupação do tempo. Inicia com a conceção da atividade e termina com a concretização da mesma. Inclui o desenvolvimento do conceito ou ideia, planeamento, estimativa dos recursos a alocar, seleção e organização de espaços e do esquema protocolar, se aplicável, a definição dos meios de divulgação e a produção, a distribuição de eventuais convites, a gestão dos ingressos do público, a seleção dos executantes ou intervenientes nas atividades.",
         "notasAp": [
             {
-                "idNota": "nota_900.10.002_b55d7bd0be54",
+                "idNota": "nota_900.10.002_349ab4e917e8",
                 "nota": "Provas desportivas"
             },
             {
-                "idNota": "nota_900.10.002_250cd1bca0fe",
+                "idNota": "nota_900.10.002_d5c07a112374",
                 "nota": "Sessões recreativas"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.10.002_e9b12a8bdf85",
+                "idNota": "nota_900.10.002_5db8cc30bcff",
                 "nota": "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
             },
             {
-                "idNota": "nota_900.10.002_cc883d9dfbf7",
+                "idNota": "nota_900.10.002_c0a8b262b4a6",
                 "nota": "O processamento de despesas e receitas deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_900.10.002_769e2d8b359f",
+                "idNota": "nota_900.10.002_5956a53b2236",
                 "nota": "As questões de segurança devem ser consideradas em 550.20.004 – Realização de piquetes de prevenção"
             }
         ],
@@ -608,11 +608,11 @@
         "descricao": "Criação e registo de atividades desportivas ou recreativas. Inicia com a proposta ou iniciativa para atividade e inclui a conceção ou planeamento, a autorização de realização e o registo documental da iniciativa (em imagem, som ou texto).",
         "notasAp": [
             {
-                "idNota": "nota_900.10.002.01_22a7bbed4226",
+                "idNota": "nota_900.10.002.01_4a3ac9d25c40",
                 "nota": "Registo fotográfico/vídeo da atividade desportiva"
             },
             {
-                "idNota": "nota_900.10.002.01_1be14476860f",
+                "idNota": "nota_900.10.002.01_cbe0ca84d315",
                 "nota": "Registo fotográfico/vídeo da atividade recreativa"
             }
         ],
@@ -660,11 +660,11 @@
         "descricao": "Concretização das ações necessárias à produção ou participação em atividades desportivas ou recreativas. Inclui o planeamento operacional, a definição de meios, a logística e organização do espaço ou materiais, estudo de viabilidade (quando aplicável), a definição dos meios de divulgação e a produção ou execução da atividade.",
         "notasAp": [
             {
-                "idNota": "nota_900.10.002.02_0e7ac96bdec5",
+                "idNota": "nota_900.10.002.02_6e06728464e1",
                 "nota": "Marcação de percurso da atividade"
             },
             {
-                "idNota": "nota_900.10.002.02_d3663c341919",
+                "idNota": "nota_900.10.002.02_6b1b3a17ee56",
                 "nota": "Apoio logístico a provas desportivas"
             }
         ],
@@ -714,37 +714,37 @@
         "descricao": "Preparação e execução ou intervenção em atos de celebração de datas, pessoas ou acontecimentos relevantes e de entrega de prémios, distinções ou condecorações. Inicia com a proposta ou pedido de participação e termina com a realização do ato. Inclui, entre outras, o planeamento, a logística, estimativa dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável, a definição dos meios de divulgação e a produção.",
         "notasAp": [
             {
-                "idNota": "nota_900.10.500_44b234a47dfc",
+                "idNota": "nota_900.10.500_2288c08c151e",
                 "nota": "Entrega de prémios"
             },
             {
-                "idNota": "nota_900.10.500_0308ff137219",
+                "idNota": "nota_900.10.500_c14edf615aab",
                 "nota": "Celebração de datas comemorativas"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.10.500_aaca0e294f4d",
+                "idNota": "nota_900.10.500_77e479214adf",
                 "nota": "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
             },
             {
-                "idNota": "nota_900.10.500_0a4841e7424d",
+                "idNota": "nota_900.10.500_245f9886898b",
                 "nota": "A seleção dos premiados deve ser considerada em 850.10.500 – Atribuição de prémios"
             },
             {
-                "idNota": "nota_900.10.500_d42a91458b19",
+                "idNota": "nota_900.10.500_55fb7c7fb139",
                 "nota": "A seleção para atribuição de prémios de reconhecimento da prestação de atos cívicos ou para distinções honoríficas deve ser considerada em 950.30.001 – Reconhecimento por mérito e serviços prestados"
             },
             {
-                "idNota": "nota_900.10.500_cb85c1119275",
+                "idNota": "nota_900.10.500_e39f9e0604bc",
                 "nota": "A divulgação da cerimónia deve ser considerada em 900.20.201 - Edição e publicação de conteúdos"
             },
             {
-                "idNota": "nota_900.10.500_9a28cd8b0d72",
+                "idNota": "nota_900.10.500_c4bd946fc030",
                 "nota": "As questões de segurança devem ser consideradas em 550.10 - Segurança pública"
             },
             {
-                "idNota": "nota_900.10.500_82560b92458b",
+                "idNota": "nota_900.10.500_a4aa4ca6b138",
                 "nota": "A entrega de condecorações e distinções deve ser consideradada em 900.20.601 - Organização de cerimónias protocolares."
             }
         ],
@@ -995,11 +995,11 @@
         "descricao": "Planeamento, programação e registo de iniciativas comemorativas ou de homenagem. Inicia com a proposta e inclui a definição do cronograma, a identificação dos intervenientes, a decisão de execução da atividade e o seu registo (em imagem, som ou texto).",
         "notasAp": [
             {
-                "idNota": "nota_900.10.500.01_7ae861d934a3",
+                "idNota": "nota_900.10.500.01_3b19514dd160",
                 "nota": "Programa da cerimónia"
             },
             {
-                "idNota": "nota_900.10.500.01_477b803be966",
+                "idNota": "nota_900.10.500.01_7648f65dd9ad",
                 "nota": "Registo fotográfico/vídeo da cerimónia"
             }
         ],
@@ -1047,7 +1047,7 @@
         "descricao": "Concretização das ações necessárias à execução de atividades comemorativas. Inclui o planeamento operacional, a definição dos recursos a utilizar, a logística e organização do espaço ou materiais e a realização da atividade.",
         "notasAp": [
             {
-                "idNota": "nota_900.10.500.02_e5f7c491f437",
+                "idNota": "nota_900.10.500.02_795463872366",
                 "nota": "Apoio logístico à cerimónia"
             }
         ],
@@ -1097,29 +1097,29 @@
         "descricao": "Preparação e execução ou intervenção em atividades de divulgação e troca de ideias técnicas, científicas, culturais, políticas, sociais, ambientais ou outras. Inicia com a proposta ou o pedido de participação e termina com a conclusão da atividade. Inclui, entre outras, o planeamento, a logística, estimativa dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável, a definição dos meios de divulgação e a produção.",
         "notasAp": [
             {
-                "idNota": "nota_900.10.501_fa88755decb1",
+                "idNota": "nota_900.10.501_bab95bf6b143",
                 "nota": "Apresentações em público e outras atividades especializadas ou de natureza técnica ou académica sobre algum tema concreto"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.10.501_6a66f74f83db",
+                "idNota": "nota_900.10.501_190deabb1b0e",
                 "nota": "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
             },
             {
-                "idNota": "nota_900.10.501_8d7c1db527ee",
+                "idNota": "nota_900.10.501_94ea530cb872",
                 "nota": "As questões de segurança devem ser consideradas em 550"
             },
             {
-                "idNota": "nota_900.10.501_276a38f27065",
+                "idNota": "nota_900.10.501_891a8719b52f",
                 "nota": "10 - Segurança pública"
             },
             {
-                "idNota": "nota_900.10.501_011b13877c8d",
+                "idNota": "nota_900.10.501_0b41704eacb8",
                 "nota": "As campanhas de saúde com intervenção clínica devem ser consideradas em 700.20.101 – Realização de ações de promoção da saúde"
             },
             {
-                "idNota": "nota_900.10.501_b5534273bd42",
+                "idNota": "nota_900.10.501_4cedde05e24a",
                 "nota": "A divulgação, bem como a eventual publicação de atas deve ser considerada em 900.20.201 – Edição e publicação de conteúdos"
             }
         ],
@@ -1368,11 +1368,11 @@
         "descricao": "Planeamento, programação e registo de iniciativas de partilha e debate crítico. Inicia com a proposta e inclui a definição do cronograma, a identificação dos intervenientes, a decisão de execução da atividade e o seu registo (em imagem, som ou texto).",
         "notasAp": [
             {
-                "idNota": "nota_900.10.501.01_99d3925b5a12",
+                "idNota": "nota_900.10.501.01_cd5f96ecc9df",
                 "nota": "Programa da iniciativa"
             },
             {
-                "idNota": "nota_900.10.501.01_01554bf3f62e",
+                "idNota": "nota_900.10.501.01_2a55a0752898",
                 "nota": "Registo fotográfico/vídeo da iniciativa"
             }
         ],
@@ -1420,7 +1420,7 @@
         "descricao": "Concretização das ações necessárias à execução de iniciativas de partilha e debate crítico. Inclui o planeamento operacional, a definição dos recursos a utilizar, a logística e organização do espaço ou materiais e a realização da atividade.",
         "notasAp": [
             {
-                "idNota": "nota_900.10.501.02_90e85894f988",
+                "idNota": "nota_900.10.501.02_cb52413f19cf",
                 "nota": "Apoio logístico à iniciativa"
             }
         ],
@@ -1469,13 +1469,13 @@
         "descricao": "Preparação e execução ou intervenção em ações que pretendem esclarecer, alertar ou prevenir riscos com o objetivo de alterar determinados comportamentos de natureza social, cultural ou cívica. Inicia com a proposta ou o pedido de participação e termina com a apreciação do relatório de execução da atividade. Inclui definição dos materiais informativos, distribuição e afetação de recursos, logística da ação, seleção e organização do espaço e do esquema protocolar, se aplicável.",
         "notasAp": [
             {
-                "idNota": "nota_900.10.502_5a42aaa185c0",
+                "idNota": "nota_900.10.502_e28155554890",
                 "nota": "Sessões de abordagem direta à população ou a públicos-alvo"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.10.502_36592044f72f",
+                "idNota": "nota_900.10.502_5dfc42f3fc88",
                 "nota": "A conceção dos materiais e conteúdos informativos deve ser considerada em 900.20.200 – Conceção de conteúdos institucionais para divulgação"
             }
         ],
@@ -1758,25 +1758,25 @@
         "descricao": "Preparação e execução ou intervenção em atividades que estimulam o interesse ou dão a conhecer modos de vida, produtos ou serviços. Inicia com a proposta de realização ou o pedido de participação e termina com a apreciação do relatório de execução da atividade. Inclui, entre outras, o planeamento, a seleção dos participantes, articulação entre entidades, a logística, estimativa dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável, a definição dos meios de divulgação e a produção.",
         "notasAp": [
             {
-                "idNota": "nota_900.10.503_92f68bc037bc",
+                "idNota": "nota_900.10.503_2a53dfa652a9",
                 "nota": "Organização de atividades do serviço educativo"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.10.503_6e0ac76cf12c",
+                "idNota": "nota_900.10.503_fc1fc809981c",
                 "nota": "A realização de ações de promoção da imagem de Portugal no estrangeiro, e de países estrangeiros em Portugal, deve ser considerada em 200.30.600 – Apoio à internacionalização e à promoção do país"
             },
             {
-                "idNota": "nota_900.10.503_a7e62c8a6695",
+                "idNota": "nota_900.10.503_94fb69d8501c",
                 "nota": "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
             },
             {
-                "idNota": "nota_900.10.503_5e807552f773",
+                "idNota": "nota_900.10.503_785e051f67ec",
                 "nota": "O processamento de despesas e receitas deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_900.10.503_771a9e30e42a",
+                "idNota": "nota_900.10.503_b93f7bac5797",
                 "nota": "A mera publicitação de iniciativas de terceiros deve ser considerada em 900.10.504 - Publicitação de iniciativas e atividades de terceiros"
             }
         ],
@@ -2062,17 +2062,17 @@
         "descricao": "Divulgação de iniciativas e atividades de outras entidades. Inicia com o pedido de publicitação e termina com a decisão sobre a publicitação. Inclui a análise do pedido.",
         "notasAp": [
             {
-                "idNota": "nota_900.10.504_4c3fd5bfda77",
+                "idNota": "nota_900.10.504_7cbc95154163",
                 "nota": "Quando não há qualquer intervenção no processo para além da publicitação da atividade ou iniciativa"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.10.504_e79cbf4130ad",
+                "idNota": "nota_900.10.504_68cf81d92ad6",
                 "nota": "A aquisição de bens ou serviços deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
             },
             {
-                "idNota": "nota_900.10.504_b55aa36d5c7a",
+                "idNota": "nota_900.10.504_ebcbde75f5a8",
                 "nota": "A divulgação de atividades ou serviços de terceiros que envolva participação ativa da administração deve ser considerada em 900.10.503 – Organização e participação em iniciativas de promoção ou divulgação de produtos e serviços"
             }
         ],
@@ -2330,29 +2330,29 @@
         "descricao": "Preparação e execução ou intervenção em iniciativas de cariz religioso. Inicia com o pedido de organização ou de participação em ato espiritual ou religioso e termina com a realização ou participação no ato. Inclui identificação do ato, programação, definição dos recursos a alocar, seleção e organização do espaço e do esquema protocolar, se aplicável.",
         "notasAp": [
             {
-                "idNota": "nota_900.10.505_d37ab22bb483",
+                "idNota": "nota_900.10.505_a2b3a60c328d",
                 "nota": "Organização das celebrações espirituais e religiosas em estabelecimento prisional"
             },
             {
-                "idNota": "nota_900.10.505_cc6b0f3a7539",
+                "idNota": "nota_900.10.505_a31844e9ddb6",
                 "nota": "Cerimónias religiosas em centros educativos"
             },
             {
-                "idNota": "nota_900.10.505_a0b3eb5d2780",
+                "idNota": "nota_900.10.505_143d879c85eb",
                 "nota": "Cerimónias religiosas em hospitais e outros estabelecimentos do Serviço Nacional de Saúde"
             },
             {
-                "idNota": "nota_900.10.505_0651c7b50a65",
+                "idNota": "nota_900.10.505_28a2fd56f75b",
                 "nota": " Cerimónias religiosas em estabelecimentos das Forças Armadas e Forças de Segurança"
             },
             {
-                "idNota": "nota_900.10.505_d7eca3b49b2b",
+                "idNota": "nota_900.10.505_829374e3a532",
                 "nota": "Procissões religiosas comemorativas dos padroeiros"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.10.505_6b65f76e6d72",
+                "idNota": "nota_900.10.505_2c5e5e579f2f",
                 "nota": "As questões de segurança devem ser consideradas em 550.10 - Segurança pública"
             }
         ],
@@ -2435,65 +2435,65 @@
         "descricao": "Compreende o conjunto de ações que visam a criação e promoção da imagem da instituição, bem como a administração estratégica dos contactos e do relacionamento entre a organização e os diferentes públicos que com ela se relacionam e interagem. Considerar a criação de identidade/imagem gráfica, a atividade editorial que suporta a publicação de conteúdos institucionais, o tratamento de informação publicada nos meios de comunicação social e na internet, a preparação de informação destinada à comunicação social, à internet e à intranet e, ainda, a conceção e produção de campanhas publicitárias e artigos promocionais. Compreende, ainda, o processamento de pedidos de informação/esclarecimento dirigidos por qualquer entidade, nacional ou estrangeira, aos serviços públicos (incluindo os pedidos apresentados por grupos parlamentares ou deputados).",
         "notasAp": [
             {
-                "idNota": "nota_900.20_c860abd83ef2",
+                "idNota": "nota_900.20_3bf02425d927",
                 "nota": "Mensagens de cortesia"
             },
             {
-                "idNota": "nota_900.20_71f343ab87e0",
+                "idNota": "nota_900.20_71c3af7a01a9",
                 "nota": "Convites institucionais (quando não incluídos no processo de organização de evento)"
             },
             {
-                "idNota": "nota_900.20_706a4b3c813c",
+                "idNota": "nota_900.20_14b9ef85cd48",
                 "nota": "Criação de logótipo e de linha gráfica (do organismo, da região, do produto, do programa, do serviço, do evento ou outros)"
             },
             {
-                "idNota": "nota_900.20_41c35b160906",
+                "idNota": "nota_900.20_36953331d75a",
                 "nota": "Gestão de conteúdos para a internet e intranet"
             },
             {
-                "idNota": "nota_900.20_aefad35e75d8",
+                "idNota": "nota_900.20_42f328065747",
                 "nota": "Publicações, em papel ou suporte eletrónico, de estudos, relatórios, boletins ou folhetos informativos"
             },
             {
-                "idNota": "nota_900.20_2f11726c998a",
+                "idNota": "nota_900.20_a0f2614d5be1",
                 "nota": "Comunicados e notas de imprensa, entrevistas aos meios de comunicação social"
             },
             {
-                "idNota": "nota_900.20_da8a40a769ab",
+                "idNota": "nota_900.20_f733245d6b4d",
                 "nota": "Criação de spots publicitários para divulgação nos meios de comunicação social"
             },
             {
-                "idNota": "nota_900.20_7a224a06160d",
+                "idNota": "nota_900.20_3bd4c60f0e7c",
                 "nota": "Cartazes"
             },
             {
-                "idNota": "nota_900.20_eeb4abf1247d",
+                "idNota": "nota_900.20_174c946f714d",
                 "nota": "Edição de reproduções de peças do património cultural"
             },
             {
-                "idNota": "nota_900.20_f4bfa0da153b",
+                "idNota": "nota_900.20_66e94484bd00",
                 "nota": "Qualquer tipo de objeto promocional (canetas, camisolas, etc.)"
             },
             {
-                "idNota": "nota_900.20_eab3f0c89d30",
+                "idNota": "nota_900.20_2d40bd44a5af",
                 "nota": "Resposta a pedidos de informação"
             },
             {
-                "idNota": "nota_900.20_dc2f7ed4d17a",
+                "idNota": "nota_900.20_23826df57d62",
                 "nota": "Bases de dados de contactos institucionais"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.20_452e2199dab2",
+                "idNota": "nota_900.20_cec49b75677e",
                 "nota": "O processamento dos pedidos/requisições de acesso a documentos devem ser considerados em \\\"Administração de direitos, bens e serviços/ Utilização, exploração e rentabilidade\\\" (300.50)"
             },
             {
-                "idNota": "nota_900.20_07c2affb4457",
+                "idNota": "nota_900.20_a17eb32da0b6",
                 "nota": "Não confundir com pedidos de parecer no âmbito dos processos de negócio em que o organismo participa, os quais devem ser considerados na área respetiva"
             },
             {
-                "idNota": "nota_900.20_ca76e42d09f3",
+                "idNota": "nota_900.20_650b1866c5a5",
                 "nota": "Atividades como, por exemplo, edições para a divulgação de autores portugueses, devem ser consideradas em \\\"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\\\" (900.10)"
             }
         ]
@@ -2506,7 +2506,7 @@
         "descricao": "Conceção e consolidação da imagem gráfica uniformizada a utilizar por uma instituição, de modo a permitir o seu reconhecimento. Inicia com a decisão de criar ou de mudar a imagem e termina com a divulgação oficial dos objetos gráficos concebidos. Inclui criação e apresentação de propostas de imagem gráfica e a seleção do objeto gráfico.",
         "notasEx": [
             {
-                "idNota": "nota_900.20.001_5c7593bf6e06",
+                "idNota": "nota_900.20.001_63aebc21c2a3",
                 "nota": "A aquisição de serviços e produtos deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
             }
         ],
@@ -2631,7 +2631,7 @@
         "descricao": "Conceção de produtos que consolidem e projetem a imagem da instituição na comunidade ou reforcem o simbolismo de um determinado acontecimento ou data. Inicia com a proposta de criação do produto ou artigo e termina com a apresentação do produto. Inclui definição e a aprovação do layout final.",
         "notasEx": [
             {
-                "idNota": "nota_900.20.002_02f6fe84b015",
+                "idNota": "nota_900.20.002_c026518cfa96",
                 "nota": "A aquisição de serviços deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
             }
         ],
@@ -2752,33 +2752,33 @@
         "descricao": "Elaboração de conteúdos inerentes às atividades da organização e à definição de modalidades de difusão. Inicia com a definição dos conteúdos e termina com o envio para processo editorial ou a publicação. Inclui a criação, a redação de textos e a gestão de conteúdos.",
         "notasAp": [
             {
-                "idNota": "nota_900.20.200_1ba029504c70",
+                "idNota": "nota_900.20.200_fdf9b086dea7",
                 "nota": "Criação de conteúdos para divulgação na internet, intranet e nas redes sociais"
             },
             {
-                "idNota": "nota_900.20.200_8bbb86c5cac3",
+                "idNota": "nota_900.20.200_e2921ceba8f3",
                 "nota": "Criação de conteúdos para folhetos institucionais e newsletter"
             },
             {
-                "idNota": "nota_900.20.200_021d9e80a635",
+                "idNota": "nota_900.20.200_67fec272f771",
                 "nota": "Realização de campanhas e spots publicitários"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.20.200_013b4c9efb85",
+                "idNota": "nota_900.20.200_112b20d8f047",
                 "nota": "A aquisição de serviços de ou para publicidade deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
             },
             {
-                "idNota": "nota_900.20.200_9d9793a000fe",
+                "idNota": "nota_900.20.200_bf8f5696af81",
                 "nota": "O arranjo gráfico de conteúdos informacionais no âmbito da atividade de edição deve ser considerado em 900.20.201 – Edição e publicação de conteúdos"
             },
             {
-                "idNota": "nota_900.20.200_4fc13bd28cb7",
+                "idNota": "nota_900.20.200_ebaf9b86427f",
                 "nota": "A comunicação de atos legislativos deve ser considerada em \\\"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\\\" (100.10)"
             },
             {
-                "idNota": "nota_900.20.200_b765167ec1c1",
+                "idNota": "nota_900.20.200_003ec64c75c7",
                 "nota": "A elaboração de conteúdos decorrentes de um PN específico deve ser considerada no respetivo PN"
             }
         ],
@@ -2920,21 +2920,21 @@
         "descricao": "Edição de publicações e comunicação de conteúdos institucionais, por iniciativa própria, imposição legal ou proposta de outras entidades. Inicia com a proposta de elaboração, cumprimento legal ou convite para participação na obra ou produto e termina com a divulgação. Inclui a definição e aprovação de layout, execução gráfica, e a apresentação da versão final. ",
         "notasAp": [
             {
-                "idNota": "nota_900.20.201_45cbf9e65fb1",
+                "idNota": "nota_900.20.201_e459abfc8a0f",
                 "nota": "Edição, reedição e reimpressão"
             },
             {
-                "idNota": "nota_900.20.201_bfd87a63f81e",
+                "idNota": "nota_900.20.201_7ef00ac3fc0a",
                 "nota": "Publicitação da informação institucional de forma tradicional (por exemplo sob a forma de edital ou anúncio) ou eletrónica (como os portais, plataformas)"
             },
             {
-                "idNota": "nota_900.20.201_77a887a98024",
+                "idNota": "nota_900.20.201_61fc75b788fd",
                 "nota": "Publicação de diretórios de entidades"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.20.201_613b3c80fa9d",
+                "idNota": "nota_900.20.201_7cb267f70614",
                 "nota": "A conceção de conteúdos informacionais institucionais para posterior edição deve ser considerada em 900.20.200 – Conceção de conteúdos institucionais para divulgação"
             }
         ],
@@ -3134,7 +3134,7 @@
         "descricao": "Preparação e divulgação de informações e esclarecimentos sobre assuntos de interesse para a organização ou para a comunidade, através de órgãos de comunicação social. Inicia com a proposta ou decisão de transmitir a informação ou esclarecimento e termina com a comunicação da mesma. Inclui decisão e redação dos termos em que a comunicação vai ser feita.",
         "notasAp": [
             {
-                "idNota": "nota_900.20.400_d9def1eeff2d",
+                "idNota": "nota_900.20.400_951647372e13",
                 "nota": "Exercício de direito de resposta"
             }
         ],
@@ -3362,7 +3362,7 @@
         "descricao": "Processamento de informação veiculada pela comunicação social, independentemente do suporte, sobre matérias ou temas de interesse para a instituição ou relacionados com esta. Inicia com a seleção dos meios onde se faz a recolha e termina com a disponibilização dos resultados da análise ao serviço/entidade competente. Inclui consulta e seleção de notícias ou artigos de opinião e análise dos seus conteúdos.",
         "notasEx": [
             {
-                "idNota": "nota_900.20.402_d61981cd5d02",
+                "idNota": "nota_900.20.402_0b2114be4ff0",
                 "nota": "A contratação de agência para esta recolha deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
             }
         ],
@@ -3479,25 +3479,25 @@
         "descricao": "Criação e atualização de listagens, bases de dados ou outra agregação de contactos singulares ou coletivos que interagem ou são destinatários de produtos ou serviços institucionais. Inicia com a identificação dos potenciais interlocutores ou destinatários de interesse para o desenvolvimento das atividades organizacionais e termina com a manifestação de ausência de interesse na manutenção do contacto. Inclui sistematização da informação dos contactos e respetivo registo.",
         "notasAp": [
             {
-                "idNota": "nota_900.20.600_cae76ea242ab",
+                "idNota": "nota_900.20.600_828e9c718607",
                 "nota": "Criação de mailing list da Entidade"
             },
             {
-                "idNota": "nota_900.20.600_e648c06b3cc2",
+                "idNota": "nota_900.20.600_a0efc331a756",
                 "nota": "Gestão de mailing list da Entidade"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.20.600_14434c1b1268",
+                "idNota": "nota_900.20.600_969543d8a05a",
                 "nota": "A aquisição de base de dados a outras entidades deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
             },
             {
-                "idNota": "nota_900.20.600_c959d7b21cf7",
+                "idNota": "nota_900.20.600_7ff69ab42cce",
                 "nota": "A criação e gestão de utilizadores de Sistemas de Informação da entidade devem ser considerados no PN 300.50.802 – Registo e identificação de utilizadores de serviços e de sistemas de informação"
             },
             {
-                "idNota": "nota_900.20.600_5b40df03bdec",
+                "idNota": "nota_900.20.600_d9a765603cea",
                 "nota": "O registo e controlo de entidades prestadoras de serviços devem ser considerados no PN 300.50.803 – Identificação e caracterização de prestadores e fornecedores de bens e serviços"
             }
         ],
@@ -3606,41 +3606,41 @@
         "descricao": "Preparação e realização de atos solenes institucionais que impliquem cerimonial de Estado. Inicia com a comunicação do órgão ou serviço competente e termina com a realização da cerimónia. Inclui, entre outras, a logística e organização dos espaços, de acordo com as regras do protocolo, e dos meios de divulgação.",
         "notasAp": [
             {
-                "idNota": "nota_900.20.601_8557be6b96a4",
+                "idNota": "nota_900.20.601_191c0c859abb",
                 "nota": "Cerimónias de tomada de posse"
             },
             {
-                "idNota": "nota_900.20.601_c9a77cbf7ffe",
+                "idNota": "nota_900.20.601_ee24326f9bc5",
                 "nota": "Cerimónias de assinatura de documentos"
             },
             {
-                "idNota": "nota_900.20.601_70961dc470b3",
+                "idNota": "nota_900.20.601_ddae89da0734",
                 "nota": "Cerimónias de apresentação de credenciais"
             },
             {
-                "idNota": "nota_900.20.601_89923f1a001a",
+                "idNota": "nota_900.20.601_c0e73c1ef464",
                 "nota": "Cermónias fúnebres com honras de Estado"
             },
             {
-                "idNota": "nota_900.20.601_f855c7a34e02",
+                "idNota": "nota_900.20.601_cbb3ac9f8efd",
                 "nota": "Cerimónias nacionais"
             },
             {
-                "idNota": "nota_900.20.601_a9113585d26c",
+                "idNota": "nota_900.20.601_7fb1a7e71d97",
                 "nota": "Cerimónias de entrega de condecorações e distinções"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.20.601_d745a315cb13",
+                "idNota": "nota_900.20.601_3636ee4b1979",
                 "nota": "A aquisição de serviços deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e prestação de serviços"
             },
             {
-                "idNota": "nota_900.20.601_696a78df646d",
+                "idNota": "nota_900.20.601_ee6b91805d2d",
                 "nota": "As questões de segurança devem ser consideradas em 550.10 – Segurança pública"
             },
             {
-                "idNota": "nota_900.20.601_7ae175298462",
+                "idNota": "nota_900.20.601_ca86a3e6a443",
                 "nota": "A atribuição de medalhas e distinções de mérito por serviços prestados deve ser considerada em 950.30.001 - Reconhecimento por mérito e serviços prestados"
             }
         ],
@@ -3866,33 +3866,33 @@
         "descricao": "Preparação e realização de visitas de comitivas nacionais ou estrangeiras. Inicia com o pedido ou proposta da visita e termina com a concretização da mesma. Inclui, entre outras, o planeamento, a logística e organização dos espaços ou materiais, a definição do programa e dos meios de divulgação.",
         "notasAp": [
             {
-                "idNota": "nota_900.20.602_551e948c82e9",
+                "idNota": "nota_900.20.602_58aa0f093ab6",
                 "nota": "Receção de entidades"
             },
             {
-                "idNota": "nota_900.20.602_42409f257b5c",
+                "idNota": "nota_900.20.602_322fd750fc89",
                 "nota": "Participação em visitas a outras entidades"
             },
             {
-                "idNota": "nota_900.20.602_cc3965c0d47f",
+                "idNota": "nota_900.20.602_fcbc72feacce",
                 "nota": "Visitas oficiais"
             },
             {
-                "idNota": "nota_900.20.602_cfc1166a6e26",
+                "idNota": "nota_900.20.602_2ebc483ef06d",
                 "nota": "Visitas não oficiais"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.20.602_94f5d1cf3056",
+                "idNota": "nota_900.20.602_2428f14693e7",
                 "nota": "As visitas de Estado devem ser consideradas em 200.20.500 – Organização de visitas de Estado ou equiparadas"
             },
             {
-                "idNota": "nota_900.20.602_14cf50220f1a",
+                "idNota": "nota_900.20.602_60e7c21eeacf",
                 "nota": "A aquisição de serviços deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
             },
             {
-                "idNota": "nota_900.20.602_9a3f14a64a9e",
+                "idNota": "nota_900.20.602_2b83a82cb00b",
                 "nota": "As questões de segurança devem ser consideradas em 550.10 - Segurança pública"
             }
         ],
@@ -4257,11 +4257,13 @@
         ],
         "processosRelacionados": [
             "150.20.300",
-            "300.30.008"
+            "300.30.008",
+            "500.10.001"
         ],
         "proRel": [
             "eSintetizadoPor",
-            "eSintetizadoPor"
+            "eSintetizadoPor",
+            "eSuplementoPara"
         ],
         "pca": {
             "valores": 5,
@@ -4308,53 +4310,53 @@
         "descricao": "Processamento de informações recebidas e de pedidos de informações e/ou esclarecimentos dirigidos à ou pela instituição. Inicia com a receção ou envio do pedido e termina com a resposta ao mesmo. Inclui análise ou elaboração do pedido, recolha de informação pertinente e preparação da resposta.",
         "notasAp": [
             {
-                "idNota": "nota_900.20.604_1bcacf87c0d4",
+                "idNota": "nota_900.20.604_04e071762283",
                 "nota": "Pedidos de informação que não integrem um processo específico"
             },
             {
-                "idNota": "nota_900.20.604_8f6ee68203a5",
+                "idNota": "nota_900.20.604_6d33f0b627d5",
                 "nota": "Receção e resposta a pedidos efetuados à entidade ou pela entidade"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.20.604_3c74b7068741",
+                "idNota": "nota_900.20.604_11e72b650a51",
                 "nota": "A emissão de informações vinculativas deve ser considerada em 100.20.001 – Produção de pareceres técnico-jurídicos de interpretação de diplomas jurídico-normativos"
             },
             {
-                "idNota": "nota_900.20.604_0bbcdf521d62",
+                "idNota": "nota_900.20.604_47c7579fbdd6",
                 "nota": "As instruções para a aplicação de normas e diplomas legais devem ser consideradas, respetivamente, em 100.20.200 - Produção e comunicação de instruções para a aplicação de diplomas jurídico-normativos"
             },
             {
-                "idNota": "nota_900.20.604_0d536dedbf44",
+                "idNota": "nota_900.20.604_67289a21ad2c",
                 "nota": "As orientações e pareceres para a interpretação de normas técnicas devem ser consideradas em 100.20.400 - Produção de orientações e pareceres para a interpretação da norma técnica"
             },
             {
-                "idNota": "nota_900.20.604_09dfe81710e2",
+                "idNota": "nota_900.20.604_ee863d2a1282",
                 "nota": "Os pedidos de informação e de consulta ao abrigo do direito de informação devem ser considerados no PN 300.50.400 - Processamento de pedidos de consulta e reprodução de documentos e informação"
             },
             {
-                "idNota": "nota_900.20.604_8ee5bd10427f",
+                "idNota": "nota_900.20.604_49b6d5114c27",
                 "nota": "As reclamações devem ser consideradas em 950.20.001 – Processamento de petições, reclamações e sugestões"
             },
             {
-                "idNota": "nota_900.20.604_a911f45f0bd6",
+                "idNota": "nota_900.20.604_2fdd4cbb1614",
                 "nota": "A elaboração de informações ou esclarecimentos institucionais para a comunicação social deve ser considerada em 900.20.400 – Elaboração de informações ou esclarecimentos institucionais para a comunicação social"
             },
             {
-                "idNota": "nota_900.20.604_7540aeea6ad3",
+                "idNota": "nota_900.20.604_94793b174423",
                 "nota": "Os convites para eventos devem ser classificados no respetivo PN do evento, na classe 900.10"
             },
             {
-                "idNota": "nota_900.20.604_e46ba01ddecb",
+                "idNota": "nota_900.20.604_f409a22ce58f",
                 "nota": "A divulgação ou pedidos de divulgação de eventos por outras entidades devem ser classificados em 900.10.504 - Publicitação de iniciativas e atividades de terceiros"
             },
             {
-                "idNota": "nota_900.20.604_2a1a955d1c20",
+                "idNota": "nota_900.20.604_ac8819f1eb58",
                 "nota": "As mensagens de cortesia devem ser classificadas em 900.20.605 - Processamento de mensagens de cortesia"
             },
             {
-                "idNota": "nota_900.20.604_4fff7e80e4ee",
+                "idNota": "nota_900.20.604_a593e9b2297e",
                 "nota": "Os pedidos de informação sobre processos específicos devem ser considerados no âmbito dos mesmos"
             }
         ],
@@ -4526,11 +4528,13 @@
         ],
         "processosRelacionados": [
             "150.20.300",
-            "300.30.008"
+            "300.30.008",
+            "500.10.001"
         ],
         "proRel": [
             "eSintetizadoPor",
-            "eSintetizadoPor"
+            "eSintetizadoPor",
+            "eSuplementoPara"
         ],
         "pca": {
             "valores": 5,
@@ -4577,41 +4581,41 @@
         "descricao": "Tratamento de mensagens de cortesia dirigidas à ou pela instituição. Inicia com a receção ou envio da mensagem e termina, quando aplicável, com a resposta à mesma. Inclui análise ou elaboração da mensagem e, quando aplicável, recolha de informação pertinente e preparação da resposta.",
         "notasAp": [
             {
-                "idNota": "nota_900.20.605_6765717fa736",
+                "idNota": "nota_900.20.605_9989c027a8a5",
                 "nota": "Apresentação de mensagens de boas vindas"
             },
             {
-                "idNota": "nota_900.20.605_4336f2185ebd",
+                "idNota": "nota_900.20.605_987ba0f649b6",
                 "nota": "Apresentação de mensagens de despedida"
             },
             {
-                "idNota": "nota_900.20.605_1974e83045bb",
+                "idNota": "nota_900.20.605_68841d26e031",
                 "nota": "Apresentação de mensagens de congratulação"
             },
             {
-                "idNota": "nota_900.20.605_fb320818f441",
+                "idNota": "nota_900.20.605_4b52640cb4f6",
                 "nota": "Apresentação de cumprimentos"
             },
             {
-                "idNota": "nota_900.20.605_16be1f61966c",
+                "idNota": "nota_900.20.605_8f1036d9f31d",
                 "nota": "Convites institucionais (quando não incluídos no processo de organização de evento)"
             },
             {
-                "idNota": "nota_900.20.605_c59916e51b81",
+                "idNota": "nota_900.20.605_f5ce638ad00c",
                 "nota": "Apresentação de mensagens de boas festas"
             },
             {
-                "idNota": "nota_900.20.605_a77b16087b4c",
+                "idNota": "nota_900.20.605_857e536ebc7f",
                 "nota": "Apresentação de mensagens de condolências"
             },
             {
-                "idNota": "nota_900.20.605_16895b877268",
+                "idNota": "nota_900.20.605_29c63c8ba88c",
                 "nota": "Notas verbais"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_900.20.605_94d1839758e5",
+                "idNota": "nota_900.20.605_098c439f0ce2",
                 "nota": "Os convites institucionais, no âmbito da organização de um evento, deverão ser considerados no PN da respetiva organização do evento ou atividade de dinamização.O processamento de mensagens de elogio ou agradecimento a entidade pela qualidade de serviços prestados deve ser considerado em 950.20.300 – Processamento de mensagens de elogio e de agradecimento."
             }
         ],

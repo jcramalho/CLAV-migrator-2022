@@ -34,9 +34,13 @@ def processSheet(sheet, nome):
             limpa = brancos.sub('', str(row["Tipo"]))
             myReg["tipo"] = re.sub(r'[/ \u202F\u00A0()\-]+', '_', limpa)
             # Número: ----------------------------------------------------
-            if row["Número"]:
+            if row["Número"] and row["Número"] != '':
                 myReg["numero"] = brancos.sub('', str(row["Número"]))
-                myReg["numero"] = re.sub(r'[/ \u202F\u00A0()\-]+', '_', myReg["numero"])
+                myReg["numero"] = re.sub(r'[/ \u202F\u00A0()\-\u2010]+', '_', myReg["numero"])
+
+            else:
+                ListaErros.append('Aviso::legindex ' + str(index+2) + '::Legislação sem número')
+                myReg["numero"] = 'NE'
             # Entidades:--------------------------------------------------
             filtradas = []
             if row["Entidade"]:
@@ -50,13 +54,15 @@ def processSheet(sheet, nome):
                         myReg["entidade"].append(limpa)
             if len(filtradas)> 0:
             # Cálculo do id/código da legislação: tipo + entidades + numero -------------------------
-                legCod = re.sub(r'[ ]+', '_', myReg["tipo"]) + '_' + '_'.join(myReg["entidade"]) + '_' + myReg["numero"]
+                legCod = re.sub(r'[ ]+', '_', myReg["tipo"]) + '_' + '_'.join(myReg["entidade"])
             # ERRO: Verificação da existência das entidades no catálogo de entidades e/ou tipologias
                 for e in myReg['entidade']:
                     if (e not in entCatalog) and (e not in tipCatalog):
                         ListaErros.append('Erro::' + legCod + '::Entidade não está no catálogo de entidades ou tipologias::' + e)
             else:
-                legCod = re.sub(r'[ \u202F\u00A0]+', '_', myReg["tipo"]) + '_' + myReg["numero"]
+                legCod = re.sub(r'[ \u202F\u00A0]+', '_', myReg["tipo"])
+            if myReg["numero"] != 'NE':
+                legCod += '_' + myReg["numero"]
             # ERRO: Legislação duplicada ---------------------------------
             myReg['codigo'] = legCod
             if legCod not in legCatalog:

@@ -7,37 +7,37 @@
         "descricao": "Relativo à prestação de serviços de proteção e ação social, a promoção dos direitos humanos, igualdade do género, igualdade de oportunidades e inserção social de pessoas ou grupos - proteção de pessoas ou grupos vulneráveis, prevenção de situações de rutura psicossocial, reparação de situações de carência socioeconómica, de dependência, de disfunção, exclusão ou vulnerabilidade social, bem como a integração e promoção comunitárias e integração no mercado de trabalho.",
         "notasAp": [
             {
-                "idNota": "nota_650_170b8d0b4f8f",
+                "idNota": "nota_650_116125d151d1",
                 "nota": "Administração dos regimes de proteção social."
             },
             {
-                "idNota": "nota_650_90666ef70628",
+                "idNota": "nota_650_c810ebf709c5",
                 "nota": "Processamento de apoios na área da ação social (e ação social complementar para os trabalhadores da administração pública)"
             },
             {
-                "idNota": "nota_650_bfa474a0933a",
+                "idNota": "nota_650_c1862469813c",
                 "nota": "Integração no mercado de trabalho"
             },
             {
-                "idNota": "nota_650_c1a71c12ed89",
+                "idNota": "nota_650_5a87e5fe6099",
                 "nota": "Apoio psicossocial a pessoas ou grupos em risco em contexto comunitário global"
             },
             {
-                "idNota": "nota_650_b8a4183e7eb1",
+                "idNota": "nota_650_ce9a78787f1b",
                 "nota": "Apoio psicossocial a pessoas ou grupos em risco em contextos específicos de relações laborais, prestação de serviços, execução de penas, entre outros (apoio a crianças, jovens e idosos, alunos, doentes, reclusos, funcionários, pessoas com deficiência, toxicodependentes, vítimas de violência, pessoas dependentes, desempregados, família e comunidade, grupos de risco, imigrantes e minorias étnicas, etc.)"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650_d8a84b8a2620",
+                "idNota": "nota_650_0545a4ee0099",
                 "nota": "Ações de informação e sensibilização devem ser consideradas em \\\"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\\\" (900.10)"
             },
             {
-                "idNota": "nota_650_e1a661697c4f",
+                "idNota": "nota_650_5780e9e4e273",
                 "nota": "Ações de formação devem ser consideradas em \\\"Prestação de serviços de ensino e formação\\\" (750)"
             },
             {
-                "idNota": "nota_650_d51b345f77ae",
+                "idNota": "nota_650_7bdc0822cb49",
                 "nota": "As comparticipações concedidas no quadro de candidaturas a programas de apoio ao estabelecimento e/ou funcionamento de equipamentos e respostas sociais (ex.: Programa de Alargamento da Rede de Equipamentos Sociais, Programa de Apoio ao Investimento a Respostas Sociais, entre outros) devem ser consideradas em \\\"Execução de programas e de ações de incentivo/ Atribuição e controlo de financiamentos e de ajudas diretas\\\" (850.10)"
             }
         ]
@@ -50,17 +50,17 @@
         "descricao": "Compreende os processos relativos ao processamento de prestações e comparticipações financeiras aos beneficiários dos regimes de proteção social (apoios prestados pela Caixa Geral de Aposentações, Segurança Social, ADSE e outros regimes complementares). Compreende, igualmente, os processos de atribuição de prestações em espécie e de prestações pecuniárias de caráter eventual e em condições de excecionalidade, a pessoas em situação de carência e desigualdade socioeconómica - no que se inclui a atribuição de apoios para pagamento de rendas de casa, bem como o apoio ao arrendamento ou aquisição de habitação a custos controlados.",
         "notasAp": [
             {
-                "idNota": "nota_650.10_a0b6ffd3f196",
+                "idNota": "nota_650.10_5f00487f54f9",
                 "nota": "Apoios atribuídos no âmbito da ação social em qualquer domínio, incluindo a ação social escolar (de qualquer nível de ensino)"
             },
             {
-                "idNota": "nota_650.10_403fed9bf195",
+                "idNota": "nota_650.10_d04e35f0fdc3",
                 "nota": "A generalidade dos organismos da AP deve utilizar esta classe apenas para o encaminhamento de pedidos de prestações à Segurança Social, ADSE, CGA e entidades similares"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10_d140268bdacf",
+                "idNota": "nota_650.10_32ce8fa420ae",
                 "nota": "Os pedidos de inscrição/ cancelamento de beneficiário e alteração de dados de beneficiários da Segurança Social, ADSE, CGA e entidades similares devem ser considerados em \\\"Prestação de serviços de identificação e registo/ Registo de dados de identificação e caracterização de entidades ou atos\\\" (400.10)"
             }
         ]
@@ -73,29 +73,29 @@
         "descricao": "Atribuição de prestação pecuniária mensal vitalícia destinada a proteger os beneficiários dos regimes de Segurança Social e Caixa Geral de Aposentações nas situações de incapacidade permanente para o trabalho, incapacidade absoluta e permanente, idade e tempo de serviço legalmente exigidos. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.001_a78a7fd71016",
+                "idNota": "nota_650.10.001_e3e140669fd1",
                 "nota": "Situações incapacitantes, de causa não profissional, que determine incapacidade permanente para o trabalho"
             },
             {
-                "idNota": "nota_650.10.001_ed4c0754ec39",
+                "idNota": "nota_650.10.001_4a78a3726324",
                 "nota": "Reapreciações e reavaliações do montante a conceder"
             },
             {
-                "idNota": "nota_650.10.001_f8d53446d1fd",
+                "idNota": "nota_650.10.001_a0ff120be176",
                 "nota": "Subscritores militares e equiparados da Caixa Geral de Aposentações (pensões de reforma)"
             },
             {
-                "idNota": "nota_650.10.001_1c64d2e2abb3",
+                "idNota": "nota_650.10.001_7123460efc03",
                 "nota": "Pensão a militares não subscritores da Caixa Geral de Aposentações (pensões de invalidez)"
             },
             {
-                "idNota": "nota_650.10.001_f6e8e0be2bda",
+                "idNota": "nota_650.10.001_9a218107bf53",
                 "nota": "Pensão a militares qualificados como Deficiente das Forças Armadas, Grande Deficiente das Forças Armadas e Grande Deficiente do Serviço Efetivo Normal"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.001_915969446751",
+                "idNota": "nota_650.10.001_42aa74375810",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -357,13 +357,13 @@
         "descricao": "Atribuição de prestação pecuniária mensal destinada a compensar os familiares do beneficiário da perda de rendimentos de trabalho resultante da morte deste. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.002_69b24c3a0b18",
+                "idNota": "nota_650.10.002_4ad89f2d4125",
                 "nota": "Reapreciações e reavaliações do montante a conceder"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.002_bd60fb7d0ae7",
+                "idNota": "nota_650.10.002_2aa71631a7f8",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -528,13 +528,13 @@
         "descricao": "Atribuição de prestação pecuniária mensal paga aos beneficiários com idade legalmente exigida segundo os descontos efetuados para a Segurança Social e Caixa Geral de Aposentações. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.003_a5a37f3207f2",
+                "idNota": "nota_650.10.003_c2a077709b77",
                 "nota": "Reapreciações e reavaliações do montante a conceder"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.003_e7c8e9d204c7",
+                "idNota": "nota_650.10.003_1f76b1111998",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -630,29 +630,29 @@
         "descricao": "Atribuição de prestação pecuniária mensal, ao pai e/ou à mãe, ou avós ou equiparados, com vista a substituir o rendimento de trabalho perdido durante o período de licença por nascimento de filho ou neto, filho de adolescente menor de 16 anos. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir. ",
         "notasAp": [
             {
-                "idNota": "nota_650.10.004_df5d69a8da17",
+                "idNota": "nota_650.10.004_7535cf5dd42b",
                 "nota": "Subsídio parental alargado"
             },
             {
-                "idNota": "nota_650.10.004_2dd39fa04547",
+                "idNota": "nota_650.10.004_83c6d0e29e81",
                 "nota": "Subsídio parental inicial"
             },
             {
-                "idNota": "nota_650.10.004_6bf3f2d0c089",
+                "idNota": "nota_650.10.004_f99cfda617b6",
                 "nota": "Subsídio parental inicial exclusivo da mãe"
             },
             {
-                "idNota": "nota_650.10.004_3cfd4012a87b",
+                "idNota": "nota_650.10.004_ec9546401d2c",
                 "nota": "Subsídio parental inicial exclusivo do pai"
             },
             {
-                "idNota": "nota_650.10.004_1c9d48addc5e",
+                "idNota": "nota_650.10.004_93117a4c67d8",
                 "nota": "Subsídio parental inicial de um progenitor em caso de impossibilidade do outro"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.004_6d53d96d9d77",
+                "idNota": "nota_650.10.004_b8ca03d91f7f",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -823,33 +823,33 @@
         "descricao": "Atribuição de prestação pecuniária mensal aos beneficiários que não tenham direito ao pagamento de subsídios de proteção parental, no todo ou em parte, pelo empregador, desde que o impedimento para o trabalho tenha duração igual ou superior a 30 dias seguidos. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir. ",
         "notasAp": [
             {
-                "idNota": "nota_650.10.005_a0c56d0b935d",
+                "idNota": "nota_650.10.005_91e5c74948cb",
                 "nota": "Doença"
             },
             {
-                "idNota": "nota_650.10.005_c322c237c304",
+                "idNota": "nota_650.10.005_9954cf0c510d",
                 "nota": "Subsídio parental inicial"
             },
             {
-                "idNota": "nota_650.10.005_163625a9e7bf",
+                "idNota": "nota_650.10.005_99af1fb26967",
                 "nota": "Subsídio parental inicial exclusivo da mãe"
             },
             {
-                "idNota": "nota_650.10.005_1992ea6e2ec9",
+                "idNota": "nota_650.10.005_697a053fd5b9",
                 "nota": "Subsídio parental inicial exclusivo do pai"
             },
             {
-                "idNota": "nota_650.10.005_298e021992b9",
+                "idNota": "nota_650.10.005_1f21bf85f563",
                 "nota": "Subsídio parental inicial de um progenitor em caso de impossibilidade do outro"
             },
             {
-                "idNota": "nota_650.10.005_6f501433a6e0",
+                "idNota": "nota_650.10.005_3910967f0d0b",
                 "nota": "Subsídio parental alargado"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.005_e4e0b21c0feb",
+                "idNota": "nota_650.10.005_9756677fcbda",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -1008,13 +1008,13 @@
         "descricao": "Atribuição de prestação pecuniária mensal aos candidatos a adotantes segundo as condições legalmente previstas. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.006_5f12fb9d54b3",
+                "idNota": "nota_650.10.006_f27e6a950546",
                 "nota": "Subsídios por adoção alargada"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.006_df86c0529f28",
+                "idNota": "nota_650.10.006_ffc2810af074",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -1166,7 +1166,7 @@
         "descricao": "Atribuição de prestação pecuniária mensal, ao pai, mãe, ou avós, para prestar assistência imprescindível e inadiável a filho ou neto, por motivo de doença ou acidente, desde que ambos exerçam atividade profissional e o outro progenitor não requeira o subsídio pelo mesmo motivo, ou esteja impossibilitado de prestar assistência. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir. ",
         "notasEx": [
             {
-                "idNota": "nota_650.10.007_6c8ac71432c2",
+                "idNota": "nota_650.10.007_685f00a9d743",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -1419,7 +1419,7 @@
         "descricao": "Atribuição de prestação pecuniária mensal ao pai ou à mãe para prestar assistência a filho com deficiência ou doença crónica. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.008_8a8669766147",
+                "idNota": "nota_650.10.008_429a9d5a470a",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -1673,27 +1673,27 @@
         "descricao": "Atribuição de prestação pecuniária mensal aos beneficiários desempregados para compensar a falta de remuneração motivada pela perda involuntária de emprego. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.009_e8e78838bf21",
+                "idNota": "nota_650.10.009_2b68e5fcbb59",
                 "nota": "Subsídios parciais por cessação de atividade profissional"
             },
             {
-                "idNota": "nota_650.10.009_b39936315b70",
+                "idNota": "nota_650.10.009_f2e7d3ec9d80",
                 "nota": "Subsídio por cessação de atividade para trabalhadores independentes economicamente dependentes"
             },
             {
-                "idNota": "nota_650.10.009_ec25dcb0bc42",
+                "idNota": "nota_650.10.009_9a1f4d5a4e2c",
                 "nota": "Subsídio por layoff"
             }
         ],
         "exemplosNotasAp": [
             {
-                "idExemplo": "exemplo_650.10.009_46a976c34485",
+                "idExemplo": "exemplo_650.10.009_25c9a56290ec",
                 "exemplo": "Subsídio por redução temporária dos períodos normais de trabalho ou suspensão dos contratos de trabalho efetuada por iniciativa das empresas"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.009_3abc2ba5977d",
+                "idNota": "nota_650.10.009_bcc060e18914",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -1858,17 +1858,17 @@
         "descricao": "Atribuição de prestação pecuniária mensal aos beneficiários para compensar a perda de remuneração resultante do impedimento temporário para o trabalho, por motivo de doença. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.010_0d603ace0510",
+                "idNota": "nota_650.10.010_ccf667bc8d7a",
                 "nota": "Toda a situação mórbida, evolutiva, não decorrente de causa profissional ou de ato da responsabilidade de terceiro pelo qual seja devida indemnização, que determine incapacidade para o trabalho"
             },
             {
-                "idNota": "nota_650.10.010_cf3ac71d9356",
+                "idNota": "nota_650.10.010_f374254e78c5",
                 "nota": "Verificação de incapacidade temporária para o trabalho"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.010_5140a619ad94",
+                "idNota": "nota_650.10.010_a33c5b241409",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -2046,9 +2046,11 @@
             "DL_433_82"
         ],
         "processosRelacionados": [
+            "150.20.404",
             "150.40.001",
             "150.40.500",
             "350.30.001",
+            "300.30.008",
             "350.10.502",
             "400.10.011",
             "450.30.500",
@@ -2057,7 +2059,9 @@
         "proRel": [
             "eSintetizadoPor",
             "eSintetizadoPor",
+            "eSintetizadoPor",
             "eCruzadoCom",
+            "eSintetizadoPor",
             "eCruzadoCom",
             "eSintetizadoPor",
             "eCruzadoCom",
@@ -2112,7 +2116,7 @@
         "descricao": "Atribuição de prestação pecuniária mensal às beneficiárias, com vista a substituir o rendimento de trabalho perdido na situação de interrupção da gravidez medicamente certificada. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.011_4f4170732c73",
+                "idNota": "nota_650.10.011_186dbbad816b",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -2357,7 +2361,7 @@
         "descricao": "Atribuição de prestação pecuniária mensal às beneficiárias, durante a gravidez, com vista a substituir o rendimento de trabalho perdido, em caso de risco clínico para a grávida ou para o nascituro. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.012_3687503854ee",
+                "idNota": "nota_650.10.012_f7d4ef8d93bd",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -2602,7 +2606,7 @@
         "descricao": "Atribuição de subsídio às beneficiárias, puérpera e lactante que, na sua atividade profissional, desempenhe trabalho noturno ou se encontre exposta a riscos específicos que prejudiquem a sua segurança e saúde, desde que o empregador não lhe possa distribuir outras tarefas. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.013_75f5d95b1508",
+                "idNota": "nota_650.10.013_1ca6c4e4b65b",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -2746,13 +2750,13 @@
         "descricao": "Atribuição de uma parte das compensações (até 50%) a que o trabalhador tenha direito na sequência da cessação do seu contrato de trabalho pela entidade empregadora. Inicia com o pedido e termina com o pagamento da compensação a comunicação do montante a atribuir. Inclui análise da situação, verificação da conformidade com os requisitos e decisão sobre o montante a atribuir. ",
         "notasAp": [
             {
-                "idNota": "nota_650.10.016_397a58dd734a",
+                "idNota": "nota_650.10.016_3216aea18c28",
                 "nota": "Situação de cessação do contrato de trabalho pela entidade empregadora"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.016_174db39c7a26",
+                "idNota": "nota_650.10.016_25d7de725a9f",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -2796,13 +2800,19 @@
             "Lei_98_97"
         ],
         "processosRelacionados": [
-            "350.50.100",
             "150.20.404",
+            "150.40.001",
+            "150.40.500",
+            "300.30.008",
+            "350.50.100",
             "500.10.301"
         ],
         "proRel": [
-            "eCruzadoCom",
             "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eCruzadoCom",
             "eSuplementoPara"
         ],
         "pca": {
@@ -2852,11 +2862,11 @@
         "descricao": "Atribuição de prestação pecuniária mensal vitalícia atribuída a ex-titulares de cargos de natureza política. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição, decisão sobre o cálculo, bem como aplicação de regime de redução, suspensão, transmissão e actualização da prestação. ",
         "notasAp": [
             {
-                "idNota": "nota_650.10.017_3b5ba4bac385",
+                "idNota": "nota_650.10.017_e380fb59d8fa",
                 "nota": "Subvenção mensal vitalícia"
             },
             {
-                "idNota": "nota_650.10.017_aed559b14c4b",
+                "idNota": "nota_650.10.017_63918ca74ce9",
                 "nota": "Subvenção mensal de sobrevivência"
             }
         ],
@@ -2938,11 +2948,11 @@
         "descricao": "Atribuição de prestação correspondente ao diferencial resultante da antecipação da idade de passagem à reforma, do extinto Fundo de Pensões dos Militares das Forças Armadas, bem como dos complementos de velhice, invalidez e sobrevivência para os beneficiários dos extintos Fundo de Pensões dos Estaleiros Navais de Viana do Castelo, S. A., e Fundo de Pensões da Gestnave - Serviços Industriais, S. A. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição, decisão sobre o cálculo.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.018_73e1b9845a70",
+                "idNota": "nota_650.10.018_3898385f0d45",
                 "nota": "Prestação complementar de reforma para compensação de passagem antecipada à reforma"
             },
             {
-                "idNota": "nota_650.10.018_aa67961a85a7",
+                "idNota": "nota_650.10.018_bb8212a20691",
                 "nota": "Complemento de sobrevivência atribuído aos herdeiros"
             }
         ],
@@ -3012,19 +3022,19 @@
         "descricao": "Atribuição de prestação pecuniária mensal vitalícia atribuída por falecimento de militar ou civil ao serviço da Nação ou por virtude de serviço de manutenção de ordem pública. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.019_b4ba4063cad4",
+                "idNota": "nota_650.10.019_58f329effcd2",
                 "nota": "Falecimento"
             },
             {
-                "idNota": "nota_650.10.019_1c23f408c7db",
+                "idNota": "nota_650.10.019_067bbbc966be",
                 "nota": "Desaparecimento em campanha"
             },
             {
-                "idNota": "nota_650.10.019_f7a43905e26c",
+                "idNota": "nota_650.10.019_75c195e1c211",
                 "nota": "Ferimento"
             },
             {
-                "idNota": "nota_650.10.019_0cfeba0de9e7",
+                "idNota": "nota_650.10.019_55994ae96531",
                 "nota": "incapacidade absoluta e permanente para o trabalho de titulares de órgãos de soberania e de órgãos de governo próprio das Regiões Autónomas, de governadores civis e de presidentes de câmaras municipais ou de vereadores em regime de permanência, ocorrido no exercício e por causa das suas funções"
             }
         ],
@@ -3114,7 +3124,7 @@
         "descricao": "Atribuição de prestação pecuniária mensal vitalícia atribuída em função da prática de feitos em teatro de guerra, actos de abnegação e coragem cívica ou de altos e assinalados serviços à humanidade e à Pátria. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição, decisão sobre o cálculo, bem como aplicação de regime de redução, acumulação da prestação. ",
         "notasAp": [
             {
-                "idNota": "nota_650.10.020_c93f570ef968",
+                "idNota": "nota_650.10.020_08fbe6e94092",
                 "nota": "Pensão por serviços excepcionais e relevantes prestados ao país atribuída ao próprio ou aos seus herdeiros e familiares"
             }
         ],
@@ -3193,7 +3203,7 @@
         "descricao": "Atribuição de acréscimo vitalício de pensão, de natureza indemnizatória atribuída aos antigos combatentes pela prestação de serviço militar em condições especiais de dificuldade ou perigo, em que se incluem ex-militares mobilizados para Angola, Guiné, Moçambique, Timor-Leste, bem como ex-militares aprisionados ou capturados no estado da Índia aquando da invasão deste território por forças da União Indiana. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição, com contagem de tempo de serviço militar e dispensa de pagamento de quotas, decisão sobre o cálculo, bem como aplicação de regime de redução, suspensão, transmissão e actualização da prestação, acréscimo vitalício de pensão e suplemento especial de pensão.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.021_d140a7fa5792",
+                "idNota": "nota_650.10.021_c53351aba284",
                 "nota": "Benefícios a antigos combatentes ou aos seus herdeiros e familiares"
             }
         ],
@@ -3271,11 +3281,11 @@
         "descricao": "Atribuição de prestações, de atribuição única ou concessão continuada, que concretizam a reparação da incapacidade permanente ou morte resultante de acidentes de trabalho ou de doenças profissionais, ocorridos ou com diagnóstico após 1 de maio de 2000. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição, decisão sobre o cálculo, bem como aplicação de regime de redução, suspensão, transmissão e actualização da prestação. ",
         "notasAp": [
             {
-                "idNota": "nota_650.10.022_ef8b0e1cfe8b",
+                "idNota": "nota_650.10.022_ebc8b523f3b2",
                 "nota": "Prestação por acidente de trabalho atribuída ao próprio ou aos seus herdeiros e familiares"
             },
             {
-                "idNota": "nota_650.10.022_e410ce1982bc",
+                "idNota": "nota_650.10.022_9cf7b7d6364c",
                 "nota": "Prestação por doença profissional atribuída ao próprio ou aos seus herdeiros e familiares"
             }
         ],
@@ -3368,53 +3378,53 @@
         "descricao": "Atribuição de apoios pecuniários ou em espécie a alunos e formandos desfavorecidos e em carência económica ou para fazer face a despesas decorrentes da frequência da formação. Inicia com o processamento do pedido ou com a sinalização da situação pela entidade ou com a atribuição por direito e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o valor a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.100_e803e8d6b8c1",
+                "idNota": "nota_650.10.100_fdfc142aa070",
                 "nota": "Atribuição de bolsa de estudo"
             },
             {
-                "idNota": "nota_650.10.100_87427b5a828a",
+                "idNota": "nota_650.10.100_8fdd9b1b72ce",
                 "nota": "Pedido de isenção de propinas"
             },
             {
-                "idNota": "nota_650.10.100_cd69a69df7aa",
+                "idNota": "nota_650.10.100_bc1999cbfe89",
                 "nota": "Subsídio para alimentação"
             },
             {
-                "idNota": "nota_650.10.100_055892b8fcd8",
+                "idNota": "nota_650.10.100_3d5c3dafaf3b",
                 "nota": "Subsídio para alojamento"
             },
             {
-                "idNota": "nota_650.10.100_6d0fc8a1aa60",
+                "idNota": "nota_650.10.100_c641d60636b3",
                 "nota": "Subsídio para livros e material escolar"
             },
             {
-                "idNota": "nota_650.10.100_2b15aac2c0a6",
+                "idNota": "nota_650.10.100_57b3554ba2f7",
                 "nota": "Subsídio para transporte escolar"
             },
             {
-                "idNota": "nota_650.10.100_d6f06a425ace",
+                "idNota": "nota_650.10.100_0c164b6b032e",
                 "nota": "Fornecimento de refeições"
             },
             {
-                "idNota": "nota_650.10.100_79a835384398",
+                "idNota": "nota_650.10.100_c5b945f52a07",
                 "nota": "Atribuição de passe social"
             },
             {
-                "idNota": "nota_650.10.100_7f772295c437",
+                "idNota": "nota_650.10.100_d378acd8bcc4",
                 "nota": "Atribuição de materiais e manuais escolares"
             },
             {
-                "idNota": "nota_650.10.100_bbc370fa30b7",
+                "idNota": "nota_650.10.100_01226edc56fe",
                 "nota": "Concessão de bolsa de profissionalização"
             },
             {
-                "idNota": "nota_650.10.100_ef6e13a5727a",
+                "idNota": "nota_650.10.100_e85e06bbb134",
                 "nota": "Isenção de pagamento de comparticipação"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.100_355b4dd986d8",
+                "idNota": "nota_650.10.100_ac3b7a8e9458",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -3551,49 +3561,49 @@
         "descricao": "Atribuição de prestações pecuniárias mensais que possibilitam o acesso a um conjunto de respostas integradas de cuidados e apoio social para crianças, jovens, idosos, pessoas portadoras de deficiência e dependências. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir. ",
         "notasAp": [
             {
-                "idNota": "nota_650.10.101_da341bd3e540",
+                "idNota": "nota_650.10.101_bfb07b9346f1",
                 "nota": "Acesso a ama"
             },
             {
-                "idNota": "nota_650.10.101_d1dbc78bc0a5",
+                "idNota": "nota_650.10.101_99afec90286f",
                 "nota": "Acesso a creche"
             },
             {
-                "idNota": "nota_650.10.101_1b8b4e688b21",
+                "idNota": "nota_650.10.101_ff387701f7be",
                 "nota": "Acesso a creche familiar"
             },
             {
-                "idNota": "nota_650.10.101_22437a8bf4b4",
+                "idNota": "nota_650.10.101_373b60911cff",
                 "nota": "Acesso a estabelecimento de educação pré-escolar"
             },
             {
-                "idNota": "nota_650.10.101_c3dd6f0ae1a0",
+                "idNota": "nota_650.10.101_40730e5b9914",
                 "nota": "Acesso a centro de atividades de tempos livres"
             },
             {
-                "idNota": "nota_650.10.101_062cccb43380",
+                "idNota": "nota_650.10.101_7fbb183a09b8",
                 "nota": "Acesso a equipamento de reinserção social"
             },
             {
-                "idNota": "nota_650.10.101_eef8dec7d03d",
+                "idNota": "nota_650.10.101_1367be33b988",
                 "nota": "Acesso a serviço de apoio domiciliário"
             },
             {
-                "idNota": "nota_650.10.101_af17c75c21db",
+                "idNota": "nota_650.10.101_385b9c32f587",
                 "nota": "Admissão a estrutura residencial para idosos"
             },
             {
-                "idNota": "nota_650.10.101_859fbf9b6abb",
+                "idNota": "nota_650.10.101_5a3e8c2efe1a",
                 "nota": "Admissão a estrutura residencial de acolhimento permanente"
             },
             {
-                "idNota": "nota_650.10.101_26abf7171084",
+                "idNota": "nota_650.10.101_d4f8545a9cda",
                 "nota": "Admissão a estrutura residencial de acolhimento temporário"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.101_8171c28b847d",
+                "idNota": "nota_650.10.101_ce5d1fe14a05",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -3714,49 +3724,49 @@
         "descricao": "Aprovação de despesa a trabalhador com doença profissional, para posterior reembolso. Esta despesa reporta-se a serviços e tratamentos, quando necessários e adequados ao restabelecimento do estado de saúde e da capacidade de trabalho e recuperação para a vida ativa. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados, parecer de perito médico e decisão sobre o montante a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.102_e63ea05fd4f6",
+                "idNota": "nota_650.10.102_eae1638a2d62",
                 "nota": "Despesa com as prestações em espécie, sendo estas de natureza médica, cirúrgica, farmacêutica, hospitalar, como apoio psicoterapêutico, sempre que necessário, à família do doente profissional"
             },
             {
-                "idNota": "nota_650.10.102_5c4d19b51d24",
+                "idNota": "nota_650.10.102_2ba147e4af81",
                 "nota": "Assistência médica e cirúrgica"
             },
             {
-                "idNota": "nota_650.10.102_601d1a7b59f8",
+                "idNota": "nota_650.10.102_0e5d10d2e377",
                 "nota": "Cuidados de enfermagem"
             },
             {
-                "idNota": "nota_650.10.102_77139a103701",
+                "idNota": "nota_650.10.102_e03b8f1649db",
                 "nota": "Deslocação, alimentação e alojamento para diagnóstico ou tratamento de doença profissional (por exemplo, para ir a uma consulta, um tratamento ou a uma junta médica) ou comparência a atos judiciais"
             },
             {
-                "idNota": "nota_650.10.102_eee922cb328a",
+                "idNota": "nota_650.10.102_86d8f4c7452c",
                 "nota": "Exames e elementos complementares de diagnóstico"
             },
             {
-                "idNota": "nota_650.10.102_4a91633fbef0",
+                "idNota": "nota_650.10.102_5d496b19db2d",
                 "nota": "Hospitalização e tratamentos termais"
             },
             {
-                "idNota": "nota_650.10.102_6661b99e20c6",
+                "idNota": "nota_650.10.102_4264418b2be7",
                 "nota": "Medicamentos e produtos farmacêuticos"
             },
             {
-                "idNota": "nota_650.10.102_22e380a75fcb",
+                "idNota": "nota_650.10.102_7ff1d7a972ff",
                 "nota": "Próteses e ortóteses (incluindo a sua renovação e reparação)"
             },
             {
-                "idNota": "nota_650.10.102_e4296100f002",
+                "idNota": "nota_650.10.102_18e47c30de6d",
                 "nota": "Reabilitação e reintegração profissional e social, incluindo a adaptação ao posto de trabalho"
             },
             {
-                "idNota": "nota_650.10.102_087f3f45d3a4",
+                "idNota": "nota_650.10.102_d79d4c806eed",
                 "nota": "Tratamentos e visitas domiciliárias"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.102_130f9d606b9f",
+                "idNota": "nota_650.10.102_ef233c65ae3e",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -3950,25 +3960,25 @@
         "descricao": "Atribuição de apoio pecuniário para satisfação de necessidades básicas, das pessoas e famílias mais carenciadas, concedido em situação de emergência ou de extrema carência. Inicia com a solicitação da atribuição e termina com a comunicação do montante a atribuir. Inclui estudo e proposta de solução pelos técnicos e decisão sobre o montante a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.103_86acfeca3316",
+                "idNota": "nota_650.10.103_c617eb58cc86",
                 "nota": "Ajuda alimentar"
             },
             {
-                "idNota": "nota_650.10.103_8a894b01e9e8",
+                "idNota": "nota_650.10.103_7454f7952628",
                 "nota": "Apoio a famílias carenciadas"
             },
             {
-                "idNota": "nota_650.10.103_168227dbdad5",
+                "idNota": "nota_650.10.103_d1b36779aec0",
                 "nota": "Apoio a reparações em habitação"
             },
             {
-                "idNota": "nota_650.10.103_de6d241f51d4",
+                "idNota": "nota_650.10.103_a443107f6804",
                 "nota": "Apoio em situação de reclusão"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.103_649c75994d1b",
+                "idNota": "nota_650.10.103_eac08202594c",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -4078,39 +4088,39 @@
         "descricao": "Atribuição de ajudas técnicas como instrumentos, equipamentos ou sistemas técnicos usados por uma pessoa com deficiência, especialmente produzidos ou disponíveis, que previnem, compensam, atenuam ou neutralizam a limitação funcional ou de participação. Inicia com a solicitação da atribuição e termina com a comunicação da decisão. Inclui análise da situação, verificação da conformidade com os requisitos e decisão sobre a atribuição.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.104_621cbcbdb80d",
+                "idNota": "nota_650.10.104_221e1d4abaac",
                 "nota": "Produtos de apoio diretamente fornecidos aos utentes nas unidades hospitalares e noutras entidades prescritoras da área da saúde"
             },
             {
-                "idNota": "nota_650.10.104_84c5d1e37605",
+                "idNota": "nota_650.10.104_91c0d4514826",
                 "nota": "Dispositivos e equipamentos fornecidos a estudantes pelas instituições de ensino superior"
             },
             {
-                "idNota": "nota_650.10.104_205af7e97d84",
+                "idNota": "nota_650.10.104_de69a795c687",
                 "nota": "Ajudas técnicas e tecnologias de apoio concedidas a pessoas com deficiência ou com incapacidade temporária"
             }
         ],
         "exemplosNotasAp": [
             {
-                "idExemplo": "exemplo_650.10.104_355abd4529bd",
+                "idExemplo": "exemplo_650.10.104_c987bac1092f",
                 "exemplo": "Atribuição de software específico para alunos com necessidades educativas especiais"
             },
             {
-                "idExemplo": "exemplo_650.10.104_84d7269430c0",
+                "idExemplo": "exemplo_650.10.104_380a1796ad10",
                 "exemplo": "Atribuição de dispositivos para alunos com necessidades educativas especiais"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.104_9eb287fcc6db",
+                "idNota": "nota_650.10.104_d82636daece6",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_650.10.104_d71d7ff75dc3",
+                "idNota": "nota_650.10.104_7150b991ed4d",
                 "nota": "A definição de comparticipações em tecnologias de saúde deve ser considerada em 650.10.110 - Atribuição de comparticipação em tecnologias de saúde"
             },
             {
-                "idNota": "nota_650.10.104_d927903e2373",
+                "idNota": "nota_650.10.104_9eb4452d0f1a",
                 "nota": "A prescrição de produtos de apoio deve ser considerada em PN específico da classe 700.20 - Serviços clínicos"
             }
         ],
@@ -4211,25 +4221,25 @@
         "descricao": "Concessão de prestação pecuniária mensal ou definição do montante de renda económica, como forma de proteção de arrendatários economicamente desfavorecidos. Inicia com processamento do pedido e termina com a comunicação do montante a atribuir ou da atribuição da casa de renda económica. Inclui análise da situação, verificação da conformidade com os requisitos, seleção dos candidatos e decisão sobre o montante ou a habitação a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.105_f5311565d63e",
+                "idNota": "nota_650.10.105_45f179a2c583",
                 "nota": "Atribuição de comparticipação para que a aquisição se processe a custo reduzido"
             },
             {
-                "idNota": "nota_650.10.105_e39ec8c59419",
+                "idNota": "nota_650.10.105_8455c787762e",
                 "nota": "Atribuição de renda económica a casas e a espaços comerciais, garagens e espaços de estacionamento adstritos às mesmas"
             },
             {
-                "idNota": "nota_650.10.105_568d3d029b97",
+                "idNota": "nota_650.10.105_0fe7d4cde314",
                 "nota": "Atribuição de montante mensal para pagamento de renda de casa"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.105_8902b6b77f2e",
+                "idNota": "nota_650.10.105_98a403a9be9d",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_650.10.105_1b02db9014cd",
+                "idNota": "nota_650.10.105_43a65c2ebf28",
                 "nota": "Os contratos de arrendamento devem ser considerados em 400.30.001 – Celebração de contratos, escrituras, títulos equivalentes e testamentos"
             }
         ],
@@ -4307,7 +4317,7 @@
         "descricao": "Atribuição de prestação pecuniária pelo Estado para apoio ao retorno voluntário de cidadãos estrangeiros aos países de origem ou a Estados Terceiros de acolhimento dispostos a recebê-los. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise do processo. ",
         "notasEx": [
             {
-                "idNota": "nota_650.10.107_dc91a981b274",
+                "idNota": "nota_650.10.107_8e115e992aef",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -4379,25 +4389,25 @@
         "descricao": "Atribuição de indemnização social atribuída, quer à vítima de violência doméstica que se encontram numa situação de grave carência económica, na sequência da rutura familiar, quer à vítima - direta ou indireta - de crime violento, desde que tenham sofrido por causa do crime uma incapacidade superior a 30 dias, tenham sofrido uma perturbação considerável do seu nível e da sua qualidade de vida, e não tenham obtido nenhum tipo de reparação em sede de execução de sentença condenatória. Inicia com a notificação emitida pela entidade competente para atribuição do adiantamento da indemnização termina com a atribuição da indemnização Inclui instrução do pedido.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.109_02a292fc553a",
+                "idNota": "nota_650.10.109_cd1722989863",
                 "nota": "Vítimas de crime de violência doméstica e de crime violento, desde que tenham sido vítimas desses crimes em território português ou a bordo de navios ou aeronaves portuguesas"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.109_3ba59cd576b6",
+                "idNota": "nota_650.10.109_9c21b34b78a6",
                 "nota": "A concessão de indemnização ou reparação obtida em sede de execução de sentença condenatória deve ser considerada no respetivo processo"
             },
             {
-                "idNota": "nota_650.10.109_cb4e1f99b0dc",
+                "idNota": "nota_650.10.109_cb834ae19b04",
                 "nota": "O pagamento da indemnização deve ser considerado em 350.30.001 - Cobrança de receitas e pagamento d edespesas"
             },
             {
-                "idNota": "nota_650.10.109_97279a85a406",
+                "idNota": "nota_650.10.109_464d4bb848bc",
                 "nota": "O processamento de despesa com indemnização decorrente de acidente de trabalho deve ser considerado em 350.10.508 – Processamento de indemnizações e injunções"
             },
             {
-                "idNota": "nota_650.10.109_3afa0b63f7f1",
+                "idNota": "nota_650.10.109_545730748932",
                 "nota": "Os pedidos de apoio psicossocial de iniciativa privada ou sinalizados por terceiros devem ser considerados em 650.20.304 – Apoio psicossocial"
             }
         ],
@@ -4476,33 +4486,33 @@
         "descricao": "Definição da percentagem de comparticipação, tendo como referência o preço de venda ao público, de medicamento, dispositivo médico ou outras tecnologias de saúde. Inicia com a receção do pedido e termina com a comunicação da decisão de comparticipação ou com celebração de contrato de comparticipação. Inclui validação da documentação necessária à instrução dos processos, avaliação e decisão. Inclui, ainda, a avaliação sistemática da comparticipação. ",
         "notasAp": [
             {
-                "idNota": "nota_650.10.110_b0cf1cc0ecdd",
+                "idNota": "nota_650.10.110_209b4afc2919",
                 "nota": "Pedidos de comparticipação de medicamentos, dispositivos médicos ou outras tecnologias de saúde"
             },
             {
-                "idNota": "nota_650.10.110_069fdc7ae59a",
+                "idNota": "nota_650.10.110_2d7e69931bfb",
                 "nota": "Autorização de comparticipação de tecnologias de saúde para utilização em ambulatório"
             },
             {
-                "idNota": "nota_650.10.110_7d21496ba3b1",
+                "idNota": "nota_650.10.110_41b26469d08c",
                 "nota": "Definição da comparticipação na aquisição dos medicamentos prescritos aos beneficiários do Serviço Nacional de Saúde e de outros subsistemas públicos de saúde"
             },
             {
-                "idNota": "nota_650.10.110_a51f311b1efe",
+                "idNota": "nota_650.10.110_9811aa4068bd",
                 "nota": "Autorização, exclusão, prorrogação e transferência da comparticipação"
             },
             {
-                "idNota": "nota_650.10.110_cf8f85b8eaac",
+                "idNota": "nota_650.10.110_252abedf95ae",
                 "nota": "Autorização de comparticipação de tecnologias de saúde para utilização em ambulatório (ex-PN 450.10.627)"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.110_791fcea39c1f",
+                "idNota": "nota_650.10.110_1bf8c7bcea1e",
                 "nota": "A definição de políticas de comparticipação do Estado no preço das tecnologias de saúde deve ser classificada em 150.10.100 – Definição de políticas setoriais"
             },
             {
-                "idNota": "nota_650.10.110_55ce44d0778a",
+                "idNota": "nota_650.10.110_656e5dad3fdd",
                 "nota": "O apuramento de montantes de reembolso despendidos com encargos relativos a cuidados de saúde deve ser considerado em 350.10.506 – Comparticipação em despesas de saúde ao beneficiário"
             }
         ],
@@ -4594,45 +4604,45 @@
         "descricao": "Atribuição de apoio a cidadãos portugueses e seus familiares no estrangeiro, ou no regresso a Portugal, em situações de vulnerabilidade ou emergência. Inicia com o pedido no consulado, do cidadão ou de um seu familiar e termina com a atribuição de prestações em espécie e/ou de prestações pecuniárias de caráter eventual ou em condições de excecionalidade. Inclui contactos com autoridades nacionais e estrangeiras e o compromisso de reembolso das despesas efetuadas.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.111_3ccdd710cc06",
+                "idNota": "nota_650.10.111_3393562007fa",
                 "nota": "Prestação de apoio a portugueses no estrangeiro, em casos de prisão ou de detenção"
             },
             {
-                "idNota": "nota_650.10.111_eb3a7d5e177e",
+                "idNota": "nota_650.10.111_f3de5e7c1875",
                 "nota": "Prestação de assistência no caso de sinistro a cidadãos portugueses no estrangeiro"
             },
             {
-                "idNota": "nota_650.10.111_1e199cf664f2",
+                "idNota": "nota_650.10.111_77464fc542ef",
                 "nota": "Prestação de socorro no caso de catástrofe natural ou de graves perturbações de ordem civil no estrangeiro"
             },
             {
-                "idNota": "nota_650.10.111_b70a7696782a",
+                "idNota": "nota_650.10.111_526e6348e2f2",
                 "nota": "Evacuação de cidadãos portugueses em caso de catástrofe natural ou de graves perturbações de ordem civil no estrangeiro"
             },
             {
-                "idNota": "nota_650.10.111_6186df9a67aa",
+                "idNota": "nota_650.10.111_ff87e0d57b52",
                 "nota": "Salvaguarda de menores e de outros incapazes que se encontrem desprotegidos e se mostrem em perigo no estrangeiro"
             },
             {
-                "idNota": "nota_650.10.111_a06e2d3e74e3",
+                "idNota": "nota_650.10.111_d95d6f6cc8e9",
                 "nota": "Prestação de apoio, quando necessário, aos familiares de portugueses falecidos no estrangeiro"
             },
             {
-                "idNota": "nota_650.10.111_07774d47df5a",
+                "idNota": "nota_650.10.111_f9cd7224267a",
                 "nota": "Apoio social, jurídico ou administrativo possível e adequado, de modo a garantir a defesa e a protecção dos direitos dos portugueses no estrangeiro"
             },
             {
-                "idNota": "nota_650.10.111_be9a40fe9831",
+                "idNota": "nota_650.10.111_7f1b733fb3ab",
                 "nota": "Assistência a idosos, reformados, desempregados e outros desprotegidos no estrangeiro"
             },
             {
-                "idNota": "nota_650.10.111_f74c5bd454e2",
+                "idNota": "nota_650.10.111_dae809d44aa0",
                 "nota": "Acolhimento, apoio e orientação em território nacional, dos nacionais repatriados, deportados ou expulsos"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.111_40e9bd78d5a3",
+                "idNota": "nota_650.10.111_a54e836061ab",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -4673,6 +4683,7 @@
             "150.40.500",
             "300.30.008",
             "350.30.001",
+            "400.10.011",
             "500.10.301"
         ],
         "proRel": [
@@ -4683,6 +4694,7 @@
             "eSintetizadoPor",
             "eSintetizadoPor",
             "eCruzadoCom",
+            "eSintetizadoPor",
             "eSuplementoPara"
         ],
         "pca": {
@@ -4727,6 +4739,36 @@
         }
     },
     {
+        "codigo": "650.10.112",
+        "nivel": 3,
+        "estado": "H",
+        "titulo": "Concessão de subsídios diretos ao trabalhador",
+        "descricao": "None",
+        "pca": {
+            "valores": "NE"
+        }
+    },
+    {
+        "codigo": "650.10.113",
+        "nivel": 3,
+        "estado": "H",
+        "titulo": "Concessão de subsídio ao cuidador informal",
+        "descricao": "Atribuição de subsídio pecuniário mensal de apoio ao cuidador informal principal. Inicia com o processamento do pedido, mediante apresentação de requerimento instruído com os necessários meios de prova e ponderação dos recursos, a composição e o rendimento do agregado familiar, e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
+        "pca": {
+            "valores": "NE"
+        }
+    },
+    {
+        "codigo": "650.10.114",
+        "nivel": 3,
+        "estado": "H",
+        "titulo": "Concessão de subsídio para reestruturação familiar",
+        "descricao": "Atribuição de prestação pecuniária mensal no âmbito de licença especial de reestruturação familiar, com limite máximo de 10 dias seguidos, aplicável a vítima de violência doméstica que, em razão da prática desse crime, se veja obrigada a alterar a sua residência. Inicia com o processamento do pedido, mediante apresentação de comprovativo do estatuto de vítima e violência doméstica, e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
+        "pca": {
+            "valores": "NE"
+        }
+    },
+    {
         "codigo": "650.10.200",
         "nivel": 3,
         "estado": "A",
@@ -4734,13 +4776,13 @@
         "descricao": "Atribuição de prestação pecuniária mensal de alimentos devida a menores. Inicia com a solicitação da atribuição e termina com a comunicação do montante a atribuir. Inclui análise da situação e verificação da conformidade com os requisitos, renovação, perante o tribunal competente, da prova de que a situação económica se mantém e de que o menor precisa da prestação para fazer face às suas necessidades e decisão sobre o montante a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.200_27b78842254a",
+                "idNota": "nota_650.10.200_aa658bc205ba",
                 "nota": "Atribuição de prestação destinada a crianças e jovens menores com vista a garantir a sua subsistência, sustento, habitação, vestuário e educação, por substituição de um dos progenitores"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.200_1739e729fbf1",
+                "idNota": "nota_650.10.200_c54f46e1318d",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -4843,17 +4885,17 @@
         "descricao": "Atribuição de prestação pecuniária a trabalhador por conta de outrem para pagamento de dívidas da entidade empregadora, que não as possa pagar por se encontrar em situação de insolvência ou numa situação económica difícil. Inicia com o pedido para o pagamento dos créditos laborais em dívida, emergentes do contrato de trabalho, e termina com a comunicação do montante a atribuir. Inclui análise da situação, verificação da conformidade com os requisitos e decisão sobre o montante a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.201_b0ef7f8cdc12",
+                "idNota": "nota_650.10.201_2195e64a805c",
                 "nota": "Concessão de comparticipações para pagamento salarial"
             },
             {
-                "idNota": "nota_650.10.201_8757c48c821f",
+                "idNota": "nota_650.10.201_f0148ab0bf52",
                 "nota": "Fundo de Garantia Salarial, atribuição de prestação ao trabalhador"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.201_b7395088e235",
+                "idNota": "nota_650.10.201_0b1888cc0839",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -4954,7 +4996,7 @@
         "descricao": "Atribuição de uma prestação pecuniária mensal complementar para pessoas idosas com baixos recursos. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.202_07ae9f225919",
+                "idNota": "nota_650.10.202_19d7bbe1debe",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -5128,7 +5170,7 @@
         "descricao": "Atribuição de prestação pecuniária mensal, beneficiários com idade legalmente exigida que não se encontrem abrangidos por qualquer regime de proteção social obrigatório ou pelos regimes transitórios dos rurais ou, estando-o, não satisfaçam os períodos de garantia definidos para acesso à pensão. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.204_dbc60af0b4ce",
+                "idNota": "nota_650.10.204_0c991c30ac27",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -5227,7 +5269,7 @@
         "descricao": "Atribuição de prestação pecuniária mensal de proteção social criada para apoiar as pessoas ou famílias que se encontrem em situação de grave carência económica e em risco de exclusão social. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados, celebração de contrato de inserção para ajuda à integração social e profissional e decisão sobre o montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.205_e29569d8930d",
+                "idNota": "nota_650.10.205_f01240a23e59",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -5334,7 +5376,7 @@
         "descricao": "Atribuição de prestação pecuniária mensal aos candidatos a adotantes, que não estejam a contribuir para a Segurança Social ou não tenham o período de contribuições necessário para acesso ao subsídio por adoção e estejam em situação de carência económica. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.206_83558048f9ff",
+                "idNota": "nota_650.10.206_cadabf7fb675",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -5418,7 +5460,7 @@
         "descricao": "Atribuição de prestação pecuniária mensal ao beneficiário desempregado, para compensar a falta de remuneração motivada pela perda involuntária de emprego, quando este não reúna as condições para receber o subsídio de desemprego ou já tenha recebido a totalidade do subsídio de desemprego a que tinha direito. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.207_e7c56708f93e",
+                "idNota": "nota_650.10.207_041e28253af4",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -5506,7 +5548,7 @@
         "descricao": "Atribuição de prestação pecuniária mensal, em situação de carência económica, em caso de interrupção da gravidez medicamente certificada, que exerça atividade profissional e que se encontrem abrangidas por regime de proteção social obrigatório ou pelo regime do seguro social voluntário, cujo esquema de proteção social integre a eventualidade de maternidade, paternidade e adoção, sem direito ao subsídio por interrupção da gravidez. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.208_a7fdc1596032",
+                "idNota": "nota_650.10.208_3e6a67ab1f2d",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -5587,7 +5629,7 @@
         "descricao": "Atribuição de prestação pecuniária mensal, ao pai e/ou à mãe, que não trabalhem e sem contribuições na Segurança Social ou tendo não reúnem as condições para terem direito ao subsídio parental, por nascimento de filho. Inicia com o processamento do pedido do trabalhador e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.209_5cdf06730a3f",
+                "idNota": "nota_650.10.209_ffb80c0610c4",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -5671,7 +5713,7 @@
         "descricao": "Atribuição de prestação pecuniária mensal durante a gravidez, com vista a substituir o rendimento de trabalho perdido em caso de risco clínico para a grávida ou para a criança, em situações em que a grávida, estando abrangida por regime de proteção social obrigatório ou pelo regime do seguro social voluntário, o esquema de proteção social não comtemple o direito ao subsídio por risco clínico durante a gravidez. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.210_aee71af4969d",
+                "idNota": "nota_650.10.210_7e716607f996",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -5756,7 +5798,7 @@
         "descricao": "Atribuição de uma prestação monetária mensal à trabalhadora grávida, puérpera e lactante que, na sua atividade profissional, desempenhe trabalho noturno ou se encontre exposta a riscos específicos que prejudiquem a sua segurança e saúde, desde que o empregador não lhe possa distribuir outras tarefas. A trabalhadora é abrangida por regime de proteção social obrigatório ou pelo regime do seguro social voluntário, cujo esquema de proteção social integre a eventualidade de maternidade, paternidade e adoção, sem direito ao subsídio por riscos específicos. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.211_5e12819ff499",
+                "idNota": "nota_650.10.211_d5df504ca499",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -5840,7 +5882,7 @@
         "descricao": "Atribuição de prestação pecuniária mensal vitalícia atribuída a cidadãos que tenham sido feitos prisioneiros ou capturados em combate no decurso da guerra nas ex-colónias e estejam em situação de carência económica. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição, decisão sobre o cálculo, bem como aplicação de regime de redução, suspensão, transmissão e actualização da prestação. ",
         "notasAp": [
             {
-                "idNota": "nota_650.10.212_3da5002320d6",
+                "idNota": "nota_650.10.212_e351761be3c8",
                 "nota": "Pensão de ex-prisioneiro de guerra atribuída ao próprio ou aos seus herdeiros e familiares"
             }
         ],
@@ -5924,15 +5966,15 @@
         "descricao": "Atribuição de prestação pecuniária mensal vitalícia atribuída aos cidadãos agraciados com os galardões de valor militar e cruz de guerra, ordem militar de torre e espada, do valor, lealdade e mérito em situação de insuficiência económica. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição, decisão sobre o cálculo, bem como aplicação de regime de redução, suspensão, transmissão e actualização da prestação. ",
         "notasAp": [
             {
-                "idNota": "nota_650.10.213_a9348889d697",
+                "idNota": "nota_650.10.213_02dcc7f76d13",
                 "nota": "Pensão por condecoração atribuída ao próprio ou aos seus herdeiros e familiares"
             },
             {
-                "idNota": "nota_650.10.213_3f2e8105f8b1",
+                "idNota": "nota_650.10.213_e03c105bcab1",
                 "nota": "Pensão a agraciados com a medalha de valor militar ou da cruz de guerra"
             },
             {
-                "idNota": "nota_650.10.213_962a35ed96ed",
+                "idNota": "nota_650.10.213_1d80e9a2ec47",
                 "nota": "Pensão a condecorados com o grau da Ordem militar da torre e espada, do valor, lealdade e mérito"
             }
         ],
@@ -6008,17 +6050,17 @@
         "descricao": "Atribuição de prestação pecuniária mensal a pessoas com deficiência, em situações de carência ou insuficiência económica, com vista a promover a sua autonomia e inclusão social. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição, decisão sobre o cálculo, bem como aplicação de regime de redução, suspensão, transmissão e atualização da prestação.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.214_10b9fea420e7",
+                "idNota": "nota_650.10.214_36baa1893a9b",
                 "nota": "Prestação social para pessoa com deficiência, residente legal em Portugal, com idade igual ou superior a 18 anos,com grau de incapacidade igual ou superior a 60% ou com grau de incapacidade igual ou superior a 80%, no caso de ser titular de pensão de invalidez"
             },
             {
-                "idNota": "nota_650.10.214_e1ba75253050",
+                "idNota": "nota_650.10.214_dd26b94ca5aa",
                 "nota": "Substitui as prestações: subsídio mensal vitalício, pensão social de invalidez e pensão de invalidez dos regimes transitórios dos trabalhadores agrícolas"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.214_f9d0a24e3948",
+                "idNota": "nota_650.10.214_c3a87bd60423",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -6102,25 +6144,25 @@
         "descricao": "Atribuição de prestação pecuniária mensal, que visa compensar os encargos familiares com o sustento e educação de crianças e jovens. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.300_6c8c9b5442d6",
+                "idNota": "nota_650.10.300_f6e7c86cb3d1",
                 "nota": "Abono de família para crianças e jovens"
             },
             {
-                "idNota": "nota_650.10.300_3c95dfc8384a",
+                "idNota": "nota_650.10.300_23182d01758d",
                 "nota": "Bonificação por deficiência"
             },
             {
-                "idNota": "nota_650.10.300_88f5dc087ab3",
+                "idNota": "nota_650.10.300_03b1def84267",
                 "nota": "Majoração de abono para famílias com duas ou mais crianças"
             },
             {
-                "idNota": "nota_650.10.300_a47f49a63f44",
+                "idNota": "nota_650.10.300_9926f93f4093",
                 "nota": "Majoração de abono para famílias monoparentais"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.300_e4a5c2abb8fa",
+                "idNota": "nota_650.10.300_3298fd26c06c",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -6367,7 +6409,7 @@
         "descricao": "Atribuição de prestação pecuniária à mulher grávida a partir da 13.ª semana de gestação, que visa incentivar a maternidade através da compensação dos encargos acrescidos durante o período de gravidez. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.301_894a7bd20498",
+                "idNota": "nota_650.10.301_881079a12efd",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -6485,17 +6527,17 @@
         "descricao": "Atribuição de prestação pecuniária mensal, aos cidadãos de acordo com o quadro legal, que se encontrem em situação de dependência e que precisam da ajuda de terceira pessoa para satisfazer as necessidades básicas da vida quotidiana. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.302_fc679a26e289",
+                "idNota": "nota_650.10.302_66098608219a",
                 "nota": "Beneficiários não pensionistas, em situação de incapacidade de locomoção originada por doença"
             },
             {
-                "idNota": "nota_650.10.302_8def1e8a2a12",
+                "idNota": "nota_650.10.302_143a8335cfca",
                 "nota": "Pensionistas de invalidez, de velhice e de sobrevivência do regime geral de Segurança Social e pensionistas do regime não contributivo e equiparados"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.302_7f8a836783c5",
+                "idNota": "nota_650.10.302_49af3ca30204",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -6601,7 +6643,7 @@
         "descricao": "Atribuição de uma prestação monetária mensal, a crianças e jovens, órfãos de pessoas não abrangidas por qualquer regime de proteção social, até atingirem a maioridade ou a emancipação. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.303_85d7b6e9f65c",
+                "idNota": "nota_650.10.303_b13e65138755",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -6709,7 +6751,7 @@
         "descricao": "Atribuição de prestação monetária mensal a viúvo, viúva ou pessoa que vivia em situação de união de facto com o pensionista de pensão social falecido. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.304_737d432b5528",
+                "idNota": "nota_650.10.304_3adf4ac72966",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -6851,7 +6893,7 @@
         "descricao": "Atribuição de prestação pecuniária mensal destinada a compensar famílias com descendentes, a receber abono de família com bonificação por deficiência ou subsídio mensal vitalício, que estejam em situação de dependência e que necessitem do acompanhamento permanente de terceira pessoa. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.305_b9c205d91f20",
+                "idNota": "nota_650.10.305_7dbbf3fdaf5e",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -7006,7 +7048,7 @@
         "descricao": "Atribuição de prestação pecuniária que visa compensar despesas de funeral, sendo atribuído pelo falecimento dos familiares do beneficiário. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.306_6054ae066052",
+                "idNota": "nota_650.10.306_2398e959c624",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -7163,7 +7205,7 @@
         "descricao": "Atribuição de prestação pecuniária mensal destinada a compensar famílias com crianças e jovens com deficiência, dos encargos resultantes de medidas específicas de educação especial que impliquem necessariamente a frequência de estabelecimentos adequados ou o apoio educativo específico fora do estabelecimento. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.307_b5ab5817ab70",
+                "idNota": "nota_650.10.307_a60a2cdc0814",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -7317,7 +7359,7 @@
         "descricao": "Atribuição de prestação pecuniária, paga de uma só vez aos familiares do beneficiário, que se destina a compensar o acréscimo de encargos decorrentes da morte deste, com o objetivo de facilitar a reorganização da vida familiar. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.308_357dd34d3641",
+                "idNota": "nota_650.10.308_7c10fafd0e42",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -7475,7 +7517,7 @@
         "descricao": "Atribuição de prestação pecuniária mensal destinada a compensar o acréscimo de encargos familiares dos descendentes dos beneficiários, pessoas com deficiência de natureza física, orgânica, sensorial, motora ou mental, que se encontrem impossibilitados de assegurar normalmente a sua subsistência pelo exercício de atividade profissional. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.",
         "notasEx": [
             {
-                "idNota": "nota_650.10.309_910b437fe7f4",
+                "idNota": "nota_650.10.309_5b7aee0631da",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -7560,36 +7602,39 @@
     {
         "codigo": "650.10.310",
         "nivel": 3,
-        "estado": "H",
+        "estado": "A",
         "titulo": "Prestação de serviços fúnebres",
         "descricao": "Desenvolvimento de ações conducentes a garantir um funeral digno a todos os que não tenham condições socioeconómicas para suportar os encargos com estes serviços. Inicia com a identificação da necessidade ou com o pedido e termina com a prestação do serviço fúnebre. Inclui a verificação das condições socioeconómicas, a afetação de recursos e o registo.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.310_d511f121289e",
+                "idNota": "nota_650.10.310_c1d4c0185a10",
                 "nota": "Aplica-se a casos de óbitos de indivíduos, cuja identidade não seja conhecida ou cujos corpos não sejam reclamados por familiares ou pessoas de referência."
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.310_193b89d15622",
+                "idNota": "nota_650.10.310_ddcceb826460",
                 "nota": "A atribuição de subsídios de funeral, decorrentes de prestações de natureza contributiva, deve ser considerada em 650.10.306 - Concessão de subsídios de funeral"
             }
         ],
         "tipoProc": "PE",
-        "procTrans": "N",
+        "procTrans": "S",
         "donos": [
             "SCML"
         ],
+        "participantes": [
+            {
+                "id": "INML",
+                "interv": "Iniciar"
+            }
+        ],
         "legislacao": [
-            "DL_411_98",
-            "Lei_98_97"
+            "DL_411_98"
         ],
         "processosRelacionados": [
-            "150.20.404",
             "500.10.001"
         ],
         "proRel": [
-            "eSintetizadoPor",
             "eSuplementoPara"
         ],
         "pca": {
@@ -7599,10 +7644,8 @@
                 {
                     "critCodigo": "just_pca_c650.10.310_0",
                     "tipo": "legal",
-                    "conteudo": "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória).",
-                    "legRefs": [
-                        "Lei_98_97"
-                    ]
+                    "conteudo": "(Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória).",
+                    "legRefs": []
                 },
                 {
                     "critCodigo": "just_pca_c650.10.310_1",
@@ -7611,6 +7654,16 @@
                     "procRefs": [
                         "500.10.001"
                     ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "C",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c650.10.310_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação não recuperável noutro PN."
                 }
             ]
         }
@@ -7623,13 +7676,13 @@
         "descricao": "Atribuição de prestação pecuniária para pagamento a instituição de solidariedade social pelos serviços prestados a crianças, idosos e pessoas com deficiência. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.400_7ed05d58e605",
+                "idNota": "nota_650.10.400_cc8879c9c998",
                 "nota": "Atribuição de apoio financeiro às instituições de solidariedade social quando o mesmo é regulado por portaria, sendo o valor atribuído por utente"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.400_7f017ae45819",
+                "idNota": "nota_650.10.400_a8a7a3679777",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -7648,11 +7701,13 @@
         ],
         "processosRelacionados": [
             "150.10.500",
+            "150.20.404",
             "350.30.001",
             "500.10.001"
         ],
         "proRel": [
             "eSucessorDe",
+            "eSintetizadoPor",
             "eCruzadoCom",
             "eSuplementoPara"
         ],
@@ -7701,13 +7756,13 @@
         "descricao": "Atribuição de prestação pecuniária para pagamento a instituição de solidariedade social pelos serviços prestados a crianças, idosos e pessoas com deficiência. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.401_609f1cb06cc7",
+                "idNota": "nota_650.10.401_11af16dc50cb",
                 "nota": "Atribuição de apoio financeiro às instituições de solidariedade social quando o mesmo é regulado por um programa, sendo o valor atribuído por utente"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.401_7fe08882e8d6",
+                "idNota": "nota_650.10.401_e0d6a1b5f2ce",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -7726,11 +7781,13 @@
         ],
         "processosRelacionados": [
             "150.10.500",
+            "150.20.404",
             "350.30.001",
             "500.10.001"
         ],
         "proRel": [
             "eSucessorDe",
+            "eSintetizadoPor",
             "eCruzadoCom",
             "eSuplementoPara"
         ],
@@ -7779,13 +7836,13 @@
         "descricao": "Atribuição de prestação pecuniária para pagamento a instituição de solidariedade social pelos serviços prestados a crianças, idosos e pessoas com deficiência. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.",
         "notasAp": [
             {
-                "idNota": "nota_650.10.500_def9bdc657a1",
+                "idNota": "nota_650.10.500_f7d255c1b740",
                 "nota": "Atribuições de apoio financeiro às instituições de solidariedade social quando o mesmo é efetuado por acordos de gestão"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.10.500_f65d4c899d5d",
+                "idNota": "nota_650.10.500_f0fd40ae2dde",
                 "nota": "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -7804,11 +7861,13 @@
         ],
         "processosRelacionados": [
             "150.10.500",
+            "150.20.404",
             "350.30.001",
             "500.10.001"
         ],
         "proRel": [
             "eSucessorDe",
+            "eSintetizadoPor",
             "eCruzadoCom",
             "eSuplementoPara"
         ],
@@ -7853,17 +7912,25 @@
         "codigo": "650.20",
         "nivel": 2,
         "estado": "A",
-        "titulo": "Serviços e equipamentos sociais",
+        "titulo": "Acesso a medidas de apoio, serviços e equipamentos sociais",
         "descricao": "Compreende os processos relativos à prestação de serviços de informação e consulta para corrigir ou minimizar situações de vulnerabilidade social, no que se inclui o apoio à integração no mercado de trabalho. Compreende, igualmente, os processos de atendimento de emergência e acolhimento de pessoas em risco de exclusão social (crianças, jovens, idosos, pessoas com deficiência, vítimas de violência, etc.), bem como o atendimento, encaminhamento e acolhimento regular em estruturas de apoio social e psicossocial. Compreende, ainda, os processos de acesso e usufruto de equipamentos de apoio à inclusão social (infraestruturas de acolhimento, de capacitação para a inclusão, de convívio, de lazer, ou outras).",
         "notasAp": [
             {
-                "idNota": "nota_650.20_5bfdcee5384f",
+                "idNota": "nota_650.20_c7c0850bfa59",
                 "nota": "Processos relativos à garantia de acesso ao direito, designadamente nos domínios da informação e consulta jurídica e do apoio judiciário prestados ao cidadão"
+            },
+            {
+                "idNota": "nota_650.20_68916b2dc513",
+                "nota": "Sinalização de situações de emergência social"
+            },
+            {
+                "idNota": "nota_650.20_639dbe41d329",
+                "nota": "Reconhecimento de estatutos no âmbito de situações de vulnerabilidade social"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.20_c385dca35650",
+                "idNota": "nota_650.20_8100d72709c6",
                 "nota": "O encaminhamento de alunos no quadro das estruturas de ensino deve ser considerado em “Prestação de serviços de ensino e formação/ Gestão do aluno/formando” (750.10)"
             }
         ]
@@ -7876,15 +7943,15 @@
         "descricao": "Reconhecimento de indivíduos ou agregados familiares em situação de pobreza, de exclusão social, de deficiência, de risco ou de violação da integridade pessoal (física, intelectual, psicológica) ou de propriedade, numa lógica de estudo e prevenção de situações de riscos sociais e posterior intervenção junto de grupos desfavorecidos e vulneráveis. Inicia com o pedido ou identificação da situação e termina com o encaminhamento para apoio específico ou acolhimento. Inclui apresentação de comprovativos de situação, elaboração de relatório de caracterização, aconselhamento inicial e articulação com outras entidades ou autoridades.",
         "notasAp": [
             {
-                "idNota": "nota_650.20.001_d629eddc9282",
+                "idNota": "nota_650.20.001_d99f7de73f73",
                 "nota": "Familiares e vítimas de crimes contra as pessoas, em que se incluem as difamações, injúrias, ofensas corporais, violação e outros crimes sexuais, homicídio, suícidio, abuso de autoridade, tráfico de seres humanos"
             },
             {
-                "idNota": "nota_650.20.001_c2ec9462c9dd",
+                "idNota": "nota_650.20.001_dd8a1c92a104",
                 "nota": "Familiares e vítimas de crimes contra a propriedade, como furto (por esticão, de e em veículo motorizado, por carteirista, em casa por arrombamento), roubo, dano, burla, abuso de confiança, falsificação de documentos"
             },
             {
-                "idNota": "nota_650.20.001_2dc55b680c47",
+                "idNota": "nota_650.20.001_1abf94aeff48",
                 "nota": "Pessoas em situação de risco, decorrente, por exemplo de comportamentos aditivos, de discriminação (género, orientação sexual, racial/étnica), de negligência (menores, idosos)"
             }
         ],
@@ -8046,6 +8113,36 @@
         }
     },
     {
+        "codigo": "650.20.002",
+        "nivel": 3,
+        "estado": "H",
+        "titulo": "Reconhecimento de estatuto relativo a situação de vulnerabilidade social",
+        "descricao": "Reconhecimento de estatuto de vulnerabilidade social, passível de garantir o acesso a medidas de apoios relativos à prevenção e reparação de situações de carência e desigualdade sócio-económica ou exclusão. Inicia com o pedido fundamentado do estatuto e termina com comunicação da decisão ao requerente. Inclui recolha de pareceres intermédios, análise fundamentada do pedido, plano de intervenção específico, se aplicável, e decisão.",
+        "notasAp": [
+            {
+                "idNota": "nota_650.20.002_85ae694a188f",
+                "nota": "Reconhecimento de estatuto de cuidador informal"
+            },
+            {
+                "idNota": "nota_650.20.002_b0047895254e",
+                "nota": "Reconhecimento do estatuto de vítima"
+            }
+        ],
+        "exemplosNotasAp": [
+            {
+                "idExemplo": "exemplo_650.20.002_1b8920c811d7",
+                "exemplo": "Manutenção do reconhecimento de estatuto de cuidador informal"
+            },
+            {
+                "idExemplo": "exemplo_650.20.002_53b194b2121c",
+                "exemplo": "Cessação do reconhecimento de estatuto de cuidador informal"
+            }
+        ],
+        "pca": {
+            "valores": "NE"
+        }
+    },
+    {
         "codigo": "650.20.300",
         "nivel": 3,
         "estado": "A",
@@ -8053,7 +8150,7 @@
         "descricao": "Orientação concedida por um jurista a cidadãos ou entidades que não disponham de recursos económicos ou que pretendam obter informações e esclarecer dúvidas em diversas áreas do direito. Inicia com o pedido e termina com a prestação do serviço. Inclui comprovativos da situação, análise do caso apresentado, estudo de soluções, acompanhamento e mediação.",
         "notasAp": [
             {
-                "idNota": "nota_650.20.300_77625b716f2f",
+                "idNota": "nota_650.20.300_9ea33bb038e9",
                 "nota": "Aconselhamento jurídico prestado aos vários tipos de pessoas ou famílias, incluindo as que se encontrem em situação de risco ou vulnerabilidade, nomeadamente, imigrantes, vítimas de crimes, vítimas de exclusão social de uma forma genérica"
             }
         ],
@@ -8136,15 +8233,15 @@
         "descricao": "Prestação de cuidados e serviços a famílias ou pessoas que se encontrem no seu domicílio, em situação de dependência física e ou psíquica e que não possam assegurar, temporária ou permanentemente, a satisfação das suas necessidades básicas e ou a realização das atividades instrumentais da vida diária, nem disponham de apoio familiar para o efeito. Inicia com o pedido de apoio e termina com a prestação do serviço solicitado. Inclui análise da situação, verificação do tipo de apoio necessário e disponibilização de meios para o apoio.",
         "notasAp": [
             {
-                "idNota": "nota_650.20.301_e797edf55edc",
+                "idNota": "nota_650.20.301_37e0ad75afca",
                 "nota": "Realização de pequenas obras de reparação e beneficiação no domicílio de famílias desfavorecidas, de pessoas dependentes ou com necessidades especiais"
             },
             {
-                "idNota": "nota_650.20.301_be54bec769bd",
+                "idNota": "nota_650.20.301_45950971ec84",
                 "nota": "Prestação de serviços de higiene e alimentação domiciliários"
             },
             {
-                "idNota": "nota_650.20.301_1c678adb8fd2",
+                "idNota": "nota_650.20.301_8d4c6e37cc7d",
                 "nota": "Teleassistência"
             }
         ],
@@ -8230,41 +8327,41 @@
         "descricao": "Ações de informação, aconselhamento e apoio que visam promover a empregabilidade. Inicia com a inscrição ou solicitação de apoio e termina com a satisfação da necessidade ou suspensão do processo. Inclui definição de perfil e auxílio para elaboração de currículos, divulgação, encaminhamento de informação e acompanhamento personalizado.",
         "notasAp": [
             {
-                "idNota": "nota_650.20.302_25ee17f44355",
+                "idNota": "nota_650.20.302_690a41c57df5",
                 "nota": "Acompanhamento personalizado dos desempregados em fase de inserção ou reinserção profissional"
             },
             {
-                "idNota": "nota_650.20.302_1f8c1072a9ba",
+                "idNota": "nota_650.20.302_8c33f908c75c",
                 "nota": "Apoio na procura ativa de emprego"
             },
             {
-                "idNota": "nota_650.20.302_63474adb9eaa",
+                "idNota": "nota_650.20.302_9adb0f928b46",
                 "nota": "Disponibilização de informação profissional para jovens e adultos desempregados"
             },
             {
-                "idNota": "nota_650.20.302_f342465bcfc2",
+                "idNota": "nota_650.20.302_b128fd2e127d",
                 "nota": "Encaminhamento para ofertas de qualificação"
             },
             {
-                "idNota": "nota_650.20.302_1111b69c3fcb",
+                "idNota": "nota_650.20.302_ef29778c7934",
                 "nota": "Divulgação de ofertas de emprego e colocação de desempregados nas ofertas disponíveis e adequadas"
             },
             {
-                "idNota": "nota_650.20.302_f99898e53b99",
+                "idNota": "nota_650.20.302_94ea225bcb36",
                 "nota": "Divulgação de programas comunitários que promovam a mobilidade no emprego e na formação profissional no espaço europeu"
             },
             {
-                "idNota": "nota_650.20.302_a6de95dd7349",
+                "idNota": "nota_650.20.302_df2e09ac3e61",
                 "nota": "Motivação e apoio à participação em ocupações temporárias ou atividades em regime de voluntariado, que facilitem a inserção no mercado de trabalho"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.20.302_9b19bd0df59f",
+                "idNota": "nota_650.20.302_b5b3ce116918",
                 "nota": "Os programas de apoio ao emprego e qualificação devem ser considerados em 850.10.002 – Formalização de candidaturas e acompanhamento de apoios regulares"
             },
             {
-                "idNota": "nota_650.20.302_ff9b1130d1dd",
+                "idNota": "nota_650.20.302_0c0ad983d54f",
                 "nota": "A realização de atividades de formação deve ser considerada em 750.20.600 – Realização de atividades de ensino ou formação"
             }
         ],
@@ -8368,7 +8465,7 @@
         "descricao": "Prestação de apoio e acompanhamento às famílias e indivíduos com dificuldades na prevenção ou resolução de problemas a nível psicossocial, nomeadamente na prevenção, e acompanhamento de potenciais situações de disfunção, ruturas ou pré-rupturas ou no contexto social e laboral. Inicia com o pedido do interessado ou com a identificação da necessidade por terceiros e termina com a satisfação da necessidade ou suspensão do processo, por ausência do interessado. Inclui diagnóstico de situação, definição de objetivos, incentivando o indivíduo/família à participação ativa no seu próprio processo de mudança/resolução dos seus problemas e articulação com outros serviços para evitar fragmentação das respostas e insucesso na intervenção psicossocial.",
         "notasAp": [
             {
-                "idNota": "nota_650.20.304_0236c1a146b7",
+                "idNota": "nota_650.20.304_130761666ddd",
                 "nota": "Apoio psicossocial e emocional prestado aos vários tipos de pessoas ou famílias em situação de risco ou vulnerabilidade, entre outras, imigrantes, vítimas de crimes, vítimas de exclusão social de uma forma genérica"
             }
         ],
@@ -8489,37 +8586,37 @@
         "descricao": "Desenvolvimento de ações conducentes a garantir as condições higiossanitárias e de alimentação a pessoas e a animais institucionalizados. Inicia com a identificação da necessidade ou com o pedido e termina com a prestação do cuidado alimentar ou de higiene. Inclui elaboração de diagnóstico de necessidades, definição do tipo de cuidado a prestar, afetação de recursos e registo. ",
         "notasAp": [
             {
-                "idNota": "nota_650.20.306_83b813d1c67f",
+                "idNota": "nota_650.20.306_91356d2ca980",
                 "nota": "Prestação de cuidados de alimentação a pessoas institucionalizadas"
             },
             {
-                "idNota": "nota_650.20.306_6006e5ec0ce1",
+                "idNota": "nota_650.20.306_294ccdbc6f1e",
                 "nota": "Prestação de cuidados de higienização a pessoas institucionalizadas"
             },
             {
-                "idNota": "nota_650.20.306_13fe8f6d3426",
+                "idNota": "nota_650.20.306_ac1333c2ca6a",
                 "nota": "Prestação de cuidados de alimentação e de higiene a pessoas e a animais"
             },
             {
-                "idNota": "nota_650.20.306_d276ae8fc2cf",
+                "idNota": "nota_650.20.306_0fac0f8c20e1",
                 "nota": "Prestação de cuidados de alimentação e de higiene a utente institucionalizado"
             },
             {
-                "idNota": "nota_650.20.306_e4fbbabcc8ba",
+                "idNota": "nota_650.20.306_fbfc041318e7",
                 "nota": "Prestação de cuidados alimentares e de higiene a institucionalizados aos utentes"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.20.306_0f635970322d",
+                "idNota": "nota_650.20.306_882c7237c042",
                 "nota": "A prestação de cuidados de saúde deve ser considerado em PN adequado na função 700.20 – Serviços clínicos"
             },
             {
-                "idNota": "nota_650.20.306_1b80b7d1f359",
+                "idNota": "nota_650.20.306_26f4462cc6f3",
                 "nota": "A administração de fármacos a utentes deve ser considerada em PN adequado na função 700.20 – Serviços clínicos"
             },
             {
-                "idNota": "nota_650.20.306_caf7edd8bdc8",
+                "idNota": "nota_650.20.306_7d0aa5abaf05",
                 "nota": "A contratação de serviços deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
             }
         ],
@@ -8610,33 +8707,33 @@
         "descricao": "Abrigo de pessoas sob medida de proteção ou em situação de risco pessoal e social. Inicia com a identificação da necessidade de acolhimento imediato e termina com a integração em meio natural de vida ou encaminhamento para instituição de acolhimento. Inclui seleção e articulação da admissão, formalização da receção do individuo pela instituição e contacto com outras entidades ou autoridades para obtenção de resposta social. ",
         "notasAp": [
             {
-                "idNota": "nota_650.20.600_490ef85fcb20",
+                "idNota": "nota_650.20.600_80d4f30098a4",
                 "nota": "Acolhimento imediato para as crianças e jovens"
             },
             {
-                "idNota": "nota_650.20.600_ceaa11e7c693",
+                "idNota": "nota_650.20.600_55bc4983fee1",
                 "nota": "Acolhimento imediato para os idosos"
             },
             {
-                "idNota": "nota_650.20.600_982ff7afa75f",
+                "idNota": "nota_650.20.600_06221432b2d9",
                 "nota": "Acolhimento imediato para os imigrantes"
             },
             {
-                "idNota": "nota_650.20.600_396df7f83fcc",
+                "idNota": "nota_650.20.600_025bda09dc55",
                 "nota": "Acolhimento imediato para os sem-abrigo"
             },
             {
-                "idNota": "nota_650.20.600_a9e3030312b3",
+                "idNota": "nota_650.20.600_d2df81c063cf",
                 "nota": "Acolhimento imediato para as vítimas de violência doméstica"
             },
             {
-                "idNota": "nota_650.20.600_570eb9f86a19",
+                "idNota": "nota_650.20.600_d8aa1cc89a5c",
                 "nota": "Acolhimento imediato para os toxicodependentes"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.20.600_4d425e747674",
+                "idNota": "nota_650.20.600_1ba74a66f34e",
                 "nota": "O auxílio e acolhimento de emergência a sinistrados e doentes em situações de catástofres naturais ou tecnológicas devem ser considerados em 550.20.500 – Ação de proteção e socorro"
             }
         ],
@@ -8738,81 +8835,81 @@
         "descricao": "Respostas sociais de institucionalização ou acolhimento. Inicia com a formalização do pedido de admissão e termina com a saída do individuo da resposta de acolhimento. Inclui candidatura e seleção, nas situações que o prevejam, acolhimento e integração, avaliação diagnóstica, elaboração, execução e avaliação do projeto de desenvolvimento pessoal orientado ao seu projeto de vida, quer seja em contexto familiar ou autonomia de vida.",
         "notasAp": [
             {
-                "idNota": "nota_650.20.601_d869fcb0115b",
+                "idNota": "nota_650.20.601_636c229e0333",
                 "nota": "Acolhimento de crianças e jovens"
             },
             {
-                "idNota": "nota_650.20.601_f828d6b8a5fa",
+                "idNota": "nota_650.20.601_c42d80e4e549",
                 "nota": "Acolhimento de pessoas portadoras de deficiência"
             },
             {
-                "idNota": "nota_650.20.601_cb53cfc283df",
+                "idNota": "nota_650.20.601_591051aabb3d",
                 "nota": "Acolhimento de idosos"
             },
             {
-                "idNota": "nota_650.20.601_df0ee9c973a8",
+                "idNota": "nota_650.20.601_886d09d25b5b",
                 "nota": "Acolhimento de mães adolescentes"
             },
             {
-                "idNota": "nota_650.20.601_3e7fd0e94226",
+                "idNota": "nota_650.20.601_c793159edf62",
                 "nota": "Acolhimento de vítimas de violência doméstica"
             },
             {
-                "idNota": "nota_650.20.601_a35864df94d9",
+                "idNota": "nota_650.20.601_385b669c92d6",
                 "nota": "Alojamento facultado por entidades privadas, mediante estabelecimento de acordos de cooperação"
             },
             {
-                "idNota": "nota_650.20.601_c6e32be016a0",
+                "idNota": "nota_650.20.601_f3cf8a667e58",
                 "nota": "Colocação junto de famílias de acolhimento"
             },
             {
-                "idNota": "nota_650.20.601_c3da1e69f801",
+                "idNota": "nota_650.20.601_67dbfccb9b8d",
                 "nota": "Resposta social em apartamento de autonomização"
             },
             {
-                "idNota": "nota_650.20.601_7c81e3066aea",
+                "idNota": "nota_650.20.601_3b8ea071afe9",
                 "nota": "Resposta social em frações autónomas para idosos"
             },
             {
-                "idNota": "nota_650.20.601_98e6d25dc537",
+                "idNota": "nota_650.20.601_4b0ba95cf6b9",
                 "nota": "Resposta social em lares de idosos"
             },
             {
-                "idNota": "nota_650.20.601_c3d4e096a0af",
+                "idNota": "nota_650.20.601_ee7622333f24",
                 "nota": "Resposta social em lares de infância e juventude"
             },
             {
-                "idNota": "nota_650.20.601_6d0b8dfee758",
+                "idNota": "nota_650.20.601_b041d47cfd86",
                 "nota": "Resposta social em residências de acolhimento"
             },
             {
-                "idNota": "nota_650.20.601_31fdacd39a7c",
+                "idNota": "nota_650.20.601_bf336969d43c",
                 "nota": "Resposta social em unidades terapêuticas educativas"
             },
             {
-                "idNota": "nota_650.20.601_8767ab95ca02",
+                "idNota": "nota_650.20.601_f1cde9bff37e",
                 "nota": "Resposta social em residências para estudantes"
             },
             {
-                "idNota": "nota_650.20.601_64d9c6a898f1",
+                "idNota": "nota_650.20.601_116e9e5bb62e",
                 "nota": "Acolhimento em residência para professores"
             },
             {
-                "idNota": "nota_650.20.601_a83cdc1fd186",
+                "idNota": "nota_650.20.601_207d221c41e4",
                 "nota": "Acolhimento em casa função"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.20.601_c3b693c3d84a",
+                "idNota": "nota_650.20.601_7156fb551573",
                 "nota": "A prestação de cuidados de saúde dos utentes em acolhimento deve ser considerada em \\\"Prestação de cuidados de saúde/ Serviços clínicos\\\" (700.20)"
             },
             {
-                "idNota": "nota_650.20.601_f3e694521c87",
+                "idNota": "nota_650.20.601_d0c62488476d",
                 "nota": "O procedimento disciplinar da criança e jovem em respostas sociais de acolhimento deve ser considerado em 500.20.300 – Procedimento disciplinar"
             },
             {
-                "idNota": "nota_650.20.601_9cd2cede092e",
+                "idNota": "nota_650.20.601_50066fc77de4",
                 "nota": "A sinalização de situações que carecem de acolhimento deve ser considerada 650.20.001 – Sinalização e encaminhamento em situações de vulnerabilidade"
             }
         ],
@@ -8918,33 +9015,33 @@
         "descricao": "Admissão a serviços e equipamentos de caráter social que visam satisfazer as necessidades básicas quotidianas e melhorar a vida das populações. Inicia com o pedido de acesso ao equipamento e termina com a recusa ou satisfação da necessidade. Inclui verificação da situação económica e da existência de equipamentos adequados à situação, elaboração e avaliação do plano de desenvolvimento individual, quando haja lugar.",
         "exemplosNotasAp": [
             {
-                "idExemplo": "exemplo_650.20.602_9cd668506bfd",
+                "idExemplo": "exemplo_650.20.602_15b2f2a4d1d3",
                 "exemplo": "Acesso a amas, creches ou infantários"
             },
             {
-                "idExemplo": "exemplo_650.20.602_0cd8bee375b8",
+                "idExemplo": "exemplo_650.20.602_bd5991b34744",
                 "exemplo": "Acesso a cantinas e refeitórios sociais"
             },
             {
-                "idExemplo": "exemplo_650.20.602_974bab7a0843",
+                "idExemplo": "exemplo_650.20.602_9f32f0b126f4",
                 "exemplo": "Acesso a centros de atividades de tempos livres, férias ou lazer"
             },
             {
-                "idExemplo": "exemplo_650.20.602_96a52b542ba7",
+                "idExemplo": "exemplo_650.20.602_59168ba525b5",
                 "exemplo": "Acesso a centros de dia e a centros de noite"
             },
             {
-                "idExemplo": "exemplo_650.20.602_96700a77544c",
+                "idExemplo": "exemplo_650.20.602_4f53a7635baf",
                 "exemplo": "Acesso a equipamentos multi-sensoriais"
             },
             {
-                "idExemplo": "exemplo_650.20.602_c85c87e1a824",
+                "idExemplo": "exemplo_650.20.602_f8e9d8fc0723",
                 "exemplo": "Atribuição de benefícios e acesso a serviços no âmbito do Cartão Sénior"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.20.602_d7b5a3ccc8b8",
+                "idNota": "nota_650.20.602_57e8a5fd9c7a",
                 "nota": "A inscrição de alunos no ensino pré-escolar deve ser considerada 750.10.002 – Processamento de matrículas ou inscrições no ensino ou em formação"
             }
         ],
@@ -9044,21 +9141,21 @@
         "descricao": "Desenvolvimento de atividades que proporcionam a fruição do equipamento. Inicia com a programação da atividade e termina com o seu cumprimento. Inclui elaboração de programas de dinamização do equipamento, desenvolvimento de proposta de adequabilidade do equipamento à resposta a prestar, promoção da responsabilização e do cumprimento das regras e rituais inerentes ao bom funcionamento e elaboração de relatórios de ocorrências.",
         "notasAp": [
             {
-                "idNota": "nota_650.20.603_972302d20471",
+                "idNota": "nota_650.20.603_9a8deeb7037b",
                 "nota": "Utilização de residências de acolhimento"
             },
             {
-                "idNota": "nota_650.20.603_9743cc6e02d7",
+                "idNota": "nota_650.20.603_351275af1089",
                 "nota": "Utilização de equipamento snoezelen"
             },
             {
-                "idNota": "nota_650.20.603_7898fd3c6b06",
+                "idNota": "nota_650.20.603_b39524d5b66a",
                 "nota": "Utilização de centros de férias e lazer"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_650.20.603_e46242b7bec0",
+                "idNota": "nota_650.20.603_977026c3dad4",
                 "nota": "A realização de atividades em contexto pedagógico deve ser considerada em  750.20.600 – Realização de atividades de ensino ou formação"
             }
         ],
@@ -9069,7 +9166,8 @@
         "donos": [
             "AL",
             "ISS",
-            "CPL"
+            "CPL",
+            "IES"
         ],
         "participantes": [
             {
@@ -9169,6 +9267,7 @@
         "processosRelacionados": [
             "500.10.001",
             "500.10.301",
+            "500.20.300",
             "650.20.304",
             "650.20.600",
             "650.20.601",
@@ -9178,6 +9277,7 @@
         "proRel": [
             "eSuplementoPara",
             "eSuplementoPara",
+            "eSinteseDe",
             "eSinteseDe",
             "eSinteseDe",
             "eSinteseDe",
@@ -9215,10 +9315,13 @@
                 {
                     "critCodigo": "just_df_c650.20.604_0",
                     "tipo": "densidade",
-                    "conteudo": "Síntetiza osPN 650.20.304 - Apoio psicossocial;PN 650.20.601 - Admissão e desenvolvimento em instituições sociais residenciais ou estruturas de alojamento;PN 650.20.603 - Utilização de equipamentos de apoio social residenciais e não residenciais.",
+                    "conteudo": "Síntetiza osPN 500.20.300 - Procedimento disciplinar;PN 650.20.304 - Apoio psicossocial;PN 650.20.600 - Acolhimento de emergência em equipamentos de apoio social;PN 650.20.601 - Admissão e desenvolvimento em instituições sociais residenciais ou estruturas de alojamento;PN 650.20.602 - Acesso a serviços e equipamentos de apoio social não residencial;PN 650.20.603 - Utilização de equipamentos de apoio social residenciais e não residenciais.",
                     "procRefs": [
+                        "500.20.300",
                         "650.20.304",
+                        "650.20.600",
                         "650.20.601",
+                        "650.20.602",
                         "650.20.603"
                     ]
                 }

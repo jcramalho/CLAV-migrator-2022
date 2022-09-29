@@ -8,69 +8,69 @@
 	:pertenceLC :lc1 ;
 	:temPai :lc1 ;
 	:descricao 'Relativo à prestação de serviços de proteção e ação social, a promoção dos direitos humanos, igualdade do género, igualdade de oportunidades e inserção social de pessoas ou grupos - proteção de pessoas ou grupos vulneráveis, prevenção de situações de rutura psicossocial, reparação de situações de carência socioeconómica, de dependência, de disfunção, exclusão ou vulnerabilidade social, bem como a integração e promoção comunitárias e integração no mercado de trabalho.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650_170b8d0b4f8f
-:nota_650_170b8d0b4f8f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650_2f2ff19cc913
+:nota_650_2f2ff19cc913 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Administração dos regimes de proteção social.".
 
-:c650 :temNotaAplicacao :nota_650_170b8d0b4f8f .
+:c650 :temNotaAplicacao :nota_650_2f2ff19cc913 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650_90666ef70628
-:nota_650_90666ef70628 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650_aef327de53e6
+:nota_650_aef327de53e6 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processamento de apoios na área da ação social (e ação social complementar para os trabalhadores da administração pública)".
 
-:c650 :temNotaAplicacao :nota_650_90666ef70628 .
+:c650 :temNotaAplicacao :nota_650_aef327de53e6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650_bfa474a0933a
-:nota_650_bfa474a0933a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650_24e1f8bf38c4
+:nota_650_24e1f8bf38c4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Integração no mercado de trabalho".
 
-:c650 :temNotaAplicacao :nota_650_bfa474a0933a .
+:c650 :temNotaAplicacao :nota_650_24e1f8bf38c4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650_c1a71c12ed89
-:nota_650_c1a71c12ed89 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650_02b749817107
+:nota_650_02b749817107 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio psicossocial a pessoas ou grupos em risco em contexto comunitário global".
 
-:c650 :temNotaAplicacao :nota_650_c1a71c12ed89 .
+:c650 :temNotaAplicacao :nota_650_02b749817107 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650_b8a4183e7eb1
-:nota_650_b8a4183e7eb1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650_4136471f9064
+:nota_650_4136471f9064 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio psicossocial a pessoas ou grupos em risco em contextos específicos de relações laborais, prestação de serviços, execução de penas, entre outros (apoio a crianças, jovens e idosos, alunos, doentes, reclusos, funcionários, pessoas com deficiência, toxicodependentes, vítimas de violência, pessoas dependentes, desempregados, família e comunidade, grupos de risco, imigrantes e minorias étnicas, etc.)".
 
-:c650 :temNotaAplicacao :nota_650_b8a4183e7eb1 .
+:c650 :temNotaAplicacao :nota_650_4136471f9064 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650_d8a84b8a2620
-:nota_650_d8a84b8a2620 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650_2571e86edb3b
+:nota_650_2571e86edb3b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Ações de informação e sensibilização devem ser consideradas em \"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\" (900.10)".
 
-:c650 :temNotaExclusao :nota_650_d8a84b8a2620 .
+:c650 :temNotaExclusao :nota_650_2571e86edb3b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650_e1a661697c4f
-:nota_650_e1a661697c4f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650_1d6b63c95185
+:nota_650_1d6b63c95185 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Ações de formação devem ser consideradas em \"Prestação de serviços de ensino e formação\" (750)".
 
-:c650 :temNotaExclusao :nota_650_e1a661697c4f .
+:c650 :temNotaExclusao :nota_650_1d6b63c95185 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650_d51b345f77ae
-:nota_650_d51b345f77ae rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650_bedfb3f66f17
+:nota_650_bedfb3f66f17 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As comparticipações concedidas no quadro de candidaturas a programas de apoio ao estabelecimento e/ou funcionamento de equipamentos e respostas sociais (ex.: Programa de Alargamento da Rede de Equipamentos Sociais, Programa de Apoio ao Investimento a Respostas Sociais, entre outros) devem ser consideradas em \"Execução de programas e de ações de incentivo/ Atribuição e controlo de financiamentos e de ajudas diretas\" (850.10)".
 
-:c650 :temNotaExclusao :nota_650_d51b345f77ae .
+:c650 :temNotaExclusao :nota_650_bedfb3f66f17 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c650.10
@@ -82,29 +82,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650 ;
 	:descricao 'Compreende os processos relativos ao processamento de prestações e comparticipações financeiras aos beneficiários dos regimes de proteção social (apoios prestados pela Caixa Geral de Aposentações, Segurança Social, ADSE e outros regimes complementares). Compreende, igualmente, os processos de atribuição de prestações em espécie e de prestações pecuniárias de caráter eventual e em condições de excecionalidade, a pessoas em situação de carência e desigualdade socioeconómica - no que se inclui a atribuição de apoios para pagamento de rendas de casa, bem como o apoio ao arrendamento ou aquisição de habitação a custos controlados.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10_a0b6ffd3f196
-:nota_650.10_a0b6ffd3f196 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10_b08573ac6740
+:nota_650.10_b08573ac6740 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoios atribuídos no âmbito da ação social em qualquer domínio, incluindo a ação social escolar (de qualquer nível de ensino)".
 
-:c650.10 :temNotaAplicacao :nota_650.10_a0b6ffd3f196 .
+:c650.10 :temNotaAplicacao :nota_650.10_b08573ac6740 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10_403fed9bf195
-:nota_650.10_403fed9bf195 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10_25cf042725c8
+:nota_650.10_25cf042725c8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "A generalidade dos organismos da AP deve utilizar esta classe apenas para o encaminhamento de pedidos de prestações à Segurança Social, ADSE, CGA e entidades similares".
 
-:c650.10 :temNotaAplicacao :nota_650.10_403fed9bf195 .
+:c650.10 :temNotaAplicacao :nota_650.10_25cf042725c8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10_d140268bdacf
-:nota_650.10_d140268bdacf rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10_7c84a31cefb0
+:nota_650.10_7c84a31cefb0 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pedidos de inscrição/ cancelamento de beneficiário e alteração de dados de beneficiários da Segurança Social, ADSE, CGA e entidades similares devem ser considerados em \"Prestação de serviços de identificação e registo/ Registo de dados de identificação e caracterização de entidades ou atos\" (400.10)".
 
-:c650.10 :temNotaExclusao :nota_650.10_d140268bdacf .
+:c650.10 :temNotaExclusao :nota_650.10_7c84a31cefb0 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c650.10.001
@@ -116,53 +116,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal vitalícia destinada a proteger os beneficiários dos regimes de Segurança Social e Caixa Geral de Aposentações nas situações de incapacidade permanente para o trabalho, incapacidade absoluta e permanente, idade e tempo de serviço legalmente exigidos. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.001_a78a7fd71016
-:nota_650.10.001_a78a7fd71016 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.001_1f720e5edc4e
+:nota_650.10.001_1f720e5edc4e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Situações incapacitantes, de causa não profissional, que determine incapacidade permanente para o trabalho".
 
-:c650.10.001 :temNotaAplicacao :nota_650.10.001_a78a7fd71016 .
+:c650.10.001 :temNotaAplicacao :nota_650.10.001_1f720e5edc4e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.001_ed4c0754ec39
-:nota_650.10.001_ed4c0754ec39 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.001_c26d00d987b9
+:nota_650.10.001_c26d00d987b9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reapreciações e reavaliações do montante a conceder".
 
-:c650.10.001 :temNotaAplicacao :nota_650.10.001_ed4c0754ec39 .
+:c650.10.001 :temNotaAplicacao :nota_650.10.001_c26d00d987b9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.001_f8d53446d1fd
-:nota_650.10.001_f8d53446d1fd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.001_d930d4a085de
+:nota_650.10.001_d930d4a085de rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subscritores militares e equiparados da Caixa Geral de Aposentações (pensões de reforma)".
 
-:c650.10.001 :temNotaAplicacao :nota_650.10.001_f8d53446d1fd .
+:c650.10.001 :temNotaAplicacao :nota_650.10.001_d930d4a085de .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.001_1c64d2e2abb3
-:nota_650.10.001_1c64d2e2abb3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.001_0d37e9b290a8
+:nota_650.10.001_0d37e9b290a8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pensão a militares não subscritores da Caixa Geral de Aposentações (pensões de invalidez)".
 
-:c650.10.001 :temNotaAplicacao :nota_650.10.001_1c64d2e2abb3 .
+:c650.10.001 :temNotaAplicacao :nota_650.10.001_0d37e9b290a8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.001_f6e8e0be2bda
-:nota_650.10.001_f6e8e0be2bda rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.001_06cb8eae0ece
+:nota_650.10.001_06cb8eae0ece rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pensão a militares qualificados como Deficiente das Forças Armadas, Grande Deficiente das Forças Armadas e Grande Deficiente do Serviço Efetivo Normal".
 
-:c650.10.001 :temNotaAplicacao :nota_650.10.001_f6e8e0be2bda .
+:c650.10.001 :temNotaAplicacao :nota_650.10.001_06cb8eae0ece .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.001_915969446751
-:nota_650.10.001_915969446751 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.001_08759866c6d1
+:nota_650.10.001_08759866c6d1 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.001 :temNotaExclusao :nota_650.10.001_915969446751 .
+:c650.10.001 :temNotaExclusao :nota_650.10.001_08759866c6d1 .
 
 :c650.10.001 :processoTipoVC :vc_processoTipo_pc .
 :c650.10.001 :processoTransversal "S" .
@@ -295,21 +295,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal destinada a compensar os familiares do beneficiário da perda de rendimentos de trabalho resultante da morte deste. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.002_69b24c3a0b18
-:nota_650.10.002_69b24c3a0b18 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.002_387b64b9be08
+:nota_650.10.002_387b64b9be08 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reapreciações e reavaliações do montante a conceder".
 
-:c650.10.002 :temNotaAplicacao :nota_650.10.002_69b24c3a0b18 .
+:c650.10.002 :temNotaAplicacao :nota_650.10.002_387b64b9be08 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.002_bd60fb7d0ae7
-:nota_650.10.002_bd60fb7d0ae7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.002_c306561281fa
+:nota_650.10.002_c306561281fa rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.002 :temNotaExclusao :nota_650.10.002_bd60fb7d0ae7 .
+:c650.10.002 :temNotaExclusao :nota_650.10.002_c306561281fa .
 
 :c650.10.002 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.002 :processoTransversal "S" .
@@ -409,21 +409,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal paga aos beneficiários com idade legalmente exigida segundo os descontos efetuados para a Segurança Social e Caixa Geral de Aposentações. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.003_a5a37f3207f2
-:nota_650.10.003_a5a37f3207f2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.003_db7d9c9512a4
+:nota_650.10.003_db7d9c9512a4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reapreciações e reavaliações do montante a conceder".
 
-:c650.10.003 :temNotaAplicacao :nota_650.10.003_a5a37f3207f2 .
+:c650.10.003 :temNotaAplicacao :nota_650.10.003_db7d9c9512a4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.003_e7c8e9d204c7
-:nota_650.10.003_e7c8e9d204c7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.003_e48534d10ef8
+:nota_650.10.003_e48534d10ef8 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.003 :temNotaExclusao :nota_650.10.003_e7c8e9d204c7 .
+:c650.10.003 :temNotaExclusao :nota_650.10.003_e48534d10ef8 .
 
 :c650.10.003 :processoTipoVC :vc_processoTipo_pc .
 :c650.10.003 :processoTransversal "S" .
@@ -505,53 +505,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal, ao pai e/ou à mãe, ou avós ou equiparados, com vista a substituir o rendimento de trabalho perdido durante o período de licença por nascimento de filho ou neto, filho de adolescente menor de 16 anos. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.004_df5d69a8da17
-:nota_650.10.004_df5d69a8da17 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.004_14b279561827
+:nota_650.10.004_14b279561827 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídio parental alargado".
 
-:c650.10.004 :temNotaAplicacao :nota_650.10.004_df5d69a8da17 .
+:c650.10.004 :temNotaAplicacao :nota_650.10.004_14b279561827 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.004_2dd39fa04547
-:nota_650.10.004_2dd39fa04547 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.004_53d5f2d9203f
+:nota_650.10.004_53d5f2d9203f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídio parental inicial".
 
-:c650.10.004 :temNotaAplicacao :nota_650.10.004_2dd39fa04547 .
+:c650.10.004 :temNotaAplicacao :nota_650.10.004_53d5f2d9203f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.004_6bf3f2d0c089
-:nota_650.10.004_6bf3f2d0c089 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.004_881d10ffcfee
+:nota_650.10.004_881d10ffcfee rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídio parental inicial exclusivo da mãe".
 
-:c650.10.004 :temNotaAplicacao :nota_650.10.004_6bf3f2d0c089 .
+:c650.10.004 :temNotaAplicacao :nota_650.10.004_881d10ffcfee .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.004_3cfd4012a87b
-:nota_650.10.004_3cfd4012a87b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.004_11e3894e9dd8
+:nota_650.10.004_11e3894e9dd8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídio parental inicial exclusivo do pai".
 
-:c650.10.004 :temNotaAplicacao :nota_650.10.004_3cfd4012a87b .
+:c650.10.004 :temNotaAplicacao :nota_650.10.004_11e3894e9dd8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.004_1c9d48addc5e
-:nota_650.10.004_1c9d48addc5e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.004_d35a92c51fb9
+:nota_650.10.004_d35a92c51fb9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídio parental inicial de um progenitor em caso de impossibilidade do outro".
 
-:c650.10.004 :temNotaAplicacao :nota_650.10.004_1c9d48addc5e .
+:c650.10.004 :temNotaAplicacao :nota_650.10.004_d35a92c51fb9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.004_6d53d96d9d77
-:nota_650.10.004_6d53d96d9d77 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.004_8491f55e4aaa
+:nota_650.10.004_8491f55e4aaa rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.004 :temNotaExclusao :nota_650.10.004_6d53d96d9d77 .
+:c650.10.004 :temNotaExclusao :nota_650.10.004_8491f55e4aaa .
 
 :c650.10.004 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.004 :processoTransversal "S" .
@@ -657,61 +657,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal aos beneficiários que não tenham direito ao pagamento de subsídios de proteção parental, no todo ou em parte, pelo empregador, desde que o impedimento para o trabalho tenha duração igual ou superior a 30 dias seguidos. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.005_a0c56d0b935d
-:nota_650.10.005_a0c56d0b935d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.005_e6b2958c6092
+:nota_650.10.005_e6b2958c6092 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Doença".
 
-:c650.10.005 :temNotaAplicacao :nota_650.10.005_a0c56d0b935d .
+:c650.10.005 :temNotaAplicacao :nota_650.10.005_e6b2958c6092 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.005_c322c237c304
-:nota_650.10.005_c322c237c304 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.005_1715a94b740d
+:nota_650.10.005_1715a94b740d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídio parental inicial".
 
-:c650.10.005 :temNotaAplicacao :nota_650.10.005_c322c237c304 .
+:c650.10.005 :temNotaAplicacao :nota_650.10.005_1715a94b740d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.005_163625a9e7bf
-:nota_650.10.005_163625a9e7bf rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.005_d412e8690bdd
+:nota_650.10.005_d412e8690bdd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídio parental inicial exclusivo da mãe".
 
-:c650.10.005 :temNotaAplicacao :nota_650.10.005_163625a9e7bf .
+:c650.10.005 :temNotaAplicacao :nota_650.10.005_d412e8690bdd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.005_1992ea6e2ec9
-:nota_650.10.005_1992ea6e2ec9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.005_c71e147154ff
+:nota_650.10.005_c71e147154ff rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídio parental inicial exclusivo do pai".
 
-:c650.10.005 :temNotaAplicacao :nota_650.10.005_1992ea6e2ec9 .
+:c650.10.005 :temNotaAplicacao :nota_650.10.005_c71e147154ff .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.005_298e021992b9
-:nota_650.10.005_298e021992b9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.005_cea31ddc80b4
+:nota_650.10.005_cea31ddc80b4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídio parental inicial de um progenitor em caso de impossibilidade do outro".
 
-:c650.10.005 :temNotaAplicacao :nota_650.10.005_298e021992b9 .
+:c650.10.005 :temNotaAplicacao :nota_650.10.005_cea31ddc80b4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.005_6f501433a6e0
-:nota_650.10.005_6f501433a6e0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.005_f233c0c710f3
+:nota_650.10.005_f233c0c710f3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídio parental alargado".
 
-:c650.10.005 :temNotaAplicacao :nota_650.10.005_6f501433a6e0 .
+:c650.10.005 :temNotaAplicacao :nota_650.10.005_f233c0c710f3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.005_e4e0b21c0feb
-:nota_650.10.005_e4e0b21c0feb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.005_97410ca306bd
+:nota_650.10.005_97410ca306bd rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.005 :temNotaExclusao :nota_650.10.005_e4e0b21c0feb .
+:c650.10.005 :temNotaExclusao :nota_650.10.005_97410ca306bd .
 
 :c650.10.005 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.005 :processoTransversal "S" .
@@ -814,21 +814,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal aos candidatos a adotantes segundo as condições legalmente previstas. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.006_5f12fb9d54b3
-:nota_650.10.006_5f12fb9d54b3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.006_03a3c4ed01b8
+:nota_650.10.006_03a3c4ed01b8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídios por adoção alargada".
 
-:c650.10.006 :temNotaAplicacao :nota_650.10.006_5f12fb9d54b3 .
+:c650.10.006 :temNotaAplicacao :nota_650.10.006_03a3c4ed01b8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.006_df86c0529f28
-:nota_650.10.006_df86c0529f28 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.006_fb5ef97e87dc
+:nota_650.10.006_fb5ef97e87dc rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.006 :temNotaExclusao :nota_650.10.006_df86c0529f28 .
+:c650.10.006 :temNotaExclusao :nota_650.10.006_fb5ef97e87dc .
 
 :c650.10.006 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.006 :processoTransversal "S" .
@@ -927,13 +927,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal, ao pai, mãe, ou avós, para prestar assistência imprescindível e inadiável a filho ou neto, por motivo de doença ou acidente, desde que ambos exerçam atividade profissional e o outro progenitor não requeira o subsídio pelo mesmo motivo, ou esteja impossibilitado de prestar assistência. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.007_6c8ac71432c2
-:nota_650.10.007_6c8ac71432c2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.007_2a9dd9fa2fb5
+:nota_650.10.007_2a9dd9fa2fb5 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.007 :temNotaExclusao :nota_650.10.007_6c8ac71432c2 .
+:c650.10.007 :temNotaExclusao :nota_650.10.007_2a9dd9fa2fb5 .
 
 :c650.10.007 :processoTipoVC :vc_processoTipo_pc .
 :c650.10.007 :processoTransversal "S" .
@@ -1058,13 +1058,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal ao pai ou à mãe para prestar assistência a filho com deficiência ou doença crónica. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.008_8a8669766147
-:nota_650.10.008_8a8669766147 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.008_a9a4188eaf8a
+:nota_650.10.008_a9a4188eaf8a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.008 :temNotaExclusao :nota_650.10.008_8a8669766147 .
+:c650.10.008 :temNotaExclusao :nota_650.10.008_a9a4188eaf8a .
 
 :c650.10.008 :processoTipoVC :vc_processoTipo_pc .
 :c650.10.008 :processoTransversal "S" .
@@ -1190,45 +1190,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal aos beneficiários desempregados para compensar a falta de remuneração motivada pela perda involuntária de emprego. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.009_e8e78838bf21
-:nota_650.10.009_e8e78838bf21 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.009_36302b97548e
+:nota_650.10.009_36302b97548e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídios parciais por cessação de atividade profissional".
 
-:c650.10.009 :temNotaAplicacao :nota_650.10.009_e8e78838bf21 .
+:c650.10.009 :temNotaAplicacao :nota_650.10.009_36302b97548e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.009_b39936315b70
-:nota_650.10.009_b39936315b70 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.009_da9147965dbe
+:nota_650.10.009_da9147965dbe rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídio por cessação de atividade para trabalhadores independentes economicamente dependentes".
 
-:c650.10.009 :temNotaAplicacao :nota_650.10.009_b39936315b70 .
+:c650.10.009 :temNotaAplicacao :nota_650.10.009_da9147965dbe .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.009_ec25dcb0bc42
-:nota_650.10.009_ec25dcb0bc42 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.009_df59da116ceb
+:nota_650.10.009_df59da116ceb rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídio por layoff".
 
-:c650.10.009 :temNotaAplicacao :nota_650.10.009_ec25dcb0bc42 .
+:c650.10.009 :temNotaAplicacao :nota_650.10.009_df59da116ceb .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.10.009_46a976c34485
-:exemplo_650.10.009_46a976c34485 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.10.009_1efb214c6a97
+:exemplo_650.10.009_1efb214c6a97 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Subsídio por redução temporária dos períodos normais de trabalho ou suspensão dos contratos de trabalho efetuada por iniciativa das empresas".
 
-:c650.10.009 :temExemploNA :exemplo_650.10.009_46a976c34485 .
+:c650.10.009 :temExemploNA :exemplo_650.10.009_1efb214c6a97 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.009_3abc2ba5977d
-:nota_650.10.009_3abc2ba5977d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.009_1a482b7b0576
+:nota_650.10.009_1a482b7b0576 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.009 :temNotaExclusao :nota_650.10.009_3abc2ba5977d .
+:c650.10.009 :temNotaExclusao :nota_650.10.009_1a482b7b0576 .
 
 :c650.10.009 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.009 :processoTransversal "S" .
@@ -1331,29 +1331,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal aos beneficiários para compensar a perda de remuneração resultante do impedimento temporário para o trabalho, por motivo de doença. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.010_0d603ace0510
-:nota_650.10.010_0d603ace0510 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.010_470e2c125cc6
+:nota_650.10.010_470e2c125cc6 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Toda a situação mórbida, evolutiva, não decorrente de causa profissional ou de ato da responsabilidade de terceiro pelo qual seja devida indemnização, que determine incapacidade para o trabalho".
 
-:c650.10.010 :temNotaAplicacao :nota_650.10.010_0d603ace0510 .
+:c650.10.010 :temNotaAplicacao :nota_650.10.010_470e2c125cc6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.010_cf3ac71d9356
-:nota_650.10.010_cf3ac71d9356 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.010_445f99d38f5f
+:nota_650.10.010_445f99d38f5f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Verificação de incapacidade temporária para o trabalho".
 
-:c650.10.010 :temNotaAplicacao :nota_650.10.010_cf3ac71d9356 .
+:c650.10.010 :temNotaAplicacao :nota_650.10.010_445f99d38f5f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.010_5140a619ad94
-:nota_650.10.010_5140a619ad94 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.010_308949a9f83d
+:nota_650.10.010_308949a9f83d rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.010 :temNotaExclusao :nota_650.10.010_5140a619ad94 .
+:c650.10.010 :temNotaExclusao :nota_650.10.010_308949a9f83d .
 
 :c650.10.010 :processoTipoVC :vc_processoTipo_pc .
 :c650.10.010 :processoTransversal "S" .
@@ -1403,12 +1403,16 @@
 :c650.10.010 :temLegislacao :leg_DL_146_2005 .
 :c650.10.010 :temLegislacao :leg_Lei_4_2007 .
 :c650.10.010 :temLegislacao :leg_DL_433_82 .
+:c650.10.010 :temRelProc :c150.20.404 .
+:c650.10.010 :eSintetizadoPor :c150.20.404 .
 :c650.10.010 :temRelProc :c150.40.001 .
 :c650.10.010 :eSintetizadoPor :c150.40.001 .
 :c650.10.010 :temRelProc :c150.40.500 .
 :c650.10.010 :eSintetizadoPor :c150.40.500 .
 :c650.10.010 :temRelProc :c350.30.001 .
 :c650.10.010 :eCruzadoCom :c350.30.001 .
+:c650.10.010 :temRelProc :c300.30.008 .
+:c650.10.010 :eSintetizadoPor :c300.30.008 .
 :c650.10.010 :temRelProc :c350.10.502 .
 :c650.10.010 :eCruzadoCom :c350.10.502 .
 :c650.10.010 :temRelProc :c400.10.011 .
@@ -1466,13 +1470,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal às beneficiárias, com vista a substituir o rendimento de trabalho perdido na situação de interrupção da gravidez medicamente certificada. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.011_4f4170732c73
-:nota_650.10.011_4f4170732c73 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.011_3c99326138d4
+:nota_650.10.011_3c99326138d4 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.011 :temNotaExclusao :nota_650.10.011_4f4170732c73 .
+:c650.10.011 :temNotaExclusao :nota_650.10.011_3c99326138d4 .
 
 :c650.10.011 :processoTipoVC :vc_processoTipo_pc .
 :c650.10.011 :processoTransversal "S" .
@@ -1592,13 +1596,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal às beneficiárias, durante a gravidez, com vista a substituir o rendimento de trabalho perdido, em caso de risco clínico para a grávida ou para o nascituro. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.012_3687503854ee
-:nota_650.10.012_3687503854ee rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.012_0b08adcba06f
+:nota_650.10.012_0b08adcba06f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.012 :temNotaExclusao :nota_650.10.012_3687503854ee .
+:c650.10.012 :temNotaExclusao :nota_650.10.012_0b08adcba06f .
 
 :c650.10.012 :processoTipoVC :vc_processoTipo_pc .
 :c650.10.012 :processoTransversal "S" .
@@ -1718,13 +1722,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de subsídio às beneficiárias, puérpera e lactante que, na sua atividade profissional, desempenhe trabalho noturno ou se encontre exposta a riscos específicos que prejudiquem a sua segurança e saúde, desde que o empregador não lhe possa distribuir outras tarefas. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.013_75f5d95b1508
-:nota_650.10.013_75f5d95b1508 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.013_c935c2e84cb5
+:nota_650.10.013_c935c2e84cb5 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.013 :temNotaExclusao :nota_650.10.013_75f5d95b1508 .
+:c650.10.013 :temNotaExclusao :nota_650.10.013_c935c2e84cb5 .
 
 :c650.10.013 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.013 :processoTransversal "S" .
@@ -1818,21 +1822,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de uma parte das compensações (até 50%) a que o trabalhador tenha direito na sequência da cessação do seu contrato de trabalho pela entidade empregadora. Inicia com o pedido e termina com o pagamento da compensação a comunicação do montante a atribuir. Inclui análise da situação, verificação da conformidade com os requisitos e decisão sobre o montante a atribuir. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.016_397a58dd734a
-:nota_650.10.016_397a58dd734a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.016_d2417c1b8e96
+:nota_650.10.016_d2417c1b8e96 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Situação de cessação do contrato de trabalho pela entidade empregadora".
 
-:c650.10.016 :temNotaAplicacao :nota_650.10.016_397a58dd734a .
+:c650.10.016 :temNotaAplicacao :nota_650.10.016_d2417c1b8e96 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.016_174db39c7a26
-:nota_650.10.016_174db39c7a26 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.016_abab3ce7d9cd
+:nota_650.10.016_abab3ce7d9cd rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.016 :temNotaExclusao :nota_650.10.016_174db39c7a26 .
+:c650.10.016 :temNotaExclusao :nota_650.10.016_abab3ce7d9cd .
 
 :c650.10.016 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.016 :processoTransversal "S" .
@@ -1847,10 +1851,16 @@
 :c650.10.016 :temLegislacao :leg_Regulamento_390_A_2013 .
 :c650.10.016 :temLegislacao :leg_Deliberação_IGFSS_219_2017 .
 :c650.10.016 :temLegislacao :leg_Lei_98_97 .
-:c650.10.016 :temRelProc :c350.50.100 .
-:c650.10.016 :eCruzadoCom :c350.50.100 .
 :c650.10.016 :temRelProc :c150.20.404 .
 :c650.10.016 :eSintetizadoPor :c150.20.404 .
+:c650.10.016 :temRelProc :c150.40.001 .
+:c650.10.016 :eSintetizadoPor :c150.40.001 .
+:c650.10.016 :temRelProc :c150.40.500 .
+:c650.10.016 :eSintetizadoPor :c150.40.500 .
+:c650.10.016 :temRelProc :c300.30.008 .
+:c650.10.016 :eSintetizadoPor :c300.30.008 .
+:c650.10.016 :temRelProc :c350.50.100 .
+:c650.10.016 :eCruzadoCom :c350.50.100 .
 :c650.10.016 :temRelProc :c500.10.301 .
 :c650.10.016 :eSuplementoPara :c500.10.301 .
 :c650.10.016 :temPCA :pca_c650.10.016.
@@ -1900,21 +1910,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal vitalícia atribuída a ex-titulares de cargos de natureza política. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição, decisão sobre o cálculo, bem como aplicação de regime de redução, suspensão, transmissão e actualização da prestação. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.017_3b5ba4bac385
-:nota_650.10.017_3b5ba4bac385 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.017_373921aac422
+:nota_650.10.017_373921aac422 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subvenção mensal vitalícia".
 
-:c650.10.017 :temNotaAplicacao :nota_650.10.017_3b5ba4bac385 .
+:c650.10.017 :temNotaAplicacao :nota_650.10.017_373921aac422 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.017_aed559b14c4b
-:nota_650.10.017_aed559b14c4b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.017_821f23cc6805
+:nota_650.10.017_821f23cc6805 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subvenção mensal de sobrevivência".
 
-:c650.10.017 :temNotaAplicacao :nota_650.10.017_aed559b14c4b .
+:c650.10.017 :temNotaAplicacao :nota_650.10.017_821f23cc6805 .
 
 :c650.10.017 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.017 :processoTransversal "S" .
@@ -1982,21 +1992,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação correspondente ao diferencial resultante da antecipação da idade de passagem à reforma, do extinto Fundo de Pensões dos Militares das Forças Armadas, bem como dos complementos de velhice, invalidez e sobrevivência para os beneficiários dos extintos Fundo de Pensões dos Estaleiros Navais de Viana do Castelo, S. A., e Fundo de Pensões da Gestnave - Serviços Industriais, S. A. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição, decisão sobre o cálculo.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.018_73e1b9845a70
-:nota_650.10.018_73e1b9845a70 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.018_9ce017971f6d
+:nota_650.10.018_9ce017971f6d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação complementar de reforma para compensação de passagem antecipada à reforma".
 
-:c650.10.018 :temNotaAplicacao :nota_650.10.018_73e1b9845a70 .
+:c650.10.018 :temNotaAplicacao :nota_650.10.018_9ce017971f6d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.018_aa67961a85a7
-:nota_650.10.018_aa67961a85a7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.018_a5617674f0f0
+:nota_650.10.018_a5617674f0f0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Complemento de sobrevivência atribuído aos herdeiros".
 
-:c650.10.018 :temNotaAplicacao :nota_650.10.018_aa67961a85a7 .
+:c650.10.018 :temNotaAplicacao :nota_650.10.018_a5617674f0f0 .
 
 :c650.10.018 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.018 :processoTransversal "N" .
@@ -2057,37 +2067,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal vitalícia atribuída por falecimento de militar ou civil ao serviço da Nação ou por virtude de serviço de manutenção de ordem pública. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.019_b4ba4063cad4
-:nota_650.10.019_b4ba4063cad4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.019_b629f1bafb4f
+:nota_650.10.019_b629f1bafb4f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Falecimento".
 
-:c650.10.019 :temNotaAplicacao :nota_650.10.019_b4ba4063cad4 .
+:c650.10.019 :temNotaAplicacao :nota_650.10.019_b629f1bafb4f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.019_1c23f408c7db
-:nota_650.10.019_1c23f408c7db rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.019_3421cf1bf276
+:nota_650.10.019_3421cf1bf276 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Desaparecimento em campanha".
 
-:c650.10.019 :temNotaAplicacao :nota_650.10.019_1c23f408c7db .
+:c650.10.019 :temNotaAplicacao :nota_650.10.019_3421cf1bf276 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.019_f7a43905e26c
-:nota_650.10.019_f7a43905e26c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.019_47a8d3c27d34
+:nota_650.10.019_47a8d3c27d34 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Ferimento".
 
-:c650.10.019 :temNotaAplicacao :nota_650.10.019_f7a43905e26c .
+:c650.10.019 :temNotaAplicacao :nota_650.10.019_47a8d3c27d34 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.019_0cfeba0de9e7
-:nota_650.10.019_0cfeba0de9e7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.019_acdb1742fb5d
+:nota_650.10.019_acdb1742fb5d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "incapacidade absoluta e permanente para o trabalho de titulares de órgãos de soberania e de órgãos de governo próprio das Regiões Autónomas, de governadores civis e de presidentes de câmaras municipais ou de vereadores em regime de permanência, ocorrido no exercício e por causa das suas funções".
 
-:c650.10.019 :temNotaAplicacao :nota_650.10.019_0cfeba0de9e7 .
+:c650.10.019 :temNotaAplicacao :nota_650.10.019_acdb1742fb5d .
 
 :c650.10.019 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.019 :processoTransversal "S" .
@@ -2153,13 +2163,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal vitalícia atribuída em função da prática de feitos em teatro de guerra, actos de abnegação e coragem cívica ou de altos e assinalados serviços à humanidade e à Pátria. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição, decisão sobre o cálculo, bem como aplicação de regime de redução, acumulação da prestação. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.020_c93f570ef968
-:nota_650.10.020_c93f570ef968 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.020_1c099f66555e
+:nota_650.10.020_1c099f66555e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pensão por serviços excepcionais e relevantes prestados ao país atribuída ao próprio ou aos seus herdeiros e familiares".
 
-:c650.10.020 :temNotaAplicacao :nota_650.10.020_c93f570ef968 .
+:c650.10.020 :temNotaAplicacao :nota_650.10.020_1c099f66555e .
 
 :c650.10.020 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.020 :processoTransversal "S" .
@@ -2221,13 +2231,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de acréscimo vitalício de pensão, de natureza indemnizatória atribuída aos antigos combatentes pela prestação de serviço militar em condições especiais de dificuldade ou perigo, em que se incluem ex-militares mobilizados para Angola, Guiné, Moçambique, Timor-Leste, bem como ex-militares aprisionados ou capturados no estado da Índia aquando da invasão deste território por forças da União Indiana. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição, com contagem de tempo de serviço militar e dispensa de pagamento de quotas, decisão sobre o cálculo, bem como aplicação de regime de redução, suspensão, transmissão e actualização da prestação, acréscimo vitalício de pensão e suplemento especial de pensão.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.021_d140a7fa5792
-:nota_650.10.021_d140a7fa5792 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.021_b805c15b7479
+:nota_650.10.021_b805c15b7479 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Benefícios a antigos combatentes ou aos seus herdeiros e familiares".
 
-:c650.10.021 :temNotaAplicacao :nota_650.10.021_d140a7fa5792 .
+:c650.10.021 :temNotaAplicacao :nota_650.10.021_b805c15b7479 .
 
 :c650.10.021 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.021 :processoTransversal "S" .
@@ -2291,21 +2301,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestações, de atribuição única ou concessão continuada, que concretizam a reparação da incapacidade permanente ou morte resultante de acidentes de trabalho ou de doenças profissionais, ocorridos ou com diagnóstico após 1 de maio de 2000. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição, decisão sobre o cálculo, bem como aplicação de regime de redução, suspensão, transmissão e actualização da prestação. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.022_ef8b0e1cfe8b
-:nota_650.10.022_ef8b0e1cfe8b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.022_f6e584b7be74
+:nota_650.10.022_f6e584b7be74 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação por acidente de trabalho atribuída ao próprio ou aos seus herdeiros e familiares".
 
-:c650.10.022 :temNotaAplicacao :nota_650.10.022_ef8b0e1cfe8b .
+:c650.10.022 :temNotaAplicacao :nota_650.10.022_f6e584b7be74 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.022_e410ce1982bc
-:nota_650.10.022_e410ce1982bc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.022_e50c6b16cd19
+:nota_650.10.022_e50c6b16cd19 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação por doença profissional atribuída ao próprio ou aos seus herdeiros e familiares".
 
-:c650.10.022 :temNotaAplicacao :nota_650.10.022_e410ce1982bc .
+:c650.10.022 :temNotaAplicacao :nota_650.10.022_e50c6b16cd19 .
 
 :c650.10.022 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.022 :processoTransversal "S" .
@@ -2372,101 +2382,101 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de apoios pecuniários ou em espécie a alunos e formandos desfavorecidos e em carência económica ou para fazer face a despesas decorrentes da frequência da formação. Inicia com o processamento do pedido ou com a sinalização da situação pela entidade ou com a atribuição por direito e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o valor a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_e803e8d6b8c1
-:nota_650.10.100_e803e8d6b8c1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_f96385cdb0f9
+:nota_650.10.100_f96385cdb0f9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de bolsa de estudo".
 
-:c650.10.100 :temNotaAplicacao :nota_650.10.100_e803e8d6b8c1 .
+:c650.10.100 :temNotaAplicacao :nota_650.10.100_f96385cdb0f9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_87427b5a828a
-:nota_650.10.100_87427b5a828a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_06e676633866
+:nota_650.10.100_06e676633866 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pedido de isenção de propinas".
 
-:c650.10.100 :temNotaAplicacao :nota_650.10.100_87427b5a828a .
+:c650.10.100 :temNotaAplicacao :nota_650.10.100_06e676633866 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_cd69a69df7aa
-:nota_650.10.100_cd69a69df7aa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_1c9a4d193a48
+:nota_650.10.100_1c9a4d193a48 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídio para alimentação".
 
-:c650.10.100 :temNotaAplicacao :nota_650.10.100_cd69a69df7aa .
+:c650.10.100 :temNotaAplicacao :nota_650.10.100_1c9a4d193a48 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_055892b8fcd8
-:nota_650.10.100_055892b8fcd8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_0eaf90d7ead8
+:nota_650.10.100_0eaf90d7ead8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídio para alojamento".
 
-:c650.10.100 :temNotaAplicacao :nota_650.10.100_055892b8fcd8 .
+:c650.10.100 :temNotaAplicacao :nota_650.10.100_0eaf90d7ead8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_6d0fc8a1aa60
-:nota_650.10.100_6d0fc8a1aa60 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_4ff03d468088
+:nota_650.10.100_4ff03d468088 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídio para livros e material escolar".
 
-:c650.10.100 :temNotaAplicacao :nota_650.10.100_6d0fc8a1aa60 .
+:c650.10.100 :temNotaAplicacao :nota_650.10.100_4ff03d468088 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_2b15aac2c0a6
-:nota_650.10.100_2b15aac2c0a6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_af852f1ad7b4
+:nota_650.10.100_af852f1ad7b4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Subsídio para transporte escolar".
 
-:c650.10.100 :temNotaAplicacao :nota_650.10.100_2b15aac2c0a6 .
+:c650.10.100 :temNotaAplicacao :nota_650.10.100_af852f1ad7b4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_d6f06a425ace
-:nota_650.10.100_d6f06a425ace rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_fc877bc4e6df
+:nota_650.10.100_fc877bc4e6df rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fornecimento de refeições".
 
-:c650.10.100 :temNotaAplicacao :nota_650.10.100_d6f06a425ace .
+:c650.10.100 :temNotaAplicacao :nota_650.10.100_fc877bc4e6df .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_79a835384398
-:nota_650.10.100_79a835384398 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_f5150a73063d
+:nota_650.10.100_f5150a73063d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de passe social".
 
-:c650.10.100 :temNotaAplicacao :nota_650.10.100_79a835384398 .
+:c650.10.100 :temNotaAplicacao :nota_650.10.100_f5150a73063d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_7f772295c437
-:nota_650.10.100_7f772295c437 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_7701abb2fafd
+:nota_650.10.100_7701abb2fafd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de materiais e manuais escolares".
 
-:c650.10.100 :temNotaAplicacao :nota_650.10.100_7f772295c437 .
+:c650.10.100 :temNotaAplicacao :nota_650.10.100_7701abb2fafd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_bbc370fa30b7
-:nota_650.10.100_bbc370fa30b7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_6a4d61614c4f
+:nota_650.10.100_6a4d61614c4f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Concessão de bolsa de profissionalização".
 
-:c650.10.100 :temNotaAplicacao :nota_650.10.100_bbc370fa30b7 .
+:c650.10.100 :temNotaAplicacao :nota_650.10.100_6a4d61614c4f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_ef6e13a5727a
-:nota_650.10.100_ef6e13a5727a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_87c0ca45239b
+:nota_650.10.100_87c0ca45239b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Isenção de pagamento de comparticipação".
 
-:c650.10.100 :temNotaAplicacao :nota_650.10.100_ef6e13a5727a .
+:c650.10.100 :temNotaAplicacao :nota_650.10.100_87c0ca45239b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_355b4dd986d8
-:nota_650.10.100_355b4dd986d8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.100_14b6e406dbad
+:nota_650.10.100_14b6e406dbad rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.100 :temNotaExclusao :nota_650.10.100_355b4dd986d8 .
+:c650.10.100 :temNotaExclusao :nota_650.10.100_14b6e406dbad .
 
 :c650.10.100 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.100 :processoTransversal "S" .
@@ -2552,93 +2562,93 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestações pecuniárias mensais que possibilitam o acesso a um conjunto de respostas integradas de cuidados e apoio social para crianças, jovens, idosos, pessoas portadoras de deficiência e dependências. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_da341bd3e540
-:nota_650.10.101_da341bd3e540 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_cb6db68a2f22
+:nota_650.10.101_cb6db68a2f22 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acesso a ama".
 
-:c650.10.101 :temNotaAplicacao :nota_650.10.101_da341bd3e540 .
+:c650.10.101 :temNotaAplicacao :nota_650.10.101_cb6db68a2f22 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_d1dbc78bc0a5
-:nota_650.10.101_d1dbc78bc0a5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_887454e46a4b
+:nota_650.10.101_887454e46a4b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acesso a creche".
 
-:c650.10.101 :temNotaAplicacao :nota_650.10.101_d1dbc78bc0a5 .
+:c650.10.101 :temNotaAplicacao :nota_650.10.101_887454e46a4b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_1b8b4e688b21
-:nota_650.10.101_1b8b4e688b21 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_ff1a56c95bbc
+:nota_650.10.101_ff1a56c95bbc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acesso a creche familiar".
 
-:c650.10.101 :temNotaAplicacao :nota_650.10.101_1b8b4e688b21 .
+:c650.10.101 :temNotaAplicacao :nota_650.10.101_ff1a56c95bbc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_22437a8bf4b4
-:nota_650.10.101_22437a8bf4b4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_afc29ab9ed22
+:nota_650.10.101_afc29ab9ed22 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acesso a estabelecimento de educação pré-escolar".
 
-:c650.10.101 :temNotaAplicacao :nota_650.10.101_22437a8bf4b4 .
+:c650.10.101 :temNotaAplicacao :nota_650.10.101_afc29ab9ed22 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_c3dd6f0ae1a0
-:nota_650.10.101_c3dd6f0ae1a0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_cdda2f6e3b68
+:nota_650.10.101_cdda2f6e3b68 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acesso a centro de atividades de tempos livres".
 
-:c650.10.101 :temNotaAplicacao :nota_650.10.101_c3dd6f0ae1a0 .
+:c650.10.101 :temNotaAplicacao :nota_650.10.101_cdda2f6e3b68 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_062cccb43380
-:nota_650.10.101_062cccb43380 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_860b300154a0
+:nota_650.10.101_860b300154a0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acesso a equipamento de reinserção social".
 
-:c650.10.101 :temNotaAplicacao :nota_650.10.101_062cccb43380 .
+:c650.10.101 :temNotaAplicacao :nota_650.10.101_860b300154a0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_eef8dec7d03d
-:nota_650.10.101_eef8dec7d03d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_4371a8650b2b
+:nota_650.10.101_4371a8650b2b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acesso a serviço de apoio domiciliário".
 
-:c650.10.101 :temNotaAplicacao :nota_650.10.101_eef8dec7d03d .
+:c650.10.101 :temNotaAplicacao :nota_650.10.101_4371a8650b2b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_af17c75c21db
-:nota_650.10.101_af17c75c21db rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_9b6440c2190d
+:nota_650.10.101_9b6440c2190d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Admissão a estrutura residencial para idosos".
 
-:c650.10.101 :temNotaAplicacao :nota_650.10.101_af17c75c21db .
+:c650.10.101 :temNotaAplicacao :nota_650.10.101_9b6440c2190d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_859fbf9b6abb
-:nota_650.10.101_859fbf9b6abb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_5f322e01a3b7
+:nota_650.10.101_5f322e01a3b7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Admissão a estrutura residencial de acolhimento permanente".
 
-:c650.10.101 :temNotaAplicacao :nota_650.10.101_859fbf9b6abb .
+:c650.10.101 :temNotaAplicacao :nota_650.10.101_5f322e01a3b7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_26abf7171084
-:nota_650.10.101_26abf7171084 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_5f2a5bc8c6c1
+:nota_650.10.101_5f2a5bc8c6c1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Admissão a estrutura residencial de acolhimento temporário".
 
-:c650.10.101 :temNotaAplicacao :nota_650.10.101_26abf7171084 .
+:c650.10.101 :temNotaAplicacao :nota_650.10.101_5f2a5bc8c6c1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_8171c28b847d
-:nota_650.10.101_8171c28b847d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.101_1b83daecdbe8
+:nota_650.10.101_1b83daecdbe8 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.101 :temNotaExclusao :nota_650.10.101_8171c28b847d .
+:c650.10.101 :temNotaExclusao :nota_650.10.101_1b83daecdbe8 .
 
 :c650.10.101 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.101 :processoTransversal "S" .
@@ -2711,93 +2721,93 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Aprovação de despesa a trabalhador com doença profissional, para posterior reembolso. Esta despesa reporta-se a serviços e tratamentos, quando necessários e adequados ao restabelecimento do estado de saúde e da capacidade de trabalho e recuperação para a vida ativa. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados, parecer de perito médico e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_e63ea05fd4f6
-:nota_650.10.102_e63ea05fd4f6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_93381f12fc0e
+:nota_650.10.102_93381f12fc0e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Despesa com as prestações em espécie, sendo estas de natureza médica, cirúrgica, farmacêutica, hospitalar, como apoio psicoterapêutico, sempre que necessário, à família do doente profissional".
 
-:c650.10.102 :temNotaAplicacao :nota_650.10.102_e63ea05fd4f6 .
+:c650.10.102 :temNotaAplicacao :nota_650.10.102_93381f12fc0e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_5c4d19b51d24
-:nota_650.10.102_5c4d19b51d24 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_1cdf1741e7ec
+:nota_650.10.102_1cdf1741e7ec rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Assistência médica e cirúrgica".
 
-:c650.10.102 :temNotaAplicacao :nota_650.10.102_5c4d19b51d24 .
+:c650.10.102 :temNotaAplicacao :nota_650.10.102_1cdf1741e7ec .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_601d1a7b59f8
-:nota_650.10.102_601d1a7b59f8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_e38b6a45f20f
+:nota_650.10.102_e38b6a45f20f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cuidados de enfermagem".
 
-:c650.10.102 :temNotaAplicacao :nota_650.10.102_601d1a7b59f8 .
+:c650.10.102 :temNotaAplicacao :nota_650.10.102_e38b6a45f20f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_77139a103701
-:nota_650.10.102_77139a103701 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_faeb79a642e2
+:nota_650.10.102_faeb79a642e2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Deslocação, alimentação e alojamento para diagnóstico ou tratamento de doença profissional (por exemplo, para ir a uma consulta, um tratamento ou a uma junta médica) ou comparência a atos judiciais".
 
-:c650.10.102 :temNotaAplicacao :nota_650.10.102_77139a103701 .
+:c650.10.102 :temNotaAplicacao :nota_650.10.102_faeb79a642e2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_eee922cb328a
-:nota_650.10.102_eee922cb328a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_5e34b57d1e3c
+:nota_650.10.102_5e34b57d1e3c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Exames e elementos complementares de diagnóstico".
 
-:c650.10.102 :temNotaAplicacao :nota_650.10.102_eee922cb328a .
+:c650.10.102 :temNotaAplicacao :nota_650.10.102_5e34b57d1e3c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_4a91633fbef0
-:nota_650.10.102_4a91633fbef0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_3739dcd6990b
+:nota_650.10.102_3739dcd6990b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Hospitalização e tratamentos termais".
 
-:c650.10.102 :temNotaAplicacao :nota_650.10.102_4a91633fbef0 .
+:c650.10.102 :temNotaAplicacao :nota_650.10.102_3739dcd6990b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_6661b99e20c6
-:nota_650.10.102_6661b99e20c6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_410a6f335bb4
+:nota_650.10.102_410a6f335bb4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Medicamentos e produtos farmacêuticos".
 
-:c650.10.102 :temNotaAplicacao :nota_650.10.102_6661b99e20c6 .
+:c650.10.102 :temNotaAplicacao :nota_650.10.102_410a6f335bb4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_22e380a75fcb
-:nota_650.10.102_22e380a75fcb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_f42834e9692b
+:nota_650.10.102_f42834e9692b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Próteses e ortóteses (incluindo a sua renovação e reparação)".
 
-:c650.10.102 :temNotaAplicacao :nota_650.10.102_22e380a75fcb .
+:c650.10.102 :temNotaAplicacao :nota_650.10.102_f42834e9692b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_e4296100f002
-:nota_650.10.102_e4296100f002 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_c68b995b8152
+:nota_650.10.102_c68b995b8152 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reabilitação e reintegração profissional e social, incluindo a adaptação ao posto de trabalho".
 
-:c650.10.102 :temNotaAplicacao :nota_650.10.102_e4296100f002 .
+:c650.10.102 :temNotaAplicacao :nota_650.10.102_c68b995b8152 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_087f3f45d3a4
-:nota_650.10.102_087f3f45d3a4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_cd747add7686
+:nota_650.10.102_cd747add7686 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Tratamentos e visitas domiciliárias".
 
-:c650.10.102 :temNotaAplicacao :nota_650.10.102_087f3f45d3a4 .
+:c650.10.102 :temNotaAplicacao :nota_650.10.102_cd747add7686 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_130f9d606b9f
-:nota_650.10.102_130f9d606b9f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.102_67cf913c9046
+:nota_650.10.102_67cf913c9046 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.102 :temNotaExclusao :nota_650.10.102_130f9d606b9f .
+:c650.10.102 :temNotaExclusao :nota_650.10.102_67cf913c9046 .
 
 :c650.10.102 :processoTipoVC :vc_processoTipo_pc .
 :c650.10.102 :processoTransversal "S" .
@@ -2886,45 +2896,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de apoio pecuniário para satisfação de necessidades básicas, das pessoas e famílias mais carenciadas, concedido em situação de emergência ou de extrema carência. Inicia com a solicitação da atribuição e termina com a comunicação do montante a atribuir. Inclui estudo e proposta de solução pelos técnicos e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.103_86acfeca3316
-:nota_650.10.103_86acfeca3316 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.103_93d3a053c566
+:nota_650.10.103_93d3a053c566 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Ajuda alimentar".
 
-:c650.10.103 :temNotaAplicacao :nota_650.10.103_86acfeca3316 .
+:c650.10.103 :temNotaAplicacao :nota_650.10.103_93d3a053c566 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.103_8a894b01e9e8
-:nota_650.10.103_8a894b01e9e8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.103_aa8b38bf05f8
+:nota_650.10.103_aa8b38bf05f8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio a famílias carenciadas".
 
-:c650.10.103 :temNotaAplicacao :nota_650.10.103_8a894b01e9e8 .
+:c650.10.103 :temNotaAplicacao :nota_650.10.103_aa8b38bf05f8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.103_168227dbdad5
-:nota_650.10.103_168227dbdad5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.103_ad3d0cb4b70f
+:nota_650.10.103_ad3d0cb4b70f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio a reparações em habitação".
 
-:c650.10.103 :temNotaAplicacao :nota_650.10.103_168227dbdad5 .
+:c650.10.103 :temNotaAplicacao :nota_650.10.103_ad3d0cb4b70f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.103_de6d241f51d4
-:nota_650.10.103_de6d241f51d4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.103_3e56cea79061
+:nota_650.10.103_3e56cea79061 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio em situação de reclusão".
 
-:c650.10.103 :temNotaAplicacao :nota_650.10.103_de6d241f51d4 .
+:c650.10.103 :temNotaAplicacao :nota_650.10.103_3e56cea79061 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.103_649c75994d1b
-:nota_650.10.103_649c75994d1b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.103_40bdbc678d71
+:nota_650.10.103_40bdbc678d71 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.103 :temNotaExclusao :nota_650.10.103_649c75994d1b .
+:c650.10.103 :temNotaExclusao :nota_650.10.103_40bdbc678d71 .
 
 :c650.10.103 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.103 :processoTransversal "S" .
@@ -2991,69 +3001,69 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de ajudas técnicas como instrumentos, equipamentos ou sistemas técnicos usados por uma pessoa com deficiência, especialmente produzidos ou disponíveis, que previnem, compensam, atenuam ou neutralizam a limitação funcional ou de participação. Inicia com a solicitação da atribuição e termina com a comunicação da decisão. Inclui análise da situação, verificação da conformidade com os requisitos e decisão sobre a atribuição.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.104_621cbcbdb80d
-:nota_650.10.104_621cbcbdb80d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.104_81c25898c975
+:nota_650.10.104_81c25898c975 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Produtos de apoio diretamente fornecidos aos utentes nas unidades hospitalares e noutras entidades prescritoras da área da saúde".
 
-:c650.10.104 :temNotaAplicacao :nota_650.10.104_621cbcbdb80d .
+:c650.10.104 :temNotaAplicacao :nota_650.10.104_81c25898c975 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.104_84c5d1e37605
-:nota_650.10.104_84c5d1e37605 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.104_cbcc1eed0baf
+:nota_650.10.104_cbcc1eed0baf rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Dispositivos e equipamentos fornecidos a estudantes pelas instituições de ensino superior".
 
-:c650.10.104 :temNotaAplicacao :nota_650.10.104_84c5d1e37605 .
+:c650.10.104 :temNotaAplicacao :nota_650.10.104_cbcc1eed0baf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.104_205af7e97d84
-:nota_650.10.104_205af7e97d84 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.104_3dbb4c1bf4e7
+:nota_650.10.104_3dbb4c1bf4e7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Ajudas técnicas e tecnologias de apoio concedidas a pessoas com deficiência ou com incapacidade temporária".
 
-:c650.10.104 :temNotaAplicacao :nota_650.10.104_205af7e97d84 .
+:c650.10.104 :temNotaAplicacao :nota_650.10.104_3dbb4c1bf4e7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.10.104_355abd4529bd
-:exemplo_650.10.104_355abd4529bd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.10.104_8c4f7dd1cfff
+:exemplo_650.10.104_8c4f7dd1cfff rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Atribuição de software específico para alunos com necessidades educativas especiais".
 
-:c650.10.104 :temExemploNA :exemplo_650.10.104_355abd4529bd .
+:c650.10.104 :temExemploNA :exemplo_650.10.104_8c4f7dd1cfff .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.10.104_84d7269430c0
-:exemplo_650.10.104_84d7269430c0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.10.104_a0941d2ecb27
+:exemplo_650.10.104_a0941d2ecb27 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Atribuição de dispositivos para alunos com necessidades educativas especiais".
 
-:c650.10.104 :temExemploNA :exemplo_650.10.104_84d7269430c0 .
+:c650.10.104 :temExemploNA :exemplo_650.10.104_a0941d2ecb27 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.104_9eb287fcc6db
-:nota_650.10.104_9eb287fcc6db rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.104_f9a61d13de81
+:nota_650.10.104_f9a61d13de81 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.104 :temNotaExclusao :nota_650.10.104_9eb287fcc6db .
+:c650.10.104 :temNotaExclusao :nota_650.10.104_f9a61d13de81 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.104_d71d7ff75dc3
-:nota_650.10.104_d71d7ff75dc3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.104_f39b7270531d
+:nota_650.10.104_f39b7270531d rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A definição de comparticipações em tecnologias de saúde deve ser considerada em 650.10.110 - Atribuição de comparticipação em tecnologias de saúde".
 
-:c650.10.104 :temNotaExclusao :nota_650.10.104_d71d7ff75dc3 .
+:c650.10.104 :temNotaExclusao :nota_650.10.104_f39b7270531d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.104_d927903e2373
-:nota_650.10.104_d927903e2373 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.104_45fe709ba122
+:nota_650.10.104_45fe709ba122 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A prescrição de produtos de apoio deve ser considerada em PN específico da classe 700.20 - Serviços clínicos".
 
-:c650.10.104 :temNotaExclusao :nota_650.10.104_d927903e2373 .
+:c650.10.104 :temNotaExclusao :nota_650.10.104_45fe709ba122 .
 
 :c650.10.104 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.104 :processoTransversal "S" .
@@ -3118,45 +3128,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Concessão de prestação pecuniária mensal ou definição do montante de renda económica, como forma de proteção de arrendatários economicamente desfavorecidos. Inicia com processamento do pedido e termina com a comunicação do montante a atribuir ou da atribuição da casa de renda económica. Inclui análise da situação, verificação da conformidade com os requisitos, seleção dos candidatos e decisão sobre o montante ou a habitação a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.105_f5311565d63e
-:nota_650.10.105_f5311565d63e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.105_d57934ea05e7
+:nota_650.10.105_d57934ea05e7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de comparticipação para que a aquisição se processe a custo reduzido".
 
-:c650.10.105 :temNotaAplicacao :nota_650.10.105_f5311565d63e .
+:c650.10.105 :temNotaAplicacao :nota_650.10.105_d57934ea05e7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.105_e39ec8c59419
-:nota_650.10.105_e39ec8c59419 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.105_e54443e43041
+:nota_650.10.105_e54443e43041 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de renda económica a casas e a espaços comerciais, garagens e espaços de estacionamento adstritos às mesmas".
 
-:c650.10.105 :temNotaAplicacao :nota_650.10.105_e39ec8c59419 .
+:c650.10.105 :temNotaAplicacao :nota_650.10.105_e54443e43041 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.105_568d3d029b97
-:nota_650.10.105_568d3d029b97 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.105_2bb2ba4b553e
+:nota_650.10.105_2bb2ba4b553e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de montante mensal para pagamento de renda de casa".
 
-:c650.10.105 :temNotaAplicacao :nota_650.10.105_568d3d029b97 .
+:c650.10.105 :temNotaAplicacao :nota_650.10.105_2bb2ba4b553e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.105_8902b6b77f2e
-:nota_650.10.105_8902b6b77f2e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.105_d5474c24beb8
+:nota_650.10.105_d5474c24beb8 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.105 :temNotaExclusao :nota_650.10.105_8902b6b77f2e .
+:c650.10.105 :temNotaExclusao :nota_650.10.105_d5474c24beb8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.105_1b02db9014cd
-:nota_650.10.105_1b02db9014cd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.105_587ffc3039a7
+:nota_650.10.105_587ffc3039a7 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os contratos de arrendamento devem ser considerados em 400.30.001 – Celebração de contratos, escrituras, títulos equivalentes e testamentos".
 
-:c650.10.105 :temNotaExclusao :nota_650.10.105_1b02db9014cd .
+:c650.10.105 :temNotaExclusao :nota_650.10.105_587ffc3039a7 .
 
 :c650.10.105 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.105 :processoTransversal "S" .
@@ -3219,13 +3229,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária pelo Estado para apoio ao retorno voluntário de cidadãos estrangeiros aos países de origem ou a Estados Terceiros de acolhimento dispostos a recebê-los. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise do processo. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.107_dc91a981b274
-:nota_650.10.107_dc91a981b274 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.107_ec5b896f88ba
+:nota_650.10.107_ec5b896f88ba rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.107 :temNotaExclusao :nota_650.10.107_dc91a981b274 .
+:c650.10.107 :temNotaExclusao :nota_650.10.107_ec5b896f88ba .
 
 :c650.10.107 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.107 :processoTransversal "S" .
@@ -3282,45 +3292,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de indemnização social atribuída, quer à vítima de violência doméstica que se encontram numa situação de grave carência económica, na sequência da rutura familiar, quer à vítima - direta ou indireta - de crime violento, desde que tenham sofrido por causa do crime uma incapacidade superior a 30 dias, tenham sofrido uma perturbação considerável do seu nível e da sua qualidade de vida, e não tenham obtido nenhum tipo de reparação em sede de execução de sentença condenatória. Inicia com a notificação emitida pela entidade competente para atribuição do adiantamento da indemnização termina com a atribuição da indemnização Inclui instrução do pedido.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.109_02a292fc553a
-:nota_650.10.109_02a292fc553a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.109_3fa1256638c5
+:nota_650.10.109_3fa1256638c5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Vítimas de crime de violência doméstica e de crime violento, desde que tenham sido vítimas desses crimes em território português ou a bordo de navios ou aeronaves portuguesas".
 
-:c650.10.109 :temNotaAplicacao :nota_650.10.109_02a292fc553a .
+:c650.10.109 :temNotaAplicacao :nota_650.10.109_3fa1256638c5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.109_3ba59cd576b6
-:nota_650.10.109_3ba59cd576b6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.109_3044a1568130
+:nota_650.10.109_3044a1568130 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A concessão de indemnização ou reparação obtida em sede de execução de sentença condenatória deve ser considerada no respetivo processo".
 
-:c650.10.109 :temNotaExclusao :nota_650.10.109_3ba59cd576b6 .
+:c650.10.109 :temNotaExclusao :nota_650.10.109_3044a1568130 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.109_cb4e1f99b0dc
-:nota_650.10.109_cb4e1f99b0dc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.109_66b2e10a6d37
+:nota_650.10.109_66b2e10a6d37 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento da indemnização deve ser considerado em 350.30.001 - Cobrança de receitas e pagamento d edespesas".
 
-:c650.10.109 :temNotaExclusao :nota_650.10.109_cb4e1f99b0dc .
+:c650.10.109 :temNotaExclusao :nota_650.10.109_66b2e10a6d37 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.109_97279a85a406
-:nota_650.10.109_97279a85a406 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.109_fe98bd94b9bb
+:nota_650.10.109_fe98bd94b9bb rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processamento de despesa com indemnização decorrente de acidente de trabalho deve ser considerado em 350.10.508 – Processamento de indemnizações e injunções".
 
-:c650.10.109 :temNotaExclusao :nota_650.10.109_97279a85a406 .
+:c650.10.109 :temNotaExclusao :nota_650.10.109_fe98bd94b9bb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.109_3afa0b63f7f1
-:nota_650.10.109_3afa0b63f7f1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.109_62682b015a4d
+:nota_650.10.109_62682b015a4d rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pedidos de apoio psicossocial de iniciativa privada ou sinalizados por terceiros devem ser considerados em 650.20.304 – Apoio psicossocial".
 
-:c650.10.109 :temNotaExclusao :nota_650.10.109_3afa0b63f7f1 .
+:c650.10.109 :temNotaExclusao :nota_650.10.109_62682b015a4d .
 
 :c650.10.109 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.109 :processoTransversal "S" .
@@ -3380,61 +3390,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Definição da percentagem de comparticipação, tendo como referência o preço de venda ao público, de medicamento, dispositivo médico ou outras tecnologias de saúde. Inicia com a receção do pedido e termina com a comunicação da decisão de comparticipação ou com celebração de contrato de comparticipação. Inclui validação da documentação necessária à instrução dos processos, avaliação e decisão. Inclui, ainda, a avaliação sistemática da comparticipação. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.110_b0cf1cc0ecdd
-:nota_650.10.110_b0cf1cc0ecdd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.110_02c80782b580
+:nota_650.10.110_02c80782b580 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pedidos de comparticipação de medicamentos, dispositivos médicos ou outras tecnologias de saúde".
 
-:c650.10.110 :temNotaAplicacao :nota_650.10.110_b0cf1cc0ecdd .
+:c650.10.110 :temNotaAplicacao :nota_650.10.110_02c80782b580 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.110_069fdc7ae59a
-:nota_650.10.110_069fdc7ae59a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.110_5fc5656f1dd1
+:nota_650.10.110_5fc5656f1dd1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Autorização de comparticipação de tecnologias de saúde para utilização em ambulatório".
 
-:c650.10.110 :temNotaAplicacao :nota_650.10.110_069fdc7ae59a .
+:c650.10.110 :temNotaAplicacao :nota_650.10.110_5fc5656f1dd1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.110_7d21496ba3b1
-:nota_650.10.110_7d21496ba3b1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.110_bc5b74cc6a42
+:nota_650.10.110_bc5b74cc6a42 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição da comparticipação na aquisição dos medicamentos prescritos aos beneficiários do Serviço Nacional de Saúde e de outros subsistemas públicos de saúde".
 
-:c650.10.110 :temNotaAplicacao :nota_650.10.110_7d21496ba3b1 .
+:c650.10.110 :temNotaAplicacao :nota_650.10.110_bc5b74cc6a42 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.110_a51f311b1efe
-:nota_650.10.110_a51f311b1efe rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.110_a51fa6258def
+:nota_650.10.110_a51fa6258def rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Autorização, exclusão, prorrogação e transferência da comparticipação".
 
-:c650.10.110 :temNotaAplicacao :nota_650.10.110_a51f311b1efe .
+:c650.10.110 :temNotaAplicacao :nota_650.10.110_a51fa6258def .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.110_cf8f85b8eaac
-:nota_650.10.110_cf8f85b8eaac rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.110_012b86a18c91
+:nota_650.10.110_012b86a18c91 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Autorização de comparticipação de tecnologias de saúde para utilização em ambulatório (ex-PN 450.10.627)".
 
-:c650.10.110 :temNotaAplicacao :nota_650.10.110_cf8f85b8eaac .
+:c650.10.110 :temNotaAplicacao :nota_650.10.110_012b86a18c91 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.110_791fcea39c1f
-:nota_650.10.110_791fcea39c1f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.110_967e3f4c7d97
+:nota_650.10.110_967e3f4c7d97 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A definição de políticas de comparticipação do Estado no preço das tecnologias de saúde deve ser classificada em 150.10.100 – Definição de políticas setoriais".
 
-:c650.10.110 :temNotaExclusao :nota_650.10.110_791fcea39c1f .
+:c650.10.110 :temNotaExclusao :nota_650.10.110_967e3f4c7d97 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.110_55ce44d0778a
-:nota_650.10.110_55ce44d0778a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.110_75fd29b638ca
+:nota_650.10.110_75fd29b638ca rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O apuramento de montantes de reembolso despendidos com encargos relativos a cuidados de saúde deve ser considerado em 350.10.506 – Comparticipação em despesas de saúde ao beneficiário".
 
-:c650.10.110 :temNotaExclusao :nota_650.10.110_55ce44d0778a .
+:c650.10.110 :temNotaExclusao :nota_650.10.110_75fd29b638ca .
 
 :c650.10.110 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.110 :processoTransversal "S" .
@@ -3506,85 +3516,85 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de apoio a cidadãos portugueses e seus familiares no estrangeiro, ou no regresso a Portugal, em situações de vulnerabilidade ou emergência. Inicia com o pedido no consulado, do cidadão ou de um seu familiar e termina com a atribuição de prestações em espécie e/ou de prestações pecuniárias de caráter eventual ou em condições de excecionalidade. Inclui contactos com autoridades nacionais e estrangeiras e o compromisso de reembolso das despesas efetuadas.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_3ccdd710cc06
-:nota_650.10.111_3ccdd710cc06 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_7a62afc8bf60
+:nota_650.10.111_7a62afc8bf60 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação de apoio a portugueses no estrangeiro, em casos de prisão ou de detenção".
 
-:c650.10.111 :temNotaAplicacao :nota_650.10.111_3ccdd710cc06 .
+:c650.10.111 :temNotaAplicacao :nota_650.10.111_7a62afc8bf60 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_eb3a7d5e177e
-:nota_650.10.111_eb3a7d5e177e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_83ff618afa0f
+:nota_650.10.111_83ff618afa0f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação de assistência no caso de sinistro a cidadãos portugueses no estrangeiro".
 
-:c650.10.111 :temNotaAplicacao :nota_650.10.111_eb3a7d5e177e .
+:c650.10.111 :temNotaAplicacao :nota_650.10.111_83ff618afa0f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_1e199cf664f2
-:nota_650.10.111_1e199cf664f2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_e8c47ba38956
+:nota_650.10.111_e8c47ba38956 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação de socorro no caso de catástrofe natural ou de graves perturbações de ordem civil no estrangeiro".
 
-:c650.10.111 :temNotaAplicacao :nota_650.10.111_1e199cf664f2 .
+:c650.10.111 :temNotaAplicacao :nota_650.10.111_e8c47ba38956 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_b70a7696782a
-:nota_650.10.111_b70a7696782a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_b9c6d8737159
+:nota_650.10.111_b9c6d8737159 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Evacuação de cidadãos portugueses em caso de catástrofe natural ou de graves perturbações de ordem civil no estrangeiro".
 
-:c650.10.111 :temNotaAplicacao :nota_650.10.111_b70a7696782a .
+:c650.10.111 :temNotaAplicacao :nota_650.10.111_b9c6d8737159 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_6186df9a67aa
-:nota_650.10.111_6186df9a67aa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_05c25461ba02
+:nota_650.10.111_05c25461ba02 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Salvaguarda de menores e de outros incapazes que se encontrem desprotegidos e se mostrem em perigo no estrangeiro".
 
-:c650.10.111 :temNotaAplicacao :nota_650.10.111_6186df9a67aa .
+:c650.10.111 :temNotaAplicacao :nota_650.10.111_05c25461ba02 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_a06e2d3e74e3
-:nota_650.10.111_a06e2d3e74e3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_d9d7088005fa
+:nota_650.10.111_d9d7088005fa rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação de apoio, quando necessário, aos familiares de portugueses falecidos no estrangeiro".
 
-:c650.10.111 :temNotaAplicacao :nota_650.10.111_a06e2d3e74e3 .
+:c650.10.111 :temNotaAplicacao :nota_650.10.111_d9d7088005fa .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_07774d47df5a
-:nota_650.10.111_07774d47df5a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_265bb26f6e7a
+:nota_650.10.111_265bb26f6e7a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio social, jurídico ou administrativo possível e adequado, de modo a garantir a defesa e a protecção dos direitos dos portugueses no estrangeiro".
 
-:c650.10.111 :temNotaAplicacao :nota_650.10.111_07774d47df5a .
+:c650.10.111 :temNotaAplicacao :nota_650.10.111_265bb26f6e7a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_be9a40fe9831
-:nota_650.10.111_be9a40fe9831 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_53113adc39df
+:nota_650.10.111_53113adc39df rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Assistência a idosos, reformados, desempregados e outros desprotegidos no estrangeiro".
 
-:c650.10.111 :temNotaAplicacao :nota_650.10.111_be9a40fe9831 .
+:c650.10.111 :temNotaAplicacao :nota_650.10.111_53113adc39df .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_f74c5bd454e2
-:nota_650.10.111_f74c5bd454e2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_06a778cac1ef
+:nota_650.10.111_06a778cac1ef rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acolhimento, apoio e orientação em território nacional, dos nacionais repatriados, deportados ou expulsos".
 
-:c650.10.111 :temNotaAplicacao :nota_650.10.111_f74c5bd454e2 .
+:c650.10.111 :temNotaAplicacao :nota_650.10.111_06a778cac1ef .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_40e9bd78d5a3
-:nota_650.10.111_40e9bd78d5a3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.111_fabe471de041
+:nota_650.10.111_fabe471de041 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.111 :temNotaExclusao :nota_650.10.111_40e9bd78d5a3 .
+:c650.10.111 :temNotaExclusao :nota_650.10.111_fabe471de041 .
 
 :c650.10.111 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.111 :processoTransversal "S" .
@@ -3612,6 +3622,8 @@
 :c650.10.111 :eSintetizadoPor :c300.30.008 .
 :c650.10.111 :temRelProc :c350.30.001 .
 :c650.10.111 :eCruzadoCom :c350.30.001 .
+:c650.10.111 :temRelProc :c400.10.011 .
+:c650.10.111 :eSintetizadoPor :c400.10.011 .
 :c650.10.111 :temRelProc :c500.10.301 .
 :c650.10.111 :eSuplementoPara :c500.10.301 .
 :c650.10.111 :temPCA :pca_c650.10.111.
@@ -3663,21 +3675,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal de alimentos devida a menores. Inicia com a solicitação da atribuição e termina com a comunicação do montante a atribuir. Inclui análise da situação e verificação da conformidade com os requisitos, renovação, perante o tribunal competente, da prova de que a situação económica se mantém e de que o menor precisa da prestação para fazer face às suas necessidades e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.200_27b78842254a
-:nota_650.10.200_27b78842254a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.200_2627101a6312
+:nota_650.10.200_2627101a6312 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de prestação destinada a crianças e jovens menores com vista a garantir a sua subsistência, sustento, habitação, vestuário e educação, por substituição de um dos progenitores".
 
-:c650.10.200 :temNotaAplicacao :nota_650.10.200_27b78842254a .
+:c650.10.200 :temNotaAplicacao :nota_650.10.200_2627101a6312 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.200_1739e729fbf1
-:nota_650.10.200_1739e729fbf1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.200_37aa79ed1193
+:nota_650.10.200_37aa79ed1193 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.200 :temNotaExclusao :nota_650.10.200_1739e729fbf1 .
+:c650.10.200 :temNotaExclusao :nota_650.10.200_37aa79ed1193 .
 
 :c650.10.200 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.200 :processoTransversal "N" .
@@ -3754,29 +3766,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária a trabalhador por conta de outrem para pagamento de dívidas da entidade empregadora, que não as possa pagar por se encontrar em situação de insolvência ou numa situação económica difícil. Inicia com o pedido para o pagamento dos créditos laborais em dívida, emergentes do contrato de trabalho, e termina com a comunicação do montante a atribuir. Inclui análise da situação, verificação da conformidade com os requisitos e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.201_b0ef7f8cdc12
-:nota_650.10.201_b0ef7f8cdc12 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.201_2c82d5453916
+:nota_650.10.201_2c82d5453916 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Concessão de comparticipações para pagamento salarial".
 
-:c650.10.201 :temNotaAplicacao :nota_650.10.201_b0ef7f8cdc12 .
+:c650.10.201 :temNotaAplicacao :nota_650.10.201_2c82d5453916 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.201_8757c48c821f
-:nota_650.10.201_8757c48c821f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.201_e67a0ab58653
+:nota_650.10.201_e67a0ab58653 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundo de Garantia Salarial, atribuição de prestação ao trabalhador".
 
-:c650.10.201 :temNotaAplicacao :nota_650.10.201_8757c48c821f .
+:c650.10.201 :temNotaAplicacao :nota_650.10.201_e67a0ab58653 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.201_b7395088e235
-:nota_650.10.201_b7395088e235 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.201_e32d4dfa3e23
+:nota_650.10.201_e32d4dfa3e23 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.201 :temNotaExclusao :nota_650.10.201_b7395088e235 .
+:c650.10.201 :temNotaExclusao :nota_650.10.201_e32d4dfa3e23 .
 
 :c650.10.201 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.201 :processoTransversal "S" .
@@ -3857,13 +3869,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de uma prestação pecuniária mensal complementar para pessoas idosas com baixos recursos. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.202_07ae9f225919
-:nota_650.10.202_07ae9f225919 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.202_6ada0f50d7f4
+:nota_650.10.202_6ada0f50d7f4 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.202 :temNotaExclusao :nota_650.10.202_07ae9f225919 .
+:c650.10.202 :temNotaExclusao :nota_650.10.202_6ada0f50d7f4 .
 
 :c650.10.202 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.202 :processoTransversal "N" .
@@ -4017,13 +4029,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal, beneficiários com idade legalmente exigida que não se encontrem abrangidos por qualquer regime de proteção social obrigatório ou pelos regimes transitórios dos rurais ou, estando-o, não satisfaçam os períodos de garantia definidos para acesso à pensão. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.204_dbc60af0b4ce
-:nota_650.10.204_dbc60af0b4ce rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.204_b078d8c0fece
+:nota_650.10.204_b078d8c0fece rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.204 :temNotaExclusao :nota_650.10.204_dbc60af0b4ce .
+:c650.10.204 :temNotaExclusao :nota_650.10.204_b078d8c0fece .
 
 :c650.10.204 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.204 :processoTransversal "N" .
@@ -4110,13 +4122,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal de proteção social criada para apoiar as pessoas ou famílias que se encontrem em situação de grave carência económica e em risco de exclusão social. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados, celebração de contrato de inserção para ajuda à integração social e profissional e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.205_e29569d8930d
-:nota_650.10.205_e29569d8930d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.205_b8a47aabfdc7
+:nota_650.10.205_b8a47aabfdc7 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.205 :temNotaExclusao :nota_650.10.205_e29569d8930d .
+:c650.10.205 :temNotaExclusao :nota_650.10.205_b8a47aabfdc7 .
 
 :c650.10.205 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.205 :processoTransversal "S" .
@@ -4206,13 +4218,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal aos candidatos a adotantes, que não estejam a contribuir para a Segurança Social ou não tenham o período de contribuições necessário para acesso ao subsídio por adoção e estejam em situação de carência económica. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.206_83558048f9ff
-:nota_650.10.206_83558048f9ff rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.206_c34283f0f4e8
+:nota_650.10.206_c34283f0f4e8 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.206 :temNotaExclusao :nota_650.10.206_83558048f9ff .
+:c650.10.206 :temNotaExclusao :nota_650.10.206_c34283f0f4e8 .
 
 :c650.10.206 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.206 :processoTransversal "N" .
@@ -4284,13 +4296,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal ao beneficiário desempregado, para compensar a falta de remuneração motivada pela perda involuntária de emprego, quando este não reúna as condições para receber o subsídio de desemprego ou já tenha recebido a totalidade do subsídio de desemprego a que tinha direito. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.207_e7c56708f93e
-:nota_650.10.207_e7c56708f93e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.207_146fd81a8f44
+:nota_650.10.207_146fd81a8f44 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.207 :temNotaExclusao :nota_650.10.207_e7c56708f93e .
+:c650.10.207 :temNotaExclusao :nota_650.10.207_146fd81a8f44 .
 
 :c650.10.207 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.207 :processoTransversal "S" .
@@ -4361,13 +4373,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal, em situação de carência económica, em caso de interrupção da gravidez medicamente certificada, que exerça atividade profissional e que se encontrem abrangidas por regime de proteção social obrigatório ou pelo regime do seguro social voluntário, cujo esquema de proteção social integre a eventualidade de maternidade, paternidade e adoção, sem direito ao subsídio por interrupção da gravidez. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.208_a7fdc1596032
-:nota_650.10.208_a7fdc1596032 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.208_086d252dea7f
+:nota_650.10.208_086d252dea7f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.208 :temNotaExclusao :nota_650.10.208_a7fdc1596032 .
+:c650.10.208 :temNotaExclusao :nota_650.10.208_086d252dea7f .
 
 :c650.10.208 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.208 :processoTransversal "N" .
@@ -4436,13 +4448,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal, ao pai e/ou à mãe, que não trabalhem e sem contribuições na Segurança Social ou tendo não reúnem as condições para terem direito ao subsídio parental, por nascimento de filho. Inicia com o processamento do pedido do trabalhador e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.209_5cdf06730a3f
-:nota_650.10.209_5cdf06730a3f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.209_d7d2b1a34524
+:nota_650.10.209_d7d2b1a34524 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.209 :temNotaExclusao :nota_650.10.209_5cdf06730a3f .
+:c650.10.209 :temNotaExclusao :nota_650.10.209_d7d2b1a34524 .
 
 :c650.10.209 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.209 :processoTransversal "N" .
@@ -4514,13 +4526,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal durante a gravidez, com vista a substituir o rendimento de trabalho perdido em caso de risco clínico para a grávida ou para a criança, em situações em que a grávida, estando abrangida por regime de proteção social obrigatório ou pelo regime do seguro social voluntário, o esquema de proteção social não comtemple o direito ao subsídio por risco clínico durante a gravidez. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.210_aee71af4969d
-:nota_650.10.210_aee71af4969d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.210_806dc14b3d48
+:nota_650.10.210_806dc14b3d48 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.210 :temNotaExclusao :nota_650.10.210_aee71af4969d .
+:c650.10.210 :temNotaExclusao :nota_650.10.210_806dc14b3d48 .
 
 :c650.10.210 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.210 :processoTransversal "N" .
@@ -4593,13 +4605,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de uma prestação monetária mensal à trabalhadora grávida, puérpera e lactante que, na sua atividade profissional, desempenhe trabalho noturno ou se encontre exposta a riscos específicos que prejudiquem a sua segurança e saúde, desde que o empregador não lhe possa distribuir outras tarefas. A trabalhadora é abrangida por regime de proteção social obrigatório ou pelo regime do seguro social voluntário, cujo esquema de proteção social integre a eventualidade de maternidade, paternidade e adoção, sem direito ao subsídio por riscos específicos. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.211_5e12819ff499
-:nota_650.10.211_5e12819ff499 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.211_2c45d8804ad4
+:nota_650.10.211_2c45d8804ad4 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.211 :temNotaExclusao :nota_650.10.211_5e12819ff499 .
+:c650.10.211 :temNotaExclusao :nota_650.10.211_2c45d8804ad4 .
 
 :c650.10.211 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.211 :processoTransversal "N" .
@@ -4671,13 +4683,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal vitalícia atribuída a cidadãos que tenham sido feitos prisioneiros ou capturados em combate no decurso da guerra nas ex-colónias e estejam em situação de carência económica. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição, decisão sobre o cálculo, bem como aplicação de regime de redução, suspensão, transmissão e actualização da prestação. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.212_3da5002320d6
-:nota_650.10.212_3da5002320d6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.212_c7c7061dddbb
+:nota_650.10.212_c7c7061dddbb rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pensão de ex-prisioneiro de guerra atribuída ao próprio ou aos seus herdeiros e familiares".
 
-:c650.10.212 :temNotaAplicacao :nota_650.10.212_3da5002320d6 .
+:c650.10.212 :temNotaAplicacao :nota_650.10.212_c7c7061dddbb .
 
 :c650.10.212 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.212 :processoTransversal "S" .
@@ -4741,29 +4753,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal vitalícia atribuída aos cidadãos agraciados com os galardões de valor militar e cruz de guerra, ordem militar de torre e espada, do valor, lealdade e mérito em situação de insuficiência económica. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição, decisão sobre o cálculo, bem como aplicação de regime de redução, suspensão, transmissão e actualização da prestação. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.213_a9348889d697
-:nota_650.10.213_a9348889d697 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.213_614c175b44a0
+:nota_650.10.213_614c175b44a0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pensão por condecoração atribuída ao próprio ou aos seus herdeiros e familiares".
 
-:c650.10.213 :temNotaAplicacao :nota_650.10.213_a9348889d697 .
+:c650.10.213 :temNotaAplicacao :nota_650.10.213_614c175b44a0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.213_3f2e8105f8b1
-:nota_650.10.213_3f2e8105f8b1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.213_52937e031ed1
+:nota_650.10.213_52937e031ed1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pensão a agraciados com a medalha de valor militar ou da cruz de guerra".
 
-:c650.10.213 :temNotaAplicacao :nota_650.10.213_3f2e8105f8b1 .
+:c650.10.213 :temNotaAplicacao :nota_650.10.213_52937e031ed1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.213_962a35ed96ed
-:nota_650.10.213_962a35ed96ed rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.213_220524e1e6df
+:nota_650.10.213_220524e1e6df rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pensão a condecorados com o grau da Ordem militar da torre e espada, do valor, lealdade e mérito".
 
-:c650.10.213 :temNotaAplicacao :nota_650.10.213_962a35ed96ed .
+:c650.10.213 :temNotaAplicacao :nota_650.10.213_220524e1e6df .
 
 :c650.10.213 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.213 :processoTransversal "S" .
@@ -4825,29 +4837,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal a pessoas com deficiência, em situações de carência ou insuficiência económica, com vista a promover a sua autonomia e inclusão social. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise das condições de atribuição, decisão sobre o cálculo, bem como aplicação de regime de redução, suspensão, transmissão e atualização da prestação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.214_10b9fea420e7
-:nota_650.10.214_10b9fea420e7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.214_49bf66f163c8
+:nota_650.10.214_49bf66f163c8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação social para pessoa com deficiência, residente legal em Portugal, com idade igual ou superior a 18 anos,com grau de incapacidade igual ou superior a 60% ou com grau de incapacidade igual ou superior a 80%, no caso de ser titular de pensão de invalidez".
 
-:c650.10.214 :temNotaAplicacao :nota_650.10.214_10b9fea420e7 .
+:c650.10.214 :temNotaAplicacao :nota_650.10.214_49bf66f163c8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.214_e1ba75253050
-:nota_650.10.214_e1ba75253050 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.214_8786bf47bb13
+:nota_650.10.214_8786bf47bb13 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Substitui as prestações: subsídio mensal vitalício, pensão social de invalidez e pensão de invalidez dos regimes transitórios dos trabalhadores agrícolas".
 
-:c650.10.214 :temNotaAplicacao :nota_650.10.214_e1ba75253050 .
+:c650.10.214 :temNotaAplicacao :nota_650.10.214_8786bf47bb13 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.214_f9d0a24e3948
-:nota_650.10.214_f9d0a24e3948 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.214_8502d4c53bfb
+:nota_650.10.214_8502d4c53bfb rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.214 :temNotaExclusao :nota_650.10.214_f9d0a24e3948 .
+:c650.10.214 :temNotaExclusao :nota_650.10.214_8502d4c53bfb .
 
 :c650.10.214 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.214 :processoTransversal "N" .
@@ -4919,45 +4931,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal, que visa compensar os encargos familiares com o sustento e educação de crianças e jovens. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.300_6c8c9b5442d6
-:nota_650.10.300_6c8c9b5442d6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.300_a299e2a59165
+:nota_650.10.300_a299e2a59165 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Abono de família para crianças e jovens".
 
-:c650.10.300 :temNotaAplicacao :nota_650.10.300_6c8c9b5442d6 .
+:c650.10.300 :temNotaAplicacao :nota_650.10.300_a299e2a59165 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.300_3c95dfc8384a
-:nota_650.10.300_3c95dfc8384a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.300_1fa83d15b5b0
+:nota_650.10.300_1fa83d15b5b0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Bonificação por deficiência".
 
-:c650.10.300 :temNotaAplicacao :nota_650.10.300_3c95dfc8384a .
+:c650.10.300 :temNotaAplicacao :nota_650.10.300_1fa83d15b5b0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.300_88f5dc087ab3
-:nota_650.10.300_88f5dc087ab3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.300_d49a212b2153
+:nota_650.10.300_d49a212b2153 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Majoração de abono para famílias com duas ou mais crianças".
 
-:c650.10.300 :temNotaAplicacao :nota_650.10.300_88f5dc087ab3 .
+:c650.10.300 :temNotaAplicacao :nota_650.10.300_d49a212b2153 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.300_a47f49a63f44
-:nota_650.10.300_a47f49a63f44 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.300_d8fa049b780f
+:nota_650.10.300_d8fa049b780f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Majoração de abono para famílias monoparentais".
 
-:c650.10.300 :temNotaAplicacao :nota_650.10.300_a47f49a63f44 .
+:c650.10.300 :temNotaAplicacao :nota_650.10.300_d8fa049b780f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.300_e4a5c2abb8fa
-:nota_650.10.300_e4a5c2abb8fa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.300_7fbc77221fd1
+:nota_650.10.300_7fbc77221fd1 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.300 :temNotaExclusao :nota_650.10.300_e4a5c2abb8fa .
+:c650.10.300 :temNotaExclusao :nota_650.10.300_7fbc77221fd1 .
 
 :c650.10.300 :processoTipoVC :vc_processoTipo_pc .
 :c650.10.300 :processoTransversal "S" .
@@ -5079,13 +5091,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária à mulher grávida a partir da 13.ª semana de gestação, que visa incentivar a maternidade através da compensação dos encargos acrescidos durante o período de gravidez. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.301_894a7bd20498
-:nota_650.10.301_894a7bd20498 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.301_48c03465db56
+:nota_650.10.301_48c03465db56 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.301 :temNotaExclusao :nota_650.10.301_894a7bd20498 .
+:c650.10.301 :temNotaExclusao :nota_650.10.301_48c03465db56 .
 
 :c650.10.301 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.301 :processoTransversal "S" .
@@ -5171,29 +5183,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal, aos cidadãos de acordo com o quadro legal, que se encontrem em situação de dependência e que precisam da ajuda de terceira pessoa para satisfazer as necessidades básicas da vida quotidiana. Inicia com o processamento do pedido e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão sobre o montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.302_fc679a26e289
-:nota_650.10.302_fc679a26e289 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.302_47fd2d39ac45
+:nota_650.10.302_47fd2d39ac45 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Beneficiários não pensionistas, em situação de incapacidade de locomoção originada por doença".
 
-:c650.10.302 :temNotaAplicacao :nota_650.10.302_fc679a26e289 .
+:c650.10.302 :temNotaAplicacao :nota_650.10.302_47fd2d39ac45 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.302_8def1e8a2a12
-:nota_650.10.302_8def1e8a2a12 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.302_a4a85b7be15d
+:nota_650.10.302_a4a85b7be15d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pensionistas de invalidez, de velhice e de sobrevivência do regime geral de Segurança Social e pensionistas do regime não contributivo e equiparados".
 
-:c650.10.302 :temNotaAplicacao :nota_650.10.302_8def1e8a2a12 .
+:c650.10.302 :temNotaAplicacao :nota_650.10.302_a4a85b7be15d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.302_7f8a836783c5
-:nota_650.10.302_7f8a836783c5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.302_e80c57a60ff0
+:nota_650.10.302_e80c57a60ff0 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.302 :temNotaExclusao :nota_650.10.302_7f8a836783c5 .
+:c650.10.302 :temNotaExclusao :nota_650.10.302_e80c57a60ff0 .
 
 :c650.10.302 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.302 :processoTransversal "S" .
@@ -5276,13 +5288,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de uma prestação monetária mensal, a crianças e jovens, órfãos de pessoas não abrangidas por qualquer regime de proteção social, até atingirem a maioridade ou a emancipação. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.303_85d7b6e9f65c
-:nota_650.10.303_85d7b6e9f65c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.303_bf59ef48edcd
+:nota_650.10.303_bf59ef48edcd rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.303 :temNotaExclusao :nota_650.10.303_85d7b6e9f65c .
+:c650.10.303 :temNotaExclusao :nota_650.10.303_bf59ef48edcd .
 
 :c650.10.303 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.303 :processoTransversal "S" .
@@ -5364,13 +5376,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação monetária mensal a viúvo, viúva ou pessoa que vivia em situação de união de facto com o pensionista de pensão social falecido. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.304_737d432b5528
-:nota_650.10.304_737d432b5528 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.304_7e501c9f284b
+:nota_650.10.304_7e501c9f284b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.304 :temNotaExclusao :nota_650.10.304_737d432b5528 .
+:c650.10.304 :temNotaExclusao :nota_650.10.304_7e501c9f284b .
 
 :c650.10.304 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.304 :processoTransversal "N" .
@@ -5450,13 +5462,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal destinada a compensar famílias com descendentes, a receber abono de família com bonificação por deficiência ou subsídio mensal vitalício, que estejam em situação de dependência e que necessitem do acompanhamento permanente de terceira pessoa. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.305_b9c205d91f20
-:nota_650.10.305_b9c205d91f20 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.305_06e7d31d8bd8
+:nota_650.10.305_06e7d31d8bd8 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.305 :temNotaExclusao :nota_650.10.305_b9c205d91f20 .
+:c650.10.305 :temNotaExclusao :nota_650.10.305_06e7d31d8bd8 .
 
 :c650.10.305 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.305 :processoTransversal "S" .
@@ -5552,13 +5564,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária que visa compensar despesas de funeral, sendo atribuído pelo falecimento dos familiares do beneficiário. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.306_6054ae066052
-:nota_650.10.306_6054ae066052 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.306_442ac5dc405c
+:nota_650.10.306_442ac5dc405c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.306 :temNotaExclusao :nota_650.10.306_6054ae066052 .
+:c650.10.306 :temNotaExclusao :nota_650.10.306_442ac5dc405c .
 
 :c650.10.306 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.306 :processoTransversal "N" .
@@ -5645,13 +5657,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal destinada a compensar famílias com crianças e jovens com deficiência, dos encargos resultantes de medidas específicas de educação especial que impliquem necessariamente a frequência de estabelecimentos adequados ou o apoio educativo específico fora do estabelecimento. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.307_b5ab5817ab70
-:nota_650.10.307_b5ab5817ab70 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.307_b733f77642d4
+:nota_650.10.307_b733f77642d4 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.307 :temNotaExclusao :nota_650.10.307_b5ab5817ab70 .
+:c650.10.307 :temNotaExclusao :nota_650.10.307_b733f77642d4 .
 
 :c650.10.307 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.307 :processoTransversal "S" .
@@ -5752,13 +5764,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária, paga de uma só vez aos familiares do beneficiário, que se destina a compensar o acréscimo de encargos decorrentes da morte deste, com o objetivo de facilitar a reorganização da vida familiar. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.308_357dd34d3641
-:nota_650.10.308_357dd34d3641 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.308_f66240950e83
+:nota_650.10.308_f66240950e83 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.308 :temNotaExclusao :nota_650.10.308_357dd34d3641 .
+:c650.10.308 :temNotaExclusao :nota_650.10.308_f66240950e83 .
 
 :c650.10.308 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.308 :processoTransversal "S" .
@@ -5860,13 +5872,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária mensal destinada a compensar o acréscimo de encargos familiares dos descendentes dos beneficiários, pessoas com deficiência de natureza física, orgânica, sensorial, motora ou mental, que se encontrem impossibilitados de assegurar normalmente a sua subsistência pelo exercício de atividade profissional. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.309_910b437fe7f4
-:nota_650.10.309_910b437fe7f4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.309_5f52461a55eb
+:nota_650.10.309_5f52461a55eb rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.309 :temNotaExclusao :nota_650.10.309_910b437fe7f4 .
+:c650.10.309 :temNotaExclusao :nota_650.10.309_5f52461a55eb .
 
 :c650.10.309 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.309 :processoTransversal "N" .
@@ -5944,27 +5956,26 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Desenvolvimento de ações conducentes a garantir um funeral digno a todos os que não tenham condições socioeconómicas para suportar os encargos com estes serviços. Inicia com a identificação da necessidade ou com o pedido e termina com a prestação do serviço fúnebre. Inclui a verificação das condições socioeconómicas, a afetação de recursos e o registo.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.310_d511f121289e
-:nota_650.10.310_d511f121289e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.310_7032fa150a8b
+:nota_650.10.310_7032fa150a8b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Aplica-se a casos de óbitos de indivíduos, cuja identidade não seja conhecida ou cujos corpos não sejam reclamados por familiares ou pessoas de referência.".
 
-:c650.10.310 :temNotaAplicacao :nota_650.10.310_d511f121289e .
+:c650.10.310 :temNotaAplicacao :nota_650.10.310_7032fa150a8b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.310_193b89d15622
-:nota_650.10.310_193b89d15622 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.310_8ad177f54caf
+:nota_650.10.310_8ad177f54caf rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A atribuição de subsídios de funeral, decorrentes de prestações de natureza contributiva, deve ser considerada em 650.10.306 - Concessão de subsídios de funeral".
 
-:c650.10.310 :temNotaExclusao :nota_650.10.310_193b89d15622 .
+:c650.10.310 :temNotaExclusao :nota_650.10.310_8ad177f54caf .
 
 :c650.10.310 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.310 :processoTransversal "N" .
 :c650.10.310 :temDono :ent_SCML .
 :c650.10.310 :temLegislacao :leg_DL_411_98 .
-:c650.10.310 :temLegislacao :leg_Lei_98_97 .
 :c650.10.310 :temRelProc :c150.20.404 .
 :c650.10.310 :eSintetizadoPor :c150.20.404 .
 :c650.10.310 :temRelProc :c500.10.001 .
@@ -5981,9 +5992,8 @@
 :pca_c650.10.310 :temJustificacao :just_pca_c650.10.310 .
 :just_pca_c650.10.310_0 rdf:type owl:NamedIndividual ,
 		:CriterioJustificacaoLegal ;
-	:conteudo "[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória)." .
+	:conteudo "(Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória)." .
 :just_pca_c650.10.310 :temCriterio :just_pca_c650.10.310_0. 
-:just_pca_c650.10.310_0 :critTemLegAssoc :leg_Lei_98_97 .
 :just_pca_c650.10.310_1 rdf:type owl:NamedIndividual ,
 		:CriterioJustificacaoUtilidadeAdministrativa ;
 	:conteudo "Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração)." .
@@ -5999,21 +6009,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária para pagamento a instituição de solidariedade social pelos serviços prestados a crianças, idosos e pessoas com deficiência. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.400_7ed05d58e605
-:nota_650.10.400_7ed05d58e605 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.400_c4d722a73da6
+:nota_650.10.400_c4d722a73da6 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de apoio financeiro às instituições de solidariedade social quando o mesmo é regulado por portaria, sendo o valor atribuído por utente".
 
-:c650.10.400 :temNotaAplicacao :nota_650.10.400_7ed05d58e605 .
+:c650.10.400 :temNotaAplicacao :nota_650.10.400_c4d722a73da6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.400_7f017ae45819
-:nota_650.10.400_7f017ae45819 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.400_f650d9fcaa14
+:nota_650.10.400_f650d9fcaa14 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.400 :temNotaExclusao :nota_650.10.400_7f017ae45819 .
+:c650.10.400 :temNotaExclusao :nota_650.10.400_f650d9fcaa14 .
 
 :c650.10.400 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.400 :processoTransversal "N" .
@@ -6024,6 +6034,8 @@
 :c650.10.400 :temLegislacao :leg_Lei_98_97 .
 :c650.10.400 :temRelProc :c150.10.500 .
 :c650.10.400 :eSucessorDe :c150.10.500 .
+:c650.10.400 :temRelProc :c150.20.404 .
+:c650.10.400 :eSintetizadoPor :c150.20.404 .
 :c650.10.400 :temRelProc :c350.30.001 .
 :c650.10.400 :eCruzadoCom :c350.30.001 .
 :c650.10.400 :temRelProc :c500.10.001 .
@@ -6073,21 +6085,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária para pagamento a instituição de solidariedade social pelos serviços prestados a crianças, idosos e pessoas com deficiência. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.401_609f1cb06cc7
-:nota_650.10.401_609f1cb06cc7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.401_b6bdcbbce78d
+:nota_650.10.401_b6bdcbbce78d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de apoio financeiro às instituições de solidariedade social quando o mesmo é regulado por um programa, sendo o valor atribuído por utente".
 
-:c650.10.401 :temNotaAplicacao :nota_650.10.401_609f1cb06cc7 .
+:c650.10.401 :temNotaAplicacao :nota_650.10.401_b6bdcbbce78d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.401_7fe08882e8d6
-:nota_650.10.401_7fe08882e8d6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.401_86a0174b6731
+:nota_650.10.401_86a0174b6731 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.401 :temNotaExclusao :nota_650.10.401_7fe08882e8d6 .
+:c650.10.401 :temNotaExclusao :nota_650.10.401_86a0174b6731 .
 
 :c650.10.401 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.401 :processoTransversal "N" .
@@ -6098,6 +6110,8 @@
 :c650.10.401 :temLegislacao :leg_Lei_98_97 .
 :c650.10.401 :temRelProc :c150.10.500 .
 :c650.10.401 :eSucessorDe :c150.10.500 .
+:c650.10.401 :temRelProc :c150.20.404 .
+:c650.10.401 :eSintetizadoPor :c150.20.404 .
 :c650.10.401 :temRelProc :c350.30.001 .
 :c650.10.401 :eCruzadoCom :c350.30.001 .
 :c650.10.401 :temRelProc :c500.10.001 .
@@ -6147,21 +6161,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.10 ;
 	:descricao 'Atribuição de prestação pecuniária para pagamento a instituição de solidariedade social pelos serviços prestados a crianças, idosos e pessoas com deficiência. Inicia com o requerimento e termina com a comunicação do montante a atribuir. Inclui análise da situação mediante os comprovativos apresentados e decisão relativa ao montante a atribuir.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.500_def9bdc657a1
-:nota_650.10.500_def9bdc657a1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.500_f8b906568997
+:nota_650.10.500_f8b906568997 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuições de apoio financeiro às instituições de solidariedade social quando o mesmo é efetuado por acordos de gestão".
 
-:c650.10.500 :temNotaAplicacao :nota_650.10.500_def9bdc657a1 .
+:c650.10.500 :temNotaAplicacao :nota_650.10.500_f8b906568997 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.500_f65d4c899d5d
-:nota_650.10.500_f65d4c899d5d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.10.500_8a6097ea36a5
+:nota_650.10.500_8a6097ea36a5 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c650.10.500 :temNotaExclusao :nota_650.10.500_f65d4c899d5d .
+:c650.10.500 :temNotaExclusao :nota_650.10.500_8a6097ea36a5 .
 
 :c650.10.500 :processoTipoVC :vc_processoTipo_pe .
 :c650.10.500 :processoTransversal "N" .
@@ -6172,6 +6186,8 @@
 :c650.10.500 :temLegislacao :leg_Lei_98_97 .
 :c650.10.500 :temRelProc :c150.10.500 .
 :c650.10.500 :eSucessorDe :c150.10.500 .
+:c650.10.500 :temRelProc :c150.20.404 .
+:c650.10.500 :eSintetizadoPor :c150.20.404 .
 :c650.10.500 :temRelProc :c350.30.001 .
 :c650.10.500 :eCruzadoCom :c350.30.001 .
 :c650.10.500 :temRelProc :c500.10.001 .
@@ -6221,21 +6237,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650 ;
 	:descricao 'Compreende os processos relativos à prestação de serviços de informação e consulta para corrigir ou minimizar situações de vulnerabilidade social, no que se inclui o apoio à integração no mercado de trabalho. Compreende, igualmente, os processos de atendimento de emergência e acolhimento de pessoas em risco de exclusão social (crianças, jovens, idosos, pessoas com deficiência, vítimas de violência, etc.), bem como o atendimento, encaminhamento e acolhimento regular em estruturas de apoio social e psicossocial. Compreende, ainda, os processos de acesso e usufruto de equipamentos de apoio à inclusão social (infraestruturas de acolhimento, de capacitação para a inclusão, de convívio, de lazer, ou outras).' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20_5bfdcee5384f
-:nota_650.20_5bfdcee5384f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20_07c635c35345
+:nota_650.20_07c635c35345 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processos relativos à garantia de acesso ao direito, designadamente nos domínios da informação e consulta jurídica e do apoio judiciário prestados ao cidadão".
 
-:c650.20 :temNotaAplicacao :nota_650.20_5bfdcee5384f .
+:c650.20 :temNotaAplicacao :nota_650.20_07c635c35345 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20_c385dca35650
-:nota_650.20_c385dca35650 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20_6d2502b21977
+:nota_650.20_6d2502b21977 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O encaminhamento de alunos no quadro das estruturas de ensino deve ser considerado em “Prestação de serviços de ensino e formação/ Gestão do aluno/formando” (750.10)".
 
-:c650.20 :temNotaExclusao :nota_650.20_c385dca35650 .
+:c650.20 :temNotaExclusao :nota_650.20_6d2502b21977 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c650.20.001
@@ -6247,29 +6263,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.20 ;
 	:descricao 'Reconhecimento de indivíduos ou agregados familiares em situação de pobreza, de exclusão social, de deficiência, de risco ou de violação da integridade pessoal (física, intelectual, psicológica) ou de propriedade, numa lógica de estudo e prevenção de situações de riscos sociais e posterior intervenção junto de grupos desfavorecidos e vulneráveis. Inicia com o pedido ou identificação da situação e termina com o encaminhamento para apoio específico ou acolhimento. Inclui apresentação de comprovativos de situação, elaboração de relatório de caracterização, aconselhamento inicial e articulação com outras entidades ou autoridades.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.001_d629eddc9282
-:nota_650.20.001_d629eddc9282 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.001_482ebe7590f8
+:nota_650.20.001_482ebe7590f8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Familiares e vítimas de crimes contra as pessoas, em que se incluem as difamações, injúrias, ofensas corporais, violação e outros crimes sexuais, homicídio, suícidio, abuso de autoridade, tráfico de seres humanos".
 
-:c650.20.001 :temNotaAplicacao :nota_650.20.001_d629eddc9282 .
+:c650.20.001 :temNotaAplicacao :nota_650.20.001_482ebe7590f8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.001_c2ec9462c9dd
-:nota_650.20.001_c2ec9462c9dd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.001_01dc05ca98d9
+:nota_650.20.001_01dc05ca98d9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Familiares e vítimas de crimes contra a propriedade, como furto (por esticão, de e em veículo motorizado, por carteirista, em casa por arrombamento), roubo, dano, burla, abuso de confiança, falsificação de documentos".
 
-:c650.20.001 :temNotaAplicacao :nota_650.20.001_c2ec9462c9dd .
+:c650.20.001 :temNotaAplicacao :nota_650.20.001_01dc05ca98d9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.001_2dc55b680c47
-:nota_650.20.001_2dc55b680c47 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.001_36a5ee0ab149
+:nota_650.20.001_36a5ee0ab149 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pessoas em situação de risco, decorrente, por exemplo de comportamentos aditivos, de discriminação (género, orientação sexual, racial/étnica), de negligência (menores, idosos)".
 
-:c650.20.001 :temNotaAplicacao :nota_650.20.001_2dc55b680c47 .
+:c650.20.001 :temNotaAplicacao :nota_650.20.001_36a5ee0ab149 .
 
 :c650.20.001 :processoTipoVC :vc_processoTipo_pe .
 :c650.20.001 :processoTransversal "S" .
@@ -6408,13 +6424,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.20 ;
 	:descricao 'Orientação concedida por um jurista a cidadãos ou entidades que não disponham de recursos económicos ou que pretendam obter informações e esclarecer dúvidas em diversas áreas do direito. Inicia com o pedido e termina com a prestação do serviço. Inclui comprovativos da situação, análise do caso apresentado, estudo de soluções, acompanhamento e mediação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.300_77625b716f2f
-:nota_650.20.300_77625b716f2f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.300_fe564fd9815a
+:nota_650.20.300_fe564fd9815a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Aconselhamento jurídico prestado aos vários tipos de pessoas ou famílias, incluindo as que se encontrem em situação de risco ou vulnerabilidade, nomeadamente, imigrantes, vítimas de crimes, vítimas de exclusão social de uma forma genérica".
 
-:c650.20.300 :temNotaAplicacao :nota_650.20.300_77625b716f2f .
+:c650.20.300 :temNotaAplicacao :nota_650.20.300_fe564fd9815a .
 
 :c650.20.300 :processoTipoVC :vc_processoTipo_pe .
 :c650.20.300 :processoTransversal "N" .
@@ -6485,29 +6501,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.20 ;
 	:descricao 'Prestação de cuidados e serviços a famílias ou pessoas que se encontrem no seu domicílio, em situação de dependência física e ou psíquica e que não possam assegurar, temporária ou permanentemente, a satisfação das suas necessidades básicas e ou a realização das atividades instrumentais da vida diária, nem disponham de apoio familiar para o efeito. Inicia com o pedido de apoio e termina com a prestação do serviço solicitado. Inclui análise da situação, verificação do tipo de apoio necessário e disponibilização de meios para o apoio.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.301_e797edf55edc
-:nota_650.20.301_e797edf55edc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.301_3fbb51dc905b
+:nota_650.20.301_3fbb51dc905b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Realização de pequenas obras de reparação e beneficiação no domicílio de famílias desfavorecidas, de pessoas dependentes ou com necessidades especiais".
 
-:c650.20.301 :temNotaAplicacao :nota_650.20.301_e797edf55edc .
+:c650.20.301 :temNotaAplicacao :nota_650.20.301_3fbb51dc905b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.301_be54bec769bd
-:nota_650.20.301_be54bec769bd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.301_9b4cd79c4e57
+:nota_650.20.301_9b4cd79c4e57 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação de serviços de higiene e alimentação domiciliários".
 
-:c650.20.301 :temNotaAplicacao :nota_650.20.301_be54bec769bd .
+:c650.20.301 :temNotaAplicacao :nota_650.20.301_9b4cd79c4e57 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.301_1c678adb8fd2
-:nota_650.20.301_1c678adb8fd2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.301_b855b87f2317
+:nota_650.20.301_b855b87f2317 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Teleassistência".
 
-:c650.20.301 :temNotaAplicacao :nota_650.20.301_1c678adb8fd2 .
+:c650.20.301 :temNotaAplicacao :nota_650.20.301_b855b87f2317 .
 
 :c650.20.301 :processoTipoVC :vc_processoTipo_pe .
 :c650.20.301 :processoTransversal "N" .
@@ -6575,77 +6591,77 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.20 ;
 	:descricao 'Ações de informação, aconselhamento e apoio que visam promover a empregabilidade. Inicia com a inscrição ou solicitação de apoio e termina com a satisfação da necessidade ou suspensão do processo. Inclui definição de perfil e auxílio para elaboração de currículos, divulgação, encaminhamento de informação e acompanhamento personalizado.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_25ee17f44355
-:nota_650.20.302_25ee17f44355 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_01b20e2c7a54
+:nota_650.20.302_01b20e2c7a54 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acompanhamento personalizado dos desempregados em fase de inserção ou reinserção profissional".
 
-:c650.20.302 :temNotaAplicacao :nota_650.20.302_25ee17f44355 .
+:c650.20.302 :temNotaAplicacao :nota_650.20.302_01b20e2c7a54 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_1f8c1072a9ba
-:nota_650.20.302_1f8c1072a9ba rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_dc5ca67a48c0
+:nota_650.20.302_dc5ca67a48c0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio na procura ativa de emprego".
 
-:c650.20.302 :temNotaAplicacao :nota_650.20.302_1f8c1072a9ba .
+:c650.20.302 :temNotaAplicacao :nota_650.20.302_dc5ca67a48c0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_63474adb9eaa
-:nota_650.20.302_63474adb9eaa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_bd353741d9ad
+:nota_650.20.302_bd353741d9ad rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Disponibilização de informação profissional para jovens e adultos desempregados".
 
-:c650.20.302 :temNotaAplicacao :nota_650.20.302_63474adb9eaa .
+:c650.20.302 :temNotaAplicacao :nota_650.20.302_bd353741d9ad .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_f342465bcfc2
-:nota_650.20.302_f342465bcfc2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_617a51cf4864
+:nota_650.20.302_617a51cf4864 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Encaminhamento para ofertas de qualificação".
 
-:c650.20.302 :temNotaAplicacao :nota_650.20.302_f342465bcfc2 .
+:c650.20.302 :temNotaAplicacao :nota_650.20.302_617a51cf4864 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_1111b69c3fcb
-:nota_650.20.302_1111b69c3fcb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_f6c375cf397f
+:nota_650.20.302_f6c375cf397f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Divulgação de ofertas de emprego e colocação de desempregados nas ofertas disponíveis e adequadas".
 
-:c650.20.302 :temNotaAplicacao :nota_650.20.302_1111b69c3fcb .
+:c650.20.302 :temNotaAplicacao :nota_650.20.302_f6c375cf397f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_f99898e53b99
-:nota_650.20.302_f99898e53b99 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_540a784e3936
+:nota_650.20.302_540a784e3936 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Divulgação de programas comunitários que promovam a mobilidade no emprego e na formação profissional no espaço europeu".
 
-:c650.20.302 :temNotaAplicacao :nota_650.20.302_f99898e53b99 .
+:c650.20.302 :temNotaAplicacao :nota_650.20.302_540a784e3936 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_a6de95dd7349
-:nota_650.20.302_a6de95dd7349 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_0d10c90ecf53
+:nota_650.20.302_0d10c90ecf53 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Motivação e apoio à participação em ocupações temporárias ou atividades em regime de voluntariado, que facilitem a inserção no mercado de trabalho".
 
-:c650.20.302 :temNotaAplicacao :nota_650.20.302_a6de95dd7349 .
+:c650.20.302 :temNotaAplicacao :nota_650.20.302_0d10c90ecf53 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_9b19bd0df59f
-:nota_650.20.302_9b19bd0df59f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_dd55874dc84b
+:nota_650.20.302_dd55874dc84b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os programas de apoio ao emprego e qualificação devem ser considerados em 850.10.002 – Formalização de candidaturas e acompanhamento de apoios regulares".
 
-:c650.20.302 :temNotaExclusao :nota_650.20.302_9b19bd0df59f .
+:c650.20.302 :temNotaExclusao :nota_650.20.302_dd55874dc84b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_ff9b1130d1dd
-:nota_650.20.302_ff9b1130d1dd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.302_ebe297a25445
+:nota_650.20.302_ebe297a25445 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A realização de atividades de formação deve ser considerada em 750.20.600 – Realização de atividades de ensino ou formação".
 
-:c650.20.302 :temNotaExclusao :nota_650.20.302_ff9b1130d1dd .
+:c650.20.302 :temNotaExclusao :nota_650.20.302_ebe297a25445 .
 
 :c650.20.302 :processoTipoVC :vc_processoTipo_pe .
 :c650.20.302 :processoTransversal "S" .
@@ -6732,13 +6748,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.20 ;
 	:descricao 'Prestação de apoio e acompanhamento às famílias e indivíduos com dificuldades na prevenção ou resolução de problemas a nível psicossocial, nomeadamente na prevenção, e acompanhamento de potenciais situações de disfunção, ruturas ou pré-rupturas ou no contexto social e laboral. Inicia com o pedido do interessado ou com a identificação da necessidade por terceiros e termina com a satisfação da necessidade ou suspensão do processo, por ausência do interessado. Inclui diagnóstico de situação, definição de objetivos, incentivando o indivíduo/família à participação ativa no seu próprio processo de mudança/resolução dos seus problemas e articulação com outros serviços para evitar fragmentação das respostas e insucesso na intervenção psicossocial.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.304_0236c1a146b7
-:nota_650.20.304_0236c1a146b7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.304_16c0f8360fe4
+:nota_650.20.304_16c0f8360fe4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio psicossocial e emocional prestado aos vários tipos de pessoas ou famílias em situação de risco ou vulnerabilidade, entre outras, imigrantes, vítimas de crimes, vítimas de exclusão social de uma forma genérica".
 
-:c650.20.304 :temNotaAplicacao :nota_650.20.304_0236c1a146b7 .
+:c650.20.304 :temNotaAplicacao :nota_650.20.304_16c0f8360fe4 .
 
 :c650.20.304 :processoTipoVC :vc_processoTipo_pe .
 :c650.20.304 :processoTransversal "S" .
@@ -6830,69 +6846,69 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.20 ;
 	:descricao 'Desenvolvimento de ações conducentes a garantir as condições higiossanitárias e de alimentação a pessoas e a animais institucionalizados. Inicia com a identificação da necessidade ou com o pedido e termina com a prestação do cuidado alimentar ou de higiene. Inclui elaboração de diagnóstico de necessidades, definição do tipo de cuidado a prestar, afetação de recursos e registo. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.306_83b813d1c67f
-:nota_650.20.306_83b813d1c67f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.306_b368a9f869c1
+:nota_650.20.306_b368a9f869c1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação de cuidados de alimentação a pessoas institucionalizadas".
 
-:c650.20.306 :temNotaAplicacao :nota_650.20.306_83b813d1c67f .
+:c650.20.306 :temNotaAplicacao :nota_650.20.306_b368a9f869c1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.306_6006e5ec0ce1
-:nota_650.20.306_6006e5ec0ce1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.306_34f5a392946b
+:nota_650.20.306_34f5a392946b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação de cuidados de higienização a pessoas institucionalizadas".
 
-:c650.20.306 :temNotaAplicacao :nota_650.20.306_6006e5ec0ce1 .
+:c650.20.306 :temNotaAplicacao :nota_650.20.306_34f5a392946b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.306_13fe8f6d3426
-:nota_650.20.306_13fe8f6d3426 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.306_76a7c01b9aaf
+:nota_650.20.306_76a7c01b9aaf rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação de cuidados de alimentação e de higiene a pessoas e a animais".
 
-:c650.20.306 :temNotaAplicacao :nota_650.20.306_13fe8f6d3426 .
+:c650.20.306 :temNotaAplicacao :nota_650.20.306_76a7c01b9aaf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.306_d276ae8fc2cf
-:nota_650.20.306_d276ae8fc2cf rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.306_45f10e8402dd
+:nota_650.20.306_45f10e8402dd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação de cuidados de alimentação e de higiene a utente institucionalizado".
 
-:c650.20.306 :temNotaAplicacao :nota_650.20.306_d276ae8fc2cf .
+:c650.20.306 :temNotaAplicacao :nota_650.20.306_45f10e8402dd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.306_e4fbbabcc8ba
-:nota_650.20.306_e4fbbabcc8ba rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.306_0c2ce15f0496
+:nota_650.20.306_0c2ce15f0496 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação de cuidados alimentares e de higiene a institucionalizados aos utentes".
 
-:c650.20.306 :temNotaAplicacao :nota_650.20.306_e4fbbabcc8ba .
+:c650.20.306 :temNotaAplicacao :nota_650.20.306_0c2ce15f0496 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.306_0f635970322d
-:nota_650.20.306_0f635970322d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.306_1aaa6ddb205d
+:nota_650.20.306_1aaa6ddb205d rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A prestação de cuidados de saúde deve ser considerado em PN adequado na função 700.20 – Serviços clínicos".
 
-:c650.20.306 :temNotaExclusao :nota_650.20.306_0f635970322d .
+:c650.20.306 :temNotaExclusao :nota_650.20.306_1aaa6ddb205d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.306_1b80b7d1f359
-:nota_650.20.306_1b80b7d1f359 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.306_e309385ee7b4
+:nota_650.20.306_e309385ee7b4 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A administração de fármacos a utentes deve ser considerada em PN adequado na função 700.20 – Serviços clínicos".
 
-:c650.20.306 :temNotaExclusao :nota_650.20.306_1b80b7d1f359 .
+:c650.20.306 :temNotaExclusao :nota_650.20.306_e309385ee7b4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.306_caf7edd8bdc8
-:nota_650.20.306_caf7edd8bdc8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.306_14005fbbcf0a
+:nota_650.20.306_14005fbbcf0a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A contratação de serviços deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c650.20.306 :temNotaExclusao :nota_650.20.306_caf7edd8bdc8 .
+:c650.20.306 :temNotaExclusao :nota_650.20.306_14005fbbcf0a .
 
 :c650.20.306 :processoTipoVC :vc_processoTipo_pe .
 :c650.20.306 :processoTransversal "S" .
@@ -6966,61 +6982,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.20 ;
 	:descricao 'Abrigo de pessoas sob medida de proteção ou em situação de risco pessoal e social. Inicia com a identificação da necessidade de acolhimento imediato e termina com a integração em meio natural de vida ou encaminhamento para instituição de acolhimento. Inclui seleção e articulação da admissão, formalização da receção do individuo pela instituição e contacto com outras entidades ou autoridades para obtenção de resposta social. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.600_490ef85fcb20
-:nota_650.20.600_490ef85fcb20 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.600_abd83e2df2ae
+:nota_650.20.600_abd83e2df2ae rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acolhimento imediato para as crianças e jovens".
 
-:c650.20.600 :temNotaAplicacao :nota_650.20.600_490ef85fcb20 .
+:c650.20.600 :temNotaAplicacao :nota_650.20.600_abd83e2df2ae .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.600_ceaa11e7c693
-:nota_650.20.600_ceaa11e7c693 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.600_b612e4259d33
+:nota_650.20.600_b612e4259d33 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acolhimento imediato para os idosos".
 
-:c650.20.600 :temNotaAplicacao :nota_650.20.600_ceaa11e7c693 .
+:c650.20.600 :temNotaAplicacao :nota_650.20.600_b612e4259d33 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.600_982ff7afa75f
-:nota_650.20.600_982ff7afa75f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.600_9b450f5472e1
+:nota_650.20.600_9b450f5472e1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acolhimento imediato para os imigrantes".
 
-:c650.20.600 :temNotaAplicacao :nota_650.20.600_982ff7afa75f .
+:c650.20.600 :temNotaAplicacao :nota_650.20.600_9b450f5472e1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.600_396df7f83fcc
-:nota_650.20.600_396df7f83fcc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.600_3fe8849ae231
+:nota_650.20.600_3fe8849ae231 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acolhimento imediato para os sem-abrigo".
 
-:c650.20.600 :temNotaAplicacao :nota_650.20.600_396df7f83fcc .
+:c650.20.600 :temNotaAplicacao :nota_650.20.600_3fe8849ae231 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.600_a9e3030312b3
-:nota_650.20.600_a9e3030312b3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.600_588844de5122
+:nota_650.20.600_588844de5122 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acolhimento imediato para as vítimas de violência doméstica".
 
-:c650.20.600 :temNotaAplicacao :nota_650.20.600_a9e3030312b3 .
+:c650.20.600 :temNotaAplicacao :nota_650.20.600_588844de5122 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.600_570eb9f86a19
-:nota_650.20.600_570eb9f86a19 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.600_bd4cb7d0c16a
+:nota_650.20.600_bd4cb7d0c16a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acolhimento imediato para os toxicodependentes".
 
-:c650.20.600 :temNotaAplicacao :nota_650.20.600_570eb9f86a19 .
+:c650.20.600 :temNotaAplicacao :nota_650.20.600_bd4cb7d0c16a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.600_4d425e747674
-:nota_650.20.600_4d425e747674 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.600_4dc3849a8cb9
+:nota_650.20.600_4dc3849a8cb9 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O auxílio e acolhimento de emergência a sinistrados e doentes em situações de catástofres naturais ou tecnológicas devem ser considerados em 550.20.500 – Ação de proteção e socorro".
 
-:c650.20.600 :temNotaExclusao :nota_650.20.600_4d425e747674 .
+:c650.20.600 :temNotaExclusao :nota_650.20.600_4dc3849a8cb9 .
 
 :c650.20.600 :processoTipoVC :vc_processoTipo_pe .
 :c650.20.600 :processoTransversal "S" .
@@ -7102,157 +7118,157 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.20 ;
 	:descricao 'Respostas sociais de institucionalização ou acolhimento. Inicia com a formalização do pedido de admissão e termina com a saída do individuo da resposta de acolhimento. Inclui candidatura e seleção, nas situações que o prevejam, acolhimento e integração, avaliação diagnóstica, elaboração, execução e avaliação do projeto de desenvolvimento pessoal orientado ao seu projeto de vida, quer seja em contexto familiar ou autonomia de vida.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_d869fcb0115b
-:nota_650.20.601_d869fcb0115b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_d547076793e1
+:nota_650.20.601_d547076793e1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acolhimento de crianças e jovens".
 
-:c650.20.601 :temNotaAplicacao :nota_650.20.601_d869fcb0115b .
+:c650.20.601 :temNotaAplicacao :nota_650.20.601_d547076793e1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_f828d6b8a5fa
-:nota_650.20.601_f828d6b8a5fa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_25fa7998031a
+:nota_650.20.601_25fa7998031a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acolhimento de pessoas portadoras de deficiência".
 
-:c650.20.601 :temNotaAplicacao :nota_650.20.601_f828d6b8a5fa .
+:c650.20.601 :temNotaAplicacao :nota_650.20.601_25fa7998031a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_cb53cfc283df
-:nota_650.20.601_cb53cfc283df rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_4b40c3daad7f
+:nota_650.20.601_4b40c3daad7f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acolhimento de idosos".
 
-:c650.20.601 :temNotaAplicacao :nota_650.20.601_cb53cfc283df .
+:c650.20.601 :temNotaAplicacao :nota_650.20.601_4b40c3daad7f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_df0ee9c973a8
-:nota_650.20.601_df0ee9c973a8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_7d7b9910d964
+:nota_650.20.601_7d7b9910d964 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acolhimento de mães adolescentes".
 
-:c650.20.601 :temNotaAplicacao :nota_650.20.601_df0ee9c973a8 .
+:c650.20.601 :temNotaAplicacao :nota_650.20.601_7d7b9910d964 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_3e7fd0e94226
-:nota_650.20.601_3e7fd0e94226 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_a85079256b70
+:nota_650.20.601_a85079256b70 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acolhimento de vítimas de violência doméstica".
 
-:c650.20.601 :temNotaAplicacao :nota_650.20.601_3e7fd0e94226 .
+:c650.20.601 :temNotaAplicacao :nota_650.20.601_a85079256b70 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_a35864df94d9
-:nota_650.20.601_a35864df94d9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_c74a1f4d4642
+:nota_650.20.601_c74a1f4d4642 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Alojamento facultado por entidades privadas, mediante estabelecimento de acordos de cooperação".
 
-:c650.20.601 :temNotaAplicacao :nota_650.20.601_a35864df94d9 .
+:c650.20.601 :temNotaAplicacao :nota_650.20.601_c74a1f4d4642 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_c6e32be016a0
-:nota_650.20.601_c6e32be016a0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_06e01026af8b
+:nota_650.20.601_06e01026af8b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Colocação junto de famílias de acolhimento".
 
-:c650.20.601 :temNotaAplicacao :nota_650.20.601_c6e32be016a0 .
+:c650.20.601 :temNotaAplicacao :nota_650.20.601_06e01026af8b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_c3da1e69f801
-:nota_650.20.601_c3da1e69f801 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_d3fd54a76e1c
+:nota_650.20.601_d3fd54a76e1c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Resposta social em apartamento de autonomização".
 
-:c650.20.601 :temNotaAplicacao :nota_650.20.601_c3da1e69f801 .
+:c650.20.601 :temNotaAplicacao :nota_650.20.601_d3fd54a76e1c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_7c81e3066aea
-:nota_650.20.601_7c81e3066aea rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_f44ba384d4de
+:nota_650.20.601_f44ba384d4de rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Resposta social em frações autónomas para idosos".
 
-:c650.20.601 :temNotaAplicacao :nota_650.20.601_7c81e3066aea .
+:c650.20.601 :temNotaAplicacao :nota_650.20.601_f44ba384d4de .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_98e6d25dc537
-:nota_650.20.601_98e6d25dc537 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_59c3b2a34898
+:nota_650.20.601_59c3b2a34898 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Resposta social em lares de idosos".
 
-:c650.20.601 :temNotaAplicacao :nota_650.20.601_98e6d25dc537 .
+:c650.20.601 :temNotaAplicacao :nota_650.20.601_59c3b2a34898 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_c3d4e096a0af
-:nota_650.20.601_c3d4e096a0af rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_77b9769d539c
+:nota_650.20.601_77b9769d539c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Resposta social em lares de infância e juventude".
 
-:c650.20.601 :temNotaAplicacao :nota_650.20.601_c3d4e096a0af .
+:c650.20.601 :temNotaAplicacao :nota_650.20.601_77b9769d539c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_6d0b8dfee758
-:nota_650.20.601_6d0b8dfee758 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_49f1d3d453ea
+:nota_650.20.601_49f1d3d453ea rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Resposta social em residências de acolhimento".
 
-:c650.20.601 :temNotaAplicacao :nota_650.20.601_6d0b8dfee758 .
+:c650.20.601 :temNotaAplicacao :nota_650.20.601_49f1d3d453ea .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_31fdacd39a7c
-:nota_650.20.601_31fdacd39a7c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_eb6d0b1a5550
+:nota_650.20.601_eb6d0b1a5550 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Resposta social em unidades terapêuticas educativas".
 
-:c650.20.601 :temNotaAplicacao :nota_650.20.601_31fdacd39a7c .
+:c650.20.601 :temNotaAplicacao :nota_650.20.601_eb6d0b1a5550 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_8767ab95ca02
-:nota_650.20.601_8767ab95ca02 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_e9fcc089b2bd
+:nota_650.20.601_e9fcc089b2bd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Resposta social em residências para estudantes".
 
-:c650.20.601 :temNotaAplicacao :nota_650.20.601_8767ab95ca02 .
+:c650.20.601 :temNotaAplicacao :nota_650.20.601_e9fcc089b2bd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_64d9c6a898f1
-:nota_650.20.601_64d9c6a898f1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_fd307a38bd06
+:nota_650.20.601_fd307a38bd06 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acolhimento em residência para professores".
 
-:c650.20.601 :temNotaAplicacao :nota_650.20.601_64d9c6a898f1 .
+:c650.20.601 :temNotaAplicacao :nota_650.20.601_fd307a38bd06 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_a83cdc1fd186
-:nota_650.20.601_a83cdc1fd186 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_6015e2d4366f
+:nota_650.20.601_6015e2d4366f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acolhimento em casa função".
 
-:c650.20.601 :temNotaAplicacao :nota_650.20.601_a83cdc1fd186 .
+:c650.20.601 :temNotaAplicacao :nota_650.20.601_6015e2d4366f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_c3b693c3d84a
-:nota_650.20.601_c3b693c3d84a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_638cd183616e
+:nota_650.20.601_638cd183616e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A prestação de cuidados de saúde dos utentes em acolhimento deve ser considerada em \"Prestação de cuidados de saúde/ Serviços clínicos\" (700.20)".
 
-:c650.20.601 :temNotaExclusao :nota_650.20.601_c3b693c3d84a .
+:c650.20.601 :temNotaExclusao :nota_650.20.601_638cd183616e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_f3e694521c87
-:nota_650.20.601_f3e694521c87 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_5a0b56815c7d
+:nota_650.20.601_5a0b56815c7d rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O procedimento disciplinar da criança e jovem em respostas sociais de acolhimento deve ser considerado em 500.20.300 – Procedimento disciplinar".
 
-:c650.20.601 :temNotaExclusao :nota_650.20.601_f3e694521c87 .
+:c650.20.601 :temNotaExclusao :nota_650.20.601_5a0b56815c7d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_9cd2cede092e
-:nota_650.20.601_9cd2cede092e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.601_631cb945ce51
+:nota_650.20.601_631cb945ce51 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A sinalização de situações que carecem de acolhimento deve ser considerada 650.20.001 – Sinalização e encaminhamento em situações de vulnerabilidade".
 
-:c650.20.601 :temNotaExclusao :nota_650.20.601_9cd2cede092e .
+:c650.20.601 :temNotaExclusao :nota_650.20.601_631cb945ce51 .
 
 :c650.20.601 :processoTipoVC :vc_processoTipo_pe .
 :c650.20.601 :processoTransversal "S" .
@@ -7338,61 +7354,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.20 ;
 	:descricao 'Admissão a serviços e equipamentos de caráter social que visam satisfazer as necessidades básicas quotidianas e melhorar a vida das populações. Inicia com o pedido de acesso ao equipamento e termina com a recusa ou satisfação da necessidade. Inclui verificação da situação económica e da existência de equipamentos adequados à situação, elaboração e avaliação do plano de desenvolvimento individual, quando haja lugar.' .
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.20.602_9cd668506bfd
-:exemplo_650.20.602_9cd668506bfd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.20.602_9a650d27c7f2
+:exemplo_650.20.602_9a650d27c7f2 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Acesso a amas, creches ou infantários".
 
-:c650.20.602 :temExemploNA :exemplo_650.20.602_9cd668506bfd .
+:c650.20.602 :temExemploNA :exemplo_650.20.602_9a650d27c7f2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.20.602_0cd8bee375b8
-:exemplo_650.20.602_0cd8bee375b8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.20.602_70914beddcfb
+:exemplo_650.20.602_70914beddcfb rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Acesso a cantinas e refeitórios sociais".
 
-:c650.20.602 :temExemploNA :exemplo_650.20.602_0cd8bee375b8 .
+:c650.20.602 :temExemploNA :exemplo_650.20.602_70914beddcfb .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.20.602_974bab7a0843
-:exemplo_650.20.602_974bab7a0843 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.20.602_daff28aca5f7
+:exemplo_650.20.602_daff28aca5f7 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Acesso a centros de atividades de tempos livres, férias ou lazer".
 
-:c650.20.602 :temExemploNA :exemplo_650.20.602_974bab7a0843 .
+:c650.20.602 :temExemploNA :exemplo_650.20.602_daff28aca5f7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.20.602_96a52b542ba7
-:exemplo_650.20.602_96a52b542ba7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.20.602_5524212b8dd7
+:exemplo_650.20.602_5524212b8dd7 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Acesso a centros de dia e a centros de noite".
 
-:c650.20.602 :temExemploNA :exemplo_650.20.602_96a52b542ba7 .
+:c650.20.602 :temExemploNA :exemplo_650.20.602_5524212b8dd7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.20.602_96700a77544c
-:exemplo_650.20.602_96700a77544c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.20.602_4e3f7088c2b9
+:exemplo_650.20.602_4e3f7088c2b9 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Acesso a equipamentos multi-sensoriais".
 
-:c650.20.602 :temExemploNA :exemplo_650.20.602_96700a77544c .
+:c650.20.602 :temExemploNA :exemplo_650.20.602_4e3f7088c2b9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.20.602_c85c87e1a824
-:exemplo_650.20.602_c85c87e1a824 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_650.20.602_e79cb78004cb
+:exemplo_650.20.602_e79cb78004cb rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Atribuição de benefícios e acesso a serviços no âmbito do Cartão Sénior".
 
-:c650.20.602 :temExemploNA :exemplo_650.20.602_c85c87e1a824 .
+:c650.20.602 :temExemploNA :exemplo_650.20.602_e79cb78004cb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.602_d7b5a3ccc8b8
-:nota_650.20.602_d7b5a3ccc8b8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.602_ce265248cd67
+:nota_650.20.602_ce265248cd67 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A inscrição de alunos no ensino pré-escolar deve ser considerada 750.10.002 – Processamento de matrículas ou inscrições no ensino ou em formação".
 
-:c650.20.602 :temNotaExclusao :nota_650.20.602_d7b5a3ccc8b8 .
+:c650.20.602 :temNotaExclusao :nota_650.20.602_ce265248cd67 .
 
 :c650.20.602 :processoTipoVC :vc_processoTipo_pe .
 :c650.20.602 :processoTransversal "S" .
@@ -7475,37 +7491,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c650.20 ;
 	:descricao 'Desenvolvimento de atividades que proporcionam a fruição do equipamento. Inicia com a programação da atividade e termina com o seu cumprimento. Inclui elaboração de programas de dinamização do equipamento, desenvolvimento de proposta de adequabilidade do equipamento à resposta a prestar, promoção da responsabilização e do cumprimento das regras e rituais inerentes ao bom funcionamento e elaboração de relatórios de ocorrências.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.603_972302d20471
-:nota_650.20.603_972302d20471 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.603_31e398f35440
+:nota_650.20.603_31e398f35440 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Utilização de residências de acolhimento".
 
-:c650.20.603 :temNotaAplicacao :nota_650.20.603_972302d20471 .
+:c650.20.603 :temNotaAplicacao :nota_650.20.603_31e398f35440 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.603_9743cc6e02d7
-:nota_650.20.603_9743cc6e02d7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.603_f173e90cbae5
+:nota_650.20.603_f173e90cbae5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Utilização de equipamento snoezelen".
 
-:c650.20.603 :temNotaAplicacao :nota_650.20.603_9743cc6e02d7 .
+:c650.20.603 :temNotaAplicacao :nota_650.20.603_f173e90cbae5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.603_7898fd3c6b06
-:nota_650.20.603_7898fd3c6b06 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.603_bbfa122045cd
+:nota_650.20.603_bbfa122045cd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Utilização de centros de férias e lazer".
 
-:c650.20.603 :temNotaAplicacao :nota_650.20.603_7898fd3c6b06 .
+:c650.20.603 :temNotaAplicacao :nota_650.20.603_bbfa122045cd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.603_e46242b7bec0
-:nota_650.20.603_e46242b7bec0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_650.20.603_19785434bfd3
+:nota_650.20.603_19785434bfd3 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A realização de atividades em contexto pedagógico deve ser considerada em  750.20.600 – Realização de atividades de ensino ou formação".
 
-:c650.20.603 :temNotaExclusao :nota_650.20.603_e46242b7bec0 .
+:c650.20.603 :temNotaExclusao :nota_650.20.603_19785434bfd3 .
 
 :c650.20.603 :processoTipoVC :vc_processoTipo_pe .
 :c650.20.603 :processoTransversal "S" .
@@ -7595,6 +7611,8 @@
 :c650.20.604 :eSuplementoPara :c500.10.001 .
 :c650.20.604 :temRelProc :c500.10.301 .
 :c650.20.604 :eSuplementoPara :c500.10.301 .
+:c650.20.604 :temRelProc :c500.20.300 .
+:c650.20.604 :eSinteseDe :c500.20.300 .
 :c650.20.604 :temRelProc :c650.20.304 .
 :c650.20.604 :eSinteseDe :c650.20.304 .
 :c650.20.604 :temRelProc :c650.20.600 .
@@ -7639,8 +7657,11 @@
 :df_c650.20.604 :temJustificacao :just_df_c650.20.604 .
 :just_df_c650.20.604_0 rdf:type owl:NamedIndividual ,
 		:CriterioJustificacaoDensidadeInfo ;
-	:conteudo "Síntetiza osPN 650.20.304 - Apoio psicossocial;PN 650.20.601 - Admissão e desenvolvimento em instituições sociais residenciais ou estruturas de alojamento;PN 650.20.603 - Utilização de equipamentos de apoio social residenciais e não residenciais." .
+	:conteudo "Síntetiza osPN 500.20.300 - Procedimento disciplinar;PN 650.20.304 - Apoio psicossocial;PN 650.20.600 - Acolhimento de emergência em equipamentos de apoio social;PN 650.20.601 - Admissão e desenvolvimento em instituições sociais residenciais ou estruturas de alojamento;PN 650.20.602 - Acesso a serviços e equipamentos de apoio social não residencial;PN 650.20.603 - Utilização de equipamentos de apoio social residenciais e não residenciais." .
 :just_df_c650.20.604 :temCriterio :just_df_c650.20.604_0. 
+:just_df_c650.20.604_0 :critTemProcRel :c500.20.300 .
 :just_df_c650.20.604_0 :critTemProcRel :c650.20.304 .
+:just_df_c650.20.604_0 :critTemProcRel :c650.20.600 .
 :just_df_c650.20.604_0 :critTemProcRel :c650.20.601 .
+:just_df_c650.20.604_0 :critTemProcRel :c650.20.602 .
 :just_df_c650.20.604_0 :critTemProcRel :c650.20.603 .

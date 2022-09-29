@@ -8,61 +8,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :lc1 ;
 	:descricao 'Relativo à realização de ações operacionais de prevenção e contenção de riscos e ameaças (internas ou externas, de causa humana ou natural) à segurança nacional, à segurança coletiva e à segurança das pessoas individualmente consideradas, no que se inclui a garantia do regular funcionamento das instituições, a manutenção e reposição da ordem, segurança e tranquilidade públicas e a proteção e socorro a pessoas e bens.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550_9bc691caf72d
-:nota_550_9bc691caf72d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550_f7d765687bc7
+:nota_550_f7d765687bc7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Operações e ações materiais que ocorram tanto em território nacional como no estrangeiro, de forma autónoma ou em cooperação com outras entidades nacionais ou estrangeiras".
 
-:c550 :temNotaAplicacao :nota_550_9bc691caf72d .
+:c550 :temNotaAplicacao :nota_550_f7d765687bc7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550_f40274d0665c
-:nota_550_f40274d0665c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550_29d063a51d26
+:nota_550_29d063a51d26 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação de serviços de segurança, proteção e socorro".
 
-:c550 :temNotaAplicacao :nota_550_f40274d0665c .
+:c550 :temNotaAplicacao :nota_550_29d063a51d26 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550_b534cf8253b3
-:nota_550_b534cf8253b3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550_e8b88d31b34a
+:nota_550_e8b88d31b34a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Aplicável tanto às entidades que prestam os serviços referidos como às que solicitam a prestação dos mesmos".
 
-:c550 :temNotaAplicacao :nota_550_b534cf8253b3 .
+:c550 :temNotaAplicacao :nota_550_e8b88d31b34a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550_f5d958df8bb4
-:nota_550_f5d958df8bb4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550_aa6ce50cafe9
+:nota_550_aa6ce50cafe9 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A produção de informações no âmbito do SIRP deve ser considerada em \"Planeamento e gestão estratégica/ Produção de informações estratégicas e de segurança\" (150.30);As operações de sensibilização das populações (por exemplo, exercícios de reação em cenário de acidente) devem ser consideradas em \"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\" (900.10);As operações de fiscalização da conformidade às normas (por exemplo, fiscalização de atividades de pesca, entre outras) devem ser consideradas em \"Supervisão, controlo e responsabilização/ Inspeção, auditoria, fiscalização e monitorização de conformidade à norma\" (500.10)".
 
-:c550 :temNotaExclusao :nota_550_f5d958df8bb4 .
+:c550 :temNotaExclusao :nota_550_aa6ce50cafe9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550_760508dacbfd
-:nota_550_760508dacbfd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550_399db977f9f9
+:nota_550_399db977f9f9 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As autorizações (por exemplo, atribuição de licença de uso e porte de arma) devem ser consideradas em \"Reconhecimentos e permissões/ Licenciamentos, certificações e outras autorizações\" (450.10)".
 
-:c550 :temNotaExclusao :nota_550_760508dacbfd .
+:c550 :temNotaExclusao :nota_550_399db977f9f9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550_c2055985a3a9
-:nota_550_c2055985a3a9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550_96cceb1a250f
+:nota_550_96cceb1a250f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O registo e processamento de títulos de identificação e de autorização de circulação ou permanência de pessoas no país (por exemplo, passaporte, visto, autorização de residência) devem ser considerados em \"Prestação de serviços de identificação e registo/ Registo de dados de identificação e caracterização de entidades ou atos\" (400.10)".
 
-:c550 :temNotaExclusao :nota_550_c2055985a3a9 .
+:c550 :temNotaExclusao :nota_550_96cceb1a250f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550_9527ff3b1ec4
-:nota_550_9527ff3b1ec4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550_d19d8f57350b
+:nota_550_d19d8f57350b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A participação em ações de deteção e investigação criminal deve ser considerada em \"Administração da justiça/ Prevenção e investigação criminal\" (600.10)".
 
-:c550 :temNotaExclusao :nota_550_9527ff3b1ec4 .
+:c550 :temNotaExclusao :nota_550_d19d8f57350b .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c550.10
@@ -74,93 +74,93 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550 ;
 	:descricao 'Compreende as operações vocacionadas para a manutenção e reposição da ordem e gestão de incidentes de segurança e segurança geral de pessoas e bens, nomeadamente no que respeita à prevenção e intervenção em situações perturbadoras da tranquilidade na rua e em locais públicos, à dissuasão de atentados à segurança de pessoas e bens e, ainda, ao controlo da entrada, permanência e saída de cidadãos nacionais e estrangeiros do país. Envolve a componente da segurança na saúde. Compreende, igualmente, as atividades de proteção pessoal aos elementos dos órgãos de soberania, a altas entidades nacionais ou estrangeiras ou a qualquer cidadão sujeito a situação de ameaça relevante. Compreende, ainda, as atividades de prestação das honras de Estado.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_ff452bbaabcb
-:nota_550.10_ff452bbaabcb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_9be07800035c
+:nota_550.10_9be07800035c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Policiamento regular de espaços públicos".
 
-:c550.10 :temNotaAplicacao :nota_550.10_ff452bbaabcb .
+:c550.10 :temNotaAplicacao :nota_550.10_9be07800035c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_bca5ef4a4c22
-:nota_550.10_bca5ef4a4c22 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_16d19742eef5
+:nota_550.10_16d19742eef5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Policiamento ou apoio policial no quadro de programas especiais (Verão Seguro, Escola Segura, Programa de proteção de idosos, etc.)".
 
-:c550.10 :temNotaAplicacao :nota_550.10_bca5ef4a4c22 .
+:c550.10 :temNotaAplicacao :nota_550.10_16d19742eef5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_5ba0725bf4c6
-:nota_550.10_5ba0725bf4c6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_ed38c9af13b2
+:nota_550.10_ed38c9af13b2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Operações de segurança rodoviária".
 
-:c550.10 :temNotaAplicacao :nota_550.10_5ba0725bf4c6 .
+:c550.10 :temNotaAplicacao :nota_550.10_ed38c9af13b2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_cc6ebd286803
-:nota_550.10_cc6ebd286803 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_ea887607d02e
+:nota_550.10_ea887607d02e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio policial a eventos de alto risco ou iniciativas específicas (manifestações, concentrações, desfiles, cortejos, provas desportivas, entre outros)".
 
-:c550.10 :temNotaAplicacao :nota_550.10_cc6ebd286803 .
+:c550.10 :temNotaAplicacao :nota_550.10_ea887607d02e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_929689bee91c
-:nota_550.10_929689bee91c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_eb57929bee5f
+:nota_550.10_eb57929bee5f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Segurança a pessoas e comitivas".
 
-:c550.10 :temNotaAplicacao :nota_550.10_929689bee91c .
+:c550.10 :temNotaAplicacao :nota_550.10_eb57929bee5f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_7781c3600084
-:nota_550.10_7781c3600084 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_5a2142ab1849
+:nota_550.10_5a2142ab1849 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Policiamento a infraestruturas críticas (transportes, redes de energia, água, comunicações, infraestruturas logísticas, entre outras)".
 
-:c550.10 :temNotaAplicacao :nota_550.10_7781c3600084 .
+:c550.10 :temNotaAplicacao :nota_550.10_5a2142ab1849 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_c480c6861e96
-:nota_550.10_c480c6861e96 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_cdd791ba24a7
+:nota_550.10_cdd791ba24a7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Interdições de utilização decididas por entidades administrativas (por exemplo, interdição de utilização de praia)".
 
-:c550.10 :temNotaAplicacao :nota_550.10_c480c6861e96 .
+:c550.10 :temNotaAplicacao :nota_550.10_cdd791ba24a7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_393b8d3f3b4d
-:nota_550.10_393b8d3f3b4d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_b783e3fe6bd1
+:nota_550.10_b783e3fe6bd1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio de forças de segurança a diligências diversas (circulação de boletins de voto, entrega de exames, realização de notificações, etc.)".
 
-:c550.10 :temNotaAplicacao :nota_550.10_393b8d3f3b4d .
+:c550.10 :temNotaAplicacao :nota_550.10_b783e3fe6bd1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_a7edca847002
-:nota_550.10_a7edca847002 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_f34785649852
+:nota_550.10_f34785649852 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Interceção e controlo de pessoas na fronteira".
 
-:c550.10 :temNotaAplicacao :nota_550.10_a7edca847002 .
+:c550.10 :temNotaAplicacao :nota_550.10_f34785649852 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_e9b4e3d2a35d
-:nota_550.10_e9b4e3d2a35d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_d4b2da3bf4aa
+:nota_550.10_d4b2da3bf4aa rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Ações de admissão/readmissão, afastamento, expulsão administrativa e condução à fronteira de pessoas em situação irregular".
 
-:c550.10 :temNotaAplicacao :nota_550.10_e9b4e3d2a35d .
+:c550.10 :temNotaAplicacao :nota_550.10_d4b2da3bf4aa .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_f384f8ee304d
-:nota_550.10_f384f8ee304d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10_58aaccff7847
+:nota_550.10_58aaccff7847 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Quando haja lugar a operações ou ações que careçam de autorização prévia ou ratificação do Ministério Público (ilícitos criminais) deverá ser iniciado processo em \"Administração da justiça/Prevenção e investigação criminal\" (600.10)".
 
-:c550.10 :temNotaExclusao :nota_550.10_f384f8ee304d .
+:c550.10 :temNotaExclusao :nota_550.10_58aaccff7847 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c550.10.001
@@ -172,93 +172,93 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Operações de guarda, de vigia e de apoio à mobilidade, em situações de rotina ou no âmbito de acontecimentos ocasionais e temporários onde a previsão de risco é reduzida, em espaços públicos ou abertos ao público, edifícios e equipamentos públicos, costa marítima, cursos fluviais, parques, matas e florestas. Inicia com a ação planeada e termina com o relato da operação. Inclui indicação do pagamento do serviço, quando devido, alocação de meios e recursos adequados, captação e tratamento de imagem e som, sinalização de ocorrências, emissão da alerta aquando da deteção de anomalias e correspondente atuação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_eaacab5e8696
-:nota_550.10.001_eaacab5e8696 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_559760b41543
+:nota_550.10.001_559760b41543 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Monitorização de recursos tecnológicos de vigilância".
 
-:c550.10.001 :temNotaAplicacao :nota_550.10.001_eaacab5e8696 .
+:c550.10.001 :temNotaAplicacao :nota_550.10.001_559760b41543 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_aab4cdca6c7c
-:nota_550.10.001_aab4cdca6c7c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_89c73c38b874
+:nota_550.10.001_89c73c38b874 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Operações de policiamento de espaço público e aberto ao público que decorram da requisição dos serviços de segurança por entidades públicas e privadas".
 
-:c550.10.001 :temNotaAplicacao :nota_550.10.001_aab4cdca6c7c .
+:c550.10.001 :temNotaAplicacao :nota_550.10.001_89c73c38b874 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_4d5af8fe2ac0
-:nota_550.10.001_4d5af8fe2ac0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_85715db79d9e
+:nota_550.10.001_85715db79d9e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Operações de regulação do trânsito rodoviário e pedonal".
 
-:c550.10.001 :temNotaAplicacao :nota_550.10.001_4d5af8fe2ac0 .
+:c550.10.001 :temNotaAplicacao :nota_550.10.001_85715db79d9e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_683e1cbaee6f
-:nota_550.10.001_683e1cbaee6f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_9e9ca4e45aa2
+:nota_550.10.001_9e9ca4e45aa2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reposição da ordem e gestão de incidentes de segurança que decorra do policiamento do espaço público e aberto ao público".
 
-:c550.10.001 :temNotaAplicacao :nota_550.10.001_683e1cbaee6f .
+:c550.10.001 :temNotaAplicacao :nota_550.10.001_9e9ca4e45aa2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_7a6e71b25b40
-:nota_550.10.001_7a6e71b25b40 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_a098ac3b41ae
+:nota_550.10.001_a098ac3b41ae rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Policiamento de proximidade".
 
-:c550.10.001 :temNotaAplicacao :nota_550.10.001_7a6e71b25b40 .
+:c550.10.001 :temNotaAplicacao :nota_550.10.001_a098ac3b41ae .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_01340ee6ad50
-:nota_550.10.001_01340ee6ad50 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_32cad0ce5474
+:nota_550.10.001_32cad0ce5474 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Operações para garantir a segurança rodoviária".
 
-:c550.10.001 :temNotaAplicacao :nota_550.10.001_01340ee6ad50 .
+:c550.10.001 :temNotaAplicacao :nota_550.10.001_32cad0ce5474 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_6bdfb850e498
-:nota_550.10.001_6bdfb850e498 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_4be6b7a9a33b
+:nota_550.10.001_4be6b7a9a33b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A segurança e vigilância de instalações e equipamentos públicos que não seja realizada por forças de segurança deve ser considerada em 300.40.504 – Controlo de segurança e vigilância de instalações e equipamentos".
 
-:c550.10.001 :temNotaExclusao :nota_550.10.001_6bdfb850e498 .
+:c550.10.001 :temNotaExclusao :nota_550.10.001_4be6b7a9a33b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_54edeac6db26
-:nota_550.10.001_54edeac6db26 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_9eee8d9733a5
+:nota_550.10.001_9eee8d9733a5 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processamento da requisição de serviços de segurança por entidades públicas e privadas deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c550.10.001 :temNotaExclusao :nota_550.10.001_54edeac6db26 .
+:c550.10.001 :temNotaExclusao :nota_550.10.001_9eee8d9733a5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_3562413bad55
-:nota_550.10.001_3562413bad55 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_0f356dd34dca
+:nota_550.10.001_0f356dd34dca rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As operações de segurança no âmbito de eventos de alto risco, bem como a Reposição da ordem e gestão de incidentes de segurança que decorra no âmbito destes eventos devem ser consideradas em 550.10.002 – Ação de segurança a eventos de alto risco".
 
-:c550.10.001 :temNotaExclusao :nota_550.10.001_3562413bad55 .
+:c550.10.001 :temNotaExclusao :nota_550.10.001_0f356dd34dca .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_32c0feb1d503
-:nota_550.10.001_32c0feb1d503 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_07c4e5f98a56
+:nota_550.10.001_07c4e5f98a56 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A Reposição da ordem e gestão de incidentes de segurança que decorra de intervenções não programadas deve ser considerada em 550.10.600 – Reposição da ordem e gestão de incidentes de segurança".
 
-:c550.10.001 :temNotaExclusao :nota_550.10.001_32c0feb1d503 .
+:c550.10.001 :temNotaExclusao :nota_550.10.001_07c4e5f98a56 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_32e15e7340f2
-:nota_550.10.001_32e15e7340f2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.001_d6dd734d4839
+:nota_550.10.001_d6dd734d4839 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processamento de contraordenação deve ser considerado em 500.30.001 – Processamento de contraordenações".
 
-:c550.10.001 :temNotaExclusao :nota_550.10.001_32e15e7340f2 .
+:c550.10.001 :temNotaExclusao :nota_550.10.001_d6dd734d4839 .
 
 :c550.10.001 :processoTipoVC :vc_processoTipo_pc .
 :c550.10.001 :processoTransversal "S" .
@@ -378,45 +378,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Operações de segurança programadas, no âmbito de iniciativas públicas ou privadas de grande visibilidade e de impacto nacional ou cuja previsão de risco seja considerada elevada. Inicia com a comunicação, interna ou externa, ou com a requisição do serviço e termina com o relato da operação. Inclui indicação do pagamento do serviço, quando devido, diagnóstico de segurança e de avaliação de risco, definição da atuação, articulação das forças de segurança, quando devido, emissão de alerta aquando da deteção de anomalias e a correspondente atuação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.002_2c219c62cc2f
-:nota_550.10.002_2c219c62cc2f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.002_402214a2423a
+:nota_550.10.002_402214a2423a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Garante e reposição da ordem e gestão de incidentes de segurança que decorra da ação de segurança a eventos de alto risco".
 
-:c550.10.002 :temNotaAplicacao :nota_550.10.002_2c219c62cc2f .
+:c550.10.002 :temNotaAplicacao :nota_550.10.002_402214a2423a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.002_43b6b7655979
-:nota_550.10.002_43b6b7655979 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.002_c51047a9fea4
+:nota_550.10.002_c51047a9fea4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Operações de policiamento a eventos de alto risco que decorram da requisição dos serviços de segurança por entidades públicas e privadas".
 
-:c550.10.002 :temNotaAplicacao :nota_550.10.002_43b6b7655979 .
+:c550.10.002 :temNotaAplicacao :nota_550.10.002_c51047a9fea4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.002_41b40a99591f
-:nota_550.10.002_41b40a99591f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.002_9f9e24f64ed5
+:nota_550.10.002_9f9e24f64ed5 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processamento da requisição de serviços de segurança por entidades públicas e privadas deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c550.10.002 :temNotaExclusao :nota_550.10.002_41b40a99591f .
+:c550.10.002 :temNotaExclusao :nota_550.10.002_9f9e24f64ed5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.002_054dd87bd691
-:nota_550.10.002_054dd87bd691 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.002_9141535bbe73
+:nota_550.10.002_9141535bbe73 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A Reposição da ordem e gestão de incidentes de segurança que decorra do policiamento do espaço público deve ser considerada em 550.10.001 – Segurança de espaços públicos e abertos ao público".
 
-:c550.10.002 :temNotaExclusao :nota_550.10.002_054dd87bd691 .
+:c550.10.002 :temNotaExclusao :nota_550.10.002_9141535bbe73 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.002_37edde883c6d
-:nota_550.10.002_37edde883c6d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.002_29198109c46c
+:nota_550.10.002_29198109c46c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A Reposição da ordem e gestão de incidentes de segurança que decorra de intervenções não programadas deve ser considerada em 550.10.600 – Reposição da ordem e gestão de incidentes de segurança".
 
-:c550.10.002 :temNotaExclusao :nota_550.10.002_37edde883c6d .
+:c550.10.002 :temNotaExclusao :nota_550.10.002_29198109c46c .
 
 :c550.10.002 :processoTipoVC :vc_processoTipo_pe .
 :c550.10.002 :processoTransversal "S" .
@@ -558,53 +558,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Prestação de serviços de proteção e segurança requeridos por forças da ordem, autoridades públicas e entidades privadas. Inicia com a requisição do serviço e termina com o relato da operação. Inclui o planeamento das condições de segurança, autorização, indicação do pagamento do serviço, quando devido, e operacionalização.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.004_da5c558209a8
-:nota_550.10.004_da5c558209a8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.004_857386727420
+:nota_550.10.004_857386727420 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Operações de policiamento de espaço público e aberto ao público que decorram da requisição dos serviços de segurança por entidades públicas e privadas".
 
-:c550.10.004 :temNotaAplicacao :nota_550.10.004_da5c558209a8 .
+:c550.10.004 :temNotaAplicacao :nota_550.10.004_857386727420 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.004_9361a425c51b
-:nota_550.10.004_9361a425c51b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.004_07a3b1a0846a
+:nota_550.10.004_07a3b1a0846a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Requisição de forças da ordem para apoio de segurança a operações de investigação criminal (ex.: buscas)".
 
-:c550.10.004 :temNotaAplicacao :nota_550.10.004_9361a425c51b .
+:c550.10.004 :temNotaAplicacao :nota_550.10.004_07a3b1a0846a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.004_a201e458b298
-:nota_550.10.004_a201e458b298 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.004_0e80379a51a1
+:nota_550.10.004_0e80379a51a1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Saídas do recluso do estabelecimento prisional em caso de transferência, temporária ou definitiva, para estabelecimento ou unidade diferente daquele a que está afeto".
 
-:c550.10.004 :temNotaAplicacao :nota_550.10.004_a201e458b298 .
+:c550.10.004 :temNotaAplicacao :nota_550.10.004_0e80379a51a1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.004_18842f11d734
-:nota_550.10.004_18842f11d734 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.004_dd59df625418
+:nota_550.10.004_dd59df625418 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Deslocações do recluso para comparência em atos processuais, internamento hospitalar ou realização de ato médico no exterior, visitas íntimas, saídas para realização de atividades e saídas especiais".
 
-:c550.10.004 :temNotaAplicacao :nota_550.10.004_18842f11d734 .
+:c550.10.004 :temNotaAplicacao :nota_550.10.004_dd59df625418 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.004_090a03c30a61
-:nota_550.10.004_090a03c30a61 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.004_c2dbbb5547a7
+:nota_550.10.004_c2dbbb5547a7 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processamento da requisição de serviços de segurança por entidades públicas e privadas deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c550.10.004 :temNotaExclusao :nota_550.10.004_090a03c30a61 .
+:c550.10.004 :temNotaExclusao :nota_550.10.004_c2dbbb5547a7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.004_733452edb5b5
-:nota_550.10.004_733452edb5b5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.004_8174db314d96
+:nota_550.10.004_8174db314d96 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As diligências processuais devem ser consideradas no âmbito dos respetivos processos".
 
-:c550.10.004 :temNotaExclusao :nota_550.10.004_733452edb5b5 .
+:c550.10.004 :temNotaExclusao :nota_550.10.004_8174db314d96 .
 
 :c550.10.004 :processoTipoVC :vc_processoTipo_pc .
 :c550.10.004 :processoTransversal "S" .
@@ -719,29 +719,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Operações de segurança e proteção de infraestruturas críticas, de pontos sensíveis e espaços considerados potencialmente de elevado grau de ameaça e risco. Inicia com a ordem de operação e termina com o relatório. Inclui, no âmbito de cada ação, a planificação, a análise do grau de ameaça e a avaliação do risco.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.005_7a27aff2b7b0
-:nota_550.10.005_7a27aff2b7b0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.005_9a248ad93e93
+:nota_550.10.005_9a248ad93e93 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Vigilância e proteção de infraestruturas rodoviárias, ferroviárias, aeroportuárias, portuárias, emissoras de radiações ionizantes e outras instalações críticas".
 
-:c550.10.005 :temNotaAplicacao :nota_550.10.005_7a27aff2b7b0 .
+:c550.10.005 :temNotaAplicacao :nota_550.10.005_9a248ad93e93 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.005_9ab9adb6b30b
-:nota_550.10.005_9ab9adb6b30b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.005_a74f3a994baf
+:nota_550.10.005_a74f3a994baf rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As ações de vigilância e proteção a edifícios públicos devem ser consideradas em 550.10.001 – Segurança de espaços públicos e abertos ao público".
 
-:c550.10.005 :temNotaExclusao :nota_550.10.005_9ab9adb6b30b .
+:c550.10.005 :temNotaExclusao :nota_550.10.005_a74f3a994baf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.005_4cabda2039e2
-:nota_550.10.005_4cabda2039e2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.005_d8cfc9659097
+:nota_550.10.005_d8cfc9659097 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As ações de segurança das instalações de órgãos de soberania devem ser consideradas em 550.10.006 – Segurança a órgãos de soberania e altas entidades".
 
-:c550.10.005 :temNotaExclusao :nota_550.10.005_4cabda2039e2 .
+:c550.10.005 :temNotaExclusao :nota_550.10.005_d8cfc9659097 .
 
 :c550.10.005 :processoTipoVC :vc_processoTipo_pe .
 :c550.10.005 :processoTransversal "S" .
@@ -840,29 +840,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Operações que visam garantir a segurança das instalações de órgãos de soberania, segurança pessoal de membros de órgãos de soberania e de altas entidades nacionais ou estrangeiras, e de outros cidadãos, quando sujeitos a situação de ameaça relevante. Inicia com a ordem de operações e termina com a elaboração do relatório. Inclui análise de grau de ameaça, avaliação de risco e alternativa de atuação. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.006_3babb2f65df3
-:nota_550.10.006_3babb2f65df3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.006_fa6ae4d0223b
+:nota_550.10.006_fa6ae4d0223b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Todas as ações relacionadas com a garantia da segurança a órgãos de soberania".
 
-:c550.10.006 :temNotaAplicacao :nota_550.10.006_3babb2f65df3 .
+:c550.10.006 :temNotaAplicacao :nota_550.10.006_fa6ae4d0223b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.006_d08c4b0b2160
-:nota_550.10.006_d08c4b0b2160 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.006_a733d065aa10
+:nota_550.10.006_a733d065aa10 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As escalas devem ser consideradas em 150.20.101 – Planeamento estratégico de atividades".
 
-:c550.10.006 :temNotaExclusao :nota_550.10.006_d08c4b0b2160 .
+:c550.10.006 :temNotaExclusao :nota_550.10.006_a733d065aa10 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.006_c5ff42b3b30e
-:nota_550.10.006_c5ff42b3b30e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.006_eb3cf239f7ef
+:nota_550.10.006_eb3cf239f7ef rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processamento de gratificações e montantes compensatórios devem ser considerados em 350.10.600 – Lançamento de receitas e de despesas".
 
-:c550.10.006 :temNotaExclusao :nota_550.10.006_c5ff42b3b30e .
+:c550.10.006 :temNotaExclusao :nota_550.10.006_eb3cf239f7ef .
 
 :c550.10.006 :processoTipoVC :vc_processoTipo_pe .
 :c550.10.006 :processoTransversal "S" .
@@ -942,21 +942,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Prestação de escolta e guarda de honra aos órgãos de soberania e de altas entidades, bem como à prestação de honras de Estado. Inicia com o pedido e termina com o relatório da ação. Inclui a realização da ação. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.007_9344149d9f5c
-:nota_550.10.007_9344149d9f5c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.007_1113da62a5dd
+:nota_550.10.007_1113da62a5dd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação de escolta e guarda de honra a órgãos de soberania e de outras altas entidades que lhe sejam confiadas".
 
-:c550.10.007 :temNotaAplicacao :nota_550.10.007_9344149d9f5c .
+:c550.10.007 :temNotaAplicacao :nota_550.10.007_1113da62a5dd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.007_5cd5be080751
-:nota_550.10.007_5cd5be080751 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.007_af374d448f9d
+:nota_550.10.007_af374d448f9d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Prestação de honras de Estado".
 
-:c550.10.007 :temNotaAplicacao :nota_550.10.007_5cd5be080751 .
+:c550.10.007 :temNotaAplicacao :nota_550.10.007_af374d448f9d .
 
 :c550.10.007 :processoTipoVC :vc_processoTipo_pe .
 :c550.10.007 :processoTransversal "S" .
@@ -1026,69 +1026,69 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Operações de controlo das entradas e saídas de pessoas de território nacional através de fronteiras externas, que provenham de, ou se destinem a Estados que não sejam parte da Convenção de Aplicação, ou que utilizem um troço interno de um voo com origem ou destino em Estados que não sejam parte da Convenção, para verificação da conformidade das condições do movimento fronteiriço realizado, e de controlo sobre as zonas internacionais dos portos e dos aeroportos, nomeadamente autorizando ou recusando o acesso de passageiros a tais zonas. Inicia com a apresentação dos documentos de viagem do cidadão cujo movimento está a ser controlado e termina com a autorização de entrada ou saída, através de aposição de carimbo de movimento quando aplicável ou com a recusa de entrada ou saída, no caso das fronteiras aéreas, e com o desembaraço dos navios, no caso das fronteiras marítimas. Integra a verificação da validade e autenticidade dos documentos de viagem, a verificação do visto e a conformidade dos fins para que foi atribuído e de outra documentação relevante, como sejam declarações dos progenitores autorizando a viagens a menores, comprovativo de meios de subsistência, e consultas às bases de dados de segurança. Em caso de irregularidades origina um relatório de ocorrência. Inclui eventual cooperação com outras entidades, com elaboração de planos de atuação, ordens de operações e relatórios de ocorrências. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.008_b96ad69d7b62
-:nota_550.10.008_b96ad69d7b62 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.008_3165264f47ca
+:nota_550.10.008_3165264f47ca rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Vigilância e fiscalização nos postos de fronteira, incluindo a zona internacional dos portos e aeroportos".
 
-:c550.10.008 :temNotaAplicacao :nota_550.10.008_b96ad69d7b62 .
+:c550.10.008 :temNotaAplicacao :nota_550.10.008_3165264f47ca .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.008_3066f8c51df8
-:nota_550.10.008_3066f8c51df8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.008_35788097db85
+:nota_550.10.008_35788097db85 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Controlo de circulação de pessoas nas fronteiras externas".
 
-:c550.10.008 :temNotaAplicacao :nota_550.10.008_3066f8c51df8 .
+:c550.10.008 :temNotaAplicacao :nota_550.10.008_35788097db85 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.008_d03243d985c8
-:nota_550.10.008_d03243d985c8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.008_f7866ab2f7d0
+:nota_550.10.008_f7866ab2f7d0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Interceção de pessoas nos postos de fronteira, aéreos e marítimos, para verificação da conformidade das suas condições de entrada no país".
 
-:c550.10.008 :temNotaAplicacao :nota_550.10.008_d03243d985c8 .
+:c550.10.008 :temNotaAplicacao :nota_550.10.008_f7866ab2f7d0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.008_9593d1e6e03e
-:nota_550.10.008_9593d1e6e03e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.008_b09ab8f09736
+:nota_550.10.008_b09ab8f09736 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Impedimento de entrada ou saída do território nacional de pessoas que não satisfaçam os requisitos legais exigíveis para o efeito".
 
-:c550.10.008 :temNotaAplicacao :nota_550.10.008_9593d1e6e03e .
+:c550.10.008 :temNotaAplicacao :nota_550.10.008_b09ab8f09736 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.008_4f8526a261e2
-:nota_550.10.008_4f8526a261e2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.008_422a3ab6d4b7
+:nota_550.10.008_422a3ab6d4b7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Controlo do desembarque de passageiros e tripulantes de embarcações e aeronaves".
 
-:c550.10.008 :temNotaAplicacao :nota_550.10.008_4f8526a261e2 .
+:c550.10.008 :temNotaAplicacao :nota_550.10.008_422a3ab6d4b7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.008_1c8d5c9826f2
-:nota_550.10.008_1c8d5c9826f2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.008_15e3536f192f
+:nota_550.10.008_15e3536f192f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A emissão de vistos deve ser considerada em 550.10.301 – Emissão de vistos".
 
-:c550.10.008 :temNotaExclusao :nota_550.10.008_1c8d5c9826f2 .
+:c550.10.008 :temNotaExclusao :nota_550.10.008_15e3536f192f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.008_66f89efebc57
-:nota_550.10.008_66f89efebc57 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.008_bf905cc26bd3
+:nota_550.10.008_bf905cc26bd3 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A fiscalização da carga e mercadorias nas fronteiras deve ser considerada em 500.10.301 – Realização de fiscalização".
 
-:c550.10.008 :temNotaExclusao :nota_550.10.008_66f89efebc57 .
+:c550.10.008 :temNotaExclusao :nota_550.10.008_bf905cc26bd3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.008_b7fc1bb00b27
-:nota_550.10.008_b7fc1bb00b27 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.008_d576cdd9ae1a
+:nota_550.10.008_d576cdd9ae1a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O patrulhamento das fronteiras deve ser considerado em 550.10.009 – Vigilância da fronteira".
 
-:c550.10.008 :temNotaExclusao :nota_550.10.008_b7fc1bb00b27 .
+:c550.10.008 :temNotaExclusao :nota_550.10.008_d576cdd9ae1a .
 
 :c550.10.008 :processoTipoVC :vc_processoTipo_pe .
 :c550.10.008 :processoTransversal "S" .
@@ -1171,61 +1171,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Operações policiais destinadas a vigiar, patrulhar e controlar as fronteiras do espaço sob soberania e jurisdição nacional, do Continente e das Regiões Autónomas, bem como da fronteira comunitária. Inicia a preparação com a decisão do Comandante, com a denúncia de infrações ou com a requisição de entidades/organismos parceiros. Termina com o relatório da operação ou da guia de patrulha. Inclui a operacionalização da missão.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.009_7add0ffa1a3f
-:nota_550.10.009_7add0ffa1a3f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.009_7691bfd84f0d
+:nota_550.10.009_7691bfd84f0d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Todas as operações policiais de vigilância das fronteiras terrestre, marítima ou aérea".
 
-:c550.10.009 :temNotaAplicacao :nota_550.10.009_7add0ffa1a3f .
+:c550.10.009 :temNotaAplicacao :nota_550.10.009_7691bfd84f0d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.009_a5fcd52a0025
-:nota_550.10.009_a5fcd52a0025 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.009_1c5f320355d9
+:nota_550.10.009_1c5f320355d9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Aplica-se, ainda, às seguintes situações".
 
-:c550.10.009 :temNotaAplicacao :nota_550.10.009_a5fcd52a0025 .
+:c550.10.009 :temNotaAplicacao :nota_550.10.009_1c5f320355d9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.009_89fa6845c751
-:nota_550.10.009_89fa6845c751 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.009_ac099f7e911f
+:nota_550.10.009_ac099f7e911f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Preservação e proteção ambiental e da prevenção da criminalidade".
 
-:c550.10.009 :temNotaAplicacao :nota_550.10.009_89fa6845c751 .
+:c550.10.009 :temNotaAplicacao :nota_550.10.009_ac099f7e911f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.009_ba66cdc3062e
-:nota_550.10.009_ba66cdc3062e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.009_b614f812f983
+:nota_550.10.009_b614f812f983 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Garantir a livre circulação no território nacional e defesa de portos e aeroportos".
 
-:c550.10.009 :temNotaAplicacao :nota_550.10.009_ba66cdc3062e .
+:c550.10.009 :temNotaAplicacao :nota_550.10.009_b614f812f983 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.009_2f75ea66f543
-:nota_550.10.009_2f75ea66f543 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.009_dc757a903686
+:nota_550.10.009_dc757a903686 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Vigiar e controlar as principais rotas internacionais aéreas e marítimas que intersetam o Espaço Estratégico de Interesse Nacional Permanente".
 
-:c550.10.009 :temNotaAplicacao :nota_550.10.009_2f75ea66f543 .
+:c550.10.009 :temNotaAplicacao :nota_550.10.009_dc757a903686 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.009_58ee337fd984
-:nota_550.10.009_58ee337fd984 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.009_6e487ef895ad
+:nota_550.10.009_6e487ef895ad rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As operações de controlo das entradas e saídas de pessoas pelas fronteiras do território nacional devem ser consideradas em 550.10.008 – Controlo de pessoas nas fronteiras".
 
-:c550.10.009 :temNotaExclusao :nota_550.10.009_58ee337fd984 .
+:c550.10.009 :temNotaExclusao :nota_550.10.009_6e487ef895ad .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.009_5ef9ac38a449
-:nota_550.10.009_5ef9ac38a449 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.009_8ee892307a57
+:nota_550.10.009_8ee892307a57 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A fiscalização da carga e mercadorias nas fronteiras deve ser considerada em 500.10.301 – Realização de fiscalização".
 
-:c550.10.009 :temNotaExclusao :nota_550.10.009_5ef9ac38a449 .
+:c550.10.009 :temNotaExclusao :nota_550.10.009_8ee892307a57 .
 
 :c550.10.009 :processoTipoVC :vc_processoTipo_pe .
 :c550.10.009 :processoTransversal "S" .
@@ -1314,101 +1314,101 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Utilização dos meios comuns e dos meios especiais de segurança que têm em vista a manutenção da ordem e da segurança no estabelecimento prisional. Inicia com a ação a realizar e termina com o registo da operação. Inclui o controlo de visitantes efetuado no momento de entrada e saída no estabelecimento por elemento dos serviços de vigilância e segurança.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_07c7ee5a8863
-:nota_550.10.010_07c7ee5a8863 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_3520b0828d3b
+:nota_550.10.010_3520b0828d3b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Ações de observação de reclusos, nomeadamente, durante o período noturno".
 
-:c550.10.010 :temNotaAplicacao :nota_550.10.010_07c7ee5a8863 .
+:c550.10.010 :temNotaAplicacao :nota_550.10.010_3520b0828d3b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_1a0b756ff5bd
-:nota_550.10.010_1a0b756ff5bd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_c4d684866bfa
+:nota_550.10.010_c4d684866bfa rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Controlo periódico de presenças (contexto prisional)".
 
-:c550.10.010 :temNotaAplicacao :nota_550.10.010_1a0b756ff5bd .
+:c550.10.010 :temNotaAplicacao :nota_550.10.010_c4d684866bfa .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_3d516f2f778c
-:nota_550.10.010_3d516f2f778c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_395ff7a70600
+:nota_550.10.010_395ff7a70600 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Batimento de grades".
 
-:c550.10.010 :temNotaAplicacao :nota_550.10.010_3d516f2f778c .
+:c550.10.010 :temNotaAplicacao :nota_550.10.010_395ff7a70600 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_fe9fac76977e
-:nota_550.10.010_fe9fac76977e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_d80d25baa41b
+:nota_550.10.010_d80d25baa41b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Revista pessoal (em contexto prisional)".
 
-:c550.10.010 :temNotaAplicacao :nota_550.10.010_fe9fac76977e .
+:c550.10.010 :temNotaAplicacao :nota_550.10.010_d80d25baa41b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_6c21aad66cce
-:nota_550.10.010_6c21aad66cce rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_f55f92b19952
+:nota_550.10.010_f55f92b19952 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Busca (em contexto prisional)".
 
-:c550.10.010 :temNotaAplicacao :nota_550.10.010_6c21aad66cce .
+:c550.10.010 :temNotaAplicacao :nota_550.10.010_f55f92b19952 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_c280fc68dde8
-:nota_550.10.010_c280fc68dde8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_dac261da6d9b
+:nota_550.10.010_dac261da6d9b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Recurso a meios cinotécnicos e de videovigilância (em contexto prisional)".
 
-:c550.10.010 :temNotaAplicacao :nota_550.10.010_c280fc68dde8 .
+:c550.10.010 :temNotaAplicacao :nota_550.10.010_dac261da6d9b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_e54a5bfbcc9f
-:nota_550.10.010_e54a5bfbcc9f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_6eee0a553a78
+:nota_550.10.010_6eee0a553a78 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apreensão temporária de objetos a recluso".
 
-:c550.10.010 :temNotaAplicacao :nota_550.10.010_e54a5bfbcc9f .
+:c550.10.010 :temNotaAplicacao :nota_550.10.010_6eee0a553a78 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_9eab6e2e74a1
-:nota_550.10.010_9eab6e2e74a1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_60544f579110
+:nota_550.10.010_60544f579110 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Privação ou restrição do convívio com determinados reclusos ou do acesso a espaços comuns do estabelecimento prisional".
 
-:c550.10.010 :temNotaAplicacao :nota_550.10.010_9eab6e2e74a1 .
+:c550.10.010 :temNotaAplicacao :nota_550.10.010_60544f579110 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_db3890f417f6
-:nota_550.10.010_db3890f417f6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_f1ba5794c340
+:nota_550.10.010_f1ba5794c340 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Utilização de algemas em recluso".
 
-:c550.10.010 :temNotaAplicacao :nota_550.10.010_db3890f417f6 .
+:c550.10.010 :temNotaAplicacao :nota_550.10.010_f1ba5794c340 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_a6a81ec353a5
-:nota_550.10.010_a6a81ec353a5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_eb0570f263be
+:nota_550.10.010_eb0570f263be rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Colocação de recluso em cela de separação da restante população prisional e de colocação em quarto de segurança".
 
-:c550.10.010 :temNotaAplicacao :nota_550.10.010_a6a81ec353a5 .
+:c550.10.010 :temNotaAplicacao :nota_550.10.010_eb0570f263be .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_ae809d746471
-:nota_550.10.010_ae809d746471 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_53f5cf7c6577
+:nota_550.10.010_53f5cf7c6577 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Utilização de meios coercivos em recluso".
 
-:c550.10.010 :temNotaAplicacao :nota_550.10.010_ae809d746471 .
+:c550.10.010 :temNotaAplicacao :nota_550.10.010_53f5cf7c6577 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_3bc9d917f34c
-:nota_550.10.010_3bc9d917f34c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.010_604013d84ff3
+:nota_550.10.010_604013d84ff3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Ações de vigilância e controlo de visitas a reclusos".
 
-:c550.10.010 :temNotaAplicacao :nota_550.10.010_3bc9d917f34c .
+:c550.10.010 :temNotaAplicacao :nota_550.10.010_604013d84ff3 .
 
 :c550.10.010 :processoTipoVC :vc_processoTipo_pe .
 :c550.10.010 :processoTransversal "N" .
@@ -1474,21 +1474,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Operações de segurança e proteção no ciberespaço, nomeadamente das redes, dos sistemas e dos serviços vitais de informação e comunicação, contra ameaças que ponham em risco o espaço de liberdade individual e coletiva. Inicia com a ação de vigilância, constatação de uma vulnerabilidade, existência de ameaça ou denúncia e termina com a reposição da segurança dos sistemas e infraestruturas de comunicação. Inclui a prevenção, monotorização, análise de risco, a deteção de intrusão, coordenação das ações tendo em vista a reposição da segurança.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.011_54ce3162304c
-:nota_550.10.011_54ce3162304c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.011_700135cb7509
+:nota_550.10.011_700135cb7509 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reporte de incidentes de cibersegurança, à interoperabilidade e o acesso entre os sistemas de informação das entidades que fazem parte do Sistema de Segurança Interna".
 
-:c550.10.011 :temNotaAplicacao :nota_550.10.011_54ce3162304c .
+:c550.10.011 :temNotaAplicacao :nota_550.10.011_700135cb7509 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.011_4b00417db6a5
-:nota_550.10.011_4b00417db6a5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.011_3884fa1675ff
+:nota_550.10.011_3884fa1675ff rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A investigação e prevenção criminal da cibercriminalidade.  coadjuvação judiciária, a preservação da prova, a prevenção criminal deve ser considerada em \"Administração da justiça/Prevenção e investigação criminal\" (600.10)".
 
-:c550.10.011 :temNotaExclusao :nota_550.10.011_4b00417db6a5 .
+:c550.10.011 :temNotaExclusao :nota_550.10.011_3884fa1675ff .
 
 :c550.10.011 :processoTipoVC :vc_processoTipo_pe .
 :c550.10.011 :processoTransversal "S" .
@@ -1579,93 +1579,93 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Definição da distribuição de sinalética destinada a transmitir aos utentes perigos, obrigações, restrições, proibições, indicações, avisos e orientações. Inicia com a identificação de necessidades ou com o pedido de interessados e termina com o registo da retirada da sinalética. Inclui diagnóstico, desenho do projeto, a indicação do cadastro da sinalética e colocação da sinalização.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_833f2656979c
-:nota_550.10.300_833f2656979c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_1efc35f841c5
+:nota_550.10.300_1efc35f841c5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Sinalização de emergência e socorro colocada em instalações e equipamentos públicos".
 
-:c550.10.300 :temNotaAplicacao :nota_550.10.300_833f2656979c .
+:c550.10.300 :temNotaAplicacao :nota_550.10.300_1efc35f841c5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_60b114b3175e
-:nota_550.10.300_60b114b3175e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_6dfca83d74ae
+:nota_550.10.300_6dfca83d74ae rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Sinalização de locais de risco público".
 
-:c550.10.300 :temNotaAplicacao :nota_550.10.300_60b114b3175e .
+:c550.10.300 :temNotaAplicacao :nota_550.10.300_6dfca83d74ae .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_944bad053422
-:nota_550.10.300_944bad053422 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_0e70924f4268
+:nota_550.10.300_0e70924f4268 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Sinalização de contaminação de água".
 
-:c550.10.300 :temNotaAplicacao :nota_550.10.300_944bad053422 .
+:c550.10.300 :temNotaAplicacao :nota_550.10.300_0e70924f4268 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_1a15b6e5b446
-:nota_550.10.300_1a15b6e5b446 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_abffc13c4277
+:nota_550.10.300_abffc13c4277 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Sinalização de obras em curso".
 
-:c550.10.300 :temNotaAplicacao :nota_550.10.300_1a15b6e5b446 .
+:c550.10.300 :temNotaAplicacao :nota_550.10.300_abffc13c4277 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_700f52d2d7d0
-:nota_550.10.300_700f52d2d7d0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_d6206a2bd455
+:nota_550.10.300_d6206a2bd455 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Sinalização de intervenção em arribas".
 
-:c550.10.300 :temNotaAplicacao :nota_550.10.300_700f52d2d7d0 .
+:c550.10.300 :temNotaAplicacao :nota_550.10.300_d6206a2bd455 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_be479cc3e5d0
-:nota_550.10.300_be479cc3e5d0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_6731eb1dca55
+:nota_550.10.300_6731eb1dca55 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Sinalização de trânsito".
 
-:c550.10.300 :temNotaAplicacao :nota_550.10.300_be479cc3e5d0 .
+:c550.10.300 :temNotaAplicacao :nota_550.10.300_6731eb1dca55 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_82730980e0ed
-:nota_550.10.300_82730980e0ed rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_8d9e225e79ab
+:nota_550.10.300_8d9e225e79ab rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A elaboração de planos de segurança ou de proteção deve ser considerada em processos de negócio de 150 – Planeamento e Gestão Estratégica em função do âmbito de aplicação nacional, regional, municipal ou organizacional do instrumento de planeamento".
 
-:c550.10.300 :temNotaExclusao :nota_550.10.300_82730980e0ed .
+:c550.10.300 :temNotaExclusao :nota_550.10.300_8d9e225e79ab .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_e96f2a12b46a
-:nota_550.10.300_e96f2a12b46a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_21b777fc3e79
+:nota_550.10.300_21b777fc3e79 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A manutenção e reparação da sinalização devem ser consideradas em 300.40.503 – Conservação e valorização de edifícios, infraestruturas e equipamentos públicos".
 
-:c550.10.300 :temNotaExclusao :nota_550.10.300_e96f2a12b46a .
+:c550.10.300 :temNotaExclusao :nota_550.10.300_21b777fc3e79 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_34880497b61b
-:nota_550.10.300_34880497b61b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_0d4f2d2e1ba1
+:nota_550.10.300_0d4f2d2e1ba1 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A participação de danos em sinalização de segurança deve ser considerada em 300.40.509 – Manutenção e reparação de bens móveis duradouros".
 
-:c550.10.300 :temNotaExclusao :nota_550.10.300_34880497b61b .
+:c550.10.300 :temNotaExclusao :nota_550.10.300_0d4f2d2e1ba1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_b1fff9692070
-:nota_550.10.300_b1fff9692070 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_e9611356cd13
+:nota_550.10.300_e9611356cd13 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O plano de segurança deve ser considerado em 150.10.200 – Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional".
 
-:c550.10.300 :temNotaExclusao :nota_550.10.300_b1fff9692070 .
+:c550.10.300 :temNotaExclusao :nota_550.10.300_e9611356cd13 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_fb16ad1d192f
-:nota_550.10.300_fb16ad1d192f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.300_a7f4af06b538
+:nota_550.10.300_a7f4af06b538 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A organização de ações de sensibilização e divulgação deve ser considerada em 900.10.502 – Organização e participação em iniciativas de prevenção e sensibilização".
 
-:c550.10.300 :temNotaExclusao :nota_550.10.300_fb16ad1d192f .
+:c550.10.300 :temNotaExclusao :nota_550.10.300_a7f4af06b538 .
 
 :c550.10.300 :processoTipoVC :vc_processoTipo_pc .
 :c550.10.300 :processoTransversal "S" .
@@ -1772,29 +1772,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Emissão de um documento a um cidadão estrangeiro, que não seja titular de autorização de residência ou não seja detentor de prorrogação de permanência, que o habilita a apresentar-se num posto de fronteira e a solicitar a entrada no país, e depois de autorizado, a entrar e permanecer em território nacional durante determinado período de tempo e para certas finalidades. Inicia com a apresentação do pedido junto da autoridade competente e termina com a concessão de visto que é aposto no documento de viagem do respetivo titular, ou com o indeferimento do pedido. Inclui a apreciação das condições do titular por parte das autoridades que emitem o visto e, em certos casos, estipulados por lei, a obtenção de pareceres prévios obrigatórios junto do Serviço de Estrangeiros e Fronteiras ou do Serviço de Informações de Segurança, consoante o caso. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.301_ea54edb82fc6
-:nota_550.10.301_ea54edb82fc6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.301_e686f77859b3
+:nota_550.10.301_e686f77859b3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de vistos para fins de escala aeroportuária, de curta duração, de estada temporária e para obtenção de autorização de residência".
 
-:c550.10.301 :temNotaAplicacao :nota_550.10.301_ea54edb82fc6 .
+:c550.10.301 :temNotaAplicacao :nota_550.10.301_e686f77859b3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.301_881a84befa0d
-:nota_550.10.301_881a84befa0d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.301_39ff03e6eac8
+:nota_550.10.301_39ff03e6eac8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de vistos por embaixadas e postos consulares".
 
-:c550.10.301 :temNotaAplicacao :nota_550.10.301_881a84befa0d .
+:c550.10.301 :temNotaAplicacao :nota_550.10.301_39ff03e6eac8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.301_fa2213156737
-:nota_550.10.301_fa2213156737 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.301_c72b6f5f69e5
+:nota_550.10.301_c72b6f5f69e5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de vistos de curta duração e especiais nos postos de fronteira pela autoridade de controlo fronteiriço".
 
-:c550.10.301 :temNotaAplicacao :nota_550.10.301_fa2213156737 .
+:c550.10.301 :temNotaAplicacao :nota_550.10.301_c72b6f5f69e5 .
 
 :c550.10.301 :processoTipoVC :vc_processoTipo_pe .
 :c550.10.301 :processoTransversal "S" .
@@ -1861,13 +1861,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Operações decorrentes da emissão de pedido de trânsito aeroportuário, efetuado junto de um Estado-membro da UE, para efeitos de afastamento por via aérea de um cidadão de Estado terceiro, com ou sem escolta, nos casos em que o afastamento não se possa realizar em voo direto. Inicia-se com a apresentação do pedido de trânsito e termina com a autorização do Estado requerido e a efetivação do afastamento, ou, excecionalmente, quando não haja resposta dentro dos prazos a que o referido Estado está obrigado, com a realização da operação de trânsito, mediante mera notificação. Inclui preenchimento do pedido de autorização de trânsito aeroportuário. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.302_323b09d837dd
-:nota_550.10.302_323b09d837dd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.302_afc724606e47
+:nota_550.10.302_afc724606e47 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Operações de afastamento de cidadãos de Estado terceiro que requeiram trânsito aeroportuário em território de Estados Membros da União Europeia".
 
-:c550.10.302 :temNotaAplicacao :nota_550.10.302_323b09d837dd .
+:c550.10.302 :temNotaAplicacao :nota_550.10.302_afc724606e47 .
 
 :c550.10.302 :processoTipoVC :vc_processoTipo_pe .
 :c550.10.302 :processoTransversal "N" .
@@ -1923,61 +1923,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Concessão de autorização a cidadãos de país terceiro para residência em território nacional. Inicia com pedido de autorização de residência por parte do interessado e termina com a notificação da decisão. Inclui fundamentação, análise dos requisitos e decisão. Inclui, ainda, cancelamento e renovação. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.303_afe48d9c405a
-:nota_550.10.303_afe48d9c405a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.303_3dafce02c094
+:nota_550.10.303_3dafce02c094 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Autorização de residência para exercício de atividade profissional subordinada ou independente".
 
-:c550.10.303 :temNotaAplicacao :nota_550.10.303_afe48d9c405a .
+:c550.10.303 :temNotaAplicacao :nota_550.10.303_3dafce02c094 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.303_6a10819e5e31
-:nota_550.10.303_6a10819e5e31 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.303_7212a403c57e
+:nota_550.10.303_7212a403c57e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atividade de investigação ou altamente qualificada".
 
-:c550.10.303 :temNotaAplicacao :nota_550.10.303_6a10819e5e31 .
+:c550.10.303 :temNotaAplicacao :nota_550.10.303_7212a403c57e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.303_2b42df1499bf
-:nota_550.10.303_2b42df1499bf rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.303_76968d1cb17b
+:nota_550.10.303_76968d1cb17b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Estudo, estágio profissional não remunerado ou voluntariado".
 
-:c550.10.303 :temNotaAplicacao :nota_550.10.303_2b42df1499bf .
+:c550.10.303 :temNotaAplicacao :nota_550.10.303_76968d1cb17b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.303_4b1fb7fc43dc
-:nota_550.10.303_4b1fb7fc43dc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.303_1b37de6efe04
+:nota_550.10.303_1b37de6efe04 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Investimento".
 
-:c550.10.303 :temNotaAplicacao :nota_550.10.303_4b1fb7fc43dc .
+:c550.10.303 :temNotaAplicacao :nota_550.10.303_1b37de6efe04 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.303_3e207a2ef0f1
-:nota_550.10.303_3e207a2ef0f1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.303_a341d3d65254
+:nota_550.10.303_a341d3d65254 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Vítimas de tráfico de seres humanos ou de auxílio à emigração ilegal".
 
-:c550.10.303 :temNotaAplicacao :nota_550.10.303_3e207a2ef0f1 .
+:c550.10.303 :temNotaAplicacao :nota_550.10.303_a341d3d65254 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.303_93375e700faa
-:nota_550.10.303_93375e700faa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.303_4959b7816858
+:nota_550.10.303_4959b7816858 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reagrupamento familiar".
 
-:c550.10.303 :temNotaAplicacao :nota_550.10.303_93375e700faa .
+:c550.10.303 :temNotaAplicacao :nota_550.10.303_4959b7816858 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.303_7694e1cbca6b
-:nota_550.10.303_7694e1cbca6b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.303_1dd8bd927da9
+:nota_550.10.303_1dd8bd927da9 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pedidos de nacionais de um Estado-membro da UE, de um Estado parte do EEE, nacionais de Estados terceiros, familiares de cidadão português e nacionais de Estados terceiros que residam em território nacional na qualidade de refugiados, beneficiários de proteção subsidiária prevista na legislação do asilo ou beneficiários de proteção temporária, devem ser considerados em 550.10.305 – Processamento de pedidos de asilo".
 
-:c550.10.303 :temNotaExclusao :nota_550.10.303_7694e1cbca6b .
+:c550.10.303 :temNotaExclusao :nota_550.10.303_1dd8bd927da9 .
 
 :c550.10.303 :processoTipoVC :vc_processoTipo_pe .
 :c550.10.303 :processoTransversal "N" .
@@ -1995,6 +1995,8 @@
 :c550.10.303 :eAntecessorDe :c400.10.028 .
 :c550.10.303 :temRelProc :c400.10.029 .
 :c550.10.303 :eCruzadoCom :c400.10.029 .
+:c550.10.303 :temRelProc :c400.10.042 .
+:c550.10.303 :eSintetizadoPor :c400.10.042 .
 :c550.10.303 :temRelProc :c500.30.005 .
 :c550.10.303 :eAntecessorDe :c500.30.005 .
 :c550.10.303 :temRelProc :c500.30.006 .
@@ -2055,21 +2057,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Concessão de autorização de caráter excecional a nacionais de países terceiros que não reúnam todos os requisitos para exercício de atividade profissional subordinada, ou independente, para regularização da sua situação em território nacional. Inicia com apresentação de manifestação de interesse do requerente e termina com a notificação da decisão sobre a concessão excecional de autorização de residência temporária. Inclui abertura de procedimento oficioso, análise dos meios de prova relativos às condições que permitem beneficiar deste mecanismo. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.304_226944dc770c
-:nota_550.10.304_226944dc770c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.304_a053a1fa1282
+:nota_550.10.304_a053a1fa1282 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Regularização da situação de cidadão nacional de país terceiro que não reúnam todos os requisitos para residência no país, nomeadamente a posse de visto de residência para fins de trabalho subordinado ou independente".
 
-:c550.10.304 :temNotaAplicacao :nota_550.10.304_226944dc770c .
+:c550.10.304 :temNotaAplicacao :nota_550.10.304_a053a1fa1282 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.304_91e298637d2b
-:nota_550.10.304_91e298637d2b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.304_266c22de64f3
+:nota_550.10.304_266c22de64f3 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pedidos de nacionais de um Estado-membro da UE, de um Estado parte do EEE, nacionais de Estados terceiros, familiares de cidadão português e nacionais de Estados terceiros que residam em território nacional na qualidade de refugiados, beneficiários de proteção subsidiária prevista na legislação do asilo ou beneficiários de proteção temporária, devem ser considerados em 550.10.305 – Processamento de pedidos de asilo".
 
-:c550.10.304 :temNotaExclusao :nota_550.10.304_91e298637d2b .
+:c550.10.304 :temNotaExclusao :nota_550.10.304_266c22de64f3 .
 
 :c550.10.304 :processoTipoVC :vc_processoTipo_pe .
 :c550.10.304 :processoTransversal "N" .
@@ -2079,6 +2081,8 @@
 :c550.10.304 :eSintetizadoPor :c150.20.300 .
 :c550.10.304 :temRelProc :c400.10.029 .
 :c550.10.304 :eAntecessorDe :c400.10.029 .
+:c550.10.304 :temRelProc :c400.10.042 .
+:c550.10.304 :eSintetizadoPor :c400.10.042 .
 :c550.10.304 :temRelProc :c550.10.303 .
 :c550.10.304 :eAntecessorDe :c550.10.303 .
 :c550.10.304 :temPCA :pca_c550.10.304.
@@ -2125,21 +2129,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Processamento dos pedidos e análise das condições de concessão de asilo ou proteção subsidiária no âmbito dos estatutos de requerente de asilo, de refugiado e de proteção subsidiária. Inicia com o pedido do interessado junto da autoridade responsável sob a forma escrita ou oral, do qual, no segundo caso, é de imediato lavrado auto pela autoridade policial que recebe o pedido e remetido à autoridade responsável, e termina com decisão relativa à concessão ou recusa de estatuto de refugiado ou de proteção subsidiária. Inclui entrevista, análise dos fundamentos do pedido, análise de provas documentais quando existentes, verificação de que o requerente não beneficia de estatuto idêntico atribuído por outro Estado-membro e de que não beneficia de estatuto legal noutro país para além do país de origem, eventual realização de perícias médico-legais, recolha de informação sobre o país de origem e sobre os factos invocados para o pedido de proteção, parecer do Conselho Português para os Refugiados, elaboração de proposta fundamentada de admissibilidade ou não admissibilidade do pedido. Em caso de admissibilidade do pedido segue-se uma segunda fase do procedimento onde é efetuada uma instrução mais detalhada que culmina na apresentação de proposta fundamentada ao membro do governo responsável pela área da administração interna de concessão ou recusa do estatuto de refugiado ou de proteção subsidiária. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.305_14bd848427f3
-:nota_550.10.305_14bd848427f3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.305_98a784908a66
+:nota_550.10.305_98a784908a66 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Estrangeiros e apátridas perseguidos ou gravemente ameaçados de perseguição, em consequência de atividade exercida no Estado da sua nacionalidade ou da sua residência habitual, em favor da democracia, libertação social e nacional, da paz, liberdade e direitos da pessoa humana ou receando ser perseguidos em virtude da sua raça, religião, nacionalidade, opiniões políticas e que por essa razão não queiram regressar ao seu Estado de nacionalidade ou da sua residência habitual".
 
-:c550.10.305 :temNotaAplicacao :nota_550.10.305_14bd848427f3 .
+:c550.10.305 :temNotaAplicacao :nota_550.10.305_98a784908a66 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.305_bbcd585c77d0
-:nota_550.10.305_bbcd585c77d0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.305_cf45e702df74
+:nota_550.10.305_cf45e702df74 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Estrangeiros e apátridas que sejam impedidos ou se sintam impossibilitados de regressar ao país da sua nacionalidade ou da sua residência habitual, quer atendendo à sistemática violação dos direitos humanos que aí se verifique, quer por correrem o risco de sofrer ofensa grave que ponha em risco a sua vida ou a integridade física".
 
-:c550.10.305 :temNotaAplicacao :nota_550.10.305_bbcd585c77d0 .
+:c550.10.305 :temNotaAplicacao :nota_550.10.305_cf45e702df74 .
 
 :c550.10.305 :processoTipoVC :vc_processoTipo_pe .
 :c550.10.305 :processoTransversal "S" .
@@ -2199,21 +2203,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Processamento dos pedidos de readmissão que ocorrem nos termos de convenções internacionais, ao abrigo das quais os cidadãos estrangeiros que se encontrem ilegalmente no território de um Estado, vindos diretamente de outro Estado, podem ser por este readmitidos, mediante pedido formulado pelo Estado em cujo território se encontrem. Inicia com a receção do pedido do Estado requerente e termina com a aceitação e readmissão do cidadão estrangeiro, ou com a recusa do pedido. Inclui tratamento do pedido formulado pelo Estado requerente e, se existente, do auto de declarações e documentação identificativa disponível do cidadão, consulta informática, e se necessário, do processo de residente, decisão e sua comunicação ao Estado requerente e ao departamento responsável pelo processo de residente. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.306_034af27b729a
-:nota_550.10.306_034af27b729a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.306_893d45eeecbc
+:nota_550.10.306_893d45eeecbc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Casos em que haja um acordo ou convenção internacional de readmissão".
 
-:c550.10.306 :temNotaAplicacao :nota_550.10.306_034af27b729a .
+:c550.10.306 :temNotaAplicacao :nota_550.10.306_893d45eeecbc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.306_0aa7e9841a4b
-:nota_550.10.306_0aa7e9841a4b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.306_8ade1880efe0
+:nota_550.10.306_8ade1880efe0 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A readmissão ativa deve ser considerada em 500.30.006 – Afastamento coercivo do território nacional".
 
-:c550.10.306 :temNotaExclusao :nota_550.10.306_0aa7e9841a4b .
+:c550.10.306 :temNotaExclusao :nota_550.10.306_8ade1880efe0 .
 
 :c550.10.306 :processoTipoVC :vc_processoTipo_pe .
 :c550.10.306 :processoTransversal "N" .
@@ -2223,6 +2227,8 @@
 :c550.10.306 :temLegislacao :leg_DL_252_2000 .
 :c550.10.306 :temRelProc :c150.20.300 .
 :c550.10.306 :eSintetizadoPor :c150.20.300 .
+:c550.10.306 :temRelProc :c400.10.042 .
+:c550.10.306 :eSintetizadoPor :c400.10.042 .
 :c550.10.306 :temRelProc :c500.30.005 .
 :c550.10.306 :eSucessorDe :c500.30.005 .
 :c550.10.306 :temRelProc :c500.30.006 .
@@ -2279,61 +2285,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Operações de segurança e aplicação de medidas de minimização do risco de medicamentos e produtos de saúde, tendo como objetivo a salvaguarda da saúde pública. Inicia com a submissão da medida pelos titulares ou com a elaboração de proposta de medida e termina com o registo da revogação da autorização de introdução no mercado ou de alteração da medida. Inclui parecer de avaliação de publicidade, indicação de medida a aplicar, validação e avaliação da medida, verificação da implementação. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.307_3b40f24bf352
-:nota_550.10.307_3b40f24bf352 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.307_23ce0d96fc01
+:nota_550.10.307_23ce0d96fc01 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração do Boletim de Farmacovigilância, destinado aos profissionais de saúde, com informação sobre efeitos adversos de medicamentos autorizados, quer a nível nacional quer europeu".
 
-:c550.10.307 :temNotaAplicacao :nota_550.10.307_3b40f24bf352 .
+:c550.10.307 :temNotaAplicacao :nota_550.10.307_23ce0d96fc01 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.307_c49e117795ab
-:nota_550.10.307_c49e117795ab rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.307_43ec0c9b3fa5
+:nota_550.10.307_43ec0c9b3fa5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Validação de comunicações dirigidas aos profissionais de saúde (DHPC – Direct Healthcare Professional Communication)".
 
-:c550.10.307 :temNotaAplicacao :nota_550.10.307_c49e117795ab .
+:c550.10.307 :temNotaAplicacao :nota_550.10.307_43ec0c9b3fa5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.307_e0c9ef6671eb
-:nota_550.10.307_e0c9ef6671eb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.307_42f7ac68bdbf
+:nota_550.10.307_42f7ac68bdbf rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acompanhamento da implementação das Medidas Urgentes de Segurança (MUS)".
 
-:c550.10.307 :temNotaAplicacao :nota_550.10.307_e0c9ef6671eb .
+:c550.10.307 :temNotaAplicacao :nota_550.10.307_42f7ac68bdbf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.307_7006611e2521
-:nota_550.10.307_7006611e2521 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.307_a77fa7095369
+:nota_550.10.307_a77fa7095369 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Avaliação de materiais educacionais".
 
-:c550.10.307 :temNotaAplicacao :nota_550.10.307_7006611e2521 .
+:c550.10.307 :temNotaAplicacao :nota_550.10.307_a77fa7095369 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.307_624d5623b817
-:nota_550.10.307_624d5623b817 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.307_dcaa6580c965
+:nota_550.10.307_dcaa6580c965 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de limites máximos de resíduos de pesticidas no interior e à superfície dos géneros alimentícios e dos alimentos para animais, de origem vegetal ou animal".
 
-:c550.10.307 :temNotaAplicacao :nota_550.10.307_624d5623b817 .
+:c550.10.307 :temNotaAplicacao :nota_550.10.307_dcaa6580c965 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.307_0bc80fbd690e
-:nota_550.10.307_0bc80fbd690e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.307_bfabff591353
+:nota_550.10.307_bfabff591353 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A revogação de AM por medidas de segurança deve ser considerada em 450.10.640 – Autorização de introdução de produtos e substâncias no mercado".
 
-:c550.10.307 :temNotaExclusao :nota_550.10.307_0bc80fbd690e .
+:c550.10.307 :temNotaExclusao :nota_550.10.307_bfabff591353 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.307_8d3135d492f6
-:nota_550.10.307_8d3135d492f6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.307_a4c1e70fbbec
+:nota_550.10.307_a4c1e70fbbec rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As alterações para implementação das recomendações do PRAC decorrentes de avaliação de sinais de segurança(C.I.z) do tipo IAIN) devem ser consideradas em 450.10.640 – Autorização de introdução de produtos e substâncias no mercado".
 
-:c550.10.307 :temNotaExclusao :nota_550.10.307_8d3135d492f6 .
+:c550.10.307 :temNotaExclusao :nota_550.10.307_a4c1e70fbbec .
 
 :c550.10.307 :processoTipoVC :vc_processoTipo_pe .
 :c550.10.307 :processoTransversal "S" .
@@ -2343,6 +2349,8 @@
 :c550.10.307 :temLegislacao :leg_Regulamento_de_Execução_UE_520_2012 .
 :c550.10.307 :temRelProc :c150.20.300 .
 :c550.10.307 :eSintetizadoPor :c150.20.300 .
+:c550.10.307 :temRelProc :c150.40.500 .
+:c550.10.307 :eSintetizadoPor :c150.40.500 .
 :c550.10.307 :temRelProc :c300.30.008 .
 :c550.10.307 :eSintetizadoPor :c300.30.008 .
 :c550.10.307 :temRelProc :c450.10.640 .
@@ -2394,69 +2402,69 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.10 ;
 	:descricao 'Operações reativas ou de intervenção não programadas a fenómenos de desacatos, tumultos, violência concertada, catástrofes naturais, incidentes críticos ou acidentes não naturais que provocam a alteração dos níveis de segurança de pessoas e bens, assim como do normal funcionamento das instituições. Inicia com a sinalização do foco de insegurança e termina com o relato da operação. Inclui diagnóstico de situação, operacionalização e atualização do ponto de situação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.600_351e801e3615
-:nota_550.10.600_351e801e3615 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.600_7e9b268837b6
+:nota_550.10.600_7e9b268837b6 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Resolução e gestão de incidentes críticos".
 
-:c550.10.600 :temNotaAplicacao :nota_550.10.600_351e801e3615 .
+:c550.10.600 :temNotaAplicacao :nota_550.10.600_7e9b268837b6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.600_24e1b86e4a94
-:nota_550.10.600_24e1b86e4a94 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.600_8f320097dc9d
+:nota_550.10.600_8f320097dc9d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Intervenção táctica em situações de violência concertada e de elevada perigosidade, complexidade e risco".
 
-:c550.10.600 :temNotaAplicacao :nota_550.10.600_24e1b86e4a94 .
+:c550.10.600 :temNotaAplicacao :nota_550.10.600_8f320097dc9d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.600_e0103fe43487
-:nota_550.10.600_e0103fe43487 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.600_d83d76736337
+:nota_550.10.600_d83d76736337 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Inactivação de explosivos e segurança em subsolo".
 
-:c550.10.600 :temNotaAplicacao :nota_550.10.600_e0103fe43487 .
+:c550.10.600 :temNotaAplicacao :nota_550.10.600_d83d76736337 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.600_cda2e616a663
-:nota_550.10.600_cda2e616a663 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.600_49f3d3abd340
+:nota_550.10.600_49f3d3abd340 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cooperação com as forças militares ao nível de reforço e apoio às forças de segurança".
 
-:c550.10.600 :temNotaAplicacao :nota_550.10.600_cda2e616a663 .
+:c550.10.600 :temNotaAplicacao :nota_550.10.600_49f3d3abd340 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.600_8262bb0da675
-:nota_550.10.600_8262bb0da675 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.600_2588f87580b6
+:nota_550.10.600_2588f87580b6 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Gestão de incidente inopinado, configurando uma situação de flagrante delito ou que exija a imediata intervenção policial (sequestro, tomada de reféns ou ameaça/descoberta de engenho explosivo)".
 
-:c550.10.600 :temNotaAplicacao :nota_550.10.600_8262bb0da675 .
+:c550.10.600 :temNotaAplicacao :nota_550.10.600_2588f87580b6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.600_144e8089804f
-:nota_550.10.600_144e8089804f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.600_1e406bca5dcf
+:nota_550.10.600_1e406bca5dcf rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A reposição da ordem e gestão de incidentes de segurança que decorra do policiamento do espaço público deve ser considerada em 550.10.001 – Segurança de espaços públicos e abertos ao público".
 
-:c550.10.600 :temNotaExclusao :nota_550.10.600_144e8089804f .
+:c550.10.600 :temNotaExclusao :nota_550.10.600_1e406bca5dcf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.600_abc49f3259d3
-:nota_550.10.600_abc49f3259d3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.600_003997bc4e3d
+:nota_550.10.600_003997bc4e3d rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A reposição da ordem e gestão de incidentes de segurança que decorra da Ação de segurança a eventos de alto risco deve ser considerada em 550.10.002 – Ação de segurança a eventos de alto risco".
 
-:c550.10.600 :temNotaExclusao :nota_550.10.600_abc49f3259d3 .
+:c550.10.600 :temNotaExclusao :nota_550.10.600_003997bc4e3d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.600_81121788db0e
-:nota_550.10.600_81121788db0e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.10.600_1edb049b9b41
+:nota_550.10.600_1edb049b9b41 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A investigação criminal dos incidentes deverá ser considerada em 600.10 – Prevenção e investigação criminal".
 
-:c550.10.600 :temNotaExclusao :nota_550.10.600_81121788db0e .
+:c550.10.600 :temNotaExclusao :nota_550.10.600_1edb049b9b41 .
 
 :c550.10.600 :processoTipoVC :vc_processoTipo_pe .
 :c550.10.600 :processoTransversal "S" .
@@ -2542,37 +2550,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550 ;
 	:descricao 'Compreende as operações relacionadas com a prestação de serviços preventivos e reativos a situações de emergência e de prevenção de acidentes. Inclui as atividades de vigilância e análise de risco, ações de alerta de situações de risco, gestão de medidas corretivas, pedidos de auxílio e, ainda, as ações de socorro a pessoas e bens em caso de acidente, catástrofe ou calamidade, prestados por qualquer força de segurança, de defesa, de saúde, de proteção civil e/ou por quaisquer outras entidades.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20_f2088b231a3c
-:nota_550.20_f2088b231a3c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20_9d80644e88e3
+:nota_550.20_9d80644e88e3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Difusão de alertas de risco (alertas sobre o clima, sismos, estado do mar, incêndios, etc.)".
 
-:c550.20 :temNotaAplicacao :nota_550.20_f2088b231a3c .
+:c550.20 :temNotaAplicacao :nota_550.20_9d80644e88e3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20_574e3aaa68d2
-:nota_550.20_574e3aaa68d2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20_e4be74e2f528
+:nota_550.20_e4be74e2f528 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio preventivo de bombeiros a espetáculos e eventos".
 
-:c550.20 :temNotaAplicacao :nota_550.20_574e3aaa68d2 .
+:c550.20 :temNotaAplicacao :nota_550.20_e4be74e2f528 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20_fdb84acea85b
-:nota_550.20_fdb84acea85b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20_8636d9bc7b7f
+:nota_550.20_8636d9bc7b7f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processamento de pedidos de socorro em caso de incêndio, naufrágio, inundação, medicamentos, epidemias, etcApoio à localização de sinistrados".
 
-:c550.20 :temNotaAplicacao :nota_550.20_fdb84acea85b .
+:c550.20 :temNotaAplicacao :nota_550.20_8636d9bc7b7f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20_bdb1ab968824
-:nota_550.20_bdb1ab968824 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20_67f2701e6ba8
+:nota_550.20_67f2701e6ba8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Transporte de sinistrados".
 
-:c550.20 :temNotaAplicacao :nota_550.20_bdb1ab968824 .
+:c550.20 :temNotaAplicacao :nota_550.20_67f2701e6ba8 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c550.20.001
@@ -2584,141 +2592,141 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.20 ;
 	:descricao 'Operações de advertência e sinalização de perigos e riscos potenciais ou iminentes. Inicia com a emissão do aviso de condições específicas ou de circunstâncias de perigo ou risco à população ou a determinados setores e termina com o registo da emissão de alerta para as entidades competentes. Inclui articulação entre as entidades, validação de alertas, quando aplicável, difusão de recomendações e medidas de proteção. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_717ec2b6b1e1
-:nota_550.20.001_717ec2b6b1e1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_d506a7bfdcde
+:nota_550.20.001_d506a7bfdcde rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Difusão de alertas referente ao uso de medicamentos".
 
-:c550.20.001 :temNotaAplicacao :nota_550.20.001_717ec2b6b1e1 .
+:c550.20.001 :temNotaAplicacao :nota_550.20.001_d506a7bfdcde .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_1c3ad1ad38dc
-:nota_550.20.001_1c3ad1ad38dc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_88a3f48378fc
+:nota_550.20.001_88a3f48378fc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de alertas referente ao consumo de produtos alimentares".
 
-:c550.20.001 :temNotaAplicacao :nota_550.20.001_1c3ad1ad38dc .
+:c550.20.001 :temNotaAplicacao :nota_550.20.001_88a3f48378fc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_876382e8a4c8
-:nota_550.20.001_876382e8a4c8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_2b31507050c3
+:nota_550.20.001_2b31507050c3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de alerta de risco de derrocada de arribas".
 
-:c550.20.001 :temNotaAplicacao :nota_550.20.001_876382e8a4c8 .
+:c550.20.001 :temNotaAplicacao :nota_550.20.001_2b31507050c3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_0a24413451ab
-:nota_550.20.001_0a24413451ab rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_999d5ac48b79
+:nota_550.20.001_999d5ac48b79 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de aviso de sismo".
 
-:c550.20.001 :temNotaAplicacao :nota_550.20.001_0a24413451ab .
+:c550.20.001 :temNotaAplicacao :nota_550.20.001_999d5ac48b79 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_a8414679cac1
-:nota_550.20.001_a8414679cac1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_cd73f00c40bc
+:nota_550.20.001_cd73f00c40bc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de alerta de aumento de radiação ionizante".
 
-:c550.20.001 :temNotaAplicacao :nota_550.20.001_a8414679cac1 .
+:c550.20.001 :temNotaAplicacao :nota_550.20.001_cd73f00c40bc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_21c12c8a8ed1
-:nota_550.20.001_21c12c8a8ed1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_a64e8a215eca
+:nota_550.20.001_a64e8a215eca rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de alerta de concentração de raios ultravioletas".
 
-:c550.20.001 :temNotaAplicacao :nota_550.20.001_21c12c8a8ed1 .
+:c550.20.001 :temNotaAplicacao :nota_550.20.001_a64e8a215eca .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_51906356ddc1
-:nota_550.20.001_51906356ddc1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_527615400a63
+:nota_550.20.001_527615400a63 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de aviso de cheias".
 
-:c550.20.001 :temNotaAplicacao :nota_550.20.001_51906356ddc1 .
+:c550.20.001 :temNotaAplicacao :nota_550.20.001_527615400a63 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_f786c4d2d116
-:nota_550.20.001_f786c4d2d116 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_fb84c6179522
+:nota_550.20.001_fb84c6179522 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de aviso de secas".
 
-:c550.20.001 :temNotaAplicacao :nota_550.20.001_f786c4d2d116 .
+:c550.20.001 :temNotaAplicacao :nota_550.20.001_fb84c6179522 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_9c871dd9c057
-:nota_550.20.001_9c871dd9c057 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_af194ceebc68
+:nota_550.20.001_af194ceebc68 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de aviso de incêndio".
 
-:c550.20.001 :temNotaAplicacao :nota_550.20.001_9c871dd9c057 .
+:c550.20.001 :temNotaAplicacao :nota_550.20.001_af194ceebc68 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_6f8de23d9bd8
-:nota_550.20.001_6f8de23d9bd8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_4c89e9b3c336
+:nota_550.20.001_4c89e9b3c336 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de avisos metereológicos".
 
-:c550.20.001 :temNotaAplicacao :nota_550.20.001_6f8de23d9bd8 .
+:c550.20.001 :temNotaAplicacao :nota_550.20.001_4c89e9b3c336 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_c5ddd1eabecd
-:nota_550.20.001_c5ddd1eabecd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_015d991b3b04
+:nota_550.20.001_015d991b3b04 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de aviso nuclear".
 
-:c550.20.001 :temNotaAplicacao :nota_550.20.001_c5ddd1eabecd .
+:c550.20.001 :temNotaAplicacao :nota_550.20.001_015d991b3b04 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_ef00c2611558
-:nota_550.20.001_ef00c2611558 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_b1a9b4eaf56a
+:nota_550.20.001_b1a9b4eaf56a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de alerta de rutura de barragens".
 
-:c550.20.001 :temNotaAplicacao :nota_550.20.001_ef00c2611558 .
+:c550.20.001 :temNotaAplicacao :nota_550.20.001_b1a9b4eaf56a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_b7fd16a5ceae
-:nota_550.20.001_b7fd16a5ceae rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_49cab88273b8
+:nota_550.20.001_49cab88273b8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Emissão de aviso agricola".
 
-:c550.20.001 :temNotaAplicacao :nota_550.20.001_b7fd16a5ceae .
+:c550.20.001 :temNotaAplicacao :nota_550.20.001_49cab88273b8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_82ae8daa16c9
-:nota_550.20.001_82ae8daa16c9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_a9e6e94cd2fd
+:nota_550.20.001_a9e6e94cd2fd rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A recolha de dados sobre os índices de poluição ambiental deve ser considerada em 800.10.301 – Monitorização de índices da qualidade ambiental".
 
-:c550.20.001 :temNotaExclusao :nota_550.20.001_82ae8daa16c9 .
+:c550.20.001 :temNotaExclusao :nota_550.20.001_a9e6e94cd2fd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_ff81d91064a6
-:nota_550.20.001_ff81d91064a6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_a8a8e5eacc0e
+:nota_550.20.001_a8a8e5eacc0e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A recolha de dados sobre os recursos naturais, espécies e paisagens deve ser considerada em 800.10.302 – Monitorização de recursos ambientais e naturais".
 
-:c550.20.001 :temNotaExclusao :nota_550.20.001_ff81d91064a6 .
+:c550.20.001 :temNotaExclusao :nota_550.20.001_a8a8e5eacc0e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_603f32be7a0c
-:nota_550.20.001_603f32be7a0c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_e80575b69322
+:nota_550.20.001_e80575b69322 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A recolha de dados sobre o abastecimento e distribuição de água e do saneamento de águas residuais deve ser considerada em 800.10.303 – Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais".
 
-:c550.20.001 :temNotaExclusao :nota_550.20.001_603f32be7a0c .
+:c550.20.001 :temNotaExclusao :nota_550.20.001_e80575b69322 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_008855823497
-:nota_550.20.001_008855823497 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.001_8aad3e2b8104
+:nota_550.20.001_8aad3e2b8104 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A difusão de informação relativa a recomendações e medidas de prevenção deve ser considerada em 900.20.201 - Edição e publicação de conteúdos".
 
-:c550.20.001 :temNotaExclusao :nota_550.20.001_008855823497 .
+:c550.20.001 :temNotaExclusao :nota_550.20.001_8aad3e2b8104 .
 
 :c550.20.001 :processoTipoVC :vc_processoTipo_pc .
 :c550.20.001 :processoTransversal "S" .
@@ -2853,157 +2861,157 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.20 ;
 	:descricao 'Operações preventivas de reconhecimento e proteção através da vigia e acompanhamento de comportamento e atividades de pessoas ou de espaços e emissão de pedido de proteção e socorro aquando da deteção de risco ou de perigo iminente. Inicia com a ação de vigilância planeada e termina com o relato da operação. Inclui emissão de alerta e diagnóstico de situação, quando necessário.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.002_7b36cac8fd6f
-:nota_550.20.002_7b36cac8fd6f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.002_d18ccf22914e
+:nota_550.20.002_d18ccf22914e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Monitorização de recursos tecnológicos de vigilância e alerta".
 
-:c550.20.002 :temNotaAplicacao :nota_550.20.002_7b36cac8fd6f .
+:c550.20.002 :temNotaAplicacao :nota_550.20.002_d18ccf22914e .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_caf4d7fd2006
-:exemplo_550.20.002_caf4d7fd2006 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_c396a97f3224
+:exemplo_550.20.002_c396a97f3224 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Vigilância de matas e florestas".
 
-:c550.20.002 :temExemploNA :exemplo_550.20.002_caf4d7fd2006 .
+:c550.20.002 :temExemploNA :exemplo_550.20.002_c396a97f3224 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_8099b9102b50
-:exemplo_550.20.002_8099b9102b50 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_0ed69ec4445f
+:exemplo_550.20.002_0ed69ec4445f rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Vigilância da alteração de cursos de água".
 
-:c550.20.002 :temExemploNA :exemplo_550.20.002_8099b9102b50 .
+:c550.20.002 :temExemploNA :exemplo_550.20.002_0ed69ec4445f .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_7b0db4867e0b
-:exemplo_550.20.002_7b0db4867e0b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_1c02b6345fe6
+:exemplo_550.20.002_1c02b6345fe6 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Vigilância contra derrames tóxicos".
 
-:c550.20.002 :temExemploNA :exemplo_550.20.002_7b0db4867e0b .
+:c550.20.002 :temExemploNA :exemplo_550.20.002_1c02b6345fe6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_a6f01a8006f6
-:exemplo_550.20.002_a6f01a8006f6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_33381b7b8098
+:exemplo_550.20.002_33381b7b8098 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Vigilância à radioatividade no ambiente".
 
-:c550.20.002 :temExemploNA :exemplo_550.20.002_a6f01a8006f6 .
+:c550.20.002 :temExemploNA :exemplo_550.20.002_33381b7b8098 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_e19ff989918f
-:exemplo_550.20.002_e19ff989918f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_f386bed15740
+:exemplo_550.20.002_f386bed15740 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Vigilância contra desastres naturais".
 
-:c550.20.002 :temExemploNA :exemplo_550.20.002_e19ff989918f .
+:c550.20.002 :temExemploNA :exemplo_550.20.002_f386bed15740 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_a934ede63272
-:exemplo_550.20.002_a934ede63272 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_bd1b3c27a36f
+:exemplo_550.20.002_bd1b3c27a36f rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Vigilância contra intempéries".
 
-:c550.20.002 :temExemploNA :exemplo_550.20.002_a934ede63272 .
+:c550.20.002 :temExemploNA :exemplo_550.20.002_bd1b3c27a36f .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_8755bed8186c
-:exemplo_550.20.002_8755bed8186c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_c635a02dd122
+:exemplo_550.20.002_c635a02dd122 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Vigilância marítima".
 
-:c550.20.002 :temExemploNA :exemplo_550.20.002_8755bed8186c .
+:c550.20.002 :temExemploNA :exemplo_550.20.002_c635a02dd122 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_616ee8b2bde7
-:exemplo_550.20.002_616ee8b2bde7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_209809f9e392
+:exemplo_550.20.002_209809f9e392 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Vigilância de ondas de calor".
 
-:c550.20.002 :temExemploNA :exemplo_550.20.002_616ee8b2bde7 .
+:c550.20.002 :temExemploNA :exemplo_550.20.002_209809f9e392 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_1d46318b6ced
-:exemplo_550.20.002_1d46318b6ced rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_afe79316dc02
+:exemplo_550.20.002_afe79316dc02 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Vigilância de poluentes atmosféricos".
 
-:c550.20.002 :temExemploNA :exemplo_550.20.002_1d46318b6ced .
+:c550.20.002 :temExemploNA :exemplo_550.20.002_afe79316dc02 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_f159011711e0
-:exemplo_550.20.002_f159011711e0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_4e3f2a8aea64
+:exemplo_550.20.002_4e3f2a8aea64 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Vigilância informática".
 
-:c550.20.002 :temExemploNA :exemplo_550.20.002_f159011711e0 .
+:c550.20.002 :temExemploNA :exemplo_550.20.002_4e3f2a8aea64 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_191535dda9dc
-:exemplo_550.20.002_191535dda9dc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_550.20.002_374bb7dc8776
+:exemplo_550.20.002_374bb7dc8776 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo " Vigilância de computadores e redes".
 
-:c550.20.002 :temExemploNA :exemplo_550.20.002_191535dda9dc .
+:c550.20.002 :temExemploNA :exemplo_550.20.002_374bb7dc8776 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.002_a0b3bccba3c9
-:nota_550.20.002_a0b3bccba3c9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.002_64cec2c157d4
+:nota_550.20.002_64cec2c157d4 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A instalação de sistemas automáticos de deteção de incêndios deve ser considerada em 300.40.503 – Conservação e valorização de edifícios, infraestruturas e equipamentos públicos".
 
-:c550.20.002 :temNotaExclusao :nota_550.20.002_a0b3bccba3c9 .
+:c550.20.002 :temNotaExclusao :nota_550.20.002_64cec2c157d4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.002_054dca0d3bce
-:nota_550.20.002_054dca0d3bce rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.002_9c90e10dfd9a
+:nota_550.20.002_9c90e10dfd9a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A ação de vigilância das forças de segurança no âmbito do policiamento deve ser considerada no 550.10.001 – Segurança de espaços públicos e abertos ao público".
 
-:c550.20.002 :temNotaExclusao :nota_550.20.002_054dca0d3bce .
+:c550.20.002 :temNotaExclusao :nota_550.20.002_9c90e10dfd9a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.002_61ee5a78ff19
-:nota_550.20.002_61ee5a78ff19 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.002_dc3b2b042913
+:nota_550.20.002_dc3b2b042913 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A ação de vigilância no âmbito de apoio à investigação criminal deve ser considerada em 600.10.504 – Ação de pesquisa e vigilancia".
 
-:c550.20.002 :temNotaExclusao :nota_550.20.002_61ee5a78ff19 .
+:c550.20.002 :temNotaExclusao :nota_550.20.002_dc3b2b042913 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.002_b885e1ec967d
-:nota_550.20.002_b885e1ec967d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.002_abeaf90b18d3
+:nota_550.20.002_abeaf90b18d3 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pedido de proteção e socorro deve ser considerado em 550.20.500 – Ação de proteção e socorro".
 
-:c550.20.002 :temNotaExclusao :nota_550.20.002_b885e1ec967d .
+:c550.20.002 :temNotaExclusao :nota_550.20.002_abeaf90b18d3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.002_10523331ceca
-:nota_550.20.002_10523331ceca rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.002_a1408e3a9351
+:nota_550.20.002_a1408e3a9351 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A recolha de dados sobre os índices de poluição ambiental deve ser considerada em 800.10.301 – Monitorização de índices da qualidade ambiental".
 
-:c550.20.002 :temNotaExclusao :nota_550.20.002_10523331ceca .
+:c550.20.002 :temNotaExclusao :nota_550.20.002_a1408e3a9351 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.002_da98b9fa8b65
-:nota_550.20.002_da98b9fa8b65 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.002_326da63ce235
+:nota_550.20.002_326da63ce235 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A recolha de dados sobre os recursos naturais, espécies e paisagens deve ser considerada em 800.10.302 – Monitorização de recursos ambientais e naturais".
 
-:c550.20.002 :temNotaExclusao :nota_550.20.002_da98b9fa8b65 .
+:c550.20.002 :temNotaExclusao :nota_550.20.002_326da63ce235 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.002_2089e656b5e8
-:nota_550.20.002_2089e656b5e8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.002_cf83aad1fe23
+:nota_550.20.002_cf83aad1fe23 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A recolha de dados sobre o abastecimento e distribuição de água e do saneamento de águas residuais deve ser considerada em 800.10.303 – Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais".
 
-:c550.20.002 :temNotaExclusao :nota_550.20.002_2089e656b5e8 .
+:c550.20.002 :temNotaExclusao :nota_550.20.002_cf83aad1fe23 .
 
 :c550.20.002 :processoTipoVC :vc_processoTipo_pe .
 :c550.20.002 :processoTransversal "S" .
@@ -3091,53 +3099,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.20 ;
 	:descricao 'Preparação sistemática de pessoas e animais através da simulação de cenários de emergência e catastróficos, visando treinar a destreza, os equipamentos e a comunicação das forças de proteção civil e socorro no terreno e testar os procedimentos planeados. Inicia com a identificação da necessidade do exercício ou com o pedido de simulacro das entidades e termina com o envio de recomendações. Inclui pedido às entidades (quando a iniciativa é das forças de segurança), análise do pedido, elaboração de orçamento, indicação do pagamento, quando devido, reunião preparatória, acionamento dos meios necessários, operacionalização e relato do exercício e simulacro.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.003_d8cd06931855
-:nota_550.20.003_d8cd06931855 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.003_37b33b98366c
+:nota_550.20.003_37b33b98366c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Realização de simulacros por iniciativa de entidades públicas".
 
-:c550.20.003 :temNotaAplicacao :nota_550.20.003_d8cd06931855 .
+:c550.20.003 :temNotaAplicacao :nota_550.20.003_37b33b98366c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.003_4b40eb4ae899
-:nota_550.20.003_4b40eb4ae899 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.003_f7f475ef19ec
+:nota_550.20.003_f7f475ef19ec rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Realização de simulacros a pedido de entidades privadas".
 
-:c550.20.003 :temNotaAplicacao :nota_550.20.003_4b40eb4ae899 .
+:c550.20.003 :temNotaAplicacao :nota_550.20.003_f7f475ef19ec .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.003_a0a8f71d1eca
-:nota_550.20.003_a0a8f71d1eca rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.003_be7faf000d5b
+:nota_550.20.003_be7faf000d5b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Realização de exercícios e operações de âmbito militar, nacionais ou internacionais".
 
-:c550.20.003 :temNotaAplicacao :nota_550.20.003_a0a8f71d1eca .
+:c550.20.003 :temNotaAplicacao :nota_550.20.003_be7faf000d5b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.003_12f86b15cb13
-:nota_550.20.003_12f86b15cb13 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.003_895763667e7e
+:nota_550.20.003_895763667e7e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A realização de exercícios e simulacros que decorra de ações de formação deve ser considerada em 750.20.600 – Realização de atividades de ensino ou formação".
 
-:c550.20.003 :temNotaExclusao :nota_550.20.003_12f86b15cb13 .
+:c550.20.003 :temNotaExclusao :nota_550.20.003_895763667e7e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.003_18cc9ddc34da
-:nota_550.20.003_18cc9ddc34da rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.003_7ef5e3f878ff
+:nota_550.20.003_7ef5e3f878ff rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A realização de exercícios militares deve ser considerada em 550.30.006 – Realização de exercícios militares".
 
-:c550.20.003 :temNotaExclusao :nota_550.20.003_18cc9ddc34da .
+:c550.20.003 :temNotaExclusao :nota_550.20.003_7ef5e3f878ff .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.003_32f98adf8a19
-:nota_550.20.003_32f98adf8a19 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.003_769714ae63dd
+:nota_550.20.003_769714ae63dd rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A elaboração de orçamento do exercício e simulacro contratualizado deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c550.20.003 :temNotaExclusao :nota_550.20.003_32f98adf8a19 .
+:c550.20.003 :temNotaExclusao :nota_550.20.003_769714ae63dd .
 
 :c550.20.003 :processoTipoVC :vc_processoTipo_pc .
 :c550.20.003 :processoTransversal "S" .
@@ -3311,29 +3319,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.20 ;
 	:descricao 'Operação de segurança preventiva em situações de potencial risco, no âmbito de eventos ocasionais que ocorram no espaço público ou aberto ao público. Inicia com o pedido interno ou com a comunicação da requisição do serviço pelas entidades e termina com o relato do exercício. Inclui planeamento da ação, avaliação de risco, identificação dos meios necessários, elaboração de orçamento da ação e operacionalização.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.004_a7b4db1d7475
-:nota_550.20.004_a7b4db1d7475 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.004_154df53b2131
+:nota_550.20.004_154df53b2131 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Realização de piquetes por iniciativa de entidades públicas".
 
-:c550.20.004 :temNotaAplicacao :nota_550.20.004_a7b4db1d7475 .
+:c550.20.004 :temNotaAplicacao :nota_550.20.004_154df53b2131 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.004_67bf59eb887f
-:nota_550.20.004_67bf59eb887f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.004_6f5f7e6b19bc
+:nota_550.20.004_6f5f7e6b19bc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Realização de piquetes a pedido de entidades privadas".
 
-:c550.20.004 :temNotaAplicacao :nota_550.20.004_67bf59eb887f .
+:c550.20.004 :temNotaAplicacao :nota_550.20.004_6f5f7e6b19bc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.004_5eaa4e8b05bf
-:nota_550.20.004_5eaa4e8b05bf rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.004_51cd82f5f3dd
+:nota_550.20.004_51cd82f5f3dd rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A elaboração de orçamento do piquete de prevenção contratualizado deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c550.20.004 :temNotaExclusao :nota_550.20.004_5eaa4e8b05bf .
+:c550.20.004 :temNotaExclusao :nota_550.20.004_51cd82f5f3dd .
 
 :c550.20.004 :processoTipoVC :vc_processoTipo_pc .
 :c550.20.004 :processoTransversal "S" .
@@ -3437,21 +3445,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.20 ;
 	:descricao 'Identificação e caracterização dos recursos e meios disponíveis e mais facilmente mobilizáveis, ao nível local, regional e nacional em situação de acidente grave ou catástrofe. Inicia com identificação e termina com a anulação do registo. Inclui recolha de informação. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.005_d65fc61edd69
-:nota_550.20.005_d65fc61edd69 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.005_da8f6d43958e
+:nota_550.20.005_da8f6d43958e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reconhecimento e relação de recursos e meios públicos utilizáveis".
 
-:c550.20.005 :temNotaAplicacao :nota_550.20.005_d65fc61edd69 .
+:c550.20.005 :temNotaAplicacao :nota_550.20.005_da8f6d43958e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.005_4111f23a9f33
-:nota_550.20.005_4111f23a9f33 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.005_b76407d2e1a6
+:nota_550.20.005_b76407d2e1a6 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reconhecimento e relação de recursos e meios privados utilizáveis".
 
-:c550.20.005 :temNotaAplicacao :nota_550.20.005_4111f23a9f33 .
+:c550.20.005 :temNotaAplicacao :nota_550.20.005_b76407d2e1a6 .
 
 :c550.20.005 :processoTipoVC :vc_processoTipo_pc .
 :c550.20.005 :processoTransversal "S" .
@@ -3563,29 +3571,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.20 ;
 	:descricao 'Prestação em tempo útil de informações e de adequado encaminhamento em situações de urgência relativas a questões de saúde, incêndios, assaltos e outras, visando assegurar a interoperabilidade, compatibilidade e interação entre as centrais de emergência e os sistemas de informação das várias entidades envolvidas e acionamento dos sistemas de socorro. Inicia com a receção da chamada e termina com o encaminhamento adequado para a resposta de emergência. Inclui informações necessárias ao correto encaminhamento e acionamento dos meios de resposta. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.006_1d499445b5ff
-:nota_550.20.006_1d499445b5ff rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.006_d0912ed71463
+:nota_550.20.006_d0912ed71463 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atendimento, em central telefónica, para ocorrer a situações de emergência".
 
-:c550.20.006 :temNotaAplicacao :nota_550.20.006_1d499445b5ff .
+:c550.20.006 :temNotaAplicacao :nota_550.20.006_d0912ed71463 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.006_79be698bbb09
-:nota_550.20.006_79be698bbb09 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.006_44a8dac043a6
+:nota_550.20.006_44a8dac043a6 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A prestação de assistência médica a vítimas de acidente ou de doença súbita deve ser considerada em 700.20.300 – Prestação de cuidados de emergência médica".
 
-:c550.20.006 :temNotaExclusao :nota_550.20.006_79be698bbb09 .
+:c550.20.006 :temNotaExclusao :nota_550.20.006_44a8dac043a6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.006_6380391e3680
-:nota_550.20.006_6380391e3680 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.006_510a8aa377c7
+:nota_550.20.006_510a8aa377c7 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A operacionalização de ações de socorro deve ser considerada em 550.20.500 – Ação de proteção e socorro".
 
-:c550.20.006 :temNotaExclusao :nota_550.20.006_6380391e3680 .
+:c550.20.006 :temNotaExclusao :nota_550.20.006_510a8aa377c7 .
 
 :c550.20.006 :processoTipoVC :vc_processoTipo_pe .
 :c550.20.006 :processoTransversal "S" .
@@ -3668,133 +3676,133 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.20 ;
 	:descricao 'Operação de auxílio ou assistência prestada em situações de perigo ou de riscos naturais ou tecnológicos com entidades militares e civis. Inicia com a decisão do tipo de intervenção e termina com o relato da operação. Inclui diagnóstico de situação, acionamento dos meios e recursos necessários e operacionalização. Inclui, ainda, as ações de proteção de pessoas e bens que se encontrem em situações de perigo em colaboração com entidades militares e civis. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_4ec635603664
-:nota_550.20.500_4ec635603664 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_56496b3e5b94
+:nota_550.20.500_56496b3e5b94 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Busca e salvamento marítimo, aéreo e terrestre".
 
-:c550.20.500 :temNotaAplicacao :nota_550.20.500_4ec635603664 .
+:c550.20.500 :temNotaAplicacao :nota_550.20.500_56496b3e5b94 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_8100b06fcdab
-:nota_550.20.500_8100b06fcdab rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_88200a7b1e1c
+:nota_550.20.500_88200a7b1e1c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Intervenção em caso de acidente rodoviário, marítimo, ferroviário ou aéreo".
 
-:c550.20.500 :temNotaAplicacao :nota_550.20.500_8100b06fcdab .
+:c550.20.500 :temNotaAplicacao :nota_550.20.500_88200a7b1e1c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_c017c9031143
-:nota_550.20.500_c017c9031143 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_a9ef0ec339e4
+:nota_550.20.500_a9ef0ec339e4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Intervenção em caso de catástrofe natural".
 
-:c550.20.500 :temNotaAplicacao :nota_550.20.500_c017c9031143 .
+:c550.20.500 :temNotaAplicacao :nota_550.20.500_a9ef0ec339e4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_b5912aced31f
-:nota_550.20.500_b5912aced31f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_53117592cb39
+:nota_550.20.500_53117592cb39 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Intervenção em caso de cheias ou inundações".
 
-:c550.20.500 :temNotaAplicacao :nota_550.20.500_b5912aced31f .
+:c550.20.500 :temNotaAplicacao :nota_550.20.500_53117592cb39 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_39f698c9150c
-:nota_550.20.500_39f698c9150c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_1493f3b0fb35
+:nota_550.20.500_1493f3b0fb35 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Intervenção em caso de incêndio".
 
-:c550.20.500 :temNotaAplicacao :nota_550.20.500_39f698c9150c .
+:c550.20.500 :temNotaAplicacao :nota_550.20.500_1493f3b0fb35 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_94e6a9befbbe
-:nota_550.20.500_94e6a9befbbe rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_9623c104f999
+:nota_550.20.500_9623c104f999 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Ocorrência de falsos alarmes".
 
-:c550.20.500 :temNotaAplicacao :nota_550.20.500_94e6a9befbbe .
+:c550.20.500 :temNotaAplicacao :nota_550.20.500_9623c104f999 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_ded149e45787
-:nota_550.20.500_ded149e45787 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_12cc86caf630
+:nota_550.20.500_12cc86caf630 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Transporte de sinistrados e doentes".
 
-:c550.20.500 :temNotaAplicacao :nota_550.20.500_ded149e45787 .
+:c550.20.500 :temNotaAplicacao :nota_550.20.500_12cc86caf630 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_20965a3d1685
-:nota_550.20.500_20965a3d1685 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_1b3381edb881
+:nota_550.20.500_1b3381edb881 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Transporte de órgãos para transplante".
 
-:c550.20.500 :temNotaAplicacao :nota_550.20.500_20965a3d1685 .
+:c550.20.500 :temNotaAplicacao :nota_550.20.500_1b3381edb881 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_387f40889c65
-:nota_550.20.500_387f40889c65 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_37dc6a0cba01
+:nota_550.20.500_37dc6a0cba01 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio sanitário".
 
-:c550.20.500 :temNotaAplicacao :nota_550.20.500_387f40889c65 .
+:c550.20.500 :temNotaAplicacao :nota_550.20.500_37dc6a0cba01 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_56ae0473590f
-:nota_550.20.500_56ae0473590f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_d708493756f3
+:nota_550.20.500_d708493756f3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Evacuações médicas".
 
-:c550.20.500 :temNotaAplicacao :nota_550.20.500_56ae0473590f .
+:c550.20.500 :temNotaAplicacao :nota_550.20.500_d708493756f3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_500fa4270e2c
-:nota_550.20.500_500fa4270e2c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_506ed0d60772
+:nota_550.20.500_506ed0d60772 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Proteção em caso de contaminação nuclear, biológica, química e radiológica".
 
-:c550.20.500 :temNotaAplicacao :nota_550.20.500_500fa4270e2c .
+:c550.20.500 :temNotaAplicacao :nota_550.20.500_506ed0d60772 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_ace2cc04bdcd
-:nota_550.20.500_ace2cc04bdcd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_e6ef66bf8934
+:nota_550.20.500_e6ef66bf8934 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Criação de infraestruturas provisórias".
 
-:c550.20.500 :temNotaAplicacao :nota_550.20.500_ace2cc04bdcd .
+:c550.20.500 :temNotaAplicacao :nota_550.20.500_e6ef66bf8934 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_7baca718b6d7
-:nota_550.20.500_7baca718b6d7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_3bd56db40f14
+:nota_550.20.500_3bd56db40f14 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Preparação e resposta a emergências radiológicas e nucleares".
 
-:c550.20.500 :temNotaAplicacao :nota_550.20.500_7baca718b6d7 .
+:c550.20.500 :temNotaAplicacao :nota_550.20.500_3bd56db40f14 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_7617e2eaf0a1
-:nota_550.20.500_7617e2eaf0a1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_fdea68d71e01
+:nota_550.20.500_fdea68d71e01 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A assistência médica que decorra no transporte de sinistrados e doentes deve ser considerada em 700.20.300 – Prestação de cuidados de emergência médica".
 
-:c550.20.500 :temNotaExclusao :nota_550.20.500_7617e2eaf0a1 .
+:c550.20.500 :temNotaExclusao :nota_550.20.500_fdea68d71e01 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_bbdb6d10a69c
-:nota_550.20.500_bbdb6d10a69c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_c7264faf34d3
+:nota_550.20.500_c7264faf34d3 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A ajuda humanitária no estrangeiro deve ser considerada em 200.30.001 – Coordenação e execução de ações de ajuda humanitária e de emergência".
 
-:c550.20.500 :temNotaExclusao :nota_550.20.500_bbdb6d10a69c .
+:c550.20.500 :temNotaExclusao :nota_550.20.500_c7264faf34d3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_29dbc0003853
-:nota_550.20.500_29dbc0003853 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.500_381736f5d23e
+:nota_550.20.500_381736f5d23e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O acolhimento de emergência enquanto resposta de proteção social deve ser considerado em 650.20.600 – Acolhimento de emergência em equipamentos de apoio social".
 
-:c550.20.500 :temNotaExclusao :nota_550.20.500_29dbc0003853 .
+:c550.20.500 :temNotaExclusao :nota_550.20.500_381736f5d23e .
 
 :c550.20.500 :processoTipoVC :vc_processoTipo_pe .
 :c550.20.500 :processoTransversal "S" .
@@ -3961,29 +3969,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.20 ;
 	:descricao 'Intervenção em situações de estados de emergência declarado quando se verifiquem ou ameacem verificar-se casos de calamidade pública. Inicia com a declaração de estado de emergência sob a forma de decreto do Presidente da República ou representante nas Regiões Autónomas e termina com a revogação do decreto ou pelo decurso do prazo fixado. Inclui a audição do Governo e a autorização da Assembleia da República, a renovação ou modificação da declaração. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.501_9449ef88ca54
-:nota_550.20.501_9449ef88ca54 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.501_3b2500744493
+:nota_550.20.501_3b2500744493 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Ssegurança dos cidadãos em situações de calamidade pública".
 
-:c550.20.501 :temNotaAplicacao :nota_550.20.501_9449ef88ca54 .
+:c550.20.501 :temNotaAplicacao :nota_550.20.501_3b2500744493 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.501_1f5f9e42af96
-:nota_550.20.501_1f5f9e42af96 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.501_cbce94510283
+:nota_550.20.501_cbce94510283 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Participação das Forças Armadas e apoio às autoridades administrativas civis".
 
-:c550.20.501 :temNotaAplicacao :nota_550.20.501_1f5f9e42af96 .
+:c550.20.501 :temNotaAplicacao :nota_550.20.501_cbce94510283 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.501_090c5e85460b
-:nota_550.20.501_090c5e85460b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.20.501_fbea7ae72d27
+:nota_550.20.501_fbea7ae72d27 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As situações de atos de força ou insurreição devem ser consideradas em 550.30.003 – Atuação em estado de sítio".
 
-:c550.20.501 :temNotaExclusao :nota_550.20.501_090c5e85460b .
+:c550.20.501 :temNotaExclusao :nota_550.20.501_fbea7ae72d27 .
 
 :c550.20.501 :processoTipoVC :vc_processoTipo_pe .
 :c550.20.501 :processoTransversal "S" .
@@ -4049,13 +4057,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550 ;
 	:descricao 'Compreende as operações militares e paramilitares desenvolvidas em situações de guerra ou de manutenção da paz, em território nacional ou no estrangeiro.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30_5d0007b1115e
-:nota_550.30_5d0007b1115e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30_911b737fe86a
+:nota_550.30_911b737fe86a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A celebração de convenções, acordos ou protocolos internacionais, ainda que diretamente relacionados com operações de defesa, deve ser considerada em \"Execução da política externa/ Definição de políticas conjuntas e dos instrumentos de regulação\" (200.10)".
 
-:c550.30 :temNotaExclusao :nota_550.30_5d0007b1115e .
+:c550.30 :temNotaExclusao :nota_550.30_911b737fe86a .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c550.30.001
@@ -4067,37 +4075,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.30 ;
 	:descricao 'Ações decorrentes da participação em operações que assegurem a defesa militar da República e a organização da resistência ativa, a fim de garantir a integridade do território, a defesa do espaço aéreo e marítimo nacionais, e a liberdade e segurança das populações contra qualquer agressão ou ameaças externas. Inicia com a determinação da tutela e ou do Chefe do Estado-Maior-General das Forças Armadas e termina com a aprovação do relatório final. Inclui autorização dos chefes dos ramos das Forças Armadas, nomeação e publicitação dos participantes das missões, elaboração de ordens e relatórios operacionais. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.001_4adf0184732a
-:nota_550.30.001_4adf0184732a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.001_f81c15f70b15
+:nota_550.30.001_f81c15f70b15 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Segurança e defesa do território nacional e dos cidadãos (defesa militar da nação)".
 
-:c550.30.001 :temNotaAplicacao :nota_550.30.001_4adf0184732a .
+:c550.30.001 :temNotaAplicacao :nota_550.30.001_f81c15f70b15 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.001_7111f3aca483
-:nota_550.30.001_7111f3aca483 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.001_ffade3ddb4c1
+:nota_550.30.001_ffade3ddb4c1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Organização da resistência ativa, a fim da garantir e repor a independência nacional e a integridade do território, a defesa do espaço aéreo e marítimo nacionais, a liberdade e segurança das populações contra qualquer agressão ou ameaças externas".
 
-:c550.30.001 :temNotaAplicacao :nota_550.30.001_7111f3aca483 .
+:c550.30.001 :temNotaAplicacao :nota_550.30.001_ffade3ddb4c1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.001_80b44c81049a
-:nota_550.30.001_80b44c81049a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.001_0d5a946c4deb
+:nota_550.30.001_0d5a946c4deb rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As ações de exercício da soberania, jurisdição e responsabilidades nacionais nomeadamente as ações de proteção e socorro devem ser consideradas em 550.20.500 – Ação de proteção e socorro".
 
-:c550.30.001 :temNotaExclusao :nota_550.30.001_80b44c81049a .
+:c550.30.001 :temNotaExclusao :nota_550.30.001_0d5a946c4deb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.001_3bbe2f694792
-:nota_550.30.001_3bbe2f694792 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.001_242f04081911
+:nota_550.30.001_242f04081911 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A vigilância dos espaços sob soberania e jurisdição nacional, da circulação e segurança das linhas de comunicação deve ser consideradas em 550.30.400 – Vigilância dos espaços sob soberania e jurisdição nacional, da circulação e segurança das linhas de comunicação".
 
-:c550.30.001 :temNotaExclusao :nota_550.30.001_3bbe2f694792 .
+:c550.30.001 :temNotaExclusao :nota_550.30.001_242f04081911 .
 
 :c550.30.001 :processoTipoVC :vc_processoTipo_pe .
 :c550.30.001 :processoTransversal "S" .
@@ -4148,21 +4156,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.30 ;
 	:descricao 'Condução de operações militares no ciberespaço, assegurando a liberdade de ação do país no ciberespaço e, quando necessário e determinado, a exploração proactiva do ciberespaço para dificultar o seu uso hostil contra o interesse nacional ou impedir ameaças que ponham em risco a soberania e a segurança nacional. Inicia com a avaliação da ameaça e termina com e termina com a aprovação do relatório final. Inclui a identificação de potenciais atacantes e as suas intenções e a resposta às ameaças. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.002_fbc112fc1152
-:nota_550.30.002_fbc112fc1152 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.002_634658a98966
+:nota_550.30.002_634658a98966 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Operações defensivas, de exploração e ofensivas contra ataques cibernéticos".
 
-:c550.30.002 :temNotaAplicacao :nota_550.30.002_fbc112fc1152 .
+:c550.30.002 :temNotaAplicacao :nota_550.30.002_634658a98966 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.002_b2815b76bef8
-:nota_550.30.002_b2815b76bef8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.002_e604f7961590
+:nota_550.30.002_e604f7961590 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O apoio na proteção e defesa das infraestruturas criticas nacionais e do governo eletrónico do Estado deve ser considerado em 550.10.011 – Cibersegurança".
 
-:c550.30.002 :temNotaExclusao :nota_550.30.002_b2815b76bef8 .
+:c550.30.002 :temNotaExclusao :nota_550.30.002_e604f7961590 .
 
 :c550.30.002 :processoTipoVC :vc_processoTipo_pe .
 :c550.30.002 :processoTransversal "S" .
@@ -4220,29 +4228,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.30 ;
 	:descricao 'Intervenção em situações de estados de sítio a fim de garantir a soberania, a independência, a integridade territorial ou a ordem constitucional democrática e a segurança dos cidadãos. Inicia com a declaração de estado de sítio sob a forma de decreto do Presidente da República e termina com a revogação do decreto ou pelo decurso do prazo fixado. Inclui a audição do Governo e a autorização da Assembleia da República, a renovação ou modificação da declaração.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.003_7b8440d7fe83
-:nota_550.30.003_7b8440d7fe83 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.003_c887fa0a1aef
+:nota_550.30.003_c887fa0a1aef rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Segurança e defesa do território nacional e dos cidadãos quando se verifiquem ou estejam iminentes atos de força ou insurreição".
 
-:c550.30.003 :temNotaAplicacao :nota_550.30.003_7b8440d7fe83 .
+:c550.30.003 :temNotaAplicacao :nota_550.30.003_c887fa0a1aef .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.003_892899fef8f5
-:nota_550.30.003_892899fef8f5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.003_325703553611
+:nota_550.30.003_325703553611 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Participação das forças e serviços de segurança e de autoridades administrativas civis".
 
-:c550.30.003 :temNotaAplicacao :nota_550.30.003_892899fef8f5 .
+:c550.30.003 :temNotaAplicacao :nota_550.30.003_325703553611 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.003_5f6b9902aa1f
-:nota_550.30.003_5f6b9902aa1f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.003_2a13ea77518c
+:nota_550.30.003_2a13ea77518c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As situações de calamidade devem ser consideradas em 550.20.501 – Atuação em estados de emergência".
 
-:c550.30.003 :temNotaExclusao :nota_550.30.003_5f6b9902aa1f .
+:c550.30.003 :temNotaExclusao :nota_550.30.003_2a13ea77518c .
 
 :c550.30.003 :processoTipoVC :vc_processoTipo_pe .
 :c550.30.003 :processoTransversal "S" .
@@ -4303,21 +4311,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.30 ;
 	:descricao 'Atuação no Espaço Estratégico de Interesse Nacional Conjuntural a fim de proteger e evacuar cidadãos nacionais em áreas de tensão ou crise, através de ações autónomas ou eventualmente coligadas. Inicia com a caracterização da situação e termina com a aprovação do relatório final. Inclui determinação da tutela e/ou do CEMGFA, autorização dos chefes dos Ramos, planeamento da ação, nomeação e publicitação dos participantes na missão, elaboração de ordens e relatórios operacionais.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.004_fd44c0261c8d
-:nota_550.30.004_fd44c0261c8d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.004_32bcb7df0415
+:nota_550.30.004_32bcb7df0415 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cidadãos civis em qualquer zona do globo em que os interesses nacionais estejam em causa ou tenham lugar acontecimentos que os possam afetar".
 
-:c550.30.004 :temNotaAplicacao :nota_550.30.004_fd44c0261c8d .
+:c550.30.004 :temNotaAplicacao :nota_550.30.004_32bcb7df0415 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.004_4cebfb1e2d49
-:nota_550.30.004_4cebfb1e2d49 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.004_61c629e44b29
+:nota_550.30.004_61c629e44b29 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As ações de socorro, busca e salvamento devem ser consideradas em 550.20.500 – Ação de Proteção e Socorro".
 
-:c550.30.004 :temNotaExclusao :nota_550.30.004_4cebfb1e2d49 .
+:c550.30.004 :temNotaExclusao :nota_550.30.004_61c629e44b29 .
 
 :c550.30.004 :processoTipoVC :vc_processoTipo_pe .
 :c550.30.004 :processoTransversal "S" .
@@ -4374,21 +4382,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.30 ;
 	:descricao 'Atuação no Espaço Estratégico de Interesse Nacional Conjuntural a fim de proceder à extração, proteção ou reforço de contingentes e FND, em ambiente não permissivo, com oposição. Inicia com a caracterização da situação e termina com a aprovação do relatório final. Inclui determinação da tutela e/ou do CEMGFA, autorização dos chefes dos Ramos, planeamento da ação, nomeação e publicitação dos participantes na missão, elaboração de ordens e relatórios operacionais.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.005_b19a6a687a9e
-:nota_550.30.005_b19a6a687a9e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.005_9089e3d18b51
+:nota_550.30.005_9089e3d18b51 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Militares em qualquer zona do globo em que os interesses nacionais estejam em causa ou tenham lugar acontecimentos que os possam afetar".
 
-:c550.30.005 :temNotaAplicacao :nota_550.30.005_b19a6a687a9e .
+:c550.30.005 :temNotaAplicacao :nota_550.30.005_9089e3d18b51 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.005_c3a090a7351e
-:nota_550.30.005_c3a090a7351e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.005_ede0d6979012
+:nota_550.30.005_ede0d6979012 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A evacuação de cidadãos nacionais em áreas de crise devem ser consideradas em 550.30.004 – Evacuação de cidadãos nacionais em áreas de tensão".
 
-:c550.30.005 :temNotaExclusao :nota_550.30.005_c3a090a7351e .
+:c550.30.005 :temNotaExclusao :nota_550.30.005_ede0d6979012 .
 
 :c550.30.005 :processoTipoVC :vc_processoTipo_pe .
 :c550.30.005 :processoTransversal "S" .
@@ -4445,29 +4453,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.30 ;
 	:descricao 'Capacitar a prontidão de pessoal e meios, incluindo os diferentes órgãos e ramos militares para uma articulação concertada em território nacional e internacional. em exercícios conjuntos e combinados. Inicia com a avaliação da necessidade ou com o planeamento da ação e termina com o relatório final. Inclui autorização do CEMGFA e dos chefes dos Ramos, nomeação e publicitação dos participantes nos exercícios, elaboração de ordens e de relatórios operacionais.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.006_76c102b46aff
-:nota_550.30.006_76c102b46aff rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.006_a8c0862e0b22
+:nota_550.30.006_a8c0862e0b22 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Manobras e a exercícios militares conjuntos entre os ramos das Forças Armadas ou com as Forças Armadas de outros países".
 
-:c550.30.006 :temNotaAplicacao :nota_550.30.006_76c102b46aff .
+:c550.30.006 :temNotaAplicacao :nota_550.30.006_a8c0862e0b22 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.006_6024bcb2ca38
-:nota_550.30.006_6024bcb2ca38 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.006_d75406b8023d
+:nota_550.30.006_d75406b8023d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Manobras militares e a exercícios em território nacional ou estrangeiro".
 
-:c550.30.006 :temNotaAplicacao :nota_550.30.006_6024bcb2ca38 .
+:c550.30.006 :temNotaAplicacao :nota_550.30.006_d75406b8023d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.006_5d78072f9985
-:nota_550.30.006_5d78072f9985 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.006_749ff5148e00
+:nota_550.30.006_749ff5148e00 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Exercícios nacionais e internacionais de ciberdefesa".
 
-:c550.30.006 :temNotaAplicacao :nota_550.30.006_5d78072f9985 .
+:c550.30.006 :temNotaAplicacao :nota_550.30.006_749ff5148e00 .
 
 :c550.30.006 :processoTipoVC :vc_processoTipo_pe .
 :c550.30.006 :processoTransversal "S" .
@@ -4565,13 +4573,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.30 ;
 	:descricao 'Empregar forças e meios militares a fim de assegurar a satisfação dos compromissos internacionais assumidos no quadro mútuo de defesa coletiva. Inicia com a avaliação da necessidade e termina com o relatório final. Inclui determinação do CEMGFA e autorização dos chefes dos Ramos, nomeação e publicitação dos participantes nos exercícios, elaboração de ordens e de relatórios operacionais.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.200_0a4e0126eb5e
-:nota_550.30.200_0a4e0126eb5e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.200_8c7463fe0d31
+:nota_550.30.200_8c7463fe0d31 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Âmbito da NATO e da União Europeia (UE)".
 
-:c550.30.200 :temNotaAplicacao :nota_550.30.200_0a4e0126eb5e .
+:c550.30.200 :temNotaAplicacao :nota_550.30.200_8c7463fe0d31 .
 
 :c550.30.200 :processoTipoVC :vc_processoTipo_pe .
 :c550.30.200 :processoTransversal "S" .
@@ -4635,69 +4643,69 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.30 ;
 	:descricao 'Intervenção de controlo dos espaços sob soberania nacional e/ou no Espaço Estratégico de Interesse Nacional Permanente para assegurar a sua plena utilização em segurança, no respeito pelo Direito Internacional. Inicia com a determinação da tutela e/ou do CEMGFA e termina com a aprovação do relatório final. Inclui autorização dos chefes dos Ramos, nomeação e publicitação dos participantes das missões, elaboração de ordens e relatórios operacionais.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.400_a845f996afde
-:nota_550.30.400_a845f996afde rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.400_630a5d2d5132
+:nota_550.30.400_630a5d2d5132 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Exercício da soberania, jurisdição e responsabilidades nacionais".
 
-:c550.30.400 :temNotaAplicacao :nota_550.30.400_a845f996afde .
+:c550.30.400 :temNotaAplicacao :nota_550.30.400_630a5d2d5132 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.400_62fff2586f80
-:nota_550.30.400_62fff2586f80 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.400_0e359aa4492b
+:nota_550.30.400_0e359aa4492b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fiscalização marítima e aérea, vigilância aérea e terrestre".
 
-:c550.30.400 :temNotaAplicacao :nota_550.30.400_62fff2586f80 .
+:c550.30.400 :temNotaAplicacao :nota_550.30.400_0e359aa4492b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.400_1951563c77f6
-:nota_550.30.400_1951563c77f6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.400_2ad331b0f3ff
+:nota_550.30.400_2ad331b0f3ff rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Preservação e proteção ambiental e da prevenção da criminalidade".
 
-:c550.30.400 :temNotaAplicacao :nota_550.30.400_1951563c77f6 .
+:c550.30.400 :temNotaAplicacao :nota_550.30.400_2ad331b0f3ff .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.400_d05c1186180c
-:nota_550.30.400_d05c1186180c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.400_c5d89948b919
+:nota_550.30.400_c5d89948b919 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Garantir a livre circulação no território nacional e defesa de portos e aeroportos".
 
-:c550.30.400 :temNotaAplicacao :nota_550.30.400_d05c1186180c .
+:c550.30.400 :temNotaAplicacao :nota_550.30.400_c5d89948b919 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.400_89fe3dd3b957
-:nota_550.30.400_89fe3dd3b957 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.400_b4d076b62fbf
+:nota_550.30.400_b4d076b62fbf rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Vigiar e controlar as principais rotas internacionais aéreas e marítimas que intersetam o Espaço Estratégico de Interesse Nacional Permanente".
 
-:c550.30.400 :temNotaAplicacao :nota_550.30.400_89fe3dd3b957 .
+:c550.30.400 :temNotaAplicacao :nota_550.30.400_b4d076b62fbf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.400_eccc5e7434c2
-:nota_550.30.400_eccc5e7434c2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.400_79626ec285bf
+:nota_550.30.400_79626ec285bf rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As ações de controlo de fronteiras devem ser consideradas em 550.10.008 – Controlo de pessoas nas fronteiras".
 
-:c550.30.400 :temNotaExclusao :nota_550.30.400_eccc5e7434c2 .
+:c550.30.400 :temNotaExclusao :nota_550.30.400_79626ec285bf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.400_aa9c1b1a9b30
-:nota_550.30.400_aa9c1b1a9b30 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.400_21e06928998e
+:nota_550.30.400_21e06928998e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Excluem-se as ações no âmbito do Regime jurídico aplicável ao trabalho aéreo".
 
-:c550.30.400 :temNotaExclusao :nota_550.30.400_aa9c1b1a9b30 .
+:c550.30.400 :temNotaExclusao :nota_550.30.400_21e06928998e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.400_f8f84349e240
-:nota_550.30.400_f8f84349e240 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.400_623bf180529c
+:nota_550.30.400_623bf180529c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A execução de operações de segurança proteção ou defesa deve ser considerada em 550.10.302 – Autorização de trânsito para efeitos de afastamento por via aérea".
 
-:c550.30.400 :temNotaExclusao :nota_550.30.400_f8f84349e240 .
+:c550.30.400 :temNotaExclusao :nota_550.30.400_623bf180529c .
 
 :c550.30.400 :processoTipoVC :vc_processoTipo_pe .
 :c550.30.400 :processoTransversal "S" .
@@ -4761,45 +4769,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.30 ;
 	:descricao 'Participação das forças militares em operações de resposta em cenário de guerra no âmbito da NATO, a fim de contribuir para a segurança internacional. Inicia-se com os despachos da tutela e das direções dos organismos participantes e termina com o relatório final. Inclui autorização dos chefes dos Ramos, nomeação e publicitação dos participantes das missões, elaboração de ordens e relatórios operacionais. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.600_880d0829b4f4
-:nota_550.30.600_880d0829b4f4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.600_503c85fa346d
+:nota_550.30.600_503c85fa346d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Operações militares fora do território nacional e no âmbito da NATO, que assenta nos compromissos internacionais de Portugal, envolvendo praticamente todas as capacidades expedicionárias das Forças Armadas portuguesas".
 
-:c550.30.600 :temNotaAplicacao :nota_550.30.600_880d0829b4f4 .
+:c550.30.600 :temNotaAplicacao :nota_550.30.600_503c85fa346d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.600_cd6dd1b28f97
-:nota_550.30.600_cd6dd1b28f97 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.600_30fe3bbfb664
+:nota_550.30.600_30fe3bbfb664 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio e assistência a deslocados e refugiados e operações humanitárias fora do âmbito das operações de apoio à paz".
 
-:c550.30.600 :temNotaAplicacao :nota_550.30.600_cd6dd1b28f97 .
+:c550.30.600 :temNotaAplicacao :nota_550.30.600_30fe3bbfb664 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.600_9c31e4301459
-:nota_550.30.600_9c31e4301459 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.600_d4752dd3c50d
+:nota_550.30.600_d4752dd3c50d rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A evacuação de cidadãos nacionais em áreas de crise deve ser considerada em 550.30.004 – Evacuação de cidadãos nacionais em áreas de tensão".
 
-:c550.30.600 :temNotaExclusao :nota_550.30.600_9c31e4301459 .
+:c550.30.600 :temNotaExclusao :nota_550.30.600_d4752dd3c50d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.600_acdce9512ef1
-:nota_550.30.600_acdce9512ef1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.600_331bd37f868b
+:nota_550.30.600_331bd37f868b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A extração e proteção de Contingentes e Forças Nacionais Destacadas deve ser considerada em 550.30.005 – Extração e proteção de contingentes e Forças Nacionais Destacadas".
 
-:c550.30.600 :temNotaExclusao :nota_550.30.600_acdce9512ef1 .
+:c550.30.600 :temNotaExclusao :nota_550.30.600_331bd37f868b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.600_ec292cc579a4
-:nota_550.30.600_ec292cc579a4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.600_00d1d7b48115
+:nota_550.30.600_00d1d7b48115 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As ações de proteção, socorro, busca e salvamento devem ser consideradas em 550.20.500 – Ação de proteção e socorro".
 
-:c550.30.600 :temNotaExclusao :nota_550.30.600_ec292cc579a4 .
+:c550.30.600 :temNotaExclusao :nota_550.30.600_00d1d7b48115 .
 
 :c550.30.600 :processoTipoVC :vc_processoTipo_pe .
 :c550.30.600 :processoTransversal "S" .
@@ -4858,53 +4866,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c550.30 ;
 	:descricao 'Gestão civil de crises e de manutenção da paz no âmbito policial que decorram fora do território nacional, quer sob a égide de um organismo internacional quer sob a requisição do Governo anfitrião. Inicia-se com os despachos da tutela e das direções dos organismos participantes e termina com o relatório final.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.601_49db86b51720
-:nota_550.30.601_49db86b51720 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.601_97e224fa8273
+:nota_550.30.601_97e224fa8273 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Gestão civil de crises e de manutenção da paz no âmbito policial que decorram fora do território nacional, quer sob a égide de um organismo internacional (EUROGENDFOR, NATO, ONU) quer sob a requisição do Governo anfitrião".
 
-:c550.30.601 :temNotaAplicacao :nota_550.30.601_49db86b51720 .
+:c550.30.601 :temNotaAplicacao :nota_550.30.601_97e224fa8273 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.601_d4958f0d3f3d
-:nota_550.30.601_d4958f0d3f3d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.601_4b8bf3e77e4c
+:nota_550.30.601_4b8bf3e77e4c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atuação militar para reposição e manutenção da paz".
 
-:c550.30.601 :temNotaAplicacao :nota_550.30.601_d4958f0d3f3d .
+:c550.30.601 :temNotaAplicacao :nota_550.30.601_4b8bf3e77e4c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.601_193d75b076ba
-:nota_550.30.601_193d75b076ba rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.601_53842b5d3f54
+:nota_550.30.601_53842b5d3f54 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atuação militar no âmbito da NATO, incluindo o policiamento aéreo e vigilância aeronaval, da UE, ONU e CPLP, nomeadamente manutenção, imposição, restabelecimento e consolidação da paz e prevenção de conflitos".
 
-:c550.30.601 :temNotaAplicacao :nota_550.30.601_193d75b076ba .
+:c550.30.601 :temNotaAplicacao :nota_550.30.601_53842b5d3f54 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.601_321d75f77bde
-:nota_550.30.601_321d75f77bde rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.601_2634d581bbe5
+:nota_550.30.601_2634d581bbe5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Compromissos decorrentes de acordos, tratados e convenções internacionais, designadamente em operações internacionais de gestão civil de crises da União Europeia, de apoio à paz da ONU e/ou coordenadas por outras Organizações Internacionais ou Regionais em que haja participação no âmbito policial".
 
-:c550.30.601 :temNotaAplicacao :nota_550.30.601_321d75f77bde .
+:c550.30.601 :temNotaAplicacao :nota_550.30.601_2634d581bbe5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.601_8e6a9c7883fc
-:nota_550.30.601_8e6a9c7883fc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.601_c3463c0a3aa4
+:nota_550.30.601_c3463c0a3aa4 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A ajuda humanitária no estrangeiro deve ser considerada em 200.30.001 – Coordenação e execução de ações de ajuda humanitária e de emergência".
 
-:c550.30.601 :temNotaExclusao :nota_550.30.601_8e6a9c7883fc .
+:c550.30.601 :temNotaExclusao :nota_550.30.601_c3463c0a3aa4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.601_a775e1705868
-:nota_550.30.601_a775e1705868 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_550.30.601_be7702250658
+:nota_550.30.601_be7702250658 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Excluem-se as operações de âmbito estritamente militar que não sejam a manutenção da ordem pública, de investigação criminal, de proteção da natureza e pesquisa de informações policiais".
 
-:c550.30.601 :temNotaExclusao :nota_550.30.601_a775e1705868 .
+:c550.30.601 :temNotaExclusao :nota_550.30.601_be7702250658 .
 
 :c550.30.601 :processoTipoVC :vc_processoTipo_pe .
 :c550.30.601 :processoTransversal "S" .

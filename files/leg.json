@@ -15706,5 +15706,87 @@
         "data": "2017-03-02",
         "sumario": "Estabelece o regime de regulação das responsabilidades parentaispor mútuo acordo junto das Conservatórias do Registo Civil,alterando o Código Civil aprovado pelo Decreto -Lei n.º 47344, de25 de novembro de 1966, e o Código do Registo Civil, aprovadopelo Decreto -Lei n.º 131/95, de 6 de junho.",
         "link": "https://files.dre.pt/1s/2017/03/04400/0112101122.pdf"
+    },
+    {
+        "tipo": "Estatuto",
+        "numero": "NE",
+        "entidade": [
+            "TJUE"
+        ],
+        "codigo": "Estatuto_TJUE",
+        "estado": "Ativo",
+        "data": "2012-08-23",
+        "sumario": "Versão consolidada do Protocolo (n.° 3) relativo ao Estatutodo Tribunal de Justiça da União Europeia, anexo aos Tratados, conforme alterado peloRegulamento (UE, Euratom) n.° 741/2012 do Parlamento Europeu e do Conselho, de11 de agosto de 2012 (JO L 228, de 23 de agosto 2012, p. 1), pelo artigo 9.º do Atorelativo às condições de adesão à União Europeia, do Tratado sobre o Funcionamentoda União Europeia e do Tratado que institui a Comunidade Europeia da EnergiaAtómica (JO L 112, de 24 de abril de 2012, p. 21), pelo Regulamento (UE, Euratom)2015/2422 do Parlamento Europeu e do Conselho de 16 de dezembro de 2015(JO L 341 de 24 de dezembro de 2015, p. 14), pelo Regulamento (UE, Euratom)2016/1192 do Parlamento Europeu e do Conselho, de 6 de julho de 2016, relativo àtransferência para o Tribunal Geral da União Europeia da competência para decidir,em primeira instância, dos litígios entre a União Europeia e os seus agentes (JO L 200de 26 de julho de 2016, p. 137) bem como pelo Regulamento (UE, Euratom)2019/629 do Parlamento Europeu e do Conselho, de 17 de abril de 2019 (JO L 111, de25 de abril de 2019, p. 1).",
+        "link": "https://curia.europa.eu/jcms/upload/docs/application/pdf/2016-08/tra-doc-pt-div-c-0000-2016-201606984-05_00.pdf"
+    },
+    {
+        "tipo": "Portaria",
+        "numero": "139_2021",
+        "codigo": "Portaria_139_2021",
+        "estado": "Ativo",
+        "data": "2021-07-07",
+        "sumario": "Regulamento para a classificação e avaliação da informação Arquivística das Entidades integradas na área governativa do Mar",
+        "fonte": "PGD/LC",
+        "link": "https://files.dre.pt/1s/2021/07/13000/0007200232.pdf"
+    },
+    {
+        "tipo": "Portaria",
+        "numero": "177_2021",
+        "codigo": "Portaria_177_2021",
+        "estado": "Ativo",
+        "data": "2021-08-24",
+        "sumario": "Regulamento para a Classificação e Avaliação da Informação Arquivística da Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (IGAMAOT)",
+        "fonte": "PGD/LC",
+        "link": "https://files.dre.pt/1s/2021/08/16400/0002000103.pdf"
+    },
+    {
+        "tipo": "Portaria",
+        "numero": "118_2021",
+        "codigo": "Portaria_118_2021",
+        "estado": "Ativo",
+        "data": "2021-06-02",
+        "sumario": "Regulamento para a classificação e avaliação da informação Arquivística das Entidades integradas nas áreas governativas da Agricultura e do Mar",
+        "fonte": "PGD/LC",
+        "link": "https://files.dre.pt/1s/2021/06/10700/0001600150.pdf"
+    },
+    {
+        "tipo": "Portaria",
+        "numero": "117_2021",
+        "codigo": "Portaria_117_2021",
+        "estado": "Ativo",
+        "data": "2021-06-01",
+        "sumario": "Regulamento para a classificação e avaliação da informação Arquivística das Entidades  integradas na área governativa da Agricultura",
+        "fonte": "PGD/LC",
+        "link": "https://files.dre.pt/1s/2021/06/10600/0001400200.pdf"
+    },
+    {
+        "tipo": "Portaria",
+        "numero": "256_2021",
+        "codigo": "Portaria_256_2021",
+        "estado": "Ativo",
+        "data": "2021-11-19",
+        "sumario": "Regulamento para a Classificação e Avaliação da Informação Arquivística daSecretaria-Geral da Economia (SGE), do Gabinete de Estratégia e Estudos (GEE), da Direção-Geral das Atividades Económicas (DGAE), da Direção-Geral do Consumidor (DGC) e da Autoridade de Segurança Alimentar e Económica (ASAE).",
+        "fonte": "PGD/LC",
+        "link": "https://files.dre.pt/1s/2021/11/22500/0001600126.pdf"
+    },
+    {
+        "tipo": "Portaria",
+        "numero": "328_2021",
+        "codigo": "Portaria_328_2021",
+        "estado": "Ativo",
+        "data": "2021-12-30",
+        "sumario": "Regulamento para a classificação e avaliação da informação arquivística doInstituto da Conservação da Natureza e das Florestas, I. P.",
+        "fonte": "PGD/LC",
+        "link": "https://files.dre.pt/1s/2021/12/25200/0007700216.pdf"
+    },
+    {
+        "tipo": "Portaria",
+        "numero": "224_2021",
+        "codigo": "Portaria_224_2021",
+        "estado": "Ativo",
+        "data": "2021-06-11",
+        "sumario": "Regulamento para a Classificação e Avaliação da Informação Arquivística daMetro do Porto, S. A.",
+        "fonte": "PGD/LC",
+        "link": "https://files.dre.pt/2s/2021/06/112000000/0010500175.pdf"
     }
 ]

@@ -8,37 +8,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :lc1 ;
 	:descricao 'Relativo à definição e acompanhamento das políticas conjuntas de Portugal com outros Estados bem como à definição e acompanhamento das políticas de organismos internacionais de que Portugal é membro. Relativo, ainda, à definição e acompanhamento da execução de acordos, protocolos ou outros compromissos de cooperação interinstitucional celebrados no quadro das relações internacionais estabelecidas pelo Estado português.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200_51203f7e5016
-:nota_200_51203f7e5016 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200_b2c0b4eb7347
+:nota_200_b2c0b4eb7347 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acompanhamento político e diplomático das relações internacionais bilaterais e multilaterais".
 
-:c200 :temNotaAplicacao :nota_200_51203f7e5016 .
+:c200 :temNotaAplicacao :nota_200_b2c0b4eb7347 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200_4cab66ef9a10
-:nota_200_4cab66ef9a10 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200_7f172931b0e4
+:nota_200_7f172931b0e4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acompanhamento dos compromissos institucionais e a realização de projetos e ações de execução da política externa concretizadas por organismos da Administração Central, Regional ou Local".
 
-:c200 :temNotaAplicacao :nota_200_4cab66ef9a10 .
+:c200 :temNotaAplicacao :nota_200_7f172931b0e4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200_1f0169f24a14
-:nota_200_1f0169f24a14 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200_986e44422345
+:nota_200_986e44422345 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A produção de informações no âmbito do SIRP deve ser considerada em \"Planeamento e gestão estratégica/ Produção de informações estratégicas e de segurança\" (150.30)".
 
-:c200 :temNotaExclusao :nota_200_1f0169f24a14 .
+:c200 :temNotaExclusao :nota_200_986e44422345 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200_fc4f890eaa15
-:nota_200_fc4f890eaa15 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200_4d4e10021831
+:nota_200_4d4e10021831 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A componente protocolar da organização de cerimónias e receções oficiais deve ser considerada no âmbito do evento a que diz respeito".
 
-:c200 :temNotaExclusao :nota_200_fc4f890eaa15 .
+:c200 :temNotaExclusao :nota_200_4d4e10021831 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c200.10
@@ -50,61 +50,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200 ;
 	:descricao 'Compreende as atividades que consubstanciam a participação na negociação, preparação e fixação de instrumentos reguladores das relações internacionais, de decisões tomadas no âmbito da cooperação intergovernamental da União Europeia, bem como de instrumentos de regulação comunitária. Compreende, igualmente, a participação na elaboração de normas técnicas europeias e internacionais.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10_cdb0afb0b6e0
-:nota_200.10_cdb0afb0b6e0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10_ee2d3a936acb
+:nota_200.10_ee2d3a936acb rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atividades preparatórias de cimeiras, encontros e reuniões políticas ou técnicas, e na representação nacional nas mesmas cimeiras ou encontros de chefes de Estado e de Governo, reuniões e conselhos de ministros de diferentes Estados, reuniões de dirigentes, de comités e de grupos de peritos internacionais".
 
-:c200.10 :temNotaAplicacao :nota_200.10_cdb0afb0b6e0 .
+:c200.10 :temNotaAplicacao :nota_200.10_ee2d3a936acb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10_34be7c2d10b8
-:nota_200.10_34be7c2d10b8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10_2702e339dbf6
+:nota_200.10_2702e339dbf6 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Participação política e técnica (de quaisquer entidades de âmbito nacional, regional ou local) na elaboração de tratados, acordos, protocolos, tomadas de posição comuns, memorandos de entendimento, cartas de princípios e instrumentos similares que regulam as relações internacionais, bilaterais ou multilaterais. Inclui os acordos de geminação estabelecidos no quadro das relações internacionais".
 
-:c200.10 :temNotaAplicacao :nota_200.10_34be7c2d10b8 .
+:c200.10 :temNotaAplicacao :nota_200.10_2702e339dbf6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10_d3c630ae6f1a
-:nota_200.10_d3c630ae6f1a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10_fa82d597288a
+:nota_200.10_fa82d597288a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Trabalhos preparatórios da participação portuguesa na defesa das posições nacionais sobre as políticas da União Europeia em qualquer domínio, e a participação política e/ou técnica na elaboração de políticas comuns, programas-quadro, recomendações, diretivas, regulamentos ou outros instrumentos políticos e regulamentares de âmbito comunitário".
 
-:c200.10 :temNotaAplicacao :nota_200.10_d3c630ae6f1a .
+:c200.10 :temNotaAplicacao :nota_200.10_fa82d597288a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10_e06657328802
-:nota_200.10_e06657328802 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10_ffbefea9f72d
+:nota_200.10_ffbefea9f72d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Trabalhos preparatórios da participação portuguesa em organismos de normalização europeus ou internacionais".
 
-:c200.10 :temNotaAplicacao :nota_200.10_e06657328802 .
+:c200.10 :temNotaAplicacao :nota_200.10_ffbefea9f72d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10_0396a7cff319
-:nota_200.10_0396a7cff319 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10_1e4e36fcf8fe
+:nota_200.10_1e4e36fcf8fe rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A definição da política externa portuguesa, tal como a definição das demais políticas, deve ser considerada em \"Planeamento e gestão estratégica/ Definição e avaliação de políticas\" (150.10)".
 
-:c200.10 :temNotaExclusao :nota_200.10_0396a7cff319 .
+:c200.10 :temNotaExclusao :nota_200.10_1e4e36fcf8fe .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10_307480cc074d
-:nota_200.10_307480cc074d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10_4e764b4d925c
+:nota_200.10_4e764b4d925c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os processos de vinculação do Estado português a tratados e acordos internacionais, a respetiva publicitação e a publicitação da vinculação de outros Estados-parte, bem como os processos de transposição para o ordenamento nacional de diretivas comunitárias e de normas técnicas europeias ou internacionais, devem ser considerados em \"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\" (100.10)".
 
-:c200.10 :temNotaExclusao :nota_200.10_307480cc074d .
+:c200.10 :temNotaExclusao :nota_200.10_4e764b4d925c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10_798dfb6d1088
-:nota_200.10_798dfb6d1088 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10_d5de4606b8bc
+:nota_200.10_d5de4606b8bc rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A celebração de acordos e protocolos de cooperação interinstitucional em que não participem organismos estrangeiros ou internacionais não está subordinada à política externa, pelo que deve ser considerada em \"Planeamento e gestão estratégica/ Definição e avaliação de políticas\" (150.10)".
 
-:c200.10 :temNotaExclusao :nota_200.10_798dfb6d1088 .
+:c200.10 :temNotaExclusao :nota_200.10_d5de4606b8bc .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c200.10.001
@@ -116,141 +116,141 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.10 ;
 	:descricao 'Preparação e apresentação da posição de Portugal no âmbito das negociações, nas reuniões de organismos ou em instâncias multilaterais/bilaterais. Inicia com o envio da agenda e termina com a remessa do contributo. Inclui os contributos de embaixadas e de ministérios setoriais, demonstrativos da posição assumida por Portugal e do processo negocial empreendido nos vários grupos de trabalho preparatórios das reuniões.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.001_f0cd42ecd756
-:nota_200.10.001_f0cd42ecd756 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.001_0cc5ce7dfe77
+:nota_200.10.001_0cc5ce7dfe77 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Relações bilaterais ou multilaterais (com países de fora da União Europeia ou com Estados-Membros da União Europeia)".
 
-:c200.10.001 :temNotaAplicacao :nota_200.10.001_f0cd42ecd756 .
+:c200.10.001 :temNotaAplicacao :nota_200.10.001_0cc5ce7dfe77 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.001_8eae290a135a
-:nota_200.10.001_8eae290a135a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.001_d447b23d082c
+:nota_200.10.001_d447b23d082c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração de contributos para as cimeiras internacionais e reuniões ministeriais no quadro internacional".
 
-:c200.10.001 :temNotaAplicacao :nota_200.10.001_8eae290a135a .
+:c200.10.001 :temNotaAplicacao :nota_200.10.001_d447b23d082c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.001_4c3117f780c1
-:nota_200.10.001_4c3117f780c1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.001_c226a20a45d0
+:nota_200.10.001_c226a20a45d0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acompanhamento no âmbito de processos multilaterais".
 
-:c200.10.001 :temNotaAplicacao :nota_200.10.001_4c3117f780c1 .
+:c200.10.001 :temNotaAplicacao :nota_200.10.001_c226a20a45d0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_bbc09bf067cc
-:exemplo_200.10.001_bbc09bf067cc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_8fadd2e85ea2
+:exemplo_200.10.001_8fadd2e85ea2 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Relações bilaterais / multilaterais em matéria consular".
 
-:c200.10.001 :temExemploNA :exemplo_200.10.001_bbc09bf067cc .
+:c200.10.001 :temExemploNA :exemplo_200.10.001_8fadd2e85ea2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_c494416129ef
-:exemplo_200.10.001_c494416129ef rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_f7403f96d379
+:exemplo_200.10.001_f7403f96d379 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Relações bilaterais / multilaterais em matéria de ambiente".
 
-:c200.10.001 :temExemploNA :exemplo_200.10.001_c494416129ef .
+:c200.10.001 :temExemploNA :exemplo_200.10.001_f7403f96d379 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_9d910e922673
-:exemplo_200.10.001_9d910e922673 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_a982895a090c
+:exemplo_200.10.001_a982895a090c rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Relações bilaterais / multilaterais em matéria de educação".
 
-:c200.10.001 :temExemploNA :exemplo_200.10.001_9d910e922673 .
+:c200.10.001 :temExemploNA :exemplo_200.10.001_a982895a090c .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_24969fd2c7f8
-:exemplo_200.10.001_24969fd2c7f8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_03648750c52e
+:exemplo_200.10.001_03648750c52e rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Relações bilaterais / multilaterais em matéria de justiça".
 
-:c200.10.001 :temExemploNA :exemplo_200.10.001_24969fd2c7f8 .
+:c200.10.001 :temExemploNA :exemplo_200.10.001_03648750c52e .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_15710ad2ab70
-:exemplo_200.10.001_15710ad2ab70 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_62702cfb90f8
+:exemplo_200.10.001_62702cfb90f8 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Relações bilaterais / multilaterais em matéria de cultura".
 
-:c200.10.001 :temExemploNA :exemplo_200.10.001_15710ad2ab70 .
+:c200.10.001 :temExemploNA :exemplo_200.10.001_62702cfb90f8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_a6b94f4a48d7
-:exemplo_200.10.001_a6b94f4a48d7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_053efb000c04
+:exemplo_200.10.001_053efb000c04 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Relações bilaterais / multilaterais em matéria de saúde".
 
-:c200.10.001 :temExemploNA :exemplo_200.10.001_a6b94f4a48d7 .
+:c200.10.001 :temExemploNA :exemplo_200.10.001_053efb000c04 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_933a9079ac8f
-:exemplo_200.10.001_933a9079ac8f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_ed27d0206fca
+:exemplo_200.10.001_ed27d0206fca rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Relações bilaterais / multilaterais em matéria de segurança".
 
-:c200.10.001 :temExemploNA :exemplo_200.10.001_933a9079ac8f .
+:c200.10.001 :temExemploNA :exemplo_200.10.001_ed27d0206fca .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_0fba2ad1e9f6
-:exemplo_200.10.001_0fba2ad1e9f6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_d1355cf72e1a
+:exemplo_200.10.001_d1355cf72e1a rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Relações bilaterais / multilaterais em matéria de defesa".
 
-:c200.10.001 :temExemploNA :exemplo_200.10.001_0fba2ad1e9f6 .
+:c200.10.001 :temExemploNA :exemplo_200.10.001_d1355cf72e1a .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_6b41368ce4ca
-:exemplo_200.10.001_6b41368ce4ca rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_45b8ff761793
+:exemplo_200.10.001_45b8ff761793 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Relações bilaterais / multilaterais em matéria económica".
 
-:c200.10.001 :temExemploNA :exemplo_200.10.001_6b41368ce4ca .
+:c200.10.001 :temExemploNA :exemplo_200.10.001_45b8ff761793 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_65694eb948ce
-:exemplo_200.10.001_65694eb948ce rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_ef2ed90bfcd0
+:exemplo_200.10.001_ef2ed90bfcd0 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Relações bilaterais / multilaterais em matéria de emprego".
 
-:c200.10.001 :temExemploNA :exemplo_200.10.001_65694eb948ce .
+:c200.10.001 :temExemploNA :exemplo_200.10.001_ef2ed90bfcd0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_3d72b67c8bfc
-:exemplo_200.10.001_3d72b67c8bfc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_3fd8cd94510e
+:exemplo_200.10.001_3fd8cd94510e rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Relações bilaterais / multilaterais em matéria de formação profissional".
 
-:c200.10.001 :temExemploNA :exemplo_200.10.001_3d72b67c8bfc .
+:c200.10.001 :temExemploNA :exemplo_200.10.001_3fd8cd94510e .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_9bff0172c69c
-:exemplo_200.10.001_9bff0172c69c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.001_561449ef1929
+:exemplo_200.10.001_561449ef1929 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Relações bilaterais / multilaterais em matéria de relações e condições de trabalho, incluindo a segurança e saúde no trabalho".
 
-:c200.10.001 :temExemploNA :exemplo_200.10.001_9bff0172c69c .
+:c200.10.001 :temExemploNA :exemplo_200.10.001_561449ef1929 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.001_5c29ec64734d
-:nota_200.10.001_5c29ec64734d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.001_7522608b94b3
+:nota_200.10.001_7522608b94b3 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A definição de políticas nacionais setoriais deve ser considerada em 150.10.100 – Definição de políticas setoriais".
 
-:c200.10.001 :temNotaExclusao :nota_200.10.001_5c29ec64734d .
+:c200.10.001 :temNotaExclusao :nota_200.10.001_7522608b94b3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.001_fa9a0fa3dc2a
-:nota_200.10.001_fa9a0fa3dc2a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.001_060f1c84ca4e
+:nota_200.10.001_060f1c84ca4e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A definição de posições nacionais e de tomada de posição conjunta no âmbito da União Europeia devem ser classificadas em 200.10.400 – Definição conjunta das opções estratégicas da União Europeia e em 200.10.501 – Definição e coordenação das políticas setoriais pelos Estados Membros da União Europeia, respetivamente".
 
-:c200.10.001 :temNotaExclusao :nota_200.10.001_fa9a0fa3dc2a .
+:c200.10.001 :temNotaExclusao :nota_200.10.001_060f1c84ca4e .
 
 :c200.10.001 :processoTipoVC :vc_processoTipo_pc .
 :c200.10.001 :processoTransversal "S" .
@@ -381,173 +381,173 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.10 ;
 	:descricao 'Concretização de ações nas quais o Estado tem interesse e direito de participação, enviando representantes portugueses que tomam parte e intervêm em reuniões ou encontros de organismos e estruturas internacionais. Inicia com o convite ou convocatória e termina com a realização de relatório final. Inclui compilação de documentação de suporte, eventual consulta de entidades.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.002_57fee91afb15
-:nota_200.10.002_57fee91afb15 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.002_06c3850e05ff
+:nota_200.10.002_06c3850e05ff rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Participação de entidades da administração central (direta e indireta), local e do setor empresarial do estado em reuniões que envolvam organismos e instituições internacionais congéneres".
 
-:c200.10.002 :temNotaAplicacao :nota_200.10.002_57fee91afb15 .
+:c200.10.002 :temNotaAplicacao :nota_200.10.002_06c3850e05ff .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.002_060690a9e699
-:nota_200.10.002_060690a9e699 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.002_c05b3e063d3a
+:nota_200.10.002_c05b3e063d3a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Participação em reuniões de comités ou grupos de trabalho, formais e informais, no âmbito da OSCE, OCDE, ONU, NATO, FMI, CPLP, Cimeira Ibero-Americana, Fórum Ibero-Americano das Agências Governamentais de Defesa do Consumidor e Aliança do Pacífico entre outros espaços multilaterais.".
 
-:c200.10.002 :temNotaAplicacao :nota_200.10.002_060690a9e699 .
+:c200.10.002 :temNotaAplicacao :nota_200.10.002_c05b3e063d3a .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_cd7a05fb174e
-:exemplo_200.10.002_cd7a05fb174e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_67b2aac50f0c
+:exemplo_200.10.002_67b2aac50f0c rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Elaboração de contributos para as estruturas da Organização das Nações Unidas (ONU)".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_cd7a05fb174e .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_67b2aac50f0c .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_86ae90447562
-:exemplo_200.10.002_86ae90447562 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_cba06bee1eb4
+:exemplo_200.10.002_cba06bee1eb4 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Elaboração de contributos para as estruturas da Organização do Tratado do Atlântico Norte (NATO)".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_86ae90447562 .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_cba06bee1eb4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_12273f34e69a
-:exemplo_200.10.002_12273f34e69a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_a8d8370e3778
+:exemplo_200.10.002_a8d8370e3778 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo " Elaboração de contributos para as estruturas da Comunidade dos Países de Lingua Portuguesa (CPLP)".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_12273f34e69a .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_a8d8370e3778 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_79ea1e00c303
-:exemplo_200.10.002_79ea1e00c303 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_b4a4e0b312c2
+:exemplo_200.10.002_b4a4e0b312c2 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Elaboração de contributos para as estruturas da Organização para a Segurança e Cooperação na Europa (OSCE)".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_79ea1e00c303 .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_b4a4e0b312c2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_c3f7c1981641
-:exemplo_200.10.002_c3f7c1981641 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_153454e2eb1b
+:exemplo_200.10.002_153454e2eb1b rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Elaboração de contributos para reuniões no âmbito do controlo de armamento".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_c3f7c1981641 .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_153454e2eb1b .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_d22566a14404
-:exemplo_200.10.002_d22566a14404 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_d0087af28f76
+:exemplo_200.10.002_d0087af28f76 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Comité da Indústria, Inovação e Empreendedorismo da OCDE".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_d22566a14404 .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_d0087af28f76 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_ba8d19084087
-:exemplo_200.10.002_ba8d19084087 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_2c984421d65f
+:exemplo_200.10.002_2c984421d65f rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Comité de Investimentos da OCDE".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_ba8d19084087 .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_2c984421d65f .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_cc3e3bf0cb16
-:exemplo_200.10.002_cc3e3bf0cb16 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_8bdfb81a204d
+:exemplo_200.10.002_8bdfb81a204d rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Comité do Aço da OCDE".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_cc3e3bf0cb16 .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_8bdfb81a204d .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_5a5a116c5fcd
-:exemplo_200.10.002_5a5a116c5fcd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_f500147f86d5
+:exemplo_200.10.002_f500147f86d5 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Comité do comércio da OCDE".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_5a5a116c5fcd .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_f500147f86d5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_18711234c1c0
-:exemplo_200.10.002_18711234c1c0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_3a9cd1a7e137
+:exemplo_200.10.002_3a9cd1a7e137 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Coordenação da posição do ME junto da OMC, OCDE e UNTAD".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_18711234c1c0 .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_3a9cd1a7e137 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_6b9858649caf
-:exemplo_200.10.002_6b9858649caf rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_a2c810ce9a1e
+:exemplo_200.10.002_a2c810ce9a1e rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "FIAGC - Fórum Ibero-Americano das Agências Governamentais de Defesa do Consumidor".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_6b9858649caf .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_a2c810ce9a1e .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_5939815a236f
-:exemplo_200.10.002_5939815a236f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_b9cba6b454ba
+:exemplo_200.10.002_b9cba6b454ba rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Grupo de Trabalho do Comité do Comércio da OCDE".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_5939815a236f .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_b9cba6b454ba .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_0d1703b58c15
-:exemplo_200.10.002_0d1703b58c15 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_908c56083650
+:exemplo_200.10.002_908c56083650 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "OCDE: Comité da Política do Consumidor, Grupo de trabalho informal de redação das Diretrizes da OCDE sobre o Comércio Eletrónico".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_0d1703b58c15 .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_908c56083650 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_7aa0f6303fd7
-:exemplo_200.10.002_7aa0f6303fd7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_92f33561a2f3
+:exemplo_200.10.002_92f33561a2f3 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação em reuniões de organizações internacionais: OCDE, ONU, FMI".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_7aa0f6303fd7 .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_92f33561a2f3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_d38b225ea00d
-:exemplo_200.10.002_d38b225ea00d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_367f8dae4cdc
+:exemplo_200.10.002_367f8dae4cdc rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Ponto de contacto nacional - guidelines para empresas multinacionais da OCDE".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_d38b225ea00d .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_367f8dae4cdc .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_d6cb5f37932e
-:exemplo_200.10.002_d6cb5f37932e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_4f7dbb19e627
+:exemplo_200.10.002_4f7dbb19e627 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Ponto de contacto para diretrizes da OCDE".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_d6cb5f37932e .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_4f7dbb19e627 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_ee2df78d634b
-:exemplo_200.10.002_ee2df78d634b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_bf25a706ece4
+:exemplo_200.10.002_bf25a706ece4 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Projeto Benchmarking desempenho PME da OCDE".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_ee2df78d634b .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_bf25a706ece4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_8b898bee8c00
-:exemplo_200.10.002_8b898bee8c00 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_44725eaba09b
+:exemplo_200.10.002_44725eaba09b rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Rede ICPEN - International Consumer Policy and Enforcement Network".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_8b898bee8c00 .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_44725eaba09b .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_b0f8b7cc9c0e
-:exemplo_200.10.002_b0f8b7cc9c0e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.002_9f451a57cdf9
+:exemplo_200.10.002_9f451a57cdf9 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "UNCTAD - Conferência das Nações Unidas para o Comércio e o Desenvolvimento".
 
-:c200.10.002 :temExemploNA :exemplo_200.10.002_b0f8b7cc9c0e .
+:c200.10.002 :temExemploNA :exemplo_200.10.002_9f451a57cdf9 .
 
 :c200.10.002 :processoTipoVC :vc_processoTipo_pc .
 :c200.10.002 :processoTransversal "S" .
@@ -771,21 +771,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.10 ;
 	:descricao 'Ações de reclamação ou queixa junto de organizações internacionais, por parte de Portugal, países terceiros e organizações internacionais, respeitante ao não cumprimento de instrumentos normativos a que Portugal se encontra vinculado. Inicia com uma reclamação ou queixa respeitante ao não cumprimento de instrumentos em que Portugal é parte e termina com a consequente resposta ao órgão decisor. Inclui a análise da reclamação, recolha de informação sobre a matéria em causa.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.100_071296d721d1
-:nota_200.10.100_071296d721d1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.100_dfad43c259af
+:nota_200.10.100_dfad43c259af rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Violação de normas internacionais ratificadas por Portugal".
 
-:c200.10.100 :temNotaAplicacao :nota_200.10.100_071296d721d1 .
+:c200.10.100 :temNotaAplicacao :nota_200.10.100_dfad43c259af .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.100_5c5f53222145
-:nota_200.10.100_5c5f53222145 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.100_72b2af30de04
+:nota_200.10.100_72b2af30de04 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Incumprimento de convenções, protocolos, regulamentos, ou outros instrumentos normativos internacionais ratificados por Portugal".
 
-:c200.10.100 :temNotaAplicacao :nota_200.10.100_5c5f53222145 .
+:c200.10.100 :temNotaAplicacao :nota_200.10.100_72b2af30de04 .
 
 :c200.10.100 :processoTipoVC :vc_processoTipo_pc .
 :c200.10.100 :processoTransversal "S" .
@@ -847,6 +847,8 @@
 :c200.10.100 :eSucessorDe :c100.10.002 .
 :c200.10.100 :temRelProc :c200.10.800 .
 :c200.10.100 :eSucessorDe :c200.10.800 .
+:c200.10.100 :temRelProc :c500.10.001 .
+:c200.10.100 :eSuplementoPara :c500.10.001 .
 :c200.10.100 :temPCA :pca_c200.10.100.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c200.10.100
 :pca_c200.10.100 rdf:type owl:NamedIndividual ,
@@ -890,29 +892,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.10 ;
 	:descricao 'Estabelecimento e revisão de acordos vinculativos entre os países da UE, onde se encontram consagrados os objetivos da UE, as regras por que se regem as instituições europeias, o processo de tomada de decisões e a relação entre a UE e os países que a constituem, e ao abrigo dos quais as instituições europeias adotam a legislação a aplicar (Tratados), bem como de atos legislativos obrigatórios, de alcance geral (Regulamentos e Diretivas) ou específico (Decisões), que as instituições da UE adotam para exercer as suas competências e atribuições e através dos quais se procura, por um lado a unificação do direito, por outro, a necessária conciliação da unidade do direito da União com a manutenção das diversas peculiaridades nacionais, com uma aproximação das diversas legislações. Inicia com o pedido remetido pela entidade proponente e termina com a aprovação. Inclui a compilação de pareceres dos serviços, das versões provisórias e definitiva dos articulados, de documentos técnicos, apontamentos, pontos de situação, pareceres dos ministérios setoriais, memorandos e notas verbais atestando a conclusão do processo de aprovação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.200_f4fba4b17c36
-:nota_200.10.200_f4fba4b17c36 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.200_a539c5e9d32f
+:nota_200.10.200_a539c5e9d32f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Preparação e negociação de Tratados da União Europeia e respetiva revisão".
 
-:c200.10.200 :temNotaAplicacao :nota_200.10.200_f4fba4b17c36 .
+:c200.10.200 :temNotaAplicacao :nota_200.10.200_a539c5e9d32f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.200_7dcc983eb030
-:nota_200.10.200_7dcc983eb030 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.200_a03208dcc552
+:nota_200.10.200_a03208dcc552 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Elaboração de Regulamentos".
 
-:c200.10.200 :temNotaAplicacao :nota_200.10.200_7dcc983eb030 .
+:c200.10.200 :temNotaAplicacao :nota_200.10.200_a03208dcc552 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.200_36adf3cfc42d
-:nota_200.10.200_36adf3cfc42d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.200_405a16adaf70
+:nota_200.10.200_405a16adaf70 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Preparação e negociação de Decisões e Diretivas".
 
-:c200.10.200 :temNotaAplicacao :nota_200.10.200_36adf3cfc42d .
+:c200.10.200 :temNotaAplicacao :nota_200.10.200_405a16adaf70 .
 
 :c200.10.200 :processoTipoVC :vc_processoTipo_pe .
 :c200.10.200 :processoTransversal "S" .
@@ -1019,29 +1021,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.10 ;
 	:descricao 'Elaboração de atos legislativos de alcance geral ou específico, não vinculativos. Inicia com o pedido remetido pela entidade proponente e termina com a aprovação. Inclui compilação de pareceres dos serviços, de versões provisórias e definitiva dos articulados, de documentos técnicos, apontamentos, pontos de situação, pareceres dos ministérios setoriais, memorandos e notas verbais atestando a conclusão do processo de aprovação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.201_6556588ace5b
-:nota_200.10.201_6556588ace5b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.201_b3dac3a80672
+:nota_200.10.201_b3dac3a80672 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Preparação de Recomendações UE".
 
-:c200.10.201 :temNotaAplicacao :nota_200.10.201_6556588ace5b .
+:c200.10.201 :temNotaAplicacao :nota_200.10.201_b3dac3a80672 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.201_81f3c1ee433d
-:nota_200.10.201_81f3c1ee433d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.201_c3384299a2c3
+:nota_200.10.201_c3384299a2c3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Preparação de Pareceres UE".
 
-:c200.10.201 :temNotaAplicacao :nota_200.10.201_81f3c1ee433d .
+:c200.10.201 :temNotaAplicacao :nota_200.10.201_c3384299a2c3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.201_f62e6520408a
-:nota_200.10.201_f62e6520408a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.201_cfeef86a44c0
+:nota_200.10.201_cfeef86a44c0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Negociação / revisão de normas não vinculativas da UE".
 
-:c200.10.201 :temNotaAplicacao :nota_200.10.201_f62e6520408a .
+:c200.10.201 :temNotaAplicacao :nota_200.10.201_cfeef86a44c0 .
 
 :c200.10.201 :processoTipoVC :vc_processoTipo_pe .
 :c200.10.201 :processoTransversal "S" .
@@ -1144,45 +1146,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.10 ;
 	:descricao 'Coordenação da posição nacional relativa à aplicação do direito da UE e à falta de transposição de diretivas na fase pré contenciosa formal e informal. Inicia com o pedido de informação requerido pela Comissão Europeia, oficiosamente ou na sequência de queixas, ou nos casos da transposição de diretivas com a notificação de incumprimento da Comissão e termina com o arquivamento da ação ou a sua passagem à fase contenciosa. Inclui diligências efetuadas junto do Ministério setorial competente. Inclui ainda o procedimento pré-contencioso imposto pelos tratados europeus, como passo prévio necessário a uma eventual ação judicial por incumprimento iniciados pela Comissão Europeia contra um Estado Membro, no âmbito dos seus poderes de verificação pré-contenciosa da correta aplicação do direito da União Europeia.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.300_33be045d498d
-:nota_200.10.300_33be045d498d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.300_23b41f855543
+:nota_200.10.300_23b41f855543 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Constatação da existência de uma violação grave e persistente formulada por um terço dos Estados-Membros ou pela Comissão".
 
-:c200.10.300 :temNotaAplicacao :nota_200.10.300_33be045d498d .
+:c200.10.300 :temNotaAplicacao :nota_200.10.300_23b41f855543 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.300_83695742b815
-:nota_200.10.300_83695742b815 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.300_d97dd9b173db
+:nota_200.10.300_d97dd9b173db rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fundamentação da existência de risco evidente de violação grave dos princípios da União por um Estado-Membro (por iniciativa da Comissão, do Parlamento ou de um terço dos Estados-Membros)".
 
-:c200.10.300 :temNotaAplicacao :nota_200.10.300_83695742b815 .
+:c200.10.300 :temNotaAplicacao :nota_200.10.300_d97dd9b173db .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.300_bee4826bbc43
-:nota_200.10.300_bee4826bbc43 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.300_a8e8eeedc54d
+:nota_200.10.300_a8e8eeedc54d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processos no âmbito das plataformas da Comissão Europeia UE PILOT e Rede SOLVIT".
 
-:c200.10.300 :temNotaAplicacao :nota_200.10.300_bee4826bbc43 .
+:c200.10.300 :temNotaAplicacao :nota_200.10.300_a8e8eeedc54d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.300_b110675629e3
-:nota_200.10.300_b110675629e3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.300_4f002d0f0574
+:nota_200.10.300_4f002d0f0574 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aplicação de sanções a países terceiros deve ser considerada em 200.10.200 – Preparação e negociação de atos legislativos vinculativos da UE.".
 
-:c200.10.300 :temNotaExclusao :nota_200.10.300_b110675629e3 .
+:c200.10.300 :temNotaExclusao :nota_200.10.300_4f002d0f0574 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.300_206b1af44b00
-:nota_200.10.300_206b1af44b00 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.300_386fdf5944eb
+:nota_200.10.300_386fdf5944eb rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A ação de contencioso no âmbito do direito da união europeia deve ser considerada em 600.30.650 - Ação em matéria de direito da União Europeia.".
 
-:c200.10.300 :temNotaExclusao :nota_200.10.300_206b1af44b00 .
+:c200.10.300 :temNotaExclusao :nota_200.10.300_386fdf5944eb .
 
 :c200.10.300 :processoTipoVC :vc_processoTipo_pe .
 :c200.10.300 :processoTransversal "S" .
@@ -1239,6 +1241,8 @@
 :c200.10.300 :eComplementarDe :c200.10.200 .
 :c200.10.300 :temRelProc :c200.10.600 .
 :c200.10.300 :eComplementarDe :c200.10.600 .
+:c200.10.300 :temRelProc :c500.10.001 .
+:c200.10.300 :eSuplementoPara :c500.10.001 .
 :c200.10.300 :temRelProc :c600.30.650 .
 :c200.10.300 :eAntecessorDe :c600.30.650 .
 :c200.10.300 :temPCA :pca_c200.10.300.
@@ -1286,45 +1290,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.10 ;
 	:descricao 'Preparação e apresentação da posição de Portugal no âmbito das diretrizes políticas gerais da União Europeia. Inicia com a proposta e termina com a aprovação. Inclui os contributos setoriais, demonstrativos da posição assumida por Portugal e do processo negocial preparatório das reuniões.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.400_4f2c13aca83a
-:nota_200.10.400_4f2c13aca83a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.400_ac0b4449dd61
+:nota_200.10.400_ac0b4449dd61 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Coordenação da participação portuguesa no Conselho Europeu".
 
-:c200.10.400 :temNotaAplicacao :nota_200.10.400_4f2c13aca83a .
+:c200.10.400 :temNotaAplicacao :nota_200.10.400_ac0b4449dd61 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.400_526b74c1cdb9
-:exemplo_200.10.400_526b74c1cdb9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.400_326999a46a1e
+:exemplo_200.10.400_326999a46a1e rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Contributo para reunião do Conselho Europeu".
 
-:c200.10.400 :temExemploNA :exemplo_200.10.400_526b74c1cdb9 .
+:c200.10.400 :temExemploNA :exemplo_200.10.400_326999a46a1e .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.400_5b4483437cc2
-:exemplo_200.10.400_5b4483437cc2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.400_7d774f2216c7
+:exemplo_200.10.400_7d774f2216c7 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Estratégia Europa 2020".
 
-:c200.10.400 :temExemploNA :exemplo_200.10.400_5b4483437cc2 .
+:c200.10.400 :temExemploNA :exemplo_200.10.400_7d774f2216c7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.400_0525f6c7ca0c
-:exemplo_200.10.400_0525f6c7ca0c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.400_c548a5ab24f2
+:exemplo_200.10.400_c548a5ab24f2 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Estratégia UE 2020".
 
-:c200.10.400 :temExemploNA :exemplo_200.10.400_0525f6c7ca0c .
+:c200.10.400 :temExemploNA :exemplo_200.10.400_c548a5ab24f2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.400_7c5354ba0b44
-:exemplo_200.10.400_7c5354ba0b44 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.400_d9180e277ac4
+:exemplo_200.10.400_d9180e277ac4 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Quadro do Semestre Europeu".
 
-:c200.10.400 :temExemploNA :exemplo_200.10.400_7c5354ba0b44 .
+:c200.10.400 :temExemploNA :exemplo_200.10.400_d9180e277ac4 .
 
 :c200.10.400 :processoTipoVC :vc_processoTipo_pe .
 :c200.10.400 :processoTransversal "S" .
@@ -1435,149 +1439,149 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.10 ;
 	:descricao 'Preparação e apresentação da posição de Portugal no âmbito das negociações desenvolvidas nos conselhos de ministros da União Europeia. Inicia com a proposta e termina com a produção de uma versão final. Inclui a compilação de contributos demonstrativos da posição assumida por Portugal e do processo negocial empreendido nos vários grupos de trabalho preparatórios das reuniões.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.501_84e3a08e6075
-:nota_200.10.501_84e3a08e6075 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.501_119c55c43ba9
+:nota_200.10.501_119c55c43ba9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Coordenação da participação portuguesa nas  diversas formações do Conselho da União Europeia".
 
-:c200.10.501 :temNotaAplicacao :nota_200.10.501_84e3a08e6075 .
+:c200.10.501 :temNotaAplicacao :nota_200.10.501_119c55c43ba9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_bb72c5898cd9
-:exemplo_200.10.501_bb72c5898cd9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_e94aff9e038d
+:exemplo_200.10.501_e94aff9e038d rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação no Comité Consultivo de Acordos de Investimento".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_bb72c5898cd9 .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_e94aff9e038d .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_8160e546ce30
-:exemplo_200.10.501_8160e546ce30 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_6a56f828e3cb
+:exemplo_200.10.501_6a56f828e3cb rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação no Comité das Preferências Generalizadas (SPG) do Conselho da UE".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_8160e546ce30 .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_6a56f828e3cb .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_8ad55faf2a97
-:exemplo_200.10.501_8ad55faf2a97 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_6738f6e005e1
+:exemplo_200.10.501_6738f6e005e1 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação no Comité de Acesso aos Mercados".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_8ad55faf2a97 .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_6738f6e005e1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_fcd92a722f6f
-:exemplo_200.10.501_fcd92a722f6f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_9203bf4b574c
+:exemplo_200.10.501_9203bf4b574c rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação no Comité de Política Comercial da UE".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_fcd92a722f6f .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_9203bf4b574c .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_0c5ccf8b04c9
-:exemplo_200.10.501_0c5ccf8b04c9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_ac680144f69a
+:exemplo_200.10.501_ac680144f69a rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação no Comité de Salvaguardas".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_0c5ccf8b04c9 .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_ac680144f69a .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_d6b6f75a5004
-:exemplo_200.10.501_d6b6f75a5004 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_f0ed3dd9ea37
+:exemplo_200.10.501_f0ed3dd9ea37 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação no Comité do Rótulo Ecológico da UE".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_d6b6f75a5004 .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_f0ed3dd9ea37 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_da694261cd82
-:exemplo_200.10.501_da694261cd82 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_c826fac8cdc3
+:exemplo_200.10.501_c826fac8cdc3 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação no Comité dos Instrumentos de Defesa Comercial da UE".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_da694261cd82 .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_c826fac8cdc3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_ac431e24429c
-:exemplo_200.10.501_ac431e24429c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_b9f295bddb21
+:exemplo_200.10.501_b9f295bddb21 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação no Comité Espaço Europeu I&I (ERAC) vertente Inovação-Económica".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_ac431e24429c .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_b9f295bddb21 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_f77b3fb4e1ba
-:exemplo_200.10.501_f77b3fb4e1ba rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_f0e4cad106fe
+:exemplo_200.10.501_f0e4cad106fe rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação no Grupo Consumidores".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_f77b3fb4e1ba .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_f0e4cad106fe .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_06a78674ee37
-:exemplo_200.10.501_06a78674ee37 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_adeefcfe2d78
+:exemplo_200.10.501_adeefcfe2d78 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação no Grupo de Questões Comerciais do Conselho da UE".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_06a78674ee37 .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_adeefcfe2d78 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_8fae103227e5
-:exemplo_200.10.501_8fae103227e5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_c0edf1e714f7
+:exemplo_200.10.501_c0edf1e714f7 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação no Grupo de Trabalho da Comissão Adubos".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_8fae103227e5 .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_c0edf1e714f7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_b47879b99f85
-:exemplo_200.10.501_b47879b99f85 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_6a29d8c388fb
+:exemplo_200.10.501_6a29d8c388fb rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação no Grupo de Trabalho de Serviços Financeiros".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_b47879b99f85 .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_6a29d8c388fb .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_d9604fe2cc87
-:exemplo_200.10.501_d9604fe2cc87 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_d5589ffd5040
+:exemplo_200.10.501_d5589ffd5040 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação no Grupo Trabalho Questões Comerciais".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_d9604fe2cc87 .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_d5589ffd5040 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_5d6fa101522b
-:exemplo_200.10.501_5d6fa101522b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_4138856339e4
+:exemplo_200.10.501_4138856339e4 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação em comités e grupos do Conselho da UE".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_5d6fa101522b .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_4138856339e4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_992e07e5fcc2
-:exemplo_200.10.501_992e07e5fcc2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_20d9c7e8c87c
+:exemplo_200.10.501_20d9c7e8c87c rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Representação da DGAE nas estruturas europeias no âmbito do Mercado Interno de Serviços".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_992e07e5fcc2 .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_20d9c7e8c87c .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_5104a62224ee
-:exemplo_200.10.501_5104a62224ee rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_1634e496fff3
+:exemplo_200.10.501_1634e496fff3 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação na Rede SME Envoys".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_5104a62224ee .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_1634e496fff3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_e1a302ff0db2
-:exemplo_200.10.501_e1a302ff0db2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.501_c0de833354d9
+:exemplo_200.10.501_c0de833354d9 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação em reuniões SHERPAS no âmbito do SBA".
 
-:c200.10.501 :temExemploNA :exemplo_200.10.501_e1a302ff0db2 .
+:c200.10.501 :temExemploNA :exemplo_200.10.501_c0de833354d9 .
 
 :c200.10.501 :processoTipoVC :vc_processoTipo_pe .
 :c200.10.501 :processoTransversal "S" .
@@ -1692,133 +1696,133 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.10 ;
 	:descricao 'Processo legislativo ordinário ou especial, de iniciativa da Comissão Europeia. Inicia com uma proposta da Comissão e termina com a sua rejeição (e consequente não adoção) ou com a assinatura conjunta pelos presidentes e secretários gerais do Parlamento e do Conselho. Inclui a compilação de contributos para a preparação das reuniões, provenientes de embaixadas e de ministérios setoriais, documentos técnicos, apontamentos, pontos de situação, notas e memorandos e expediente e relatos da COREPER. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.600_8eb04b763169
-:nota_200.10.600_8eb04b763169 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.600_a6b6196b0fe0
+:nota_200.10.600_a6b6196b0fe0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reuniões de diretores políticos e de diretores da política de segurança".
 
-:c200.10.600 :temNotaAplicacao :nota_200.10.600_8eb04b763169 .
+:c200.10.600 :temNotaAplicacao :nota_200.10.600_a6b6196b0fe0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.600_0dc9adc97b9f
-:nota_200.10.600_0dc9adc97b9f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.600_5b348b2f3fbe
+:nota_200.10.600_5b348b2f3fbe rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atos delegados, no âmbito do trabalho desenvolvido pelos grupos de peritos".
 
-:c200.10.600 :temNotaAplicacao :nota_200.10.600_0dc9adc97b9f .
+:c200.10.600 :temNotaAplicacao :nota_200.10.600_5b348b2f3fbe .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.600_6833b11ceaad
-:nota_200.10.600_6833b11ceaad rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.600_18bbaee8af2c
+:nota_200.10.600_18bbaee8af2c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atos de execução, no âmbito do trabalho desenvolvido pelos Comités".
 
-:c200.10.600 :temNotaAplicacao :nota_200.10.600_6833b11ceaad .
+:c200.10.600 :temNotaAplicacao :nota_200.10.600_18bbaee8af2c .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_29f35ef831d6
-:exemplo_200.10.600_29f35ef831d6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_d68150c43244
+:exemplo_200.10.600_d68150c43244 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Comité Consultivo de Acesso ao Mercado da CE".
 
-:c200.10.600 :temExemploNA :exemplo_200.10.600_29f35ef831d6 .
+:c200.10.600 :temExemploNA :exemplo_200.10.600_d68150c43244 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_309f8a4255bb
-:exemplo_200.10.600_309f8a4255bb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_0c1ba128a291
+:exemplo_200.10.600_0c1ba128a291 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Grupo de Alto Nível das Indústrias Intensivas em Energia".
 
-:c200.10.600 :temExemploNA :exemplo_200.10.600_309f8a4255bb .
+:c200.10.600 :temExemploNA :exemplo_200.10.600_0c1ba128a291 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_c92d88471924
-:exemplo_200.10.600_c92d88471924 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_b347f08f886d
+:exemplo_200.10.600_b347f08f886d rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Grupo de Alto Nível Eco Inovação".
 
-:c200.10.600 :temExemploNA :exemplo_200.10.600_c92d88471924 .
+:c200.10.600 :temExemploNA :exemplo_200.10.600_b347f08f886d .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_297f6aff2107
-:exemplo_200.10.600_297f6aff2107 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_f58bf9a847de
+:exemplo_200.10.600_f58bf9a847de rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Grupo de Diretores-Gerais de Política de Empresa".
 
-:c200.10.600 :temExemploNA :exemplo_200.10.600_297f6aff2107 .
+:c200.10.600 :temExemploNA :exemplo_200.10.600_f58bf9a847de .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_2116f924c8fe
-:exemplo_200.10.600_2116f924c8fe rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_ff0b1266d280
+:exemplo_200.10.600_ff0b1266d280 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Grupo de Peritos Alto Nível Start-ups e Scale-ups".
 
-:c200.10.600 :temExemploNA :exemplo_200.10.600_2116f924c8fe .
+:c200.10.600 :temExemploNA :exemplo_200.10.600_ff0b1266d280 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_974ef00f5093
-:exemplo_200.10.600_974ef00f5093 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_7f2146ca0910
+:exemplo_200.10.600_7f2146ca0910 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Grupo de Peritos da UE para a aplicação da Diretiva Serviços".
 
-:c200.10.600 :temExemploNA :exemplo_200.10.600_974ef00f5093 .
+:c200.10.600 :temExemploNA :exemplo_200.10.600_7f2146ca0910 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_3efe1f6c722f
-:exemplo_200.10.600_3efe1f6c722f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_944dc33e1d59
+:exemplo_200.10.600_944dc33e1d59 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Grupo de Peritos dos setores culturais e criativos".
 
-:c200.10.600 :temExemploNA :exemplo_200.10.600_3efe1f6c722f .
+:c200.10.600 :temExemploNA :exemplo_200.10.600_944dc33e1d59 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_f98d4e8fee4e
-:exemplo_200.10.600_f98d4e8fee4e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_f05278e70ab2
+:exemplo_200.10.600_f05278e70ab2 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Grupo de peritos na UE para as Indústrias de Base Florestal".
 
-:c200.10.600 :temExemploNA :exemplo_200.10.600_f98d4e8fee4e .
+:c200.10.600 :temExemploNA :exemplo_200.10.600_f05278e70ab2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_f0dc1cdccd76
-:exemplo_200.10.600_f0dc1cdccd76 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_9beb1f04afe1
+:exemplo_200.10.600_9beb1f04afe1 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Grupo de Peritos SPG da Comissão Europeia".
 
-:c200.10.600 :temExemploNA :exemplo_200.10.600_f0dc1cdccd76 .
+:c200.10.600 :temExemploNA :exemplo_200.10.600_9beb1f04afe1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_5cd09779c6db
-:exemplo_200.10.600_5cd09779c6db rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_01cdf1386745
+:exemplo_200.10.600_01cdf1386745 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Grupo de Trabalho de Comércio de Emissões".
 
-:c200.10.600 :temExemploNA :exemplo_200.10.600_5cd09779c6db .
+:c200.10.600 :temExemploNA :exemplo_200.10.600_01cdf1386745 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_e660b192a219
-:exemplo_200.10.600_e660b192a219 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_a61f3f3d7d4d
+:exemplo_200.10.600_a61f3f3d7d4d rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Participação em comités e grupos de trabalho da Comissão Europeia".
 
-:c200.10.600 :temExemploNA :exemplo_200.10.600_e660b192a219 .
+:c200.10.600 :temExemploNA :exemplo_200.10.600_a61f3f3d7d4d .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_2755ac196f97
-:exemplo_200.10.600_2755ac196f97 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_8f0700cc13de
+:exemplo_200.10.600_8f0700cc13de rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Reuniões técnicas informais organizadas pela Comissão Europeia".
 
-:c200.10.600 :temExemploNA :exemplo_200.10.600_2755ac196f97 .
+:c200.10.600 :temExemploNA :exemplo_200.10.600_8f0700cc13de .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_818bbcecf236
-:exemplo_200.10.600_818bbcecf236 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.600_ce24bdc91e00
+:exemplo_200.10.600_ce24bdc91e00 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "SME Taxation Expert Group".
 
-:c200.10.600 :temExemploNA :exemplo_200.10.600_818bbcecf236 .
+:c200.10.600 :temExemploNA :exemplo_200.10.600_ce24bdc91e00 .
 
 :c200.10.600 :processoTipoVC :vc_processoTipo_pe .
 :c200.10.600 :processoTransversal "S" .
@@ -1933,69 +1937,69 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.10 ;
 	:descricao 'Coordenação da posição nacional na negociação de atos legislativos e outras iniciativas da UE, bem como acompanhamento das decisões da Comissão Europeia na área do Quadro Plurianual e dos instrumentos financeiros da UE. Inclui a complilação dos contributos de ministérios setoriais, dos contributos de e para as Embaixadas, documentos técnicos, apontamentos, pontos de situação, notas, memorandos, relatos, informações, expediente e qualquer outra documentação de apoio considerada útil à tomada de decisão.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.700_fe660c417a12
-:nota_200.10.700_fe660c417a12 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.700_b0ed6bf94525
+:nota_200.10.700_b0ed6bf94525 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de fundos europeus estruturais e de investimento".
 
-:c200.10.700 :temNotaAplicacao :nota_200.10.700_fe660c417a12 .
+:c200.10.700 :temNotaAplicacao :nota_200.10.700_b0ed6bf94525 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.700_eb66fcf983b3
-:nota_200.10.700_eb66fcf983b3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.700_93ba46ace2a0
+:nota_200.10.700_93ba46ace2a0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de instrumentos e programas de apoio dirigidos a Estados-Membros".
 
-:c200.10.700 :temNotaAplicacao :nota_200.10.700_eb66fcf983b3 .
+:c200.10.700 :temNotaAplicacao :nota_200.10.700_93ba46ace2a0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.700_8b2fa340c21b
-:nota_200.10.700_8b2fa340c21b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.700_0c65001099c9
+:nota_200.10.700_0c65001099c9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Definição de Instrumentos de Cooperação Externa (ICE) destinados a países terceiros".
 
-:c200.10.700 :temNotaAplicacao :nota_200.10.700_8b2fa340c21b .
+:c200.10.700 :temNotaAplicacao :nota_200.10.700_0c65001099c9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.700_189cbd18019d
-:exemplo_200.10.700_189cbd18019d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.700_148eef502e4e
+:exemplo_200.10.700_148eef502e4e rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Fundo Europeu de Desenvolvimento Regional (FEDER)".
 
-:c200.10.700 :temExemploNA :exemplo_200.10.700_189cbd18019d .
+:c200.10.700 :temExemploNA :exemplo_200.10.700_148eef502e4e .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.700_f27b6b852966
-:exemplo_200.10.700_f27b6b852966 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.700_5f9101aba2f5
+:exemplo_200.10.700_5f9101aba2f5 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Fundo Social Europeu (FSE)".
 
-:c200.10.700 :temExemploNA :exemplo_200.10.700_f27b6b852966 .
+:c200.10.700 :temExemploNA :exemplo_200.10.700_5f9101aba2f5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.700_fc8a9f760d62
-:exemplo_200.10.700_fc8a9f760d62 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.700_0c4236234005
+:exemplo_200.10.700_0c4236234005 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Fundo de Coesão (FC)".
 
-:c200.10.700 :temExemploNA :exemplo_200.10.700_fc8a9f760d62 .
+:c200.10.700 :temExemploNA :exemplo_200.10.700_0c4236234005 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.700_a9d6ce396ea5
-:exemplo_200.10.700_a9d6ce396ea5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.700_4e00a68857f7
+:exemplo_200.10.700_4e00a68857f7 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER)".
 
-:c200.10.700 :temExemploNA :exemplo_200.10.700_a9d6ce396ea5 .
+:c200.10.700 :temExemploNA :exemplo_200.10.700_4e00a68857f7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.700_5e5fe26ad647
-:exemplo_200.10.700_5e5fe26ad647 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.700_3152d5431c63
+:exemplo_200.10.700_3152d5431c63 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP)".
 
-:c200.10.700 :temExemploNA :exemplo_200.10.700_5e5fe26ad647 .
+:c200.10.700 :temExemploNA :exemplo_200.10.700_3152d5431c63 .
 
 :c200.10.700 :processoTipoVC :vc_processoTipo_pe .
 :c200.10.700 :processoTransversal "S" .
@@ -2090,85 +2094,85 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.10 ;
 	:descricao 'Concretização de ações que traduzem a convergência das vontades das partes num acordo ou contrato para a realização de um programa, projeto ou ação comum com entidades internacionais, estados-membros da União Europeia ou de países terceiros. Inicia com a proposta e termina com a assinatura que formaliza o acordo. Inclui negociação e elaboração do protocolo ou acordo.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_a65c06d7aed9
-:nota_200.10.800_a65c06d7aed9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_bbb1256e9746
+:nota_200.10.800_bbb1256e9746 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acordos no âmbito do desenvolvimento de projetos ou ações".
 
-:c200.10.800 :temNotaAplicacao :nota_200.10.800_a65c06d7aed9 .
+:c200.10.800 :temNotaAplicacao :nota_200.10.800_bbb1256e9746 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_e699d141cc1f
-:nota_200.10.800_e699d141cc1f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_7667fe182e7c
+:nota_200.10.800_7667fe182e7c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acordos no âmbito do financiamento".
 
-:c200.10.800 :temNotaAplicacao :nota_200.10.800_e699d141cc1f .
+:c200.10.800 :temNotaAplicacao :nota_200.10.800_7667fe182e7c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_d1a2eebe1216
-:nota_200.10.800_d1a2eebe1216 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_95881e670f55
+:nota_200.10.800_95881e670f55 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acordos expressos apenas por troca de notas".
 
-:c200.10.800 :temNotaAplicacao :nota_200.10.800_d1a2eebe1216 .
+:c200.10.800 :temNotaAplicacao :nota_200.10.800_95881e670f55 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_b029e94302c0
-:nota_200.10.800_b029e94302c0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_b583585ec3cd
+:nota_200.10.800_b583585ec3cd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acordos em que Portugal ou as instâncias setoriais nacionais são parte".
 
-:c200.10.800 :temNotaAplicacao :nota_200.10.800_b029e94302c0 .
+:c200.10.800 :temNotaAplicacao :nota_200.10.800_b583585ec3cd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_c431e491b553
-:nota_200.10.800_c431e491b553 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_109d00d04e2b
+:nota_200.10.800_109d00d04e2b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acordos entre regiões transfronteiriças, transnacionais e interregionais".
 
-:c200.10.800 :temNotaAplicacao :nota_200.10.800_c431e491b553 .
+:c200.10.800 :temNotaAplicacao :nota_200.10.800_109d00d04e2b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_d97bd918931b
-:nota_200.10.800_d97bd918931b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_1480d938ca8e
+:nota_200.10.800_1480d938ca8e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Memorandos de entendimento".
 
-:c200.10.800 :temNotaAplicacao :nota_200.10.800_d97bd918931b .
+:c200.10.800 :temNotaAplicacao :nota_200.10.800_1480d938ca8e .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.800_26a254397521
-:exemplo_200.10.800_26a254397521 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.10.800_30a81b99a78c
+:exemplo_200.10.800_30a81b99a78c rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Ficha de Relacionamento Económico Institucional".
 
-:c200.10.800 :temExemploNA :exemplo_200.10.800_26a254397521 .
+:c200.10.800 :temExemploNA :exemplo_200.10.800_30a81b99a78c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_cf48356a1a4a
-:nota_200.10.800_cf48356a1a4a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_236a0c31ccc4
+:nota_200.10.800_236a0c31ccc4 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aprovação de convenções internacionais (tratados e acordos aprovados por Resolução da Assembleia da República ou por Decreto do Governo), respetiva ratificação ou assinatura pelo Presidente da República, referenda, publicação, avisos de depósito dos instrumentos de vinculação e demais avisos a eles respeitantes devem ser considerados em 100.10.002 – Aprovação e comunicação de convenções internacionais".
 
-:c200.10.800 :temNotaExclusao :nota_200.10.800_cf48356a1a4a .
+:c200.10.800 :temNotaExclusao :nota_200.10.800_236a0c31ccc4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_7fa9d9e524a9
-:nota_200.10.800_7fa9d9e524a9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_bd40d06531f1
+:nota_200.10.800_bd40d06531f1 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os acordos e protocolos realizados com entidades nacionais devem ser considerados em 150.10.500 – Elaboração de instrumentos de cooperação interinstitucional".
 
-:c200.10.800 :temNotaExclusao :nota_200.10.800_7fa9d9e524a9 .
+:c200.10.800 :temNotaExclusao :nota_200.10.800_bd40d06531f1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_58440d1a926d
-:nota_200.10.800_58440d1a926d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.10.800_993743fe2b87
+:nota_200.10.800_993743fe2b87 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os projetos decorrentes dos acordos, protocolos e outros atos internacionais devem ser considerados em 200.30.302 – Execução de projetos de cooperação e de ajuda pública ao desenvolvimento".
 
-:c200.10.800 :temNotaExclusao :nota_200.10.800_58440d1a926d .
+:c200.10.800 :temNotaExclusao :nota_200.10.800_993743fe2b87 .
 
 :c200.10.800 :processoTipoVC :vc_processoTipo_pc .
 :c200.10.800 :processoTransversal "S" .
@@ -2301,6 +2305,8 @@
 :c200.10.800 :eCruzadoCom :c200.30.301 .
 :c200.10.800 :temRelProc :c200.30.302 .
 :c200.10.800 :eCruzadoCom :c200.30.302 .
+:c200.10.800 :temRelProc :c500.10.001 .
+:c200.10.800 :eSuplementoPara :c500.10.001 .
 :c200.10.800 :temRelProc :c550.30.005 .
 :c200.10.800 :eCruzadoCom :c550.30.005 .
 :c200.10.800 :temRelProc :c550.30.006 .
@@ -2373,61 +2379,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200 ;
 	:descricao 'Compreende as atividades de coordenação da ação do Estado no domínio das relações internacionais bilaterais e multilaterais, bem como as atividades de acompanhamento da situação internacional (podendo a coordenação e o acompanhamento incidirem sobre relações políticas, comerciais, culturais, consulares ou outras).' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20_bab3ff3a7368
-:nota_200.20_bab3ff3a7368 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20_049a10c49042
+:nota_200.20_049a10c49042 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acompanhamento das relações bilaterais e multilaterais do país, realizado centralmente e através das missões diplomáticas em países estrangeiros e em organismos internacionais".
 
-:c200.20 :temNotaAplicacao :nota_200.20_bab3ff3a7368 .
+:c200.20 :temNotaAplicacao :nota_200.20_049a10c49042 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20_a45b326bac27
-:nota_200.20_a45b326bac27 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20_b8c4b9059185
+:nota_200.20_b8c4b9059185 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Processamento de privilégios e imunidades diplomáticas e consulares".
 
-:c200.20 :temNotaAplicacao :nota_200.20_a45b326bac27 .
+:c200.20 :temNotaAplicacao :nota_200.20_b8c4b9059185 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20_245e0cc428b1
-:nota_200.20_245e0cc428b1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20_deb76d416124
+:nota_200.20_deb76d416124 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Organização de visitas de Estado".
 
-:c200.20 :temNotaAplicacao :nota_200.20_245e0cc428b1 .
+:c200.20 :temNotaAplicacao :nota_200.20_deb76d416124 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20_64dfce762a4c
-:nota_200.20_64dfce762a4c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20_eb7fbed80fd6
+:nota_200.20_eb7fbed80fd6 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acompanhamento das relações externas da União Europeia e do funcionamento das instituições e organismos da União Europeia".
 
-:c200.20 :temNotaAplicacao :nota_200.20_64dfce762a4c .
+:c200.20 :temNotaAplicacao :nota_200.20_eb7fbed80fd6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20_cb62e958d472
-:nota_200.20_cb62e958d472 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20_0fda1e57a4d0
+:nota_200.20_0fda1e57a4d0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio e/ou acompanhamento ao recrutamento de portugueses para organismos internacionais, bem como para instituições e agências UE no que se inclui o registo de portugueses em instituições da UE".
 
-:c200.20 :temNotaAplicacao :nota_200.20_cb62e958d472 .
+:c200.20 :temNotaAplicacao :nota_200.20_0fda1e57a4d0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20_a1c3634ea68b
-:nota_200.20_a1c3634ea68b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20_21ab0e2bf324
+:nota_200.20_21ab0e2bf324 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os despachos de nomeação para cargos diplomáticos ou outros cargos de representação nacional em organismos internacionais devem ser considerados em \"Administração de relações de trabalho/ Estabelecimento e cessação de relações de trabalho\" (250.10)".
 
-:c200.20 :temNotaExclusao :nota_200.20_a1c3634ea68b .
+:c200.20 :temNotaExclusao :nota_200.20_21ab0e2bf324 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20_ee1e3b755f9d
-:nota_200.20_ee1e3b755f9d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20_2c87922e9457
+:nota_200.20_2c87922e9457 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As funções específicas dos consulados devem ser consideradas nas classes correspondentes por exemplo, o registo civil deve ser considerado em \"Prestação de serviços de identificação e registo/ Registo de dados de identificação e caracterização de entidades ou atos\" (400.10)".
 
-:c200.20 :temNotaExclusao :nota_200.20_ee1e3b755f9d .
+:c200.20 :temNotaExclusao :nota_200.20_2c87922e9457 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c200.20.001
@@ -2439,101 +2445,101 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.20 ;
 	:descricao 'Análise da situação internacional no âmbito das relações políticas, comerciais, culturais, consulares ou outras, por solicitação da tutela, de outros departamentos governamentais, de outros países, da União Europeia ou de organizações internacionais. Inicia com o pedido e termina com o envio da informação. Inclui recolha de informação, análise e tratamento de dados, produção de informação classificada, se necessário. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.001_7b037cc9388d
-:nota_200.20.001_7b037cc9388d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.001_fff7b0611321
+:nota_200.20.001_fff7b0611321 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acompanhamento das relações bilaterais e multilaterais do país, realizado centralmente ou através das missões diplomáticas em países estrangeiros e em organismos internacionais".
 
-:c200.20.001 :temNotaAplicacao :nota_200.20.001_7b037cc9388d .
+:c200.20.001 :temNotaAplicacao :nota_200.20.001_fff7b0611321 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_4c1bd9452cf7
-:exemplo_200.20.001_4c1bd9452cf7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_8a3facc063b9
+:exemplo_200.20.001_8a3facc063b9 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Acompanhamento do funcionamento do Parlamento Europeu".
 
-:c200.20.001 :temExemploNA :exemplo_200.20.001_4c1bd9452cf7 .
+:c200.20.001 :temExemploNA :exemplo_200.20.001_8a3facc063b9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_9b457b38d5ab
-:exemplo_200.20.001_9b457b38d5ab rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_c61346a29af2
+:exemplo_200.20.001_c61346a29af2 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Acompanhamento do funcionamento da Comissão Europeia".
 
-:c200.20.001 :temExemploNA :exemplo_200.20.001_9b457b38d5ab .
+:c200.20.001 :temExemploNA :exemplo_200.20.001_c61346a29af2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_04109e73526c
-:exemplo_200.20.001_04109e73526c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_a79cba60d52d
+:exemplo_200.20.001_a79cba60d52d rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Acompanhamento do funcionamento do Tribunal de Justiça da UE".
 
-:c200.20.001 :temExemploNA :exemplo_200.20.001_04109e73526c .
+:c200.20.001 :temExemploNA :exemplo_200.20.001_a79cba60d52d .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_3d952b173b7a
-:exemplo_200.20.001_3d952b173b7a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_a4be996810f7
+:exemplo_200.20.001_a4be996810f7 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Acompanhamento do funcionamento do Banco Central Europeu".
 
-:c200.20.001 :temExemploNA :exemplo_200.20.001_3d952b173b7a .
+:c200.20.001 :temExemploNA :exemplo_200.20.001_a4be996810f7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_011a22d71466
-:exemplo_200.20.001_011a22d71466 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_d7cf4055c7dd
+:exemplo_200.20.001_d7cf4055c7dd rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Acompanhamento do funcionamento do Tribunal de Contas Europeu".
 
-:c200.20.001 :temExemploNA :exemplo_200.20.001_011a22d71466 .
+:c200.20.001 :temExemploNA :exemplo_200.20.001_d7cf4055c7dd .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_1a5ac93b5b4a
-:exemplo_200.20.001_1a5ac93b5b4a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_0112ad90a0f0
+:exemplo_200.20.001_0112ad90a0f0 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Acompanhamento do funcionamento do Provedor de Justiça Europeu".
 
-:c200.20.001 :temExemploNA :exemplo_200.20.001_1a5ac93b5b4a .
+:c200.20.001 :temExemploNA :exemplo_200.20.001_0112ad90a0f0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_8c082ac9df5b
-:exemplo_200.20.001_8c082ac9df5b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_88473daa3e53
+:exemplo_200.20.001_88473daa3e53 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Acompanhamento do funcionamento do Comité das Regiões".
 
-:c200.20.001 :temExemploNA :exemplo_200.20.001_8c082ac9df5b .
+:c200.20.001 :temExemploNA :exemplo_200.20.001_88473daa3e53 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_01d2e8c6c4a7
-:exemplo_200.20.001_01d2e8c6c4a7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_27a0a815fe83
+:exemplo_200.20.001_27a0a815fe83 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Acompanhamento do funcionamento do Comité Económico e Social Europeu".
 
-:c200.20.001 :temExemploNA :exemplo_200.20.001_01d2e8c6c4a7 .
+:c200.20.001 :temExemploNA :exemplo_200.20.001_27a0a815fe83 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_82317f588fc7
-:exemplo_200.20.001_82317f588fc7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_0e8ffd74a1cc
+:exemplo_200.20.001_0e8ffd74a1cc rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Apoio e/ou acompanhamento ao recrutamento de portugueses para a ONU".
 
-:c200.20.001 :temExemploNA :exemplo_200.20.001_82317f588fc7 .
+:c200.20.001 :temExemploNA :exemplo_200.20.001_0e8ffd74a1cc .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_3c914aabdec9
-:exemplo_200.20.001_3c914aabdec9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.001_e81df7fe5512
+:exemplo_200.20.001_e81df7fe5512 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Apoio e/ou acompanhamento ao recrutamento de portugueses para a UNESCO".
 
-:c200.20.001 :temExemploNA :exemplo_200.20.001_3c914aabdec9 .
+:c200.20.001 :temExemploNA :exemplo_200.20.001_e81df7fe5512 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.001_ded0d5d1f68a
-:nota_200.20.001_ded0d5d1f68a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.001_e10aac63d6c1
+:nota_200.20.001_e10aac63d6c1 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O intercâmbio de informação estratégica para combate ao terrorismo e agitações sociais e políticas deve ser considerada em 150.30.001 – Produção e intercâmbio de informação estratégica para segurança interna e defesa".
 
-:c200.20.001 :temNotaExclusao :nota_200.20.001_ded0d5d1f68a .
+:c200.20.001 :temNotaExclusao :nota_200.20.001_e10aac63d6c1 .
 
 :c200.20.001 :processoTipoVC :vc_processoTipo_pe .
 :c200.20.001 :processoTransversal "S" .
@@ -2602,37 +2608,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.20 ;
 	:descricao 'Preparação e execução de deslocações no âmbito do acompanhamento político e diplomático, nomeadamente no âmbito da participação em eventos, das relações institucionais ou da cooperação para o desenvolvimento, desde que não enquadrado em processo específico. Inicia com a solicitação e termina com o relatório de missão. Inclui preparação de deslocações, recolha de informação, programação e contactos institucionais. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.002_9c99a2922b3a
-:nota_200.20.002_9c99a2922b3a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.002_c890f5886f9f
+:nota_200.20.002_c890f5886f9f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Missões em países terceiros, tanto no âmbito diplomático, como económico, como no quadro da cooperação para o desenvolvimento".
 
-:c200.20.002 :temNotaAplicacao :nota_200.20.002_9c99a2922b3a .
+:c200.20.002 :temNotaAplicacao :nota_200.20.002_c890f5886f9f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.002_142c36c764e1
-:nota_200.20.002_142c36c764e1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.002_05797d3552b4
+:nota_200.20.002_05797d3552b4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Missões de observação eleitoral".
 
-:c200.20.002 :temNotaAplicacao :nota_200.20.002_142c36c764e1 .
+:c200.20.002 :temNotaAplicacao :nota_200.20.002_05797d3552b4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.002_1f283ed07b16
-:nota_200.20.002_1f283ed07b16 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.002_5789021e5f62
+:nota_200.20.002_5789021e5f62 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As missões de ajuda humanitária devem ser consideradas em 200.30.001 – Coordenação e execução de ações de ajuda humanitária e de emergência".
 
-:c200.20.002 :temNotaExclusao :nota_200.20.002_1f283ed07b16 .
+:c200.20.002 :temNotaExclusao :nota_200.20.002_5789021e5f62 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.002_467431ebcd60
-:nota_200.20.002_467431ebcd60 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.002_abe9ff38c595
+:nota_200.20.002_abe9ff38c595 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As missões de ajuda ao desenvolvimento devem ser consideradas em 200.30.302 – Execução de projetos de cooperação e de ajuda pública ao desenvolvimento, quando são realizadas no quadro desses projetos".
 
-:c200.20.002 :temNotaExclusao :nota_200.20.002_467431ebcd60 .
+:c200.20.002 :temNotaExclusao :nota_200.20.002_abe9ff38c595 .
 
 :c200.20.002 :processoTipoVC :vc_processoTipo_pe .
 :c200.20.002 :processoTransversal "S" .
@@ -2683,6 +2689,8 @@
 :c200.20.002 :temLegislacao :leg_Lei_98_97 .
 :c200.20.002 :temRelProc :c200.10.800 .
 :c200.20.002 :eCruzadoCom :c200.10.800 .
+:c200.20.002 :temRelProc :c500.10.001 .
+:c200.20.002 :eSuplementoPara :c500.10.001 .
 :c200.20.002 :temPCA :pca_c200.20.002.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c200.20.002
 :pca_c200.20.002 rdf:type owl:NamedIndividual ,
@@ -2726,69 +2734,69 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.20 ;
 	:descricao 'Preparação de deslocações e visitas de Chefes de Estado e de governo, membros de governo ou equiparados, representantes e dirigentes de organizações internacionais e Presidentes de Câmara ou altos representantes da Administração Central, Local ou Regional. Inicia com convite e termina com elaboração de relatório final. Inclui identificação do país visitado ou visitante, do objeto da visita e das respetivas delegações, realização de pontos de situação relativos ao objeto da visita e sistematização de toda a informação pertinente e disponível sobre o âmbito da visita, complilação da informação trocada com as entidades envolvidas, elaboração das versões provisórias e finais do programa e da lista de participantes, compilação dos relatos das reuniões realizadas com diferentes entidades, a recolha de dados e elementos informativos necessários à realização da visita e à sua organização protocolar, técnica e logística.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.500_27373484ce13
-:nota_200.20.500_27373484ce13 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.500_fce722b9ce22
+:nota_200.20.500_fce722b9ce22 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Deslocação de representantes e dirigentes de países estrangeiros a Portugal".
 
-:c200.20.500 :temNotaAplicacao :nota_200.20.500_27373484ce13 .
+:c200.20.500 :temNotaAplicacao :nota_200.20.500_fce722b9ce22 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.500_216f3d709c19
-:nota_200.20.500_216f3d709c19 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.500_82e013daf1fb
+:nota_200.20.500_82e013daf1fb rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Deslocação de representantes do Estado português a países estrangeiros".
 
-:c200.20.500 :temNotaAplicacao :nota_200.20.500_216f3d709c19 .
+:c200.20.500 :temNotaAplicacao :nota_200.20.500_82e013daf1fb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.500_dcb0724a9fba
-:nota_200.20.500_dcb0724a9fba rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.500_c165796af72c
+:nota_200.20.500_c165796af72c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Organização de cerimónias no âmbito das visitas de Estado ou equiparadas".
 
-:c200.20.500 :temNotaAplicacao :nota_200.20.500_dcb0724a9fba .
+:c200.20.500 :temNotaAplicacao :nota_200.20.500_c165796af72c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.500_5db97108cdae
-:nota_200.20.500_5db97108cdae rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.500_371294b2bf7a
+:nota_200.20.500_371294b2bf7a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Visitas de Chefes de Estado e Primeiros-Ministros (de e ao estrangeiro)".
 
-:c200.20.500 :temNotaAplicacao :nota_200.20.500_5db97108cdae .
+:c200.20.500 :temNotaAplicacao :nota_200.20.500_371294b2bf7a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.500_c82e68bc0d7d
-:nota_200.20.500_c82e68bc0d7d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.500_2043b212ec22
+:nota_200.20.500_2043b212ec22 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Visitas de Presidentes de Câmara e de outros membros de executivos municipais (de e ao estrangeiro)".
 
-:c200.20.500 :temNotaAplicacao :nota_200.20.500_c82e68bc0d7d .
+:c200.20.500 :temNotaAplicacao :nota_200.20.500_2043b212ec22 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.500_c6ba3b3dab30
-:exemplo_200.20.500_c6ba3b3dab30 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.500_75b8abf327b6
+:exemplo_200.20.500_75b8abf327b6 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Visita a Portugal de representantes governamentais de países terceiros e da UE".
 
-:c200.20.500 :temExemploNA :exemplo_200.20.500_c6ba3b3dab30 .
+:c200.20.500 :temExemploNA :exemplo_200.20.500_75b8abf327b6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.500_deeb888d127a
-:exemplo_200.20.500_deeb888d127a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.20.500_be01b8e41972
+:exemplo_200.20.500_be01b8e41972 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Visita oficial de membros do Governo".
 
-:c200.20.500 :temExemploNA :exemplo_200.20.500_deeb888d127a .
+:c200.20.500 :temExemploNA :exemplo_200.20.500_be01b8e41972 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.500_f2647111aecc
-:nota_200.20.500_f2647111aecc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.500_a6cd293d0180
+:nota_200.20.500_a6cd293d0180 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As visitas institucionais de âmbito nacional devem ser consideradas em 900.20.602 – Organização de visitas institucionais".
 
-:c200.20.500 :temNotaExclusao :nota_200.20.500_f2647111aecc .
+:c200.20.500 :temNotaExclusao :nota_200.20.500_a6cd293d0180 .
 
 :c200.20.500 :processoTipoVC :vc_processoTipo_pc .
 :c200.20.500 :processoTransversal "S" .
@@ -2882,6 +2890,8 @@
 :c200.20.500 :eCruzadoCom :c200.20.001 .
 :c200.20.500 :temRelProc :c200.30.600 .
 :c200.20.500 :eCruzadoCom :c200.30.600 .
+:c200.20.500 :temRelProc :c500.10.001 .
+:c200.20.500 :eSuplementoPara :c500.10.001 .
 :c200.20.500 :temPCA :pca_c200.20.500.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c200.20.500
 :pca_c200.20.500 rdf:type owl:NamedIndividual ,
@@ -2925,21 +2935,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.20 ;
 	:descricao 'Atribuição de regime de proteção e de isenção especiais a membros do corpo consular e diplomático, ou cidadãos que gozem de estatuto diplomático, enquadrada no disposto pela Convenção de Viena sobre as relações diplomáticas e consulares. Inicia com o pedido e termina com a concessão de imunidade e privilégio. Inclui a análise e processamento do pedido de imunidade e privilégio, a proposta de decisão, a emissão dos respetivos documentos de identificação, isenções e franquias a que têm direito, registo e atribuição de matrículas às viaturas automóveis propriedade das representações diplomáticas, consulares e organizações internacionais ou dos seus membros. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.501_58396e16befc
-:nota_200.20.501_58396e16befc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.501_2d064a0962ec
+:nota_200.20.501_2d064a0962ec rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Concessão de imunidades, dispensas e privilégios ao corpo diplomático acreditado em Portugal".
 
-:c200.20.501 :temNotaAplicacao :nota_200.20.501_58396e16befc .
+:c200.20.501 :temNotaAplicacao :nota_200.20.501_2d064a0962ec .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.501_afd5790c8def
-:nota_200.20.501_afd5790c8def rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.501_e56c4445020b
+:nota_200.20.501_e56c4445020b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Concessão de imunidades, dispensas e privilégios às representações nacionais no estrangeiro".
 
-:c200.20.501 :temNotaAplicacao :nota_200.20.501_afd5790c8def .
+:c200.20.501 :temNotaAplicacao :nota_200.20.501_e56c4445020b .
 
 :c200.20.501 :processoTipoVC :vc_processoTipo_pe .
 :c200.20.501 :processoTransversal "S" .
@@ -2947,6 +2957,8 @@
 :c200.20.501 :temParticipanteAssessor :ent_DGACCP .
 :c200.20.501 :temLegislacao :leg_Regulamento_CE_562_2006 .
 :c200.20.501 :temLegislacao :leg_DL_48295_68 .
+:c200.20.501 :temRelProc :c150.20.300 .
+:c200.20.501 :eSintetizadoPor :c150.20.300 .
 :c200.20.501 :temRelProc :c200.20.002 .
 :c200.20.501 :eCruzadoCom :c200.20.002 .
 :c200.20.501 :temRelProc :c200.20.500 .
@@ -2957,6 +2969,8 @@
 :c200.20.501 :eCruzadoCom :c200.30.001 .
 :c200.20.501 :temRelProc :c200.30.302 .
 :c200.20.501 :eCruzadoCom :c200.30.302 .
+:c200.20.501 :temRelProc :c300.30.008 .
+:c200.20.501 :eSintetizadoPor :c300.30.008 .
 :c200.20.501 :temPCA :pca_c200.20.501.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c200.20.501
 :pca_c200.20.501 rdf:type owl:NamedIndividual ,
@@ -2997,61 +3011,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.20 ;
 	:descricao 'Ato através do qual um Estado acredita determinada pessoa como agente diplomático ao seu serviço para, nessa qualidade, atuar perante outro Estado ou perante uma organização internacional. Inicia com o pedido e termina com a emissão do documento identificador (cartas credenciais, cartas de plenos poderes, cartas de gabinete e/ou de cartões). Inclui instrução do processo e consulta ao Serviço de Estrangeiros e Fronteiras para visar a emissão de cartões, o qual confere antecedentes e insere dados no sistema de controlo. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.502_27575638828a
-:nota_200.20.502_27575638828a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.502_432400c0fecd
+:nota_200.20.502_432400c0fecd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atribuição de cartas de acreditação, nomeadamente, os documentos relativos às instalações da representação e aos procedimentos de acreditação dos titulares".
 
-:c200.20.502 :temNotaAplicacao :nota_200.20.502_27575638828a .
+:c200.20.502 :temNotaAplicacao :nota_200.20.502_432400c0fecd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.502_352cf27b8c2a
-:nota_200.20.502_352cf27b8c2a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.502_6c4b73b7c51e
+:nota_200.20.502_6c4b73b7c51e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Identificação de agentes diplomáticos e consulares (Anterior PN 400.10.030)".
 
-:c200.20.502 :temNotaAplicacao :nota_200.20.502_352cf27b8c2a .
+:c200.20.502 :temNotaAplicacao :nota_200.20.502_6c4b73b7c51e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.502_3d9a59922e54
-:nota_200.20.502_3d9a59922e54 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.502_7bc6e64b4615
+:nota_200.20.502_7bc6e64b4615 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Identificação de pessoal administrativo e doméstico, ou equiparado, em missões diplomáticas ou de organizações internacionais e aos membros das respetivas famílias".
 
-:c200.20.502 :temNotaAplicacao :nota_200.20.502_3d9a59922e54 .
+:c200.20.502 :temNotaAplicacao :nota_200.20.502_7bc6e64b4615 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.502_e28ae820fbaf
-:nota_200.20.502_e28ae820fbaf rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.502_72a450ce82e3
+:nota_200.20.502_72a450ce82e3 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A Concessão de imunidades e privilégios deve ser considerada em 200.20.501 – Concessão de imunidades, dispensas e privilégios".
 
-:c200.20.502 :temNotaExclusao :nota_200.20.502_e28ae820fbaf .
+:c200.20.502 :temNotaExclusao :nota_200.20.502_72a450ce82e3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.502_8fac65b06e68
-:nota_200.20.502_8fac65b06e68 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.502_84ca1a7ea35a
+:nota_200.20.502_84ca1a7ea35a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A formalização do direito de residência em Portugal de cidadão da União Europeia, da Islândia, do Liechtenstein, da Noruega e da Suíça deve ser considerado em 400.10.004 – Registo de cidadãos da União Europeia".
 
-:c200.20.502 :temNotaExclusao :nota_200.20.502_8fac65b06e68 .
+:c200.20.502 :temNotaExclusao :nota_200.20.502_84ca1a7ea35a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.502_024dce2d9a6e
-:nota_200.20.502_024dce2d9a6e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.502_8ee6551b8950
+:nota_200.20.502_8ee6551b8950 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A autorização de residência deve ser considerada em 550.10.303 – Autorização de residência".
 
-:c200.20.502 :temNotaExclusao :nota_200.20.502_024dce2d9a6e .
+:c200.20.502 :temNotaExclusao :nota_200.20.502_8ee6551b8950 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.502_543cf4f1109d
-:nota_200.20.502_543cf4f1109d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.20.502_29558fcf3ccf
+:nota_200.20.502_29558fcf3ccf rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A identificação de estrangeiros de países terceiros deve ser considerada em 400.10.029 – Emissão de título de residente".
 
-:c200.20.502 :temNotaExclusao :nota_200.20.502_543cf4f1109d .
+:c200.20.502 :temNotaExclusao :nota_200.20.502_29558fcf3ccf .
 
 :c200.20.502 :processoTipoVC :vc_processoTipo_pe .
 :c200.20.502 :processoTransversal "S" .
@@ -3109,77 +3123,77 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200 ;
 	:descricao 'Compreende o conjunto das atividades que concretizam projetos de política externa realizados no país ou no estrangeiro, no que se inclui o respetivo planeamento operacional, controlo e avaliação. Consideram-se projetos de execução da política externa aqueles que cumprem objetivos políticos que o Estado português pretende alcançar nas suas relações com outros países.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_cb1fcedf89c4
-:nota_200.30_cb1fcedf89c4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_5f2c63a51637
+:nota_200.30_5f2c63a51637 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Os projetos de execução da política externa podem manifestar-se através de relações de cooperação interinstitucional mas são, por princípio, politicamente enquadrados por acordos de Estado.".
 
-:c200.30 :temNotaAplicacao :nota_200.30_cb1fcedf89c4 .
+:c200.30 :temNotaAplicacao :nota_200.30_5f2c63a51637 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_6879f8b74389
-:nota_200.30_6879f8b74389 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_426f98068b81
+:nota_200.30_426f98068b81 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A atribuição de distinções e títulos honoríficos a personalidades ou entidades estrangeiras deve ser considerada em 950.30.".
 
-:c200.30 :temNotaExclusao :nota_200.30_6879f8b74389 .
+:c200.30 :temNotaExclusao :nota_200.30_426f98068b81 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_c739128e4579
-:nota_200.30_c739128e4579 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_e86a9ecb1a70
+:nota_200.30_e86a9ecb1a70 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Nem todos os projetos de cooperação internacional devem ser aqui considerados. Concretamente, os projetos e ações que dão execução a outras funções do Estado deverão ser considerados na área funcional correspondente, ainda que sejam implementados ao abrigo de acordos internacionais de cooperação.".
 
-:c200.30 :temNotaExclusao :nota_200.30_c739128e4579 .
+:c200.30 :temNotaExclusao :nota_200.30_e86a9ecb1a70 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_15ae37456bae
-:nota_200.30_15ae37456bae rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_99d6ba6691e2
+:nota_200.30_99d6ba6691e2 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Participação em operações de manutenção da paz considerar em \"Execução de operações de segurança, proteção ou defesa/ Missões de defesa e apoio à paz\" (550.30)".
 
-:c200.30 :temNotaExclusao :nota_200.30_15ae37456bae .
+:c200.30 :temNotaExclusao :nota_200.30_99d6ba6691e2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_337ffbc86653
-:nota_200.30_337ffbc86653 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_a4d62529ab98
+:nota_200.30_a4d62529ab98 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Candidatura a programa de cooperação transfronteiriça no quadro europeu considerar em \"Execução de programas e de ações de incentivo/ Atribuição e controlo de financiamentos e de ajudas diretas\" (850.10)".
 
-:c200.30 :temNotaExclusao :nota_200.30_337ffbc86653 .
+:c200.30 :temNotaExclusao :nota_200.30_a4d62529ab98 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_c1cb612538b4
-:nota_200.30_c1cb612538b4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_b3c6e18d7e77
+:nota_200.30_b3c6e18d7e77 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Solicitação e execução de pedidos apresentados pelos tribunais nacionais para outros Estados ou de outros Estados para Portugal (execução de cartas rogatórias, detenção ao abrigo de mandato europeu ou internacional, extradição, entre outros), devem ser consideradas em \"Administração da Justiça\" (600)".
 
-:c200.30 :temNotaExclusao :nota_200.30_c1cb612538b4 .
+:c200.30 :temNotaExclusao :nota_200.30_b3c6e18d7e77 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_c265dfeaa6a3
-:nota_200.30_c265dfeaa6a3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_b3dfdf1798e1
+:nota_200.30_b3dfdf1798e1 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O auxílio judiciário prestado pelo Estado português a uma entidade estrangeira deve ser considerado em \"Prestação de serviços de proteção e inclusão social/ Serviços e equipamentos sociais\" (650.20)".
 
-:c200.30 :temNotaExclusao :nota_200.30_c265dfeaa6a3 .
+:c200.30 :temNotaExclusao :nota_200.30_b3dfdf1798e1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_7c21f40fb227
-:nota_200.30_7c21f40fb227 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_665967c50e89
+:nota_200.30_665967c50e89 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As ações para a definição da posição portuguesa em todos os casos de pré-contencioso e contencioso comunitário devem ser consideradas em \"Administração da Justiça\" (600)".
 
-:c200.30 :temNotaExclusao :nota_200.30_7c21f40fb227 .
+:c200.30 :temNotaExclusao :nota_200.30_665967c50e89 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_db74484b29f5
-:nota_200.30_db74484b29f5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30_6a8324a300b7
+:nota_200.30_6a8324a300b7 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os Pareceres sobre compatibilidade dos diplomas nacionais com o direito comunitário e as notificações à Comissão Europeia sobre a transposição de diretivas devem ser considerados em \"Ordenamento jurídico e normativo\" (100)".
 
-:c200.30 :temNotaExclusao :nota_200.30_db74484b29f5 .
+:c200.30 :temNotaExclusao :nota_200.30_6a8324a300b7 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c200.30.001
@@ -3191,53 +3205,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.30 ;
 	:descricao 'Organização de respostas a situações de calamidade ou de emergência identificadas pelos serviços, organizadas em função de uma decisão da tutela ou decorrentes de apelos das Nações Unidas, das missões afetadas ou das representações diplomáticas nacionais nos países beneficiários. Inicia com a informação da situação de calamidade ou emergência e termina com o envio de apoio. Inclui a receção dos pedidos de apoio, informação da solicitação de elementos adicionais às entidades envolvidas, análise da viabilidade do empreendimento e de apuramento dos encargos deles resultantes, autorização, notificação da decisão à embaixada. A participação da Administração Local neste processo ocorre nas fases de solicitação de contributos e de planeamento da organização logística, em articulação com outras entidades.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.001_106c85162940
-:nota_200.30.001_106c85162940 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.001_6f14193d51c4
+:nota_200.30.001_6f14193d51c4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Ajuda humanitária internacional".
 
-:c200.30.001 :temNotaAplicacao :nota_200.30.001_106c85162940 .
+:c200.30.001 :temNotaAplicacao :nota_200.30.001_6f14193d51c4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.001_f1212ae8fd64
-:nota_200.30.001_f1212ae8fd64 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.001_199c43f29457
+:nota_200.30.001_199c43f29457 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio a ações concretas desenvolvidas no terreno por Organizações da Sociedade Civil (OSC)".
 
-:c200.30.001 :temNotaAplicacao :nota_200.30.001_f1212ae8fd64 .
+:c200.30.001 :temNotaAplicacao :nota_200.30.001_199c43f29457 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.001_6ed5dade0c62
-:nota_200.30.001_6ed5dade0c62 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.001_888c369dda08
+:nota_200.30.001_888c369dda08 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Deslocação de técnicos para zonas carenciadas de ajuda humanitária ou de emergência".
 
-:c200.30.001 :temNotaAplicacao :nota_200.30.001_6ed5dade0c62 .
+:c200.30.001 :temNotaAplicacao :nota_200.30.001_888c369dda08 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.001_e01e7452dd03
-:nota_200.30.001_e01e7452dd03 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.001_0c73e679ab53
+:nota_200.30.001_0c73e679ab53 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Envio de bens materiais ou equipamento específico necessários".
 
-:c200.30.001 :temNotaAplicacao :nota_200.30.001_e01e7452dd03 .
+:c200.30.001 :temNotaAplicacao :nota_200.30.001_0c73e679ab53 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.001_d788bd8f291a
-:nota_200.30.001_d788bd8f291a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.001_c1155292e0c7
+:nota_200.30.001_c1155292e0c7 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de bens no âmbito da resposta a catástrofes deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c200.30.001 :temNotaExclusao :nota_200.30.001_d788bd8f291a .
+:c200.30.001 :temNotaExclusao :nota_200.30.001_c1155292e0c7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.001_fdb8fcf5863c
-:nota_200.30.001_fdb8fcf5863c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.001_72324971ed60
+:nota_200.30.001_72324971ed60 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A cabimentação de verbas necessárias para as ações de ajuda humanitária e de emergência, devem ser consideradas em 350.10.600 – Lançamento de receitas e de despesas".
 
-:c200.30.001 :temNotaExclusao :nota_200.30.001_fdb8fcf5863c .
+:c200.30.001 :temNotaExclusao :nota_200.30.001_72324971ed60 .
 
 :c200.30.001 :processoTipoVC :vc_processoTipo_pe .
 :c200.30.001 :processoTransversal "S" .
@@ -3429,53 +3443,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.30 ;
 	:descricao 'Elaboração dos instrumentos de orientação estratégica que estabelecem os critérios, os objetivos e os atores envolvidos, bem como os mecanismos e os recursos necessários à prossecução das políticas de cooperação para o desenvolvimento, normalmente designados por programas de cooperação. Inicia com proposta e termina com aprovação de programa de cooperação e ajuda pública ao desenvolvimento. Inclui articulação com autoridades de países parceiros, recolha de contributos para a elaboração do programa, consulta de informação relativa a anteriores programas de cooperação, articulação com organizações não-governamentais, constituição e mandatos de grupos de trabalho, nomeação de representantes, elaboração e análise de planos de ação, de quadros de caracterização das medidas e de ações de implementação e elaboração de proposta de programa.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.301_7a5fce9ffa47
-:nota_200.30.301_7a5fce9ffa47 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.301_d5a3eaaea462
+:nota_200.30.301_d5a3eaaea462 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Conceção de programas de cooperação e ajuda pública ao desenvolvimento".
 
-:c200.30.301 :temNotaAplicacao :nota_200.30.301_7a5fce9ffa47 .
+:c200.30.301 :temNotaAplicacao :nota_200.30.301_d5a3eaaea462 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.301_04441e8cfff7
-:nota_200.30.301_04441e8cfff7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.301_3cc45967047d
+:nota_200.30.301_3cc45967047d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Revisão de programas já existentes".
 
-:c200.30.301 :temNotaAplicacao :nota_200.30.301_04441e8cfff7 .
+:c200.30.301 :temNotaAplicacao :nota_200.30.301_3cc45967047d .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.30.301_e2fbbf9ef957
-:exemplo_200.30.301_e2fbbf9ef957 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.30.301_ec6c0ad08870
+:exemplo_200.30.301_ec6c0ad08870 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Programa de cooperação enquadrável na ajuda pública ao desenvolvimento - apoio à conceção".
 
-:c200.30.301 :temExemploNA :exemplo_200.30.301_e2fbbf9ef957 .
+:c200.30.301 :temExemploNA :exemplo_200.30.301_ec6c0ad08870 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.30.301_fca4e0f83c9d
-:exemplo_200.30.301_fca4e0f83c9d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.30.301_56f5ed344571
+:exemplo_200.30.301_56f5ed344571 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Programas de cooperação de apoio aos PALOP - Países Africanos de Língua Oficial Portuguesa - apoio à conceção".
 
-:c200.30.301 :temExemploNA :exemplo_200.30.301_fca4e0f83c9d .
+:c200.30.301 :temExemploNA :exemplo_200.30.301_56f5ed344571 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.301_e1cc19cd8978
-:nota_200.30.301_e1cc19cd8978 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.301_ee9257795344
+:nota_200.30.301_ee9257795344 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A celebração de acordos, tratados e protocolos deve ser considerada em 200.10.800 – Celebração de acordos e outros atos internacionais".
 
-:c200.30.301 :temNotaExclusao :nota_200.30.301_e1cc19cd8978 .
+:c200.30.301 :temNotaExclusao :nota_200.30.301_ee9257795344 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.301_0fa4949fec44
-:nota_200.30.301_0fa4949fec44 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.301_10447f649ccc
+:nota_200.30.301_10447f649ccc rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A execução de projetos decorrentes de programas de cooperação, acordos, protocolos e outros atos internacionais deve ser considerada em 200.30.302 – Execução de projetos de cooperação para o desenvolvimento".
 
-:c200.30.301 :temNotaExclusao :nota_200.30.301_0fa4949fec44 .
+:c200.30.301 :temNotaExclusao :nota_200.30.301_10447f649ccc .
 
 :c200.30.301 :processoTipoVC :vc_processoTipo_pe .
 :c200.30.301 :processoTransversal "S" .
@@ -3539,6 +3553,8 @@
 :c200.30.301 :eSinteseDe :c200.30.302 .
 :c200.30.301 :temRelProc :c200.30.303 .
 :c200.30.301 :eComplementarDe :c200.30.303 .
+:c200.30.301 :temRelProc :c500.10.001 .
+:c200.30.301 :eSuplementoPara :c500.10.001 .
 :c200.30.301 :temPCA :pca_c200.30.301.
 ###  http://jcr.di.uminho.pt/m51-clav#pca_c200.30.301
 :pca_c200.30.301 rdf:type owl:NamedIndividual ,
@@ -3588,69 +3604,69 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.30 ;
 	:descricao 'Concretização de projetos decorrentes de acordos e protocolos de cooperação. Inicia com apresentação de proposta de projeto específico e termina com aprovação de relatório final de execução técnica e financeira. Inclui discussão de propostas apresentadas, caracterização das ações a desenvolver, aprovação do projeto, preparação dos meios necessários para o desenvolvimento do projeto e acompanhamento da sua execução.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.302_16856f17f7aa
-:nota_200.30.302_16856f17f7aa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.302_bc75aa611a38
+:nota_200.30.302_bc75aa611a38 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Execução de projetos de cooperação ao abrigo de acordos e protocolos de geminação de municípios portugueses com estrangeiros".
 
-:c200.30.302 :temNotaAplicacao :nota_200.30.302_16856f17f7aa .
+:c200.30.302 :temNotaAplicacao :nota_200.30.302_bc75aa611a38 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.302_a541b019f1b0
-:nota_200.30.302_a541b019f1b0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.302_5315ce9664ac
+:nota_200.30.302_5315ce9664ac rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Execução de projetos no âmbito de acordos entre regiões transfronteiriças, transnacionais e interregionais".
 
-:c200.30.302 :temNotaAplicacao :nota_200.30.302_a541b019f1b0 .
+:c200.30.302 :temNotaAplicacao :nota_200.30.302_5315ce9664ac .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.302_e2e038502ad8
-:nota_200.30.302_e2e038502ad8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.302_1769ea287b1c
+:nota_200.30.302_1769ea287b1c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Execução de projetos no âmbito de programas de cooperação e ajuda pública ao desenvolvimento em parceria com a Sociedade Civil ou Organizações Internacionais".
 
-:c200.30.302 :temNotaAplicacao :nota_200.30.302_e2e038502ad8 .
+:c200.30.302 :temNotaAplicacao :nota_200.30.302_1769ea287b1c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.302_51817c01d366
-:nota_200.30.302_51817c01d366 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.302_eb6c82ae9e10
+:nota_200.30.302_eb6c82ae9e10 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Execução de projetos no âmbito de programas de cooperação e assistência militar de natureza bilateral e multilateral".
 
-:c200.30.302 :temNotaAplicacao :nota_200.30.302_51817c01d366 .
+:c200.30.302 :temNotaAplicacao :nota_200.30.302_eb6c82ae9e10 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.30.302_6aad8e9374fb
-:exemplo_200.30.302_6aad8e9374fb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.30.302_34a225a43c39
+:exemplo_200.30.302_34a225a43c39 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Ações de formação e treino, âmbito de programas de cooperação e assistência civil ou militar de natureza bilateral e multilateral".
 
-:c200.30.302 :temExemploNA :exemplo_200.30.302_6aad8e9374fb .
+:c200.30.302 :temExemploNA :exemplo_200.30.302_34a225a43c39 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.30.302_4168ba8bb430
-:exemplo_200.30.302_4168ba8bb430 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.30.302_5ff7f998aa6d
+:exemplo_200.30.302_5ff7f998aa6d rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Assistência militar a fim de apoiar a politica externa do Estado no quadro das relações internacionais de cooperação, nomeadamente no âmbito CPLP, da NATO e UE".
 
-:c200.30.302 :temExemploNA :exemplo_200.30.302_4168ba8bb430 .
+:c200.30.302 :temExemploNA :exemplo_200.30.302_5ff7f998aa6d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.302_e65d7b7d6a9d
-:nota_200.30.302_e65d7b7d6a9d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.302_826e95badd61
+:nota_200.30.302_826e95badd61 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A formalização de acordos ou protocolos internacionais deve ser considerada em 200.10.800 – Celebração de acordos e outros atos internacionais".
 
-:c200.30.302 :temNotaExclusao :nota_200.30.302_e65d7b7d6a9d .
+:c200.30.302 :temNotaExclusao :nota_200.30.302_826e95badd61 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.302_4dfc0b0ba203
-:nota_200.30.302_4dfc0b0ba203 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.302_16fb67914bc5
+:nota_200.30.302_16fb67914bc5 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A conceção de programas no âmbito dos quais se desenvolvem projetos de cooperação para o desenvolvimento, deve ser considerada em 200.30.301 – Conceção de programas de cooperação e de ajuda pública ao desenvolvimento".
 
-:c200.30.302 :temNotaExclusao :nota_200.30.302_4dfc0b0ba203 .
+:c200.30.302 :temNotaExclusao :nota_200.30.302_16fb67914bc5 .
 
 :c200.30.302 :processoTipoVC :vc_processoTipo_pe .
 :c200.30.302 :processoTransversal "S" .
@@ -3727,6 +3743,8 @@
 :c200.30.302 :eSintetizadoPor :c200.30.301 .
 :c200.30.302 :temRelProc :c200.30.303 .
 :c200.30.302 :eSintetizadoPor :c200.30.303 .
+:c200.30.302 :temRelProc :c500.10.001 .
+:c200.30.302 :eSuplementoPara :c500.10.001 .
 :c200.30.302 :temRelProc :c850.10.002 .
 :c200.30.302 :eSucessorDe :c850.10.002 .
 :c200.30.302 :temRelProc :c850.10.003 .
@@ -3780,77 +3798,77 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.30 ;
 	:descricao 'Avaliação dos programas de cooperação e de ajuda ao desenvolvimento, executados por entidades públicas e privadas Inicia com verificação de procedimentos previamente estabelecidos e termina com a apresentação de relatório final. Inclui, quando devido, apresentação de caderno de encargos, convite ou candidatura do avaliador, apresentação do memorando da cooperação em análise, compilação de informação de referência, análise da matriz de seguimento das recomendações, produção de relatórios das reuniões, avaliação do seguimento das recomendações e do respetivo plano de implementação e produção de um relatório final da avaliação.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.303_ccb24a89b500
-:nota_200.30.303_ccb24a89b500 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.303_693d26a3adb5
+:nota_200.30.303_693d26a3adb5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Avaliação de projetos no âmbito de acordos e protocolos de geminação de municípios portugueses com estrangeiros".
 
-:c200.30.303 :temNotaAplicacao :nota_200.30.303_ccb24a89b500 .
+:c200.30.303 :temNotaAplicacao :nota_200.30.303_693d26a3adb5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.303_60116b2c2161
-:nota_200.30.303_60116b2c2161 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.303_121c87353d0d
+:nota_200.30.303_121c87353d0d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Exames a Portugal, no âmbito da OCDE, assim como os exames de outros estados-membros nos quais Portugal é avaliador".
 
-:c200.30.303 :temNotaAplicacao :nota_200.30.303_60116b2c2161 .
+:c200.30.303 :temNotaAplicacao :nota_200.30.303_121c87353d0d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.303_2f23b5831bff
-:nota_200.30.303_2f23b5831bff rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.303_d80e2845400d
+:nota_200.30.303_d80e2845400d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Produção de recomendações no âmbito dos processos de avaliação das políticas de cooperação para o desenvolvimento".
 
-:c200.30.303 :temNotaAplicacao :nota_200.30.303_2f23b5831bff .
+:c200.30.303 :temNotaAplicacao :nota_200.30.303_d80e2845400d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.303_bc1cb8250fea
-:nota_200.30.303_bc1cb8250fea rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.303_bb7a8d0c521e
+:nota_200.30.303_bb7a8d0c521e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Verificação da adequação do sistema aos compromissos internacionais e aos objetivos nacionais".
 
-:c200.30.303 :temNotaAplicacao :nota_200.30.303_bc1cb8250fea .
+:c200.30.303 :temNotaAplicacao :nota_200.30.303_bb7a8d0c521e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.303_e507511c3547
-:nota_200.30.303_e507511c3547 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.303_fce23f85c252
+:nota_200.30.303_fce23f85c252 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Verificação da implementação de recomendações".
 
-:c200.30.303 :temNotaAplicacao :nota_200.30.303_e507511c3547 .
+:c200.30.303 :temNotaAplicacao :nota_200.30.303_fce23f85c252 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.303_1d594a9d4efb
-:nota_200.30.303_1d594a9d4efb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.303_f282b219bf6a
+:nota_200.30.303_f282b219bf6a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Acompanhamento de projetos de cooperação internacional".
 
-:c200.30.303 :temNotaAplicacao :nota_200.30.303_1d594a9d4efb .
+:c200.30.303 :temNotaAplicacao :nota_200.30.303_f282b219bf6a .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.30.303_1ec64cbab453
-:exemplo_200.30.303_1ec64cbab453 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.30.303_7c73aa5949f7
+:exemplo_200.30.303_7c73aa5949f7 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Projeto de cooperação enquadrável na ajuda pública ao desenvolvimento - levantamento da execução".
 
-:c200.30.303 :temExemploNA :exemplo_200.30.303_1ec64cbab453 .
+:c200.30.303 :temExemploNA :exemplo_200.30.303_7c73aa5949f7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.303_c0eff2f9a0b8
-:nota_200.30.303_c0eff2f9a0b8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.303_f2ce06afc7ab
+:nota_200.30.303_f2ce06afc7ab rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A celebração de acordos e outros atos internacionais deve ser considerada em 200.10.800 – Celebração de acordos e outros atos internacionais".
 
-:c200.30.303 :temNotaExclusao :nota_200.30.303_c0eff2f9a0b8 .
+:c200.30.303 :temNotaExclusao :nota_200.30.303_f2ce06afc7ab .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.303_639259779b4c
-:nota_200.30.303_639259779b4c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.303_0f9bd1fc0a16
+:nota_200.30.303_0f9bd1fc0a16 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os projetos decorrentes de programas de cooperação, acordos, protocolos e outros atos internacionais devem ser considerados em 200.30.302 – Execução de projetos de cooperação e de ajuda pública ao desenvolvimento".
 
-:c200.30.303 :temNotaExclusao :nota_200.30.303_639259779b4c .
+:c200.30.303 :temNotaExclusao :nota_200.30.303_0f9bd1fc0a16 .
 
 :c200.30.303 :processoTipoVC :vc_processoTipo_pe .
 :c200.30.303 :processoTransversal "S" .
@@ -3903,6 +3921,8 @@
 :c200.30.303 :eComplementarDe :c200.30.301 .
 :c200.30.303 :temRelProc :c200.30.302 .
 :c200.30.303 :eSinteseDe :c200.30.302 .
+:c200.30.303 :temRelProc :c500.10.001 .
+:c200.30.303 :eSuplementoPara :c500.10.001 .
 :c200.30.303 :temRelProc :c850.10.004 .
 :c200.30.303 :eCruzadoCom :c850.10.004 .
 :c200.30.303 :temPCA :pca_c200.30.303.
@@ -3954,141 +3974,141 @@
 	:pertenceLC :lc1 ;
 	:temPai :c200.30 ;
 	:descricao 'Realização de ações de promoção da imagem de Portugal no estrangeiro e de apoio à internacionalização de empresas, ou agentes culturais, portugueses. Inicia com contacto entre entidades e termina com a realização de eventos de promoção e de apoio à internacionalização. Inclui compilação de dados e informação, realização de estudos de natureza social, cultural e económica, programação e calendarização de iniciativas, definição de recursos a afetar e planeamento das ações a desenvolver.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_3209a9c5f227
-:nota_200.30.600_3209a9c5f227 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_8e4330d215a0
+:nota_200.30.600_8e4330d215a0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio à participação nacional em feiras, certames, festivais e plataformas internacionais de promoção do país".
 
-:c200.30.600 :temNotaAplicacao :nota_200.30.600_3209a9c5f227 .
+:c200.30.600 :temNotaAplicacao :nota_200.30.600_8e4330d215a0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_4912ac3f5b7a
-:nota_200.30.600_4912ac3f5b7a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_c78507a04e9a
+:nota_200.30.600_c78507a04e9a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Divulgação internacional de produtos e marcas portuguesas".
 
-:c200.30.600 :temNotaAplicacao :nota_200.30.600_4912ac3f5b7a .
+:c200.30.600 :temNotaAplicacao :nota_200.30.600_c78507a04e9a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_858f0f4f4b36
-:nota_200.30.600_858f0f4f4b36 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_96a86a925aee
+:nota_200.30.600_96a86a925aee rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Atração de investimento estrangeiro".
 
-:c200.30.600 :temNotaAplicacao :nota_200.30.600_858f0f4f4b36 .
+:c200.30.600 :temNotaAplicacao :nota_200.30.600_96a86a925aee .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_ba4b1f4984dc
-:nota_200.30.600_ba4b1f4984dc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_ca4203d5a1da
+:nota_200.30.600_ca4203d5a1da rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fomento de intercâmbio cultural".
 
-:c200.30.600 :temNotaAplicacao :nota_200.30.600_ba4b1f4984dc .
+:c200.30.600 :temNotaAplicacao :nota_200.30.600_ca4203d5a1da .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_91c6f352f059
-:nota_200.30.600_91c6f352f059 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_14c1fabf813d
+:nota_200.30.600_14c1fabf813d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Fomento de intercâmbio empresarial".
 
-:c200.30.600 :temNotaAplicacao :nota_200.30.600_91c6f352f059 .
+:c200.30.600 :temNotaAplicacao :nota_200.30.600_14c1fabf813d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_616032e40ed3
-:nota_200.30.600_616032e40ed3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_32c5ae66d807
+:nota_200.30.600_32c5ae66d807 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Divulgação internacional de autores e criadores de língua portuguesa".
 
-:c200.30.600 :temNotaAplicacao :nota_200.30.600_616032e40ed3 .
+:c200.30.600 :temNotaAplicacao :nota_200.30.600_32c5ae66d807 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_544bb17209c8
-:nota_200.30.600_544bb17209c8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_6db9a7b924f1
+:nota_200.30.600_6db9a7b924f1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Promoção da língua portuguesa".
 
-:c200.30.600 :temNotaAplicacao :nota_200.30.600_544bb17209c8 .
+:c200.30.600 :temNotaAplicacao :nota_200.30.600_6db9a7b924f1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_5c9233af0b44
-:nota_200.30.600_5c9233af0b44 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_cc27aa88e635
+:nota_200.30.600_cc27aa88e635 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Promoção de projetos e conteúdos ligados à criação portuguesa".
 
-:c200.30.600 :temNotaAplicacao :nota_200.30.600_5c9233af0b44 .
+:c200.30.600 :temNotaAplicacao :nota_200.30.600_cc27aa88e635 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_2d6babf820b1
-:nota_200.30.600_2d6babf820b1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_85ea25e9eb64
+:nota_200.30.600_85ea25e9eb64 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio à circulação de agentes culturais no estrangeiro".
 
-:c200.30.600 :temNotaAplicacao :nota_200.30.600_2d6babf820b1 .
+:c200.30.600 :temNotaAplicacao :nota_200.30.600_85ea25e9eb64 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_3657901c723c
-:nota_200.30.600_3657901c723c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_1f0a2e23d6e5
+:nota_200.30.600_1f0a2e23d6e5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio à internacionalização de entidades privadas no estrangeiro".
 
-:c200.30.600 :temNotaAplicacao :nota_200.30.600_3657901c723c .
+:c200.30.600 :temNotaAplicacao :nota_200.30.600_1f0a2e23d6e5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_90f6e0c4d66e
-:nota_200.30.600_90f6e0c4d66e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_3f78de8f99da
+:nota_200.30.600_3f78de8f99da rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Participação em organismos multilaterais, através de atividades de natureza cultural, de promoção do país".
 
-:c200.30.600 :temNotaAplicacao :nota_200.30.600_90f6e0c4d66e .
+:c200.30.600 :temNotaAplicacao :nota_200.30.600_3f78de8f99da .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.30.600_7bc85a41b192
-:exemplo_200.30.600_7bc85a41b192 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.30.600_40d17823664d
+:exemplo_200.30.600_40d17823664d rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Internacionalização de empresas".
 
-:c200.30.600 :temExemploNA :exemplo_200.30.600_7bc85a41b192 .
+:c200.30.600 :temExemploNA :exemplo_200.30.600_40d17823664d .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.30.600_98ffab59624c
-:exemplo_200.30.600_98ffab59624c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.30.600_63f065438991
+:exemplo_200.30.600_63f065438991 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Internacionalização de marcas".
 
-:c200.30.600 :temExemploNA :exemplo_200.30.600_98ffab59624c .
+:c200.30.600 :temExemploNA :exemplo_200.30.600_63f065438991 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.30.600_792fdd7136da
-:exemplo_200.30.600_792fdd7136da rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_200.30.600_1cd550c1c6bf
+:exemplo_200.30.600_1cd550c1c6bf rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Internacionalização de produtos".
 
-:c200.30.600 :temExemploNA :exemplo_200.30.600_792fdd7136da .
+:c200.30.600 :temExemploNA :exemplo_200.30.600_1cd550c1c6bf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_1f9ba45d7904
-:nota_200.30.600_1f9ba45d7904 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_1b3f8fdb8cf7
+:nota_200.30.600_1b3f8fdb8cf7 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de bens e serviços no âmbito da organização de eventos e respetivo apoio logístico deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c200.30.600 :temNotaExclusao :nota_200.30.600_1f9ba45d7904 .
+:c200.30.600 :temNotaExclusao :nota_200.30.600_1b3f8fdb8cf7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_e7798330adf0
-:nota_200.30.600_e7798330adf0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_50394f4e64d5
+:nota_200.30.600_50394f4e64d5 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As ações de dinamização da sociedade em Portugal devem ser consideradas em 900.10 – Execução de atividades de dinamização da sociedade".
 
-:c200.30.600 :temNotaExclusao :nota_200.30.600_e7798330adf0 .
+:c200.30.600 :temNotaExclusao :nota_200.30.600_50394f4e64d5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_36ea67adfb38
-:nota_200.30.600_36ea67adfb38 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_200.30.600_5d3cc7ec4f58
+:nota_200.30.600_5d3cc7ec4f58 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pedidos de informação sobre oportunidades de negócio e de investimento que se esgotam na pergunta e resposta, nunca se consubstanciando em ações concretas, devem ser considerados em 900.20.604 – Tratamento de informações e processamento de pedidos de informação".
 
-:c200.30.600 :temNotaExclusao :nota_200.30.600_36ea67adfb38 .
+:c200.30.600 :temNotaExclusao :nota_200.30.600_5d3cc7ec4f58 .
 
 :c200.30.600 :processoTipoVC :vc_processoTipo_pc .
 :c200.30.600 :processoTransversal "S" .

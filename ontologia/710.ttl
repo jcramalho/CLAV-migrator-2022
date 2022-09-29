@@ -8,53 +8,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :lc1 ;
 	:descricao 'Relativo à prestação de serviços nos domínios da higiene e salubridade públicas, assegurando uma adequada qualidade ambiental às populações. Inclui as atividades de limpeza de espaços públicos, recolha e tratamento de resíduos sólidos e efluentes, recolha de animais da via pública, combate às pragas, e os serviços prestados no âmbito do movimento mortuário.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710_4a89520d3e57
-:nota_710_4a89520d3e57 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710_8301c8f7cd9f
+:nota_710_8301c8f7cd9f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Situações em que estes serviços sejam efetivamente prestados por entidades públicas".
 
-:c710 :temNotaAplicacao :nota_710_4a89520d3e57 .
+:c710 :temNotaAplicacao :nota_710_8301c8f7cd9f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710_294e7525b84f
-:nota_710_294e7525b84f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710_e5483bbfad18
+:nota_710_e5483bbfad18 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A contratualização e controlo da concessão de serviços públicos, bem como a constituição de parcerias público-privadas para a prestação dos serviços, devem ser consideradas em \"Administração de direitos, bens e serviços/ Concessão, delegação e parceria público-privada\" (300.20)".
 
-:c710 :temNotaExclusao :nota_710_294e7525b84f .
+:c710 :temNotaExclusao :nota_710_e5483bbfad18 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710_ea3cace6e49f
-:nota_710_ea3cace6e49f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710_d5a5ea6796b3
+:nota_710_d5a5ea6796b3 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A contratualização e gestão de contratos de fornecimento de água deve ser considerada em \"Administração de direitos, bens e serviços/ Aquisição, venda, abate ou permuta\" (300.10).".
 
-:c710 :temNotaExclusao :nota_710_ea3cace6e49f .
+:c710 :temNotaExclusao :nota_710_d5a5ea6796b3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710_da6a3b8cc157
-:nota_710_da6a3b8cc157 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710_f21cabb8cbed
+:nota_710_f21cabb8cbed rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As ações de promoção da higiene e salubridade públicas que se revistam da forma de campanhas de sensibilização e educação sanitária devem ser consideradas em \"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\" (900.10)".
 
-:c710 :temNotaExclusao :nota_710_da6a3b8cc157 .
+:c710 :temNotaExclusao :nota_710_f21cabb8cbed .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710_74b34e96c07d
-:nota_710_74b34e96c07d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710_26d4d7a89f4a
+:nota_710_26d4d7a89f4a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os estudos e ações de monitorização de parâmetros de qualidade ambiental (níveis de ruído, de poluição) devem ser considerados em \"Prestação de serviços técnicos e científicos, investigação e desenvolvimento\" (800)".
 
-:c710 :temNotaExclusao :nota_710_74b34e96c07d .
+:c710 :temNotaExclusao :nota_710_26d4d7a89f4a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710_9eab11eae7c5
-:nota_710_9eab11eae7c5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710_347a9d10e475
+:nota_710_347a9d10e475 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A inspeção higiénico-sanitária ou outras formas de verificação do cumprimento de leis e regulamentos deve ser considerada em \"Supervisão, controlo e responsabilização/ Inspeção, auditoria, fiscalização e monitorização de conformidade à norma\" (500.10)".
 
-:c710 :temNotaExclusao :nota_710_9eab11eae7c5 .
+:c710 :temNotaExclusao :nota_710_347a9d10e475 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c710.10
@@ -66,53 +66,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c710 ;
 	:descricao 'Compreende as atividades de limpeza dos espaços públicos e de recolha e tratamento de resíduos sólidos e efluentes. Compreende, igualmente, o controlo de pragas, a recolha, tratamento e encaminhamento de animais abandonados ou errantes na via pública e outras ações de profilaxia sanitária.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_5b2a22e762a0
-:nota_710.10_5b2a22e762a0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_148b636b623c
+:nota_710.10_148b636b623c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Qualquer tipo de resíduos sólidos, líquidos ou gasosos - urbanos, industriais, hospitalares, agrícolas, florestais ou outros.".
 
-:c710.10 :temNotaAplicacao :nota_710.10_5b2a22e762a0 .
+:c710.10 :temNotaAplicacao :nota_710.10_148b636b623c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_83d06e89e1e0
-:nota_710.10_83d06e89e1e0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_2696e1894e51
+:nota_710.10_2696e1894e51 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Inclui a prestação de serviços de limpeza de equipamentos sanitários privados (exemplo, limpeza de fossas)".
 
-:c710.10 :temNotaAplicacao :nota_710.10_83d06e89e1e0 .
+:c710.10 :temNotaAplicacao :nota_710.10_2696e1894e51 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_8149b5983239
-:nota_710.10_8149b5983239 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_b3dee8e8a66e
+:nota_710.10_b3dee8e8a66e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "O controlo de pragas pode assumir a forma de desratizações, controlo de reprodução de espécies ou outras".
 
-:c710.10 :temNotaAplicacao :nota_710.10_8149b5983239 .
+:c710.10 :temNotaAplicacao :nota_710.10_b3dee8e8a66e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_4efa566160a3
-:nota_710.10_4efa566160a3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_5c508c4a2ea3
+:nota_710.10_5c508c4a2ea3 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A construção, monitorização do estado de conservação e realização de obras de manutenção, tanto em infraestruturas como em espaços públicos, bem como a higiene e limpeza regular de instalações públicas, devem ser consideradas em \"Administração de direitos, bens e serviços\" (300)".
 
-:c710.10 :temNotaExclusao :nota_710.10_4efa566160a3 .
+:c710.10 :temNotaExclusao :nota_710.10_5c508c4a2ea3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_6eddae359d0d
-:nota_710.10_6eddae359d0d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_6e7169165131
+:nota_710.10_6e7169165131 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processamento de análises laboratoriais deve ser considerado em \"Prestação de serviços técnicos e científicos, investigação e desenvolvimento/ Execução de serviços científicos e técnicos\" (800.10)".
 
-:c710.10 :temNotaExclusao :nota_710.10_6eddae359d0d .
+:c710.10 :temNotaExclusao :nota_710.10_6e7169165131 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_fb941856dc57
-:nota_710.10_fb941856dc57 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10_16b4069e1c03
+:nota_710.10_16b4069e1c03 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os atos médico-veterinários devem ser considerados em \"Prestação de cuidados de saúde/ Serviços clínicos\" (700.20)".
 
-:c710.10 :temNotaExclusao :nota_710.10_fb941856dc57 .
+:c710.10 :temNotaExclusao :nota_710.10_16b4069e1c03 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c710.10.001
@@ -124,85 +124,85 @@
 	:pertenceLC :lc1 ;
 	:temPai :c710.10 ;
 	:descricao 'Prestação de serviços no âmbito da regular manutenção e conservação da limpeza no espaço público. Inicia na sequência do planeamento e calendarização definidos ou por pedido de particulares e termina com o comprovativo dos trabalhos executados ou com a resposta aos requerentes. Inclui operacionalização e registo de ocorrências.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_2eba90675443
-:nota_710.10.001_2eba90675443 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_ee9fa29b066f
+:nota_710.10.001_ee9fa29b066f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Despejo de papeleiras".
 
-:c710.10.001 :temNotaAplicacao :nota_710.10.001_2eba90675443 .
+:c710.10.001 :temNotaAplicacao :nota_710.10.001_ee9fa29b066f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_f7e51491684a
-:nota_710.10.001_f7e51491684a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_385e12a5c68f
+:nota_710.10.001_385e12a5c68f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Eliminação de ervas de passeios públicos".
 
-:c710.10.001 :temNotaAplicacao :nota_710.10.001_f7e51491684a .
+:c710.10.001 :temNotaAplicacao :nota_710.10.001_385e12a5c68f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_107d7166dcd4
-:nota_710.10.001_107d7166dcd4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_724a503fb07b
+:nota_710.10.001_724a503fb07b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Lavagem e varredura de arruamentos e espaços públicos".
 
-:c710.10.001 :temNotaAplicacao :nota_710.10.001_107d7166dcd4 .
+:c710.10.001 :temNotaAplicacao :nota_710.10.001_724a503fb07b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_4b10b6380bf8
-:nota_710.10.001_4b10b6380bf8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_9fbb2aa67275
+:nota_710.10.001_9fbb2aa67275 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Limpeza de dejetos caninos".
 
-:c710.10.001 :temNotaAplicacao :nota_710.10.001_4b10b6380bf8 .
+:c710.10.001 :temNotaAplicacao :nota_710.10.001_9fbb2aa67275 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_25723c345cb5
-:nota_710.10.001_25723c345cb5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_1af20b25e3e7
+:nota_710.10.001_1af20b25e3e7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Limpeza de praias".
 
-:c710.10.001 :temNotaAplicacao :nota_710.10.001_25723c345cb5 .
+:c710.10.001 :temNotaAplicacao :nota_710.10.001_1af20b25e3e7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_d556ba94a7ff
-:nota_710.10.001_d556ba94a7ff rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_f85ad729d865
+:nota_710.10.001_f85ad729d865 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Limpeza de sargetas e sumidouros".
 
-:c710.10.001 :temNotaAplicacao :nota_710.10.001_d556ba94a7ff .
+:c710.10.001 :temNotaAplicacao :nota_710.10.001_f85ad729d865 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_bc4358807d98
-:nota_710.10.001_bc4358807d98 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_f152bd54b49f
+:nota_710.10.001_f152bd54b49f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Limpeza de terrenos".
 
-:c710.10.001 :temNotaAplicacao :nota_710.10.001_bc4358807d98 .
+:c710.10.001 :temNotaAplicacao :nota_710.10.001_f152bd54b49f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_6007b135c809
-:nota_710.10.001_6007b135c809 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_2f6972f3f24a
+:nota_710.10.001_2f6972f3f24a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Limpeza de cemitérios, talhões, ossários, criptas e monumentos de militares portugueses sediados em território nacional e no estrangeiro".
 
-:c710.10.001 :temNotaAplicacao :nota_710.10.001_6007b135c809 .
+:c710.10.001 :temNotaAplicacao :nota_710.10.001_2f6972f3f24a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_b0c9c42dedb6
-:nota_710.10.001_b0c9c42dedb6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_203c927efdac
+:nota_710.10.001_203c927efdac rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A recolha de resíduos deve ser considerada em 710.10.002 – Recolha de resíduos".
 
-:c710.10.001 :temNotaExclusao :nota_710.10.001_b0c9c42dedb6 .
+:c710.10.001 :temNotaExclusao :nota_710.10.001_203c927efdac .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_23db067e213d
-:nota_710.10.001_23db067e213d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.001_cc75d800abc2
+:nota_710.10.001_cc75d800abc2 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A desobstrução de equipamentos sanitários privados como as fossas sépticas deve ser considerada em 710.10.003 – Recolha e drenagem de águas residuais".
 
-:c710.10.001 :temNotaExclusao :nota_710.10.001_23db067e213d .
+:c710.10.001 :temNotaExclusao :nota_710.10.001_cc75d800abc2 .
 
 :c710.10.001 :processoTipoVC :vc_processoTipo_pe .
 :c710.10.001 :processoTransversal "N" .
@@ -262,109 +262,109 @@
 	:pertenceLC :lc1 ;
 	:temPai :c710.10 ;
 	:descricao 'Prestação dos serviços de recolha de todo o tipo de resíduos. Inicia na sequência do planeamento e calendarização definidos ou por pedido de particulares ou ainda por pedido de entidades públicas produtoras de resíduos e termina com o comprovativo de trabalhos realizados ou com a resposta aos requerentes. Inclui recolha, transporte e depósito dos resíduos em lugar apropriado e registo de ocorrências.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_46ef660d9446
-:nota_710.10.002_46ef660d9446 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_498d079c0e0e
+:nota_710.10.002_498d079c0e0e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Recolha de monstros".
 
-:c710.10.002 :temNotaAplicacao :nota_710.10.002_46ef660d9446 .
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_498d079c0e0e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_4cf1d5acbf61
-:nota_710.10.002_4cf1d5acbf61 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_7bbca2b0521f
+:nota_710.10.002_7bbca2b0521f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Recolha de resíduos animais".
 
-:c710.10.002 :temNotaAplicacao :nota_710.10.002_4cf1d5acbf61 .
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_7bbca2b0521f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_ce59d71457b2
-:nota_710.10.002_ce59d71457b2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_df9ad96a971f
+:nota_710.10.002_df9ad96a971f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Recolha de cadávers de animais".
 
-:c710.10.002 :temNotaAplicacao :nota_710.10.002_ce59d71457b2 .
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_df9ad96a971f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_2d7abd4c4146
-:nota_710.10.002_2d7abd4c4146 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_50eb504aaf4e
+:nota_710.10.002_50eb504aaf4e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Recolha de resíduos de obras".
 
-:c710.10.002 :temNotaAplicacao :nota_710.10.002_2d7abd4c4146 .
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_50eb504aaf4e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_afd5f330f281
-:nota_710.10.002_afd5f330f281 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_18688b581a22
+:nota_710.10.002_18688b581a22 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Recolha de resíduos sólidos urbanos (RSU)".
 
-:c710.10.002 :temNotaAplicacao :nota_710.10.002_afd5f330f281 .
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_18688b581a22 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_05720160d8fe
-:nota_710.10.002_05720160d8fe rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_c62756efc215
+:nota_710.10.002_c62756efc215 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Recolha de resíduos tóxicos".
 
-:c710.10.002 :temNotaAplicacao :nota_710.10.002_05720160d8fe .
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_c62756efc215 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_623784389081
-:nota_710.10.002_623784389081 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_b32c0e603607
+:nota_710.10.002_b32c0e603607 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Recolha de resíduos verdes".
 
-:c710.10.002 :temNotaAplicacao :nota_710.10.002_623784389081 .
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_b32c0e603607 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_afb2c49649fa
-:nota_710.10.002_afb2c49649fa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_53c73a13af7c
+:nota_710.10.002_53c73a13af7c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Recolha seletiva".
 
-:c710.10.002 :temNotaAplicacao :nota_710.10.002_afb2c49649fa .
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_53c73a13af7c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_cd847eb33c55
-:nota_710.10.002_cd847eb33c55 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_c1fbd6461785
+:nota_710.10.002_c1fbd6461785 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Remoção de cortes de jardim".
 
-:c710.10.002 :temNotaAplicacao :nota_710.10.002_cd847eb33c55 .
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_c1fbd6461785 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_8d01359129e5
-:nota_710.10.002_8d01359129e5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_2ae5f6849d95
+:nota_710.10.002_2ae5f6849d95 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Recolha de equipamentos elétricos e eletrónicos".
 
-:c710.10.002 :temNotaAplicacao :nota_710.10.002_8d01359129e5 .
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_2ae5f6849d95 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_ec8f76cdcb0f
-:nota_710.10.002_ec8f76cdcb0f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_e4f87319ff0e
+:nota_710.10.002_e4f87319ff0e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Transporte de resíduos efetuados pelas empresas transportadoras que procedam à recolha ou ao transporte de resíduos a título profissional".
 
-:c710.10.002 :temNotaAplicacao :nota_710.10.002_ec8f76cdcb0f .
+:c710.10.002 :temNotaAplicacao :nota_710.10.002_e4f87319ff0e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_30f941d476b2
-:nota_710.10.002_30f941d476b2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_88ba1ebdedde
+:nota_710.10.002_88ba1ebdedde rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A recolha e manutenção de papeleiras e dispensadores para dejetos caninos devem ser considerados em 710.10.001 – Limpeza de espaços públicos".
 
-:c710.10.002 :temNotaExclusao :nota_710.10.002_30f941d476b2 .
+:c710.10.002 :temNotaExclusao :nota_710.10.002_88ba1ebdedde .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_69161d52afb7
-:nota_710.10.002_69161d52afb7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.002_4223035569dc
+:nota_710.10.002_4223035569dc rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A triagem, reciclagem, valorização ou eliminação de resíduos devem ser consideradas em 710.10.004 – Tratamento de resíduos".
 
-:c710.10.002 :temNotaExclusao :nota_710.10.002_69161d52afb7 .
+:c710.10.002 :temNotaExclusao :nota_710.10.002_4223035569dc .
 
 :c710.10.002 :processoTipoVC :vc_processoTipo_pc .
 :c710.10.002 :processoTransversal "S" .
@@ -475,93 +475,93 @@
 	:pertenceLC :lc1 ;
 	:temPai :c710.10 ;
 	:descricao 'Operações de recolha de águas residuais em estações elevatórias ou fossas sépticas e transporte para destino adequado. Inicia na sequência do planeamento ou a pedido de particulares e termina com o registo de operações ou com a resposta aos requerentes. Inclui operacionalização e comprovativo de pagamento, quando devido.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_99561a931b6e
-:nota_710.10.003_99561a931b6e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_014f738e9154
+:nota_710.10.003_014f738e9154 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Desobstrução de fossas séticas privadas".
 
-:c710.10.003 :temNotaAplicacao :nota_710.10.003_99561a931b6e .
+:c710.10.003 :temNotaAplicacao :nota_710.10.003_014f738e9154 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_4b0d582c91aa
-:nota_710.10.003_4b0d582c91aa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_afeddfb3cdc1
+:nota_710.10.003_afeddfb3cdc1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Drenagem de águas residuais domésticas".
 
-:c710.10.003 :temNotaAplicacao :nota_710.10.003_4b0d582c91aa .
+:c710.10.003 :temNotaAplicacao :nota_710.10.003_afeddfb3cdc1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_4e01a70f34db
-:nota_710.10.003_4e01a70f34db rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_34b0147cd170
+:nota_710.10.003_34b0147cd170 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Drenagem de águas residuais pluviais".
 
-:c710.10.003 :temNotaAplicacao :nota_710.10.003_4e01a70f34db .
+:c710.10.003 :temNotaAplicacao :nota_710.10.003_34b0147cd170 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_142d76c87880
-:nota_710.10.003_142d76c87880 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_3a6edd26cdb0
+:nota_710.10.003_3a6edd26cdb0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Drenagem de águas residuais unitárias".
 
-:c710.10.003 :temNotaAplicacao :nota_710.10.003_142d76c87880 .
+:c710.10.003 :temNotaAplicacao :nota_710.10.003_3a6edd26cdb0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_3c24f5811c5f
-:nota_710.10.003_3c24f5811c5f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_cc2758d66f53
+:nota_710.10.003_cc2758d66f53 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Drenagem de efluentes agrícolas".
 
-:c710.10.003 :temNotaAplicacao :nota_710.10.003_3c24f5811c5f .
+:c710.10.003 :temNotaAplicacao :nota_710.10.003_cc2758d66f53 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_71c0f1d87f77
-:nota_710.10.003_71c0f1d87f77 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_10ea776486b0
+:nota_710.10.003_10ea776486b0 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Drenagem de efluentes industriais".
 
-:c710.10.003 :temNotaAplicacao :nota_710.10.003_71c0f1d87f77 .
+:c710.10.003 :temNotaAplicacao :nota_710.10.003_10ea776486b0 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_dd3277d9307f
-:nota_710.10.003_dd3277d9307f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_b582053f4d63
+:nota_710.10.003_b582053f4d63 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A limpeza, desobstrução e reparação de coletores, ramais de ligação e fossas sépticas públicas devem ser consideradas em 300.40.503 – Conservação e valorização de edifícios, infraestruturas e equipamentos".
 
-:c710.10.003 :temNotaExclusao :nota_710.10.003_dd3277d9307f .
+:c710.10.003 :temNotaExclusao :nota_710.10.003_b582053f4d63 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_23e172827e44
-:nota_710.10.003_23e172827e44 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_c9c93ddf9f2e
+:nota_710.10.003_c9c93ddf9f2e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c710.10.003 :temNotaExclusao :nota_710.10.003_23e172827e44 .
+:c710.10.003 :temNotaExclusao :nota_710.10.003_c9c93ddf9f2e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_c404ce3a65ca
-:nota_710.10.003_c404ce3a65ca rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_71baf381fe2f
+:nota_710.10.003_71baf381fe2f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O tratamento de efluentes e lamas deve ser considerado em 710.10.005 – Tratamento e rejeição de águas residuais".
 
-:c710.10.003 :temNotaExclusao :nota_710.10.003_c404ce3a65ca .
+:c710.10.003 :temNotaExclusao :nota_710.10.003_71baf381fe2f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_497504227d92
-:nota_710.10.003_497504227d92 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_69aede026f90
+:nota_710.10.003_69aede026f90 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A recolha de dados sobre o saneamento de águas residuais deve ser considerada em 800.10.303 – Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais".
 
-:c710.10.003 :temNotaExclusao :nota_710.10.003_497504227d92 .
+:c710.10.003 :temNotaExclusao :nota_710.10.003_69aede026f90 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_415e8e9a0475
-:nota_710.10.003_415e8e9a0475 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.003_19c7613b035c
+:nota_710.10.003_19c7613b035c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A aquisição de serviços deve ser considerada em 300.10.005 Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c710.10.003 :temNotaExclusao :nota_710.10.003_415e8e9a0475 .
+:c710.10.003 :temNotaExclusao :nota_710.10.003_19c7613b035c .
 
 :c710.10.003 :processoTipoVC :vc_processoTipo_pc .
 :c710.10.003 :processoTransversal "S" .
@@ -656,69 +656,69 @@
 	:pertenceLC :lc1 ;
 	:temPai :c710.10 ;
 	:descricao 'Execução da triagem, reciclagem, valorização ou eliminação por incineração, co-incineração, aterro ou outro meio adequado de todo o tipo de resíduos. Inicia com a receção de resíduos e termina com o relato das operações. Inclui registo de ocorrências, operacionalização, cálculo e comprovativo de pagamento, quando devido. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_45e44d9db7c3
-:nota_710.10.004_45e44d9db7c3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_31d53fcfe83a
+:nota_710.10.004_31d53fcfe83a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Tratamento de resíduos animais".
 
-:c710.10.004 :temNotaAplicacao :nota_710.10.004_45e44d9db7c3 .
+:c710.10.004 :temNotaAplicacao :nota_710.10.004_31d53fcfe83a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_712a786603d2
-:nota_710.10.004_712a786603d2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_32dd2dcfc9fa
+:nota_710.10.004_32dd2dcfc9fa rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Tratamento de resíduos hospitalares".
 
-:c710.10.004 :temNotaAplicacao :nota_710.10.004_712a786603d2 .
+:c710.10.004 :temNotaAplicacao :nota_710.10.004_32dd2dcfc9fa .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_37fd7482932e
-:nota_710.10.004_37fd7482932e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_a82ca3ff8094
+:nota_710.10.004_a82ca3ff8094 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Tratamento de resíduos indiferenciados".
 
-:c710.10.004 :temNotaAplicacao :nota_710.10.004_37fd7482932e .
+:c710.10.004 :temNotaAplicacao :nota_710.10.004_a82ca3ff8094 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_699fc50bfcf9
-:nota_710.10.004_699fc50bfcf9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_9bc5fc749b14
+:nota_710.10.004_9bc5fc749b14 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Tratamento de resíduos industriais".
 
-:c710.10.004 :temNotaAplicacao :nota_710.10.004_699fc50bfcf9 .
+:c710.10.004 :temNotaAplicacao :nota_710.10.004_9bc5fc749b14 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_02abea6b5017
-:nota_710.10.004_02abea6b5017 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_73c1bc943d78
+:nota_710.10.004_73c1bc943d78 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Tratamento de resíduos seletivos".
 
-:c710.10.004 :temNotaAplicacao :nota_710.10.004_02abea6b5017 .
+:c710.10.004 :temNotaAplicacao :nota_710.10.004_73c1bc943d78 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_a3450dcca828
-:nota_710.10.004_a3450dcca828 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_ef871a29323c
+:nota_710.10.004_ef871a29323c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c710.10.004 :temNotaExclusao :nota_710.10.004_a3450dcca828 .
+:c710.10.004 :temNotaExclusao :nota_710.10.004_ef871a29323c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_f18e1f7cbbe0
-:nota_710.10.004_f18e1f7cbbe0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_f37df34829c4
+:nota_710.10.004_f37df34829c4 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A remoção indiferenciada e seletiva de resíduos deve ser considerada em 710.10.002 – Recolha de resíduos".
 
-:c710.10.004 :temNotaExclusao :nota_710.10.004_f18e1f7cbbe0 .
+:c710.10.004 :temNotaExclusao :nota_710.10.004_f37df34829c4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_3d5bc2b6a151
-:nota_710.10.004_3d5bc2b6a151 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.004_88c5001b6ed2
+:nota_710.10.004_88c5001b6ed2 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O tratamento de lamas deve ser considerado em 710.10.005 – Tratamento e rejeição de águas residuais".
 
-:c710.10.004 :temNotaExclusao :nota_710.10.004_3d5bc2b6a151 .
+:c710.10.004 :temNotaExclusao :nota_710.10.004_88c5001b6ed2 .
 
 :c710.10.004 :processoTipoVC :vc_processoTipo_pe .
 :c710.10.004 :processoTransversal "N" .
@@ -792,69 +792,69 @@
 	:pertenceLC :lc1 ;
 	:temPai :c710.10 ;
 	:descricao 'Correção das características físicas, químicas e microbiológicas de águas residuais em função das características do meio recetor. Inicia com a receção das águas residuais e termina com a sua reutilização ou rejeição em meio recetor. Inclui operações de valorização ou rejeição das lamas resultantes. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_c2e9d1ad61dc
-:nota_710.10.005_c2e9d1ad61dc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_41740ed89952
+:nota_710.10.005_41740ed89952 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Tratamento de águas residuais domésticas".
 
-:c710.10.005 :temNotaAplicacao :nota_710.10.005_c2e9d1ad61dc .
+:c710.10.005 :temNotaAplicacao :nota_710.10.005_41740ed89952 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_ae427af33d2a
-:nota_710.10.005_ae427af33d2a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_1583c587d447
+:nota_710.10.005_1583c587d447 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Tratamento de águas residuais pluviais".
 
-:c710.10.005 :temNotaAplicacao :nota_710.10.005_ae427af33d2a .
+:c710.10.005 :temNotaAplicacao :nota_710.10.005_1583c587d447 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_10cdaa4ad546
-:nota_710.10.005_10cdaa4ad546 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_ea082bb2502d
+:nota_710.10.005_ea082bb2502d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Tratamento de águas residuais unitárias".
 
-:c710.10.005 :temNotaAplicacao :nota_710.10.005_10cdaa4ad546 .
+:c710.10.005 :temNotaAplicacao :nota_710.10.005_ea082bb2502d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_72e8e6068727
-:nota_710.10.005_72e8e6068727 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_606ebaff1835
+:nota_710.10.005_606ebaff1835 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Tratamento de efluentes agrícolas".
 
-:c710.10.005 :temNotaAplicacao :nota_710.10.005_72e8e6068727 .
+:c710.10.005 :temNotaAplicacao :nota_710.10.005_606ebaff1835 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_244584caf012
-:nota_710.10.005_244584caf012 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_50e069e084db
+:nota_710.10.005_50e069e084db rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Tratamento de efluentes industriais".
 
-:c710.10.005 :temNotaAplicacao :nota_710.10.005_244584caf012 .
+:c710.10.005 :temNotaAplicacao :nota_710.10.005_50e069e084db .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_1e2d84c00543
-:nota_710.10.005_1e2d84c00543 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_1c56166424bf
+:nota_710.10.005_1c56166424bf rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Tratamento de lamas".
 
-:c710.10.005 :temNotaAplicacao :nota_710.10.005_1e2d84c00543 .
+:c710.10.005 :temNotaAplicacao :nota_710.10.005_1c56166424bf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_a7f935e34a31
-:nota_710.10.005_a7f935e34a31 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_e01eaf58f003
+:nota_710.10.005_e01eaf58f003 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A recolha e o transporte de efluentes e lamas provenientes de fossas sépticas, coletores e ramais de ligação devem ser considerados em 710.10.003 – Recolha e drenagem de águas residuais".
 
-:c710.10.005 :temNotaExclusao :nota_710.10.005_a7f935e34a31 .
+:c710.10.005 :temNotaExclusao :nota_710.10.005_e01eaf58f003 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_f2ad233c1c25
-:nota_710.10.005_f2ad233c1c25 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.005_aec716b27730
+:nota_710.10.005_aec716b27730 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A monitorização do tratamento de águas residuais deve ser considerada em 800.10.303 – Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais".
 
-:c710.10.005 :temNotaExclusao :nota_710.10.005_f2ad233c1c25 .
+:c710.10.005 :temNotaExclusao :nota_710.10.005_aec716b27730 .
 
 :c710.10.005 :processoTipoVC :vc_processoTipo_pe .
 :c710.10.005 :processoTransversal "S" .
@@ -926,77 +926,77 @@
 	:pertenceLC :lc1 ;
 	:temPai :c710.10 ;
 	:descricao 'Captura ou entrega em centros de recolha de animais perigosos ou vadios, errantes ou com donos, de vias e espaços públicos ou de espaços privados e posterior cedência por adoção ou restituição ao dono. Inicia na sequência de planeamento, a pedido de particulares ou de denúncia e termina com a entrega do animal. Inclui registo de ocorrências, comunicação às entidades competentes, quarentena do animal, se aplicável. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_95bb9f7e361f
-:nota_710.10.300_95bb9f7e361f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_902726c91099
+:nota_710.10.300_902726c91099 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Captura de animais domésticos silvestres e assilvestrados".
 
-:c710.10.300 :temNotaAplicacao :nota_710.10.300_95bb9f7e361f .
+:c710.10.300 :temNotaAplicacao :nota_710.10.300_902726c91099 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_0d25e57a388e
-:nota_710.10.300_0d25e57a388e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_fdf196c4104b
+:nota_710.10.300_fdf196c4104b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Captura de animais em espaços particulares a pedido de interessados".
 
-:c710.10.300 :temNotaAplicacao :nota_710.10.300_0d25e57a388e .
+:c710.10.300 :temNotaAplicacao :nota_710.10.300_fdf196c4104b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_076d5d921483
-:nota_710.10.300_076d5d921483 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_c3713341fc3b
+:nota_710.10.300_c3713341fc3b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Captura de cães e gatos vadios".
 
-:c710.10.300 :temNotaAplicacao :nota_710.10.300_076d5d921483 .
+:c710.10.300 :temNotaAplicacao :nota_710.10.300_c3713341fc3b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_67fad055aba3
-:nota_710.10.300_67fad055aba3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_2fb47e5b6bc3
+:nota_710.10.300_2fb47e5b6bc3 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Entrega de animais capturados em canil ou gatil municipal".
 
-:c710.10.300 :temNotaAplicacao :nota_710.10.300_67fad055aba3 .
+:c710.10.300 :temNotaAplicacao :nota_710.10.300_2fb47e5b6bc3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_a5fb00b53c11
-:nota_710.10.300_a5fb00b53c11 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_c63a01bcc4b5
+:nota_710.10.300_c63a01bcc4b5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Recolha de animais no âmbito da higiene pública e veterinária".
 
-:c710.10.300 :temNotaAplicacao :nota_710.10.300_a5fb00b53c11 .
+:c710.10.300 :temNotaAplicacao :nota_710.10.300_c63a01bcc4b5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_dfd4886cd74a
-:nota_710.10.300_dfd4886cd74a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_8c5c018b6f25
+:nota_710.10.300_8c5c018b6f25 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Recolha de animais que tenham causado ofensa ao corpo ou à saúde de uma pessoa".
 
-:c710.10.300 :temNotaAplicacao :nota_710.10.300_dfd4886cd74a .
+:c710.10.300 :temNotaAplicacao :nota_710.10.300_8c5c018b6f25 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_dc5b11b1fde5
-:nota_710.10.300_dc5b11b1fde5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_f1a641519adb
+:nota_710.10.300_f1a641519adb rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Recolha de animais perigosos".
 
-:c710.10.300 :temNotaAplicacao :nota_710.10.300_dc5b11b1fde5 .
+:c710.10.300 :temNotaAplicacao :nota_710.10.300_f1a641519adb .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_a949dfd9b33d
-:nota_710.10.300_a949dfd9b33d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_58060857cee8
+:nota_710.10.300_58060857cee8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Adoção de animais".
 
-:c710.10.300 :temNotaAplicacao :nota_710.10.300_a949dfd9b33d .
+:c710.10.300 :temNotaAplicacao :nota_710.10.300_58060857cee8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_f6b074ee93dc
-:nota_710.10.300_f6b074ee93dc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.300_ab45c64ea22e
+:nota_710.10.300_ab45c64ea22e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A recolha de animais portadores de zoonoses ou doença terminal deve ser considerada em 700.20.701 – Sequestro sanitário de animais".
 
-:c710.10.300 :temNotaExclusao :nota_710.10.300_f6b074ee93dc .
+:c710.10.300 :temNotaExclusao :nota_710.10.300_ab45c64ea22e .
 
 :c710.10.300 :processoTipoVC :vc_processoTipo_pe .
 :c710.10.300 :processoTransversal "N" .
@@ -1065,85 +1065,85 @@
 	:pertenceLC :lc1 ;
 	:temPai :c710.10 ;
 	:descricao 'Intervenção preventiva ou reativa a agentes patogénicos ou surtos de determinadas espécies animais ou vegetais, em meios urbanos ou rurais, nocivas ao bem-estar das populações, do património e do meio ambiente. Inicia com a prospeção ou deteção da presença dos vetores nocivos, por iniciativa própria ou a pedido de entidades públicas ou privadas, e termina com a elaboração do relatório dos trabalhos realizados. Inclui planeamento e calendarização de ações, definição e preparação de meios adequados ao tipo de praga biológica, doença ou infestante, operacionalização, cálculo do valor da taxa, quando devido. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_1ee0cedb07d3
-:nota_710.10.600_1ee0cedb07d3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_2cc47d7775d9
+:nota_710.10.600_2cc47d7775d9 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Controlo de infestantes aquáticas".
 
-:c710.10.600 :temNotaAplicacao :nota_710.10.600_1ee0cedb07d3 .
+:c710.10.600 :temNotaAplicacao :nota_710.10.600_2cc47d7775d9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_6592e5ea9fca
-:nota_710.10.600_6592e5ea9fca rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_bea260b2b326
+:nota_710.10.600_bea260b2b326 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Controlo de plantas infestantes em solo agrícola".
 
-:c710.10.600 :temNotaAplicacao :nota_710.10.600_6592e5ea9fca .
+:c710.10.600 :temNotaAplicacao :nota_710.10.600_bea260b2b326 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_b0aac0c8ce09
-:nota_710.10.600_b0aac0c8ce09 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_8481b2f1a3f4
+:nota_710.10.600_8481b2f1a3f4 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Controlo de população de pombos em meio urbano".
 
-:c710.10.600 :temNotaAplicacao :nota_710.10.600_b0aac0c8ce09 .
+:c710.10.600 :temNotaAplicacao :nota_710.10.600_8481b2f1a3f4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_d851bdb21697
-:nota_710.10.600_d851bdb21697 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_2108cd693e6d
+:nota_710.10.600_2108cd693e6d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Controlo de população de ratos e baratas".
 
-:c710.10.600 :temNotaAplicacao :nota_710.10.600_d851bdb21697 .
+:c710.10.600 :temNotaAplicacao :nota_710.10.600_2108cd693e6d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_d4a6131ba028
-:nota_710.10.600_d4a6131ba028 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_39d31095fffd
+:nota_710.10.600_39d31095fffd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Controlo de pragas em redes de esgotos".
 
-:c710.10.600 :temNotaAplicacao :nota_710.10.600_d4a6131ba028 .
+:c710.10.600 :temNotaAplicacao :nota_710.10.600_39d31095fffd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_60e3e072d3ab
-:nota_710.10.600_60e3e072d3ab rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_44448c1e894f
+:nota_710.10.600_44448c1e894f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Controlo sazonal de espécies nocivas na via e espaços públicos".
 
-:c710.10.600 :temNotaAplicacao :nota_710.10.600_60e3e072d3ab .
+:c710.10.600 :temNotaAplicacao :nota_710.10.600_44448c1e894f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_e17f655d99bc
-:nota_710.10.600_e17f655d99bc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_8dd76e82e751
+:nota_710.10.600_8dd76e82e751 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Controlo de doenças de plantas".
 
-:c710.10.600 :temNotaAplicacao :nota_710.10.600_e17f655d99bc .
+:c710.10.600 :temNotaAplicacao :nota_710.10.600_8dd76e82e751 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_24db762fa5d1
-:nota_710.10.600_24db762fa5d1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_c5ddb5be3641
+:nota_710.10.600_c5ddb5be3641 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c710.10.600 :temNotaExclusao :nota_710.10.600_24db762fa5d1 .
+:c710.10.600 :temNotaExclusao :nota_710.10.600_c5ddb5be3641 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_050df446f839
-:nota_710.10.600_050df446f839 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_28fc73842668
+:nota_710.10.600_28fc73842668 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As ações de manutenção e desinfestação em instalações e equipamentos públicos deverão ser consideradas em 300.40.505 – Higienização de instalações e equipamentos públicos".
 
-:c710.10.600 :temNotaExclusao :nota_710.10.600_050df446f839 .
+:c710.10.600 :temNotaExclusao :nota_710.10.600_28fc73842668 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_7db9ac6aba9b
-:nota_710.10.600_7db9ac6aba9b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.10.600_9985005db4de
+:nota_710.10.600_9985005db4de rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A monitorização de pragas e infestantes deve ser considerada em 800.10.607 - Realização de ações de observação em saúde e vigilância epidemiológica".
 
-:c710.10.600 :temNotaExclusao :nota_710.10.600_7db9ac6aba9b .
+:c710.10.600 :temNotaExclusao :nota_710.10.600_9985005db4de .
 
 :c710.10.600 :processoTipoVC :vc_processoTipo_pc .
 :c710.10.600 :processoTransversal "S" .
@@ -1247,61 +1247,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c710 ;
 	:descricao 'Compreende a prestação de serviços relacionados com a gestão de restos mortais e de outras atividades dos cemitérios, centros funerários e outros espaços adequados.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_33d5911b0b39
-:nota_710.20_33d5911b0b39 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_338a48c41390
+:nota_710.20_338a48c41390 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Trasladações".
 
-:c710.20 :temNotaAplicacao :nota_710.20_33d5911b0b39 .
+:c710.20 :temNotaAplicacao :nota_710.20_338a48c41390 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_f52f79295022
-:nota_710.20_f52f79295022 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_f658b585cdca
+:nota_710.20_f658b585cdca rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Inumações".
 
-:c710.20 :temNotaAplicacao :nota_710.20_f52f79295022 .
+:c710.20 :temNotaAplicacao :nota_710.20_f658b585cdca .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_5d51b268b205
-:nota_710.20_5d51b268b205 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_28b2765f5f66
+:nota_710.20_28b2765f5f66 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Exumações".
 
-:c710.20 :temNotaAplicacao :nota_710.20_5d51b268b205 .
+:c710.20 :temNotaAplicacao :nota_710.20_28b2765f5f66 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_2975f7839caf
-:nota_710.20_2975f7839caf rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_377d61cfbe0e
+:nota_710.20_377d61cfbe0e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cremações".
 
-:c710.20 :temNotaAplicacao :nota_710.20_2975f7839caf .
+:c710.20 :temNotaAplicacao :nota_710.20_377d61cfbe0e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_bf081065ccef
-:nota_710.20_bf081065ccef rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_5995e93c2b62
+:nota_710.20_5995e93c2b62 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Serviços prestados no quadro da gestão de restos mortais".
 
-:c710.20 :temNotaAplicacao :nota_710.20_bf081065ccef .
+:c710.20 :temNotaAplicacao :nota_710.20_5995e93c2b62 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_35875b6b71e4
-:nota_710.20_35875b6b71e4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_f2180787ffd2
+:nota_710.20_f2180787ffd2 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A concessão de terrenos em cemitérios deve ser considerada em “Administração de direitos, bens e serviços/ Concessão e parceria público-privada” (300.20)".
 
-:c710.20 :temNotaExclusao :nota_710.20_35875b6b71e4 .
+:c710.20 :temNotaExclusao :nota_710.20_f2180787ffd2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_7513ef1fce5c
-:nota_710.20_7513ef1fce5c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20_42c66c649b5f
+:nota_710.20_42c66c649b5f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O licenciamento deve ser considerado em “Reconhecimentos e permissões/ Licenciamentos, certificações e outras autorizações” (450.10)".
 
-:c710.20 :temNotaExclusao :nota_710.20_7513ef1fce5c .
+:c710.20 :temNotaExclusao :nota_710.20_42c66c649b5f .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c710.20.001
@@ -1313,61 +1313,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c710.20 ;
 	:descricao 'Colocação de cadáver em sepultura, jazigo ou local de consumpção aeróbia ou redução de cadáver ou ossadas a cinzas. Inicia com o pedido e termina com a inumação ou com a entrega de cinzas. Inclui identificação de cadáver, ossadas, cinzas e de óbito, análise do pedido, cálculo do valor da taxa, comprovativo de pagamento e cremação, quando devido. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_1e3528f081ac
-:nota_710.20.001_1e3528f081ac rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_3b31b8f3e4c1
+:nota_710.20.001_3b31b8f3e4c1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cremação de cadáveres e ossadas".
 
-:c710.20.001 :temNotaAplicacao :nota_710.20.001_1e3528f081ac .
+:c710.20.001 :temNotaAplicacao :nota_710.20.001_3b31b8f3e4c1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_b3a7ac70498d
-:nota_710.20.001_b3a7ac70498d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_208965ee0457
+:nota_710.20.001_208965ee0457 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Cremação de fetos mortos e peças anatómicas".
 
-:c710.20.001 :temNotaAplicacao :nota_710.20.001_b3a7ac70498d .
+:c710.20.001 :temNotaAplicacao :nota_710.20.001_208965ee0457 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_3d1834905403
-:nota_710.20.001_3d1834905403 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_fcd7509bafbc
+:nota_710.20.001_fcd7509bafbc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Inumação de cinzas".
 
-:c710.20.001 :temNotaAplicacao :nota_710.20.001_3d1834905403 .
+:c710.20.001 :temNotaAplicacao :nota_710.20.001_fcd7509bafbc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_77807017b1f5
-:nota_710.20.001_77807017b1f5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_a2ac4b541f49
+:nota_710.20.001_a2ac4b541f49 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Inumação em local de consumpção aeróbia".
 
-:c710.20.001 :temNotaAplicacao :nota_710.20.001_77807017b1f5 .
+:c710.20.001 :temNotaAplicacao :nota_710.20.001_a2ac4b541f49 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_007eb77d3d4d
-:nota_710.20.001_007eb77d3d4d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_0c8725e9414e
+:nota_710.20.001_0c8725e9414e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Inumação em sepultura ou jazigo".
 
-:c710.20.001 :temNotaAplicacao :nota_710.20.001_007eb77d3d4d .
+:c710.20.001 :temNotaAplicacao :nota_710.20.001_0c8725e9414e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_23db1d218d57
-:nota_710.20.001_23db1d218d57 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_b78d1f98e344
+:nota_710.20.001_b78d1f98e344 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c710.20.001 :temNotaExclusao :nota_710.20.001_23db1d218d57 .
+:c710.20.001 :temNotaExclusao :nota_710.20.001_b78d1f98e344 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_94615aa2a539
-:nota_710.20.001_94615aa2a539 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.001_ad6b662a563a
+:nota_710.20.001_ad6b662a563a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A entrega de cinzas inumadas deve ser considerada em 710.20.002 – Entrega de cinzas inumadas".
 
-:c710.20.001 :temNotaExclusao :nota_710.20.001_94615aa2a539 .
+:c710.20.001 :temNotaExclusao :nota_710.20.001_ad6b662a563a .
 
 :c710.20.001 :processoTipoVC :vc_processoTipo_pe .
 :c710.20.001 :processoTransversal "S" .
@@ -1490,13 +1490,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c710.20 ;
 	:descricao 'Saída de cinzas inumadas em qualquer construção funerária, salvo cendrário. Inicia com o pedido e termina com a entrega das cinzas. Inclui verificação dos elementos instrutórios e dos requisitos legais.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.002_9f17525d6cbd
-:nota_710.20.002_9f17525d6cbd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.002_099127d6595a
+:nota_710.20.002_099127d6595a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A entrega de cinzas imediatamente após cremação deve ser considerada em 710.20.001 – Inumação e cremação de restos mortais".
 
-:c710.20.002 :temNotaExclusao :nota_710.20.002_9f17525d6cbd .
+:c710.20.002 :temNotaExclusao :nota_710.20.002_099127d6595a .
 
 :c710.20.002 :processoTipoVC :vc_processoTipo_pe .
 :c710.20.002 :processoTransversal "N" .
@@ -1558,45 +1558,45 @@
 	:pertenceLC :lc1 ;
 	:temPai :c710.20 ;
 	:descricao 'Reconhecimento da condição de abandono de restos mortais. Inicia com a verificação das condições de abandono e termina com o registo. Inclui elaboração e envio de notificação aos interessados e para publicitação e definição do destino a dar aos restos mortais, quando devido.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.003_4735b2d7b70b
-:nota_710.20.003_4735b2d7b70b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.003_89812b6ea984
+:nota_710.20.003_89812b6ea984 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Identificação de restos mortais em compartimentos municipais por falta de pagamento".
 
-:c710.20.003 :temNotaAplicacao :nota_710.20.003_4735b2d7b70b .
+:c710.20.003 :temNotaAplicacao :nota_710.20.003_89812b6ea984 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.003_9bbfea034e71
-:nota_710.20.003_9bbfea034e71 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.003_e2e7d2f8b2a2
+:nota_710.20.003_e2e7d2f8b2a2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Identificação de restos mortais em jazigos particulares e sepulturas perpétuas na sequência de prescrição ou renúncia da concessão".
 
-:c710.20.003 :temNotaAplicacao :nota_710.20.003_9bbfea034e71 .
+:c710.20.003 :temNotaAplicacao :nota_710.20.003_e2e7d2f8b2a2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.003_c0f89598b6b4
-:nota_710.20.003_c0f89598b6b4 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.003_6fe242f3c505
+:nota_710.20.003_6fe242f3c505 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Identificação de restos mortais em sepulturas temporárias cuja exumação não foi agendada".
 
-:c710.20.003 :temNotaAplicacao :nota_710.20.003_c0f89598b6b4 .
+:c710.20.003 :temNotaAplicacao :nota_710.20.003_6fe242f3c505 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.003_6aea813471a3
-:nota_710.20.003_6aea813471a3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.003_d74ae890cf26
+:nota_710.20.003_d74ae890cf26 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Renúncia a direitos sobre restos mortais por parte dos interessados".
 
-:c710.20.003 :temNotaAplicacao :nota_710.20.003_6aea813471a3 .
+:c710.20.003 :temNotaAplicacao :nota_710.20.003_d74ae890cf26 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.003_d57eb6de24ad
-:nota_710.20.003_d57eb6de24ad rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.003_cdba9a87e28e
+:nota_710.20.003_cdba9a87e28e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pedidos de informação sobre localização de restos mortais devem ser considerados em 900.20.604 – Tratamento de informações e processamento de pedidos de informação".
 
-:c710.20.003 :temNotaExclusao :nota_710.20.003_d57eb6de24ad .
+:c710.20.003 :temNotaExclusao :nota_710.20.003_cdba9a87e28e .
 
 :c710.20.003 :processoTipoVC :vc_processoTipo_pe .
 :c710.20.003 :processoTransversal "N" .
@@ -1662,61 +1662,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c710.20 ;
 	:descricao 'Transferência da responsabilidade sobre os restos mortais a fim de se proceder à autópsia, inumação, cremação ou uso para investigação. Inicia com o aviso de óbito ou com o pedido de levantamento de cadáver e termina com a entrega dos restos mortais. Inclui verificação da legitimidade. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_5b7abdca9175
-:nota_710.20.004_5b7abdca9175 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_38262dd4e2c1
+:nota_710.20.004_38262dd4e2c1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Entrega de restos mortais a agencias funerárias".
 
-:c710.20.004 :temNotaAplicacao :nota_710.20.004_5b7abdca9175 .
+:c710.20.004 :temNotaAplicacao :nota_710.20.004_38262dd4e2c1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_af6c7689112c
-:nota_710.20.004_af6c7689112c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_a2e9ab4b0823
+:nota_710.20.004_a2e9ab4b0823 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Entrega de restos mortais a centros de investigação".
 
-:c710.20.004 :temNotaAplicacao :nota_710.20.004_af6c7689112c .
+:c710.20.004 :temNotaAplicacao :nota_710.20.004_a2e9ab4b0823 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_1b4652390f75
-:nota_710.20.004_1b4652390f75 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_e8e0a6b1fa38
+:nota_710.20.004_e8e0a6b1fa38 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Entrega de restos mortais para autópsia".
 
-:c710.20.004 :temNotaAplicacao :nota_710.20.004_1b4652390f75 .
+:c710.20.004 :temNotaAplicacao :nota_710.20.004_e8e0a6b1fa38 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_19442053ba64
-:nota_710.20.004_19442053ba64 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_ccf3d414f1c7
+:nota_710.20.004_ccf3d414f1c7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Entrega de restos mortais para investigação forense".
 
-:c710.20.004 :temNotaAplicacao :nota_710.20.004_19442053ba64 .
+:c710.20.004 :temNotaAplicacao :nota_710.20.004_ccf3d414f1c7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_cdcc690924f6
-:nota_710.20.004_cdcc690924f6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_feb58a64abc8
+:nota_710.20.004_feb58a64abc8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reclamação de restos mortais".
 
-:c710.20.004 :temNotaAplicacao :nota_710.20.004_cdcc690924f6 .
+:c710.20.004 :temNotaAplicacao :nota_710.20.004_feb58a64abc8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_9f55d314c120
-:nota_710.20.004_9f55d314c120 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_1781933554e2
+:nota_710.20.004_1781933554e2 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A trasladação de deve ser considerada em 710.20.601 – Trasladação de cadáveres e ossadas".
 
-:c710.20.004 :temNotaExclusao :nota_710.20.004_9f55d314c120 .
+:c710.20.004 :temNotaExclusao :nota_710.20.004_1781933554e2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_30d5cbf206b0
-:nota_710.20.004_30d5cbf206b0 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.004_4a970c0a0d3a
+:nota_710.20.004_4a970c0a0d3a rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A autorização para realização de trabalhos de investigação que tenham por base o estudo de restos mortais, deve ser considerada em 450.10.073 – Licenciamento ou autorização de atividades de investigação científica e de desenvolvimento".
 
-:c710.20.004 :temNotaExclusao :nota_710.20.004_30d5cbf206b0 .
+:c710.20.004 :temNotaExclusao :nota_710.20.004_4a970c0a0d3a .
 
 :c710.20.004 :processoTipoVC :vc_processoTipo_pe .
 :c710.20.004 :processoTransversal "S" .
@@ -1789,53 +1789,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c710.20 ;
 	:descricao 'Abertura e recolha de restos mortais inumados em sepultura, local de consumpção aeróbia ou caixão de metal. Inicia com o pedido e termina com a exumação de restos mortais. Inclui verificação de elementos instrutórios, análise do pedido, verificação dos requisitos legais aplicáveis, cálculo do valor da taxa devida e comprovativo do seu pagamento, abertura de urna e recolha de restos mortais e relato de ocorrências. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_f926cd26c5fd
-:nota_710.20.300_f926cd26c5fd rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_c56c845b73bc
+:nota_710.20.300_c56c845b73bc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Abertura de caixão de metal ou de madeira".
 
-:c710.20.300 :temNotaAplicacao :nota_710.20.300_f926cd26c5fd .
+:c710.20.300 :temNotaAplicacao :nota_710.20.300_c56c845b73bc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_fa6b7de598f3
-:nota_710.20.300_fa6b7de598f3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_9727890f0f2f
+:nota_710.20.300_9727890f0f2f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Abertura de local de consumpção aeróbia".
 
-:c710.20.300 :temNotaAplicacao :nota_710.20.300_fa6b7de598f3 .
+:c710.20.300 :temNotaAplicacao :nota_710.20.300_9727890f0f2f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_1a6a2555183b
-:nota_710.20.300_1a6a2555183b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_f0e2960e9fd1
+:nota_710.20.300_f0e2960e9fd1 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Abertura de sepultura".
 
-:c710.20.300 :temNotaAplicacao :nota_710.20.300_1a6a2555183b .
+:c710.20.300 :temNotaAplicacao :nota_710.20.300_f0e2960e9fd1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_999b0d00c58b
-:nota_710.20.300_999b0d00c58b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_0d218fb17808
+:nota_710.20.300_0d218fb17808 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Exumação de cadáver por decisão judicial".
 
-:c710.20.300 :temNotaAplicacao :nota_710.20.300_999b0d00c58b .
+:c710.20.300 :temNotaAplicacao :nota_710.20.300_0d218fb17808 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_733f0ea48310
-:nota_710.20.300_733f0ea48310 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_761c5d45b92c
+:nota_710.20.300_761c5d45b92c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c710.20.300 :temNotaExclusao :nota_710.20.300_733f0ea48310 .
+:c710.20.300 :temNotaExclusao :nota_710.20.300_761c5d45b92c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_803a1a481f54
-:nota_710.20.300_803a1a481f54 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.300_e2e20eebfac6
+:nota_710.20.300_e2e20eebfac6 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "As escavações e tratamento científico das ossadas encontradas em contextos arqueológicos / antropológicos no âmbito de projetos de investigação arqueológica devem ser consideradas em 800.20.500 – Desenvolvimento experimental e aplicacional".
 
-:c710.20.300 :temNotaExclusao :nota_710.20.300_803a1a481f54 .
+:c710.20.300 :temNotaExclusao :nota_710.20.300_e2e20eebfac6 .
 
 :c710.20.300 :processoTipoVC :vc_processoTipo_pe .
 :c710.20.300 :processoTransversal "S" .
@@ -1900,37 +1900,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c710.20 ;
 	:descricao 'Guarda temporária de urnas com restos mortais em cemitérios e em outros espaços autorizados. Inicia com o pedido e termina com o levantamento da urna. Inclui verificação de elementos instrutórios, análise do pedido, cálculo da taxa devida e comprovativo do seu pagamento. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.600_f51f4cbb9ceb
-:nota_710.20.600_f51f4cbb9ceb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.600_377a3c7bf6e7
+:nota_710.20.600_377a3c7bf6e7 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Depósito de ossadas a aguardar cremação".
 
-:c710.20.600 :temNotaAplicacao :nota_710.20.600_f51f4cbb9ceb .
+:c710.20.600 :temNotaAplicacao :nota_710.20.600_377a3c7bf6e7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.600_98cdd38a8369
-:nota_710.20.600_98cdd38a8369 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.600_4b7e1af2da4a
+:nota_710.20.600_4b7e1af2da4a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Depósito de urnas em câmara frigoríficas".
 
-:c710.20.600 :temNotaAplicacao :nota_710.20.600_98cdd38a8369 .
+:c710.20.600 :temNotaAplicacao :nota_710.20.600_4b7e1af2da4a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.600_740ced3ea0d6
-:nota_710.20.600_740ced3ea0d6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.600_3cbe251fc5cd
+:nota_710.20.600_3cbe251fc5cd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Depósito de urnas provenientes de construções funerárias em obras".
 
-:c710.20.600 :temNotaAplicacao :nota_710.20.600_740ced3ea0d6 .
+:c710.20.600 :temNotaAplicacao :nota_710.20.600_3cbe251fc5cd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.600_c25c3853a0f8
-:nota_710.20.600_c25c3853a0f8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.600_5d7e94c9f451
+:nota_710.20.600_5d7e94c9f451 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c710.20.600 :temNotaExclusao :nota_710.20.600_c25c3853a0f8 .
+:c710.20.600 :temNotaExclusao :nota_710.20.600_5d7e94c9f451 .
 
 :c710.20.600 :processoTipoVC :vc_processoTipo_pe .
 :c710.20.600 :processoTransversal "S" .
@@ -2002,13 +2002,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c710.20 ;
 	:descricao 'Transporte de cadáver ou de ossadas para local diferente daquele em que se encontram a fim de serem de novo inumados, cremados ou colocados em ossário. Inicia com o pedido e termina com a entrega dos restos mortais. Inclui verificação dos elementos instrutórios, verificação dos requisitos legais, cálculo da taxa devida e comprovativo do seu pagamento. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.601_e00039f7bc12
-:nota_710.20.601_e00039f7bc12 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_710.20.601_4ac3fcd844df
+:nota_710.20.601_4ac3fcd844df rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c710.20.601 :temNotaExclusao :nota_710.20.601_e00039f7bc12 .
+:c710.20.601 :temNotaExclusao :nota_710.20.601_4ac3fcd844df .
 
 :c710.20.601 :processoTipoVC :vc_processoTipo_pe .
 :c710.20.601 :processoTransversal "S" .

@@ -7,21 +7,21 @@
         "descricao": "Relativo à execução de programas regulares ou ações eventuais de incentivo estratégico a pessoas, organismos ou projetos, no quadro das políticas de promoção e fomento de atividades económicas, culturais e sociais. Inclui a atribuição de incentivos diretos e indiretos, bem como o acompanhamento ou controlo de projetos apoiados. Relativo, ainda, à captação de apoios de entidades privadas e serviços públicos.",
         "notasAp": [
             {
-                "idNota": "nota_850_6b61420dea13",
+                "idNota": "nota_850_0925c5108264",
                 "nota": "Usualmente os incentivos revestem a forma de apoios financeiros, mas tal não é imperativo"
             },
             {
-                "idNota": "nota_850_aa6dea0ee326",
+                "idNota": "nota_850_7a9f16174f60",
                 "nota": "Aplicável às entidades que efetuam a gestão de fundos ou programas de incentivo, bem como às entidades beneficiárias e/ou destinatárias daqueles programas e, ainda, às entidades que participam apenas na apreciação das candidaturas a apoios"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_850_43aed9d0f2f5",
+                "idNota": "nota_850_485bf065578c",
                 "nota": "A concessão de apoios de caráter social (prestações sociais, rendimento social de inserção, bolsa de estudo, etc.) dever ser considerada em \\\"Prestação de serviços de proteção e inclusão social/Atribuição de prestações sociais e auxílios económicos\\\" (650.10)"
             },
             {
-                "idNota": "nota_850_a3d71ccd2681",
+                "idNota": "nota_850_8211f1e1a301",
                 "nota": "A contratualização da concessão de indemnizações compensatórias a entidades que prestam serviços de interesse geral deve ser considerada em \\\"Administração de direitos, bens e serviços\\\" (300)"
             }
         ]
@@ -34,41 +34,41 @@
         "descricao": "Compreende as atividades relacionadas com a gestão e acesso aos programas que disponibilizam apoio financeiro ou outras ajudas diretas às entidades beneficiárias, destinatárias ou elegíveis em cada medida de apoio, bem como as atividades de acompanhamento e controlo de projetos apoiados. Compreende, igualmente, as ações que revestem a forma de apoios diretos eventuais não submetidos a concurso, bem como de atribuição de prémios com ou sem expressão financeira, sujeitos ou não a concurso, instituídos por entidades nacionais, regionais ou locais, públicas ou privadas. Compreende, ainda, as atividades de captação de mecenas e gestão de apoios mecenáticos, bem como o processamento de pedidos de patrocínio.",
         "notasAp": [
             {
-                "idNota": "nota_850.10_7ba42f23a198",
+                "idNota": "nota_850.10_7b280e95f6ed",
                 "nota": "As entidades que administram fundos comunitários ou gerem programas de apoio deverão utilizar esta classe para os processos de gestão de cada concurso, incluindo a constituição de júris e respetivos trabalhos, bem como para todos os procedimentos de relacionamento com as entidades beneficiárias/destinatárias, no que se inclui a receção de candidaturas, a celebração de acordos/contratos de apoio, o acompanhamento e a avaliação dos projetos apoiados"
             },
             {
-                "idNota": "nota_850.10_c96a1db0f79a",
+                "idNota": "nota_850.10_cc911f73c15a",
                 "nota": "As entidades posicionadas para receber os apoios deverão utilizar esta classe para a gestão da respetiva candidatura, ou seja, para a documentação necessária ao relacionamento com as entidades que concedem financiamentos ou ajudas diretas (apresentação de candidatura, relatórios da execução material e financeira, avaliação, encerramento de contas), podendo imputar a restante documentação técnica/administrativa à função sobre a qual o projeto incide (melhoramento de infraestruturas, desenvolvimento de sistemas de informação, organização de eventos, investigação científica, etc.)"
             },
             {
-                "idNota": "nota_850.10_1c908577f99f",
+                "idNota": "nota_850.10_42b45bab7d4b",
                 "nota": "Quando haja lugar à apresentação de candidaturas a programas de incentivo geridos por entidades da União Europeia, as mesmas devem ser aqui consideradas"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_850.10_f096973c7c44",
+                "idNota": "nota_850.10_b14c02d3f64f",
                 "nota": "Os processos de definição e de avaliação de programas de apoio devem ser considerados em \\\"Planeamento e gestão estratégica/ Definição e avaliação de políticas\\\" (150.10)"
             },
             {
-                "idNota": "nota_850.10_8719f89a9374",
+                "idNota": "nota_850.10_a74e0b1980db",
                 "nota": "A formalização de regulamentos deve ser considerada em \\\"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\\\" (100.10)"
             },
             {
-                "idNota": "nota_850.10_9f8277d75b54",
+                "idNota": "nota_850.10_f907f91f0c36",
                 "nota": "Os processos de certificação de despesas devem ser considerados em \\\"Administração financeira/ Execução orçamental\\\" (350.10)"
             },
             {
-                "idNota": "nota_850.10_817110a1d844",
+                "idNota": "nota_850.10_d86191e74669",
                 "nota": "A atribuição de prémios estabelecidos por acordos internacionais deve ser considerada em \\\"Execução da política externa/ Projetos de execução da política externa\\\" (200.30)"
             },
             {
-                "idNota": "nota_850.10_ecec75e9d895",
+                "idNota": "nota_850.10_311396252d8b",
                 "nota": "A organização de cerimónias para atribuição de prémios deve ser considerada em \\\"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\\\" (900.10)"
             },
             {
-                "idNota": "nota_850.10_13b7b6e4a289",
+                "idNota": "nota_850.10_02482a273ca2",
                 "nota": "A atribuição de prémios de desempenho no exercício de funções deve ser considerada em \\\"Administração de relações de trabalho/ Gestão de relações individuais de trabalho\\\" (250.20)"
             }
         ]
@@ -81,17 +81,17 @@
         "descricao": "Pagamento compensatório dos custos ou perdas resultantes da exploração e prestação de serviços de interesse público que não são economicamente rentáveis. Inicia com o pedido de pagamento do subsídio ou por iniciativa da entidade pagadora e termina com a decisão de deferimento ou indeferimento do respetivo pedido. Inclui demonstração dos valores das transferências efetuadas ou a efetuar. ",
         "notasAp": [
             {
-                "idNota": "nota_850.10.001_0d90b9a57ecb",
+                "idNota": "nota_850.10.001_96604f53c363",
                 "nota": "Pedidos de pagamento de subsídios de exploração e indemnizações compensatórias"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_850.10.001_df44e471d1ff",
+                "idNota": "nota_850.10.001_0173ccb8da7a",
                 "nota": "O valor e a periodicidade dos pagamentos devem ser considerados em 150.20.202 – Preparação do orçamento"
             },
             {
-                "idNota": "nota_850.10.001_5385f5dab0d6",
+                "idNota": "nota_850.10.001_6960b43baaed",
                 "nota": "Os pagamentos aos beneficiários deverão ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -191,57 +191,57 @@
         "descricao": "Apresentação de candidaturas a programas ou projetos financiados e acompanhamento da sua execução, no âmbito de medidas enquadráveis num apoio regular ou de continuidade. Inicia com a submissão da candidatura e termina com a elaboração do relatório final de execução da operação ou projeto apoiado, elaborado aquando do fim do programa de apoio. Inclui instrução da candidatura, decisão, comunicação da atribuição do apoio, contratualização, acompanhamento e controlo da execução do projeto ou operação, apresentação de comprovativos de despesa, reajustamentos ao programa e elaboração de relatórios intercalares e relatório final, análise e avaliação dos relatórios, aprovação do encerramento do processo de apoio. Inclui ainda a eventual suspensão ou rescisão do contrato de apoio. ",
         "notasAp": [
             {
-                "idNota": "nota_850.10.002_2998468b8118",
+                "idNota": "nota_850.10.002_44f36bdbd439",
                 "nota": "Candidaturas recebidas por entidades que concedem apoios"
             },
             {
-                "idNota": "nota_850.10.002_e7c7f1d3bbbf",
+                "idNota": "nota_850.10.002_5b9dc116e225",
                 "nota": "Candidaturas apresentadas por entidades que beneficiam de apoios"
             },
             {
-                "idNota": "nota_850.10.002_36d2724650e6",
+                "idNota": "nota_850.10.002_dfa8b540557d",
                 "nota": "Eventual suspensão ou rescisão do contrato de apoio"
             },
             {
-                "idNota": "nota_850.10.002_1096214f0bf1",
+                "idNota": "nota_850.10.002_4114d8ce0d9c",
                 "nota": "Candidaturas a medidas agroambientais"
             },
             {
-                "idNota": "nota_850.10.002_a26b69f881b1",
+                "idNota": "nota_850.10.002_52eaf3c08fc2",
                 "nota": "Medidas de investimento"
             },
             {
-                "idNota": "nota_850.10.002_ce65fbc851f6",
+                "idNota": "nota_850.10.002_8ff297a04236",
                 "nota": "Candidaturas a bolsas de investigação"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_850.10.002_06efb013d709",
+                "idNota": "nota_850.10.002_c935c5be03ce",
                 "nota": "A definição dos programas operacionais e outros programas de apoio deve ser considerada em 150.10.200 – Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional"
             },
             {
-                "idNota": "nota_850.10.002_714c1793eff5",
+                "idNota": "nota_850.10.002_fb75d5c0d246",
                 "nota": "A monitorização e avaliação dos programas operacionais e outros programas de apoio devem ser consideradas em 150.10.600 – Avaliação de políticas e instrumentos de operacionalização"
             },
             {
-                "idNota": "nota_850.10.002_8b4d2d209633",
+                "idNota": "nota_850.10.002_78518fae17af",
                 "nota": "A contratação de serviços ou aquisição de bens deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
             },
             {
-                "idNota": "nota_850.10.002_6e5f443265b9",
+                "idNota": "nota_850.10.002_d9cd2d8bcaf6",
                 "nota": "Os pagamentos aos beneficiários devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_850.10.002_0375a1e09714",
+                "idNota": "nota_850.10.002_271eb6f27afd",
                 "nota": "Os empréstimos no âmbito de programas de apoio financeiro para regularização do pagamento de dívidas devem ser considerados em 350.40.401 – Contração e amortização de empréstimos"
             },
             {
-                "idNota": "nota_850.10.002_d918afa95a6f",
+                "idNota": "nota_850.10.002_c6e10b71afa1",
                 "nota": "A atribuição de prestações sociais e auxílios económicos dever ser considerada em “Prestação de serviços de proteção e inclusão social/Atribuição de prestações sociais e auxílios económicos” (650.10)"
             },
             {
-                "idNota": "nota_850.10.002_9cf5cfe9b8a9",
+                "idNota": "nota_850.10.002_18b143b27b90",
                 "nota": "A concretização do projeto deverá ser considerada na função respetiva"
             }
         ],
@@ -578,33 +578,33 @@
         "descricao": "Apresentação de candidaturas a programas ou projetos financiados de apoio pontual e acompanhamento da sua execução, no âmbito de medidas não enquadráveis num plano de continuidade. Inicia com a submissão da candidatura e termina com a elaboração do relatório final de execução da operação ou projeto apoiado, elaborado aquando do fim do programa de apoio. Inclui preparação e apresentação do pedido formal de apoio ou da candidatura, decisão, eventual contratualização, comunicação da atribuição do apoio e eventual apresentação de comprovativos de despesa.",
         "notasAp": [
             {
-                "idNota": "nota_850.10.003_cbb70be560b7",
+                "idNota": "nota_850.10.003_1f926962bb90",
                 "nota": "Apoios em situações de catástrofes naturais"
             },
             {
-                "idNota": "nota_850.10.003_f7f26a209873",
+                "idNota": "nota_850.10.003_2746e7b6b90d",
                 "nota": "Apoios que saiam do âmbito dos programas de apoio estabelecidos"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_850.10.003_3ab9b8c45587",
+                "idNota": "nota_850.10.003_03177e3d006a",
                 "nota": "A contratação de serviços ou aquisição de bens devem ser considerados em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços"
             },
             {
-                "idNota": "nota_850.10.003_69a22e9b504d",
+                "idNota": "nota_850.10.003_735d8cf55534",
                 "nota": "Os pagamentos aos beneficiários devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_850.10.003_03045e884f55",
+                "idNota": "nota_850.10.003_d2465b8b52b7",
                 "nota": "Os empréstimos no âmbito de programas de apoio financeiro para regularização do pagamento de dívidas devem ser considerados em 350.40.401 – Contração e amortização de empréstimos"
             },
             {
-                "idNota": "nota_850.10.003_6fd967a2daec",
+                "idNota": "nota_850.10.003_b3602eb28b12",
                 "nota": "A atribuição de prestações sociais e auxílios económicos deve ser considerada em “Prestação de serviços de proteção e inclusão social/Atribuição de prestações sociais e auxílios económicos” (650.10)"
             },
             {
-                "idNota": "nota_850.10.003_197a41467004",
+                "idNota": "nota_850.10.003_4f610bf7abc8",
                 "nota": "A concretização do projeto deve ser considerada na função respetiva"
             }
         ],
@@ -917,7 +917,7 @@
         "descricao": "Proposição de candidatura a ajudas diretas como forma de garantir a estabilidade nos rendimentos, no âmbito de programas financiados. Inicia com a submissão da candidatura e termina com a elaboração do relatório final de execução da operação ou projeto apoiado, elaborado aquando do fim do programa de apoio. Inclui a instrução da candidatura, decisão, comunicação da atribuição do apoio, contratualização e controlo.",
         "notasAp": [
             {
-                "idNota": "nota_850.10.005_e28e73b8474e",
+                "idNota": "nota_850.10.005_c3d7669aa51f",
                 "nota": "Ajudas diretas ao setor primário"
             }
         ],
@@ -1072,21 +1072,21 @@
         "descricao": "Valorização e estímulo da capacidade criativa, científica e técnica em ações, trabalhos e projetos cujos resultados sejam passíveis de serem reconhecidos na sociedade, apoiando o desenvolvimento, a vocação, a inovação, a capacidade de investigação e a dedicação. Inicia com a abertura de concurso, a apresentação de candidaturas ou a identificação dos eventuais candidatos e, termina, com a decisão de atribuição do prémio. Inclui, conforme o tipo de prémio, a avaliação e seleção de trabalhos, projetos ou ações passíveis de serem recompensados.",
         "notasAp": [
             {
-                "idNota": "nota_850.10.500_99800bc55e9b",
+                "idNota": "nota_850.10.500_7d5b39371556",
                 "nota": "Candidatura a prémios de investigação científica"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_850.10.500_793d61e7d600",
+                "idNota": "nota_850.10.500_a3c7f082d851",
                 "nota": "Os pagamentos aos beneficiários devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_850.10.500_adb443f331bb",
+                "idNota": "nota_850.10.500_af270e2dbe34",
                 "nota": "A cerimónia de atribuição do prémio deve ser considerada em 900.10.500 – Organização e participação em homenagens e cerimónias comemorativas"
             },
             {
-                "idNota": "nota_850.10.500_51182aeedd9f",
+                "idNota": "nota_850.10.500_620e430910f2",
                 "nota": "Os prémios atribuídos por atos de natureza cívica devem ser considerados em 950.30.001 – Reconhecimento por mérito e serviços prestados"
             }
         ],
@@ -1362,37 +1362,37 @@
         "descricao": "Aceitação, por entidade pública, de recurso (financeiro ou material) para apoio direto ou para suporte à realização de uma atividade, acontecimento, ou a contrapartidas de caráter comercial, com o propósito de associar o nome do patrocinador a determinado evento ou iniciativa. Inicia com o pedido e termina com a decisão quanto à atribuição e forma de patrocínio. Inclui análise da proposta e negociação entre patrocinador e beneficiário, contrato de patrocínio, quando aplicável.",
         "notasAp": [
             {
-                "idNota": "nota_850.10.600_b2a283fa82b1",
+                "idNota": "nota_850.10.600_59686808df58",
                 "nota": "Patrocínio a atividades artísticas"
             },
             {
-                "idNota": "nota_850.10.600_4239e769fe46",
+                "idNota": "nota_850.10.600_2b1404f35a0e",
                 "nota": "Patrocínio a atividades culturais"
             },
             {
-                "idNota": "nota_850.10.600_01c04eeb5b5e",
+                "idNota": "nota_850.10.600_ca140b7487e6",
                 "nota": "Patrocínio a atividades desportivas"
             },
             {
-                "idNota": "nota_850.10.600_f51e25c1be03",
+                "idNota": "nota_850.10.600_3c633e4a7007",
                 "nota": "Patrocínio a atividades sociais"
             },
             {
-                "idNota": "nota_850.10.600_f7c520e8cd30",
+                "idNota": "nota_850.10.600_f5ce5d72ae88",
                 "nota": "Patrocínio institucional"
             },
             {
-                "idNota": "nota_850.10.600_0eb418255e0c",
+                "idNota": "nota_850.10.600_21ccd80eb962",
                 "nota": "Patrocínio promocional"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_850.10.600_2575e9ed5ad9",
+                "idNota": "nota_850.10.600_ccf7c90a32b1",
                 "nota": "A disponibilização efetiva dos bens materiais deve ser considerada em 300.50.203 – Aluguer ou cedência de utilização de bens móveis não culturais"
             },
             {
-                "idNota": "nota_850.10.600_57f895e05edc",
+                "idNota": "nota_850.10.600_756f90762cfe",
                 "nota": "O pagamento do valor patrocinado deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -1658,37 +1658,37 @@
         "descricao": "Desenvolvimento de ações ou programas de incentivo ao financiamento, em dinheiro ou em espécie, tendo em vista a realização de projetos, atividades ou iniciativas de natureza diversa. Inicia com a proposta e termina com a assinatura do acordo. Inclui a análise da proposta, a negociação entre o mecenas e o beneficiário, a contratualização das condições acordadas e, quando aplicável, o reconhecimento do manifesto interesse da tutela pelo projeto ou ação. ",
         "notasAp": [
             {
-                "idNota": "nota_850.10.601_0160dab517f2",
+                "idNota": "nota_850.10.601_2b5206f5fe1a",
                 "nota": "Apoio mecenático na área ambiental"
             },
             {
-                "idNota": "nota_850.10.601_a3c1c990b4ea",
+                "idNota": "nota_850.10.601_4d9a3ccbc592",
                 "nota": "Apoio mecenático na área científica ou tecnológica"
             },
             {
-                "idNota": "nota_850.10.601_358f9ee53c9d",
+                "idNota": "nota_850.10.601_1360ffd7e255",
                 "nota": "Apoio mecenático na área cultural"
             },
             {
-                "idNota": "nota_850.10.601_1641dc0071a3",
+                "idNota": "nota_850.10.601_b1e3b3a84ef6",
                 "nota": "Apoio mecenático na área desportiva"
             },
             {
-                "idNota": "nota_850.10.601_197f3b03cc78",
+                "idNota": "nota_850.10.601_88c6f1e9c82b",
                 "nota": "Apoio mecenático na área educacional"
             },
             {
-                "idNota": "nota_850.10.601_43ffa3e4800c",
+                "idNota": "nota_850.10.601_bf0c153412b9",
                 "nota": "Apoio mecenático na área social"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_850.10.601_b4192e54d1e2",
+                "idNota": "nota_850.10.601_c4a0fadfad8e",
                 "nota": "O registo do bem doado deve ser considerado em “Administração de direitos, bens e serviços/Identificação e caracterização de bens” (300.30)"
             },
             {
-                "idNota": "nota_850.10.601_16e09d70118a",
+                "idNota": "nota_850.10.601_06d6faf0141a",
                 "nota": "O fluxo financeiro relativo ao apoio mecenático deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -1825,15 +1825,15 @@
         "descricao": "Compreende as atividades de atribuição e controlo das bonificações e benefícios ao investimento concedidas pelo Estado.",
         "notasAp": [
             {
-                "idNota": "nota_850.30_76f12a0a8f44",
+                "idNota": "nota_850.30_952f89bd233b",
                 "nota": "Bonificação de juros no crédito à habitação"
             },
             {
-                "idNota": "nota_850.30_ce1044313ee8",
+                "idNota": "nota_850.30_518cfb6fb4bc",
                 "nota": "Bonificação ao gasóleo utilizado na atividade agrícola"
             },
             {
-                "idNota": "nota_850.30_01b4d5c332bf",
+                "idNota": "nota_850.30_3cd8a5f32dfa",
                 "nota": "Benefícios fiscais ao investimento"
             }
         ]
@@ -1846,29 +1846,29 @@
         "descricao": "Concessão de bonificações a entidades nacionais e estrangeiras, através de linhas de crédito bonificadas e criadas por diploma próprio, nos setores do arrendamento urbano, eventos nacionais, intempéries, calamidades, crédito de ajuda, entre outros. Inicia com um pedido e termina com a decisão de atribuição da bonificação. Inclui a análise dos elementos e a elaboração de pareceres. ",
         "notasAp": [
             {
-                "idNota": "nota_850.30.001_4bf9cfdee55a",
+                "idNota": "nota_850.30.001_095c06f6ea83",
                 "nota": "Crédito à habitação bonificado"
             },
             {
-                "idNota": "nota_850.30.001_d681c71a4515",
+                "idNota": "nota_850.30.001_d79b240d2fb7",
                 "nota": "Linhas de crédito destinadas à agricultura"
             },
             {
-                "idNota": "nota_850.30.001_0f5b57009df3",
+                "idNota": "nota_850.30.001_d1082250c93f",
                 "nota": "Linhas de crédito destinadas à pecuária"
             },
             {
-                "idNota": "nota_850.30.001_cc2ebdab3dd2",
+                "idNota": "nota_850.30.001_d58f72bc00ac",
                 "nota": "Linhas de crédito destinadas às pescas"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_850.30.001_228c93d82aa9",
+                "idNota": "nota_850.30.001_7f4ebf1b5f1b",
                 "nota": "A celebração de protocolos deve ser considerada em 150.10.500 – Elaboração de instrumentos de cooperação interinstitucional"
             },
             {
-                "idNota": "nota_850.30.001_65dedaad27c6",
+                "idNota": "nota_850.30.001_e164a4369177",
                 "nota": "Os pagamentos aos beneficiários devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -1987,35 +1987,35 @@
         "descricao": "Aplicação do regime de benefícios ao investimento produtivo a entidades contratualizadas. Inicia com a negociação contratual entre as partes e termina com a aplicação do contrato. Inclui todos os procedimentos para a análise e cálculo dos benefícios e incentivos. ",
         "notasAp": [
             {
-                "idNota": "nota_850.30.002_371ff3d7ac28",
+                "idNota": "nota_850.30.002_bdf40f0add16",
                 "nota": "Todos os tipos de benefícios ou incentivos fiscais ou aduaneiros, objeto de contratualização com o Estado Português para projetos de investimento"
             },
             {
-                "idNota": "nota_850.30.002_21c1aef2d706",
+                "idNota": "nota_850.30.002_24b818b9dd24",
                 "nota": "Medidas fiscais que obedeçam às caraterísticas enunciadas no nº 1 do artº 2º do Estatuto dos Benefícios Fiscais"
             }
         ],
         "exemplosNotasAp": [
             {
-                "idExemplo": "exemplo_850.30.002_a1d423991472",
+                "idExemplo": "exemplo_850.30.002_f5f09241004f",
                 "exemplo": "Isenções"
             },
             {
-                "idExemplo": "exemplo_850.30.002_5c3e81c27a52",
+                "idExemplo": "exemplo_850.30.002_e9f5bceda183",
                 "exemplo": "Reduções de taxas"
             },
             {
-                "idExemplo": "exemplo_850.30.002_809376ec130c",
+                "idExemplo": "exemplo_850.30.002_27f09b437f11",
                 "exemplo": "Crédito de imposto"
             },
             {
-                "idExemplo": "exemplo_850.30.002_60e78104ad69",
+                "idExemplo": "exemplo_850.30.002_0d3f4589e551",
                 "exemplo": "Eliminação de dupla tributação"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_850.30.002_2a510d73c397",
+                "idNota": "nota_850.30.002_cccc185d73f3",
                 "nota": "O processamento de benefícios e incentivos fiscais e aduaneiros não contratuais deve ser considerado em 350.10.504 – Processamento de benefícios e incentivos fiscais e aduaneiros não contratuais"
             }
         ],
@@ -2201,11 +2201,11 @@
         "descricao": "Aplicação de isenção de direitos de importação a produtos agrícolas essenciais importados de países terceiros para regiões ultraperiféricas da União Europeia. Inicia com a solicitação do operador e termina com a decisão. Inclui a validação face a alterações/transferências efetuadas às estimativas durante a campanha.",
         "notasEx": [
             {
-                "idNota": "nota_850.30.004_d4e2302ce7db",
+                "idNota": "nota_850.30.004_e57917d1785d",
                 "nota": "O acompanhamento e avaliação do Programa, nomeadamente o reporte trimestral e o relatório geral do impacto das ações, devem ser considerados em 150.10.600 – Avaliação de políticas e instrumentos de operacionalização"
             },
             {
-                "idNota": "nota_850.30.004_e5adb32bcecc",
+                "idNota": "nota_850.30.004_c8971e40705f",
                 "nota": "A concessão de ajudas ao abastecimento das regiões ultraperiféricas deve ser considerada em 850.10.002 - Formalização de candidaturas e acompanhamento de apoios regulares"
             }
         ],
@@ -2281,11 +2281,11 @@
         "descricao": "Registo e controlo dos pagamentos das bonificações de juros e incentivos. Inicia com a receção de comprovativos de despesa e termina com a decisão sobre a conformidade da despesa. Inclui a análise dos mapas de valores a pagar por classificação económica, das reclamações conferidas e não conferidas, dos mapas de execução orçamental anual e da lista de valores pagos por atividade. ",
         "notasEx": [
             {
-                "idNota": "nota_850.30.500_1de9890bfc99",
+                "idNota": "nota_850.30.500_d6fe99bca7d7",
                 "nota": "A fiscalização dos incentivos deve ser considerada em 500.10.300 – Realização de fiscalização"
             },
             {
-                "idNota": "nota_850.30.500_f558d6ca0372",
+                "idNota": "nota_850.30.500_b4fb5286f686",
                 "nota": "A avaliação dos programas deve ser considerada em 150.10.600 – Avaliação de políticas e instrumentos de operacionalização"
             }
         ],
@@ -2372,15 +2372,15 @@
         "descricao": "Compreende os processos da iniciativa do Estado na concessão de garantias com caráter de exceção e de acordo com o plafond estabelecido na Lei do Orçamento de Estado, em operações financeiras celebradas por entidades nacionais e com países terceiros.",
         "notasAp": [
             {
-                "idNota": "nota_850.40_216cd54c3650",
+                "idNota": "nota_850.40_76907e3cca3a",
                 "nota": "Garantias que assegurem a realização de operações de crédito ou de outras operações financeiras, nacionais ou internacionais, de que sejam beneficiárias entidades públicas, empresas nacionais ou outras empresas que legalmente gozem de igualdade de tratamento"
             },
             {
-                "idNota": "nota_850.40_b7c53e3eac73",
+                "idNota": "nota_850.40_a29f155ad38b",
                 "nota": "Garantias que assegurem a viabilidade financeira de empresas em situação financeira difícil"
             },
             {
-                "idNota": "nota_850.40_79406cab563d",
+                "idNota": "nota_850.40_ae526a2ba96f",
                 "nota": "Garantias que assegurem o cumprimento das obrigações assumidas em contratos de financiamento, incluindo a renovação das respetivas operações por parte das instituições de crédito sedeadas em Portugal"
             }
         ]
@@ -2393,11 +2393,11 @@
         "descricao": "Concessão, gestão e execução de garantias pessoais a entidades externas e internas, sob a forma de fiança ou aval, no âmbito de empreendimentos ou projetos de interesse para a economia nacional. Inicia com o pedido dos beneficiários da garantia do Estado ou de um membro do Governo para análise da entidade responsável pelas garantias e subsequente pedido de parecer ao à entidade responsável pela dívida pública e à tutela setorial e termina com a execução da garantia. Inclui pedidos de autorização/manutenção de garantia, minutas dos contratos de empréstimo ou da operação financeira, planos de utilização do financiamento e esquemas de reembolso, propostas de concessão de garantia, pareceres com despachos ministeriais, despacho do membro do Governo competente a autorizar a emissão da garantia, contratos com garantia do Estado e respetivos aditamentos, assim como mapas dos planos de amortização de capital, definição de juros e comissões de garantia, programas, declarações de garantia, entre outros.",
         "notasEx": [
             {
-                "idNota": "nota_850.40.001_f9188d79ec6a",
+                "idNota": "nota_850.40.001_b2ef4aa6ba68",
                 "nota": "A celebração de protocolos deve ser considerada em 150.10.500 – Elaboração de instrumentos de cooperação interinstitucional"
             },
             {
-                "idNota": "nota_850.40.001_2f70ef45f7fa",
+                "idNota": "nota_850.40.001_ee1b9065f7b7",
                 "nota": "Os pagamentos aos beneficiários deverão ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -2494,53 +2494,53 @@
         "descricao": "Concessão e gestão de garantias a operações de seguro do risco de crédito, de produção e de investimento com a garantia do Estado, nomeadamente no contexto da exportação de bens ou serviços de origem portuguesa ou de investimento português no estrangeiro. Inicia com o pedido da seguradora ao Estado para emissão da garantia, sob a forma de seguro, e termina com a eventual autorização do membro do Governo a efetivar a emissão da garantia. Inclui garantias de operações individuais de crédito ou de investimento, de apólices globais, de seguro-caução, de linhas de crédito a estabelecer com países da cooperação portuguesa, pedidos de posição de princípio sobre cobertura da exportação de bens e serviços de origem portuguesa, despachos de autorização de garantia, incluindo os da tutela, prorrogações de prazos de utilização das operações seguras, cobranças de prémios, pedidos de indemnização e respetivos pagamentos. ",
         "notasAp": [
             {
-                "idNota": "nota_850.40.500_c1083836c120",
+                "idNota": "nota_850.40.500_6d15ca3dba1d",
                 "nota": "Garantias sobre o seguro de colheita e de fabrico"
             },
             {
-                "idNota": "nota_850.40.500_e887c135fcec",
+                "idNota": "nota_850.40.500_181e58773187",
                 "nota": "Garantias de operações individuais de crédito ou de investimento"
             },
             {
-                "idNota": "nota_850.40.500_34674247706c",
+                "idNota": "nota_850.40.500_ad9f7add867f",
                 "nota": "Garantias de operações de apólices globais"
             },
             {
-                "idNota": "nota_850.40.500_1e4c95c6952e",
+                "idNota": "nota_850.40.500_d29d694dc7b7",
                 "nota": "Garantias de operações individuais"
             },
             {
-                "idNota": "nota_850.40.500_928756f9e195",
+                "idNota": "nota_850.40.500_e18d83482c67",
                 "nota": "Garantias de seguro-caução"
             },
             {
-                "idNota": "nota_850.40.500_abac7e6a5761",
+                "idNota": "nota_850.40.500_200761e580b5",
                 "nota": "Garantias de linhas de crédito a estabelecer com países da cooperação portuguesa"
             },
             {
-                "idNota": "nota_850.40.500_16e4e041e2f5",
+                "idNota": "nota_850.40.500_437a7099c1b9",
                 "nota": "Pedidos de posição de princípio sobre cobertura da exportação de bens e serviços de origem portuguesa"
             },
             {
-                "idNota": "nota_850.40.500_a8330f899e2d",
+                "idNota": "nota_850.40.500_670bc80a5d6e",
                 "nota": "Garantias às exportações"
             },
             {
-                "idNota": "nota_850.40.500_b54427d92b09",
+                "idNota": "nota_850.40.500_d9aed15a62c4",
                 "nota": "Garantias ao financiamento"
             },
             {
-                "idNota": "nota_850.40.500_c85e543f2ae3",
+                "idNota": "nota_850.40.500_91c19d6704ae",
                 "nota": "Reportes semestrais sobre garantias a operações de seguro do risco"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_850.40.500_e075c74e4940",
+                "idNota": "nota_850.40.500_75cadefbbccc",
                 "nota": "A celebração de protocolos deve ser considerada em 150.10.500 – Elaboração de instrumentos de cooperação interinstitucional"
             },
             {
-                "idNota": "nota_850.40.500_5c504e822212",
+                "idNota": "nota_850.40.500_9f6b9d34e1f8",
                 "nota": "Os pagamentos aos beneficiários deverão ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],

@@ -7,17 +7,17 @@
         "descricao": "Relativo à prestação de serviços no domínio da educação/ensino/qualificação da população, independentemente da idade ou do contexto (escolar, académico, profissional ou outro) - inclui a educação pré-escolar, o ensino básico e secundário, o ensino superior, a educação extraescolar e todos os cursos de formação, de qualificação profissional e valorização permanente, em qualquer área do conhecimento. ",
         "notasAp": [
             {
-                "idNota": "nota_750_15e3b9a97050",
+                "idNota": "nota_750_a1b552965aeb",
                 "nota": "Inclui as ações de formação para a qualificação dos recursos humanos da administração pública, bem como a realização de estágios."
             },
             {
-                "idNota": "nota_750_2ba90827ee4f",
+                "idNota": "nota_750_f6b6fa8adebb",
                 "nota": "Aplicável tanto às entidades que prestam os serviços referidos como às que solicitam a prestação dos mesmos."
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750_c6bf68ac875b",
+                "idNota": "nota_750_f2a9b167e37f",
                 "nota": "As ações de sensibilização, congressos, seminários e outros encontros científicos ou profissionais, devem ser considerados em \\\"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\\\" (900.10)"
             }
         ]
@@ -30,7 +30,7 @@
         "descricao": "Compreende as atividades relacionadas com apresentação de candidaturas, seleção de candidatos, matrículas, inscrições, transferências de alunos/formandos entre cursos, turmas ou estabelecimentos de ensino, e ainda as atividades relacionadas com a orientação vocacional do aluno/formando, e/ou o seu encaminhamento para percurso ou ensino especial.",
         "notasAp": [
             {
-                "idNota": "nota_750.10_ea081048e0fd",
+                "idNota": "nota_750.10_4fcdb8b89e7a",
                 "nota": "Quando aplicável, estas atividades incidem igualmente sobre estagiários."
             }
         ]
@@ -43,69 +43,69 @@
         "descricao": "Avaliação da capacidade para a frequência de curso ou de ação de formação, bem como a realização das tarefas inerentes ao concurso ou admissão, designadamente as provas específicas, e à satisfação de pré-requisitos (realização de provas de aptidão física, funcional ou vocacional). Inicia com a candidatura a curso ou inscrição/encaminhamento para formação e termina com a publicação da lista de graduação final ou lista de admitidos a formação. Inclui realização de provas de ingresso, aplicação de fórmulas e classificações mínimas, seriação dos candidatos, elaboração de pautas finais e respetiva homologação.",
         "notasAp": [
             {
-                "idNota": "nota_750.10.001_8fc46e78a3b6",
+                "idNota": "nota_750.10.001_085e1c1e7f13",
                 "nota": "Candidatura a formação profissional"
             },
             {
-                "idNota": "nota_750.10.001_fe82f686cd4c",
+                "idNota": "nota_750.10.001_238b17f9d47b",
                 "nota": "Candidatos selecionados ou encaminhados para a formação profissional"
             },
             {
-                "idNota": "nota_750.10.001_f9c0d9eec506",
+                "idNota": "nota_750.10.001_927494cf49ff",
                 "nota": "Candidatura por bolseiro de língua portuguesa"
             },
             {
-                "idNota": "nota_750.10.001_be5fe1aa2cf1",
+                "idNota": "nota_750.10.001_e0d9ef96a4f0",
                 "nota": "Proposição a reingresso, mudança de curso e transferência"
             },
             {
-                "idNota": "nota_750.10.001_0082373b7414",
+                "idNota": "nota_750.10.001_94e84cdb8c9b",
                 "nota": "Candidatura a formação para acesso ou progressão na carreira"
             },
             {
-                "idNota": "nota_750.10.001_445e97dcc3c7",
+                "idNota": "nota_750.10.001_23868b3083aa",
                 "nota": "Candidatura a pós-graduação"
             },
             {
-                "idNota": "nota_750.10.001_98dc090e08e9",
+                "idNota": "nota_750.10.001_af5ab7a4135b",
                 "nota": "Candidatura no âmbito do ensino regular profissional"
             },
             {
-                "idNota": "nota_750.10.001_308ce393a1e1",
+                "idNota": "nota_750.10.001_7c5dbda24738",
                 "nota": "Candidatura a concurso especial de acesso ao ensino superior"
             },
             {
-                "idNota": "nota_750.10.001_a4b959ee1be7",
+                "idNota": "nota_750.10.001_a0e386f7de4d",
                 "nota": "Seriação para ingresso no ensino básico ou secundário ou no âmbito da escolaridade obrigatória"
             },
             {
-                "idNota": "nota_750.10.001_dd65f07ab655",
+                "idNota": "nota_750.10.001_016468c0f630",
                 "nota": "Seleção e encaminhamento de candidatos para formação profissional"
             },
             {
-                "idNota": "nota_750.10.001_e36799d01452",
+                "idNota": "nota_750.10.001_6828e89b8e18",
                 "nota": "Candidatura a opções e ramos"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750.10.001_38e98dd85ac2",
+                "idNota": "nota_750.10.001_c795a57764a2",
                 "nota": "A elaboração de calendários das provas de ingresso deve ser considerada em 150.20.101 – Planeamento estratégico de atividades"
             },
             {
-                "idNota": "nota_750.10.001_64f1fc2adca6",
+                "idNota": "nota_750.10.001_ddd11f78aa39",
                 "nota": "A reclamação de resultados da seleção deve ser considerada em 500.40.001 – Processamento de reclamações em atos administrativos, ou em 500.40.500 – Processamento de recursos hierárquicos, ou, ainda, em 500.40.501 – Processamento de recursos administrativos especiais"
             },
             {
-                "idNota": "nota_750.10.001_d091c027b9a6",
+                "idNota": "nota_750.10.001_bf22a0108d66",
                 "nota": "O recurso que evolua para os Tribunais deve ser considerado em 600.30.550 – Ação administrativa"
             },
             {
-                "idNota": "nota_750.10.001_a3406f8ba60d",
+                "idNota": "nota_750.10.001_0089e2d8b980",
                 "nota": "As atividades relacionadas com a seleção e seriação de recluso para acesso a ação de formação devem ser consideradas em 600.40.303 – Acompanhamento da execução de medida tutelar educativa não privativa da liberdade"
             },
             {
-                "idNota": "nota_750.10.001_f29c65b6cf08",
+                "idNota": "nota_750.10.001_dde08c5a5e16",
                 "nota": "As atividades relacionadas com a seleção e seriação de jovem em centro educativo para acesso a ação de formação devem ser consideradas em 600.40.100 – Execução de medida de internamento em centro educativo"
             }
         ],
@@ -444,85 +444,89 @@
         "descricao": "Realização ou renovação de matrícula em cursos ou inscrição em ações de formação. Inicia com o pedido de acesso ou ingresso e termina com a entrega de comprovativo de matrícula ou inscrição. Inclui proposta, verificação de dados de identificação e validação da existência dos requisitos necessários para efeito de matrícula ou inscrição. ",
         "notasAp": [
             {
-                "idNota": "nota_750.10.002_55e666443e4f",
+                "idNota": "nota_750.10.002_8d8cfb307ee5",
                 "nota": "Matrícula ou inscrição de alunos ou formandos do ensino à distância"
             },
             {
-                "idNota": "nota_750.10.002_207264a84751",
+                "idNota": "nota_750.10.002_a9de5c3cfb93",
                 "nota": "Matrícula ou inscrição de alunos do ensino profissional"
             },
             {
-                "idNota": "nota_750.10.002_5a743250a886",
+                "idNota": "nota_750.10.002_e825e7a23a3d",
                 "nota": "Matrícula ou inscrição de alunos do ensino secundário"
             },
             {
-                "idNota": "nota_750.10.002_4b51108ce2c0",
+                "idNota": "nota_750.10.002_3ad6c059a1ee",
                 "nota": "Matrícula ou inscrição de alunos do ensino superior"
             },
             {
-                "idNota": "nota_750.10.002_39673d2f3b71",
+                "idNota": "nota_750.10.002_76a1b4d8ef89",
                 "nota": "Matrícula ou inscrição de alunos filhos de profissionais itinerantes"
             },
             {
-                "idNota": "nota_750.10.002_f34f438d16bf",
+                "idNota": "nota_750.10.002_4b0a5165b393",
                 "nota": "Matrícula ou inscrição de alunos colocados em centros educativos ou estabelecimentos prisionais"
             },
             {
-                "idNota": "nota_750.10.002_d95f5fc05d44",
+                "idNota": "nota_750.10.002_53a52a6a7472",
                 "nota": "Matrícula ou inscrição de alunos com necessidades educativas especiais (condições especiais de matrícula)"
             },
             {
-                "idNota": "nota_750.10.002_f0da88f8b55f",
+                "idNota": "nota_750.10.002_dadd3cc8c694",
                 "nota": "Matrícula ou inscrição de alunos sobredotados (antecipação de matrícula)"
             },
             {
-                "idNota": "nota_750.10.002_b1c5fb419306",
+                "idNota": "nota_750.10.002_5629b3d6dfec",
                 "nota": "Matrícula ou inscrição em formação inicial para ingresso em carreiras profissionais específicas"
             },
             {
-                "idNota": "nota_750.10.002_206628b344ab",
+                "idNota": "nota_750.10.002_ee71250ab27e",
                 "nota": "Inscrição de formandos em cursos de formação profissional"
             },
             {
-                "idNota": "nota_750.10.002_d46fa41f97d6",
+                "idNota": "nota_750.10.002_c5845e097d96",
                 "nota": "Inscrição de trabalhadores em ações de formação profissional"
             },
             {
-                "idNota": "nota_750.10.002_ae7306b1d6c0",
+                "idNota": "nota_750.10.002_ef827b4d4933",
                 "nota": "Inscrição em atividades extra curriculares e de enriquecimento curricular"
             },
             {
-                "idNota": "nota_750.10.002_46818940d0d0",
+                "idNota": "nota_750.10.002_a2e8607a4162",
                 "nota": "Inscrição em estágios"
             },
             {
-                "idNota": "nota_750.10.002_f123107755fc",
+                "idNota": "nota_750.10.002_1ed60a48ca4a",
                 "nota": "Reingresso de alunos no ensino"
             },
             {
-                "idNota": "nota_750.10.002_817a572b0834",
+                "idNota": "nota_750.10.002_a341ad54cb44",
                 "nota": "Transferência de alunos ou formandos"
+            },
+            {
+                "idNota": "nota_750.10.002_74bd94d55bae",
+                "nota": "Matrícula ou inscrição ao abrigo de regimes especiais de frequência"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750.10.002_3fd1dc816564",
+                "idNota": "nota_750.10.002_0f6fbaa9ba0b",
                 "nota": "Os pedidos de horário especial em contexto laboral devem ser considerados em 250.20.200 – Processamento de pedidos de horário de trabalho especial"
             },
             {
-                "idNota": "nota_750.10.002_60aad82ef767",
+                "idNota": "nota_750.10.002_892bb7812643",
                 "nota": "O pagamento de propinas deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_750.10.002_c66b02198cfe",
+                "idNota": "nota_750.10.002_5c403bb3d4d8",
                 "nota": "A emissão de certificados ou diplomas de escolaridade deve ser considerada em 450.30.002 – Certificação de habilitações ou qualificações"
             },
             {
-                "idNota": "nota_750.10.002_8eca5c87c46a",
+                "idNota": "nota_750.10.002_9bebac47022f",
                 "nota": "A ação disciplinar em contexto escolar ou formativo deve ser considerada em 500.20.300 – Procedimento disciplinar"
             },
             {
-                "idNota": "nota_750.10.002_838235e3d3fa",
+                "idNota": "nota_750.10.002_8276e7b8cb2b",
                 "nota": "A aplicação de métodos de seleção, designadamente concursos, provas de ingresso e a satisfação de pré-requisitos (realização de provas de aptidão física, funcional ou vocacional) devem ser considerados em 750.10.001 – Seleção e seriação para ingresso no ensino ou formação"
             }
         ],
@@ -748,6 +752,8 @@
             "350.30.001",
             "450.30.502",
             "500.10.301",
+            "500.20.002",
+            "500.20.003",
             "750.10.001",
             "750.10.300",
             "750.20.301",
@@ -764,6 +770,8 @@
             "eSintetizadoPor",
             "eCruzadoCom",
             "eAntecessorDe",
+            "eSuplementoPara",
+            "eSuplementoPara",
             "eSuplementoPara",
             "eSucessorDe",
             "eSintetizadoPor",
@@ -823,19 +831,19 @@
         "descricao": "Atualização continuada da informação cadastral do aluno ou formando. Inicia com o registo dos dados biográficos, curriculares, do aproveitamento escolar e ou profissionais do aluno ou formando e termina com a indicação de conclusão de estudos ou da ação de formação ou com a prescrição da matrícula. Inclui validação de dados do aluno ou formando, registo de dados relativos à assiduidade e à aplicação do regime disciplinar, registo e atualização de dados relativos ao aproveitamento escolar e percurso académico ou de ensino.",
         "notasAp": [
             {
-                "idNota": "nota_750.10.300_409ba821ff1e",
+                "idNota": "nota_750.10.300_bb90487b27b0",
                 "nota": "Processamento de dados cadastrais dos alunos ou formandos de todos os graus e modalidades de ensino ou formação"
             },
             {
-                "idNota": "nota_750.10.300_779a61e20d4d",
+                "idNota": "nota_750.10.300_0486d2e146c3",
                 "nota": "Processamento de dados relativos à transferência de estabelecimento de ensino"
             },
             {
-                "idNota": "nota_750.10.300_e20f48978662",
+                "idNota": "nota_750.10.300_4c6835cb5642",
                 "nota": "Formulário de identificação do formando"
             },
             {
-                "idNota": "nota_750.10.300_619aff087c06",
+                "idNota": "nota_750.10.300_34d534e1ef54",
                 "nota": "Abate ao efetivo batalhão escolar ou colegial"
             }
         ],
@@ -954,9 +962,11 @@
             "750.10.002",
             "750.10.600",
             "750.10.602",
+            "750.20.600",
             "750.30.601"
         ],
         "proRel": [
+            "eSinteseDe",
             "eSinteseDe",
             "eSinteseDe",
             "eSinteseDe",
@@ -1010,21 +1020,21 @@
         "descricao": "Verificação do cumprimento do dever do aluno ou formando de frequentar as atividades letivas, escolares ou formativas. Inicia com o registo de faltas do aluno ou formando e termina com a síntese de ocorrências relativas à assiduidade e pontualidade do mesmo. Inclui justificação de faltas e notificação dos interessados.",
         "notasAp": [
             {
-                "idNota": "nota_750.10.600_be484391a00a",
+                "idNota": "nota_750.10.600_2c8aab0e3f0c",
                 "nota": "Controlo de assiduidade em cursos financiados"
             },
             {
-                "idNota": "nota_750.10.600_f3179728fcb8",
+                "idNota": "nota_750.10.600_1829927ff06b",
                 "nota": "Controlo de assiduidade em cursos não financiados"
             },
             {
-                "idNota": "nota_750.10.600_dfe604b75c65",
+                "idNota": "nota_750.10.600_89fbaf9936f0",
                 "nota": "Controlo da assiduidade durante o estágio"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750.10.600_01d4502fe456",
+                "idNota": "nota_750.10.600_187624964121",
                 "nota": "A definição e aplicação de medidas disciplinares no caso do incumprimento do dever de assiduidade por parte do aluno ou formando devem ser consideradas em 500.20.300 – Procedimento disciplinar"
             }
         ],
@@ -1151,15 +1161,15 @@
         "descricao": "Verificação do cumprimento do dever do aluno ou formando de frequentar as atividades letivas, escolares ou formativas em cursos ou ações de formação financiados. Inicia com o registo de faltas do aluno ou formando e termina com a síntese de ocorrências relativas à assiduidade e pontualidade do mesmo no encerramento do curso, ação ou ano letivo. Inclui justificação de faltas e notificação dos interessados.",
         "notasAp": [
             {
-                "idNota": "nota_750.10.600.01_580bff0425d2",
+                "idNota": "nota_750.10.600.01_654464979721",
                 "nota": "Controlo de assiduidade em cursos financiados"
             },
             {
-                "idNota": "nota_750.10.600.01_03d57f466e3d",
+                "idNota": "nota_750.10.600.01_7485b60293df",
                 "nota": "Controlo de assiduidade em formação financiada"
             },
             {
-                "idNota": "nota_750.10.600.01_db7278cbf5e6",
+                "idNota": "nota_750.10.600.01_3ab3507f3b2c",
                 "nota": "Controlo de assiduidade em estágios de formação financiada"
             }
         ],
@@ -1207,15 +1217,15 @@
         "descricao": "Verificação do cumprimento do dever do aluno ou formando de frequentar as atividades letivas, escolares ou formativas em cursos ou ações de formação não financiados. Inicia com o registo de faltas do aluno ou formando e termina com a síntese de ocorrências relativas à assiduidade e pontualidade do mesmo no encerramento do curso, ação ou ano letivo. Inclui justificação de faltas e notificação dos interessados.",
         "notasAp": [
             {
-                "idNota": "nota_750.10.600.02_da9359430b70",
+                "idNota": "nota_750.10.600.02_63ed5cc6fe45",
                 "nota": "Controlo de assiduidade em cursos não financiados"
             },
             {
-                "idNota": "nota_750.10.600.02_b419caf2bc3e",
+                "idNota": "nota_750.10.600.02_deaa2498e504",
                 "nota": "Controlo de assiduidade no ensino regular"
             },
             {
-                "idNota": "nota_750.10.600.02_6c757463f8e2",
+                "idNota": "nota_750.10.600.02_83c6bfb1d4df",
                 "nota": "Controlo de assiduidade em estágios de formação não financiada"
             }
         ],
@@ -1251,77 +1261,73 @@
         "codigo": "750.10.601",
         "nivel": 3,
         "estado": "A",
-        "titulo": "Processamento de marcação e admissão a provas de avaliação",
+        "titulo": "Prestação de provas de avaliação",
         "descricao": "Realização das atividades inerentes à prestação de provas de avaliação de conhecimentos. Inicia com a marcação e termina com a realização da prova. Inclui, a apresentação de comprovativos da inscrição e frequência, conforme o grau de ensino, ciclo de estudos ou formação em apreço, a proposição de realização de prova ou de defesa de trabalho académico, a inscrição na prova, entrega de termo de aceitação ou parecer do orientador, de declaração do departamento e de autorização de depósito em repositório e a atribuição do número interno de identificação, sempre que aplicável. ",
         "notasAp": [
             {
-                "idNota": "nota_750.10.601_0bbfd7e968e4",
-                "nota": "Exames finais"
+                "idNota": "nota_750.10.601_df8909369c74",
+                "nota": "Realização de exames finais"
             },
             {
-                "idNota": "nota_750.10.601_ca885e257a9a",
-                "nota": "Exames nacionais dos ensinos básico e secundário"
+                "idNota": "nota_750.10.601_da39448e9b51",
+                "nota": "Realização de exames nacionais dos ensinos básico e secundário"
             },
             {
-                "idNota": "nota_750.10.601_3b5b73b6c71d",
+                "idNota": "nota_750.10.601_d041645654d6",
                 "nota": "Inscrição em época especial de exame"
             },
             {
-                "idNota": "nota_750.10.601_6712a058832a",
+                "idNota": "nota_750.10.601_829e5932dbd5",
                 "nota": "Inscrição em exame de melhoria de nota"
             },
             {
-                "idNota": "nota_750.10.601_826e919776f5",
-                "nota": "Provas académicas"
+                "idNota": "nota_750.10.601_7e6fea1d2270",
+                "nota": "Realização de provas académicas"
             },
             {
-                "idNota": "nota_750.10.601_bccee37af58e",
-                "nota": "Provas de equivalência à frequência"
+                "idNota": "nota_750.10.601_50dc1c10ac65",
+                "nota": "Realização de provas de equivalência à frequência"
             },
             {
-                "idNota": "nota_750.10.601_0cf7516d1e75",
-                "nota": "Provas globais"
+                "idNota": "nota_750.10.601_7eb6deb7bb8b",
+                "nota": "Realização de provas globais"
             },
             {
-                "idNota": "nota_750.10.601_7b2ff395a601",
-                "nota": "Provas nacionais de aferição"
+                "idNota": "nota_750.10.601_eb726ea88ba1",
+                "nota": "Realização de provas nacionais de aferição"
             },
             {
-                "idNota": "nota_750.10.601_b6bda025ec66",
-                "nota": "Provas orais"
+                "idNota": "nota_750.10.601_a3735bcc8a79",
+                "nota": "Realização de provas orais"
             },
             {
-                "idNota": "nota_750.10.601_d7d1ba721ca9",
-                "nota": "Provas intercalares"
+                "idNota": "nota_750.10.601_219303794a2f",
+                "nota": "Realização de realização de provas intercalares"
             },
             {
-                "idNota": "nota_750.10.601_cf79f29255ce",
-                "nota": "Inscrição na sequência de impedimento para a realização de prova"
+                "idNota": "nota_750.10.601_a7ef33f568aa",
+                "nota": "Realização de provas de agregação"
             },
             {
-                "idNota": "nota_750.10.601_cccf9963af24",
-                "nota": "Provas de agregação"
-            },
-            {
-                "idNota": "nota_750.10.601_14873ed77031",
+                "idNota": "nota_750.10.601_78aa7a75e958",
                 "nota": "Defesa de dissertação de mestrado e/ou tese de doutoramento"
             },
             {
-                "idNota": "nota_750.10.601_ef146704ffe8",
-                "nota": "Provas para título de especialista"
+                "idNota": "nota_750.10.601_140e44b6a3e9",
+                "nota": "Realização de provas para título de especialista"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750.10.601_6f163a809f08",
+                "idNota": "nota_750.10.601_d718a85d1741",
                 "nota": "As candidaturas a provas de ingresso ao ensino superior devem ser consideradas em 750.10.001 – Seleção e seriação para ingresso no ensino ou formação"
             },
             {
-                "idNota": "nota_750.10.601_557e71b56ce8",
+                "idNota": "nota_750.10.601_380666a37bc3",
                 "nota": "A publicitação das pautas finais deve ser considerada em 750.30.601- Processamento e comunicação dos resultados de avaliação"
             },
             {
-                "idNota": "nota_750.10.601_f9dfabcdc0f4",
+                "idNota": "nota_750.10.601_5b1953f6a33a",
                 "nota": "A nomeação de júri deve ser considerada em 250.10.500"
             }
         ],
@@ -1416,29 +1422,29 @@
         "descricao": "Acolhimento e disponibilização de recursos educativos adequados a cada caso, durante o percurso escolar ou formativo, de forma a facilitar o desenvolvimento académico, pessoal e sócio-emocional do estudante ou formando, com vista à sua integração e participação em todas as esferas da sociedade. Inicia com a manifestação expressa da necessidade ou sinalização de acompanhamento especial e termina com a satisfação da necessidade ou com a conclusão do grau de ensino ou da formação. Inclui procedimentos de referenciação e avaliação, a proposta de adoção de medidas e soluções apropriadas à necessidade expressa, através de programa/plano educativo individual e seu acompanhamento.",
         "notasAp": [
             {
-                "idNota": "nota_750.10.602_41b2cfb8a2b4",
+                "idNota": "nota_750.10.602_789b740828a9",
                 "nota": "Acompanhamento de estudantes ou formandos com necessidades educativas especiais"
             },
             {
-                "idNota": "nota_750.10.602_a9a4350f0554",
+                "idNota": "nota_750.10.602_c7f04402288c",
                 "nota": "Acompanhamento de estudantes ou formandos pessoas com  deficiência física ou incapacidade"
             },
             {
-                "idNota": "nota_750.10.602_4b4542987a82",
+                "idNota": "nota_750.10.602_3dc48e12285e",
                 "nota": "Acompanhamento de estudantes ou formandos com dislexia, discalculia, ou outras dificuldades associadas que compreendam a adequada compreensão do material escrito"
             },
             {
-                "idNota": "nota_750.10.602_2d20c4fe8102",
+                "idNota": "nota_750.10.602_fc63d43d5533",
                 "nota": "Acompanhamento de estudantes ou formandos com doenças permanentes ou de longa duração, associadas a tratamentos periódicos e frequentes ou a tratamentos agressivos (radioterapia, quimioterapia, citostáticos ou equiparáveis), que produzam condições desvantajosas para o seu desempenho académico"
             },
             {
-                "idNota": "nota_750.10.602_aebe8333a9e3",
+                "idNota": "nota_750.10.602_66484b51a6e2",
                 "nota": "Acompanhamento de estudantes ou formandos com doença mental crónica, que comprometa acentuadamente a adaptação e seja limitativa quanto ao processo de aprendizagem académica"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750.10.602_4b3f9af2539a",
+                "idNota": "nota_750.10.602_1ad5b4366bf8",
                 "nota": "A disponibilização de produtos ou equipamentos de apoio deve ser considerada no PN 650.10.104 – Atribuição de produtos de apoio"
             }
         ],
@@ -1529,6 +1535,77 @@
         }
     },
     {
+        "codigo": "750.10.603",
+        "nivel": 3,
+        "estado": "A",
+        "titulo": "Acompanhamento e orientação escolar e vocacional",
+        "descricao": "Processo contínuo e integral com o objectivo de preparar o aluno ou formando para uma escolha consciente relativa ao seu futuro, com base em estratégias e competências de tomada de decisão. Inicia com a manifestação da necessidade e termina com a proposta de estratégias a adotar em função do diagnóstico efetuado, diminuindo assim a probabilidade de erros de escolha. Inclui a realização de entrevistas e aplicação de testes psicopedagógicos.",
+        "notasAp": [
+            {
+                "idNota": "nota_750.10.603_da8222c821e3",
+                "nota": "Sessões de orientação escolar e profissional"
+            },
+            {
+                "idNota": "nota_750.10.603_9b15ab8d0168",
+                "nota": "Sessões de orientação vocacional"
+            }
+        ],
+        "notasEx": [
+            {
+                "idNota": "nota_750.10.603_f6fee5ce49e3",
+                "nota": "O processo de integração sócio-profissional deve ser considerado em 650.20.302 - Apoio à integração e inserção profissional"
+            }
+        ],
+        "dimensao": "Reduzida",
+        "uniformizacao": "N",
+        "donos": [
+            "IES",
+            "EstE"
+        ],
+        "processosRelacionados": [
+            "150.20.300",
+            "150.40.001",
+            "750.10.300",
+            "750.30.600",
+            "750.30.601"
+        ],
+        "proRel": [
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eSintetizadoPor",
+            "eCruzadoCom",
+            "eCruzadoCom"
+        ],
+        "pca": {
+            "valores": 3.0,
+            "formaContagem": "conclusaoProcedimento",
+            "justificacao": [
+                {
+                    "critCodigo": "just_pca_c750.10.603_0",
+                    "tipo": "utilidade",
+                    "conteudo": "Prazo para processamento dos resultados da avaliação de um ciclo de estudos.PN 750.30.600 - Aplicação de instrumentos de avaliação de aprendizagens;PN 750.30.601 - Processamento e comunicação de resultados de avaliação.",
+                    "procRefs": [
+                        "750.30.600",
+                        "750.30.601"
+                    ]
+                }
+            ]
+        },
+        "df": {
+            "valor": "E",
+            "justificacao": [
+                {
+                    "critCodigo": "just_df_c750.10.603_0",
+                    "tipo": "densidade",
+                    "conteudo": "Informação de síntese recuperável noPN 750.30.601 - Processamento e comunicação dos resultados de avaliação.",
+                    "procRefs": [
+                        "750.30.601"
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "codigo": "750.20",
         "nivel": 2,
         "estado": "A",
@@ -1536,21 +1613,21 @@
         "descricao": "Compreende as atividades preparatórias da criação, realização, avaliação, reestruturação e extinção de cursos, ciclos de ensino, ações de formação, estágios ou qualquer outro tipo de oferta formativa, no que se inclui a oferta de atividades extracurriculares.",
         "notasAp": [
             {
-                "idNota": "nota_750.20_8f6880b16a2b",
+                "idNota": "nota_750.20_0dd77345cefb",
                 "nota": "Aplicável a todos os patamares da gestão formativa e curricular desde a definição das disciplinas de um curso, dos conteúdos programáticos das disciplinas e das aulas/sessões de formação, até à organização de turmas ou à seleção de materiais pedagógicos."
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750.20_7370b6e136a4",
+                "idNota": "nota_750.20_93d3ea9bcabd",
                 "nota": "A homologação de cursos deve ser considerada em \\\"Reconhecimentos e permissões/ Licenciamentos, certificações e outras autorizações\\\" (450.10)"
             },
             {
-                "idNota": "nota_750.20_534d0f5fb6d9",
+                "idNota": "nota_750.20_b91473677e24",
                 "nota": "O diagnóstico de necessidades deve ser considerado em \\\"Planeamento e gestão estratégica/ Planeamento, avaliação e melhoria dos serviços\\\" (150.20)"
             },
             {
-                "idNota": "nota_750.20_db528c5c0807",
+                "idNota": "nota_750.20_df585647feb1",
                 "nota": "As operações estatísticas devem ser consideradas em \\\"Planeamento e gestão estratégica/ Produção de informação estatística\\\" (150.40)"
             }
         ]
@@ -1563,29 +1640,29 @@
         "descricao": "Desenvolvimento e estudo dos currículos, programas das disciplinas, programas e orientações relativas às áreas ou estruturas curriculares e áreas curriculares não disciplinares, bem como a sua alteração ou extinção, em coerência com os objetivos do sistema educativo. Inicia com a apresentação de propostas e termina com a decisão. Inclui análise de conteúdos informativos, elaboração e recolha de pareceres e deliberação por parte dos órgãos de gestão.",
         "notasAp": [
             {
-                "idNota": "nota_750.20.001_32d78dd1b316",
+                "idNota": "nota_750.20.001_752219c06636",
                 "nota": "Ciclos de estudos"
             },
             {
-                "idNota": "nota_750.20.001_d221a8d2d741",
+                "idNota": "nota_750.20.001_458885842c23",
                 "nota": "Elaboração de planos de estudos"
             },
             {
-                "idNota": "nota_750.20.001_055cb38dd20f",
+                "idNota": "nota_750.20.001_1abb550e044f",
                 "nota": "Estruturas curriculares"
             },
             {
-                "idNota": "nota_750.20.001_9596c8004c2e",
+                "idNota": "nota_750.20.001_f232f591bf30",
                 "nota": "Metas curriculares"
             },
             {
-                "idNota": "nota_750.20.001_83d84bf27344",
+                "idNota": "nota_750.20.001_34ad1b75bdc1",
                 "nota": "Programas de disciplinas"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750.20.001_6cb0eb888bcd",
+                "idNota": "nota_750.20.001_91adbf16d8fe",
                 "nota": "A programação anual escolar deve ser considerada em 150.20.101 – Planeamento estratégico de atividades"
             }
         ],
@@ -1694,29 +1771,29 @@
         "descricao": "Desenvolvimento de programas e referenciais das ações de formação, bem como a sua alteração ou extinção, em coerência com os objetivos de formação. Inicia com a proposta e termina com a decisão. Inclui análise de conteúdos informativos, elaboração e recolha de pareceres e deliberação por parte dos órgãos competentes.",
         "notasAp": [
             {
-                "idNota": "nota_750.20.002_433e2ac7445e",
+                "idNota": "nota_750.20.002_f9b2ccdb2e3d",
                 "nota": "Planos de ações de formação"
             },
             {
-                "idNota": "nota_750.20.002_561cb02dd65f",
+                "idNota": "nota_750.20.002_a35e84967d11",
                 "nota": "Estruturas curriculares da ação"
             },
             {
-                "idNota": "nota_750.20.002_c15251ec7dec",
+                "idNota": "nota_750.20.002_85f5f460f86c",
                 "nota": "Metas curriculares da ação"
             },
             {
-                "idNota": "nota_750.20.002_305d5cc21d3f",
+                "idNota": "nota_750.20.002_d10a767d3847",
                 "nota": "Programas de módulos e disciplinas"
             },
             {
-                "idNota": "nota_750.20.002_15cf16ad426f",
+                "idNota": "nota_750.20.002_9852b78c3660",
                 "nota": "Programas e referenciais de formação"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750.20.002_2ef540409efb",
+                "idNota": "nota_750.20.002_2d71ba98fe80",
                 "nota": "A elaboração de Planos anuais de formação deve ser considerada em 150.20.101 – Planeamento estratégico de atividades"
             }
         ],
@@ -1912,42 +1989,31 @@
         }
     },
     {
-        "codigo": "750.20.003",
-        "nivel": 3,
-        "estado": "H",
-        "titulo": "Avaliação da atividade pedagógica",
-        "descricao": "Monitorização e apreciação da atividade pedagógica, no ensino superior. Inicia com a autoavaliação de bacharelatos, licenciaturas, mestrados e doutoramentos e termina com o relatório global. Inclui a avaliação das disciplinas, a avaliação das unidades curriculares, os inquéritos a alunos e professores, os relatórios finais, os relatórios da discência, docência e comissão do curso.",
-        "pca": {
-            "valores": "NE",
-            "formaContagem": "Desconhecida"
-        }
-    },
-    {
         "codigo": "750.20.300",
         "nivel": 3,
         "estado": "A",
         "titulo": "Produção e seleção de recursos didático-pedagógicos",
-        "descricao": "Apreciação dos recursos didático-pedagógicos no que diz respeito à sua adequação às atividades educativas e formativas a que se destinam. Inicia com a identificação de necessidades de material didático e termina com a divulgação ou disponibilização dos recursos. Inclui elaboração ou seleção de fontes de informação e aplicação de critérios para apreciação de material didático.",
+        "descricao": "Apreciação dos recursos didático-pedagógicos no que diz respeito à sua adequação às atividades educativas e formativas a que se destinam. Inicia com a identificação de necessidades de material didático e termina com a difusão ou disponibilização dos recursos. Inclui elaboração ou seleção de fontes de informação e aplicação de critérios para apreciação de material didático.",
         "notasAp": [
             {
-                "idNota": "nota_750.20.300_9b3d9d478441",
+                "idNota": "nota_750.20.300_8d32a6c92009",
                 "nota": "Adoção de manuais escolares certificados do ensino básico e secundário"
             },
             {
-                "idNota": "nota_750.20.300_a4b2478a634a",
+                "idNota": "nota_750.20.300_028e2e9df90e",
                 "nota": "Elaboração de manuais de formação"
             },
             {
-                "idNota": "nota_750.20.300_ad824dddecd4",
+                "idNota": "nota_750.20.300_467b2a91e214",
                 "nota": "Elaboração de selectas de textos ou sebentas"
             },
             {
-                "idNota": "nota_750.20.300_49d4a8e353b6",
+                "idNota": "nota_750.20.300_4151efbca43a",
                 "nota": "Elaboração de instrumentos didáticos adaptados"
             },
             {
-                "idNota": "nota_750.20.300_9049a8122219",
-                "nota": "Seleção e divulgação de recursos de informação aconselhados"
+                "idNota": "nota_750.20.300_96ef658c839e",
+                "nota": "Seleção de recursos de informação aconselhados"
             }
         ],
         "dimensao": "Elevada",
@@ -2063,17 +2129,21 @@
         "descricao": "Organização do ano letivo em qualquer nível de ensino, bem como à organização da formação. Inicia com a listagem dos alunos ou formandos inscritos e termina com a divulgação dos horários e das turmas, turnos ou grupos. Inclui constituição das turmas, turnos ou grupos.",
         "notasAp": [
             {
-                "idNota": "nota_750.20.301_f0a9bb2f6cfe",
+                "idNota": "nota_750.20.301_84d4b803e90c",
                 "nota": "Constituição de turmas"
             },
             {
-                "idNota": "nota_750.20.301_2e5871ae2c3d",
+                "idNota": "nota_750.20.301_ea383121f1f0",
                 "nota": "Elaboração de horários letivos"
+            },
+            {
+                "idNota": "nota_750.20.301_c5848756a9cd",
+                "nota": "Distribuição do serviço docente"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750.20.301_7346b17a998e",
+                "idNota": "nota_750.20.301_1ab93b83afaf",
                 "nota": "A elaboração de normas e critérios de constituição de turmas deve ser considerada em 100.10.600 – Produção e comunicação de regras institucionais"
             }
         ],
@@ -2204,45 +2274,45 @@
         "descricao": "Concretização de atividades formativas, letivas e extra curriculares. Inicia com a análise do programa de curso ou formação e termina com a apresentação do relatório sobre a concretização das atividades curriculares letivas e formativas no encerramento da ação ou do ano letivo. Inclui elaboração de plano de aula ou plano de formação, implementação de estratégias técnico-pedagógicas, definição de planos de recuperação, de acompanhamento ou desenvolvimento, produção de sumários, elaboração de relatórios periódicos das aulas, apresentação de propostas de atividades, monitorização do desenvolvimento das aprendizagens e interação entre docentes ou formadores e alunos ou formandos.",
         "notasAp": [
             {
-                "idNota": "nota_750.20.600_3ec90e47fe7f",
+                "idNota": "nota_750.20.600_73a5f1894fd4",
                 "nota": "Atividades de enriquecimento curricular"
             },
             {
-                "idNota": "nota_750.20.600_074dd1af6384",
+                "idNota": "nota_750.20.600_17f966391c5c",
                 "nota": "Atividades extra curriculares"
             },
             {
-                "idNota": "nota_750.20.600_ecf1d8d535d7",
+                "idNota": "nota_750.20.600_6eebb6653a45",
                 "nota": "Aulas práticas"
             },
             {
-                "idNota": "nota_750.20.600_56f130a2bdb5",
+                "idNota": "nota_750.20.600_010aeb604c56",
                 "nota": "Aulas teóricas"
             },
             {
-                "idNota": "nota_750.20.600_c4fb9e9613bf",
+                "idNota": "nota_750.20.600_08d3f4a71064",
                 "nota": "Estágios curriculares"
             },
             {
-                "idNota": "nota_750.20.600_8a967db82890",
+                "idNota": "nota_750.20.600_65b691c671bf",
                 "nota": "Orientação tutorial"
             },
             {
-                "idNota": "nota_750.20.600_832f1a993e27",
-                "nota": "Realização de exercícios e simulacros decorrentes de ações de formação"
+                "idNota": "nota_750.20.600_005a66f075d6",
+                "nota": "Realização de exercícios decorrentes de ações de formação"
             },
             {
-                "idNota": "nota_750.20.600_0f2bb0f6400c",
+                "idNota": "nota_750.20.600_5336f4cbac37",
                 "nota": "Redação de sumário"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750.20.600_1224aeba979d",
+                "idNota": "nota_750.20.600_284915cae844",
                 "nota": "A realização de atividades de ensino no âmbito das necessidades educativas especiais deve ser considerada em 750.10.602 – Integração e acompanhamento de alunos com necessidades educativas especiais"
             },
             {
-                "idNota": "nota_750.20.600_ed6bd6f2dc3e",
+                "idNota": "nota_750.20.600_496ccaa3cbf4",
                 "nota": "A aplicação de critérios para escolha de candidatos a estágios em contexto real de trabalho deve ser considerada em 250.10.103 - Seleção de candidatos para frequência de estágios profissionais e programas ocupacionais"
             }
         ],
@@ -2339,7 +2409,9 @@
             "250.20.800",
             "450.10.444",
             "450.10.441",
+            "500.10.001",
             "500.10.301",
+            "750.10.300",
             "750.10.600",
             "750.10.602",
             "750.20.001",
@@ -2361,6 +2433,8 @@
             "eSucessorDe",
             "eSucessorDe",
             "eSuplementoPara",
+            "eSuplementoPara",
+            "eSintetizadoPor",
             "eCruzadoCom",
             "eCruzadoCom",
             "eSucessorDe",
@@ -2400,8 +2474,9 @@
                 {
                     "critCodigo": "just_df_c750.20.600_0",
                     "tipo": "densidade",
-                    "conteudo": "A informação encontra-se sintetizada nosPN 150.20.300 - Avaliação de atividades;PN 250.20.001 - Registo biográfico de trabalhadores;PN 750.10.300 - Processamento dos dados cadastrais de alunos ou formandos;PN 750.20.301 - Distribuição de atividades de ensino ou formação;PN 750.30.601 - Processamento e comunicação de resultados de avaliação.",
+                    "conteudo": "A informação encontra-se sintetizada nosPN 150.20.101 - Planeamento estratégico de atividades;PN 150.20.300 - Avaliação de atividades;PN 250.20.001 - Registo biográfico de trabalhadores;PN 750.10.300 - Processamento dos dados cadastrais de alunos ou formandos;PN 750.20.301 - Distribuição de atividades de ensino ou formação;PN 750.30.601 - Processamento e comunicação de resultados de avaliação.",
                     "procRefs": [
+                        "150.20.101",
                         "150.20.300",
                         "250.20.001",
                         "750.10.300",
@@ -2420,29 +2495,29 @@
         "descricao": "Concretização de atividades práticas de ensino e treino animal. Inicia com a definição do programa de formação adaptado a cada caso, e termina com a concretização das atividades. Inclui elaboração de plano de aula, a avaliação do desenvolvimento animal, relativos a graus de dificuldade ou capacidades desenvolvidas. ",
         "notasAp": [
             {
-                "idNota": "nota_750.20.601_94d66c5e207b",
-                "nota": "Preparação do efetivo animal para missões de proteção, segurança, deteção de explosivos, drogas ou pessoas e a equipas cinotécnicas (binómio)"
+                "idNota": "nota_750.20.601_63c51df0ce24",
+                "nota": "Preparação de animais para missões de proteção, segurança, localização e socorro de pessoas e deteção de explosivos ou drogas"
             },
             {
-                "idNota": "nota_750.20.601_10800f9e3ec6",
+                "idNota": "nota_750.20.601_c7aaadf6c39e",
                 "nota": "Treino animal para fins de competição"
             },
             {
-                "idNota": "nota_750.20.601_7d90f443db17",
+                "idNota": "nota_750.20.601_5bd1654062c1",
                 "nota": "Preparação dos conjuntos cavalo / cavaleiro para demonstração ou exibição"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750.20.601_78dd6e3c360c",
+                "idNota": "nota_750.20.601_fc1d40029df1",
                 "nota": "As provas equestres e exibições devem ser consideradas em 900.10.503 – Organização e participação em iniciativas de promoção ou divulgação de produtos e serviços"
             },
             {
-                "idNota": "nota_750.20.601_09a1528b1139",
+                "idNota": "nota_750.20.601_1a22e13831a3",
                 "nota": "As demonstrações de equipas cinotécnicas devem ser consideradas em 900.10.503 – Organização e participação em iniciativas de promoção ou divulgação de produtos e serviços"
             },
             {
-                "idNota": "nota_750.20.601_cf8b7f8d12f7",
+                "idNota": "nota_750.20.601_7dd95edf6613",
                 "nota": "A formação de treinadores em cinotecnia e maneio de equinos e equitação deve ser considerada em 750.10.002 – Processamento de matrículas ou inscrições no ensino ou em formação"
             }
         ],
@@ -2469,6 +2544,7 @@
             "150.20.103",
             "150.20.300",
             "300.10.005",
+            "500.10.001",
             "500.10.301",
             "750.30.601"
         ],
@@ -2476,6 +2552,7 @@
             "eAntecessorDe",
             "eSintetizadoPor",
             "eSucessorDe",
+            "eSuplementoPara",
             "eSuplementoPara",
             "eSintetizadoPor"
         ],
@@ -2524,45 +2601,45 @@
         "descricao": "Compreende as atividades de preparação, execução e processamento de resultados dos processos de avaliação de aprendizagens que decorrem no quadro do ensino regular e da formação profissional inicial ou contínua. Compreende, igualmente, as atividades de reconhecimento, creditação e validação de competências e qualificações académicas, bem como de creditação da experiência profissional e das aprendizagens não formais e informais (obtidas fora do sistema formal de ensino), para prosseguimento de estudos e/ou atribuição de diplomas. Inclui o reconhecimento de graus e diplomas obtidos no estrangeiro, a pedido dos titulares.",
         "notasAp": [
             {
-                "idNota": "nota_750.30_21ee31f5a8c4",
+                "idNota": "nota_750.30_ff57996ff85e",
                 "nota": "Exames"
             },
             {
-                "idNota": "nota_750.30_377b18fc0f0f",
+                "idNota": "nota_750.30_6de2aebafe87",
                 "nota": "Relatórios de estágio"
             },
             {
-                "idNota": "nota_750.30_cae856f6a189",
+                "idNota": "nota_750.30_d492b567b476",
                 "nota": "Diplomas"
             },
             {
-                "idNota": "nota_750.30_9a8fd0a977f8",
+                "idNota": "nota_750.30_83feac6a0736",
                 "nota": "Processos de reconhecimento"
             },
             {
-                "idNota": "nota_750.30_994f65027302",
+                "idNota": "nota_750.30_a9af55fa21a5",
                 "nota": "Creditação, validação e certificação de competências"
             },
             {
-                "idNota": "nota_750.30_57ddeba76697",
+                "idNota": "nota_750.30_44dee561e165",
                 "nota": "Processamento de pedidos de equivalência ou reconhecimento específicos apresentados por titulares de graus académicos obtidos no estrangeiro"
             },
             {
-                "idNota": "nota_750.30_48019f6c50fa",
+                "idNota": "nota_750.30_cdd608e5c2ed",
                 "nota": "Registo de diplomas estrangeiros"
             },
             {
-                "idNota": "nota_750.30_f628273be461",
+                "idNota": "nota_750.30_30e8bc85b7f4",
                 "nota": "Fixação na escala de classificação portuguesa de classificação obtida no estrangeiro"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750.30_5ef1f4a9dd9a",
+                "idNota": "nota_750.30_522c8ce4d8dd",
                 "nota": "Os processos de reconhecimento genérico de um grau num Estado, ou de um grau conferido por um conjunto de instituições de ensino superior de um Estado, devem ser considerados em \\\"Reconhecimentos e permissões/ licenciamentos, certificações e outras autorizações\\\" (450.10)"
             },
             {
-                "idNota": "nota_750.30_15659d63f855",
+                "idNota": "nota_750.30_013ea60c535e",
                 "nota": "A emissão de certificados de habilitações deve ser considerada em \\\"Reconhecimentos e permissões/ Emissão de comprovativos de factos ou atos\\\" (450.30)"
             }
         ]
@@ -2575,7 +2652,7 @@
         "descricao": "Elaboração de referenciais e modalidades de avaliação quer das aprendizagens e qualificações, quer do sistema educativo. Inicia com a apresentação de propostas e termina com a aprovação. Inclui verificação e análise de propostas, elaboração e recolha de pareceres e deliberação por parte dos órgãos de gestão.",
         "notasEx": [
             {
-                "idNota": "nota_750.30.001_98e6165f3dec",
+                "idNota": "nota_750.30.001_9fd1514edb94",
                 "nota": "A produção de enunciados ou matrizes de provas deverá ser considerada em 750.30.300 – Elaboração de instrumentos de avaliação de aprendizagens"
             }
         ],
@@ -2700,29 +2777,29 @@
         "descricao": "Conceção de instrumentos adequados à avaliação das diversas aprendizagens e às circunstâncias em que ocorrem. Inicia com a elaboração da matriz e projeto de instrumento de avaliação e termina com a apresentação de instrumento de avaliação. Inclui seleção de materiais-suporte dos itens de avaliação, elaboração de instruções ou informações a incluir na prova, definição de critérios e construção de grelhas de classificação, adaptação de provas para alunos ou formandos pessoas com deficiência e aprovação superior do instrumento de avaliação, quando devido.",
         "notasAp": [
             {
-                "idNota": "nota_750.30.300_6ca09d02e22e",
+                "idNota": "nota_750.30.300_1870044f55e0",
                 "nota": "Elaboração de exames de avaliação final"
             },
             {
-                "idNota": "nota_750.30.300_aaf01ae49107",
+                "idNota": "nota_750.30.300_293b41311e0a",
                 "nota": "Elaboração de provas de avaliação intermédia"
             },
             {
-                "idNota": "nota_750.30.300_344c7720f6a6",
+                "idNota": "nota_750.30.300_6412bff06218",
                 "nota": "Elaboração de provas de avaliação periódica"
             },
             {
-                "idNota": "nota_750.30.300_6b208926ba58",
+                "idNota": "nota_750.30.300_ae0ea3bb77e3",
                 "nota": "Produção de instrumentos para a avaliação contínua"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750.30.300_4c908721e0ad",
+                "idNota": "nota_750.30.300_97975087a9f3",
                 "nota": "A distribuição das provas pelos estabelecimentos de ensino deve ser considerada em 550.10.004 – Apoio de forças de segurança a diligências"
             },
             {
-                "idNota": "nota_750.30.300_00ee63773a06",
+                "idNota": "nota_750.30.300_201e048b7e7c",
                 "nota": "O registo em pautas das notas de avaliação recolhidas em grelhas de classificação deve ser considerado em 750.30.601 – Processamento e comunicação de resultados de avaliação"
             }
         ],
@@ -2851,21 +2928,33 @@
         "nivel": 3,
         "estado": "A",
         "titulo": "Aplicação de instrumentos de avaliação de aprendizagens",
-        "descricao": "Execução organizada de modalidades de avaliação. Inicia com a aplicação de instrumentos de avaliação e termina com a classificação do aluno ou formando. Inclui elaboração da lista dos alunos que realizam a prova (pautas de chamada), distribuição de enunciados, cotação das respostas dos alunos ou formandos, elaboração de grelhas de classificação e pautas provisórias.",
+        "descricao": "Execução organizada de modalidades de avaliação. Inicia com a aplicação de instrumentos de avaliação e termina com a classificação do aluno ou formando. Inclui elaboração da lista dos alunos que realizam a prova (pautas de chamada), distribuição de enunciados, cotação das respostas dos alunos ou formandos, elaboração de grelhas de classificação e pautas provisórias. Inclui ainda, se aplicável, o registo de procedimentos e respetiva autenticação.",
         "notasAp": [
             {
-                "idNota": "nota_750.30.600_dc645dbb36bf",
+                "idNota": "nota_750.30.600_70f255dedf7c",
                 "nota": "Avaliação de projetos e trabalhos de grupo ou individuais"
             },
             {
-                "idNota": "nota_750.30.600_81444913c24d",
+                "idNota": "nota_750.30.600_240b6032adbe",
                 "nota": "Aplicação de guias de trabalho para avaliação"
+            },
+            {
+                "idNota": "nota_750.30.600_e97e3d707717",
+                "nota": "Avaliação de trabalhos individuais ou de grupo"
+            },
+            {
+                "idNota": "nota_750.30.600_95e3f9e4dc4d",
+                "nota": "Realização de exames ou frequências, em qualquer suporte"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750.30.600_5783732411d1",
+                "idNota": "nota_750.30.600_85f9c029da49",
                 "nota": "A avaliação da capacidade para a frequência de curso ou formação deve ser considerada em 750.10.001 – Seleção e seriação para ingresso no ensino ou formação"
+            },
+            {
+                "idNota": "nota_750.30.600_389f0125c7ac",
+                "nota": "O registo de procedimentos em logbook deve ser considerado em 800.10.308 Monitorização sistemática de procedimentos e aplicação de competências técnicas ou científicas"
             }
         ],
         "dimensao": "Média",
@@ -2999,28 +3088,28 @@
         "nivel": 3,
         "estado": "A",
         "titulo": "Processamento e comunicação de resultados de avaliação",
-        "descricao": "Lançamento e publicitação dos resultados da avaliação das aprendizagens. Inicia com a análise de grelhas de classificação e pautas provisórias e termina com o lançamento de resultados definitivos e a sua publicitação. Inclui reapreciação da avaliação da prova sempre que solicitado e o registo dos resultados definitivos.",
+        "descricao": "Lançamento e publicitação dos resultados da avaliação das aprendizagens. Inicia com a análise de grelhas de classificação e pautas provisórias e termina com o lançamento de resultados definitivos e a sua comunicação. Inclui reapreciação da avaliação da prova sempre que solicitado e o registo dos resultados definitivos.",
         "exemplosNotasAp": [
             {
-                "idExemplo": "exemplo_750.30.601_f856715fa822",
+                "idExemplo": "exemplo_750.30.601_76a4e6801101",
                 "exemplo": "Pauta final de avaliação"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750.30.601_c07ee2b863c0",
+                "idNota": "nota_750.30.601_09eebcdcaba3",
                 "nota": "A admissão a provas de avaliação deve ser considerada em 750.10.601 - Prestação de provas de avaliação"
             },
             {
-                "idNota": "nota_750.30.601_1ede8e898e9e",
+                "idNota": "nota_750.30.601_6f059097fb0a",
                 "nota": "A elaboração de relatórios de avaliação sobre avaliação das aprendizagens deve ser considerada em 150.20.300 – Avaliação de atividades"
             },
             {
-                "idNota": "nota_750.30.601_158683e06f15",
+                "idNota": "nota_750.30.601_0389a87e9b81",
                 "nota": "O recurso relativo à avaliação deve ser considerado em 500.40.500 – Processamento de recursos hierárquicos"
             },
             {
-                "idNota": "nota_750.30.601_507911b07df1",
+                "idNota": "nota_750.30.601_f17b5751006f",
                 "nota": "O recurso relativo à avaliação, caso evolua para os Tribunais, deve ser considerado em 600.30.550 – Ação administrativa"
             }
         ],
@@ -3096,6 +3185,8 @@
             "450.30.002",
             "500.10.001",
             "500.10.301",
+            "500.20.002",
+            "500.20.003",
             "500.40.500",
             "750.10.300",
             "750.10.601",
@@ -3106,6 +3197,8 @@
         "proRel": [
             "eCruzadoCom",
             "eSuplementoDe",
+            "eSuplementoPara",
+            "eSuplementoPara",
             "eSuplementoPara",
             "eSuplementoPara",
             "eCruzadoCom",
@@ -3159,21 +3252,21 @@
         "descricao": "Ações de validação e valorização de conhecimentos, aptidões, competências e qualificações adquiridas pela experiência de ensino, laboral e de vida, através da atribuição de equivalência ou reconhecimento de um grau de habilitação académica ou profissional. Inicia com a verificação e análise do percurso formativo e termina com a atribuição da qualificação. Inclui, conforme os casos, o portfólio individual ou os comprovativos entregues que explicitam e evidenciam as competências adquiridas.",
         "notasAp": [
             {
-                "idNota": "nota_750.30.602_8ee8b3cbbda4",
+                "idNota": "nota_750.30.602_f042afb83a95",
                 "nota": "Reconhecimento académico pelo qual uma qualificação académica estrangeira é comparada a uma qualificação portuguesa relativamente ao nível, duração e conteúdo programático"
             },
             {
-                "idNota": "nota_750.30.602_2cb345d7f703",
-                "nota": "Reconhecimento a indivíduos que não obtiveram qualificação escolar, académica, profissional pela via formal e pretendam ver confirmado os seus conhecimentos e competências"
+                "idNota": "nota_750.30.602_7d1957d26a0c",
+                "nota": "Reconhecimento a indivíduos que não obtiveram qualificação escolar, académica, profissional pela via formal e pretendam ver confirmados os seus conhecimentos e competências"
             },
             {
-                "idNota": "nota_750.30.602_e24698c63375",
+                "idNota": "nota_750.30.602_672077dff99c",
                 "nota": "Reconhecimento de qualificações profissionais destinado aos cidadãos qualificados para o exercício de uma profissão num determinado Estado-Membro que pretendam exercê-la num outro Estado-Membro onde a mesma esteja regulamentada"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_750.30.602_e82ec3d2530f",
+                "idNota": "nota_750.30.602_35c3ccc17223",
                 "nota": "A emissão de certificados e diplomas deve ser considerada em 450.30.002 – Certificação de habilitações ou qualificações"
             }
         ],

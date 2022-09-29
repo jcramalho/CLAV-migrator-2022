@@ -7,7 +7,7 @@
         "descricao": "Relativo à realização processos eleitorais para escolha dos representantes dos cidadãos (sufrágio universal), à realização de processos referendários, ao processamento de outros atos de participação dos cidadãos na gestão de assuntos públicos e, ainda, à atribuição de distinções honoríficas.",
         "notasEx": [
             {
-                "idNota": "nota_950_04353037519e",
+                "idNota": "nota_950_24ad118c1ad8",
                 "nota": "A audição pública no âmbito de um determinado processo, deve ser considerada junto do processo respetivo - por exemplo, a audição pública no âmbito da elaboração de uma lei ou regulamento deve ser considerada em \\\"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\\\" (100.10)"
             }
         ]
@@ -20,21 +20,21 @@
         "descricao": "Compreende as atividades de organização dos processos de sufrágio universal (nacional, regional e local) para eleições e para referendos, bem como o respetivo apuramento, transmissão e difusão de resultados.",
         "notasAp": [
             {
-                "idNota": "nota_950.10_add2dd9db48c",
+                "idNota": "nota_950.10_dbff70a8ce8b",
                 "nota": "Expediente administrativo produzido no âmbito da organização dos processos eleitoral e referendário"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_950.10_705d89bae02a",
+                "idNota": "nota_950.10_fae131536d20",
                 "nota": "A eleição para estruturas internas de serviços públicos (por exemplo, para órgãos de administração e gestão de escolas, para Conselhos, Comissões ou outros) deve ser considerada em \\\"Administração de relações de trabalho/ Estabelecimento e cessação de relações de trabalho\\\" (250.10)"
             },
             {
-                "idNota": "nota_950.10_64c44916f9b4",
+                "idNota": "nota_950.10_e81a843ad8b0",
                 "nota": "O registo de cidadãos eleitores e o registo de eleitos devem ser considerados em \\\"Prestação de serviços de identificação e registo/ Registo de dados de identificação e caracterização de entidades ou atos\\\" (400.10)"
             },
             {
-                "idNota": "nota_950.10_6ae7a00518c7",
+                "idNota": "nota_950.10_609c6623d71d",
                 "nota": "Os processos de atualização do recenseamento eleitoral, incluindo o processamento de pedidos de atualização de dados individuais, devem ser considerados em \\\"Prestação de serviços de identificação e registo/ Registo de dados de identificação e caracterização de entidades ou atos\\\" (400.10)"
             }
         ]
@@ -47,23 +47,23 @@
         "descricao": "Definição de data para a realização de atos eleitorais e referendários. Inicia com a apresentação da proposta de data e termina com a publicação da decisão. Inclui consulta de entidades, decisão e comunicação da data.",
         "notasAp": [
             {
-                "idNota": "nota_950.10.001_0070e5f87c6b",
+                "idNota": "nota_950.10.001_e7978632f0e8",
                 "nota": "Referendos nacionais, regionais e locais"
             },
             {
-                "idNota": "nota_950.10.001_0a1350875550",
+                "idNota": "nota_950.10.001_07120e917dc6",
                 "nota": "Eleições legislativas"
             },
             {
-                "idNota": "nota_950.10.001_24bd3bc473f9",
+                "idNota": "nota_950.10.001_9041281582e3",
                 "nota": "Eleições para a presidência da república"
             },
             {
-                "idNota": "nota_950.10.001_48d722473213",
+                "idNota": "nota_950.10.001_e938990b5e2d",
                 "nota": "Eleições regionais e autárquicas"
             },
             {
-                "idNota": "nota_950.10.001_e9c1d59eef10",
+                "idNota": "nota_950.10.001_5d62cc6c9c73",
                 "nota": "Eleições dos orgãos de soberania, das regiões autónomas, do poder local e do Conselho das Comunidades Portuguesas"
             }
         ],
@@ -148,7 +148,7 @@
         "descricao": "Análise e aceitação de candidaturas apresentadas por partidos políticos, coligações eleitorais, candidaturas independentes e grupos de cidadãos. Inicia com a apresentação das candidaturas e termina com a publicitação das listas. Inclui verificação da legalidade e regularidade das candidaturas, notificação de aceitação ou de rejeição de candidaturas, reclamação da decisão e sorteio das listas apresentadas.",
         "notasAp": [
             {
-                "idNota": "nota_950.10.200_82025559bb68",
+                "idNota": "nota_950.10.200_c0323c426d48",
                 "nota": "Situações de substituição e desistência de candidaturas e de candidatos"
             }
         ],
@@ -258,17 +258,17 @@
         "descricao": "Análise e aceitação de propostas de referendo. Inicia com a apresentação das iniciativas de proposta e termina com o envio da resolução para convocação de referendo. Inclui análise da proposta de referendo, consulta de entidades, notificação de interessados, discussão e votação, elaboração de projeto de resolução e decisão.",
         "notasAp": [
             {
-                "idNota": "nota_950.10.201_4213daa18fb3",
+                "idNota": "nota_950.10.201_a3b33ec04cc0",
                 "nota": "Admissão de propostas para referendos nacionais, regionais e locais"
             },
             {
-                "idNota": "nota_950.10.201_eb5f8a52f9e0",
+                "idNota": "nota_950.10.201_3a4512b2c8c8",
                 "nota": "Propostas da iniciativa de deputados, de grupos parlamentares, do Governo ou de grupos de cidadãos eleitores"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_950.10.201_130531a8c77f",
+                "idNota": "nota_950.10.201_a395b48321c4",
                 "nota": "A fiscalização preventiva das iniciativas de referendo, ou da verificação da sua constitucionalidade e legalidade, deve ser considerada em “Administração da justiça” (600.30)"
             }
         ],
@@ -375,21 +375,21 @@
         "descricao": "Organização, conceção e disponibilização de impressos, equipamentos e outros materiais necessários à realização dos atos eleitorais e referendários. Inicia com a definição do calendário eleitoral e referendário e termina com a entrega dos materiais a utilizar. Inclui definição do formato e da cor dos boletins de voto, organização dos cadernos de recenseamento eleitoral atendendo às mesas de voto, verificação do estado do material disponibilizado e comunicação dos procedimentos a observar.",
         "notasAp": [
             {
-                "idNota": "nota_950.10.400_a676eabf094f",
+                "idNota": "nota_950.10.400_292a789b2b1c",
                 "nota": "Preparação e entrega de boletins de voto"
             },
             {
-                "idNota": "nota_950.10.400_355afeb60a3d",
+                "idNota": "nota_950.10.400_d522b1e48b22",
                 "nota": "Preparação e entrega de cadernos de eleitorais"
             },
             {
-                "idNota": "nota_950.10.400_79ddbc681963",
+                "idNota": "nota_950.10.400_7c98f9ef1528",
                 "nota": "Preparação e entrega de manuais de procedimentos"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_950.10.400_4b7d2b5b843f",
+                "idNota": "nota_950.10.400_1b097e41f570",
                 "nota": "A elaboração gráfica dos manuais de procedimentos deverá ser considerada em 900.20.201 – Edição e publicação de conteúdos"
             }
         ],
@@ -495,11 +495,11 @@
         "descricao": "Composição das assembleias e mesas de voto. Inicia com a determinação do local de funcionamento da assembleia de voto e termina com a afixação do mapa definitivo das assembleias e secções de voto através de edital. Inclui determinação do número de secções de voto, escolha dos membros das mesas, designação e credenciação dos delegados das candidaturas concorrentes, afixação dos desdobramentos e anexações de secções de voto.",
         "notasAp": [
             {
-                "idNota": "nota_950.10.401_3df8da502ffb",
+                "idNota": "nota_950.10.401_5b86c38e2adf",
                 "nota": "Constituição das assembleias de voto"
             },
             {
-                "idNota": "nota_950.10.401_91fa3acb6010",
+                "idNota": "nota_950.10.401_d05a29eefdc0",
                 "nota": "Constituição das mesas de voto"
             }
         ],
@@ -583,7 +583,7 @@
         "descricao": "Determinação e concessão de meios necessários ao desenvolvimento das atividades de propaganda eleitoral. Inicia com a determinação dos espaços e meios reservados para a propaganda eleitoral e termina com o estabelecimento de prazos para a remoção dos materiais utilizados. Inclui estabelecimento e distribuição dos tempos reservados para o exercício do direito de antena, comunicação à entidade competente da publicação nos média de matérias respeitantes à campanha eleitoral, requisição de espaços e comunicação da sua disponibilização para ações de campanha eleitoral, estabelecimento de locais para afixação de materiais de propaganda eleitoral.",
         "notasAp": [
             {
-                "idNota": "nota_950.10.402_ced60f7d18fd",
+                "idNota": "nota_950.10.402_ef0ae74f4acb",
                 "nota": "Atribuição de tempos de antena e relações com os partidos políticos, no âmbito do desenrolar dos processos eleitorais e referendários"
             }
         ],
@@ -652,7 +652,7 @@
         "descricao": "Verificação do regular funcionamento das assembleias de voto e apuramento dos resultados nelas obtidos. Inicia com a declaração de abertura das assembleias e mesas de voto e termina com a entrega da documentação e comunicação dos resultados do escrutínio parcial à assembleia de apuramento geral. Inclui descarga nos cadernos eleitorais, contagem de votos antecipados, requisições de forças de segurança, quando necessário, receção de dúvidas, reclamações, protestos e contraprotestos relacionados com as operações eleitorais, contagem e devolução de boletins de voto não utilizados e inutilizados, contagem do número de votos introduzidos em urna, contagem e separação dos votos brancos, votos nulos e votos nas diferentes listas, envio dos votos nulos e votos sob protesto ou reclamação à assembleia de apuramento geral, elaboração das atas das operações de votação e apuramento e publicação em edital dos resultados do escrutínio parcial.",
         "notasAp": [
             {
-                "idNota": "nota_950.10.600_12187542dffb",
+                "idNota": "nota_950.10.600_bfe0fc9548fa",
                 "nota": "Atividade desenvolvida pela Assembleia de apuramento distrital de resultados"
             }
         ],
@@ -867,11 +867,11 @@
         "descricao": "Verificação da contagem de votos e proclamação dos resultados obtidos em atos eleitorais e referendários. Inicia com a receção da documentação enviada pelas assembleias de apuramento parcial e termina com a proclamação e publicitação dos resultados finais. Inclui verificação do número total de eleitores inscritos e de votantes, verificação do número total de votos em branco e votos nulos, verificação dos números totais de votos obtidos por cada lista, distribuição dos mandatos pelas diversas listas, determinação dos candidatos eleitos por cada lista, decisão sobre as reclamações e protestos, elaboração da ata do apuramento geral, envio de exemplares da ata à entidade competente, elaboração do mapa dos resultados oficiais das eleições e o seu envio para publicação em Diário da República.",
         "notasAp": [
             {
-                "idNota": "nota_950.10.602_611dcf9ca9fa",
+                "idNota": "nota_950.10.602_f9741f6b8d0f",
                 "nota": "Abertura e lançamento em urna dos votos dos emigrantes"
             },
             {
-                "idNota": "nota_950.10.602_4003cfebfa0f",
+                "idNota": "nota_950.10.602_aa489de0d18a",
                 "nota": "Assembleias de apuramento geral da votação dos emigrantes (círculo da Europa e fora da Europa)"
             }
         ],
@@ -1023,29 +1023,29 @@
         "descricao": "Compreende as atividades de processamento dos atos em que a sociedade toma a iniciativa de se manifestar espontaneamente relativamente a serviços, atos ou políticas públicas.",
         "notasAp": [
             {
-                "idNota": "nota_950.20_6f00a52ba065",
+                "idNota": "nota_950.20_bc27ea60b706",
                 "nota": "Reclamações e queixas expressas no \\\"livro amarelo\\\" ou equivalente;"
             },
             {
-                "idNota": "nota_950.20_e2c0cd30d3ed",
+                "idNota": "nota_950.20_ec5fce4835eb",
                 "nota": "Opiniões expressas em \\\"livro de agradecimentos\\\";"
             },
             {
-                "idNota": "nota_950.20_07ff914cca3a",
+                "idNota": "nota_950.20_a0fbb71ee79d",
                 "nota": "Participações, petições, abaixo-assinados, sugestões ou interpelações de cidadãos individuais ou constituídos em entidades jurídicas."
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_950.20_a3ccdcb39299",
+                "idNota": "nota_950.20_9eace07e7a85",
                 "nota": "As denúncias, notícias ou queixas de crime apresentadas aos órgãos de polícia criminal ou comunicadas ao Ministério Público devem ser consideradas em \\\"Administração da justiça/ Prevenção e investigação criminal\\\" (600.10)"
             },
             {
-                "idNota": "nota_950.20_079a59900896",
+                "idNota": "nota_950.20_51acddcfd78a",
                 "nota": "As reclamações que ocorram no quadro de um determinado procedimento administrativo devem ser consideradas no processo em causa (por exemplo, reclamação da avaliação do desempenho individual deve ser considerada em \\\"Administração de relações de trabalho/ Gestão de relações individuais de trabalho\\\" (250.20)"
             },
             {
-                "idNota": "nota_950.20_e2b5e0d5f064",
+                "idNota": "nota_950.20_ea8f06277499",
                 "nota": "As iniciativas legislativas de grupos de cidadãos devem ser consideradas em \\\"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\\\" (100.10)"
             }
         ]
@@ -1058,63 +1058,63 @@
         "descricao": "Apreciação de exposições com vista à proteção de direitos ou interesses legítimos, resultantes de reivindicações, protestos ou sugestões, relativas ao funcionamento dos serviços, ou sobre as áreas de atuação de uma organização. Inicia com a receção da exposição e termina com resposta ao interessado, ou a sua publicitação. Inclui a análise da situação e a articulação com os serviços, para tentativa de resolução, ou proposta de resposta ao interessado. Pode incluir, quando aplicável, a apreciação em sede de mediação sem formalidade judicial, com intervenção de um provedor.",
         "notasAp": [
             {
-                "idNota": "nota_950.20.001_a80f3fd51b57",
+                "idNota": "nota_950.20.001_ed22dc7e7742",
                 "nota": "Reclamações"
             },
             {
-                "idNota": "nota_950.20.001_58734ff624a0",
+                "idNota": "nota_950.20.001_19fbec5c8066",
                 "nota": "Recomendações emanadas do Provedor"
             },
             {
-                "idNota": "nota_950.20.001_326c0e630113",
+                "idNota": "nota_950.20.001_8188b706cd1d",
                 "nota": "Reinvindicações"
             },
             {
-                "idNota": "nota_950.20.001_5fdc2f7a811a",
+                "idNota": "nota_950.20.001_abc4cae7907e",
                 "nota": "Sugestões"
             }
         ],
         "exemplosNotasAp": [
             {
-                "idExemplo": "exemplo_950.20.001_0a58f8372462",
+                "idExemplo": "exemplo_950.20.001_0e5880648e68",
                 "exemplo": "Reclamações em Livro Amarelo"
             },
             {
-                "idExemplo": "exemplo_950.20.001_981693dcfe75",
+                "idExemplo": "exemplo_950.20.001_909042374def",
                 "exemplo": "Reclamações em Livro Vermelho"
             },
             {
-                "idExemplo": "exemplo_950.20.001_95d45a6f6f4b",
+                "idExemplo": "exemplo_950.20.001_92f8112e70f2",
                 "exemplo": "Mediação por provedor do cliente"
             },
             {
-                "idExemplo": "exemplo_950.20.001_fb69f20c2ac3",
+                "idExemplo": "exemplo_950.20.001_10e467ae3aa7",
                 "exemplo": "Mediação por provedor do estudante"
             },
             {
-                "idExemplo": "exemplo_950.20.001_ff76f3aab15a",
+                "idExemplo": "exemplo_950.20.001_0f0a56bdacad",
                 "exemplo": "Conciliação não judicial em área específica de prestação de serviços"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_950.20.001_eeeb57807ac0",
+                "idNota": "nota_950.20.001_511ea06f7a54",
                 "nota": "Os processos de conciliação e de mediação extra-judicial deverão ser considerados em 600.20 – Resolução alternativa de litígios"
             },
             {
-                "idNota": "nota_950.20.001_9f6d17b6980c",
+                "idNota": "nota_950.20.001_2473327be9f9",
                 "nota": "As reclamações, protestos e contraprotestos relacionadas com os atos eleitorais devem ser consideradas em 950.10.602 – Apuramento geral dos resultados"
             },
             {
-                "idNota": "nota_950.20.001_4e37b62df3d2",
+                "idNota": "nota_950.20.001_297200cbad59",
                 "nota": "As reclamações efetuadas no âmbito de procedimentos concursais e em fase de audiência de interessados devem ser considerados no respetivo processo"
             },
             {
-                "idNota": "nota_950.20.001_a78ffc369d17",
+                "idNota": "nota_950.20.001_6bf00f5d764f",
                 "nota": "As reclamações efetuadas no âmbito de candidaturas devem ser considerados no respetivo processo"
             },
             {
-                "idNota": "nota_950.20.001_e781dff98580",
+                "idNota": "nota_950.20.001_010674d1e6ec",
                 "nota": "O processamento de elogios deve ser considerado em 950.20.300 -  Processamento de mensagens de elogio e de agradecimento"
             }
         ],
@@ -1404,35 +1404,35 @@
         "descricao": "Receção e tratamento de mensagens de elogios e de agradecimentos relativos ao funcionamento de serviços. Inicia com a receção do elogio ou agradecimento e termina, quando aplicável, com a resposta a esses mesmos elogios ou agradecimentos. Inclui a análise da situação exposta e respetiva comunicação interna.",
         "notasAp": [
             {
-                "idNota": "nota_950.20.300_f3869ac96f69",
+                "idNota": "nota_950.20.300_eae30e871134",
                 "nota": "Mensagens de elogio ou de agradecimento por serviços prestados"
             }
         ],
         "exemplosNotasAp": [
             {
-                "idExemplo": "exemplo_950.20.300_d91d644972ad",
+                "idExemplo": "exemplo_950.20.300_5f45829f656e",
                 "exemplo": "Mensagens de elogio ou de agradecimento registadas em livro próprio"
             },
             {
-                "idExemplo": "exemplo_950.20.300_f62185d1f8cd",
+                "idExemplo": "exemplo_950.20.300_8bd1d8c89403",
                 "exemplo": "Mensagens de elogio ou de agradecimento registadas em formulário próprio"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_950.20.300_ccc951167bda",
+                "idNota": "nota_950.20.300_73aceea58b1d",
                 "nota": "Os louvores decorrentes do desempenho profissional devem ser considerados em 250.20.803 – Atribuição de prémios de desempenho, louvores ou medalhas"
             },
             {
-                "idNota": "nota_950.20.300_87fe6fd9daf9",
+                "idNota": "nota_950.20.300_516ca958bfcd",
                 "nota": "A entrega de condecorações e distinções deve ser consideradada em 900.20.601 - Organização de cerimónias protocolares"
             },
             {
-                "idNota": "nota_950.20.300_612b9d85c67b",
+                "idNota": "nota_950.20.300_14a076dfa3b7",
                 "nota": "O tratamento de mensagens de cortesia deve ser considerado em 900.20.605 - Processamento de mensagens de cortesia"
             },
             {
-                "idNota": "nota_950.20.300_ed4596c14435",
+                "idNota": "nota_950.20.300_567f9b844fcd",
                 "nota": "A seleção para atribuição de prémios de reconhecimento da prestação de atos cívicos ou para distinções honoríficas deve ser considerada em 950.30.001 – Reconhecimento por mérito e serviços prestados"
             }
         ],
@@ -1479,7 +1479,8 @@
             "GPP",
             "DRAP",
             "IFAP",
-            "CV"
+            "CV",
+            "IES"
         ],
         "participantes": [
             {
@@ -1687,7 +1688,7 @@
         "descricao": "Receção e tratamento de avisos apresentados por pessoas ou entidades que pretendem a realização de reuniões, comícios, manifestações ou desfiles em lugares públicos ou abertos ao público. Inicia com a comunicação da data, hora e local das reuniões, manifestações e desfiles, e termina com a comunicação de concordância ou dos eventuais constrangimentos relativos à realização dessas ações. Inclui análise do pedido.",
         "notasEx": [
             {
-                "idNota": "nota_950.20.600_52b42e01dc2c",
+                "idNota": "nota_950.20.600_7ea89e94f89d",
                 "nota": "Os avisos relacionados com o exercício do direito de greve, reuniões e manifestações de trabalhadores deverão ser considerados em 250.30.300 – Ações coletivas de defesa e promoção de interesses sócio-profissionais"
             }
         ],
@@ -1907,25 +1908,25 @@
         "descricao": "Compreende as atividades relativas à seleção de pessoas ou outras entidades a distinguir e atribuição de condecorações, ordens honoríficas ou qualquer outra distinção ou recompensa atribuída a título honorífico.",
         "notasAp": [
             {
-                "idNota": "nota_950.30_84bc202dfe73",
+                "idNota": "nota_950.30_42057afcd2bf",
                 "nota": "Distinções honoríficas atribuídas a qualquer cidadão, a militares, a atletas, entre outros"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_950.30_135766d29220",
-                "nota": "As distinções atribuídas no âmbito do processo de avaliação do desempenho individual de trabalhador devem ser consideradas em \\\"Administração de relações de trabalho/ Gestão de relações individuais de trabalho\\\" (250.20)"
+                "idNota": "nota_950.30_b19ed71e09cd",
+                "nota": "A  atribuição de prémios de desempenho no âmbito do processo de avaliação do desempenho individual de trabalhador devem ser consideradas em \\\"Administração de relações de trabalho/ Gestão de relações individuais de trabalho\\\" (250.20)"
             },
             {
-                "idNota": "nota_950.30_e746dfe28287",
+                "idNota": "nota_950.30_7dbd89940eec",
                 "nota": "As distinções atribuídas a representantes de outros Estados ou entidades externas, enquanto atos de política externa, devem ser consideradas em \\\"Execução da política externa/ Projetos de execução da política externa\\\" (200.30)"
             },
             {
-                "idNota": "nota_950.30_60a5e139aa92",
+                "idNota": "nota_950.30_99c9b9e4eb02",
                 "nota": " O mesmo se aplica a distinções atribuídas por outros países ou organismos internacionais a entidades públicas nacionais ou representantes do Estado português"
             },
             {
-                "idNota": "nota_950.30_c0f86e399926",
+                "idNota": "nota_950.30_80ddf32bac22",
                 "nota": "A organização de cerimónias deve ser considerada em \\\"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\\\" (900.10)"
             }
         ]
@@ -1934,64 +1935,72 @@
         "codigo": "950.30.001",
         "nivel": 3,
         "estado": "A",
-        "titulo": "Reconhecimento por mérito e serviços prestados",
-        "descricao": "Agraciamento a pessoas ou entidades que, por atividades, serviços ou atos inovadores, relevantes, notórios, perenes ou excecionais, de qualquer natureza, tenham contribuído para o bem da comunidade para o desenvolvimento ou divulgação de uma determinada área científica, do conhecimento, geográfica ou de atuação. Inicia com a identificação ou apresentação da proposta e termina com a atribuição do elemento distintivo. Inclui, quando necessário, a elaboração da nota biográfica, avaliação do mérito, aprovação da distinção e a informação ao agraciado, pode ainda incluir a publicitação.",
+        "titulo": "Reconhecimento por distinção, mérito e serviços prestados",
+        "descricao": "Agraciamento a pessoas ou entidades que, por atividades, serviços ou atos inovadores, relevantes, notórios, perenes ou excecionais, de qualquer natureza, tenham contribuído para o bem da comunidade, para o desenvolvimento ou divulgação de uma determinada área científica, do conhecimento, geográfica ou de atuação. Inicia com a identificação ou apresentação da proposta e termina com a atribuição do elemento distintivo. Inclui, quando necessário, a elaboração da nota biográfica, avaliação do mérito, aprovação da distinção e a informação ao agraciado, pode ainda incluir a publicitação.",
         "notasAp": [
             {
-                "idNota": "nota_950.30.001_860b90260688",
-                "nota": "Atribuição de medalhas de serviços distintos e de mérito de segurança pública"
+                "idNota": "nota_950.30.001_eec9f51ab21a",
+                "nota": "Atribuição de medalhas de mérito "
             },
             {
-                "idNota": "nota_950.30.001_462f1c327f1d",
-                "nota": "Atribuição de medalha comemorativa"
+                "idNota": "nota_950.30.001_6f38d3cb8032",
+                "nota": "Atribuição de medalhas de serviços distintos"
             },
             {
-                "idNota": "nota_950.30.001_5bd73e62e39e",
+                "idNota": "nota_950.30.001_5f6df10f8d96",
+                "nota": " Atribuição de medalha comemorativa"
+            },
+            {
+                "idNota": "nota_950.30.001_534fb7d6e7ef",
                 "nota": "Atribuição de medalha"
             },
             {
-                "idNota": "nota_950.30.001_6ee2be8cf1b4",
+                "idNota": "nota_950.30.001_2c281bb7a47e",
                 "nota": "Atribuição de placa de mérito"
             },
             {
-                "idNota": "nota_950.30.001_5af2f99ca824",
-                "nota": "Atribuição de público louvor"
+                "idNota": "nota_950.30.001_aaa24699139d",
+                "nota": "Atribuição ou publicitação de louvor"
             },
             {
-                "idNota": "nota_950.30.001_53a597d341bb",
+                "idNota": "nota_950.30.001_ed92e2fec997",
                 "nota": "Atribuição de medalhas de assiduidade"
             }
         ],
         "exemplosNotasAp": [
             {
-                "idExemplo": "exemplo_950.30.001_e8ca1b7551e4",
+                "idExemplo": "exemplo_950.30.001_57338ff110c4",
                 "exemplo": "Atribuição de medalha da cidade"
             },
             {
-                "idExemplo": "exemplo_950.30.001_1faae94456b7",
+                "idExemplo": "exemplo_950.30.001_bf6d694cbd10",
                 "exemplo": "Atribuição de medalhas militares"
             },
             {
-                "idExemplo": "exemplo_950.30.001_815b2320ca31",
+                "idExemplo": "exemplo_950.30.001_9b936ef555d9",
                 "exemplo": "Atribuição de título de honorífico"
             },
             {
-                "idExemplo": "exemplo_950.30.001_0e086386bc0a",
+                "idExemplo": "exemplo_950.30.001_326a0d6ddfc5",
                 "exemplo": "Oferta da chave da cidade"
+            },
+            {
+                "idExemplo": "exemplo_950.30.001_dbae33d605d9",
+                "exemplo": "Atribuição de título de Professor Emérito"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_950.30.001_c2603f3c5b9c",
+                "idNota": "nota_950.30.001_799c7c3ae40a",
                 "nota": "Os pagamentos devidos aos agraciados das ordens devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_950.30.001_3946555820e8",
+                "idNota": "nota_950.30.001_a59d3ca4c122",
                 "nota": "As cerimónias de entrega das distinções devem ser consideradas em 900.20.601 – Organização de cerimónias protocolares"
             },
             {
-                "idNota": "nota_950.30.001_3402fed98f1b",
-                "nota": ".A aquisição de insígnias, colares,  cunhagem de medalhas ou placas e de diplomas deve ser considerada em 350.30."
+                "idNota": "nota_950.30.001_44886604f677",
+                "nota": ".A aquisição de insígnias, colares, cunhagem de medalhas ou placas e de diplomas deve ser considerada em 350.30."
             }
         ],
         "dimensao": "Reduzida",
@@ -2006,7 +2015,8 @@
             "IPDJ",
             "GEPAC",
             "INFARMED",
-            "CP"
+            "CP",
+            "IES"
         ],
         "participantes": [
             {

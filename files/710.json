@@ -7,29 +7,29 @@
         "descricao": "Relativo à prestação de serviços nos domínios da higiene e salubridade públicas, assegurando uma adequada qualidade ambiental às populações. Inclui as atividades de limpeza de espaços públicos, recolha e tratamento de resíduos sólidos e efluentes, recolha de animais da via pública, combate às pragas, e os serviços prestados no âmbito do movimento mortuário.",
         "notasAp": [
             {
-                "idNota": "nota_710_4a89520d3e57",
+                "idNota": "nota_710_9c33157ef234",
                 "nota": "Situações em que estes serviços sejam efetivamente prestados por entidades públicas"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_710_294e7525b84f",
+                "idNota": "nota_710_6556a2a94a36",
                 "nota": "A contratualização e controlo da concessão de serviços públicos, bem como a constituição de parcerias público-privadas para a prestação dos serviços, devem ser consideradas em \\\"Administração de direitos, bens e serviços/ Concessão, delegação e parceria público-privada\\\" (300.20)"
             },
             {
-                "idNota": "nota_710_ea3cace6e49f",
+                "idNota": "nota_710_7bf8a99e18d8",
                 "nota": "A contratualização e gestão de contratos de fornecimento de água deve ser considerada em \\\"Administração de direitos, bens e serviços/ Aquisição, venda, abate ou permuta\\\" (300.10)."
             },
             {
-                "idNota": "nota_710_da6a3b8cc157",
+                "idNota": "nota_710_ca20d0d75ad2",
                 "nota": "As ações de promoção da higiene e salubridade públicas que se revistam da forma de campanhas de sensibilização e educação sanitária devem ser consideradas em \\\"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\\\" (900.10)"
             },
             {
-                "idNota": "nota_710_74b34e96c07d",
+                "idNota": "nota_710_2fa9e09703fd",
                 "nota": "Os estudos e ações de monitorização de parâmetros de qualidade ambiental (níveis de ruído, de poluição) devem ser considerados em \\\"Prestação de serviços técnicos e científicos, investigação e desenvolvimento\\\" (800)"
             },
             {
-                "idNota": "nota_710_9eab11eae7c5",
+                "idNota": "nota_710_8679eab42566",
                 "nota": "A inspeção higiénico-sanitária ou outras formas de verificação do cumprimento de leis e regulamentos deve ser considerada em \\\"Supervisão, controlo e responsabilização/ Inspeção, auditoria, fiscalização e monitorização de conformidade à norma\\\" (500.10)"
             }
         ]
@@ -42,29 +42,29 @@
         "descricao": "Compreende as atividades de limpeza dos espaços públicos e de recolha e tratamento de resíduos sólidos e efluentes. Compreende, igualmente, o controlo de pragas, a recolha, tratamento e encaminhamento de animais abandonados ou errantes na via pública e outras ações de profilaxia sanitária.",
         "notasAp": [
             {
-                "idNota": "nota_710.10_5b2a22e762a0",
+                "idNota": "nota_710.10_7b7f1cce718b",
                 "nota": "Qualquer tipo de resíduos sólidos, líquidos ou gasosos - urbanos, industriais, hospitalares, agrícolas, florestais ou outros."
             },
             {
-                "idNota": "nota_710.10_83d06e89e1e0",
+                "idNota": "nota_710.10_fdcfa9e83d95",
                 "nota": "Inclui a prestação de serviços de limpeza de equipamentos sanitários privados (exemplo, limpeza de fossas)"
             },
             {
-                "idNota": "nota_710.10_8149b5983239",
+                "idNota": "nota_710.10_e4266b0bf59d",
                 "nota": "O controlo de pragas pode assumir a forma de desratizações, controlo de reprodução de espécies ou outras"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_710.10_4efa566160a3",
+                "idNota": "nota_710.10_f722c29732ae",
                 "nota": "A construção, monitorização do estado de conservação e realização de obras de manutenção, tanto em infraestruturas como em espaços públicos, bem como a higiene e limpeza regular de instalações públicas, devem ser consideradas em \\\"Administração de direitos, bens e serviços\\\" (300)"
             },
             {
-                "idNota": "nota_710.10_6eddae359d0d",
+                "idNota": "nota_710.10_8040f409c9a1",
                 "nota": "O processamento de análises laboratoriais deve ser considerado em \\\"Prestação de serviços técnicos e científicos, investigação e desenvolvimento/ Execução de serviços científicos e técnicos\\\" (800.10)"
             },
             {
-                "idNota": "nota_710.10_fb941856dc57",
+                "idNota": "nota_710.10_e6863002325a",
                 "nota": "Os atos médico-veterinários devem ser considerados em \\\"Prestação de cuidados de saúde/ Serviços clínicos\\\" (700.20)"
             }
         ]
@@ -77,45 +77,45 @@
         "descricao": "Prestação de serviços no âmbito da regular manutenção e conservação da limpeza no espaço público. Inicia na sequência do planeamento e calendarização definidos ou por pedido de particulares e termina com o comprovativo dos trabalhos executados ou com a resposta aos requerentes. Inclui operacionalização e registo de ocorrências.",
         "notasAp": [
             {
-                "idNota": "nota_710.10.001_2eba90675443",
+                "idNota": "nota_710.10.001_afad08a61cda",
                 "nota": "Despejo de papeleiras"
             },
             {
-                "idNota": "nota_710.10.001_f7e51491684a",
+                "idNota": "nota_710.10.001_b6a221c72435",
                 "nota": "Eliminação de ervas de passeios públicos"
             },
             {
-                "idNota": "nota_710.10.001_107d7166dcd4",
+                "idNota": "nota_710.10.001_f88f30aeb0c7",
                 "nota": "Lavagem e varredura de arruamentos e espaços públicos"
             },
             {
-                "idNota": "nota_710.10.001_4b10b6380bf8",
+                "idNota": "nota_710.10.001_27e660cd41c9",
                 "nota": "Limpeza de dejetos caninos"
             },
             {
-                "idNota": "nota_710.10.001_25723c345cb5",
+                "idNota": "nota_710.10.001_1594a2f94c35",
                 "nota": "Limpeza de praias"
             },
             {
-                "idNota": "nota_710.10.001_d556ba94a7ff",
+                "idNota": "nota_710.10.001_313c15d5326b",
                 "nota": "Limpeza de sargetas e sumidouros"
             },
             {
-                "idNota": "nota_710.10.001_bc4358807d98",
+                "idNota": "nota_710.10.001_d0db11648a06",
                 "nota": "Limpeza de terrenos"
             },
             {
-                "idNota": "nota_710.10.001_6007b135c809",
+                "idNota": "nota_710.10.001_c4e34669d00d",
                 "nota": "Limpeza de cemitérios, talhões, ossários, criptas e monumentos de militares portugueses sediados em território nacional e no estrangeiro"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_710.10.001_b0c9c42dedb6",
+                "idNota": "nota_710.10.001_f2668c74cdc3",
                 "nota": "A recolha de resíduos deve ser considerada em 710.10.002 – Recolha de resíduos"
             },
             {
-                "idNota": "nota_710.10.001_23db067e213d",
+                "idNota": "nota_710.10.001_269f7a995c8d",
                 "nota": "A desobstrução de equipamentos sanitários privados como as fossas sépticas deve ser considerada em 710.10.003 – Recolha e drenagem de águas residuais"
             }
         ],
@@ -193,57 +193,57 @@
         "descricao": "Prestação dos serviços de recolha de todo o tipo de resíduos. Inicia na sequência do planeamento e calendarização definidos ou por pedido de particulares ou ainda por pedido de entidades públicas produtoras de resíduos e termina com o comprovativo de trabalhos realizados ou com a resposta aos requerentes. Inclui recolha, transporte e depósito dos resíduos em lugar apropriado e registo de ocorrências.",
         "notasAp": [
             {
-                "idNota": "nota_710.10.002_46ef660d9446",
+                "idNota": "nota_710.10.002_157f86b36caf",
                 "nota": "Recolha de monstros"
             },
             {
-                "idNota": "nota_710.10.002_4cf1d5acbf61",
+                "idNota": "nota_710.10.002_d403f1513883",
                 "nota": "Recolha de resíduos animais"
             },
             {
-                "idNota": "nota_710.10.002_ce59d71457b2",
+                "idNota": "nota_710.10.002_2bfdca0c67eb",
                 "nota": "Recolha de cadávers de animais"
             },
             {
-                "idNota": "nota_710.10.002_2d7abd4c4146",
+                "idNota": "nota_710.10.002_672f1256b6fc",
                 "nota": "Recolha de resíduos de obras"
             },
             {
-                "idNota": "nota_710.10.002_afd5f330f281",
+                "idNota": "nota_710.10.002_76432a7e9a2c",
                 "nota": "Recolha de resíduos sólidos urbanos (RSU)"
             },
             {
-                "idNota": "nota_710.10.002_05720160d8fe",
+                "idNota": "nota_710.10.002_b5306894497d",
                 "nota": "Recolha de resíduos tóxicos"
             },
             {
-                "idNota": "nota_710.10.002_623784389081",
+                "idNota": "nota_710.10.002_6b4218c9c7b2",
                 "nota": "Recolha de resíduos verdes"
             },
             {
-                "idNota": "nota_710.10.002_afb2c49649fa",
+                "idNota": "nota_710.10.002_8e9b9018a994",
                 "nota": "Recolha seletiva"
             },
             {
-                "idNota": "nota_710.10.002_cd847eb33c55",
+                "idNota": "nota_710.10.002_88efbef11d32",
                 "nota": "Remoção de cortes de jardim"
             },
             {
-                "idNota": "nota_710.10.002_8d01359129e5",
+                "idNota": "nota_710.10.002_e75fcc3d44c0",
                 "nota": "Recolha de equipamentos elétricos e eletrónicos"
             },
             {
-                "idNota": "nota_710.10.002_ec8f76cdcb0f",
+                "idNota": "nota_710.10.002_43db00173995",
                 "nota": "Transporte de resíduos efetuados pelas empresas transportadoras que procedam à recolha ou ao transporte de resíduos a título profissional"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_710.10.002_30f941d476b2",
+                "idNota": "nota_710.10.002_d2f0641adf71",
                 "nota": "A recolha e manutenção de papeleiras e dispensadores para dejetos caninos devem ser considerados em 710.10.001 – Limpeza de espaços públicos"
             },
             {
-                "idNota": "nota_710.10.002_69161d52afb7",
+                "idNota": "nota_710.10.002_d694b7ed016e",
                 "nota": "A triagem, reciclagem, valorização ou eliminação de resíduos devem ser consideradas em 710.10.004 – Tratamento de resíduos"
             }
         ],
@@ -470,49 +470,49 @@
         "descricao": "Operações de recolha de águas residuais em estações elevatórias ou fossas sépticas e transporte para destino adequado. Inicia na sequência do planeamento ou a pedido de particulares e termina com o registo de operações ou com a resposta aos requerentes. Inclui operacionalização e comprovativo de pagamento, quando devido.",
         "notasAp": [
             {
-                "idNota": "nota_710.10.003_99561a931b6e",
+                "idNota": "nota_710.10.003_d73f88654503",
                 "nota": "Desobstrução de fossas séticas privadas"
             },
             {
-                "idNota": "nota_710.10.003_4b0d582c91aa",
+                "idNota": "nota_710.10.003_7037f7a61dd7",
                 "nota": "Drenagem de águas residuais domésticas"
             },
             {
-                "idNota": "nota_710.10.003_4e01a70f34db",
+                "idNota": "nota_710.10.003_7901f36d8cbe",
                 "nota": "Drenagem de águas residuais pluviais"
             },
             {
-                "idNota": "nota_710.10.003_142d76c87880",
+                "idNota": "nota_710.10.003_f3278b91f79c",
                 "nota": "Drenagem de águas residuais unitárias"
             },
             {
-                "idNota": "nota_710.10.003_3c24f5811c5f",
+                "idNota": "nota_710.10.003_10bd543f7a7b",
                 "nota": "Drenagem de efluentes agrícolas"
             },
             {
-                "idNota": "nota_710.10.003_71c0f1d87f77",
+                "idNota": "nota_710.10.003_b338745452db",
                 "nota": "Drenagem de efluentes industriais"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_710.10.003_dd3277d9307f",
+                "idNota": "nota_710.10.003_d9c298e4a133",
                 "nota": "A limpeza, desobstrução e reparação de coletores, ramais de ligação e fossas sépticas públicas devem ser consideradas em 300.40.503 – Conservação e valorização de edifícios, infraestruturas e equipamentos"
             },
             {
-                "idNota": "nota_710.10.003_23e172827e44",
+                "idNota": "nota_710.10.003_72b5217e7a98",
                 "nota": "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_710.10.003_c404ce3a65ca",
+                "idNota": "nota_710.10.003_7e6eb78b1833",
                 "nota": "O tratamento de efluentes e lamas deve ser considerado em 710.10.005 – Tratamento e rejeição de águas residuais"
             },
             {
-                "idNota": "nota_710.10.003_497504227d92",
+                "idNota": "nota_710.10.003_aa5b3b8bdef5",
                 "nota": "A recolha de dados sobre o saneamento de águas residuais deve ser considerada em 800.10.303 – Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais"
             },
             {
-                "idNota": "nota_710.10.003_415e8e9a0475",
+                "idNota": "nota_710.10.003_e5436c8c2f77",
                 "nota": "A aquisição de serviços deve ser considerada em 300.10.005 Transação e transmissão de bens móveis não culturais e contratação de serviços"
             }
         ],
@@ -693,37 +693,37 @@
         "descricao": "Execução da triagem, reciclagem, valorização ou eliminação por incineração, co-incineração, aterro ou outro meio adequado de todo o tipo de resíduos. Inicia com a receção de resíduos e termina com o relato das operações. Inclui registo de ocorrências, operacionalização, cálculo e comprovativo de pagamento, quando devido. ",
         "notasAp": [
             {
-                "idNota": "nota_710.10.004_45e44d9db7c3",
+                "idNota": "nota_710.10.004_14a608ece8a8",
                 "nota": "Tratamento de resíduos animais"
             },
             {
-                "idNota": "nota_710.10.004_712a786603d2",
+                "idNota": "nota_710.10.004_b24489527dc5",
                 "nota": "Tratamento de resíduos hospitalares"
             },
             {
-                "idNota": "nota_710.10.004_37fd7482932e",
+                "idNota": "nota_710.10.004_d1e3763cf8b8",
                 "nota": "Tratamento de resíduos indiferenciados"
             },
             {
-                "idNota": "nota_710.10.004_699fc50bfcf9",
+                "idNota": "nota_710.10.004_b2b578c6a43c",
                 "nota": "Tratamento de resíduos industriais"
             },
             {
-                "idNota": "nota_710.10.004_02abea6b5017",
+                "idNota": "nota_710.10.004_d4810be9a980",
                 "nota": "Tratamento de resíduos seletivos"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_710.10.004_a3450dcca828",
+                "idNota": "nota_710.10.004_10a02965f331",
                 "nota": "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_710.10.004_f18e1f7cbbe0",
+                "idNota": "nota_710.10.004_dc5a01d6bad0",
                 "nota": "A remoção indiferenciada e seletiva de resíduos deve ser considerada em 710.10.002 – Recolha de resíduos"
             },
             {
-                "idNota": "nota_710.10.004_3d5bc2b6a151",
+                "idNota": "nota_710.10.004_f57af9b30014",
                 "nota": "O tratamento de lamas deve ser considerado em 710.10.005 – Tratamento e rejeição de águas residuais"
             }
         ],
@@ -819,37 +819,37 @@
         "descricao": "Correção das características físicas, químicas e microbiológicas de águas residuais em função das características do meio recetor. Inicia com a receção das águas residuais e termina com a sua reutilização ou rejeição em meio recetor. Inclui operações de valorização ou rejeição das lamas resultantes. ",
         "notasAp": [
             {
-                "idNota": "nota_710.10.005_c2e9d1ad61dc",
+                "idNota": "nota_710.10.005_0a1672b0015f",
                 "nota": "Tratamento de águas residuais domésticas"
             },
             {
-                "idNota": "nota_710.10.005_ae427af33d2a",
+                "idNota": "nota_710.10.005_f6e9f6d522f8",
                 "nota": "Tratamento de águas residuais pluviais"
             },
             {
-                "idNota": "nota_710.10.005_10cdaa4ad546",
+                "idNota": "nota_710.10.005_f9080b1ba460",
                 "nota": "Tratamento de águas residuais unitárias"
             },
             {
-                "idNota": "nota_710.10.005_72e8e6068727",
+                "idNota": "nota_710.10.005_33ba677a2acc",
                 "nota": "Tratamento de efluentes agrícolas"
             },
             {
-                "idNota": "nota_710.10.005_244584caf012",
+                "idNota": "nota_710.10.005_0e7cea7a42c4",
                 "nota": "Tratamento de efluentes industriais"
             },
             {
-                "idNota": "nota_710.10.005_1e2d84c00543",
+                "idNota": "nota_710.10.005_8da3d16b30fa",
                 "nota": "Tratamento de lamas"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_710.10.005_a7f935e34a31",
+                "idNota": "nota_710.10.005_44a9d2b29909",
                 "nota": "A recolha e o transporte de efluentes e lamas provenientes de fossas sépticas, coletores e ramais de ligação devem ser considerados em 710.10.003 – Recolha e drenagem de águas residuais"
             },
             {
-                "idNota": "nota_710.10.005_f2ad233c1c25",
+                "idNota": "nota_710.10.005_29bd163f0dbd",
                 "nota": "A monitorização do tratamento de águas residuais deve ser considerada em 800.10.303 – Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais"
             }
         ],
@@ -944,41 +944,41 @@
         "descricao": "Captura ou entrega em centros de recolha de animais perigosos ou vadios, errantes ou com donos, de vias e espaços públicos ou de espaços privados e posterior cedência por adoção ou restituição ao dono. Inicia na sequência de planeamento, a pedido de particulares ou de denúncia e termina com a entrega do animal. Inclui registo de ocorrências, comunicação às entidades competentes, quarentena do animal, se aplicável. ",
         "notasAp": [
             {
-                "idNota": "nota_710.10.300_95bb9f7e361f",
+                "idNota": "nota_710.10.300_a7900516c3b3",
                 "nota": "Captura de animais domésticos silvestres e assilvestrados"
             },
             {
-                "idNota": "nota_710.10.300_0d25e57a388e",
+                "idNota": "nota_710.10.300_ebbf69853ef2",
                 "nota": "Captura de animais em espaços particulares a pedido de interessados"
             },
             {
-                "idNota": "nota_710.10.300_076d5d921483",
+                "idNota": "nota_710.10.300_9b9692caaf20",
                 "nota": "Captura de cães e gatos vadios"
             },
             {
-                "idNota": "nota_710.10.300_67fad055aba3",
+                "idNota": "nota_710.10.300_da2ac488c76c",
                 "nota": "Entrega de animais capturados em canil ou gatil municipal"
             },
             {
-                "idNota": "nota_710.10.300_a5fb00b53c11",
+                "idNota": "nota_710.10.300_73d3181b5513",
                 "nota": "Recolha de animais no âmbito da higiene pública e veterinária"
             },
             {
-                "idNota": "nota_710.10.300_dfd4886cd74a",
+                "idNota": "nota_710.10.300_bacef062760c",
                 "nota": "Recolha de animais que tenham causado ofensa ao corpo ou à saúde de uma pessoa"
             },
             {
-                "idNota": "nota_710.10.300_dc5b11b1fde5",
+                "idNota": "nota_710.10.300_a5659dcc3530",
                 "nota": "Recolha de animais perigosos"
             },
             {
-                "idNota": "nota_710.10.300_a949dfd9b33d",
+                "idNota": "nota_710.10.300_2be48a2e5252",
                 "nota": "Adoção de animais"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_710.10.300_f6b074ee93dc",
+                "idNota": "nota_710.10.300_bbc317524b3c",
                 "nota": "A recolha de animais portadores de zoonoses ou doença terminal deve ser considerada em 700.20.701 – Sequestro sanitário de animais"
             }
         ],
@@ -1074,45 +1074,45 @@
         "descricao": "Intervenção preventiva ou reativa a agentes patogénicos ou surtos de determinadas espécies animais ou vegetais, em meios urbanos ou rurais, nocivas ao bem-estar das populações, do património e do meio ambiente. Inicia com a prospeção ou deteção da presença dos vetores nocivos, por iniciativa própria ou a pedido de entidades públicas ou privadas, e termina com a elaboração do relatório dos trabalhos realizados. Inclui planeamento e calendarização de ações, definição e preparação de meios adequados ao tipo de praga biológica, doença ou infestante, operacionalização, cálculo do valor da taxa, quando devido. ",
         "notasAp": [
             {
-                "idNota": "nota_710.10.600_1ee0cedb07d3",
+                "idNota": "nota_710.10.600_bcccb8816cfb",
                 "nota": "Controlo de infestantes aquáticas"
             },
             {
-                "idNota": "nota_710.10.600_6592e5ea9fca",
+                "idNota": "nota_710.10.600_d01dab3032be",
                 "nota": "Controlo de plantas infestantes em solo agrícola"
             },
             {
-                "idNota": "nota_710.10.600_b0aac0c8ce09",
+                "idNota": "nota_710.10.600_560f66eb079c",
                 "nota": "Controlo de população de pombos em meio urbano"
             },
             {
-                "idNota": "nota_710.10.600_d851bdb21697",
+                "idNota": "nota_710.10.600_73faf4b6b83c",
                 "nota": "Controlo de população de ratos e baratas"
             },
             {
-                "idNota": "nota_710.10.600_d4a6131ba028",
+                "idNota": "nota_710.10.600_9adc9b392327",
                 "nota": "Controlo de pragas em redes de esgotos"
             },
             {
-                "idNota": "nota_710.10.600_60e3e072d3ab",
+                "idNota": "nota_710.10.600_7334f302c61e",
                 "nota": "Controlo sazonal de espécies nocivas na via e espaços públicos"
             },
             {
-                "idNota": "nota_710.10.600_e17f655d99bc",
+                "idNota": "nota_710.10.600_799eaa12770e",
                 "nota": "Controlo de doenças de plantas"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_710.10.600_24db762fa5d1",
+                "idNota": "nota_710.10.600_7633ec20637e",
                 "nota": "Os pagamentos devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_710.10.600_050df446f839",
+                "idNota": "nota_710.10.600_6876c3e0a422",
                 "nota": "As ações de manutenção e desinfestação em instalações e equipamentos públicos deverão ser consideradas em 300.40.505 – Higienização de instalações e equipamentos públicos"
             },
             {
-                "idNota": "nota_710.10.600_7db9ac6aba9b",
+                "idNota": "nota_710.10.600_a45f8316117e",
                 "nota": "A monitorização de pragas e infestantes deve ser considerada em 800.10.607 - Realização de ações de observação em saúde e vigilância epidemiológica"
             }
         ],
@@ -1320,33 +1320,33 @@
         "descricao": "Compreende a prestação de serviços relacionados com a gestão de restos mortais e de outras atividades dos cemitérios, centros funerários e outros espaços adequados.",
         "notasAp": [
             {
-                "idNota": "nota_710.20_33d5911b0b39",
+                "idNota": "nota_710.20_860dbe574531",
                 "nota": "Trasladações"
             },
             {
-                "idNota": "nota_710.20_f52f79295022",
+                "idNota": "nota_710.20_909e80024bac",
                 "nota": "Inumações"
             },
             {
-                "idNota": "nota_710.20_5d51b268b205",
+                "idNota": "nota_710.20_0964f890ccc4",
                 "nota": "Exumações"
             },
             {
-                "idNota": "nota_710.20_2975f7839caf",
+                "idNota": "nota_710.20_d7cd952cd7ce",
                 "nota": "Cremações"
             },
             {
-                "idNota": "nota_710.20_bf081065ccef",
+                "idNota": "nota_710.20_1a3b99a7b361",
                 "nota": "Serviços prestados no quadro da gestão de restos mortais"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_710.20_35875b6b71e4",
+                "idNota": "nota_710.20_8f0a0d6d9994",
                 "nota": "A concessão de terrenos em cemitérios deve ser considerada em “Administração de direitos, bens e serviços/ Concessão e parceria público-privada” (300.20)"
             },
             {
-                "idNota": "nota_710.20_7513ef1fce5c",
+                "idNota": "nota_710.20_9ba299e896c3",
                 "nota": "O licenciamento deve ser considerado em “Reconhecimentos e permissões/ Licenciamentos, certificações e outras autorizações” (450.10)"
             }
         ]
@@ -1359,33 +1359,33 @@
         "descricao": "Colocação de cadáver em sepultura, jazigo ou local de consumpção aeróbia ou redução de cadáver ou ossadas a cinzas. Inicia com o pedido e termina com a inumação ou com a entrega de cinzas. Inclui identificação de cadáver, ossadas, cinzas e de óbito, análise do pedido, cálculo do valor da taxa, comprovativo de pagamento e cremação, quando devido. ",
         "notasAp": [
             {
-                "idNota": "nota_710.20.001_1e3528f081ac",
+                "idNota": "nota_710.20.001_96a2c80ee9b9",
                 "nota": "Cremação de cadáveres e ossadas"
             },
             {
-                "idNota": "nota_710.20.001_b3a7ac70498d",
+                "idNota": "nota_710.20.001_a39764642c6c",
                 "nota": "Cremação de fetos mortos e peças anatómicas"
             },
             {
-                "idNota": "nota_710.20.001_3d1834905403",
+                "idNota": "nota_710.20.001_02b4f66a8dde",
                 "nota": "Inumação de cinzas"
             },
             {
-                "idNota": "nota_710.20.001_77807017b1f5",
+                "idNota": "nota_710.20.001_3a6f96573d5a",
                 "nota": "Inumação em local de consumpção aeróbia"
             },
             {
-                "idNota": "nota_710.20.001_007eb77d3d4d",
+                "idNota": "nota_710.20.001_0f4197dd9e3e",
                 "nota": "Inumação em sepultura ou jazigo"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_710.20.001_23db1d218d57",
+                "idNota": "nota_710.20.001_d33031756314",
                 "nota": "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_710.20.001_94615aa2a539",
+                "idNota": "nota_710.20.001_3f1f6765eaa5",
                 "nota": "A entrega de cinzas inumadas deve ser considerada em 710.20.002 – Entrega de cinzas inumadas"
             }
         ],
@@ -1523,7 +1523,7 @@
         "descricao": "Saída de cinzas inumadas em qualquer construção funerária, salvo cendrário. Inicia com o pedido e termina com a entrega das cinzas. Inclui verificação dos elementos instrutórios e dos requisitos legais.",
         "notasEx": [
             {
-                "idNota": "nota_710.20.002_9f17525d6cbd",
+                "idNota": "nota_710.20.002_375602e76923",
                 "nota": "A entrega de cinzas imediatamente após cremação deve ser considerada em 710.20.001 – Inumação e cremação de restos mortais"
             }
         ],
@@ -1597,25 +1597,25 @@
         "descricao": "Reconhecimento da condição de abandono de restos mortais. Inicia com a verificação das condições de abandono e termina com o registo. Inclui elaboração e envio de notificação aos interessados e para publicitação e definição do destino a dar aos restos mortais, quando devido.",
         "notasAp": [
             {
-                "idNota": "nota_710.20.003_4735b2d7b70b",
+                "idNota": "nota_710.20.003_f56399b02258",
                 "nota": "Identificação de restos mortais em compartimentos municipais por falta de pagamento"
             },
             {
-                "idNota": "nota_710.20.003_9bbfea034e71",
+                "idNota": "nota_710.20.003_fe69a6439e65",
                 "nota": "Identificação de restos mortais em jazigos particulares e sepulturas perpétuas na sequência de prescrição ou renúncia da concessão"
             },
             {
-                "idNota": "nota_710.20.003_c0f89598b6b4",
+                "idNota": "nota_710.20.003_fd46db147fa2",
                 "nota": "Identificação de restos mortais em sepulturas temporárias cuja exumação não foi agendada"
             },
             {
-                "idNota": "nota_710.20.003_6aea813471a3",
+                "idNota": "nota_710.20.003_1bf725bc024f",
                 "nota": "Renúncia a direitos sobre restos mortais por parte dos interessados"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_710.20.003_d57eb6de24ad",
+                "idNota": "nota_710.20.003_57cb9ab882fb",
                 "nota": "Os pedidos de informação sobre localização de restos mortais devem ser considerados em 900.20.604 – Tratamento de informações e processamento de pedidos de informação"
             }
         ],
@@ -1693,33 +1693,33 @@
         "descricao": "Transferência da responsabilidade sobre os restos mortais a fim de se proceder à autópsia, inumação, cremação ou uso para investigação. Inicia com o aviso de óbito ou com o pedido de levantamento de cadáver e termina com a entrega dos restos mortais. Inclui verificação da legitimidade. ",
         "notasAp": [
             {
-                "idNota": "nota_710.20.004_5b7abdca9175",
+                "idNota": "nota_710.20.004_0f8a9508ba83",
                 "nota": "Entrega de restos mortais a agencias funerárias"
             },
             {
-                "idNota": "nota_710.20.004_af6c7689112c",
+                "idNota": "nota_710.20.004_3c5f06388406",
                 "nota": "Entrega de restos mortais a centros de investigação"
             },
             {
-                "idNota": "nota_710.20.004_1b4652390f75",
+                "idNota": "nota_710.20.004_0a451a54e8c0",
                 "nota": "Entrega de restos mortais para autópsia"
             },
             {
-                "idNota": "nota_710.20.004_19442053ba64",
+                "idNota": "nota_710.20.004_02318104c51c",
                 "nota": "Entrega de restos mortais para investigação forense"
             },
             {
-                "idNota": "nota_710.20.004_cdcc690924f6",
+                "idNota": "nota_710.20.004_3b9187f3d1e1",
                 "nota": "Reclamação de restos mortais"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_710.20.004_9f55d314c120",
+                "idNota": "nota_710.20.004_dd853164633b",
                 "nota": "A trasladação de deve ser considerada em 710.20.601 – Trasladação de cadáveres e ossadas"
             },
             {
-                "idNota": "nota_710.20.004_30d5cbf206b0",
+                "idNota": "nota_710.20.004_98f29f4d7c26",
                 "nota": "A autorização para realização de trabalhos de investigação que tenham por base o estudo de restos mortais, deve ser considerada em 450.10.073 – Licenciamento ou autorização de atividades de investigação científica e de desenvolvimento"
             }
         ],
@@ -1812,29 +1812,29 @@
         "descricao": "Abertura e recolha de restos mortais inumados em sepultura, local de consumpção aeróbia ou caixão de metal. Inicia com o pedido e termina com a exumação de restos mortais. Inclui verificação de elementos instrutórios, análise do pedido, verificação dos requisitos legais aplicáveis, cálculo do valor da taxa devida e comprovativo do seu pagamento, abertura de urna e recolha de restos mortais e relato de ocorrências. ",
         "notasAp": [
             {
-                "idNota": "nota_710.20.300_f926cd26c5fd",
+                "idNota": "nota_710.20.300_51afe64fe98c",
                 "nota": "Abertura de caixão de metal ou de madeira"
             },
             {
-                "idNota": "nota_710.20.300_fa6b7de598f3",
+                "idNota": "nota_710.20.300_92c5a1768cc5",
                 "nota": "Abertura de local de consumpção aeróbia"
             },
             {
-                "idNota": "nota_710.20.300_1a6a2555183b",
+                "idNota": "nota_710.20.300_cbd235b81d46",
                 "nota": "Abertura de sepultura"
             },
             {
-                "idNota": "nota_710.20.300_999b0d00c58b",
+                "idNota": "nota_710.20.300_782e1aaa310d",
                 "nota": "Exumação de cadáver por decisão judicial"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_710.20.300_733f0ea48310",
+                "idNota": "nota_710.20.300_b616a2efc236",
                 "nota": "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             },
             {
-                "idNota": "nota_710.20.300_803a1a481f54",
+                "idNota": "nota_710.20.300_9b1e3bb51c46",
                 "nota": "As escavações e tratamento científico das ossadas encontradas em contextos arqueológicos / antropológicos no âmbito de projetos de investigação arqueológica devem ser consideradas em 800.20.500 – Desenvolvimento experimental e aplicacional"
             }
         ],
@@ -1916,21 +1916,21 @@
         "descricao": "Guarda temporária de urnas com restos mortais em cemitérios e em outros espaços autorizados. Inicia com o pedido e termina com o levantamento da urna. Inclui verificação de elementos instrutórios, análise do pedido, cálculo da taxa devida e comprovativo do seu pagamento. ",
         "notasAp": [
             {
-                "idNota": "nota_710.20.600_f51f4cbb9ceb",
+                "idNota": "nota_710.20.600_104ce54756a0",
                 "nota": "Depósito de ossadas a aguardar cremação"
             },
             {
-                "idNota": "nota_710.20.600_98cdd38a8369",
+                "idNota": "nota_710.20.600_860032d43360",
                 "nota": "Depósito de urnas em câmara frigoríficas"
             },
             {
-                "idNota": "nota_710.20.600_740ced3ea0d6",
+                "idNota": "nota_710.20.600_363aace1716e",
                 "nota": "Depósito de urnas provenientes de construções funerárias em obras"
             }
         ],
         "notasEx": [
             {
-                "idNota": "nota_710.20.600_c25c3853a0f8",
+                "idNota": "nota_710.20.600_2937f8e17b29",
                 "nota": "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],
@@ -2019,7 +2019,7 @@
         "descricao": "Transporte de cadáver ou de ossadas para local diferente daquele em que se encontram a fim de serem de novo inumados, cremados ou colocados em ossário. Inicia com o pedido e termina com a entrega dos restos mortais. Inclui verificação dos elementos instrutórios, verificação dos requisitos legais, cálculo da taxa devida e comprovativo do seu pagamento. ",
         "notasEx": [
             {
-                "idNota": "nota_710.20.601_e00039f7bc12",
+                "idNota": "nota_710.20.601_a91f92f55730",
                 "nota": "Os pagamentos devem ser classificados em 350.30.001 – Cobrança de receitas e pagamento de despesas"
             }
         ],

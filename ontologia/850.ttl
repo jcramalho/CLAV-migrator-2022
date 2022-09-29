@@ -8,37 +8,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :lc1 ;
 	:descricao 'Relativo à execução de programas regulares ou ações eventuais de incentivo estratégico a pessoas, organismos ou projetos, no quadro das políticas de promoção e fomento de atividades económicas, culturais e sociais. Inclui a atribuição de incentivos diretos e indiretos, bem como o acompanhamento ou controlo de projetos apoiados. Relativo, ainda, à captação de apoios de entidades privadas e serviços públicos.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850_6b61420dea13
-:nota_850_6b61420dea13 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850_cae2460ca560
+:nota_850_cae2460ca560 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Usualmente os incentivos revestem a forma de apoios financeiros, mas tal não é imperativo".
 
-:c850 :temNotaAplicacao :nota_850_6b61420dea13 .
+:c850 :temNotaAplicacao :nota_850_cae2460ca560 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850_aa6dea0ee326
-:nota_850_aa6dea0ee326 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850_4b90da015749
+:nota_850_4b90da015749 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Aplicável às entidades que efetuam a gestão de fundos ou programas de incentivo, bem como às entidades beneficiárias e/ou destinatárias daqueles programas e, ainda, às entidades que participam apenas na apreciação das candidaturas a apoios".
 
-:c850 :temNotaAplicacao :nota_850_aa6dea0ee326 .
+:c850 :temNotaAplicacao :nota_850_4b90da015749 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850_43aed9d0f2f5
-:nota_850_43aed9d0f2f5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850_73f018b04040
+:nota_850_73f018b04040 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A concessão de apoios de caráter social (prestações sociais, rendimento social de inserção, bolsa de estudo, etc.) dever ser considerada em \"Prestação de serviços de proteção e inclusão social/Atribuição de prestações sociais e auxílios económicos\" (650.10)".
 
-:c850 :temNotaExclusao :nota_850_43aed9d0f2f5 .
+:c850 :temNotaExclusao :nota_850_73f018b04040 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850_a3d71ccd2681
-:nota_850_a3d71ccd2681 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850_04cf1e0fcd9c
+:nota_850_04cf1e0fcd9c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A contratualização da concessão de indemnizações compensatórias a entidades que prestam serviços de interesse geral deve ser considerada em \"Administração de direitos, bens e serviços\" (300)".
 
-:c850 :temNotaExclusao :nota_850_a3d71ccd2681 .
+:c850 :temNotaExclusao :nota_850_04cf1e0fcd9c .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c850.10
@@ -50,77 +50,77 @@
 	:pertenceLC :lc1 ;
 	:temPai :c850 ;
 	:descricao 'Compreende as atividades relacionadas com a gestão e acesso aos programas que disponibilizam apoio financeiro ou outras ajudas diretas às entidades beneficiárias, destinatárias ou elegíveis em cada medida de apoio, bem como as atividades de acompanhamento e controlo de projetos apoiados. Compreende, igualmente, as ações que revestem a forma de apoios diretos eventuais não submetidos a concurso, bem como de atribuição de prémios com ou sem expressão financeira, sujeitos ou não a concurso, instituídos por entidades nacionais, regionais ou locais, públicas ou privadas. Compreende, ainda, as atividades de captação de mecenas e gestão de apoios mecenáticos, bem como o processamento de pedidos de patrocínio.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_7ba42f23a198
-:nota_850.10_7ba42f23a198 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_366e0e937657
+:nota_850.10_366e0e937657 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "As entidades que administram fundos comunitários ou gerem programas de apoio deverão utilizar esta classe para os processos de gestão de cada concurso, incluindo a constituição de júris e respetivos trabalhos, bem como para todos os procedimentos de relacionamento com as entidades beneficiárias/destinatárias, no que se inclui a receção de candidaturas, a celebração de acordos/contratos de apoio, o acompanhamento e a avaliação dos projetos apoiados".
 
-:c850.10 :temNotaAplicacao :nota_850.10_7ba42f23a198 .
+:c850.10 :temNotaAplicacao :nota_850.10_366e0e937657 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_c96a1db0f79a
-:nota_850.10_c96a1db0f79a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_79e3a655869d
+:nota_850.10_79e3a655869d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "As entidades posicionadas para receber os apoios deverão utilizar esta classe para a gestão da respetiva candidatura, ou seja, para a documentação necessária ao relacionamento com as entidades que concedem financiamentos ou ajudas diretas (apresentação de candidatura, relatórios da execução material e financeira, avaliação, encerramento de contas), podendo imputar a restante documentação técnica/administrativa à função sobre a qual o projeto incide (melhoramento de infraestruturas, desenvolvimento de sistemas de informação, organização de eventos, investigação científica, etc.)".
 
-:c850.10 :temNotaAplicacao :nota_850.10_c96a1db0f79a .
+:c850.10 :temNotaAplicacao :nota_850.10_79e3a655869d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_1c908577f99f
-:nota_850.10_1c908577f99f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_d2b70f700a22
+:nota_850.10_d2b70f700a22 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Quando haja lugar à apresentação de candidaturas a programas de incentivo geridos por entidades da União Europeia, as mesmas devem ser aqui consideradas".
 
-:c850.10 :temNotaAplicacao :nota_850.10_1c908577f99f .
+:c850.10 :temNotaAplicacao :nota_850.10_d2b70f700a22 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_f096973c7c44
-:nota_850.10_f096973c7c44 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_9686d57023d4
+:nota_850.10_9686d57023d4 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os processos de definição e de avaliação de programas de apoio devem ser considerados em \"Planeamento e gestão estratégica/ Definição e avaliação de políticas\" (150.10)".
 
-:c850.10 :temNotaExclusao :nota_850.10_f096973c7c44 .
+:c850.10 :temNotaExclusao :nota_850.10_9686d57023d4 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_8719f89a9374
-:nota_850.10_8719f89a9374 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_f7446f143ede
+:nota_850.10_f7446f143ede rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A formalização de regulamentos deve ser considerada em \"Ordenamento jurídico e normativo/ Elaboração de diplomas jurídico-normativos e de normas técnicas\" (100.10)".
 
-:c850.10 :temNotaExclusao :nota_850.10_8719f89a9374 .
+:c850.10 :temNotaExclusao :nota_850.10_f7446f143ede .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_9f8277d75b54
-:nota_850.10_9f8277d75b54 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_4b951876200c
+:nota_850.10_4b951876200c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os processos de certificação de despesas devem ser considerados em \"Administração financeira/ Execução orçamental\" (350.10)".
 
-:c850.10 :temNotaExclusao :nota_850.10_9f8277d75b54 .
+:c850.10 :temNotaExclusao :nota_850.10_4b951876200c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_817110a1d844
-:nota_850.10_817110a1d844 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_423782d0810b
+:nota_850.10_423782d0810b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A atribuição de prémios estabelecidos por acordos internacionais deve ser considerada em \"Execução da política externa/ Projetos de execução da política externa\" (200.30)".
 
-:c850.10 :temNotaExclusao :nota_850.10_817110a1d844 .
+:c850.10 :temNotaExclusao :nota_850.10_423782d0810b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_ecec75e9d895
-:nota_850.10_ecec75e9d895 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_efe78c76c26f
+:nota_850.10_efe78c76c26f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A organização de cerimónias para atribuição de prémios deve ser considerada em \"Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade\" (900.10)".
 
-:c850.10 :temNotaExclusao :nota_850.10_ecec75e9d895 .
+:c850.10 :temNotaExclusao :nota_850.10_efe78c76c26f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_13b7b6e4a289
-:nota_850.10_13b7b6e4a289 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10_d7b71c4f790b
+:nota_850.10_d7b71c4f790b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A atribuição de prémios de desempenho no exercício de funções deve ser considerada em \"Administração de relações de trabalho/ Gestão de relações individuais de trabalho\" (250.20)".
 
-:c850.10 :temNotaExclusao :nota_850.10_13b7b6e4a289 .
+:c850.10 :temNotaExclusao :nota_850.10_d7b71c4f790b .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c850.10.001
@@ -132,29 +132,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c850.10 ;
 	:descricao 'Pagamento compensatório dos custos ou perdas resultantes da exploração e prestação de serviços de interesse público que não são economicamente rentáveis. Inicia com o pedido de pagamento do subsídio ou por iniciativa da entidade pagadora e termina com a decisão de deferimento ou indeferimento do respetivo pedido. Inclui demonstração dos valores das transferências efetuadas ou a efetuar. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.001_0d90b9a57ecb
-:nota_850.10.001_0d90b9a57ecb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.001_17e4dfa46c48
+:nota_850.10.001_17e4dfa46c48 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pedidos de pagamento de subsídios de exploração e indemnizações compensatórias".
 
-:c850.10.001 :temNotaAplicacao :nota_850.10.001_0d90b9a57ecb .
+:c850.10.001 :temNotaAplicacao :nota_850.10.001_17e4dfa46c48 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.001_df44e471d1ff
-:nota_850.10.001_df44e471d1ff rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.001_58aa9808d890
+:nota_850.10.001_58aa9808d890 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O valor e a periodicidade dos pagamentos devem ser considerados em 150.20.202 – Preparação do orçamento".
 
-:c850.10.001 :temNotaExclusao :nota_850.10.001_df44e471d1ff .
+:c850.10.001 :temNotaExclusao :nota_850.10.001_58aa9808d890 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.001_5385f5dab0d6
-:nota_850.10.001_5385f5dab0d6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.001_6e8d3974ae6f
+:nota_850.10.001_6e8d3974ae6f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos aos beneficiários deverão ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c850.10.001 :temNotaExclusao :nota_850.10.001_5385f5dab0d6 .
+:c850.10.001 :temNotaExclusao :nota_850.10.001_6e8d3974ae6f .
 
 :c850.10.001 :processoTipoVC :vc_processoTipo_pe .
 :c850.10.001 :processoTransversal "S" .
@@ -233,109 +233,109 @@
 	:pertenceLC :lc1 ;
 	:temPai :c850.10 ;
 	:descricao 'Apresentação de candidaturas a programas ou projetos financiados e acompanhamento da sua execução, no âmbito de medidas enquadráveis num apoio regular ou de continuidade. Inicia com a submissão da candidatura e termina com a elaboração do relatório final de execução da operação ou projeto apoiado, elaborado aquando do fim do programa de apoio. Inclui instrução da candidatura, decisão, comunicação da atribuição do apoio, contratualização, acompanhamento e controlo da execução do projeto ou operação, apresentação de comprovativos de despesa, reajustamentos ao programa e elaboração de relatórios intercalares e relatório final, análise e avaliação dos relatórios, aprovação do encerramento do processo de apoio. Inclui ainda a eventual suspensão ou rescisão do contrato de apoio. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_2998468b8118
-:nota_850.10.002_2998468b8118 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_eb5bd51894c8
+:nota_850.10.002_eb5bd51894c8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Candidaturas recebidas por entidades que concedem apoios".
 
-:c850.10.002 :temNotaAplicacao :nota_850.10.002_2998468b8118 .
+:c850.10.002 :temNotaAplicacao :nota_850.10.002_eb5bd51894c8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_e7c7f1d3bbbf
-:nota_850.10.002_e7c7f1d3bbbf rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_533f45925e1b
+:nota_850.10.002_533f45925e1b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Candidaturas apresentadas por entidades que beneficiam de apoios".
 
-:c850.10.002 :temNotaAplicacao :nota_850.10.002_e7c7f1d3bbbf .
+:c850.10.002 :temNotaAplicacao :nota_850.10.002_533f45925e1b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_36d2724650e6
-:nota_850.10.002_36d2724650e6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_8dfd61e56b6b
+:nota_850.10.002_8dfd61e56b6b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Eventual suspensão ou rescisão do contrato de apoio".
 
-:c850.10.002 :temNotaAplicacao :nota_850.10.002_36d2724650e6 .
+:c850.10.002 :temNotaAplicacao :nota_850.10.002_8dfd61e56b6b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_1096214f0bf1
-:nota_850.10.002_1096214f0bf1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_28b12a28bd01
+:nota_850.10.002_28b12a28bd01 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Candidaturas a medidas agroambientais".
 
-:c850.10.002 :temNotaAplicacao :nota_850.10.002_1096214f0bf1 .
+:c850.10.002 :temNotaAplicacao :nota_850.10.002_28b12a28bd01 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_a26b69f881b1
-:nota_850.10.002_a26b69f881b1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_fbda8d42d12d
+:nota_850.10.002_fbda8d42d12d rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Medidas de investimento".
 
-:c850.10.002 :temNotaAplicacao :nota_850.10.002_a26b69f881b1 .
+:c850.10.002 :temNotaAplicacao :nota_850.10.002_fbda8d42d12d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_ce65fbc851f6
-:nota_850.10.002_ce65fbc851f6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_bb090180cf42
+:nota_850.10.002_bb090180cf42 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Candidaturas a bolsas de investigação".
 
-:c850.10.002 :temNotaAplicacao :nota_850.10.002_ce65fbc851f6 .
+:c850.10.002 :temNotaAplicacao :nota_850.10.002_bb090180cf42 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_06efb013d709
-:nota_850.10.002_06efb013d709 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_32129a55c9ab
+:nota_850.10.002_32129a55c9ab rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A definição dos programas operacionais e outros programas de apoio deve ser considerada em 150.10.200 – Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional".
 
-:c850.10.002 :temNotaExclusao :nota_850.10.002_06efb013d709 .
+:c850.10.002 :temNotaExclusao :nota_850.10.002_32129a55c9ab .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_714c1793eff5
-:nota_850.10.002_714c1793eff5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_985c94323fc7
+:nota_850.10.002_985c94323fc7 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A monitorização e avaliação dos programas operacionais e outros programas de apoio devem ser consideradas em 150.10.600 – Avaliação de políticas e instrumentos de operacionalização".
 
-:c850.10.002 :temNotaExclusao :nota_850.10.002_714c1793eff5 .
+:c850.10.002 :temNotaExclusao :nota_850.10.002_985c94323fc7 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_8b4d2d209633
-:nota_850.10.002_8b4d2d209633 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_4a0c0ae41162
+:nota_850.10.002_4a0c0ae41162 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A contratação de serviços ou aquisição de bens deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c850.10.002 :temNotaExclusao :nota_850.10.002_8b4d2d209633 .
+:c850.10.002 :temNotaExclusao :nota_850.10.002_4a0c0ae41162 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_6e5f443265b9
-:nota_850.10.002_6e5f443265b9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_8517680b0ac6
+:nota_850.10.002_8517680b0ac6 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos aos beneficiários devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c850.10.002 :temNotaExclusao :nota_850.10.002_6e5f443265b9 .
+:c850.10.002 :temNotaExclusao :nota_850.10.002_8517680b0ac6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_0375a1e09714
-:nota_850.10.002_0375a1e09714 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_f8c05ae673e2
+:nota_850.10.002_f8c05ae673e2 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os empréstimos no âmbito de programas de apoio financeiro para regularização do pagamento de dívidas devem ser considerados em 350.40.401 – Contração e amortização de empréstimos".
 
-:c850.10.002 :temNotaExclusao :nota_850.10.002_0375a1e09714 .
+:c850.10.002 :temNotaExclusao :nota_850.10.002_f8c05ae673e2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_d918afa95a6f
-:nota_850.10.002_d918afa95a6f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_049ab7624197
+:nota_850.10.002_049ab7624197 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A atribuição de prestações sociais e auxílios económicos dever ser considerada em “Prestação de serviços de proteção e inclusão social/Atribuição de prestações sociais e auxílios económicos” (650.10)".
 
-:c850.10.002 :temNotaExclusao :nota_850.10.002_d918afa95a6f .
+:c850.10.002 :temNotaExclusao :nota_850.10.002_049ab7624197 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_9cf5cfe9b8a9
-:nota_850.10.002_9cf5cfe9b8a9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.002_0ab4d6e0b785
+:nota_850.10.002_0ab4d6e0b785 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A concretização do projeto deverá ser considerada na função respetiva".
 
-:c850.10.002 :temNotaExclusao :nota_850.10.002_9cf5cfe9b8a9 .
+:c850.10.002 :temNotaExclusao :nota_850.10.002_0ab4d6e0b785 .
 
 :c850.10.002 :processoTipoVC :vc_processoTipo_pc .
 :c850.10.002 :processoTransversal "S" .
@@ -546,61 +546,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c850.10 ;
 	:descricao 'Apresentação de candidaturas a programas ou projetos financiados de apoio pontual e acompanhamento da sua execução, no âmbito de medidas não enquadráveis num plano de continuidade. Inicia com a submissão da candidatura e termina com a elaboração do relatório final de execução da operação ou projeto apoiado, elaborado aquando do fim do programa de apoio. Inclui preparação e apresentação do pedido formal de apoio ou da candidatura, decisão, eventual contratualização, comunicação da atribuição do apoio e eventual apresentação de comprovativos de despesa.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_cbb70be560b7
-:nota_850.10.003_cbb70be560b7 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_f0b577e33acd
+:nota_850.10.003_f0b577e33acd rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoios em situações de catástrofes naturais".
 
-:c850.10.003 :temNotaAplicacao :nota_850.10.003_cbb70be560b7 .
+:c850.10.003 :temNotaAplicacao :nota_850.10.003_f0b577e33acd .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_f7f26a209873
-:nota_850.10.003_f7f26a209873 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_19fdda448c69
+:nota_850.10.003_19fdda448c69 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoios que saiam do âmbito dos programas de apoio estabelecidos".
 
-:c850.10.003 :temNotaAplicacao :nota_850.10.003_f7f26a209873 .
+:c850.10.003 :temNotaAplicacao :nota_850.10.003_19fdda448c69 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_3ab9b8c45587
-:nota_850.10.003_3ab9b8c45587 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_f463d0c85aa1
+:nota_850.10.003_f463d0c85aa1 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A contratação de serviços ou aquisição de bens devem ser considerados em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços".
 
-:c850.10.003 :temNotaExclusao :nota_850.10.003_3ab9b8c45587 .
+:c850.10.003 :temNotaExclusao :nota_850.10.003_f463d0c85aa1 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_69a22e9b504d
-:nota_850.10.003_69a22e9b504d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_564f5a092512
+:nota_850.10.003_564f5a092512 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos aos beneficiários devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c850.10.003 :temNotaExclusao :nota_850.10.003_69a22e9b504d .
+:c850.10.003 :temNotaExclusao :nota_850.10.003_564f5a092512 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_03045e884f55
-:nota_850.10.003_03045e884f55 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_4b14951f761c
+:nota_850.10.003_4b14951f761c rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os empréstimos no âmbito de programas de apoio financeiro para regularização do pagamento de dívidas devem ser considerados em 350.40.401 – Contração e amortização de empréstimos".
 
-:c850.10.003 :temNotaExclusao :nota_850.10.003_03045e884f55 .
+:c850.10.003 :temNotaExclusao :nota_850.10.003_4b14951f761c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_6fd967a2daec
-:nota_850.10.003_6fd967a2daec rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_29e277eb5007
+:nota_850.10.003_29e277eb5007 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A atribuição de prestações sociais e auxílios económicos deve ser considerada em “Prestação de serviços de proteção e inclusão social/Atribuição de prestações sociais e auxílios económicos” (650.10)".
 
-:c850.10.003 :temNotaExclusao :nota_850.10.003_6fd967a2daec .
+:c850.10.003 :temNotaExclusao :nota_850.10.003_29e277eb5007 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_197a41467004
-:nota_850.10.003_197a41467004 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.003_d7fdbbe32e13
+:nota_850.10.003_d7fdbbe32e13 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A concretização do projeto deve ser considerada na função respetiva".
 
-:c850.10.003 :temNotaExclusao :nota_850.10.003_197a41467004 .
+:c850.10.003 :temNotaExclusao :nota_850.10.003_d7fdbbe32e13 .
 
 :c850.10.003 :processoTipoVC :vc_processoTipo_pc .
 :c850.10.003 :processoTransversal "S" .
@@ -796,13 +796,13 @@
 	:pertenceLC :lc1 ;
 	:temPai :c850.10 ;
 	:descricao 'Proposição de candidatura a ajudas diretas como forma de garantir a estabilidade nos rendimentos, no âmbito de programas financiados. Inicia com a submissão da candidatura e termina com a elaboração do relatório final de execução da operação ou projeto apoiado, elaborado aquando do fim do programa de apoio. Inclui a instrução da candidatura, decisão, comunicação da atribuição do apoio, contratualização e controlo.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.005_e28e73b8474e
-:nota_850.10.005_e28e73b8474e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.005_540571548c50
+:nota_850.10.005_540571548c50 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Ajudas diretas ao setor primário".
 
-:c850.10.005 :temNotaAplicacao :nota_850.10.005_e28e73b8474e .
+:c850.10.005 :temNotaAplicacao :nota_850.10.005_540571548c50 .
 
 :c850.10.005 :processoTipoVC :vc_processoTipo_pe .
 :c850.10.005 :processoTransversal "S" .
@@ -907,37 +907,37 @@
 	:pertenceLC :lc1 ;
 	:temPai :c850.10 ;
 	:descricao 'Valorização e estímulo da capacidade criativa, científica e técnica em ações, trabalhos e projetos cujos resultados sejam passíveis de serem reconhecidos na sociedade, apoiando o desenvolvimento, a vocação, a inovação, a capacidade de investigação e a dedicação. Inicia com a abertura de concurso, a apresentação de candidaturas ou a identificação dos eventuais candidatos e, termina, com a decisão de atribuição do prémio. Inclui, conforme o tipo de prémio, a avaliação e seleção de trabalhos, projetos ou ações passíveis de serem recompensados.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.500_99800bc55e9b
-:nota_850.10.500_99800bc55e9b rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.500_31cd4e9c919c
+:nota_850.10.500_31cd4e9c919c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Candidatura a prémios de investigação científica".
 
-:c850.10.500 :temNotaAplicacao :nota_850.10.500_99800bc55e9b .
+:c850.10.500 :temNotaAplicacao :nota_850.10.500_31cd4e9c919c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.500_793d61e7d600
-:nota_850.10.500_793d61e7d600 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.500_f1afb1f17a11
+:nota_850.10.500_f1afb1f17a11 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos aos beneficiários devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c850.10.500 :temNotaExclusao :nota_850.10.500_793d61e7d600 .
+:c850.10.500 :temNotaExclusao :nota_850.10.500_f1afb1f17a11 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.500_adb443f331bb
-:nota_850.10.500_adb443f331bb rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.500_d85e326685d3
+:nota_850.10.500_d85e326685d3 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A cerimónia de atribuição do prémio deve ser considerada em 900.10.500 – Organização e participação em homenagens e cerimónias comemorativas".
 
-:c850.10.500 :temNotaExclusao :nota_850.10.500_adb443f331bb .
+:c850.10.500 :temNotaExclusao :nota_850.10.500_d85e326685d3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.500_51182aeedd9f
-:nota_850.10.500_51182aeedd9f rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.500_61b8398d53e7
+:nota_850.10.500_61b8398d53e7 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os prémios atribuídos por atos de natureza cívica devem ser considerados em 950.30.001 – Reconhecimento por mérito e serviços prestados".
 
-:c850.10.500 :temNotaExclusao :nota_850.10.500_51182aeedd9f .
+:c850.10.500 :temNotaExclusao :nota_850.10.500_61b8398d53e7 .
 
 :c850.10.500 :processoTipoVC :vc_processoTipo_pc .
 :c850.10.500 :processoTransversal "S" .
@@ -1090,69 +1090,69 @@
 	:pertenceLC :lc1 ;
 	:temPai :c850.10 ;
 	:descricao 'Aceitação, por entidade pública, de recurso (financeiro ou material) para apoio direto ou para suporte à realização de uma atividade, acontecimento, ou a contrapartidas de caráter comercial, com o propósito de associar o nome do patrocinador a determinado evento ou iniciativa. Inicia com o pedido e termina com a decisão quanto à atribuição e forma de patrocínio. Inclui análise da proposta e negociação entre patrocinador e beneficiário, contrato de patrocínio, quando aplicável.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_b2a283fa82b1
-:nota_850.10.600_b2a283fa82b1 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_9e0624700301
+:nota_850.10.600_9e0624700301 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Patrocínio a atividades artísticas".
 
-:c850.10.600 :temNotaAplicacao :nota_850.10.600_b2a283fa82b1 .
+:c850.10.600 :temNotaAplicacao :nota_850.10.600_9e0624700301 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_4239e769fe46
-:nota_850.10.600_4239e769fe46 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_2b1a35be783a
+:nota_850.10.600_2b1a35be783a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Patrocínio a atividades culturais".
 
-:c850.10.600 :temNotaAplicacao :nota_850.10.600_4239e769fe46 .
+:c850.10.600 :temNotaAplicacao :nota_850.10.600_2b1a35be783a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_01c04eeb5b5e
-:nota_850.10.600_01c04eeb5b5e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_4f21a50f7eb5
+:nota_850.10.600_4f21a50f7eb5 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Patrocínio a atividades desportivas".
 
-:c850.10.600 :temNotaAplicacao :nota_850.10.600_01c04eeb5b5e .
+:c850.10.600 :temNotaAplicacao :nota_850.10.600_4f21a50f7eb5 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_f51e25c1be03
-:nota_850.10.600_f51e25c1be03 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_420bc79f5990
+:nota_850.10.600_420bc79f5990 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Patrocínio a atividades sociais".
 
-:c850.10.600 :temNotaAplicacao :nota_850.10.600_f51e25c1be03 .
+:c850.10.600 :temNotaAplicacao :nota_850.10.600_420bc79f5990 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_f7c520e8cd30
-:nota_850.10.600_f7c520e8cd30 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_237271acf1ca
+:nota_850.10.600_237271acf1ca rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Patrocínio institucional".
 
-:c850.10.600 :temNotaAplicacao :nota_850.10.600_f7c520e8cd30 .
+:c850.10.600 :temNotaAplicacao :nota_850.10.600_237271acf1ca .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_0eb418255e0c
-:nota_850.10.600_0eb418255e0c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_58bca65d40bc
+:nota_850.10.600_58bca65d40bc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Patrocínio promocional".
 
-:c850.10.600 :temNotaAplicacao :nota_850.10.600_0eb418255e0c .
+:c850.10.600 :temNotaAplicacao :nota_850.10.600_58bca65d40bc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_2575e9ed5ad9
-:nota_850.10.600_2575e9ed5ad9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_50785fb53d56
+:nota_850.10.600_50785fb53d56 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A disponibilização efetiva dos bens materiais deve ser considerada em 300.50.203 – Aluguer ou cedência de utilização de bens móveis não culturais".
 
-:c850.10.600 :temNotaExclusao :nota_850.10.600_2575e9ed5ad9 .
+:c850.10.600 :temNotaExclusao :nota_850.10.600_50785fb53d56 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_57f895e05edc
-:nota_850.10.600_57f895e05edc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.600_80f51e193591
+:nota_850.10.600_80f51e193591 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O pagamento do valor patrocinado deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c850.10.600 :temNotaExclusao :nota_850.10.600_57f895e05edc .
+:c850.10.600 :temNotaExclusao :nota_850.10.600_80f51e193591 .
 
 :c850.10.600 :processoTipoVC :vc_processoTipo_pc .
 :c850.10.600 :processoTransversal "S" .
@@ -1305,69 +1305,69 @@
 	:pertenceLC :lc1 ;
 	:temPai :c850.10 ;
 	:descricao 'Desenvolvimento de ações ou programas de incentivo ao financiamento, em dinheiro ou em espécie, tendo em vista a realização de projetos, atividades ou iniciativas de natureza diversa. Inicia com a proposta e termina com a assinatura do acordo. Inclui a análise da proposta, a negociação entre o mecenas e o beneficiário, a contratualização das condições acordadas e, quando aplicável, o reconhecimento do manifesto interesse da tutela pelo projeto ou ação. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_0160dab517f2
-:nota_850.10.601_0160dab517f2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_5af12ce2208b
+:nota_850.10.601_5af12ce2208b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio mecenático na área ambiental".
 
-:c850.10.601 :temNotaAplicacao :nota_850.10.601_0160dab517f2 .
+:c850.10.601 :temNotaAplicacao :nota_850.10.601_5af12ce2208b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_a3c1c990b4ea
-:nota_850.10.601_a3c1c990b4ea rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_4de43bd8140f
+:nota_850.10.601_4de43bd8140f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio mecenático na área científica ou tecnológica".
 
-:c850.10.601 :temNotaAplicacao :nota_850.10.601_a3c1c990b4ea .
+:c850.10.601 :temNotaAplicacao :nota_850.10.601_4de43bd8140f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_358f9ee53c9d
-:nota_850.10.601_358f9ee53c9d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_fdaf539fc871
+:nota_850.10.601_fdaf539fc871 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio mecenático na área cultural".
 
-:c850.10.601 :temNotaAplicacao :nota_850.10.601_358f9ee53c9d .
+:c850.10.601 :temNotaAplicacao :nota_850.10.601_fdaf539fc871 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_1641dc0071a3
-:nota_850.10.601_1641dc0071a3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_816b7f796132
+:nota_850.10.601_816b7f796132 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio mecenático na área desportiva".
 
-:c850.10.601 :temNotaAplicacao :nota_850.10.601_1641dc0071a3 .
+:c850.10.601 :temNotaAplicacao :nota_850.10.601_816b7f796132 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_197f3b03cc78
-:nota_850.10.601_197f3b03cc78 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_1d7dd0f8119e
+:nota_850.10.601_1d7dd0f8119e rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio mecenático na área educacional".
 
-:c850.10.601 :temNotaAplicacao :nota_850.10.601_197f3b03cc78 .
+:c850.10.601 :temNotaAplicacao :nota_850.10.601_1d7dd0f8119e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_43ffa3e4800c
-:nota_850.10.601_43ffa3e4800c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_db572d823b7b
+:nota_850.10.601_db572d823b7b rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Apoio mecenático na área social".
 
-:c850.10.601 :temNotaAplicacao :nota_850.10.601_43ffa3e4800c .
+:c850.10.601 :temNotaAplicacao :nota_850.10.601_db572d823b7b .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_b4192e54d1e2
-:nota_850.10.601_b4192e54d1e2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_d6a487ad59cc
+:nota_850.10.601_d6a487ad59cc rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O registo do bem doado deve ser considerado em “Administração de direitos, bens e serviços/Identificação e caracterização de bens” (300.30)".
 
-:c850.10.601 :temNotaExclusao :nota_850.10.601_b4192e54d1e2 .
+:c850.10.601 :temNotaExclusao :nota_850.10.601_d6a487ad59cc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_16e09d70118a
-:nota_850.10.601_16e09d70118a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.10.601_2d6fcf61574f
+:nota_850.10.601_2d6fcf61574f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O fluxo financeiro relativo ao apoio mecenático deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c850.10.601 :temNotaExclusao :nota_850.10.601_16e09d70118a .
+:c850.10.601 :temNotaExclusao :nota_850.10.601_2d6fcf61574f .
 
 :c850.10.601 :processoTipoVC :vc_processoTipo_pc .
 :c850.10.601 :processoTransversal "S" .
@@ -1484,29 +1484,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c850 ;
 	:descricao 'Compreende as atividades de atribuição e controlo das bonificações e benefícios ao investimento concedidas pelo Estado.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.30_76f12a0a8f44
-:nota_850.30_76f12a0a8f44 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30_8632d25416ec
+:nota_850.30_8632d25416ec rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Bonificação de juros no crédito à habitação".
 
-:c850.30 :temNotaAplicacao :nota_850.30_76f12a0a8f44 .
+:c850.30 :temNotaAplicacao :nota_850.30_8632d25416ec .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.30_ce1044313ee8
-:nota_850.30_ce1044313ee8 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30_64dc40ebf0dc
+:nota_850.30_64dc40ebf0dc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Bonificação ao gasóleo utilizado na atividade agrícola".
 
-:c850.30 :temNotaAplicacao :nota_850.30_ce1044313ee8 .
+:c850.30 :temNotaAplicacao :nota_850.30_64dc40ebf0dc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.30_01b4d5c332bf
-:nota_850.30_01b4d5c332bf rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30_2279e0f38353
+:nota_850.30_2279e0f38353 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Benefícios fiscais ao investimento".
 
-:c850.30 :temNotaAplicacao :nota_850.30_01b4d5c332bf .
+:c850.30 :temNotaAplicacao :nota_850.30_2279e0f38353 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c850.30.001
@@ -1518,53 +1518,53 @@
 	:pertenceLC :lc1 ;
 	:temPai :c850.30 ;
 	:descricao 'Concessão de bonificações a entidades nacionais e estrangeiras, através de linhas de crédito bonificadas e criadas por diploma próprio, nos setores do arrendamento urbano, eventos nacionais, intempéries, calamidades, crédito de ajuda, entre outros. Inicia com um pedido e termina com a decisão de atribuição da bonificação. Inclui a análise dos elementos e a elaboração de pareceres. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_4bf9cfdee55a
-:nota_850.30.001_4bf9cfdee55a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_80c8bc04b5a8
+:nota_850.30.001_80c8bc04b5a8 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Crédito à habitação bonificado".
 
-:c850.30.001 :temNotaAplicacao :nota_850.30.001_4bf9cfdee55a .
+:c850.30.001 :temNotaAplicacao :nota_850.30.001_80c8bc04b5a8 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_d681c71a4515
-:nota_850.30.001_d681c71a4515 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_df7816dcc26a
+:nota_850.30.001_df7816dcc26a rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Linhas de crédito destinadas à agricultura".
 
-:c850.30.001 :temNotaAplicacao :nota_850.30.001_d681c71a4515 .
+:c850.30.001 :temNotaAplicacao :nota_850.30.001_df7816dcc26a .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_0f5b57009df3
-:nota_850.30.001_0f5b57009df3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_ff7598a1378f
+:nota_850.30.001_ff7598a1378f rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Linhas de crédito destinadas à pecuária".
 
-:c850.30.001 :temNotaAplicacao :nota_850.30.001_0f5b57009df3 .
+:c850.30.001 :temNotaAplicacao :nota_850.30.001_ff7598a1378f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_cc2ebdab3dd2
-:nota_850.30.001_cc2ebdab3dd2 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_528e585259dc
+:nota_850.30.001_528e585259dc rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Linhas de crédito destinadas às pescas".
 
-:c850.30.001 :temNotaAplicacao :nota_850.30.001_cc2ebdab3dd2 .
+:c850.30.001 :temNotaAplicacao :nota_850.30.001_528e585259dc .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_228c93d82aa9
-:nota_850.30.001_228c93d82aa9 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_87d349627d1d
+:nota_850.30.001_87d349627d1d rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A celebração de protocolos deve ser considerada em 150.10.500 – Elaboração de instrumentos de cooperação interinstitucional".
 
-:c850.30.001 :temNotaExclusao :nota_850.30.001_228c93d82aa9 .
+:c850.30.001 :temNotaExclusao :nota_850.30.001_87d349627d1d .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_65dedaad27c6
-:nota_850.30.001_65dedaad27c6 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.001_0d52ef642502
+:nota_850.30.001_0d52ef642502 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos aos beneficiários devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c850.30.001 :temNotaExclusao :nota_850.30.001_65dedaad27c6 .
+:c850.30.001 :temNotaExclusao :nota_850.30.001_0d52ef642502 .
 
 :c850.30.001 :processoTipoVC :vc_processoTipo_pe .
 :c850.30.001 :processoTransversal "S" .
@@ -1645,61 +1645,61 @@
 	:pertenceLC :lc1 ;
 	:temPai :c850.30 ;
 	:descricao 'Aplicação do regime de benefícios ao investimento produtivo a entidades contratualizadas. Inicia com a negociação contratual entre as partes e termina com a aplicação do contrato. Inclui todos os procedimentos para a análise e cálculo dos benefícios e incentivos. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.002_371ff3d7ac28
-:nota_850.30.002_371ff3d7ac28 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.002_55727f1b2543
+:nota_850.30.002_55727f1b2543 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Todos os tipos de benefícios ou incentivos fiscais ou aduaneiros, objeto de contratualização com o Estado Português para projetos de investimento".
 
-:c850.30.002 :temNotaAplicacao :nota_850.30.002_371ff3d7ac28 .
+:c850.30.002 :temNotaAplicacao :nota_850.30.002_55727f1b2543 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.002_21c1aef2d706
-:nota_850.30.002_21c1aef2d706 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.002_eb84a194fc91
+:nota_850.30.002_eb84a194fc91 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Medidas fiscais que obedeçam às caraterísticas enunciadas no nº 1 do artº 2º do Estatuto dos Benefícios Fiscais".
 
-:c850.30.002 :temNotaAplicacao :nota_850.30.002_21c1aef2d706 .
+:c850.30.002 :temNotaAplicacao :nota_850.30.002_eb84a194fc91 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_850.30.002_a1d423991472
-:exemplo_850.30.002_a1d423991472 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_850.30.002_56bbc2dfca56
+:exemplo_850.30.002_56bbc2dfca56 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Isenções".
 
-:c850.30.002 :temExemploNA :exemplo_850.30.002_a1d423991472 .
+:c850.30.002 :temExemploNA :exemplo_850.30.002_56bbc2dfca56 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_850.30.002_5c3e81c27a52
-:exemplo_850.30.002_5c3e81c27a52 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_850.30.002_849a072dbbd3
+:exemplo_850.30.002_849a072dbbd3 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Reduções de taxas".
 
-:c850.30.002 :temExemploNA :exemplo_850.30.002_5c3e81c27a52 .
+:c850.30.002 :temExemploNA :exemplo_850.30.002_849a072dbbd3 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_850.30.002_809376ec130c
-:exemplo_850.30.002_809376ec130c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_850.30.002_aeab275f0c49
+:exemplo_850.30.002_aeab275f0c49 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Crédito de imposto".
 
-:c850.30.002 :temExemploNA :exemplo_850.30.002_809376ec130c .
+:c850.30.002 :temExemploNA :exemplo_850.30.002_aeab275f0c49 .
 
-###  http://jcr.di.uminho.pt/m51-clav#exemplo_850.30.002_60e78104ad69
-:exemplo_850.30.002_60e78104ad69 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#exemplo_850.30.002_4f1762b648e9
+:exemplo_850.30.002_4f1762b648e9 rdf:type owl:NamedIndividual ,
 		:ExemploNotaAplicacao ;
 	:rdfs:label "Exemplo de nota de aplicação";
 	:conteudo "Eliminação de dupla tributação".
 
-:c850.30.002 :temExemploNA :exemplo_850.30.002_60e78104ad69 .
+:c850.30.002 :temExemploNA :exemplo_850.30.002_4f1762b648e9 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.002_2a510d73c397
-:nota_850.30.002_2a510d73c397 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.002_ea4cfb7a9a5b
+:nota_850.30.002_ea4cfb7a9a5b rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O processamento de benefícios e incentivos fiscais e aduaneiros não contratuais deve ser considerado em 350.10.504 – Processamento de benefícios e incentivos fiscais e aduaneiros não contratuais".
 
-:c850.30.002 :temNotaExclusao :nota_850.30.002_2a510d73c397 .
+:c850.30.002 :temNotaExclusao :nota_850.30.002_ea4cfb7a9a5b .
 
 :c850.30.002 :processoTipoVC :vc_processoTipo_pe .
 :c850.30.002 :processoTransversal "N" .
@@ -1848,21 +1848,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c850.30 ;
 	:descricao 'Aplicação de isenção de direitos de importação a produtos agrícolas essenciais importados de países terceiros para regiões ultraperiféricas da União Europeia. Inicia com a solicitação do operador e termina com a decisão. Inclui a validação face a alterações/transferências efetuadas às estimativas durante a campanha.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.004_d4e2302ce7db
-:nota_850.30.004_d4e2302ce7db rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.004_c30a3bbb1c6e
+:nota_850.30.004_c30a3bbb1c6e rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "O acompanhamento e avaliação do Programa, nomeadamente o reporte trimestral e o relatório geral do impacto das ações, devem ser considerados em 150.10.600 – Avaliação de políticas e instrumentos de operacionalização".
 
-:c850.30.004 :temNotaExclusao :nota_850.30.004_d4e2302ce7db .
+:c850.30.004 :temNotaExclusao :nota_850.30.004_c30a3bbb1c6e .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.004_e5adb32bcecc
-:nota_850.30.004_e5adb32bcecc rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.004_ff64e7b6cb48
+:nota_850.30.004_ff64e7b6cb48 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A concessão de ajudas ao abastecimento das regiões ultraperiféricas deve ser considerada em 850.10.002 - Formalização de candidaturas e acompanhamento de apoios regulares".
 
-:c850.30.004 :temNotaExclusao :nota_850.30.004_e5adb32bcecc .
+:c850.30.004 :temNotaExclusao :nota_850.30.004_ff64e7b6cb48 .
 
 :c850.30.004 :processoTipoVC :vc_processoTipo_pe .
 :c850.30.004 :processoTransversal "N" .
@@ -1923,21 +1923,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c850.30 ;
 	:descricao 'Registo e controlo dos pagamentos das bonificações de juros e incentivos. Inicia com a receção de comprovativos de despesa e termina com a decisão sobre a conformidade da despesa. Inclui a análise dos mapas de valores a pagar por classificação económica, das reclamações conferidas e não conferidas, dos mapas de execução orçamental anual e da lista de valores pagos por atividade. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.500_1de9890bfc99
-:nota_850.30.500_1de9890bfc99 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.500_c524d752c1cf
+:nota_850.30.500_c524d752c1cf rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A fiscalização dos incentivos deve ser considerada em 500.10.300 – Realização de fiscalização".
 
-:c850.30.500 :temNotaExclusao :nota_850.30.500_1de9890bfc99 .
+:c850.30.500 :temNotaExclusao :nota_850.30.500_c524d752c1cf .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.500_f558d6ca0372
-:nota_850.30.500_f558d6ca0372 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.30.500_15670969a006
+:nota_850.30.500_15670969a006 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A avaliação dos programas deve ser considerada em 150.10.600 – Avaliação de políticas e instrumentos de operacionalização".
 
-:c850.30.500 :temNotaExclusao :nota_850.30.500_f558d6ca0372 .
+:c850.30.500 :temNotaExclusao :nota_850.30.500_15670969a006 .
 
 :c850.30.500 :processoTipoVC :vc_processoTipo_pe .
 :c850.30.500 :processoTransversal "S" .
@@ -2004,29 +2004,29 @@
 	:pertenceLC :lc1 ;
 	:temPai :c850 ;
 	:descricao 'Compreende os processos da iniciativa do Estado na concessão de garantias com caráter de exceção e de acordo com o plafond estabelecido na Lei do Orçamento de Estado, em operações financeiras celebradas por entidades nacionais e com países terceiros.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40_216cd54c3650
-:nota_850.40_216cd54c3650 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40_49b71834219c
+:nota_850.40_49b71834219c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Garantias que assegurem a realização de operações de crédito ou de outras operações financeiras, nacionais ou internacionais, de que sejam beneficiárias entidades públicas, empresas nacionais ou outras empresas que legalmente gozem de igualdade de tratamento".
 
-:c850.40 :temNotaAplicacao :nota_850.40_216cd54c3650 .
+:c850.40 :temNotaAplicacao :nota_850.40_49b71834219c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40_b7c53e3eac73
-:nota_850.40_b7c53e3eac73 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40_8ba12e2223f6
+:nota_850.40_8ba12e2223f6 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Garantias que assegurem a viabilidade financeira de empresas em situação financeira difícil".
 
-:c850.40 :temNotaAplicacao :nota_850.40_b7c53e3eac73 .
+:c850.40 :temNotaAplicacao :nota_850.40_8ba12e2223f6 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40_79406cab563d
-:nota_850.40_79406cab563d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40_28027b853104
+:nota_850.40_28027b853104 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Garantias que assegurem o cumprimento das obrigações assumidas em contratos de financiamento, incluindo a renovação das respetivas operações por parte das instituições de crédito sedeadas em Portugal".
 
-:c850.40 :temNotaAplicacao :nota_850.40_79406cab563d .
+:c850.40 :temNotaAplicacao :nota_850.40_28027b853104 .
 
 
 ###  http://jcr.di.uminho.pt/m51-clav#c850.40.001
@@ -2038,21 +2038,21 @@
 	:pertenceLC :lc1 ;
 	:temPai :c850.40 ;
 	:descricao 'Concessão, gestão e execução de garantias pessoais a entidades externas e internas, sob a forma de fiança ou aval, no âmbito de empreendimentos ou projetos de interesse para a economia nacional. Inicia com o pedido dos beneficiários da garantia do Estado ou de um membro do Governo para análise da entidade responsável pelas garantias e subsequente pedido de parecer ao à entidade responsável pela dívida pública e à tutela setorial e termina com a execução da garantia. Inclui pedidos de autorização/manutenção de garantia, minutas dos contratos de empréstimo ou da operação financeira, planos de utilização do financiamento e esquemas de reembolso, propostas de concessão de garantia, pareceres com despachos ministeriais, despacho do membro do Governo competente a autorizar a emissão da garantia, contratos com garantia do Estado e respetivos aditamentos, assim como mapas dos planos de amortização de capital, definição de juros e comissões de garantia, programas, declarações de garantia, entre outros.' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.001_f9188d79ec6a
-:nota_850.40.001_f9188d79ec6a rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.001_fd2ad127cc9f
+:nota_850.40.001_fd2ad127cc9f rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A celebração de protocolos deve ser considerada em 150.10.500 – Elaboração de instrumentos de cooperação interinstitucional".
 
-:c850.40.001 :temNotaExclusao :nota_850.40.001_f9188d79ec6a .
+:c850.40.001 :temNotaExclusao :nota_850.40.001_fd2ad127cc9f .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.001_2f70ef45f7fa
-:nota_850.40.001_2f70ef45f7fa rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.001_490c9a4767e8
+:nota_850.40.001_490c9a4767e8 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos aos beneficiários deverão ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c850.40.001 :temNotaExclusao :nota_850.40.001_2f70ef45f7fa .
+:c850.40.001 :temNotaExclusao :nota_850.40.001_490c9a4767e8 .
 
 :c850.40.001 :processoTipoVC :vc_processoTipo_pe .
 :c850.40.001 :processoTransversal "S" .
@@ -2117,101 +2117,101 @@
 	:pertenceLC :lc1 ;
 	:temPai :c850.40 ;
 	:descricao 'Concessão e gestão de garantias a operações de seguro do risco de crédito, de produção e de investimento com a garantia do Estado, nomeadamente no contexto da exportação de bens ou serviços de origem portuguesa ou de investimento português no estrangeiro. Inicia com o pedido da seguradora ao Estado para emissão da garantia, sob a forma de seguro, e termina com a eventual autorização do membro do Governo a efetivar a emissão da garantia. Inclui garantias de operações individuais de crédito ou de investimento, de apólices globais, de seguro-caução, de linhas de crédito a estabelecer com países da cooperação portuguesa, pedidos de posição de princípio sobre cobertura da exportação de bens e serviços de origem portuguesa, despachos de autorização de garantia, incluindo os da tutela, prorrogações de prazos de utilização das operações seguras, cobranças de prémios, pedidos de indemnização e respetivos pagamentos. ' .
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_c1083836c120
-:nota_850.40.500_c1083836c120 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_f8a456833564
+:nota_850.40.500_f8a456833564 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Garantias sobre o seguro de colheita e de fabrico".
 
-:c850.40.500 :temNotaAplicacao :nota_850.40.500_c1083836c120 .
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_f8a456833564 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_e887c135fcec
-:nota_850.40.500_e887c135fcec rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_721cfc2feeb2
+:nota_850.40.500_721cfc2feeb2 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Garantias de operações individuais de crédito ou de investimento".
 
-:c850.40.500 :temNotaAplicacao :nota_850.40.500_e887c135fcec .
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_721cfc2feeb2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_34674247706c
-:nota_850.40.500_34674247706c rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_2d440ea30a36
+:nota_850.40.500_2d440ea30a36 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Garantias de operações de apólices globais".
 
-:c850.40.500 :temNotaAplicacao :nota_850.40.500_34674247706c .
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_2d440ea30a36 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_1e4c95c6952e
-:nota_850.40.500_1e4c95c6952e rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_ed0d04fe6447
+:nota_850.40.500_ed0d04fe6447 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Garantias de operações individuais".
 
-:c850.40.500 :temNotaAplicacao :nota_850.40.500_1e4c95c6952e .
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_ed0d04fe6447 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_928756f9e195
-:nota_850.40.500_928756f9e195 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_2aa57ae078af
+:nota_850.40.500_2aa57ae078af rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Garantias de seguro-caução".
 
-:c850.40.500 :temNotaAplicacao :nota_850.40.500_928756f9e195 .
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_2aa57ae078af .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_abac7e6a5761
-:nota_850.40.500_abac7e6a5761 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_009a8e7a1346
+:nota_850.40.500_009a8e7a1346 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Garantias de linhas de crédito a estabelecer com países da cooperação portuguesa".
 
-:c850.40.500 :temNotaAplicacao :nota_850.40.500_abac7e6a5761 .
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_009a8e7a1346 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_16e4e041e2f5
-:nota_850.40.500_16e4e041e2f5 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_57af965ab416
+:nota_850.40.500_57af965ab416 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Pedidos de posição de princípio sobre cobertura da exportação de bens e serviços de origem portuguesa".
 
-:c850.40.500 :temNotaAplicacao :nota_850.40.500_16e4e041e2f5 .
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_57af965ab416 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_a8330f899e2d
-:nota_850.40.500_a8330f899e2d rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_bdc7162c031c
+:nota_850.40.500_bdc7162c031c rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Garantias às exportações".
 
-:c850.40.500 :temNotaAplicacao :nota_850.40.500_a8330f899e2d .
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_bdc7162c031c .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_b54427d92b09
-:nota_850.40.500_b54427d92b09 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_cae16408d8ae
+:nota_850.40.500_cae16408d8ae rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Garantias ao financiamento".
 
-:c850.40.500 :temNotaAplicacao :nota_850.40.500_b54427d92b09 .
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_cae16408d8ae .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_c85e543f2ae3
-:nota_850.40.500_c85e543f2ae3 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_5c047f235574
+:nota_850.40.500_5c047f235574 rdf:type owl:NamedIndividual ,
 		:NotaAplicacao ;
 	:rdfs:label "Nota de Aplicação";
 	:conteudo "Reportes semestrais sobre garantias a operações de seguro do risco".
 
-:c850.40.500 :temNotaAplicacao :nota_850.40.500_c85e543f2ae3 .
+:c850.40.500 :temNotaAplicacao :nota_850.40.500_5c047f235574 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_e075c74e4940
-:nota_850.40.500_e075c74e4940 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_487691b0dbc2
+:nota_850.40.500_487691b0dbc2 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "A celebração de protocolos deve ser considerada em 150.10.500 – Elaboração de instrumentos de cooperação interinstitucional".
 
-:c850.40.500 :temNotaExclusao :nota_850.40.500_e075c74e4940 .
+:c850.40.500 :temNotaExclusao :nota_850.40.500_487691b0dbc2 .
 
-###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_5c504e822212
-:nota_850.40.500_5c504e822212 rdf:type owl:NamedIndividual ,
+###  http://jcr.di.uminho.pt/m51-clav#nota_850.40.500_6da754da9658
+:nota_850.40.500_6da754da9658 rdf:type owl:NamedIndividual ,
 		:NotaExclusao ;
 	:rdfs:label "Nota de Exclusão";
 	:conteudo "Os pagamentos aos beneficiários deverão ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas".
 
-:c850.40.500 :temNotaExclusao :nota_850.40.500_5c504e822212 .
+:c850.40.500 :temNotaExclusao :nota_850.40.500_6da754da9658 .
 
 :c850.40.500 :processoTipoVC :vc_processoTipo_pe .
 :c850.40.500 :processoTransversal "S" .
